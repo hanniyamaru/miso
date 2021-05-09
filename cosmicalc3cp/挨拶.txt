@@ -1,0 +1,26 @@
+CosmiCalc Ver.3.3.7-Custom
+
+偉大なるCosmiCalc製作者に感謝。
+
+使用上の注意
+・利用に当たっては、MIT-LICENSEに従ってご利用ください。
+・この改造品についての質問を本家コミュニティにて質問しないでください。
+・このデータを利用しての問題には責任を負えませんのでご了承ください。
+
+使用方法
+データベースの更新は自動で行えない為、最新のデータベースをCODE-Webよりダウンロードしていただき、
+dataフォルダ内のファイルへ上書きしてください。
+実行は、index.htmlからできます。
+
+
+本家CosmiCalcページ
+http://www17.atpages.jp/cosmicalc/
+
+CODE-Web
+http://www17.atpages.jp/cosmicalc/code-web/
+
+CosmiCacl CustomVer
+http://promerufon.hotcom-web.com/cosmicalc3cp/
+
+
+promerufon
