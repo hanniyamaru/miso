@@ -5,316 +5,504 @@
 <title>CosmiCalc</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="content-style-type" content="text/css">
-	<meta http-equiv="Content-Script-Type" content="text/javascript; charset=UTF-8" />
-	<link type="text/css" href="cosmicalc.css" rel="stylesheet" />
-	<link rel="shortcut icon" href="img/favicon.ico" />
-	<script type="text/javascript" src="js/jquery.min.js"></script>
-	<script type="text/javascript" src="js/cosmicalc.min.js"></script>
+<meta http-equiv="Content-Script-Type" content="text/javascript; charset=UTF-8" />
+<link type="text/css" href="cosmicalc.css" rel="stylesheet" />
+<link rel="shortcut icon" href="img/favicon.ico" />
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/cosmicalc.min.js"></script>
 </head>
 
 <body>
-	<div id="HEADER">
-		<div id="VERSION">CosmiCalc</div><img src="img/wolf1.png" width="20" height="21">
-<div id="LINK_CONTAINER"><font color="#ffffff" size="-2">【Exコアチューンをする場合該当ステータス-10で計算してください。】</font><font color="#ffff00" size="-1">最終更新日(2019/02/23)</font>
-			<a href="https://twitter.com/wall_of_purple" target="blank">_ twitter(連絡先) _</a>
-			<a href="http://www42.atwiki.jp/cosmicbreak" target="_blank">_ CB wiki _</a>
-			<a href="http://www.cosmicbreak.jp" target="_blank">_ CB 公式 _</a>
-		</div>
-</div>
+    <div id="HEADER">
+        <div id="VERSION">CosmiCalc&#x1f499;</div>
+        <!--<img src="img/wolf1.png" width="20" height="21"> -->
+        <div id="LINK_CONTAINER">
+            <!-- <font color="#ffffff" size="-2">【Exコアチューンをする場合該当ステータス-10で計算してください。】</font> -->
+            <font color="#ffff00" size="-1">最終更新日(2021/05/08)</font>
+            <a href="https://twitter.com/pamapamanent" target="blank">_ twitter(連絡先) _</a>
+            <a href="https://w.atwiki.jp/zy_kani/pages/1.html" target="_blank">_ CBUNI wiki _</a>
+            <a href="https://store.steampowered.com/app/1140620/_/" target="_blank">_ CBUNI Steamストアページ _</a>
+        </div>
+    </div>
 
-	<table id="MAIN_CONTENT_CONTAINER" cellspacing="0" cellpadding="0">
-	<thead><tr><td colspan="5" class="frame"><img id="FRAME_LT" src="img/frame/LT.gif" alt="_"/><div id="FRAME_CT"></div><img id="FRAME_RT" src="img/frame/RT.gif" alt="_"/></td></tr></thead>
-	<tfoot><tr><td colspan="5" class="frame"><img id="FRAME_LB" src="img/frame/LB.gif" alt="_"/><div id="FRAME_CB"></div><img id="FRAME_RB" src="img/frame/RB.gif" alt="_"/></td></tr></tfoot>
-	<tbody>
-	<tr><td id="FRAME_LM" class="frame"></td>
-		<td id="LEFT_CONTENT_CONTAINER">
+    <table id="MAIN_CONTENT_CONTAINER" cellspacing="0" cellpadding="0">
+        <thead>
+            <tr>
+                <td colspan="5" class="frame">
+                    <img id="FRAME_LT" src="img/frame/LT.gif" alt="_" />
+                    <div id="FRAME_CT"></div>
+                    <img id="FRAME_RT" src="img/frame/RT.gif" alt="_" />
+                </td>
+            </tr>
+        </thead>
+        <tfoot>
+            <tr>
+                <td colspan="5" class="frame">
+                    <img id="FRAME_LB" src="img/frame/LB.gif" alt="_" />
+                    <div id="FRAME_CB"></div>
+                    <img id="FRAME_RB" src="img/frame/RB.gif" alt="_" />
+                </td>
+            </tr>
+        </tfoot>
+        <tbody>
+            <tr>
+                <td id="FRAME_LM" class="frame"></td>
+                <td id="LEFT_CONTENT_CONTAINER">
 
-		<div id="ROBO_NAME_CONTAINER">
-			<div id="ROBO_NAME">ROBO NAME</div>
-		</div>
+                    <div id="ROBO_NAME_CONTAINER">
+                        <div id="ROBO_NAME">ROBO NAME</div>
+                    </div>
 
-		<table id="JUDGE_SORTIE" class="ng" cellspacing="0" cellpadding="0" border="0">
-			<tbody>
-				<tr id="CHECK_COST"><th class="check_title">COST</th><td class="check_val">OK</td></tr>
-				<tr id="CHECK_BS"><th class="check_title">BS</th><td class="check_val ng">NG</td></tr>
-				<tr id="CHECK_LG"><th class="check_title">LG</th><td class="check_val ng">NG</td></tr>
-			<tbody>
-		</table>
+                    <table id="JUDGE_SORTIE" class="ng" cellspacing="0" cellpadding="0" border="0">
+                        <tbody>
+                            <tr id="CHECK_COST">
+                                <th class="check_title">COST</th>
+                                <td class="check_val">OK</td>
+                            </tr>
+                            <tr id="CHECK_BS">
+                                <th class="check_title">BS</th>
+                                <td class="check_val ng">NG</td>
+                            </tr>
+                            <tr id="CHECK_LG">
+                                <th class="check_title">LG</th>
+                                <td class="check_val ng">NG</td>
+                            </tr>
+                        <tbody>
+                    </table>
 
-		<table class="res_item_container" cellspacing="0" cellpadding="0" border="0">
-			<caption>&nbsp;</caption>
-			<tbody>
-				<tr id="RES_COST"><td class="res_item_name t4">COST</td><td class="res_current_val">0</td><td class="res_add_val"></td></tr>
-				<tr id="RES_CAPA"><td class="res_item_name t4">CAPA</td><td class="res_current_val">0</td><td class="res_add_val"></td></tr>
-			</tbody>
-		</table>
+                    <table class="res_item_container" cellspacing="0" cellpadding="0" border="0">
+                        <caption>&nbsp;</caption>
+                        <tbody>
+                            <tr id="RES_COST">
+                                <td class="res_item_name t4">COST</td>
+                                <td class="res_current_val">0</td>
+                                <td class="res_add_val"></td>
+                            </tr>
+                            <tr id="RES_CAPA">
+                                <td class="res_item_name t4">CAPA</td>
+                                <td class="res_current_val">0</td>
+                                <td class="res_add_val"></td>
+                            </tr>
+                        </tbody>
+                    </table>
 
-		<div id="RES_TYPE" class="res_item_container"><div class="res_item_name t4">TYPE</div><div class="res_current_val">-</div><div class="res_add_val"></div></div>
-		<div id="RES_SIZE" class="res_item_container"><div class="res_item_name t4">SIZE</div><div class="res_current_val">-</div><div class="res_add_val"></div></div>
-		<div id="RES_HP" class="res_item_container"><div class="res_item_name">HP</div><div class="res_current_val">0</div><div class="res_add_val"></div></div>
+                    <div id="RES_TYPE" class="res_item_container">
+                        <div class="res_item_name t4">TYPE</div>
+                        <div class="res_current_val">-</div>
+                        <div class="res_add_val"></div>
+                    </div>
+                    <div id="RES_SIZE" class="res_item_container">
+                        <div class="res_item_name t4">SIZE</div>
+                        <div class="res_current_val">-</div>
+                        <div class="res_add_val"></div>
+                    </div>
+                    <div id="RES_HP" class="res_item_container">
+                        <div class="res_item_name">HP</div>
+                        <div class="res_current_val">0</div>
+                        <div class="res_add_val"></div>
+                    </div>
 
-		<table id="RESULT_TABLE" class="res_item_container" cellspacing="0" cellpadding="0" border="0">
-			<tbody>
-				<tr id="RES_STR"><td class="res_item_name">STR</td><td class="res_current_val">0</td><td class="res_add_val">　</td><td class="res_graph">　</td></tr>
-				<tr id="RES_TEC"><td class="res_item_name">TEC</td><td class="res_current_val">0</td><td class="res_add_val"></td><td class="res_graph"></td></tr>
-				<tr id="RES_WLK"><td class="res_item_name">WLK</td><td class="res_current_val">0</td><td class="res_add_val"></td><td class="res_graph"></td></tr>
-				<tr id="RES_FLY"><td class="res_item_name">FLY</td><td class="res_current_val">0</td><td class="res_add_val"></td><td class="res_graph"></td></tr>
-				<tr id="RES_TGH"><td class="res_item_name">TGH</td><td class="res_current_val">0</td><td class="res_add_val"></td><td class="res_graph"></td></tr>
-			</tbody>
-		</table>
+                    <table id="RESULT_TABLE" class="res_item_container" cellspacing="0" cellpadding="0" border="0">
+                        <tbody>
+                            <tr id="RES_STR">
+                                <td class="res_item_name">STR</td>
+                                <td class="res_current_val">0</td>
+                                <td class="res_add_val"></td>
+                                <td class="res_graph"></td>
+                            </tr>
+                            <tr id="RES_TEC">
+                                <td class="res_item_name">TEC</td>
+                                <td class="res_current_val">0</td>
+                                <td class="res_add_val"></td>
+                                <td class="res_graph"></td>
+                            </tr>
+                            <tr id="RES_WLK">
+                                <td class="res_item_name">WLK</td>
+                                <td class="res_current_val">0</td>
+                                <td class="res_add_val"></td>
+                                <td class="res_graph"></td>
+                            </tr>
+                            <tr id="RES_FLY">
+                                <td class="res_item_name">FLY</td>
+                                <td class="res_current_val">0</td>
+                                <td class="res_add_val"></td>
+                                <td class="res_graph"></td>
+                            </tr>
+                            <tr id="RES_TGH">
+                                <td class="res_item_name">TGH</td>
+                                <td class="res_current_val">0</td>
+                                <td class="res_add_val"></td>
+                                <td class="res_graph"></td>
+                            </tr>
+                        </tbody>
+                    </table>
 
-		<hr class="line"/>
+                    <hr class="line" />
 
-		<div id="FUNCTION_CONTAINER">
-			<div id="TEXT_IO_BUTTON">
-				テキスト：
-				<span id="TIO_OUT" class="button">通常出</span>
-				<span id="TIO_COMP_OUT" class="button">圧縮出</span>
-				<span id="TIO_IN" class="button">読込</span>
-			</div>
+                    <div id="FUNCTION_CONTAINER">
+                        <div id="TEXT_IO_BUTTON">テキスト： <span id="TIO_OUT" class="button">通常出</span> <span id="TIO_COMP_OUT" class="button">圧縮出</span> <span id="TIO_IN" class="button">読込</span>
+                        </div>
 
-			<dl id="SAVE_SLOT">
-				<dt id="SS_DOWN_IMG">▼</dt>
-				<dt id="SS_CURRENT_VAL">slot 0: no data</dt>
-				<dd id="SS_LIST"></dd>
-			</dl>
-			<div id="SS_BOTTON">
-				<span id="CHANGE_ROBO_NAME" class="button">ロボ名変更</span>
-				<span id="SS_SAVE" class="button">保存</span>
-				<span id="SS_READ" class="button">読込</span>
-				<span id="SS_CLEAR" class="button">消去</span>
-			</div>
-		</div>
+                        <dl id="SAVE_SLOT">
+                            <dt id="SS_DOWN_IMG">▼</dt>
+                            <dt id="SS_CURRENT_VAL">slot 0: no data</dt>
+                            <dd id="SS_LIST"></dd>
+                        </dl>
+                        <div id="SS_BOTTON">
+                            <span id="CHANGE_ROBO_NAME" class="button">ロボ名変更</span> <span id="SS_SAVE" class="button">保存</span> <span id="SS_READ" class="button">読込</span> <span id="SS_CLEAR" class="button">消去</span>
+                        </div>
+                    </div>
 
-		<hr class="line"/>
+                    <hr class="line" />
 
-		<div id="MESSAGE"></div>
+                    <div id="MESSAGE"></div>
 
-		<div id="LAST_MODIFIED"></div>
+                    <div id="LAST_MODIFIED"></div>
 
-	</td><td id="ASSEMBLE_CONTAINER">
+                </td>
+                <td id="ASSEMBLE_CONTAINER">
 
-		<div id="PARTS_TEMPLATE">
-			<div class="branch">
-				<input type="text" class="select_box" value="-" /><div class="slot"></div><div class="slot"></div><div class="slot"></div>
-				<div class="branch_line"></div>
-			</div>
-		</div>
+                    <div id="PARTS_TEMPLATE">
+                        <div class="branch">
+                            <input type="text" class="select_box" value="-" />
+                            <div class="slot"></div>
+                            <div class="slot"></div>
+                            <div class="slot"></div>
+                            <div class="branch_line"></div>
+                        </div>
+                    </div>
 
-		<div id="ASSEMBLE">
-			<div id="REDO" class="un_redo disabled">→</div><div id="UNDO" class="un_redo disabled">←</div>
-			<div class="part_bd">
-				<img src="img/BDico.gif" alt="BD" /><input type="text" class="select_box" value="-" /><input type="button" id="SET_ALL_PARTS" value="▼" /><input type="button" id="EXEC_AURA_SYSTEM" value="★" title="システム起動" />
-				<div class="branch part_wb">
-					<img src="img/WBico.gif" alt="WB" /><input type="text" class="select_box bltin_wb" value="-" /><div class="branch_line"></div>
-				</div>
-			</div>
-		</div>
+                    <div id="ASSEMBLE">
+                        <div id="REDO" class="un_redo disabled">→</div>
+                        <div id="UNDO" class="un_redo disabled">←</div>
+                        <div class="part_bd">
+                            <img src="img/BDico.gif" alt="BD" />
+                            <input type="text" class="select_box" value="-" />
+                            <input type="button" id="SET_ALL_PARTS" value="▼" />
+                            <input type="button" id="EXEC_AURA_SYSTEM" value="★" title="システム起動" />
+                            <div class="branch part_wb">
+                                <img src="img/WBico.gif" alt="WB" />
+                                <input type="text" class="select_box bltin_wb" value="-" />
+                                <div class="branch_line"></div>
+                            </div>
+                        </div>
+                    </div>
 
-		<div id="LIST_CONTAINER">
-			<div id="LIST_TOP"></div>
-			<div id="UNSET_PARTS">解除</div>
-			<ul id="LIST_BD" class="parts_list"></ul>
-			<ul id="LIST_WB" class="parts_list"></ul>
-			<ul id="LIST_LG" class="parts_list"></ul>
-			<ul id="LIST_HD" class="parts_list"></ul>
-			<ul id="LIST_BS" class="parts_list"></ul>
-			<ul id="LIST_AM" class="parts_list"></ul>
-			<ul id="LIST_WP" class="parts_list"></ul>
-			<ul id="LIST_HDAC" class="parts_list"></ul>
-			<ul id="LIST_FCAC" class="parts_list"></ul>
+                    <div id="LIST_CONTAINER">
+                        <div id="LIST_TOP"></div>
+                        <div id="UNSET_PARTS">解除</div>
+                        <ul id="LIST_BD" class="parts_list"></ul>
+                        <ul id="LIST_WB" class="parts_list"></ul>
+                        <ul id="LIST_LG" class="parts_list"></ul>
+                        <ul id="LIST_HD" class="parts_list"></ul>
+                        <ul id="LIST_BS" class="parts_list"></ul>
+                        <ul id="LIST_AM" class="parts_list"></ul>
+                        <ul id="LIST_WP" class="parts_list"></ul>
+                        <ul id="LIST_HDAC" class="parts_list"></ul>
+                        <ul id="LIST_FCAC" class="parts_list"></ul>
 
-			<ul id="LIST_TUNE"></ul>
-			<div id="LIST_BOTTOM"></div>
+                        <ul id="LIST_TUNE"></ul>
+                        <div id="LIST_BOTTOM"></div>
 
-			<div id="NARROW_DOWN_CONTAINER">
-				<div id="ND_TITLE">絞込み</div>
-				<table id="ND_BODY" cellspacing="0" cellpadding="0" border="0">
-				<thead>
-					<tr><th class="nd_status_col">ステータス</th><th class="nd_cartridge_col">カートリッジ</th></tr>
-				</thead>
-				<tbody>
-					<tr><td valign="top" class="nd_status_col">
-					<div id="ND_KEYS">
-						<div class="button_set">
-							<div class="nd_button status" value="str">STR</div>
-							<div class="nd_button status" value="tec">TEC</div>
-							<div class="nd_button status" value="wlk">WLK</div><br />
-							<div class="nd_button status" value="fly">FLY</div>
-							<div class="nd_button status" value="tgh">TGH</div>
-						</div>
+                        <div id="NARROW_DOWN_CONTAINER">
+                            <div id="ND_TITLE">絞込み</div>
+                            <table id="ND_BODY" cellspacing="0" cellpadding="0" border="0">
+                                <thead>
+                                    <tr>
+                                        <th class="nd_status_col">ステータス</th>
+                                        <th class="nd_cartridge_col">カートリッジ</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td valign="top" class="nd_status_col">
+                                            <div id="ND_KEYS">
+                                                <div class="button_set">
+                                                    <div class="nd_button status" value="str">STR</div>
+                                                    <div class="nd_button status" value="tec">TEC</div>
+                                                    <div class="nd_button status" value="wlk">WLK</div>
+                                                    <br />
+                                                    <div class="nd_button status" value="fly">FLY</div>
+                                                    <div class="nd_button status" value="tgh">TGH</div>
+                                                </div>
 
-						<div class="button_set">
-							<div class="nd_button status" value="cost">COST</div>
-							<div class="nd_button status" value="capa">CAPA</div>
-						</div>
+                                                <div class="button_set">
+                                                    <div class="nd_button status" value="cost">COST</div>
+                                                    <div class="nd_button status" value="capa">CAPA</div>
+                                                </div>
 
-						<div class="button_set">
-							<div class="nd_button status" value="type">TYPE</div>
-							<div class="nd_button status" value="size">SIZE</div>
-						</div>
+                                                <div class="button_set">
+                                                    <div class="nd_button status" value="type">TYPE</div>
+                                                    <div class="nd_button status" value="size">SIZE</div>
+                                                </div>
 
-						<div class="button_set">
-							<div class="nd_button status" value="hp">HP</div>
-						</div>
+                                                <div class="button_set">
+                                                    <div class="nd_button status" value="hp">HP</div>
+                                                </div>
 
-						<div class="button_set">
-							<div id="ND_MAIN" class="nd_button toggle on" value="m">MAIN</div>
-							<div id="ND_SUB" class="nd_button toggle" value="s">SUB</div><br />
-							<div class="nd_button performance" value="pwr">威力</div>
-							<div class="nd_button performance" value="shl">弾数</div>
-							<div class="nd_button performance" value="rng">射程</div><br />
-							<div class="nd_button performance" value="spd">速度</div>
-							<div class="nd_button performance" value="itv">間隔</div>
-						</div>
-					</div>
+                                                <div class="button_set">
+                                                    <div id="ND_MAIN" class="nd_button toggle on" value="m">MAIN</div>
+                                                    <div id="ND_SUB" class="nd_button toggle" value="s">SUB</div>
+                                                    <br />
+                                                    <div class="nd_button performance" value="pwr">威力</div>
+                                                    <div class="nd_button performance" value="shl">弾数</div>
+                                                    <div class="nd_button performance" value="rng">射程</div>
+                                                    <br />
+                                                    <div class="nd_button performance" value="spd">速度</div>
+                                                    <div class="nd_button performance" value="itv">間隔</div>
+                                                </div>
+                                            </div>
 
-					<div id="ND_NUMLIC" class="button_set nd_vals nd_numlic">
-						<div class="nd_button" value="1">1</div>
-						<div class="nd_button" value="2">2</div>
-						<div class="nd_button" value="3">3</div>
-						<div class="nd_button" value="4">4</div>
-						<div class="nd_button" value="5">5</div>
-						<div style="clear:left;"></div>
-						<div class="nd_button" value="6">6</div>
-						<div class="nd_button" value="7">7</div>
-						<div class="nd_button" value="8">8</div>
-						<div class="nd_button" value="9">9</div>
-						<div class="nd_button" value="0">0</div>
-						<div id="ND_MINUS" class="nd_button" value="-">-</div>
-					</div>
+                                            <div id="ND_NUMLIC" class="button_set nd_vals nd_numlic">
+                                                <div class="nd_button" value="1">1</div>
+                                                <div class="nd_button" value="2">2</div>
+                                                <div class="nd_button" value="3">3</div>
+                                                <div class="nd_button" value="4">4</div>
+                                                <div class="nd_button" value="5">5</div>
+                                                <div style="clear: left;"></div>
+                                                <div class="nd_button" value="6">6</div>
+                                                <div class="nd_button" value="7">7</div>
+                                                <div class="nd_button" value="8">8</div>
+                                                <div class="nd_button" value="9">9</div>
+                                                <div class="nd_button" value="0">0</div>
+                                                <div id="ND_MINUS" class="nd_button" value="-">-</div>
+                                            </div>
 
-					<div id="ND_CURRENT_VAL" class="button_set nd_vals nd_numlic">
-						<div class="nd_button" value="@">現在値</div>
-					</div>
+                                            <div id="ND_CURRENT_VAL" class="button_set nd_vals nd_numlic">
+                                                <div class="nd_button" value="@">現在値</div>
+                                            </div>
 
-					<div id="ND_TYPE" class="button_set nd_vals">
-						<div class="nd_button toggle on" value="l">陸戦型</div>
-						<div class="nd_button toggle" value="a">空戦型</div>
-						<div class="nd_button toggle" value="c">砲戦型</div>
-						<div class="nd_button toggle" value="s">補助型</div>
-					</div>
+                                            <div id="ND_TYPE" class="button_set nd_vals">
+                                                <div class="nd_button toggle on" value="l">陸戦型</div>
+                                                <div class="nd_button toggle" value="a">空戦型</div>
+                                                <div class="nd_button toggle" value="c">砲戦型</div>
+                                                <div class="nd_button toggle" value="s">補助型</div>
+                                            </div>
 
-					<div id="ND_SIZE" class="button_set nd_vals">
-						<div class="nd_button toggle" value="SS">SS</div>
-						<div class="nd_button toggle" value="S">S</div>
-						<div class="nd_button toggle on" value="M">M</div>
-						<div class="nd_button toggle" value="L">L</div>
-						<div class="nd_button toggle" value="LL">LL</div>
-					</div>
+                                            <div id="ND_SIZE" class="button_set nd_vals">
+                                                <div class="nd_button toggle" value="SS">SS</div>
+                                                <div class="nd_button toggle" value="S">S</div>
+                                                <div class="nd_button toggle on" value="M">M</div>
+                                                <div class="nd_button toggle" value="L">L</div>
+                                                <div class="nd_button toggle" value="LL">LL</div>
+                                            </div>
 
-					<div id="ND_OPERAND" class="button_set">
-						<div class="nd_button toggle on" value="0">以上</div>
-						<div class="nd_button toggle" value="1">以下</div>
-						<div class="nd_button toggle" value="2">大きい</div>
-						<div class="nd_button toggle" value="3">小さい</div>
-						<div class="nd_button toggle" value="4">等しい</div>
-						<div class="nd_button toggle" value="5">以外</div>
-					</div>
+                                            <div id="ND_OPERAND" class="button_set">
+                                                <div class="nd_button toggle on" value="0">以上</div>
+                                                <div class="nd_button toggle" value="1">以下</div>
+                                                <div class="nd_button toggle" value="2">大きい</div>
+                                                <div class="nd_button toggle" value="3">小さい</div>
+                                                <div class="nd_button toggle" value="4">等しい</div>
+                                                <div class="nd_button toggle" value="5">以外</div>
+                                            </div>
 
-					<div id="ND_AND" class="button_set">
-						<div class="nd_button">AND</div>
-					</div>
+                                            <div id="ND_AND" class="button_set">
+                                                <div class="nd_button">AND</div>
+                                            </div>
 
-					<div id="ND_SYS" class="button_set">
-						<div class="nd_button" id="ND_PREV">前へ</div>
-						<div class="nd_button" id="ND_ALLCLEAR">全削除</div>
-					</div>
-				</td>
+                                            <div id="ND_SYS" class="button_set">
+                                                <div class="nd_button" id="ND_PREV">前へ</div>
+                                                <div class="nd_button" id="ND_ALLCLEAR">全削除</div>
+                                            </div>
+                                        </td>
 
-				<td class="nd_cartridge_col">
-					<ul id="NDC_BODY"></ul>
-				</td></tr>
-				</tbody>
-				</table>
-			</div>
+                                        <td class="nd_cartridge_col">
+                                            <ul id="NDC_BODY"></ul>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
 
-		</div>
+                    </div>
 
-	</td><td id="RIGHT_CONTENT_CONTAINER">
+                </td>
+                <td id="RIGHT_CONTENT_CONTAINER">
 
-		<div id="CARTRIDGE_CONTAINER">
-			<div id="CTRG_HEAD_CONTAINER">
-				カートリッジ一覧<span id="LV_DOWN_BTN">Down</span>
-				<div id="LV_CONTAINER">LEVEL<div id="CURRENT_LV">0/10</div></div>
-			</div>
-			<div id="CRTG_COST_TEXT">COST</div>
-			<div id="CTRG_TEMPLATE">
-				<li class="cartridge"><div class="cost"></div><div class="ctrg_name"></div></li>
-			</div>
-			<ul id="CTRG_LIST_CONTAINER"></ul>
-			<div id="CTRG_TOOLTIP"></div>
-		</div>
+                    <div id="CARTRIDGE_CONTAINER">
+                        <div id="CTRG_HEAD_CONTAINER">カートリッジ一覧<span id="LV_DOWN_BTN">Down</span>
+                            <div id="LV_CONTAINER">
+                                LEVEL
+                                <div id="CURRENT_LV">0/10</div>
+                            </div>
+                        </div>
+                        <div id="CRTG_COST_TEXT">COST</div>
+                        <div id="CTRG_TEMPLATE">
+                            <li class="cartridge"><div class="cost"></div>
+                                <div class="ctrg_name"></div></li>
+                        </div>
+                        <ul id="CTRG_LIST_CONTAINER"></ul>
+                        <div id="CTRG_TOOLTIP"></div>
+                    </div>
 
-		<div id="PARTS_DATA_VIEW">
-			<div id="PDV_COMMENT"></div>
+                    <div id="PARTS_DATA_VIEW">
+                        <div id="PDV_COMMENT"></div>
 
-			<div id="PDV_TYPE" class="pdv_item_container"><div class="pdv_item_name">TYPE</div><div class="pdv_val">-</div></div>
-			<div id="PDV_SIZE" class="pdv_item_container"><div class="pdv_item_name">SIZE</div><div class="pdv_val">-</div></div>
+                        <div id="PDV_TYPE" class="pdv_item_container">
+                            <div class="pdv_item_name">TYPE</div>
+                            <div class="pdv_val">-</div>
+                        </div>
+                        <div id="PDV_SIZE" class="pdv_item_container">
+                            <div class="pdv_item_name">SIZE</div>
+                            <div class="pdv_val">-</div>
+                        </div>
 
-			<table id="PDV_TABLE" class="pdv_item_container" cellspacing="0" cellpadding="0" border="0"><tbody>
-				<tr id="PDV_COST"><td class="pdv_item_name">COST</td><td class="pdv_val"></td><td class="pdv_add_val"></td></tr>
-				<tr id="PDV_HP"><td class="pdv_item_name">HP</td><td class="pdv_val"></td><td class="pdv_add_val"></td></tr>
-				<tr id="PDV_STR"><td class="pdv_item_name">STR</td><td class="pdv_val"></td><td class="pdv_add_val"></td></tr>
-				<tr id="PDV_TEC"><td class="pdv_item_name">TEC</td><td class="pdv_val"></td><td class="pdv_add_val"></td></tr>
-				<tr id="PDV_WLK"><td class="pdv_item_name">WLK</td><td class="pdv_val"></td><td class="pdv_add_val"></td></tr>
-				<tr id="PDV_FLY"><td class="pdv_item_name">FLY</td><td class="pdv_val"></td><td class="pdv_add_val"></td></tr>
-				<tr id="PDV_TGH"><td class="pdv_item_name">TGH</td><td class="pdv_val"></td><td class="pdv_add_val"></td></tr>
-				<tr id="PDV_CAPA"><td class="pdv_item_name">CAPA</td><td class="pdv_val"></td><td class="pdv_add_val"></td></tr>
-			</tbody></table>
+                        <table id="PDV_TABLE" class="pdv_item_container" cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                                <tr id="PDV_COST">
+                                    <td class="pdv_item_name">COST</td>
+                                    <td class="pdv_val"></td>
+                                    <td class="pdv_add_val"></td>
+                                </tr>
+                                <tr id="PDV_HP">
+                                    <td class="pdv_item_name">HP</td>
+                                    <td class="pdv_val"></td>
+                                    <td class="pdv_add_val"></td>
+                                </tr>
+                                <tr id="PDV_STR">
+                                    <td class="pdv_item_name">STR</td>
+                                    <td class="pdv_val"></td>
+                                    <td class="pdv_add_val"></td>
+                                </tr>
+                                <tr id="PDV_TEC">
+                                    <td class="pdv_item_name">TEC</td>
+                                    <td class="pdv_val"></td>
+                                    <td class="pdv_add_val"></td>
+                                </tr>
+                                <tr id="PDV_WLK">
+                                    <td class="pdv_item_name">WLK</td>
+                                    <td class="pdv_val"></td>
+                                    <td class="pdv_add_val"></td>
+                                </tr>
+                                <tr id="PDV_FLY">
+                                    <td class="pdv_item_name">FLY</td>
+                                    <td class="pdv_val"></td>
+                                    <td class="pdv_add_val"></td>
+                                </tr>
+                                <tr id="PDV_TGH">
+                                    <td class="pdv_item_name">TGH</td>
+                                    <td class="pdv_val"></td>
+                                    <td class="pdv_add_val"></td>
+                                </tr>
+                                <tr id="PDV_CAPA">
+                                    <td class="pdv_item_name">CAPA</td>
+                                    <td class="pdv_val"></td>
+                                    <td class="pdv_add_val"></td>
+                                </tr>
+                            </tbody>
+                        </table>
 
-			<div id="MATERIALS" class="pdv_item_container"></div>
+                        <div id="MATERIALS" class="pdv_item_container"></div>
 
-			<table id="PDV_WP_MAIN" class="pdv_item_container" cellspacing="0" cellpadding="0" border="0"><tbody>
-				<tr><th colspan="2" id="PDV_MWP_HEAD">MAIN</th></tr>
-				<tr id="PDV_MAIN_PWR"><th class="pdv_wp_item_name">威力</th><td class="pdv_wp_val"></td></tr>
-				<tr id="PDV_MAIN_SHL"><th class="pdv_wp_item_name">弾数</th><td class="pdv_wp_val"></td></tr>
-				<tr id="PDV_MAIN_RNG"><th class="pdv_wp_item_name">射程</th><td class="pdv_wp_val"></td></tr>
-				<tr id="PDV_MAIN_SPD"><th class="pdv_wp_item_name">速度</th><td class="pdv_wp_val"></td></tr>
-				<tr id="PDV_MAIN_ITV"><th class="pdv_wp_item_name">間隔</th><td class="pdv_wp_val"></td></tr>
-				<tr id="PDV_MAIN_DMG"><th class="pdv_wp_item_name">DMG</th><td class="pdv_wp_val"></td></tr>
-			</tbody></table>
+                        <table id="PDV_WP_MAIN" class="pdv_item_container" cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                                <tr>
+                                    <th colspan="2" id="PDV_MWP_HEAD">MAIN</th>
+                                </tr>
+                                <tr id="PDV_MAIN_PWR">
+                                    <th class="pdv_wp_item_name">威力</th>
+                                    <td class="pdv_wp_val"></td>
+                                </tr>
+                                <tr id="PDV_MAIN_SHL">
+                                    <th class="pdv_wp_item_name">弾数</th>
+                                    <td class="pdv_wp_val"></td>
+                                </tr>
+                                <tr id="PDV_MAIN_RNG">
+                                    <th class="pdv_wp_item_name">射程</th>
+                                    <td class="pdv_wp_val"></td>
+                                </tr>
+                                <tr id="PDV_MAIN_SPD">
+                                    <th class="pdv_wp_item_name">速度</th>
+                                    <td class="pdv_wp_val"></td>
+                                </tr>
+                                <tr id="PDV_MAIN_ITV">
+                                    <th class="pdv_wp_item_name">間隔</th>
+                                    <td class="pdv_wp_val"></td>
+                                </tr>
+                                <tr id="PDV_MAIN_DMG">
+                                    <th class="pdv_wp_item_name">DMG</th>
+                                    <td class="pdv_wp_val"></td>
+                                </tr>
+                            </tbody>
+                        </table>
 
-			<table id="PDV_WP_SUB" class="pdv_item_container" cellspacing="0" cellpadding="0" border="0"><tbody>
-				<tr><th colspan="2" id="PDV_SWP_HEAD">SUB</th></tr>
-				<tr id="PDV_SUB_PWR"><th class="pdv_wp_item_name">威力</th><td class="pdv_wp_val"></td></tr>
-				<tr id="PDV_SUB_SHL"><th class="pdv_wp_item_name">弾数</th><td class="pdv_wp_val"></td></tr>
-				<tr id="PDV_SUB_RNG"><th class="pdv_wp_item_name">射程</th><td class="pdv_wp_val"></td></tr>
-				<tr id="PDV_SUB_SPD"><th class="pdv_wp_item_name">速度</th><td class="pdv_wp_val"></td></tr>
-				<tr id="PDV_SUB_ITV"><th class="pdv_wp_item_name">間隔</th><td class="pdv_wp_val"></td></tr>
-				<tr id="PDV_SUB_DMG"><th class="pdv_wp_item_name">DMG</th><td class="pdv_wp_val"></td></tr>
-			</tbody></table>
-		</div>
+                        <table id="PDV_WP_SUB" class="pdv_item_container" cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                                <tr>
+                                    <th colspan="2" id="PDV_SWP_HEAD">SUB</th>
+                                </tr>
+                                <tr id="PDV_SUB_PWR">
+                                    <th class="pdv_wp_item_name">威力</th>
+                                    <td class="pdv_wp_val"></td>
+                                </tr>
+                                <tr id="PDV_SUB_SHL">
+                                    <th class="pdv_wp_item_name">弾数</th>
+                                    <td class="pdv_wp_val"></td>
+                                </tr>
+                                <tr id="PDV_SUB_RNG">
+                                    <th class="pdv_wp_item_name">射程</th>
+                                    <td class="pdv_wp_val"></td>
+                                </tr>
+                                <tr id="PDV_SUB_SPD">
+                                    <th class="pdv_wp_item_name">速度</th>
+                                    <td class="pdv_wp_val"></td>
+                                </tr>
+                                <tr id="PDV_SUB_ITV">
+                                    <th class="pdv_wp_item_name">間隔</th>
+                                    <td class="pdv_wp_val"></td>
+                                </tr>
+                                <tr id="PDV_SUB_DMG">
+                                    <th class="pdv_wp_item_name">DMG</th>
+                                    <td class="pdv_wp_val"></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
 
-	</td><td id="FRAME_RM" class="frame"></td></tr></tbody></table>
+                </td>
+                <td id="FRAME_RM" class="frame"></td>
+            </tr>
+        </tbody>
+    </table>
 
-	<div class="damage_map_container">
-		<table id="TEC_DAMAGE_MAP" class="damage_map" cellspacing="0" cellpadding="0"><thead></thead><tbody></tbody></table>
-	</div>
-	<div class="damage_map_container">
-		<table id="STR_DAMAGE_MAP" class="damage_map" cellspacing="0" cellpadding="0"><thead></thead><tbody></tbody></table>
-	</div>
+    <div class="damage_map_container">
+        <table id="TEC_DAMAGE_MAP" class="damage_map" cellspacing="0" cellpadding="0">
+            <thead></thead>
+            <tbody></tbody>
+        </table>
+    </div>
+    <div class="damage_map_container">
+        <table id="STR_DAMAGE_MAP" class="damage_map" cellspacing="0" cellpadding="0">
+            <thead></thead>
+            <tbody></tbody>
+        </table>
+    </div>
 
-	<div class="transparent_field">
-		<div id="TEXT_IO_CONTAINER">
-			<div id="TIO_CLOSE">Ｘ</div><div id="TIO_TOP"></div>
-			<textarea id="TIO_TEXTAREA" title="ダブルクリックで全選択されます"></textarea>
-			<div id="TIO_BOTTOM"><button id="TIO_READ" class="tio_button">読込</button> <button id="TIO_CLEAR" class="tio_button">クリア</button></div>
-		</div>
-	</div>
+    <div class="transparent_field">
+        <div id="TEXT_IO_CONTAINER">
+            <div id="TIO_CLOSE">Ｘ</div>
+            <div id="TIO_TOP"></div>
+            <textarea id="TIO_TEXTAREA" title="ダブルクリックで全選択されます"></textarea>
+            <div id="TIO_BOTTOM">
+                <button id="TIO_READ" class="tio_button">読込</button>
+                <button id="TIO_CLEAR" class="tio_button">クリア</button>
+            </div>
+        </div>
+    </div>
 
-	<div class="transparent_field">
-		<div id="RENAME_CONTAINER">
-			<div>ロボ名の変更(10文字以内)</div>
-			<div>新しい名前:<input id="RENAME_INPUT" type="text" size="22" maxlength="20"/></div>
-			<div>
-				<button id="RENAME_CHANGE" class="rename_button">変更</button>
-				<button id="RENAME_CANCEL" class="rename_button">キャンセル</button>
-			</div>
-		</div>
-	</div>
+    <div class="transparent_field">
+        <div id="RENAME_CONTAINER">
+            <div>ロボ名の変更(10文字以内)</div>
+            <div>新しい名前:<input id="RENAME_INPUT" type="text" size="22" maxlength="20" />
+            </div>
+            <div>
+                <button id="RENAME_CHANGE" class="rename_button">変更</button>
+                <button id="RENAME_CANCEL" class="rename_button">キャンセル</button>
+            </div>
+        </div>
+    </div>
 
-	<div id="OVERLAY" class="loading"></div>
+    <div id="OVERLAY" class="loading"></div>
 
 </body>
 
