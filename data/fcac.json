@@ -1,37 +1,40 @@
 {group:"マスク",nextID:45}
-{id:501,name:"STR+1 HP+5 capa+5",str:1,hp:5,capa:5,slot:1}
-{id:502,name:"TEC+1 HP+5 capa+5",tec:1,hp:5,capa:5,slot:1}
-{id:503,name:"WLK+1 HP+5 capa+5",wlk:1,hp:5,capa:5,slot:1}
-{id:504,name:"FLY+1 HP+5 capa+5",fly:1,hp:5,capa:5,slot:1}
-{id:505,name:"TGH+1 HP+5 capa+5",tgh:1,hp:5,capa:5,slot:1}
 
-{id:601,name:"STR+1 HP+10 ",str:1,hp:10,slot:1}
-{id:602,name:"TEC+1 HP+10 ",tec:1,hp:10,slot:1}
-{id:603,name:"WLK+1 HP+10 ",wlk:1,hp:10,slot:1}
-{id:604,name:"FLY+1 HP+10 ",fly:1,hp:10,slot:1}
-{id:605,name:"TGH+1 HP+10 ",tgh:1,hp:10,slot:1}
+{id:506,name:"スロット (fc)",slot:3,joint:{hdac:1,fcac:0,hd:0}}
 
-{id:406,name:"STR+2 ",str:2,slot:1}
-{id:407,name:"TEC+2 ",tec:2,slot:1}
-{id:408,name:"WLK+2 ",wlk:2,slot:1}
-{id:409,name:"FLY+2 ",fly:2,slot:1}
-{id:410,name:"TGH+2 ",tgh:2,slot:1}
+{id:501,name:"STR+1 HP+5 capa+5 (fc)",str:1,hp:5,capa:5,slot:1}
+{id:502,name:"TEC+1 HP+5 capa+5 (fc)",tec:1,hp:5,capa:5,slot:1}
+{id:503,name:"WLK+1 HP+5 capa+5 (fc)",wlk:1,hp:5,capa:5,slot:1}
+{id:504,name:"FLY+1 HP+5 capa+5 (fc)",fly:1,hp:5,capa:5,slot:1}
+{id:505,name:"TGH+1 HP+5 capa+5 (fc)",tgh:1,hp:5,capa:5,slot:1}
 
-{id:701,name:"STR+1 TEC+1 ",str:1,tec:1,slot:1}
-{id:702,name:"STR+1 WLK+1 ",str:1,wlk:1,slot:1}
-{id:703,name:"STR+1 FLY+1 ",str:1,fly:1,slot:1}
-{id:704,name:"STR+1 TGH+1 ",str:1,tgh:1,slot:1}
-{id:705,name:"TEC+1 WLK+1 ",tec:1,wlk:1,slot:1}
-{id:706,name:"TEC+1 FLY+1 ",tec:1,fly:1,slot:1}
-{id:707,name:"TEC+1 TGH+1 ",tec:1,tgh:1,slot:1}
-{id:708,name:"WLK+1 FLY+1 ",wlk:1,fly:1,slot:1}
-{id:709,name:"WLK+1 TGH+1 ",wlk:1,tgh:1,slot:1}
-{id:710,name:"FLY+1 TGH+1 ",fly:1,tgh:1,slot:1}
+{id:601,name:"STR+1 HP+10 (fc) ",str:1,hp:10,slot:1}
+{id:602,name:"TEC+1 HP+10 (fc) ",tec:1,hp:10,slot:1}
+{id:603,name:"WLK+1 HP+10 (fc) ",wlk:1,hp:10,slot:1}
+{id:604,name:"FLY+1 HP+10 (fc) ",fly:1,hp:10,slot:1}
+{id:605,name:"TGH+1 HP+10 (fc) ",tgh:1,hp:10,slot:1}
+
+{id:406,name:"STR+2 (fc) ",str:2,slot:1}
+{id:407,name:"TEC+2 (fc) ",tec:2,slot:1}
+{id:408,name:"WLK+2 (fc) ",wlk:2,slot:1}
+{id:409,name:"FLY+2 (fc) ",fly:2,slot:1}
+{id:410,name:"TGH+2 (fc) ",tgh:2,slot:1}
+
+{id:701,name:"STR+1 TEC+1 (fc) ",str:1,tec:1,slot:1}
+{id:702,name:"STR+1 WLK+1 (fc) ",str:1,wlk:1,slot:1}
+{id:703,name:"STR+1 FLY+1 (fc) ",str:1,fly:1,slot:1}
+{id:704,name:"STR+1 TGH+1 (fc) ",str:1,tgh:1,slot:1}
+{id:705,name:"TEC+1 WLK+1 (fc) ",tec:1,wlk:1,slot:1}
+{id:706,name:"TEC+1 FLY+1 (fc) ",tec:1,fly:1,slot:1}
+{id:707,name:"TEC+1 TGH+1 (fc) ",tec:1,tgh:1,slot:1}
+{id:708,name:"WLK+1 FLY+1 (fc) ",wlk:1,fly:1,slot:1}
+{id:709,name:"WLK+1 TGH+1 (fc) ",wlk:1,tgh:1,slot:1}
+{id:710,name:"FLY+1 TGH+1 (fc) ",fly:1,tgh:1,slot:1}
 
 
 
-{id:56,name:"金魚",capa:5,hp:5,wlk:1,slot:1,comment:["「HEAL SONG」 1回の使用につきHP10回復 5連射可能","-"],sub:{shl:10,itv:500},tunable:{pwp:0}}
-{id:57,name:"バリアブルマフラー",capa:5,hp:5,fly:1,slot:1,comment:"「WING GLIDER」 使用中落下速度が緩やかになる",sub:{shl:3,itv:500},tunable:{pwp:0}}
+{id:56,name:"金魚",capa:5,hp:5,wlk:1,slot:1,comment:["「HEAL SONG」 1回の使用につきHP10回復 5連射可能","イベント品"],sub:{shl:10,itv:500},tunable:{pwp:0}}
+{id:57,name:"バリアブルマフラー",capa:5,hp:5,fly:1,slot:1,comment:"「WING GLIDER 使用中落下速度が緩やかになる",sub:{shl:3,itv:500},tunable:{pwp:0}}
 
 
 
