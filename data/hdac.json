@@ -1,6 +1,6 @@
 {group:"頭飾り",nextID:99}
 
-{id:400,name:"内蔵強化capa+55 HP+15",capa:55,hp:15,slot:3,joint:{hdac:1,fcac:1,hd:0},comment:"内蔵強化カートリッジの不備がある場合に代用してください"}
+
 {id:399,name:"スロット",slot:3,joint:{hdac:1,fcac:0,hd:0}}
 
 {id:301,name:"STR+1 HP+5 Capa+5",str:1,hp:5,capa:5,slot:1}
@@ -20,6 +20,19 @@
 {id:408,name:"WLK+2",wlk:2,slot:1}
 {id:409,name:"FLY+2",fly:2,slot:1}
 {id:410,name:"TGH+2",tgh:2,slot:1}
+
+{id:701,name:"STR+1 TEC+1 ",str:1,tec:1,slot:1}
+{id:702,name:"STR+1 WLK+1 ",str:1,wlk:1,slot:1}
+{id:703,name:"STR+1 FLY+1 ",str:1,fly:1,slot:1}
+{id:704,name:"STR+1 TGH+1 ",str:1,tgh:1,slot:1}
+{id:705,name:"TEC+1 WLK+1 ",tec:1,wlk:1,slot:1}
+{id:706,name:"TEC+1 FLY+1 ",tec:1,fly:1,slot:1}
+{id:707,name:"TEC+1 TGH+1 ",tec:1,tgh:1,slot:1}
+{id:708,name:"WLK+1 FLY+1 ",wlk:1,fly:1,slot:1}
+{id:709,name:"WLK+1 TGH+1 ",wlk:1,tgh:1,slot:1}
+{id:710,name:"FLY+1 TGH+1 ",fly:1,tgh:1,slot:1}
+
+{id:244,name:"シャークボーシ",capa:5,hp:5,wlk:1,slot:1,comment:["クイックスイム付与"],sub:{itv:500},tunable:{pwp:0}}
 
 
 {id:1,name:"ホワイトフラワー",slot:1}
@@ -265,7 +278,7 @@
 {id:264,name:"ティールサークレット",capa:5,str:1,slot:1}
 {id:242,name:"ポインセアチアリボン",hp:5,fly:1,slot:1}
 {id:243,name:"アイスティアラ",hp:5,tec:1,slot:1}
-{id:244,name:"シャークボーシ",wlk:1,capa:5,slot:1,comment:"一時的にクイックスイムを得るサブ『DIVING』を内蔵"}
+
 {id:245,name:"ロードコーン",hp:5,str:1,slot:1}
 {id:246,name:"タピオカミルクティー",slot:1,tec:1}
 {id:247,name:"BIGネコミミヘッドドレスW",hp:5,slot:1}
