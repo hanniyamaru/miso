@@ -7,18 +7,18 @@
 {id:5,name:"オートマグ",size:"S",cost:45,main:{pwr:14,shl:280,rng:225,spd:500,itv:460}}
 {id:6,name:"ダブルマグ",type:"l",size:"M",cost:140,main:{pwr:14,shl:440,rng:225,spd:480,itv:460}}
 {id:7,name:"カスタムマグ",type:"lc",size:"M",cost:150,main:{pwr:21,shl:400,rng:225,spd:440,itv:460}}
-{id:8,name:"シングルガン",type:"lcs",size:"M",cost:35,main:{pwr:10,shl:260,rng:250,spd:440,itv:400}}
-{id:9,name:"アクセルガン",type:"lcs",size:"M",cost:100,main:{pwr:15,shl:300,rng:250,spd:400,itv:460}}
-{id:10,name:"ピースメーカー",type:"ls",size:"M",cost:105,main:{pwr:10,shl:360,rng:250,spd:440,itv:280}}
-{id:11,name:"ミリタリーガン",size:"S",cost:60,main:{pwr:8,shl:400,rng:200,spd:400,itv:240}}
-{id:12,name:"ドラムガン",type:"l",size:"M",cost:90,main:{pwr:10,shl:440,rng:175,spd:400,itv:240}}
-{id:13,name:"インクリーズドラムガン",type:"l",size:"M",cost:130,main:{pwr:10,shl:530,rng:175,spd:400,itv:240}}
+{id:8,name:"シングルガン",type:"lcs",size:"M",cost:35,main:{pwr:14,shl:260,rng:250,spd:570,itv:400}}
+{id:9,name:"アクセルガン",type:"lcs",size:"M",cost:100,main:{pwr:17,shl:400,rng:250,spd:570,itv:460}}
+{id:10,name:"ピースメーカー",type:"l",size:"M",cost:130,main:{pwr:13,shl:600,rng:250,spd:570,itv:280}}
+{id:11,name:"ミリタリーガン",size:"S",cost:60,main:{pwr:12,shl:300,rng:225,spd:400,itv:240}}
+{id:12,name:"ドラムガン",type:"l",size:"M",cost:90,main:{pwr:15,shl:260,rng:225,spd:400,itv:240}}
+{id:13,name:"インクリーズドラムガン",type:"l",size:"M",cost:130,main:{pwr:12,shl:530,rng:225,spd:400,itv:240}}
 {id:14,name:"モーターガン",type:"l",size:"M",cost:180,main:{pwr:11,shl:750,rng:225,spd:440,itv:140}}
-{id:15,name:"ブーストガン",type:"l",size:"M",cost:160,main:{pwr:13,shl:460,rng:250,spd:440,itv:200}}
+{id:15,name:"ブーストガン",type:"l",size:"M",cost:160,main:{pwr:13,shl:560,rng:250,spd:570,itv:200}}
 {id:67,name:"エスティスマグ",main:{pwr:23,shl:380,rng:225,spd:440,itv:500},size:"M",type:"l",cost:180}
 {id:66,name:"ピアースガン",main:{pwr:14,shl:640,rng:250,spd:400,itv:340},type:"l",cost:120,size:"M"}
 {id:23,name:"LLバルクマグ",type:"l",size:"LL",cost:140,main:{pwr:19,shl:370,rng:225,spd:400,itv:500}}
-{id:57,name:"LLバルクアクセル",main:{pwr:22,shl:220,rng:250,spd:440,itv:500,tec:100},size:"LL",type:"lc",cost:130}
+{id:57,name:"LLバルクアクセル",main:{pwr:26,shl:360,rng:250,spd:570,itv:500,tec:100},size:"LL",type:"lc",cost:180}
 {id:110,name:"セイバーライフル",main:{tec:100,pwr:25,shl:280,rng:250,spd:440,itv:640},tunable:{mwp:1},type:"l",size:"M",cost:170,comment:"ゼロセイバーNEXT初期装備"}
 {id:71,name:"AURAライトニングガン",main:{pwr:15,shl:240,rng:250,spd:440,itv:700},auraStat:{main:{pwr:18,shl:240,rng:250,spd:440,itv:700}},type:"a",size:"S",cost:70}
 
@@ -149,7 +149,7 @@
 {id:61,name:"プラズマビームキャノン",main:{pwr:34,shl:220,rng:275,spd:400,itv:740},cost:180,size:"M",type:"a"}
 {id:68,name:"チャージビームキャノン",main:{pwr:37,shl:120,rng:250,spd:440,itv:1000},type:"a",size:"L",cost:120}
 {id:29,name:"スターダストキャノン",type:"a",size:"LL",cost:130,main:{pwr:30,shl:180,rng:275,spd:400,itv:900}}
-{id:56,name:"ビームポンプバズーカ",main:{pwr:23,shl:190,rng:275,spd:400,itv:900},type:"a",size:"M",cost:100}
+{id:56,name:"ビームポンプバズーカ",main:{pwr:23,shl:240,rng:275,spd:360,itv:760},type:"a",size:"M",cost:100}
 
 
 {group:"Uniミサイル系",prefixID:"MS",commonStat:{tunable:{mwp:1}},nextID:333}
