@@ -1,6 +1,6 @@
 {group:"マスク",nextID:45}
 
-{id:506,name:"スロット (fc)",slot:3,joint:{hdac:1,fcac:0,hd:0}}
+{id:506,name:"スロット",slot:3,joint:{hdac:1,fcac:0,hd:0}}
 
 {id:501,name:"STR+1 HP+5 capa+5 (fc)",str:1,hp:5,capa:5,slot:1}
 {id:502,name:"TEC+1 HP+5 capa+5 (fc)",tec:1,hp:5,capa:5,slot:1}
