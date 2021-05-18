@@ -45,7 +45,7 @@
 
 {id:91,name:"マニモガールBD",cartridge:{hpup:14,lv1:"4*6@25|7@30|9@15|8@20|19@15|51@30|23@25|22@30|52@20|21@20|13@30|25@25|39@15|32@50|31@40"},cost:445,capa:900,hp:225,str:12,tec:5,wlk:7,fly:14,tgh:10,size:"S",type:"a",fixedParts:{hd:{name:"マニモガールHD",cost:40,hp:25,str:2,wlk:2,tgh:1,size:"S",type:"a"},am:[{name:"マニモガールAM",tunable:{mwp:1},main:{tec:100,pwr:25,shl:100,rng:275,spd:480,itv:1000},cost:70,hp:25,str:3,wlk:-1,fly:2,tgh:1,size:"S",type:"a",comment:"部位破壊不能"},{name:"マニモガールAM2",joint:{wp:0},cost:40,hp:25,str:3,wlk:-1,fly:2,tgh:1,size:"S",type:"a",comment:"部位破壊不能"}],wp:{name:"マニモジェットランス",sub:{pwr:28,shl:60,rng:150,spd:200,itv:1000},cost:140},lg:{name:"マニモガールLG",cost:45,hp:25,str:1,tec:2,wlk:3,fly:-1,tgh:1,size:"S",type:"a"}},joint:{wp:1,bs:2}}
 
-
+{id:29,name:"フォンメイαBD",cartridge:{lv1:"85*6@25|7@20|9@15|19@15|12@20|13@20|8@20",lv6:"23@25|18@30|22@30|28@30|29@15|21@20",lv9:"30@20|32@50",hpup:18},cost:405,capa:830,hp:210,str:6,tec:13,wlk:6,fly:15,tgh:5,wbid:1,fixedParts:{hd:{name:"フォンメイαHD",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1},lg:{name:"フォンメイαLG",joint:{bs:1},cost:45,hp:25,tec:1,wlk:3,fly:1},bs:{name:"フォンメイαBS",main:{pwr:0,shl:30,rng:0,spd:10,itv:1000},sub:{shl:60,rng:100,spd:160,itv:1000},cost:100,hp:25,tec:1,fly:4},am:[{name:"フォンメイαAM",fixedParts:{wp:{name:"フォンティエン",main:{pwr:9,shl:810,rng:275,spd:320,itv:1000},sub:{shl:0,rng:100,spd:150,itv:1000},cost:140,tunable:{mwp:1,pwp:1}}},cost:35,hp:20,tec:2,fly:1,tgh:2},{name:"フォンメイαAM2",cost:35,hp:20,tec:2,fly:1,tgh:2}]}}
 
 
 
