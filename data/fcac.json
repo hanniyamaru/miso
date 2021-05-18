@@ -33,8 +33,8 @@
 
 
 
-{id:56,name:"金魚",capa:5,hp:5,wlk:1,slot:1,comment:["「HEAL SONG」 1回の使用につきHP10回復 5連射可能","イベント品"],sub:{shl:10,itv:500},tunable:{pwp:0}}
-{id:57,name:"バリアブルマフラー",capa:5,hp:5,fly:1,slot:1,comment:"「WING GLIDER 使用中落下速度が緩やかになる",sub:{shl:3,itv:500},tunable:{pwp:0}}
+{id:56,name:"金魚",capa:5,hp:5,wlk:1,slot:1,comment:["「HEAL SONG」 1回の使用につきHP10回復 5連射可能","-"],sub:{shl:10,itv:500},tunable:{pwp:0}}
+{id:57,name:"バリアブルマフラー",capa:5,hp:5,fly:1,slot:1,comment:"「WING GLIDER」 使用中落下速度が緩やかになる",sub:{shl:3,itv:500},tunable:{pwp:0}}
 
 
 
