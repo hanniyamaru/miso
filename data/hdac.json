@@ -1,36 +1,36 @@
 {group:"頭飾り",nextID:99}
 
 
-{id:399,name:"スロット",slot:3,joint:{hdac:1,fcac:0,hd:0}}
+{id:399,name:"スロット (hd)",slot:3,joint:{hdac:1,fcac:0,hd:0}}
 
-{id:301,name:"STR+1 HP+5 Capa+5",str:1,hp:5,capa:5,slot:1}
-{id:302,name:"TEC+1 HP+5 Capa+5",tec:1,hp:5,capa:5,slot:1}
-{id:303,name:"WLK+1 HP+5 Capa+5",wlk:1,hp:5,capa:5,slot:1}
-{id:304,name:"FLY+1 HP+5 Capa+5",fly:1,hp:5,capa:5,slot:1}
-{id:305,name:"TGH+1 HP+5 Capa+5",tgh:1,hp:5,capa:5,slot:1}
+{id:301,name:"STR+1 HP+5 Capa+5 (hd)",str:1,hp:5,capa:5,slot:1}
+{id:302,name:"TEC+1 HP+5 Capa+5 (hd)",tec:1,hp:5,capa:5,slot:1}
+{id:303,name:"WLK+1 HP+5 Capa+5 (hd)",wlk:1,hp:5,capa:5,slot:1}
+{id:304,name:"FLY+1 HP+5 Capa+5 (hd)",fly:1,hp:5,capa:5,slot:1}
+{id:305,name:"TGH+1 HP+5 Capa+5 (hd)",tgh:1,hp:5,capa:5,slot:1}
 
-{id:401,name:"STR+1 HP+10",str:1,hp:10,slot:1}
-{id:402,name:"TEC+1 HP+10",tec:1,hp:10,slot:1}
-{id:403,name:"WLK+1 HP+10",wlk:1,hp:10,slot:1}
-{id:404,name:"FLY+1 HP+10",fly:1,hp:10,slot:1}
-{id:405,name:"TGH+1 HP+10",tgh:1,hp:10,slot:1}
+{id:401,name:"STR+1 HP+10 (hd)",str:1,hp:10,slot:1}
+{id:402,name:"TEC+1 HP+10 (hd)",tec:1,hp:10,slot:1}
+{id:403,name:"WLK+1 HP+10 (hd)",wlk:1,hp:10,slot:1}
+{id:404,name:"FLY+1 HP+10 (hd)",fly:1,hp:10,slot:1}
+{id:405,name:"TGH+1 HP+10 (hd)",tgh:1,hp:10,slot:1}
 
-{id:406,name:"STR+2",str:2,slot:1}
-{id:407,name:"TEC+2",tec:2,slot:1}
-{id:408,name:"WLK+2",wlk:2,slot:1}
-{id:409,name:"FLY+2",fly:2,slot:1}
-{id:410,name:"TGH+2",tgh:2,slot:1}
+{id:406,name:"STR+2 (hd)",str:2,slot:1}
+{id:407,name:"TEC+2 (hd)",tec:2,slot:1}
+{id:408,name:"WLK+2 (hd)",wlk:2,slot:1}
+{id:409,name:"FLY+2 (hd)",fly:2,slot:1}
+{id:410,name:"TGH+2 (hd)",tgh:2,slot:1}
 
-{id:701,name:"STR+1 TEC+1 ",str:1,tec:1,slot:1}
-{id:702,name:"STR+1 WLK+1 ",str:1,wlk:1,slot:1}
-{id:703,name:"STR+1 FLY+1 ",str:1,fly:1,slot:1}
-{id:704,name:"STR+1 TGH+1 ",str:1,tgh:1,slot:1}
-{id:705,name:"TEC+1 WLK+1 ",tec:1,wlk:1,slot:1}
-{id:706,name:"TEC+1 FLY+1 ",tec:1,fly:1,slot:1}
-{id:707,name:"TEC+1 TGH+1 ",tec:1,tgh:1,slot:1}
-{id:708,name:"WLK+1 FLY+1 ",wlk:1,fly:1,slot:1}
-{id:709,name:"WLK+1 TGH+1 ",wlk:1,tgh:1,slot:1}
-{id:710,name:"FLY+1 TGH+1 ",fly:1,tgh:1,slot:1}
+{id:701,name:"STR+1 TEC+1 (hd) ",str:1,tec:1,slot:1}
+{id:702,name:"STR+1 WLK+1 (hd) ",str:1,wlk:1,slot:1}
+{id:703,name:"STR+1 FLY+1 (hd) ",str:1,fly:1,slot:1}
+{id:704,name:"STR+1 TGH+1 (hd) ",str:1,tgh:1,slot:1}
+{id:705,name:"TEC+1 WLK+1 (hd) ",tec:1,wlk:1,slot:1}
+{id:706,name:"TEC+1 FLY+1 (hd) ",tec:1,fly:1,slot:1}
+{id:707,name:"TEC+1 TGH+1 (hd) ",tec:1,tgh:1,slot:1}
+{id:708,name:"WLK+1 FLY+1 (hd) ",wlk:1,fly:1,slot:1}
+{id:709,name:"WLK+1 TGH+1 (hd) ",wlk:1,tgh:1,slot:1}
+{id:710,name:"FLY+1 TGH+1 (hd) ",fly:1,tgh:1,slot:1}
 
 {id:244,name:"シャークボーシ",capa:5,hp:5,wlk:1,slot:1,comment:["クイックスイム付与"],sub:{itv:500},tunable:{pwp:0}}
 
