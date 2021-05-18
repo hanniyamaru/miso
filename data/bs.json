@@ -87,7 +87,7 @@
 {id:109,name:"ナイトジャーBS",type:"l",cost:40,hp:25,str:2,tec:-1,fly:3,tgh:1}
 {id:509,name:"ワンダーズBS",type:"s",cost:40,hp:25,str:1,tec:1,wlk:1,fly:3,tgh:-1}
 {id:60,name:"ルーシェαBS",type:"c",cost:40,hp:25,str:1,tec:1,wlk:1,fly:3,tgh:-1}
-
+{id:56,name:"フォンメイBS2",type:"a",cost:30,hp:15,wlk:1,fly:2,tgh:1}
 
 
 
