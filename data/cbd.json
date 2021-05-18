@@ -32,7 +32,7 @@
 
 
 {group:"UniＭ砲",prefixID:"CM",commonStat:{size:"M",type:"c"},nextID:13}
-{id:8,name:"アマテウスBD",cost:580,capa:945,hp:270,str:6,tec:15,wlk:6,fly:10,tgh:14,main:{pwr:16,shl:300,rng:[350],spd:[290],itv:500},sub:{pwr:[23],shl:[60],rng:[350],spd:10,itv:1000},wbid:4,cartridge:{hpup:10,lv1:"75*5@20|6*2@30|7@20|10@20|8@15|17@20|18@20|20@15|23@25|30@20|21@20|26@10|13@30|32@40|31@40"}}
+{id:8,name:"アマテウスBD",cost:580,capa:945,hp:270,str:6,tec:15,wlk:6,fly:10,tgh:14,main:{[pwr:16,19,22],shl:300,rng:[350,365,380],spd:[290,305,320],itv:500},sub:{pwr:[23,32],shl:[60],rng:[350],spd:10,itv:1000},wbid:4,cartridge:{hpup:10,lv1:"75*5@20|6*2@30|7@20|10@20|8@15|17@20|18@20|20@15|23@25|30@20|21@20|26@10|13@30|32@40|31@40"}}
 {id:4,name:"ガシマBD",cost:525,capa:905,hp:290,str:3,tec:14,wlk:8,fly:6,tgh:9,sub:{pwr:[12],shl:[270],rng:[350],spd:[210],itv:1000},wbid:3,cartridge:{hpup:14,lv1:"4*5@20|61*2@30|7@20|10@20|8@15|17@20|20@15|23@25|22@30|30@20|21@20|26@10|13@30|32@40|31@40"}}
 
 {id:13,name:"トイボックスガールαBD",sub:{tec:100,pwr:[14,18,23],shl:230,rng:350,spd:290,itv:1000},cartridge:{lv1:"85*5@20|61*2@30|7@20|10@20|8@15|18@20|20@15|23@25|22@30|30@20|21@20|26@10|13@30|32@40|31@40|",hpup:18},cost:505,capa:800,hp:270,str:3,tec:16,wlk:9,fly:9,tgh:13,fixedParts:{hd:{name:"トイボックスガールαHD",sub:{tec:100,pwr:15,shl:120,rng:40,spd:200,itv:1000},cost:75,hp:25,tec:2,wlk:1,fly:1,tgh:1},lg:{name:"トイボックスガールαLG",cost:45,hp:25,tec:-1,wlk:3,tgh:3}},builtin:{bs:1}}
