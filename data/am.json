@@ -133,7 +133,7 @@
 {id:40,name:"ソルジェッターAM",cost:35,hp:20,str:2,fly:2,tgh:1}
 {id:15,name:"デストラクトAM",type:"c",cost:70,hp:25,str:1,tec:2,tgh:2,main:{pwr:3,shl:1080,rng:300,spd:400,itv:200},tunable:{mwp:1},joint:{wp:0}}
 {id:16,name:"デストラクトAM2",cost:40,hp:25,str:1,tec:2,tgh:2}
-{id:83,name:"デストラクトMAXAM",main:{pwr:8,shl:350,rng:350,spd:480,itv:200},cost:95,hp:10,str:-1,tec:2,tgh:2,type:"c",joint:{wp:0},tunable:{mwp:0}}
+{id:83,name:"デストラクトMAXAM",main:{pwr:10,shl:280,rng:330,spd:570,itv:200},cost:90,hp:25,str:-1,tec:3,wlk:1,tgh:2,type:"c",joint:{wp:0},tunable:{mwp:0}}
 {id:46,name:"ガルラバードAM",type:"a",cost:90,hp:25,str:-1,tec:2,fly:2,tgh:2,main:{pwr:5,shl:620,rng:275,spd:390,itv:160},tunable:{mwp:1},joint:{wp:0}}
 {id:187,name:"ウミガメンティスAM",main:{pwr:16,shl:140,rng:275,spd:350,itv:780},type:"a",size:"M",cost:80,hp:25,str:-1,tec:2,fly:2,tgh:2,tunable:{mwp:1}}
 {id:190,name:"ワニガメンティスAM",type:"lacs",size:"M",cost:40,hp:25,str:1,tec:2,tgh:2}
