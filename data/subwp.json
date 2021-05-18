@@ -105,7 +105,8 @@
 {id:3000,name:"ハクメンスクナアニマ",size:"M",cost:150,type:"l",sub:{str:100,pwr:34,rng:70,spd:85,itv:500},tunable:{pwp:1}}
 {id:3001,name:"ポイーンブレード",size:"M",cost:160,type:"a",sub:{str:100,pwr:33,rng:70,spd:85,itv:500},tunable:{pwp:1}}
 {id:3002,name:"ゲルニアハンマー",size:"L",cost:120,type:"l",sub:{str:100,pwr:28,rng:100,spd:85,itv:1000},tunable:{pwp:1}}
-{id:3003,name:"デゴアックス",size:"L",cost:160,type:"a",sub:{str:100,pwr:28,rng:100,spd:180,itv:1000},tunable:{pwp:1}}
+{id:3003,name:"ガルドダガー",size:"S",cost:120,type:"l",sub:{str:100,pwr:28,rng:100,spd:250,itv:500},tunable:{pwp:1}}
+{id:3004,name:"デゴアックス",size:"L",cost:160,type:"a",sub:{str:100,pwr:28,rng:100,spd:180,itv:1000},tunable:{pwp:1}}
 
 
 {id:18,name:"ゲソウィップ",sub:{str:100,pwr:26,rng:70,spd:85,itv:500},type:"s",size:"S",cost:80}
