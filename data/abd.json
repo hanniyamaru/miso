@@ -130,7 +130,7 @@
 
 {id:31,name:"ヴォルフライエBD",main:{pwr:[12],shl:[320],rng:275,spd:[460],itv:320,tec:100},cartridge:{hpup:11,lv1:"3*5@15|6*2@30|7@30|9@15|8@20|17@30|19@15|21@20|23@25|22@30|31@40|13@30|32@50|26@20"},cost:565,capa:910,hp:290,str:6,tec:12,wlk:6,fly:15,tgh:7,wbid:1}
 
-{id:46,name:"アルマダBD",sub:{shl:30,rng:100,spd:150,itv:1000},cartridge:{hpup:10,lv1:"3*6@15|7@30|9@15|8@20|19@15|23@25|22@30|26@20|30@20|21@20|28@30|13@30|32@50|31@40"},fixedParts:{bs:{name:"アルマダBS",main:{pwr:5,shl:900,rng:275,spd:280,itv:340},tunable:{mwp:1},cost:95,hp:25,str:1,tec:2,wlk:-1,fly:3,tgh:1}},type:"a",size:"L",cost:540,capa:1015,hp:305,str:4,tec:8,wlk:8,fly:12,tgh:15,wbid:4}
+{id:46,name:"アルマダBD",sub:{shl:30,rng:100,spd:150,itv:1000},cartridge:{hpup:10,lv1:"75*6@20|7@30|9@15|8@20|19@15|23@25|22@30|26@20|52@20|30@20|21@20|28@30|13@30|32@50|31@40"},fixedParts:{bs:{name:"アルマダBS",main:{pwr:5,shl:900,rng:275,spd:280,itv:340},tunable:{mwp:1},cost:95,hp:25,str:1,tec:2,wlk:-1,fly:3,tgh:1}},type:"a",size:"L",cost:540,capa:1015,hp:305,str:3,tec:7,wlk:6,fly:10,tgh:9,wbid:4}
 
 {id:790,name:"ハクメンスクナBD",cost:530,capa:945,hp:330,str:8,tec:7,wlk:6,fly:20,tgh:15,wbid:1,cartridge:{hpup:10,lv1:"4*6@20|7@30|9@15|8@20|19@15|23@25|22@30|28@30|52@20|15@20|26@20|21@20|13@30|32@50|31@40"},comment:"交換品のためカートリッジの確認ができず未完成"}
 
