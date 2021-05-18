@@ -17,20 +17,43 @@
 {id:409,name:"FLY+2 ",fly:2,slot:1}
 {id:410,name:"TGH+2 ",tgh:2,slot:1}
 
+{id:701,name:"STR+1 TEC+1 ",str:1,tec:1,slot:1}
+{id:702,name:"STR+1 WLK+1 ",str:1,wlk:1,slot:1}
+{id:703,name:"STR+1 FLY+1 ",str:1,fly:1,slot:1}
+{id:704,name:"STR+1 TGH+1 ",str:1,tgh:1,slot:1}
+{id:705,name:"TEC+1 WLK+1 ",tec:1,wlk:1,slot:1}
+{id:706,name:"TEC+1 FLY+1 ",tec:1,fly:1,slot:1}
+{id:707,name:"TEC+1 TGH+1 ",tec:1,tgh:1,slot:1}
+{id:708,name:"WLK+1 FLY+1 ",wlk:1,fly:1,slot:1}
+{id:709,name:"WLK+1 TGH+1 ",wlk:1,tgh:1,slot:1}
+{id:710,name:"FLY+1 TGH+1 ",fly:1,tgh:1,slot:1}
 
-{id:1,name:"パピヨンマスク",slot:0}
-{id:2,name:"サーティーンマスク",slot:0}
+
+
+{id:180,name:"シャークボーシ",capa:5,hp:5,wlk:1,slot:1,comment:["クイックスイム付与"],sub:{itv:500},tunable:{pwp:0}}
+{id:56,name:"金魚",capa:5,hp:5,wlk:1,slot:1,comment:["「HEAL SONG」 1回の使用につきHP10回復 5連射可能","イベント品"],sub:{shl:10,itv:500},tunable:{pwp:0}}
+{id:57,name:"バリアブルマフラー",capa:5,hp:5,fly:1,slot:1,comment:"「WING GLIDER 使用中落下速度が緩やかになる",sub:{shl:3,itv:500},tunable:{pwp:0}}
+
+
+
+
+
+
+
+
+{id:1,name:"パピヨンマスク",slot:1}
+{id:2,name:"サーティーンマスク",slot:1}
 {id:3,name:"ブラッドサーティーン",str:1,slot:1}
-{id:4,name:"ファントムマスク",slot:0}
-{id:5,name:"キャニスターマスク",str:1,tec:-1,tgh:1,slot:0}
-{id:6,name:"ワンワンマスク",type:"s",hp:5,slot:0}
-{id:7,name:"インテリレッド",slot:0}
+{id:4,name:"ファントムマスク",slot:1}
+{id:5,name:"キャニスターマスク",str:1,tec:-1,tgh:1,slot:1}
+{id:6,name:"ワンワンマスク",type:"s",hp:5,slot:1}
+{id:7,name:"インテリレッド",slot:1}
 {id:8,name:"インテリブルー",tec:1,slot:1}
 {id:9,name:"インテリグリーン",tgh:1,slot:1}
-{id:10,name:"エイルのゴーグル",fly:1,slot:0}
-{id:11,name:"ミニクリム",capa:5,fly:1,slot:0}
+{id:10,name:"エイルのゴーグル",fly:1,slot:1}
+{id:11,name:"ミニクリム",capa:5,fly:1,slot:1}
 {id:12,name:"セーラーミニクリム",fly:1,slot:1}
-{id:13,name:"ミニリリ",capa:5,tec:1,slot:0}
+{id:13,name:"ミニリリ",capa:5,tec:1,slot:1}
 {id:14,name:"スクールミニリリ",tec:1,slot:1}
 {id:15,name:"ミニアイヴィス",capa:5,hp:5,str:1,slot:0}
 {id:16,name:"ドレスミニアイヴィス",capa:5,str:1,slot:1}
@@ -73,8 +96,7 @@
 {id:55,name:"ウィンターファー",hp:5,wlk:1,slot:0}
 {id:53,name:"サニーリボン",tec:1,capa:5,slot:0}
 {id:54,name:"ウサミミマフラー",tec:1,tgh:1,slot:1}
-{id:56,name:"金魚",capa:5,hp:5,wlk:1,slot:1,comment:["「HEAL SONG」 1回の使用につきHP10回復 5連射可能","イベント品"],sub:{shl:10,itv:500},tunable:{pwp:0}}
-{id:57,name:"バリアブルマフラー",fly:1,slot:1,comment:"「WING GLIDER」弾数無制限 使用中落下速度が緩やかになる",sub:{itv:500},tunable:{pwp:0}}
+
 {id:58,name:"キャットペンダント",wlk:1,fly:1,slot:0}
 {id:59,name:"セチアチョーカー",tec:1,hp:5,slot:1}
 {id:60,name:"カントリースカーフ",hp:5,str:1,slot:0}
