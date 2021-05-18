@@ -104,7 +104,7 @@
 {id:163,name:"RAMソルジェッターAM",tunable:{pwp:1},type:"a",size:"M",cost:80,hp:25,str:2,tec:1,wlk:-1,fly:2,tgh:1,comment:"ビーム属性",sub:{str:100,pwr:26,rng:70,spd:85,itv:500}}
 {id:330,name:"ウィンドリンクスAM",cost:40,hp:25,tec:1,wlk:1,fly:1,tgh:2}
 {id:172,name:"ブラディスターAM",type:"c",size:"M",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1,joint:{wp:2}}
-{id:44,name:"ハティガルムAM",cost:70,hp:25,tec:2,wlk:2,tgh:1,main:{pwr:12,shl:280,rng:225,spd:400,itv:400},tunable:{mwp:1},joint:{wp:0}}
+{id:44,name:"ハティガルムAM",cost:70,hp:25,tec:2,wlk:2,tgh:1,main:{pwr:15,shl:180,rng:225,spd:570,itv:400},tunable:{mwp:1},joint:{wp:0}}
 {id:36,name:"シグマクロックAM",cost:35,hp:20,str:2,tec:1,fly:1,tgh:1}
 {id:85,name:"メディージャーAM",cost:35,hp:20,tec:1,wlk:2,tgh:2}
 {id:86,name:"メディージャーAM2",cost:35,hp:20,tec:1,wlk:2,tgh:2,comment:"リペ弾",fixedParts:{wp:{name:"バクルス",main:{shl:80,rng:300,spd:300,itv:500},tunable:{mwp:0},cost:70,slot:0}},type:"s"}
@@ -112,7 +112,7 @@
 {id:156,name:"メディージャーAM4",type:"s",size:"M",cost:35,hp:20,tec:1,wlk:2,tgh:2,comment:"シェルサプ杖",fixedParts:{wp:{name:"アスクレピオス",main:{shl:80,rng:300,spd:300,itv:500},type:"s",size:"M",cost:40,slot:0}}}
 {id:89,name:"トニトルスAM",main:{pwr:14,shl:300,rng:275,spd:440,itv:500},tunable:{mwp:1},joint:{wp:0},auraStat:{main:{pwr:14,shl:300,rng:275,spd:440,itv:500}},type:"a",cost:110,hp:25,tec:3,wlk:-1,fly:1,tgh:2,comment:"※変形はAURAで対応"}
 {id:90,name:"トニトルスAM2",sub:{tec:100,pwr:30,rng:70,spd:85,itv:500},auraStat:{sub:{tec:100,pwr:27,rng:120,spd:200,itv:1000}},type:"a",cost:110,hp:25,str:-1,tec:2,fly:2,tgh:2,comment:["※変形はAURAで対応"],joint:{wp:0}}
-{id:52,name:"ガンアームズAM",type:"c",cost:60,hp:20,tec:3,fly:2,main:{pwr:5,shl:500,rng:225,spd:400,itv:240},tunable:{mwp:1}}
+{id:52,name:"ガンアームズAM",type:"c",cost:60,hp:20,tec:3,fly:2,main:{pwr:10,shl:220,rng:225,spd:400,itv:240},tunable:{mwp:1}}
 {id:53,name:"ガンアームズAM2",type:"c",cost:80,hp:20,str:-1,tec:3,fly:1,tgh:2,sub:{pwr:11,shl:200,rng:350,spd:290,itv:1000}}
 {id:72,name:"ビャッコウAM",sub:{str:100,pwr:32,rng:70,spd:85,itv:500},auraStat:{sub:{str:100,pwr:32,rng:88,spd:106,itv:800},str:3,tec:-1,wlk:1,fly:1,tgh:1},type:"l",cost:140,hp:25,str:3,tec:-1,wlk:1,fly:1,tgh:1,comment:"AURA機構、シールド無視攻撃",tunable:{pwp:1}}
 {id:67,name:"セイロンAM",cost:40,hp:25,str:2,tec:1,fly:1,tgh:1}
@@ -193,7 +193,7 @@
 {id:21,name:"ランサーロットAM",type:"l",cost:190,hp:25,str:3,tec:-1,wlk:1,tgh:2,sub:{str:100,pwr:28,shl:0,rng:120,spd:250,itv:1000},main:{str:100,pwr:13,shl:210,rng:250,spd:440,itv:160},tunable:{pwp:1,mwp:1},joint:{wp:0}}
 {id:23,name:"ランサーロットAM3",type:"l",cost:110,hp:25,str:4,tec:-1,tgh:2,sub:{str:100,pwr:34,rng:63,spd:76,itv:500},tunable:{pwp:1},joint:{wp:0}}
 {id:24,name:"ランサーロットAM4",type:"l",cost:190,hp:25,str:2,tec:-1,wlk:2,fly:1,tgh:1,main:{str:100,pwr:14,shl:240,rng:225,spd:400,itv:520},sub:{str:100,pwr:30,rng:84,spd:102,itv:500},tunable:{mwp:1,pwp:1},joint:{wp:0}}
-{id:114,name:"ドラゴネイルAM",main:{pwr:8,shl:320,rng:200,spd:400,itv:340},sub:{pwr:29,shl:30,rng:70,spd:85,itv:500,str:100},tunable:{mwp:1,pwp:1},cost:145,hp:25,str:3,tec:-1,wlk:1,fly:1,tgh:1}
+{id:114,name:"ドラゴネイルAM",main:{pwr:12,shl:180,rng:225,spd:570,itv:340},sub:{pwr:29,shl:30,rng:70,spd:85,itv:500,str:100},tunable:{mwp:1,pwp:1},cost:145,hp:25,str:3,tec:-1,wlk:1,fly:1,tgh:1}
 {id:210,name:"ペルセシウスAM",main:{str:100,pwr:15,shl:30,rng:250,spd:570,itv:500},tunable:{mwp:1},type:"a",size:"M",cost:55,hp:25,str:3,tec:-1,fly:2,tgh:1}
 {id:104,name:"ヴォルフライエAM",cost:40,hp:25,tec:3,fly:1,wlk:1}
 {id:137,name:"アルマダAM",main:{tec:100,pwr:13,shl:400,rng:275,spd:255,itv:360},type:"a",size:"L",cost:100,hp:25,tec:3,wlk:-1,fly:1,tgh:2,tunable:{mwp:1},joint:{wp:0}}
