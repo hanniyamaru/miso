@@ -139,6 +139,11 @@
 {id:81,name:"日光の守り",sub:{str:100,pwr:22,rng:150,spd:85,itv:2000},type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
 {id:82,name:"鏑の弓",main:{str:100,pwr:10,shl:120,rng:200,spd:570,itv:400},sub:{str:100,pwr:24,rng:150,spd:85,itv:2000},type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
 
+{id:116,name:"キャプテンアンカー",main:{tec:100,pwr:20,shl:50,rng:200,spd:400,itv:500},sub:{str:100,pwr:28,rng:0,spd:0,itv:1000},joint:{wp:1},type:"l",size:"S",comment:"キャプテンサニー専用コンバージョンパーツ",slot:0,cost:110}
+{id:117,name:"キャプテンアンカー@",main:{tec:100,shl:50,spd:10,itv:1000},sub:{str:100,pwr:30,rng:70,spd:85,itv:500},tunable:{pwp:1},cost:120,type:"l",size:"S",comment:"キャプテンアンカーにのみ接続可能"}
+
+{id:112,name:"チェーンブレード",main:{tec:100,shl:50,spd:10,itv:1000},sub:{str:100,pwr:28,rng:77,spd:102,itv:500},tunable:{pwp:1},cost:130,comment:"キリカ専用コンバージョンパーツ"}
+{id:113,name:"チェーンブレードの鞘",main:{tec:100,shl:-1,spd:150,itv:1000},sub:{str:100,pwr:28,shl:0,rng:120,spd:250,itv:1000},tunable:{pwp:0,mwp:0},slot:0,comment:"キリカ専用コンバージョンパーツ"}
 
 
 
