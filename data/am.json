@@ -143,6 +143,9 @@
 
 {id:12,name:"テツジンガーAM",tunable:{pwp:1},type:"l",cost:105,hp:20,str:3,tec:-1,wlk:1,tgh:2,sub:{str:100,pwr:34,rng:70,spd:85,itv:500}}
 {id:144,name:"シンビジウムAM2",main:{pwr:10,shl:240,rng:275,spd:290,itv:900},type:"a",size:"M",cost:65,hp:20,tec:3,fly:1,tgh:1,tunable:{mwp:1}}
+{id:14,name:"デジトロイドAM",cost:40,hp:25,str:1,tec:1,wlk:1,fly:1,tgh:1}
+{id:523,name:"スコルタンAM2",cost:35,hp:20,str:2,wlk:1,tgh:2}
+{id:154,name:"ビクトリーAM",type:"lacs",size:"M",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1}
 
 
 
@@ -151,6 +154,10 @@
 
 
 {group:"UniＬサイズ",prefixID:"L",commonStat:{size:"L"},nextID:53}
+{id:531,name:"スチールライダーAM2",type:"l",cost:135,hp:20,str:-1,tec:3,wlk:1,tgh:2,main:{tec:100,pwr:5,shl:1400,rng:225,spd:400,itv:180},tunable:{mwp:1}}
+{id:108,name:"カタロスAM",type:"a",cost:40,hp:25,tec:3,fly:1,tgh:1,comment:"-"}
+{id:19,name:"メガトンオーAM",cost:35,hp:20,str:2,tec:1,tgh:2}
+{id:4,name:"ギガトンオーAM",cost:40,hp:25,str:2,tec:2,tgh:1}
 {id:36,name:"ジーウェインAM",type:"a",cost:40,hp:25,tec:1,fly:1,tgh:3,builtin:{bs:1}}
 
 {id:16,name:"マイティバインAM",type:"l",cost:135,hp:25,str:3,tec:-1,wlk:1,tgh:2,sub:{str:100,pwr:35,shl:40,rng:70,spd:85,itv:2000},tunable:{pwp:1},comment:"シールド耐久値60"}
@@ -227,6 +234,7 @@
 
 {group:"UniＬＬサイズ",prefixID:"LL",commonStat:{size:"LL"},nextID:7}
 {id:1,name:"マイティバインAM3",type:"l",cost:155,hp:25,str:4,wlk:2,fly:-1,main:{str:100,pwr:9,shl:780,rng:150,spd:400,itv:500},sub:{str:100,pwr:38,shl:30,rng:70,spd:85,itv:500},tunable:{mwp:1,pwp:1},joint:{wp:0},comment:"-"}
+{id:2,name:"ギガトンオーAM2",type:"c",cost:200,hp:25,str:-1,tec:4,fly:-1,tgh:3,main:{pwr:37,shl:220,rng:330,spd:360,itv:800},sub:{pwr:30,shl:90,rng:350,spd:240,itv:1000},tunable:{mwp:1},joint:{wp:0}}
 {id:3,name:"ソア・ラAM2",type:"a",cost:190,hp:25,str:-1,tec:3,fly:1,tgh:2,main:{pwr:33,shl:190,rng:275,spd:440,itv:600},tunable:{mwp:1},joint:{wp:0}}
 {id:1401,name:"ガデロガAM",main:{tec:100,pwr:34,shl:100,rng:300,spd:320,itv:1000},tunable:{mwp:1},type:"c",cost:100,hp:25,str:-1,tec:3,wlk:-1,fly:1,tgh:3,joint:{wp:0}}
 {id:1402,name:"ガデロガAM2",main:{tec:100,pwr:7,shl:820,rng:90,spd:480,itv:100},tunable:{mwp:1},type:"c",cost:125,hp:25,tec:2,wlk:2,fly:-1,tgh:2,joint:{wp:0}}
@@ -234,7 +242,7 @@
 {id:16,name:"マシンドレットAM",sub:{str:100,pwr:31,rng:120,spd:250,itv:1000},tunable:{pwp:1},joint:{wp:0},type:"l",cost:190,hp:25,str:3,tec:-1,wlk:1,fly:-1,tgh:3}
 {id:160,name:"ペルセシウスAM2",size:"LL",cost:80,hp:25,str:1,tec:1,tgh:3,comment:"盾耐久値70 2021 2/12"}
 {id:4,name:"ダイダリオンAM2",type:"l",cost:205,hp:25,str:4,tec:-1,fly:-1,tgh:3,sub:{str:100,pwr:34,rng:70,spd:85,itv:1000},tunable:{pwp:1},joint:{wp:0}}
-
+{id:15,name:"ビッグマンテスAM2",type:"a",cost:135,hp:20,str:-1,tec:3,tgh:3,main:{pwr:7,shl:1000,rng:275,spd:350,itv:900},tunable:{mwp:1},joint:{wp:0}}
 
 
 
