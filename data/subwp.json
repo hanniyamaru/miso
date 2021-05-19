@@ -42,7 +42,7 @@
 
 {group:"Uniランス系",prefixID:"LC",commonStat:{tunable:{pwp:1}},nextID:13}
 {id:21,name:"イビルハルバード",sub:{str:100,pwr:33,rng:91,spd:110,itv:500},tunable:{pwp:1},cost:180,type:"la",size:"M"}
-{id:9,name:"スピア",type:"ls",size:"M",cost:00,sub:{str:100,pwr:32,rng:84,spd:102,itv:1000}}
+{id:9,name:"スピア",type:"ls",size:"M",cost:100,sub:{str:100,pwr:32,rng:84,spd:102,itv:1000}}
 {id:5,name:"ランス",type:"l",size:"M",cost:100,sub:{str:100,pwr:28,rng:100,spd:200,itv:2000}}
 {id:1,name:"レイピア",type:"a",size:"S",cost:40,sub:{str:100,pwr:23,rng:100,spd:200,itv:1000}}
 {id:4,name:"デュエルレイピア",type:"a",size:"M",cost:100,sub:{str:100,pwr:27,rng:100,spd:200,itv:1000}}
