@@ -143,7 +143,7 @@
 {id:117,name:"キャプテンアンカー@",main:{tec:100,shl:50,spd:10,itv:1000},sub:{str:100,pwr:30,rng:70,spd:85,itv:500},tunable:{mwp:1,pwp:1},cost:120,type:"l",size:"S",comment:"キャプテンアンカーにのみ接続可能"}
 
 {id:112,name:"チェーンブレード",main:{tec:100,shl:50,spd:10,itv:1000},sub:{str:100,pwr:28,rng:77,spd:102,itv:500},tunable:{pwp:1},cost:130,comment:"キリカ専用コンバージョンパーツ"}
-{id:113,name:"チェーンブレードの鞘",main:{tec:100,shl:-1,spd:150,itv:1000},sub:{str:100,pwr:28,shl:0,rng:120,spd:250,itv:1000},tunable:{pwp:0,mwp:0},slot:0,comment:"キリカ専用コンバージョンパーツ"}
+{id:113,name:"チェーンブレードの鞘",main:{tec:100,shl:-1,spd:150,itv:1000},sub:{str:100,pwr:28,shl:0,rng:120,spd:250,itv:1000},tunable:{pwp:0,mwp:0},cost:60,slot:0,comment:"キリカ専用コンバージョンパーツ"}
 
 
 
