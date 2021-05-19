@@ -15,7 +15,7 @@
 {id:177,name:"アレスターAM",type:"lacs",size:"S",cost:35,hp:20,str:2,tec:1,wlk:1,fly:2,tgh:-1}
 {id:1770,name:"アレスターAM2",type:"s",size:"S",cost:85,hp:20,str:-1,tec:2,wlk:2,tgh:2,fixedParts:{wp:{name:"アレスターAM2@",main:{tec:100,pwr:7,shl:150,rng:250,spd:500,itv:500},type:"s",size:"S",slot:0}},joint:{wp:2},comment:"@パーツのcost50と合算"}
 {id:43,name:"リリレインαAM",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1}
-{id:2,name:"ウィンベルαAM",type:"s",cost:75,hp:20,tec:2,tgh:3,main:{pwr:5,shl:200,rng:200,spd:480,itv:500},tunable:{mwp:1}}
+{id:2,name:"ウィンベルαAM",type:"s",cost:75,hp:20,tec:2,tgh:3,main:{pwr:7,shl:280,rng:250,spd:480,itv:500},tunable:{mwp:1}}
 {id:18,name:"ジークンαAM",cost:35,hp:20,str:1,tec:1,wlk:2,tgh:1}
 {id:6,name:"クリムローゼαAM",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1}
 {id:7,name:"クリムローゼαAM2",type:"a",cost:105,hp:20,str:3,fly:1,tgh:1,sub:{str:100,pwr:30,rng:70,spd:85,itv:500},tunable:{pwp:1},joint:{wp:0}}
@@ -27,7 +27,7 @@
 {id:16,name:"シャインバトラーAM",cost:40,hp:25,str:2,wlk:1,fly:1,tgh:1}
 
 {id:105,name:"A.L.E.クリムローゼAM",cost:35,hp:20,str:1,tec:3,wlk:-1,tgh:2}
-{id:106,name:"A.L.E.ウィンベルAM",cost:75,hp:20,tec:3,wlk:1,fly:-1,tgh:2,main:{pwr:2,shl:200,rng:200,spd:480,itv:300},tunable:{mwp:1},comment:"-",type:"s"}
+{id:106,name:"A.L.E.ウィンベルAM",cost:75,hp:20,tec:3,wlk:1,fly:-1,tgh:2,main:{pwr:5,shl:300,rng:250,spd:480,itv:300},tunable:{mwp:1},comment:"-",type:"s"}
 {id:107,name:"A.L.E.リリレインAM",cost:35,hp:20,str:1,tec:3,fly:1}
 {id:108,name:"A.L.E.ジークンロンAM",cost:75,hp:20,str:2,tec:-1,wlk:2,tgh:2,type:"l",sub:{pwr:26,rng:70,spd:85,itv:500,str:100},tunable:{pwp:1}}
 {id:146,name:"A.L.E.ラズフラムAM",cost:35,hp:20,str:2,tec:2,wlk:2,fly:-1,type:"lacs",size:"S"}
@@ -262,7 +262,7 @@
 {id:401,name:"S・UバリアシューターAMJ",main:{pwr:11,shl:180,rng:300,spd:260,itv:500},tunable:{mwp:1},type:"c",size:"M",cost:60,str:-1,tgh:2,slot:1}
 {id:402,name:"ビームキャンセラーAMJ",main:{pwr:16,shl:220,rng:300,spd:320,itv:800},tunable:{mwp:1},type:"c",size:"M",cost:60,str:-1,tgh:2,slot:1}
 {id:18,name:"ミドルガトリングAMJ",size:"M",cost:60,main:{pwr:6,shl:1080,rng:200,spd:400,itv:140},tunable:{mwp:1},tec:2,wlk:-1,slot:1,type:"lc"}
-{id:19,name:"ドローガンAMJ",main:{tec:100,pwr:2,shl:150,rng:200,spd:480,itv:500},tunable:{mwp:1},type:"s",size:"M",cost:60,str:1,tec:1,tgh:-1,slot:1}
+{id:19,name:"ドローガンAMJ",main:{tec:100,pwr:6,shl:200,rng:250,spd:480,itv:500},tunable:{mwp:1},type:"s",size:"M",cost:60,str:1,tec:1,tgh:-1,slot:1}
 
 
 
