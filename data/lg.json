@@ -113,6 +113,9 @@
 {id:16,name:"ゴースレイダーLG",type:"a",cost:45,hp:25,str:1,wlk:3,tgh:1}
 {id:53,name:"ゴースレイダーLG2",type:"a",cost:45,hp:25,tec:1,wlk:2,fly:2}
 {id:101,name:"シンビジウムLG2",cost:40,hp:25,tec:2,wlk:3,fly:1}
+{id:7,name:"スコルタンLG",cost:45,hp:25,str:1,tec:1,wlk:3}
+{id:13,name:"デジトロイドLG",cost:45,hp:25,str:2,wlk:3,tgh:1}
+
 
 
 
