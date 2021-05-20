@@ -76,7 +76,7 @@
 
 {id:47,name:"ウィンドリンクスBD",main:{tec:100,pwr:[13,14,15],shl:[380,380,420],rng:275,spd:440,itv:800},type:"a",size:"M",cost:565,capa:855,hp:255,str:6,tec:15,wlk:9,fly:12,tgh:6,sub:{tec:100,pwr:[1],shl:[10,10,30],rng:300,spd:10,itv:1000},joint:{wp:0,hdac:0,fcac:0},cartridge:{hpup:11,lv1:"3*5@20|6*2@30|7@30|9@15|8@20|19@15|23@25|22@30|30@20|21@20|26@20|13@30|32@50|31@40"},wbid:1}
 
-{id:48,name:"RAMソルジェッターBD",main:{str:100,pwr:3,shl:900,rng:275,spd:350,itv:460},cartridge:{hpup:11,lv1:"3*6@20|7@30|9@15|8@20|19@15|23@25|22@30|12@20|26@20|21@20|15@20|13@30|32@50|31@40"},cost:485,capa:855,hp:255,str:13,tec:5,wlk:7,fly:13,tgh:10,wbid:1,type:"a",size:"M"}
+{id:48,name:"RAMソルジェッターBD",main:{str:100,pwr:3,shl:900,rng:275,spd:350,itv:460},cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|19@15|23@25|22@30|12@20|52@20|26@20|21@20|15@20|13@30|32@50|31@40"},cost:485,capa:870,hp:255,str:13,tec:5,wlk:7,fly:13,tgh:10,wbid:1,type:"a",size:"M"}
 
 {id:24,name:"トニトルスBD",comment:"変形はAURAで対応",main:{pwr:[5,6,7],shl:[600],rng:275,spd:350,itv:220},builtin:{bs:1},joint:{bs:0},cartridge:{hpup:14,lv1:"4*6@20|61*2@30|7@30|9@15|8@20|19@15|23@25|22@30|51@20|30@20|21@20|26@20|13@30|32@50|31@40"},cost:535,capa:870,hp:275,str:4,tec:14,wlk:6,fly:19,tgh:10,wbid:1,auraSystem:1}
 
