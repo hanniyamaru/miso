@@ -26,7 +26,7 @@
 {id:2,name:"ダルマスターBD",cost:355,capa:635,hp:205,str:7,tec:7,wlk:13,fly:10,tgh:8,wbid:11,cartridge:{hpup:25,lv1:"95*6@25|17@20|18@20|20@20|23@25|19@20|15@30|16@20|25@25|28@20|14@10|29@10|13@20|32@30|31@40"},joint:{hdac:1,fcac:1,hd:0}}
 
 
-{id:75,name:"A.L.E.ウィンベルBD",cost:525,hp:210,str:6,tec:12,wlk:9,fly:8,tgh:8,capa:800,sub:{pwr:2,itv:[1000]},cartridge:{hpup:12,lv1:"3*6@25|17@20|19@20|20@20|23@25|28@20|30@20|26@20|13@20|32@30|31@40"},fixedParts:{hd:{name:"A.L.E.ウィンベルHD",cost:40,hp:25,str:1,tec:2,wlk:1,tgh:1},lg:{name:"A.L.E.ウィンベルLG",cost:45,hp:25,str:-1,wlk:3,fly:1,tgh:2},wp:{name:"A.L.E.ウィンベルBD@",sub:{itv:1000},slot:3}},wbid:5,joint:{wp:1}}
+{id:75,name:"A.L.E.ウィンベルBD",cost:525,hp:210,capa:815,str:5,tec:9,wlk:8,fly:7,tgh:8,sub:{pwr:2,itv:[1000]},cartridge:{hpup:18,lv1:"85*6@25|17@20|19@20|20@20|23@25|18@20|15@30|14@10|29@10|28@20|30@20|26@20|13@20|32@30|31@40"},fixedParts:{hd:{name:"A.L.E.ウィンベルHD",cost:40,hp:25,str:1,tec:2,wlk:1,tgh:1},lg:{name:"A.L.E.ウィンベルLG",cost:45,hp:25,str:-1,wlk:3,fly:1,tgh:2},wp:{name:"A.L.E.ウィンベルBD@",sub:{itv:1000},slot:3}},wbid:5,joint:{wp:1}}
 
 {id:111,name:"ブルーメBD",type:"s",size:"S",cost:405,capa:780,hp:210,str:8,tec:8,wlk:11,fly:10,tgh:8,cartridge:{hpup:18,lv1:"85*6@25|17@20|19@20|20@20|23@25|22@30|18@20|28@20|25@25|29@10|14@10|26@20|13@20|32@30|31@40"}}
 
