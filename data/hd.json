@@ -158,6 +158,8 @@
 {id:3,name:"ビクトリーHD",cost:35,hp:20,tec:2,wlk:2,tgh:1}
 {id:6,name:"メガトンオーHD",cost:35,hp:20,str:1,tec:1,wlk:1,tgh:1}
 {id:30,name:"ギガトンオーHD",cost:40,hp:25,str:1,wlk:1,fly:1,tgh:2}
+{id:229,name:"カタロスHD",cost:40,hp:25,str:1,wlk:1,fly:1,tgh:2}
+{id:534,name:"ビッグマンテスHD2",cost:40,hp:25,tec:2,fly:2,tgh:1}
 
 
 
