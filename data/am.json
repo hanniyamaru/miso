@@ -31,8 +31,7 @@
 {id:107,name:"A.L.E.リリレインAM",cost:35,hp:20,str:1,tec:3,fly:1}
 {id:108,name:"A.L.E.ジークンロンAM",cost:75,hp:20,str:2,tec:-1,wlk:2,tgh:2,type:"l",sub:{pwr:26,rng:70,spd:85,itv:500,str:100},tunable:{pwp:1}}
 {id:146,name:"A.L.E.ラズフラムAM",cost:35,hp:20,str:2,tec:2,wlk:2,fly:-1,type:"lacs",size:"S"}
-{id:147,name:"A.L.E.ラズフラムAM2",main:{pwr:8,shl:560,rng:225,spd:400,itv:200},type:"l",size:"S",cost:105,hp:20,tec:3,wlk:1,fly:-1,tgh:2,tunable:{mwp:1},joint:{wp:0}}
-{id:41,name:"ラズフラムαAM",cost:35,hp:20,str:1,tec:1,wlk:1,tgh:2}
+{id:147,name:"A.L.E.ラズフラムAM2",main:{pwr:9,shl:600,rng:225,spd:440,itv:200},type:"l",size:"S",cost:105,hp:20,tec:3,wlk:1,fly:-1,tgh:2,tunable:{mwp:1},joint:{wp:0}}{id:41,name:"ラズフラムαAM",cost:35,hp:20,str:1,tec:1,wlk:1,tgh:2}
 {id:56,name:"バタフレアAM",cost:35,hp:20,str:2,tec:2,wlk:-1,fly:1,tgh:1}
 {id:91,name:"バルーダAM",main:{pwr:7,shl:510,rng:275,spd:390,itv:200},sub:{tec:100,pwr:30,shl:100,rng:70,spd:85,itv:500},cost:165,hp:20,tec:2,fly:1,tgh:2,type:"a",size:"S",joint:{wp:0},tunable:{mwp:1,pwp:1}}
 {id:40,name:"モグニードAM",cost:35,hp:20,str:2,tec:1,wlk:1,fly:-1,tgh:1}
