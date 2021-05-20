@@ -50,8 +50,7 @@ lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|26@20|21@20|13@30|34@
 
 {id:78,name:"A.L.E.ジークンロンBD",cost:405,hp:210,str:13,tec:4,wlk:11,fly:7,tgh:8,capa:800,wbid:1,cartridge:{hpup:12,lv1:"3*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|16@20|29@15|21@20|15@15|13@30|32@50|31@40"},fixedParts:{hd:{name:"A.L.E.ジークンロンHD",cost:40,hp:25,str:1,wlk:2,fly:1,tgh:1},lg:{name:"A.L.E.ジークンロンLG",cost:145,hp:25,str:2,tec:-1,wlk:3,tgh:1,sub:{pwr:26,rng:91,spd:110,itv:500,str:100},tunable:{pwp:1}}}}
 
-{id:122,name:"A.L.E.ラズフラムBD",cartridge:{hpup:12,lv1:"3*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|16@20|28@30|26@20|13@30|32@50|31@40"},fixedParts:{hd:{name:"A.L.E.ラズフラムHD",size:"M",cost:40,hp:25,str:1,tec:1,tgh:3}},type:"l",size:"S",cost:405,capa:800,hp:210,str:6,tec:9,wlk:13,fly:7,tgh:8,wbid:5}
-
+{id:122,name:"A.L.E.ラズフラムBD",cartridge:{hpup:18,lv1:"85*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|16@20|28@30|25@25|13@30|32@50|31@40"},fixedParts:{hd:{name:"A.L.E.ラズフラムHD",size:"M",cost:40,hp:25,str:1,tec:1,tgh:3}},type:"l",size:"S",cost:405,capa:780,hp:210,str:6,tec:10,wlk:13,fly:7,tgh:9,wbid:5}
 {id:9,name:"ラズフラムαBD",cartridge:{hpup:18,lv1:"85*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|16@20|28@30|25@25|13@30|32@50|31@40"},fixedParts:{hd:{name:"ラズフラムαHD",size:"M",cost:40,hp:25,str:1,tec:2,wlk:1,fly:1}},type:"l",size:"S",cost:405,capa:780,hp:210,str:6,tec:9,wlk:14,fly:8,tgh:8,wbid:5}
 {id:114,name:"サクラBD",builtin:{bs:1},fixedParts:{hd:{name:"サクラHD",cost:40,hp:20,tec:2,wlk:1,tgh:2,slot:0},lg:{name:"サクラLG",cost:45,hp:25,str:-1,tec:1,wlk:3,fly:1,tgh:2},am:[{name:"サクラAM",cost:40,hp:25,str:2,wlk:2,tgh:1,slot:0},{name:"サクラAM2",main:{shl:50,spd:10,itv:1000},joint:{wp:2},cost:60,hp:25,str:2,wlk:2,tgh:1,slot:0}]},cost:445,capa:920,hp:225,str:15,tec:4,wlk:12,fly:9,tgh:6,cartridge:{hpup:11,lv1:"3*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|16@20|21@20|13@30|34@15|32@50|31@40"}}
 
