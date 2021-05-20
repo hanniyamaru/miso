@@ -174,7 +174,7 @@
 {id:8,name:"ギガトンオーLG",cost:45,hp:25,str:2,wlk:3,fly:-1,tgh:2}
 {id:320,name:"ビッグマンテスLG2",sub:{shl:100,rng:0,spd:60,itv:1000},tunable:{pwp:0},type:"a",size:"L",cost:90,hp:70,tec:1,wlk:3,fly:2}
 {id:78,name:"カタロスLG",sub:{shl:30,itv:1000},type:"a",cost:75,hp:70,wlk:2,fly:2,tgh:2}
-
+{id:7,name:"スチールライダーLG",cost:45,hp:45,tec:1,wlk:5,fly:-1}
 
 
 
