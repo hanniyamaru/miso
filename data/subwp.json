@@ -134,10 +134,10 @@
 {id:77,name:"文殊の守り",sub:{str:100,pwr:25,rng:150,spd:85,itv:2000},cost:50,type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
 {id:78,name:"雀子弓",main:{str:100,pwr:20,shl:50,rng:200,spd:570,itv:500},sub:{str:100,pwr:10,rng:150,spd:85,itv:2000},cost:50,type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
 
-{id:79,name:"名刀兼光",sub:{pwr:30,rng:70,spd:85,itv:2000,str:100},tunable:{pwp:1},type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
-{id:80,name:"御手杵",sub:{pwr:25,rng:90,spd:110,itv:2000,str:100},tunable:{pwp:1},type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
-{id:81,name:"日光の守り",sub:{str:100,pwr:22,rng:150,spd:85,itv:2000},type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
-{id:82,name:"鏑の弓",main:{str:100,pwr:10,shl:120,rng:200,spd:570,itv:400},sub:{str:100,pwr:24,rng:150,spd:85,itv:2000},type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
+{id:79,name:"名刀兼光",sub:{pwr:30,rng:70,spd:85,itv:2000,str:100},cost:70,tunable:{pwp:1},type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
+{id:80,name:"御手杵",sub:{pwr:25,rng:90,spd:110,itv:2000,str:100},cost:70,tunable:{pwp:1},type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
+{id:81,name:"日光の守り",sub:{str:100,pwr:22,rng:150,spd:85,itv:2000},cost:70,type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
+{id:82,name:"鏑の弓",main:{str:100,pwr:10,shl:120,rng:200,spd:570,itv:400},sub:{str:100,pwr:24,rng:150,spd:85,itv:2000},cost:70,type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
 
 {id:116,name:"キャプテンアンカー",main:{tec:100,pwr:20,shl:50,rng:200,spd:400,itv:500},sub:{str:100,pwr:28,rng:0,spd:0,itv:1000},joint:{wp:1},type:"l",size:"S",comment:"キャプテンサニー専用コンバージョンパーツ",slot:0,cost:110}
 {id:117,name:"キャプテンアンカー@",main:{tec:100,shl:50,spd:10,itv:1000},sub:{str:100,pwr:30,rng:70,spd:85,itv:500},tunable:{mwp:1,pwp:1},cost:120,type:"l",size:"S",comment:"キャプテンアンカーにのみ接続可能"}
