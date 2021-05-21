@@ -38,7 +38,7 @@
 {id:58,name:"モールニードスAM",cost:35,hp:20,str:2,tec:2,fly:-1,tgh:2}
 {id:109,name:"ウルメリーAM",cost:35,hp:20,str:1,tec:2,fly:-1,tgh:2,tunable:{mwp:1}}
 {id:5,name:"カメンティスAM",cost:35,hp:20,str:-1,tec:1,wlk:2,tgh:2}
-{id:64,name:"テントリオンAM",cost:35,hp:20,tec:2,wlk:-1,fly:2,tgh:1}
+{id:64,name:"テントリオンAM",cost:35,hp:20,str:1,tec:2,wlk:-1,fly:2,tgh:1}
 {id:72,name:"トノサマランダーAM",cost:35,hp:20,str:2,wlk:1,fly:1,tgh:1}
 {id:98,name:"ナッツ･ボムリスAM",cost:35,hp:20,str:1,tec:2,wlk:2,tgh:-1}
 {id:26,name:"ディカロスAM",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1}
