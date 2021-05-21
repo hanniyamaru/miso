@@ -51,10 +51,8 @@
 
 
 
-{id:66,name:"ですこBD",cartridge:{hpup:14,lv1:"5*6@30|17@20|19@20|18@20|20@20|23@25|30@20|29@10|13@20|32@30|31@40"},cost:470,hp:225,capa:665,str:4,tec:15,wlk:6,fly:5,tgh:16,wbid:1,joint:{am:0,wp:1},fixedParts:{hd:{name:"ですこHD",sub:{pwr:3,rng:260,spd:160,itv:3000},cost:65,hp:20,tec:2,fly:1,tgh:2},bs:"B3",lg:{name:"ですこLG",sub:{pwr:1,rng:220,spd:180,itv:2500},cost:40,hp:20,str:2,wlk:3,fly:-1,tgh:1}},main:{pwr:0,shl:[80],rng:300,spd:[300],itv:[500]},sub:{shl:[20],rng:43,spd:63,itv:[1000]}}
-
-
-{id:661,name:"ぜろこBD",cartridge:{hpup:14,lv1:"5*6@30|17@20|19@20|18@20|20@20|23@25|16@20|15@30|13@20|32@30|31@40"},cost:470,hp:225,capa:630,str:11,tec:9,wlk:15,fly:5,tgh:8,wbid:1,joint:{am:0,wp:1},fixedParts:{hd:{name:"ぜろこHD",cost:35,hp:20,str:2,tec:2,tgh:1},bs:"B3",lg:{name:"ぜろこLG",sub:{pwr:1,rng:43,spd:63,itv:2500},cost:40,hp:20,str:1,wlk:3,tgh:1}},main:{pwr:0,shl:[80],rng:300,spd:[300],itv:[500]},sub:{shl:[20],rng:43,spd:63,itv:[1000]}}
+{id:66,name:"ですこBD",cartridge:{hpup:25,lv1:"95*6@30|17@20|18@20|19@20|20@20|23@25|29@10|21@20|25@25|23@25|30@20|29@10|13@20|32@30|31@40"},cost:470,hp:225,capa:635,str:4,tec:17,wlk:6,fly:5,tgh:18,wbid:1,joint:{am:0,wp:1},fixedParts:{hd:{name:"ですこHD",sub:{pwr:3,rng:260,spd:160,itv:3000},cost:65,hp:20,tec:2,fly:1,tgh:2},bs:"B3",lg:{name:"ですこLG",sub:{pwr:1,rng:220,spd:180,itv:2500},cost:40,hp:20,str:2,wlk:3,fly:-1,tgh:1}},main:{pwr:0,shl:[80],rng:300,spd:[300],itv:[500]},sub:{shl:[20],rng:43,spd:63,itv:[1000]}}
+{id:661,name:"ぜろこBD",cartridge:{hpup:25,lv1:"95*6@30|17@20|18@20|19@20|20@20|23@25|29@10|21@20|25@25|23@25|16@20|15@30|13@20|32@30|31@40"},cost:470,hp:225,capa:630,str:11,tec:9,wlk:17,fly:5,tgh:8,wbid:1,joint:{am:0,wp:1},fixedParts:{hd:{name:"ぜろこHD",cost:35,hp:20,str:2,tec:2,tgh:1},bs:"B3",lg:{name:"ぜろこLG",sub:{pwr:1,rng:43,spd:63,itv:2500},cost:40,hp:20,str:1,wlk:3,tgh:1}},main:{pwr:0,shl:[80],rng:300,spd:[300],itv:[500]},sub:{shl:[20],rng:43,spd:63,itv:[1000]}}
 {id:38,name:"KじーくんろんBD",main:{pwr:0,shl:[80],rng:300,spd:[300],itv:[1000]},sub:{shl:[20],rng:43,spd:63,itv:[1000]},joint:{am:0,wp:1},cartridge:{hpup:25,lv1:"95*6@25|17@20|18@20|19@20|20@20|22@30|29@10|21@20|25@25|23@25|16@20|15@30|13@20|32@30|31@40"},fixedParts:{hd:{name:"KじーくんろんHD",str:100,sub:{pwr:20,shl:0,rng:250,spd:400,itv:1000},cost:75,hp:20,str:2,tec:2,fly:2,tgh:-1},bs:{name:"デモンBS",cost:35,hp:20,str:1,tec:1,fly:3},lg:{name:"KじーくんろんLG",sub:{str:100,pwr:30,rng:70,spd:85,itv:2500},cost:40,hp:20,str:2,wlk:2,fly:-1,tgh:2}},cost:470,capa:635,hp:225,str:13,tec:4,wlk:17,fly:4,tgh:12,comment:"ロングレンジ陣"}
 {id:40,name:"ふぉんめいBD",cost:470,capa:670,hp:225,str:5,tec:11,wlk:6,fly:13,tgh:7,wbid:1,comment:"ロングレンジ陣",main:{pwr:0,shl:[80],rng:300,spd:[300],itv:[1000]},cartridge:{lv1:"95*6@25|17@20|18@20|19@20|20@20|22@30|29@10|21@20|25@25|23@25|52@20|15@30|13@20|32@30|31@40",hpup:25},sub:{shl:[20],rng:43,spd:63,itv:[1000]},joint:{am:0,wp:1},fixedParts:{hd:{name:"ふぉんめいHD",cost:35,hp:20,tec:2,wlk:1,fly:1,tgh:1},lg:{name:"ふぉんめいLG",joint:{bs:1},cost:40,hp:20,tec:1,wlk:2,fly:2},bs:{name:"ふぉんめいBS",cost:35,hp:20,str:1,tec:1,fly:3},wp:{name:"プチフォンティエン",main:{pwr:3,shl:270,rng:250,spd:320,itv:1000},sub:{shl:3,rng:100,spd:150,itv:1000},cost:70,tunable:{mwp:1}}}}
 
@@ -85,32 +83,5 @@
 {id:11,name:"ディースモークBD",cost:425,hp:275,str:5,tec:7,wlk:10,fly:14,tgh:9,capa:800,sub:{shl:[25],rng:0,spd:0,itv:1000},cartridge:{hpup:18,lv1:"85*6@20|17@20|18@20|20@20|23@25|19@20|21@20|12@20|25@25|29@10|14@10|26@20|13@20|32@30|31@40"}}
 
 {id:9,name:"ロトンレムレスBD",main:{pwr:11,shl:[200],rng:275,spd:[250],itv:800},sub:{pwr:20,shl:150,rng:[275],spd:200,itv:1000},cartridge:{hpup:14,lv1:"3*5@15|6*2@30|17@20|18@20|20@20|14@10|28@20|29@10|13@20|32@30|31@40"},wbid:1,cost:505,capa:750,hp:290,str:6,tec:8,wlk:10,fly:6,tgh:10,comment:"-"}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
