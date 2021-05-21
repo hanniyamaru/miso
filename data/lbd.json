@@ -95,8 +95,8 @@ lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|26@20|21@20|13@30|34@
 
 
 
-{id:27,name:"でかペペンBD",cost:560,capa:740,hp:325,str:20,tec:9,wlk:26,fly:10,tgh:15,sub:{str:100,pwr:[26],rng:43,spd:63,itv:600},wbid:14,cartridge:{hpup:14,lv1:"3*4@20|6*2@30|7@20|9@20|10@15|17@15|18@15||20@15|23@25|29@15|15@15|14@20|13@30|32@50|31@40"},joint:{hdac:1,fcac:1,hd:0,bs:0,am:0},builtin:{bs:1,lg:1}}
-
+{id:27,name:"でかペペンBD",cost:660,capa:765,hp:305,str:26,tec:8,wlk:26,fly:10,tgh:19,sub:{str:100,pwr:[28],rng:63,spd:77,itv:1500},wbid:14,cartridge:{hpup:30,lv1:"3*5@20|60*2@30|7@20|9@20|10@15|17@15|18@15||20@15|23@25|29@15|15@15|14@20|13@30|32@50|31@40"},joint:{hdac:1,fcac:1,hd:0,bs:0,am:0},builtin:{bs:1,lg:1}}
+{id:540,name:"でかマニモBD",cost:525,capa:765,hp:305,str:22,tec:9,wlk:26,fly:10,tgh:14,wbid:14,cartridge:{hpup:30,lv1:"3*5@20|60*2@30|7@20|9@20|10@15|17@15|18@15||20@15|23@25|29@15|15@15|14@20|13@30|32@50|31@40"},joint:{hdac:1,fcac:1,hd:0,bs:0,am:0,wp:1},builtin:{bs:1,lg:1},fixedParts:{wp:{name:"でかマニモBD@",sub:{str:100,pwr:[30],rng:56,spd:68,itv:1500},tunable:{pwp:1},cost:100,slot:3}}}
 
 {id:538,name:"キングペペンBD",main:{str:100,pwr:5,shl:600,rng:180,spd:480,itv:100},sub:{str:100,pwr:8,rng:30,spd:62,itv:1000},builtin:{bs:1},cartridge:{hpup:30,lv1:"3*5@20|60*2@35|7@20|9@20|10@15|17@15|18@15||20@15|23@25|29@15|15@15|14@20|13@30|32@50|31@40"},fixedParts:{lg:{name:"キングペペンLG",size:"M",type:"l",cost:45,hp:25,wlk:3,tgh:2}},cost:680,capa:745,hp:250,str:30,tec:6,wlk:26,fly:9,tgh:18,wbid:1,comment:["-"],joint:{hd:0,bs:0,am:0,wp:0,hdac:1,fcac:1}}
 
@@ -154,7 +154,6 @@ lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|26@20|21@20|13@30|34@
 
 {id:18,name:"クロコダガーBD",cost:545,capa:800,hp:300,str:16,tec:3,wlk:14,fly:6,tgh:11,sub:{str:100,pwr:[32],rng:70,spd:100,itv:500},wbid:6,cartridge:{hpup:18,lv1:"85*5@20|61*2@30|7@20|9@20|10@15|17@15|20@15|53@10|11@20|23@25|16@20|18@15|13@30|32@50|31@40"},joint:{hdac:1,fcac:1,hd:0}}
 
-{id:2722,name:"でかマニモBD",cost:520,capa:740,hp:325,str:18,tec:9,wlk:26,fly:10,tgh:12,wbid:14,cartridge:{hpup:14,lv1:"3*4@20|6*2@30|7@20|9@20|10@15|17@15|18@15||20@15|23@25|29@15|15@15|14@20|13@30|32@50|31@40"},joint:{hdac:1,fcac:1,hd:0,bs:0,am:0,wp:1},builtin:{bs:1,lg:1},fixedParts:{wp:{name:"でかマニモBD@",sub:{str:100,pwr:[27],rng:16,spd:25,itv:1500},tunable:{pwp:1},cost:20,slot:3}}}
 
 {id:2502,name:"シノ･イクスロードBD3",sub:{pwr:28,shl:[30],rng:150,spd:[300],itv:[2000],str:100},cartridge:{lv1:"75*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|16@20|29@15|21@20|15@15||13@30|32@50|31@40",hpup:10},fixedParts:{hd:{name:"シノ・イクスロードHD3",slot:3,cost:40,hp:25,str:1,tec:1,wlk:1,tgh:2}},cost:520,capa:945,hp:305,str:13,tec:3,wlk:13,fly:8,tgh:14,wbid:5}
 
