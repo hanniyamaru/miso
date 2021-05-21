@@ -34,7 +34,7 @@
 {id:5,name:"カメンティスLG",cost:40,hp:20,str:2,wlk:2,tgh:1}
 {id:46,name:"テントリオンLG",cost:40,hp:20,str:2,tec:1,wlk:2,fly:-1,tgh:1}
 {id:58,name:"トノサマランダーLG",cost:45,hp:25,tec:-1,wlk:3,fly:2,tgh:1}
-{id:75,name:"ナッツ･ボムリスLG",cost:40,hp:25,tec:2,wlk:3,fly:1,tgh:-1}
+{id:75,name:"ナッツ･ボムリスLG",cost:40,hp:20,tec:2,wlk:3,fly:1,tgh:-1}
 {id:30,name:"ディカロスLG",type:"a",cost:45,hp:25,str:1,tec:1,wlk:2,fly:1}
 
 {id:25,name:"ミッサイドLG",cost:45,hp:25,str:2,tec:-1,wlk:3,tgh:1}
