@@ -127,7 +127,7 @@
 {id:375,name:"ウミガメンティスHD",cost:40,hp:20,tec:1,fly:2,tgh:2}
 {id:328,name:"ワニガメンティスHD",type:"lacs",size:"M",cost:40,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
 {id:87,name:"バタフレアHD",cost:40,hp:25,str:1,wlk:2,fly:1,tgh:1}
-{id:162,name:"バルーダHD",main:{pwr:9,shl:540,rng:275,spd:350,itv:300},cost:40,hp:25,str:1,tec:2,tgh:2,tunable:{mwp:1}}
+{id:162,name:"バルーダHD",main:{pwr:10,shl:540,rng:275,spd:350,itv:300},cost:40,hp:25,str:1,tec:2,tgh:2,tunable:{mwp:1}}
 {id:263,name:"マンティサイスHD",type:"lacs",size:"M",cost:40,hp:25,str:1,tec:2,fly:-1,tgh:3}
 {id:95,name:"モールニードスHD",cost:40,hp:25,wlk:2,fly:2,tgh:1}
 {id:200,name:"ウルメリーHD",cost:35,hp:20,tec:1,wlk:1,fly:1,tgh:2}
