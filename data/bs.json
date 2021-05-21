@@ -141,7 +141,7 @@
 {id:131,name:"ハイガクゥーンBS",tunable:{mwp:0,pwp:0},fixedParts:{bs:{name:"ハイガクゥーンBS＠",main:{pwr:7,shl:300,rng:330,spd:290,itv:880},sub:{pwr:17,shl:140,rng:350,spd:300,itv:1000},tunable:{pwp:0,mwp:0},slot:0}},cost:140,hp:25,str:-1,tec:2,fly:3,tgh:1,type:"c",size:"M",joint:{bs:1}}
 {id:73,name:"ハイバリオンBS",type:"c",cost:40,hp:20,str:1,tec:-1,wlk:2,fly:2,tgh:1}
 {id:7,name:"メカジェッターBS",type:"a",cost:35,hp:20,tec:1,fly:3,tgh:1}
-{id:28,name:"ソルジェッターBS",type:"a",cost:40,hp:20,str:-1,tec:2,wlk:1,fly:3}
+{id:28,name:"ソルジェッターBS",type:"a",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:3}
 {id:187,name:"ウミガメンティスBS",sub:{tec:100,pwr:5,shl:400,rng:250,spd:350,itv:1000},tunable:{pwp:0,mwp:0},type:"a",size:"M",cost:65,hp:25,tec:1,fly:2,tgh:2}
 {id:191,name:"ワニガメンティスBS",sub:{tec:100,pwr:18,rng:300,spd:500,itv:1000},type:"c",size:"M",cost:140,hp:25,str:-1,tec:2,wlk:1,fly:2,tgh:1,comment:"-",tunable:{mwp:0,pwp:0}}
 {id:123,name:"マンティサイスBS",type:"l",size:"M",cost:40,hp:20,str:1,tec:1,wlk:1,fly:3,tgh:-1}
