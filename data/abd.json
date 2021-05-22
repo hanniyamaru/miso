@@ -63,10 +63,9 @@
 
 {id:34,name:"イニトォンBD2",cartridge:{hpup:18,lv1:"85*5@20|61*2@30|7@30|9@15|8@20|19@15|23@25|22@30|52@20|26@20|21@20|30@20|13@30|32@50|31@40"},fixedParts:{wp:{name:"イニトォンBD2@",main:{pwr:[10],shl:[1280],rng:200,spd:440,itv:500},cost:170,joint:{am:2},sub:{tec:100,pwr:[25],shl:[50],rng:120,spd:250,itv:1000},slot:0}},cost:405,capa:800,hp:245,str:4,tec:14,wlk:6,fly:11,tgh:10,wbid:1,joint:{wp:1,am:0}}
 
-{id:6,name:"イヅナカムイαBD",cost:465,capa:855,hp:245,str:5,tec:9,wlk:7,fly:14,tgh:6,sub:{pwr:0,shl:[50],rng:100,spd:160,itv:1000},wbid:1,cartridge:{hpup:12,lv1:"3*6@20|7@30|9@15|8@20|19@15|23@25|22@30|21@20|15@20|30@20|26@20|13@30|32@50|31@40"},fixedParts:{hd:"H3"}}
+{id:6,name:"イヅナカムイαBD",cost:505,capa:870,hp:255,str:6,tec:10,wlk:7,fly:17,tgh:8,sub:{pwr:0,shl:[50],rng:100,spd:160,itv:1000},wbid:1,cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|19@15|23@25|22@30|21@20|52@20|15@20|30@20|26@20|13@30|32@50|31@40"},fixedParts:{hd:"H3"}}
 
-{id:7,name:"イヅナカムイαBD2",cost:465,capa:855,hp:245,str:5,tec:9,wlk:7,fly:14,tgh:6,sub:{pwr:0,shl:[50],rng:100,spd:160,itv:1000},wbid:1,cartridge:{hpup:12,lv1:"3*6@20|7@30|9@15|8@20|19@15|23@25|22@30|21@20|15@20|30@20|26@20|13@30|32@50|31@40"},fixedParts:{hd:"H4"}}
-
+{id:7,name:"イヅナカムイαBD2",cost:505,capa:870,hp:255,str:6,tec:10,wlk:7,fly:17,tgh:8,sub:{pwr:0,shl:[50],rng:100,spd:160,itv:1000},wbid:1,cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|19@15|23@25|22@30|21@20|52@20|15@20|30@20|26@20|13@30|32@50|31@40"},fixedParts:{hd:"H4"}}
 {id:26,name:"イヅナカムイαBD3",cost:505,capa:905,hp:255,str:5,tec:9,wlk:6,fly:13,tgh:7,sub:{pwr:0,shl:[50],rng:100,spd:160,itv:1000},wbid:1,cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|19@15|23@25|22@30|21@20|52@20|15@20|30@20|26@20|13@30|32@50|31@40"},fixedParts:{hd:"H5"}}
 
 {id:39,name:"ヴォルテスBD",main:{tec:100,pwr:[24],shl:140,rng:[250],spd:440,itv:1000},cartridge:{hpup:14,lv1:"4*6@20|61*2@30|7@30|9@15|8@20|19@15|23@25|22@30|52@20|21@20|30@20|31@40|13@30|32@50|26@20"},cost:545,capa:890,hp:255,str:5,tec:13,wlk:7,fly:13,tgh:10,type:"a",size:"M",wbid:1}
