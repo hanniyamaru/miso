@@ -119,8 +119,8 @@
 {id:71,name:"ゲンブラAM",type:"c",cost:60,hp:25,tec:2,wlk:1,tgh:2,main:{pwr:12,shl:130,rng:330,spd:290,itv:440},sub:{pwr:13,shl:160,rng:350,spd:290,itv:1000},tunable:{mwp:1,pwp:1},joint:{wp:1},comment:"AURA機構省略"}
 {id:62,name:"ブリッツェルトAM",cost:35,hp:20,tec:2,fly:1,tgh:2}
 {id:63,name:"ブリッツェルトAM2",cost:35,hp:20,str:2,fly:2,tgh:1}
-{id:43,name:"パシファールAM",type:"a",cost:45,hp:25,str:-1,tec:1,wlk:1,fly:1,tgh:3,joint:{am:1},fixedParts:{am:{name:"パシファールAM@",main:{pwr:11,shl:220,rng:275,spd:440,itv:500},tunable:{mwp:1},cost:50,slot:0,joint:{wp:0}}}}
-{id:64,name:"パシファールAM2",type:"a",cost:40,hp:20,str:-1,tec:2,wlk:1,tgh:3,joint:{am:1},fixedParts:{am:{main:{pwr:8,shl:400,rng:275,spd:485,itv:300},name:"パシファールAM2@",tunable:{mwp:0},joint:{wp:0,am:0},cost:80,slot:0}}}
+{id:43,name:"パシファールAM",type:"a",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:1,tgh:3,joint:{am:1},fixedParts:{am:{name:"パシファールAM@",main:{pwr:11,shl:220,rng:275,spd:440,itv:500},tunable:{mwp:1},cost:50,slot:0,joint:{wp:0}}}}
+{id:64,name:"パシファールAM2",type:"a",cost:40,hp:25,str:-1,tec:2,wlk:1,tgh:3,joint:{am:1},fixedParts:{am:{main:{pwr:8,shl:400,rng:275,spd:485,itv:300},name:"パシファールAM2@",tunable:{mwp:0},joint:{wp:0,am:0},cost:80,slot:0}}}
 {id:48,name:"レイスタッグAM",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1}
 {id:9,name:"クレストセイントAM",cost:40,hp:25,str:2,wlk:1,fly:2}
 {id:47,name:"ビートランダーAM",cost:35,hp:20,str:2,tec:-1,wlk:1,fly:1,tgh:2}
