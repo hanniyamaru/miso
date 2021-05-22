@@ -89,8 +89,8 @@
 {id:121,name:"イニトォンAM2",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,type:"a",size:"M",comment:"サブ武器装備不可"}
 {id:70,name:"トイボックスガールαAM",main:{pwr:8,shl:780,rng:330,spd:290,itv:440},tunable:{mwp:1},joint:{wp:0},type:"c",cost:85,hp:20,str:-1,tec:3,wlk:1,tgh:2}
 {id:96,name:"トイボックスガールαAM2",main:{pwr:9,shl:660,rng:330,spd:290,itv:540},tunable:{mwp:1},joint:{wp:0},type:"c",cost:85,hp:20,str:-1,tec:2,wlk:1,tgh:3}
-{id:37,name:"イヅナカムイαAM",cost:35,hp:25,str:1,tec:2,wlk:-1,fly:2,tgh:1}
-{id:38,name:"イヅナカムイαAM2",cost:35,hp:25,str:2,tec:1,wlk:1,tgh:1}
+{id:37,name:"イヅナカムイαAM",cost:40,hp:25,str:1,tec:2,wlk:-1,fly:2,tgh:1}
+{id:38,name:"イヅナカムイαAM2",cost:40,hp:25,str:2,tec:1,wlk:1,tgh:1}
 {id:39,name:"イヅナカムイαAM3",type:"a",cost:80,hp:25,tec:2,wlk:1,fly:1,tgh:1,sub:{tec:100,pwr:26,rng:70,spd:85,itv:500},tunable:{pwp:1}}
 {id:99,name:"イヅナカムイαAM4",type:"a",cost:130,hp:25,str:-1,tec:3,fly:1,tgh:2,tunable:{mwp:1},main:{tec:100,pwr:15,shl:270,rng:275,spd:485,itv:600}}
 {id:140,name:"ヴォルテスAM",sub:{pwr:13,shl:200,rng:275,spd:350,itv:1000},fixedParts:{am:{name:"ヴォルテスAM@",slot:0,type:"a",size:"M"}},type:"a",size:"M",cost:95,hp:25,str:-1,tec:3,fly:2,tgh:1}
