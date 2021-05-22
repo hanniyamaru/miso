@@ -120,7 +120,7 @@
 {id:18,name:"ベクターBD",main:{pwr:[6],shl:[600],rng:[275],spd:350,itv:300},cartridge:{hpup:14,lv1:"4*5@20|61*2@30|7@30|9@15|8@20|19@15|23@25|22@30|52@20|21@20|30@20|31@40|13@30|32@50|26@20"},cost:555,capa:870,hp:290,str:4,tec:11,wlk:8,fly:15,tgh:10,wbid:1}
 
 
-{id:481,name:"フラクタリスBD",main:{tec:100,pwr:3,rng:250,spd:200,itv:440},cartridge:{hpup:30,lv1:"3*6@20|7@30|9@15|8@20|19@15|23@25|22@30|28@30|14@30|21@20|52@20|15@20|13@30|32@50|31@40"},cost:620,capa:765,hp:325,str:5,tec:22,wlk:5,fly:25,tgh:20,wbid:1,type:"a",size:"L",joint:{hdac:1,fcac:1,hd:0,bs:0,am:0},builtin:{bs:1},fixedParts:{wp:{name:"フラクタリスLG",sub:{str:100,pwr:[10],rng:280,spd:380,itv:1000},tunable:{pwp:0},type:"a",cost:145,hp:70,str:-1,tec:2,wlk:3,fly:1,slot:3}}}
+{id:481,name:"フラクタリスBD",main:{tec:100,pwr:3,rng:250,spd:200,itv:440},cartridge:{hpup:30,lv1:"3*6@20|7@30|9@15|8@20|19@15|23@25|22@30|28@30|14@30|21@20|52@20|15@20|13@30|32@50|31@40"},cost:620,capa:765,hp:325,str:5,tec:22,wlk:5,fly:25,tgh:20,wbid:1,type:"a",size:"L",joint:{hdac:1,fcac:1,hd:0,bs:0,am:0},builtin:{bs:1},fixedParts:{lg:{name:"フラクタリスLG",sub:{str:100,pwr:[10],rng:280,spd:380,itv:1000},tunable:{pwp:0},type:"a",cost:145,hp:70,str:-1,tec:2,wlk:3,fly:1,slot:3}}}
 
 {id:50,name:"ペルセシウスBD",main:{pwr:[17,21],tec:100,shl:[250,260],rng:[275],spd:[440],itv:[700,700]},joint:{hdac:0,fcac:0,wp:0},cartridge:{hpup:10,lv1:"4*5@20|6@30|7@30|9@15|8@20|19@15|23@25|22@30|21@20|52@20|30@20|14@20|26@20|13@30|32@50|31@40"},type:"a",size:"L",cost:550,capa:945,hp:305,str:5,tec:12,wlk:8,fly:14,tgh:12,wbid:1}
 
