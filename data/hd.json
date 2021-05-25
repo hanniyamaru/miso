@@ -174,7 +174,6 @@
 {id:225,name:"ヘラクビートランダーHD",sub:{str:100,pwr:34,shl:0,rng:0,spd:320,itv:4500},cost:200,hp:25,str:3,tec:-1,wlk:1,tgh:2,type:"l",tunable:{pwp:1}}
 {id:226,name:"セバーレイスタッグHD",main:{pwr:6,shl:900,rng:275,spd:350,itv:1000},type:"a",cost:180,hp:25,str:-1,tec:3,fly:1,tgh:2,tunable:{mwp:1}}
 {id:246,name:"スチールバーンHD",cost:40,hp:25,str:1,wlk:2,fly:-1,tgh:3}
-{id:7,name:"ダゴミュールHD",cost:40,hp:25,str:1,tec:1,wlk:2,tgh:1}
 {id:410,name:"ブリンクHD",cost:40,hp:25,str:1,tec:3,fly:-1,tgh:2}
 
 
