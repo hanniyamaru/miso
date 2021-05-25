@@ -229,7 +229,8 @@
 {id:119,name:"スチールバーンAM2",sub:{pwr:16,shl:140,rng:320,spd:230,itv:1000},type:"a",cost:80,hp:25,str:2,tec:2,wlk:-1,fly:1,tgh:1,comment:"未更新"}
 
 {id:139,name:"スチールバーンAM3",main:{pwr:7,shl:540,rng:275,spd:350,itv:300},tunable:{mwp:1},type:"a",size:"L",cost:120,hp:25,str:-1,tec:3,fly:1,tgh:2}
-
+{id:137,name:"アントリオンAM3",main:{pwr:5,shl:640,rng:150,spd:400,itv:200},tunable:{mwp:1},type:"c",cost:85,hp:20,tec:2,wlk:2,tgh:1}
+{id:28,name:"ブレイズバロンAM3",type:"l",cost:170,hp:25,str:-1,tec:3,wlk:1,fly:1,tgh:1,sub:{tec:100,pwr:32,rng:150,spd:10,itv:1000},tunable:{pwp:1},joint:{wp:0}}
 
 
 
