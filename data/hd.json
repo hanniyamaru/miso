@@ -163,7 +163,16 @@
 {id:535,name:"スチールライダーHD2",cost:40,hp:25,tec:2,wlk:2,fly:-1,tgh:2}
 {id:306,name:"RAMソルジェッターHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:2,tgh:2}
 
-
+{id:47,name:"パルサーディオHD2",cost:40,hp:25,tec:1,wlk:1,fly:1,tgh:2}
+{id:52,name:"ブレイズバロンHD2",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2}
+{id:248,name:"カタロスHD2",cost:40,hp:25,tec:2,fly:2,tgh:1}
+{id:297,name:"ゴートランHD",size:"M",cost:40,hp:25,str:2,tec:2,wlk:-1,fly:1,tgh:1}
+{id:60,name:"ジオグラシスHD",cost:40,hp:25,str:2,tec:1,fly:1,tgh:1}
+{id:67,name:"ハティガルムHD2",cost:40,hp:25,str:2,wlk:2,tgh:1}
+{id:164,name:"ブリガバロンHD",cost:30,hp:15,str:1,tec:2,wlk:1,fly:-1,tgh:1}
+{id:249,name:"リフィHD",cost:40,hp:25,str:-1,tec:1,wlk:2,fly:2,tgh:1}
+{id:225,name:"ヘラクビートランダーHD",sub:{str:100,pwr:34,shl:0,rng:0,spd:320,itv:4500},cost:200,hp:25,str:3,tec:-1,wlk:1,tgh:2,type:"l",tunable:{pwp:1}}
+{id:226,name:"セバーレイスタッグHD",main:{pwr:6,shl:900,rng:275,spd:350,itv:1000},type:"a",cost:180,hp:25,str:-1,tec:3,fly:1,tgh:2,tunable:{mwp:1}}
 
 
 
