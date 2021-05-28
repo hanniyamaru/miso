@@ -78,6 +78,8 @@
 {id:293,name:"ウィンドリンクス",cost:40,hp:20,str:1,tec:-1,fly:2,tgh:3}
 {id:393,name:"ブラディスターHD",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1}
 {id:51,name:"ブレイズバロンHD",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2}
+{id:52,name:"ブレイズバロンHD2",cost:40,hp:25,str:-1,tec:3,wlk:1,tgh:2}
+
 {id:66,name:"ハティガルムHD",cost:40,hp:25,str:2,tec:1,fly:2}
 {id:35,name:"シェイデンHD",cost:40,hp:25,str:1,tec:1,wlk:1,tgh:2}
 {id:127,name:"ベクターHD",cost:40,hp:25,str:1,tec:3,fly:2,tgh:-1}
@@ -164,7 +166,6 @@
 {id:306,name:"RAMソルジェッターHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:2,tgh:2}
 
 {id:47,name:"パルサーディオHD2",cost:40,hp:25,tec:1,wlk:1,fly:1,tgh:2}
-{id:52,name:"ブレイズバロンHD2",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2}
 {id:248,name:"カタロスHD2",cost:40,hp:25,tec:2,fly:2,tgh:1}
 {id:297,name:"ゴートランHD",size:"M",cost:40,hp:25,str:2,tec:2,wlk:-1,fly:1,tgh:1}
 {id:60,name:"ジオグラシスHD",cost:40,hp:25,str:2,tec:1,fly:1,tgh:1}
