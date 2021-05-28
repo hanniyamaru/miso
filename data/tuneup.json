@@ -20,8 +20,8 @@
 {group:"ラピッド系",prefixID:"RP",commonStat:{target:"mwp"}}
 {id:1,name:"ラピッド",cost:5,effect:{spd:5},material:"7*1|30*4",comment:["50%","速度+5%"]}
 {id:2,name:"ハイラピッド",cost:15,effect:{spd:10},material:"8*1|30*10|25*5|14*4",comment:["50%","速度+10%"]}
-{id:2,name:"ハイラピッドα",cost:10,effect:{shl:-7,spd:10},material:"8*1|30*10|25*5|14*4",comment:["50%","速度+10%、射程-7%"]}
-{id:3,name:"ハイラピッドβ",cost:10,effect:{rng:-7,spd:10},material:"8*1|30*10|25*5|14*4",comment:["50%","速度+10%、弾数-7%"]}
+{id:2,name:"ハイラピッドα",cost:10,effect:{shl:-7,spd:10},material:"8*1|30*10|25*5|14*4",comment:["50%","速度+10%、弾数-7%"]}
+{id:3,name:"ハイラピッドβ",cost:10,effect:{rng:-7,spd:10},material:"8*1|30*10|25*5|14*4",comment:["50%","速度+10%、射程-7%"]}
 
 {id:4,name:"グレートラピッド",cost:30,effect:{spd:15},material:"9*1|25*7|13*20|30*13|36*6|38*2|14*4",comment:["50%","速度+15%、"]}
 {id:4,name:"グレートラピッドα",cost:20,effect:{shl:-10,spd:15},material:"9*1|25*7|13*20|30*13|36*6|38*2|14*4",comment:["50%","速度+15%、弾数-10%"]}
