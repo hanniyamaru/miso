@@ -136,7 +136,7 @@
 {id:46,name:"ガルラバードAM",type:"a",cost:90,hp:25,str:-1,tec:2,fly:2,tgh:2,main:{pwr:5,shl:620,rng:275,spd:390,itv:160},tunable:{mwp:1},joint:{wp:0}}
 {id:187,name:"ウミガメンティスAM",main:{pwr:16,shl:140,rng:275,spd:350,itv:780},type:"a",size:"M",cost:80,hp:25,str:-1,tec:2,fly:2,tgh:2,tunable:{mwp:1}}
 {id:190,name:"ワニガメンティスAM",type:"lacs",size:"M",cost:40,hp:25,str:1,tec:2,tgh:2}
-{id:142,name:"マンティサイスAM",sub:{str:100,pwr:26,rng:91,spd:60,itv:500},tunable:{pwp:1,mwp:0},type:"lacs",size:"M",cost:135,hp:20,str:3,tec:-1,wlk:2,fly:1,joint:{wp:0}}
+{id:142,name:"マンティサイスAM",sub:{str:100,pwr:26,rng:91,spd:60,itv:500},tunable:{pwp:1,mwp:0},type:"las",size:"M",cost:135,hp:20,str:3,tec:-1,wlk:2,fly:1,joint:{wp:0}}
 {id:22,name:"フィザリバンAM",cost:35,hp:20,str:2,wlk:1,tgh:2}
 {id:26,name:"ミッサイドAM",type:"c",cost:135,hp:20,tec:3,wlk:1,tgh:1,main:{pwr:19,shl:240,rng:330,spd:400,itv:800},tunable:{mwp:1}}
 
