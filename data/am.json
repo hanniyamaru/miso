@@ -208,6 +208,7 @@
 {id:104,name:"ヴォルフライエAM",cost:40,hp:25,tec:3,fly:1,wlk:1}
 {id:137,name:"アルマダAM",main:{tec:100,pwr:13,shl:400,rng:275,spd:255,itv:360},type:"a",size:"L",cost:100,hp:25,tec:3,wlk:-1,fly:1,tgh:2,tunable:{mwp:1},joint:{wp:0}}
 {id:82,name:"ダゴミュールAM",cost:65,hp:20,str:-1,tec:2,wlk:2,tgh:2,sub:{tec:100,pwr:22,rng:98,spd:119,itv:500},tunable:{pwp:1},joint:{wp:0}}
+{id:120,name:"ダゴミュールAM2",main:{pwr:13,shl:180,rng:330,spd:250,itv:1000},tunable:{mwp:1},type:"lc",cost:65,hp:20,tec:3,wlk:1,fly:1}
 {id:789,name:"ロトンレムレスAM",cost:35,hp:20,str:1,tec:-1,wlk:1,fly:1,tgh:3}
 {id:112,name:"プレデトバイツAM",main:{pwr:8,shl:290,rng:330,spd:290,itv:800},type:"c",cost:80,hp:25,str:-1,tec:3,wlk:1,tgh:2,tunable:{mwp:1}}
 {id:75,name:"ゼロブレイカーAM",cost:35,hp:20,str:3,tec:-1,wlk:1,tgh:2}
