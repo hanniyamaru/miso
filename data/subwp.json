@@ -58,7 +58,7 @@
 {id:3,name:"バイキングアクス",type:"l",size:"L",cost:100,sub:{str:100,pwr:34,rng:56,spd:68,itv:1000},tunable:{pwp:1}}
 {id:4,name:"ギガントアクス",type:"l",size:"LL",cost:160,sub:{str:100,pwr:37,rng:56,spd:68,itv:1000},tunable:{pwp:1}}
 {id:5,name:"ブレイズアクス",type:"l",size:"L",cost:120,sub:{str:100,pwr:33,rng:70,spd:85,itv:500},tunable:{pwp:1}}
-
+{id:11,name:"ブリガンドアクス",sub:{str:100,pwr:30,rng:49,spd:60,itv:2000},type:"l",size:"LL",cost:180,tunable:{pwp:1}}
 
 
 
