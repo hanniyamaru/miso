@@ -228,6 +228,9 @@
 {id:98,name:"クシュルブAM",sub:{str:100,pwr:33,rng:35,spd:43,itv:2000},tunable:{pwp:1},type:"l",cost:90,hp:20,str:3,wlk:1,fly:2,tgh:-1}
 {id:43,name:"ジオグラシスAM2",cost:35,hp:20,str:2,tec:2,wlk:-1,tgh:2,comment:"F型AM"}
 {id:61,name:"ジオグラシスAM4",cost:85,hp:20,tec:3,wlk:-1,fly:2,tgh:1,type:"a",main:{tec:100,pwr:10,shl:350,rng:275,spd:290,itv:1000},tunable:{mwp:1}}
+{id:35,name:"ジオグラシスAM",cost:35,hp:20,str:2,tec:1,wlk:2,fly:-1,tgh:1}
+{id:60,name:"ジオグラシスAM3",sub:{str:100,pwr:30,rng:80,spd:150,itv:2000},tunable:{pwp:1},type:"l",cost:105,hp:20,str:3,wlk:3,fly:-1}
+
 {id:118,name:"スチールバーンAM",main:{pwr:5,shl:600,rng:250,spd:480,itv:240},sub:{pwr:21,rng:120,spd:200,itv:500,tec:100},tunable:{mwp:1,pwp:1},type:"a",cost:130,hp:25,str:-1,tec:3,fly:2,tgh:1,comment:"-"}
 
 {id:119,name:"スチールバーンAM2",sub:{pwr:16,shl:140,rng:320,spd:230,itv:1000},type:"a",cost:80,hp:25,str:2,tec:2,wlk:-1,fly:1,tgh:1,comment:"未更新"}
