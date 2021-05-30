@@ -199,7 +199,7 @@
 {id:7,name:"ラグナバレットLG",cost:50,hp:60,wlk:4,tgh:2}
 {id:103,name:"ロッソアスピーデLG",sub:{pwr:1,shl:60,rng:150,spd:150},type:"a",size:"L",cost:115,hp:80,str:-1,tec:2,wlk:2,fly:6,tgh:2,builtin:{bs:1}}
 {id:5,name:"シノ･イクスロードLG3",type:"l",cost:225,hp:55,str:2,tec:-1,wlk:3,tgh:2,sub:{str:100,pwr:32,rng:77,spd:94,itv:1000},tunable:{pwp:1},joint:{bs:1}}
-
+{id:58,name:"ブリガバロンLG",cost:50,hp:70,str:1,tec:-1,wlk:3,tgh:3}
 
 
 
