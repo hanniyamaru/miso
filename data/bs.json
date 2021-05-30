@@ -187,6 +187,9 @@
 {id:63,name:"ヴォルフライエBS",joint:{bs:1},fixedParts:{bs:{name:"ヴォルフライエBS@",main:{pwr:6,shl:600,rng:275,spd:350,itv:1000},sub:{shl:30,rng:100,spd:120,itv:1000},slot:0}},type:"a",cost:160,hp:25,tec:2,fly:4,tgh:-1,comment:"BS@cost120合算"}
 {id:61,name:"アントリオンBS",sub:{tec:100,pwr:7,shl:360,rng:350,spd:290,itv:1000},type:"c",cost:90,hp:25,str:-1,tec:2,fly:2,tgh:2}
 {id:51,name:"ダゴミュールBS",type:"c",cost:120,hp:25,str:-1,tec:3,fly:3,joint:{bs:1},fixedParts:{bs:{name:"ダゴミュールBS@",main:{pwr:11,shl:400,rng:300,spd:360,itv:800},tunable:{mwp:1},slot:0},comment:"BS@cost80合算"}}
+
+{id:78,name:"ダゴミュールBS2",joint:{bs:2},fixedParts:{bs:[{main:{pwr:23,shl:120,rng:330,spd:350,itv:800},name:"ダゴミュールBS2@1",slot:0,comment:"ミサイル"},{name:"ダゴミュールBS2@2",main:{pwr:10,shl:300,rng:380,spd:500,itv:300},slot:0,comment:"バズーカ"}]},type:"c",cost:160,hp:25,str:-1,tec:3,fly:2,tgh:1,comment:"@パーツ合計cost120合算"}
+
 {id:48,name:"ロトンレムレスBS",type:"s",cost:35,hp:20,str:-1,tec:1,fly:2,tgh:3}
 {id:70,name:"プレデトバイツBS",type:"c",cost:40,hp:25,str:1,tec:1,tgh:3}
 {id:26,name:"ゼロブレイカーBS",tunable:{mwp:0,pwp:0},type:"l",cost:40,hp:25,wlk:2,fly:2,tgh:1}
