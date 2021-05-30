@@ -255,7 +255,7 @@
 {id:4,name:"ダイダリオンAM2",type:"l",cost:205,hp:25,str:4,tec:-1,fly:-1,tgh:3,sub:{str:100,pwr:34,rng:70,spd:85,itv:1000},tunable:{pwp:1},joint:{wp:0}}
 {id:15,name:"ビッグマンテスAM2",type:"a",cost:135,hp:20,str:-1,tec:3,tgh:3,main:{pwr:7,shl:1000,rng:275,spd:350,itv:900},tunable:{mwp:1},joint:{wp:0}}
 {id:11,name:"ブリガバロンAM",cost:40,hp:25,str:2,tec:-1,wlk:1,tgh:3}
-{id:12,name:"ブリガバロンLAM2",cost:40,hp:25,str:2,tec:-1,wlk:1,tgh:3,fixedParts:{wp:{name:"ブリガントシールド",sub:{shl:10,rng:0,spd:0,itv:1000},tunable:{pwp:0}}},type:"l",cost:30,comment:"ブリガバロン専用コンバージョンパーツ"}
+{id:12,name:"ブリガバロンLAM2",cost:40,hp:25,str:2,tec:-1,wlk:1,tgh:3,fixedParts:{wp:{name:"ブリガントシールド",sub:{shl:10,rng:0,spd:0,itv:1000},tunable:{pwp:0}},cost:30},type:"l",comment:"ブリガバロン専用コンバージョンパーツ"}
 
 
 
