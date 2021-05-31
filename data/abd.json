@@ -45,7 +45,7 @@
 
 {id:29,name:"フォンメイαBD",cartridge:{lv1:"85*6@25|7@30|9@15|8@20|19@15|52@20|23@25|22@30|21@20|15@20|26@20|25@25|13@30|32@50|31@40",hpup:18},cost:405,capa:830,hp:210,str:6,tec:13,wlk:6,fly:15,tgh:5,wbid:1,fixedParts:{hd:{name:"フォンメイαHD",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1},lg:{name:"フォンメイαLG",joint:{bs:1},cost:45,hp:25,tec:1,wlk:3,fly:1},bs:{name:"フォンメイαBS",main:{pwr:0,shl:30,rng:0,spd:10,itv:1000},sub:{shl:60,rng:100,spd:160,itv:1000},cost:100,hp:25,tec:1,fly:4},am:[{name:"フォンメイαAM",fixedParts:{wp:{name:"フォンティエン",main:{pwr:9,shl:810,rng:275,spd:320,itv:1000},sub:{shl:0,rng:100,spd:150,itv:1000},cost:140,tunable:{mwp:1,pwp:1}}},cost:35,hp:20,tec:2,fly:1,tgh:2},{name:"フォンメイαAM2",cost:35,hp:20,tec:2,fly:1,tgh:2}]}}
 
-
+{id:39,name:"フォンメイαBD2",cartridge:{lv1:"85*6@25|7@30|9@15|8@20|19@15|52@20|23@25|22@30|21@20|15@20|26@20|25@25|13@30|32@50|31@40",hpup:18},cost:405,capa:830,hp:210,str:5,tec:16,wlk:7,fly:13,tgh:4,wbid:1,fixedParts:{hd:{name:"フォンメイαHD2",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1},lg:{name:"フォンメイαLG",joint:{bs:1},cost:45,hp:25,tec:1,wlk:3,fly:1},bs:{name:"フォンメイαBS3",main:{pwr:0,shl:30,rng:0,spd:10,itv:1000},sub:{shl:60,rng:100,spd:160,itv:1000},cost:100,hp:25,tec:2,fly:3},am:[{name:"フォンメイαAM3",fixedParts:{wp:{name:"タオフォンティエン",main:{pwr:32,shl:260,rng:275,spd:320,itv:1000},sub:{shl:0,rng:275,spd:150,itv:1000},cost:140,tunable:{mwp:1,pwp:1}}},cost:35,hp:20,tec:2,fly:1,tgh:2},{name:"フォンメイαAM2",cost:35,hp:20,tec:2,fly:1,tgh:2}]}}
 
 
 {group:"UniＭ空",prefixID:"AM",commonStat:{size:"M",type:"a"},nextID:19}
