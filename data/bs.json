@@ -102,12 +102,12 @@
 {id:2,name:"ミカドマックスBS",type:"l",cost:40,hp:25,str:2,fly:2,tgh:1}
 {id:77,name:"バグジーケットBS",type:"s",cost:140,hp:25,tec:1,wlk:-1,fly:3,tgh:2,sub:{pwr:20,shl:90,rng:275,spd:250,itv:1000}}
 {id:6,name:"バルテオンBS",type:"a",cost:40,hp:25,str:-1,tec:1,fly:3,tgh:2}
-{id:46,name:"サイコクラスターBS",type:"a",cost:40,hp:20,str:1,tec:2,fly:3,tgh:-1}
+{id:46,name:"サイコクラスターBS",type:"a",cost:40,hp:25,str:1,tec:2,fly:3,tgh:-1}
 {id:143,name:"ラムダイバーBS",sub:{shl:10,itv:500},type:"a",size:"M",cost:70,hp:25,fly:4,tgh:1,comment:["使用すると落下が低速になり、スウェーのような空中ダッシュアクションが使えるようになる。","。"]}
 {id:34,name:"アマテウスBS",type:"c",cost:40,hp:25,str:1,tec:2,wlk:-1,fly:3}
 {id:83,name:"ルクスBS",cost:40,hp:25,str:1,tec:1,fly:4,tgh:-1,type:"a"}
 {id:11,name:"ガシマBS",type:"c",cost:40,hp:20,str:-1,tec:1,fly:3,tgh:2}
-{id:44,name:"バンガードBS",type:"l",cost:40,hp:20,str:-1,tec:2,fly:3,tgh:1}
+{id:44,name:"バンガードBS",type:"l",cost:40,hp:25,str:-1,tec:2,fly:3,tgh:1}
 {id:300,name:"フェアリスBS",type:"a",cost:60,hp:25,wlk:2,fly:3,comment:["コンバージョン複合"],sub:{str:100,pwr:0,shl:40,rng:0,spd:160,itv:1000},tunable:{pwp:1}}
 {id:301,name:"フェアリスBS1",type:"a",cost:40,hp:25,wlk:2,fly:3,comment:["コンバージョン無し"]}
 {id:80,name:"イニトォンBS",type:"a",cost:40,hp:20,str:-1,tec:1,wlk:2,fly:3}
@@ -122,7 +122,7 @@
 {id:24,name:"シノ･イクスロードBS",type:"l",cost:40,hp:25,tec:2,fly:3}
 {id:460,name:"ウィンドリンクスBS",type:"a",cost:40,hp:25,tec:2,wlk:-1,fly:3,tgh:1}
 {id:408,name:"ブラディスターBS",type:"c",cost:40,hp:20,str:1,wlk:2,fly:2}
-{id:26,name:"シグマクロックBS",type:"s",cost:40,hp:20,str:2,tec:1,fly:2}
+{id:26,name:"シグマクロックBS",type:"s",cost:40,hp:25,str:2,tec:1,fly:2}
 {id:66,name:"メディージャーBS",type:"s",cost:40,hp:25,str:1,fly:3,tgh:1}
 {id:35,name:"ガンアームズBS",type:"c",cost:70,hp:25,str:-1,tec:2,fly:3,tgh:1,joint:{bs:1},fixedParts:{bs:{name:"ガンアームズBS@",main:{pwr:16,shl:200,rng:350,spd:520,itv:900},tunable:{mwp:1},slot:0}}}
 {id:52,name:"ビャッコウBS",type:"l",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:2,tgh:2}
@@ -137,7 +137,7 @@
 {id:667,name:"ルッカ・デーコBS",type:"l",size:"M",cost:40,hp:25,str:1,tec:1,wlk:1,fly:3,tgh:-1}
 {id:160,name:"ペルセシウスBS",type:"a",size:"M",cost:40,hp:25,tec:2,fly:2,tgh:1}
 {id:162,name:"RAMソルジェッターBS",type:"a",size:"M",cost:40,hp:20,tec:2,wlk:1,fly:2}
-{id:108,name:"オーガヒルBS",type:"c",cost:40,hp:20,str:1,tec:2,fly:2}
+{id:108,name:"オーガヒルBS",type:"c",cost:40,hp:25,str:1,tec:2,fly:2}
 {id:131,name:"ハイガクゥーンBS",tunable:{mwp:0,pwp:0},fixedParts:{bs:{name:"ハイガクゥーンBS＠",main:{pwr:7,shl:300,rng:330,spd:290,itv:880},sub:{pwr:17,shl:140,rng:350,spd:300,itv:1000},tunable:{pwp:0,mwp:0},slot:0}},cost:140,hp:25,str:-1,tec:2,fly:3,tgh:1,type:"c",size:"M",joint:{bs:1}}
 {id:73,name:"ハイバリオンBS",type:"c",cost:40,hp:20,str:1,tec:-1,wlk:2,fly:2,tgh:1}
 {id:7,name:"メカジェッターBS",type:"a",cost:35,hp:20,tec:1,fly:3,tgh:1}
@@ -165,7 +165,7 @@
 {group:"UniＬサイズ",prefixID:"L",commonStat:{size:"L"},nextID:35}
 {id:6,name:"マイティバインBS",type:"l",cost:40,hp:25,str:1,tec:-1,fly:3,tgh:2}
 {id:5,name:"ガナハウンドBS",type:"l",cost:40,hp:20,tec:1,fly:3,tgh:1}
-{id:34,name:"スケアガントBS",cost:45,hp:25,fly:2,tgh:3,type:"l"}
+{id:34,name:"スケアガントBS",cost:40,hp:25,fly:2,tgh:3,type:"l"}
 {id:46,name:"ワイルドビークBS",type:"l",cost:40,hp:25,tec:1,wlk:1,fly:3}
 {id:50,name:"メディックボールBS",type:"s",cost:40,hp:25,tec:1,fly:3,tgh:1}
 {id:21,name:"パルサーディオBS",type:"s",cost:40,hp:25,wlk:2,fly:2,tgh:1}
