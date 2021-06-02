@@ -153,7 +153,7 @@
 {id:14,name:"デジトロイドBS",type:"s",cost:40,hp:25,tec:2,fly:3}
 {id:9,name:"ビクトリーBS",type:"c",cost:35,hp:20,tec:1,wlk:1,fly:2,tgh:1}
 {id:442,name:"ゴートランBS",type:"l",cost:40,hp:25,tec:-1,wlk:2,fly:3,tgh:1}
-
+{id:443,name:"ブリンクBS",type:"c",cost:40,hp:25,str:1,tec:1,fly:3}
 
 
 
