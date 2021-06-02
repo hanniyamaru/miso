@@ -47,6 +47,9 @@
 {id:1089,name:"ブレイドガン",main:{tec:100,pwr:10,shl:460,rng:250,spd:320,itv:300},tunable:{mwp:1},type:"l",size:"M",cost:150}
 {id:108,name:"シールドガン",main:{tec:100,pwr:17,shl:430,rng:225,spd:400,itv:340},tunable:{mwp:1},type:"l",size:"M",cost:180}
 
+{id:1400,name:"ベイオネット",size:"S",cost:130,main:{pwr:15,shl:360,rng:225,spd:440,itv:340},sub:{tec:100,pwr:32,rng:70,spd:85,itv:1000},tunable:{pwp:1}}
+{id:6,name:"M-9ベイオネット",size:"M",cost:145,main:{pwr:12,shl:600,rng:250,spd:480,itv:140},sub:{tec:100,pwr:32,rng:70,spd:85,itv:1000},tunable:{pwp:1}}
+
 
 
 {group:"Uniマシンガン系",prefixID:"MG",commonStat:{tunable:{mwp:1}},nextID:21}
@@ -237,9 +240,6 @@
 
 
 
-{id:1400,name:"ベイオネット",size:"S",cost:130,main:{pwr:15,shl:360,rng:225,spd:440,itv:340},sub:{tec:100,pwr:32,rng:70,spd:85,itv:1000},tunable:{pwp:1}}
-{id:6,name:"M-9ベイオネット",size:"M",cost:145,main:{pwr:12,shl:600,rng:250,spd:480,itv:140},sub:{tec:100,pwr:32,rng:70,spd:85,itv:1000},tunable:{pwp:1}}
-
 
 
 
@@ -256,7 +256,9 @@
 
 {id:6554,name:"龍天撃",main:{str:100,pwr:13,shl:240,rng:225,spd:400,itv:500},tunable:{mwp:1},size:"M",type:"l",cost:100}
 
+{id:6555,name:"ブリンクメイス",size:"M",type:"c",cost:190,main:{pwr:12,shl:390,rng:330,spd:330,itv:1000},sub:{tec:100,pwr:30,rng:75,spd:100,itv:1000},tunable:{pwp:1}}
 
+{id:6556,name:"ブリンクシールド",main:{tec:100,pwr:0,shl:50,rng:0,spd:10,itv:1000},tunable:{mwp:1},size:"M",type:"c",cost:30}
 
 
 
