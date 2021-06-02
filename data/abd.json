@@ -96,7 +96,7 @@
 
 {id:33,name:"シンビジウムBD",cartridge:{lv1:"4*6@20|7@30|9@15|8@20|19@15|52@20|21@20|23@25|22@30|15@20|20@30|26@20|13@30|32@50|31@40",hpup:14},fixedParts:{bs:{name:"シンビジウムBS",sub:{pwr:32,rng:0,spd:250,itv:1000,tec:100},tunable:{pwp:1},cost:160,hp:25,tec:2,fly:3}},cost:445,capa:870,hp:255,str:5,tec:13,wlk:6,fly:16,tgh:8,wbid:1}
 
-
+{id:23,name:"ライオスαBD",hpup:18,cartridge:{lv1:"85*6@20|7@30|9@15|8@20|51@30|19@15|23@25|22@30|28@30|52@20|21@20|25@25|13@30|32@50|31@40"},fixedParts:{hd:{name:"ライオスαHD",cost:40,hp:25,str:2,tec:-2,wlk:1,fly:2,tgh:2},bs:{name:"ライオスαBS",sub:{str:100,pwr:28,shl:30,rng:150,spd:350,itv:1000},cost:90,hp:25,wlk:-1,fly:3,tgh:3,tunable:{pwp:1}},lg:{name:"ライオスαLG",cost:45,hp:25,str:1,tec:-1,wlk:3,fly:2},am:[{name:"ライオスαAM",cost:35,hp:20,str:2,tec:2,tgh:1,joint:{wp:1}},{name:"ライオスαAM2",sub:{rng:0,spd:0,itv:1000},joint:{wp:2},fixedParts:{wp:{name:"ブレイダインソウル",main:{pwr:8,shl:600,rng:275,spd:350,itv:1000,str:100},sub:{pwr:28,rng:70,spd:85,itv:500,str:100},cost:180,tunable:{mwp:1,pwp:1}}},cost:35,hp:20,str:2,tec:2,tgh:1}]},auraSystem:1,wbid:17,cost:405,capa:850,hp:245,str:11,tec:3,wlk:7,fly:13,tgh:11}
 
 
 
