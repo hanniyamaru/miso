@@ -158,7 +158,7 @@
 {id:105,name:"セバーレイスタッグBS",type:"a",cost:40,hp:25,str:2,tec:-1,fly:3,tgh:1}
 {id:22,name:"マリルマーチαBS",type:"c",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:3,tgh:1}
 
-
+{id:444,name:"ライオスαBS",type:"l",cost:40,hp:25,str:1,fly:3,tgh:1}
 
 
 
