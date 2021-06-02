@@ -37,6 +37,7 @@
 {id:173,name:"クロタクスHD2",cost:40,hp:25,wlk:2,fly:2,tgh:1}
 {id:14,name:"ガナハウンドHD",cost:40,hp:20,str:1,tec:2,wlk:1,fly:1}
 {id:107,name:"スケアガントHD",cost:40,hp:25,str:2,wlk:2,fly:2,tgh:-1}
+{id:108,name:"スケアガントHD2",cost:40,hp:25,str:1,tec:2,wlk:1,fly:-1,tgh:2}
 {id:1000,name:"アクシオンHD",cost:40,hp:25,tec:1,wlk:1,tgh:3}
 {id:188,name:"エスティスHD",cost:40,hp:25,str:1,tec:3,wlk:-1,fly:1,tgh:1}
 {id:59,name:"ゼロファイターHD",cost:35,hp:20,tec:2,wlk:2,tgh:1}
@@ -48,6 +49,7 @@
 {id:62,name:"ジーウェインHD",cost:40,hp:25,str:2,tec:1,wlk:2}
 {id:29,name:"バルテオンHD",cost:40,hp:25,str:1,tec:1,fly:1,tgh:2}
 {id:104,name:"サイコクラスターHD",cost:40,hp:25,str:1,tec:2,wlk:1,fly:2,tgh:-1}
+{id:123,name:"サイコクラスターHD2",cost:40,hp:25,str:2,tec:-1,wlk:2,fly:2}
 {id:287,name:"ラムダイバーHD",type:"lacs",size:"M",cost:40,hp:20,str:1,tec:2,wlk:-1,fly:1,tgh:2}
 {id:289,name:"フォースドライブHD",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2,type:"lacs",size:"M"}
 {id:33,name:"サイコフォーミュラHD",cost:40,hp:20,str:1,tec:2,fly:1,tgh:1}
@@ -55,6 +57,7 @@
 {id:207,name:"キャノンボールHLHD",cost:40,hp:25,tec:2,wlk:2,fly:-1,tgh:2}
 {id:26,name:"サジタルマクシスHD",cost:40,hp:25,tec:2,tgh:3}
 {id:74,name:"アマテウスHD",cost:40,hp:25,str:2,wlk:2,fly:1}
+{id:75,name:"アマテウスHD2",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:2,tgh:1}
 {id:34,name:"トイボックスHD",cost:40,hp:25,str:2,wlk:1,fly:1,tgh:1}
 {id:40,name:"エスカゴットHD",type:"c",cost:75,hp:25,tec:2,wlk:2,tgh:1,main:{pwr:3,shl:1600,rng:160,spd:480,itv:140},tunable:{mwp:1}}
 {id:177,name:"ルクスHD",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:1,tgh:3}
@@ -81,7 +84,9 @@
 {id:52,name:"ブレイズバロンHD2",cost:40,hp:25,str:-1,tec:3,wlk:1,tgh:2}
 
 {id:66,name:"ハティガルムHD",cost:40,hp:25,str:2,tec:1,fly:2}
+{id:67,name:"ハティガルムHD2",cost:40,hp:25,str:2,wlk:2,tgh:1}
 {id:35,name:"シェイデンHD",cost:40,hp:25,str:1,tec:1,wlk:1,tgh:2}
+{id:122,name:"シェイデンHD2",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:2,tgh:1}
 {id:127,name:"ベクターHD",cost:40,hp:25,str:1,tec:3,fly:2,tgh:-1}
 {id:54,name:"シュトルバンガーHD",cost:40,hp:25,str:2,tec:-1,fly:1,tgh:3}
 {id:110,name:"アルバトレオスHD",type:"c",cost:80,hp:25,str:-1,tec:3,wlk:1,fly:2,main:{pwr:16,shl:160,rng:330,spd:290,itv:600},tunable:{mwp:1}}
@@ -173,12 +178,20 @@
 {id:248,name:"カタロスHD2",cost:40,hp:25,tec:2,fly:2,tgh:1}
 {id:297,name:"ゴートランHD",size:"M",cost:40,hp:25,str:2,tec:2,wlk:-1,fly:1,tgh:1}
 {id:60,name:"ジオグラシスHD",cost:40,hp:25,str:2,tec:1,fly:1,tgh:1}
-{id:67,name:"ハティガルムHD2",cost:40,hp:25,str:2,wlk:2,tgh:1}
+
 {id:164,name:"ブリガバロンHD",cost:30,hp:15,str:1,tec:2,wlk:1,fly:-1,tgh:1}
 {id:249,name:"リフィHD",cost:40,hp:25,str:-1,tec:1,wlk:2,fly:2,tgh:1}
 
 {id:246,name:"スチールバーンHD",cost:40,hp:25,str:1,wlk:2,fly:-1,tgh:3}
 {id:410,name:"ブリンクHD",cost:40,hp:25,str:1,tec:3,fly:-1,tgh:2}
+
+{id:71,name:"ドミクラウンHD2",cost:40,hp:25,tec:1,wlk:2,tgh:2}
+{id:274,name:"シノーリスHD2",main:{tec:100,pwr:10,shl:320,rng:330,spd:440,itv:500},tunable:{mwp:1},cost:75,hp:20,tec:1,wlk:1,fly:1,tgh:2,size:"M",type:"lc"}
+
+
+
+
+
 
 
 
