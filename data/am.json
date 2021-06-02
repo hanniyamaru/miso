@@ -152,7 +152,7 @@
 {id:180,name:"ゴートランAM",main:{str:100,pwr:20,shl:50,rng:200,spd:570,itv:500},sub:{str:100,pwr:32,shl:0,rng:70,spd:85,itv:2000},tunable:{mwp:1,pwp:1},type:"l",size:"M",cost:165,hp:20,str:4,tec:-1,tgh:2,joint:{wp:0}}
 {id:181,name:"ゴートランAM2",main:{pwr:16,shl:200,rng:250,spd:360,itv:600},tunable:{mwp:1},type:"l",size:"M",cost:85,hp:20,tec:2,wlk:1,tgh:2}
 
-
+{id:524,name:"ブリンクAM",cost:40,hp:25,tec:1,wlk:1,fly:1,tgh:2}
 
 
 
