@@ -20,28 +20,28 @@
 {id:23,name:"LLバルクマグ",type:"l",size:"LL",cost:200,main:{pwr:25,shl:440,rng:225,spd:440,itv:500}}
 {id:57,name:"LLバルクアクセル",main:{pwr:26,shl:360,rng:250,spd:570,itv:500,tec:100},size:"LL",type:"lc",cost:180}
 {id:110,name:"セイバーライフル",main:{tec:100,pwr:25,shl:280,rng:250,spd:440,itv:640},tunable:{mwp:1},type:"l",size:"M",cost:170,comment:"ゼロセイバーNEXT初期装備"}
-{id:71,name:"AURAライトニングガン",main:{pwr:15,shl:240,rng:250,spd:440,itv:700},auraStat:{main:{pwr:18,shl:240,rng:250,spd:440,itv:700}},type:"a",size:"S",cost:70}
-
-{id:501,name:"スワロービームガン",main:{tec:100,pwr:12,shl:320,rng:275,spd:440,itv:540},tunable:{mwp:1},type:"a",size:"M",cost:80}
-{id:105,name:"クリスタルビームガン",size:"M",cost:110,main:{pwr:20,shl:250,rng:275,spd:440,itv:700,tec:100},type:"a",comment:"-"}
 {id:91,name:"eアサルトピアースガン",main:{tec:100,pwr:20,shl:140,rng:280,spd:360,itv:300},type:"l",size:"M",cost:140,tec:1,tgh:1}
 {id:17,name:"ビートルガン",type:"l",size:"M",cost:100,main:{pwr:19,shl:330,rng:225,spd:440,itv:500}}
 {id:500,name:"ヘラクビートルガン",type:"l",size:"M",cost:160,main:{pwr:23,shl:340,rng:225,spd:440,itv:500}}
-{id:24,name:"ビームガン",size:"S",cost:30,main:{pwr:5,shl:400,rng:275,spd:440,itv:440}}
-{id:27,name:"ワイドビームガン",type:"as",size:"S",cost:50,main:{pwr:9,shl:300,rng:275,spd:440,itv:600}}
-{id:26,name:"ダブルビームガン",type:"as",size:"S",cost:60,main:{pwr:5,shl:600,rng:275,spd:440,itv:580}}
-{id:30,name:"3ウェイビームガン",type:"as",size:"M",cost:80,main:{pwr:5,shl:690,rng:275,spd:350,itv:780}}
-{id:31,name:"リミットプラズマガン",type:"a",size:"M",cost:110,main:{pwr:11,shl:440,rng:275,spd:440,itv:400}}
-{id:32,name:"プラズマガン",type:"a",size:"M",cost:170,main:{pwr:19,shl:370,rng:275,spd:440,itv:480}}
+
+{id:71,name:"AURAライトニングガン",main:{pwr:15,shl:240,rng:250,spd:440,itv:700},auraStat:{main:{pwr:18,shl:240,rng:250,spd:440,itv:700}},type:"a",size:"S",cost:70}
+{id:501,name:"スワロービームガン",main:{tec:100,pwr:12,shl:320,rng:275,spd:440,itv:540},tunable:{mwp:1},type:"a",size:"M",cost:80}
+{id:105,name:"クリスタルビームガン",size:"M",cost:110,main:{pwr:28,shl:250,rng:275,spd:440,itv:700,tec:100},type:"a",comment:"-"}
+{id:24,name:"ビームガン",size:"S",cost:30,main:{pwr:10,shl:420,rng:275,spd:500,itv:440}}
+{id:27,name:"ワイドビームガン",type:"as",size:"S",cost:50,main:{pwr:16,shl:300,rng:275,spd:460,itv:600}}
+{id:26,name:"ダブルビームガン",type:"as",size:"S",cost:60,main:{pwr:8,shl:620,rng:275,spd:500,itv:560}}
+{id:30,name:"3ウェイビームガン",type:"as",size:"M",cost:80,main:{pwr:6,shl:720,rng:275,spd:350,itv:780}}
+{id:31,name:"リミットプラズマガン",type:"a",size:"M",cost:110,main:{pwr:15,shl:460,rng:275,spd:440,itv:380}}
+{id:32,name:"プラズマガン",type:"a",size:"M",cost:170,main:{pwr:23,shl:350,rng:275,spd:440,itv:500}}
 {id:72,name:"ガンマライトニングガン",main:{pwr:26,shl:210,rng:275,spd:440,itv:780},type:"a",size:"M",cost:130}
 {id:33,name:"カーブガン",type:"as",size:"S",cost:50,main:{pwr:11,shl:220,rng:275,spd:480,itv:500}}
 {id:34,name:"スイングガン",type:"a",size:"M",cost:90,main:{pwr:15,shl:240,rng:275,spd:480,itv:500}}
-{id:70,name:"アクセルビームガン",main:{pwr:13,shl:290,rng:275,spd:480,itv:400},type:"a",size:"M",cost:100}
+{id:70,name:"アクセルビームガン",main:{pwr:15,shl:440,rng:275,spd:570,itv:400},type:"a",size:"M",cost:100}
 {id:37,name:"パルスガン",size:"S",cost:40,main:{pwr:8,shl:300,rng:250,spd:360,itv:600}}
 {id:38,name:"エレキガン",type:"s",size:"S",cost:90,main:{pwr:15,shl:300,rng:250,spd:360,itv:600}}
 {id:39,name:"パラライズガン",type:"s",size:"S",cost:140,main:{pwr:22,shl:270,rng:250,spd:360,itv:600}}
 {id:89,name:"ライトニングキャノン",main:{pwr:12,shl:520,rng:275,spd:440,itv:300},type:"a",size:"L",cost:150}
-{id:502,name:"サンダーシューター",main:{pwr:11,tec:100,shl:520,rng:275,spd:440,itv:300},tunable:{mwp:1},cost:140,type:"a",size:"M"}
+{id:502,name:"サンダーシューター",main:{pwr:13,tec:100,shl:580,rng:275,spd:440,itv:300},tunable:{mwp:1},cost:140,type:"a",size:"M"}
 {id:43,name:"シュリケンガン",type:"ls",size:"S",cost:80,main:{pwr:7,shl:680,rng:175,spd:400,itv:160}}
 {id:44,name:"ダイシュリケンガン",type:"l",size:"M",cost:110,main:{pwr:12,shl:480,rng:175,spd:400,itv:220}}
 {id:503,name:"ブレイドガン",main:{tec:100,pwr:10,shl:460,rng:250,spd:320,itv:300},tunable:{mwp:1},type:"l",size:"M",cost:150}
@@ -92,21 +92,21 @@
 {id:37,name:"ヴォルグライフル",main:{tec:100,pwr:17,shl:330,rng:330,spd:480,itv:480},tunable:{mwp:1},type:"c",size:"M",cost:160}
 
 {id:11,name:"サーキットブレイカー",type:"cs",size:"SS",cost:45,main:{pwr:14,shl:200,rng:330,spd:480,itv:540}}
-{id:12,name:"アーマーブレイカー",type:"lc",size:"M",cost:60,main:{pwr:38,shl:50,rng:330,spd:480,itv:1000}}
+{id:12,name:"アーマーブレイカー",type:"lc",size:"M",cost:60,main:{pwr:38,shl:80,rng:330,spd:480,itv:1000}}
 {id:13,name:"デバイスブレイカー",type:"c",size:"M",cost:90,main:{pwr:33,shl:150,rng:330,spd:480,itv:1000}}
-{id:14,name:"コアブレイカー",type:"c",size:"M",cost:140,main:{pwr:39,shl:100,rng:350,spd:480,itv:1000}}
-{id:15,name:"ストラクトブレイカー",type:"c",size:"L",cost:200,main:{pwr:50,shl:80,rng:350,spd:480,itv:1000}}
+{id:14,name:"コアブレイカー",type:"c",size:"M",cost:140,main:{pwr:39,shl:150,rng:350,spd:480,itv:1000}}
+{id:15,name:"ストラクトブレイカー",type:"c",size:"L",cost:200,main:{pwr:50,shl:120,rng:350,spd:480,itv:1000}}
 {id:26,name:"ガトリングブレイカー",main:{pwr:13,shl:1000,rng:350,spd:480,itv:200},size:"L",type:"c",cost:210}
 
 
 {group:"Uniシューター系",prefixID:"ST",commonStat:{tunable:{mwp:1}},nextID:1}
 
-{id:46,name:"クロスシューター",type:"las",size:"S",cost:60,main:{pwr:8,shl:420,rng:250,spd:400,itv:400}}
-{id:48,name:"パワーシューター",type:"la",size:"M",cost:140,main:{pwr:22,shl:270,rng:250,spd:400,itv:600}}
-{id:49,name:"バリスタシューター",size:"M",cost:180,main:{pwr:25,shl:300,rng:250,spd:400,itv:540},type:"la"}
-{id:153,name:"クエンチシューター",main:{pwr:15,shl:470,rng:225,spd:400,itv:340},type:"l",size:"M",cost:160}
+{id:46,name:"クロスシューター",type:"las",size:"S",cost:60,main:{pwr:14,shl:430,rng:250,spd:440,itv:400}}
+{id:48,name:"パワーシューター",type:"la",size:"M",cost:140,main:{pwr:36,shl:230,rng:250,spd:400,itv:760}}
+{id:49,name:"バリスタシューター",size:"M",cost:180,main:{pwr:29,shl:310,rng:250,spd:400,itv:540},type:"la"}
+{id:153,name:"クエンチシューター",main:{pwr:17,shl:500,rng:225,spd:440,itv:340},type:"l",size:"M",cost:160}
 {id:73,name:"トリプルシューター",main:{pwr:10,shl:660,rng:250,spd:320,itv:800},type:"l",size:"M",cost:150}
-{id:63,name:"ビームシューター",main:{pwr:24,shl:270,rng:275,spd:485,itv:600},type:"a",size:"M",cost:160}
+{id:63,name:"ビームシューター",main:{pwr:26,shl:280,rng:275,spd:485,itv:600},type:"a",size:"M",cost:160}
 
 
 
@@ -127,34 +127,34 @@
 
 
 {group:"Uniバズーカ系",prefixID:"BZ",commonStat:{tunable:{mwp:1}},nextID:32}
-{id:3,name:"マイクロバズーカ",type:"cs",size:"SS",cost:40,main:{pwr:11,shl:180,rng:330,spd:480,itv:400}}
-{id:4,name:"ミニバズーカ",size:"S",cost:60,main:{pwr:12,shl:260,rng:330,spd:440,itv:400},type:"cs"}
-{id:1,name:"ハンドバズーカ",type:"cs",size:"M",cost:80,main:{pwr:16,shl:250,rng:330,spd:400,itv:500}}
-{id:5,name:"バズーカ",type:"c",size:"L",cost:100,main:{pwr:20,shl:250,rng:330,spd:360,itv:600}}
-{id:7,name:"ダブルバズーカ",type:"c",size:"L",cost:100,main:{pwr:13,shl:320,rng:330,spd:360,itv:600}}
-{id:8,name:"ミドルバズーカ",type:"c",size:"L",cost:120,main:{pwr:25,shl:220,rng:300,spd:320,itv:700}}
-{id:10,name:"ラージバズーカ",type:"cs",size:"LL",cost:160,main:{pwr:33,shl:250,rng:300,spd:300,itv:900}}
-{id:11,name:"タイタンバズーカ",type:"c",size:"LL",cost:200,main:{pwr:48,shl:160,rng:300,spd:360,itv:1000}}
-{id:70,name:"ミニブラストバズーカ",main:{pwr:17,shl:180,rng:330,spd:400,itv:640},type:"c",size:"S",cost:60}
-{id:6,name:"ブラストバズーカ",type:"c",size:"M",cost:105,main:{pwr:26,shl:200,rng:330,spd:360,itv:900}}
-{id:801,name:"ミニマイトバズーカ",main:{pwr:18,shl:240,rng:330,spd:400,itv:500},type:"c",size:"M",cost:90}
-{id:802,name:"マイトバズーカ",main:{pwr:21,shl:300,rng:330,spd:360,itv:500},type:"c",size:"M",cost:160}
+{id:3,name:"マイクロバズーカ",type:"cs",size:"SS",cost:40,main:{pwr:13,shl:340,rng:330,spd:520,itv:400}}
+{id:4,name:"ミニバズーカ",size:"S",cost:60,main:{pwr:14,shl:420,rng:330,spd:480,itv:400},type:"cs"}
+{id:1,name:"ハンドバズーカ",type:"cs",size:"M",cost:80,main:{pwr:20,shl:330,rng:330,spd:440,itv:500}}
+{id:5,name:"バズーカ",type:"c",size:"L",cost:100,main:{pwr:26,shl:290,rng:330,spd:400,itv:600}}
+{id:7,name:"ダブルバズーカ",type:"c",size:"L",cost:100,main:{pwr:14,shl:320,rng:330,spd:400,itv:600}}
+{id:8,name:"ミドルバズーカ",type:"c",size:"L",cost:120,main:{pwr:32,shl:250,rng:330,spd:400,itv:700}}
+{id:10,name:"ラージバズーカ",type:"cs",size:"LL",cost:160,main:{pwr:43,shl:220,rng:330,spd:400,itv:900}}
+{id:11,name:"タイタンバズーカ",type:"c",size:"LL",cost:200,main:{pwr:52,shl:200,rng:300,spd:360,itv:1000}}
+{id:70,name:"ミニブラストバズーカ",main:{pwr:21,shl:280,rng:330,spd:400,itv:640},type:"c",size:"S",cost:60}
+{id:6,name:"ブラストバズーカ",type:"c",size:"M",cost:105,main:{pwr:37,shl:200,rng:330,spd:360,itv:900}}
+{id:801,name:"ミニマイトバズーカ",main:{pwr:19,shl:340,rng:330,spd:400,itv:500},type:"c",size:"M",cost:90}
+{id:802,name:"マイトバズーカ",main:{pwr:24,shl:340,rng:330,spd:400,itv:500},type:"c",size:"M",cost:160}
 
-{id:13,name:"ガトリングバズーカ",type:"c",size:"L",cost:210,main:{pwr:11,shl:1400,rng:300,spd:400,itv:200}}
+{id:13,name:"ガトリングバズーカ",type:"c",size:"L",cost:210,main:{pwr:11,shl:1400,rng:330,spd:480,itv:200}}
 {id:51,name:"ショックバズーカ",main:{pwr:20,shl:240,rng:250,spd:325,itv:800},tunable:{mwp:1},type:"s",size:"M",cost:100,comment:"チャージ　実弾属性"}
-{id:63,name:"プロジオバズーカ",main:{pwr:26,shl:220,rng:330,spd:360,itv:600},type:"c",size:"L",cost:160}
+{id:63,name:"プロジオバズーカ",main:{pwr:28,shl:290,rng:330,spd:360,itv:600},type:"c",size:"L",cost:160}
 {id:45,name:"ブラストガトリング",type:"c",size:"L",cost:210,main:{pwr:11,shl:1300,rng:360,spd:330,itv:200}}
 {id:511,name:"チャージディレイバズーカ",main:{pwr:16,shl:240,rng:250,spd:325,itv:800},tunable:{mwp:1},type:"s",size:"M",cost:100,comment:"実弾属性"}
 {id:82,name:"BTバズーカ",main:{pwr:20,shl:200,rng:275,spd:360,itv:500},tunable:{mwp:1},type:"cs",size:"M",cost:100}
-{id:48,name:"ブロウバズーカ",main:{pwr:13,shl:300,rng:300,spd:440,itv:500},cost:100,size:"M",type:"c"}
+{id:48,name:"ブロウバズーカ",main:{pwr:17,shl:340,rng:300,spd:440,itv:500},cost:100,size:"M",type:"c"}
 {id:36,name:"スプレッドバズーカ",type:"c",size:"LL",cost:150,main:{pwr:14,shl:770,rng:210,spd:360,itv:800}}
-{id:100,name:"バアルバズーカ",type:"c",size:"M",cost:120,main:{pwr:24,shl:180,rng:330,spd:360,itv:500}}
+{id:100,name:"バアルバズーカR",type:"c",size:"M",cost:120,main:{pwr:24,shl:200,rng:330,spd:400,itv:500}}
 
 
-{id:2911,name:"メガビームガン",type:"a",size:"L",cost:110,main:{pwr:31,shl:150,rng:250,spd:440,itv:1000}}
+{id:2911,name:"メガビームガン",type:"a",size:"L",cost:110,main:{pwr:33,shl:150,rng:275,spd:400,itv:1000}}
 {id:61,name:"プラズマビームキャノン",main:{pwr:34,shl:220,rng:275,spd:400,itv:740},cost:180,size:"M",type:"a"}
 {id:68,name:"チャージビームキャノン",main:{pwr:37,shl:120,rng:250,spd:440,itv:1000},type:"a",size:"L",cost:120}
-{id:29,name:"スターダストキャノン",type:"a",size:"LL",cost:130,main:{pwr:30,shl:180,rng:275,spd:400,itv:900}}
+{id:29,name:"スターダストキャノン",type:"a",size:"LL",cost:130,main:{pwr:38,shl:190,rng:275,spd:400,itv:900}}
 {id:56,name:"ビームポンプバズーカ",main:{pwr:23,shl:240,rng:275,spd:360,itv:760},type:"a",size:"M",cost:100}
 
 
@@ -179,7 +179,7 @@
 
 {id:76,name:"アクセルミサイルガン",main:{pwr:10,shl:480,rng:330,spd:290,itv:300},type:"c",size:"M",cost:160}
 {id:78,name:"ラピッドパルスミサイル",main:{pwr:11,shl:350,rng:275,spd:350,itv:320},tunable:{mwp:1},type:"a",size:"M",cost:110}
-{id:38,name:"ビームランチャー",main:{tec:100,pwr:24,shl:180,rng:275,spd:280,itv:1000},size:"L",type:"a",cost:100}
+{id:38,name:"ビームランチャー",main:{tec:100,pwr:27,shl:180,rng:275,spd:280,itv:1000},size:"L",type:"a",cost:100}
 
 
 
@@ -216,10 +216,10 @@
 
 
 {group:"Uni照射系",prefixID:"LS",commonStat:{tunable:{mwp:1}},nextID:1}
-{id:1,name:"グラスバーナー",type:"lcs",size:"S",cost:40,main:{pwr:4,shl:800,rng:90,spd:480,itv:100}}
-{id:2,name:"バーナー",type:"lcs",size:"M",cost:85,main:{pwr:6,shl:800,rng:90,spd:480,itv:100}}
-{id:3,name:"ロングバーナー",type:"cs",size:"M",cost:150,main:{pwr:8,shl:800,rng:120,spd:480,itv:100}}
-{id:4,name:"セラミックバーナー",type:"l",size:"M",cost:150,main:{pwr:9,shl:800,rng:90,spd:480,itv:100}}
+{id:1,name:"グラスバーナー",type:"lcs",size:"S",cost:40,main:{pwr:5,shl:760,rng:120,spd:480,itv:100}}
+{id:2,name:"バーナー",type:"lcs",size:"M",cost:85,main:{pwr:8,shl:780,rng:120,spd:480,itv:100}}
+{id:3,name:"ロングバーナー",type:"cs",size:"M",cost:150,main:{pwr:9,shl:840,rng:160,spd:480,itv:100}}
+{id:4,name:"セラミックバーナー",type:"l",size:"M",cost:150,main:{pwr:12,shl:810,rng:120,spd:480,itv:100}}
 
 {id:6,name:"ハンドレーザー",type:"as",size:"M",cost:60,main:{pwr:6,shl:780,rng:225,spd:480,itv:100}}
 {id:7,name:"レーザー",type:"as",size:"M",cost:100,main:{pwr:9,shl:750,rng:225,spd:480,itv:100}}
