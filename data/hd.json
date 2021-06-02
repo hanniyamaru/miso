@@ -105,6 +105,8 @@
 {id:169,name:"ガデロガHD2",cost:20,hp:10,str:2,tec:-1,tgh:2}
 {id:63,name:"パシファールHD",cost:40,hp:20,str:1,tec:2,wlk:2}
 {id:73,name:"レイスタッグHD",type:"a",cost:110,hp:25,str:-1,tec:2,wlk:2,fly:2,main:{pwr:4,shl:780,rng:275,spd:315,itv:1000},tunable:{mwp:1}}
+{id:226,name:"セバーレイスタッグHD",main:{pwr:6,shl:900,rng:275,spd:350,itv:1000},type:"a",cost:180,hp:25,str:-1,tec:3,fly:1,tgh:2,tunable:{mwp:1}}
+
 {id:48,name:"クレストセイントHD",cost:40,hp:25,str:1,tec:2,wlk:1,fly:1}
 {id:36,name:"ランサーロットHD",cost:40,hp:25,str:1,tec:1,tgh:3}
 {id:37,name:"ランサーロットHD2",cost:40,hp:25,tec:1,wlk:1,tgh:3}
