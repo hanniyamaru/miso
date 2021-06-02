@@ -83,7 +83,7 @@
 {id:153,name:"ラムダイバーAM2",main:{pwr:25,shl:210,rng:275,spd:485,itv:700},tunable:{mwp:1},type:"a",size:"M",cost:135,hp:20,str:-1,tec:3,wlk:1,tgh:2,joint:{wp:0}}
 {id:49,name:"アマテウスAM",cost:40,hp:25,tec:1,wlk:2,tgh:2}
 {id:50,name:"アマテウスAM2",type:"c",cost:100,hp:25,tec:3,wlk:1,fly:1,main:{pwr:22,shl:190,rng:330,spd:290,itv:300},tunable:{mwp:1},joint:{wp:0}}
-{id:3,name:"エスカゴットAM",type:"c",cost:70,hp:20,tec:2,wlk:1,tgh:2,main:{pwr:12,shl:320,rng:300,spd:360,itv:500},tunable:{mwp:1},joint:{wp:0}}
+{id:3,name:"エスカゴットAM",type:"c",cost:70,hp:20,tec:2,wlk:1,tgh:2,main:{pwr:12,shl:280,rng:300,spd:400,itv:500},tunable:{mwp:1},joint:{wp:0}}
 {id:4,name:"ガシマAM",type:"c",cost:115,hp:25,tec:2,fly:1,tgh:2,main:{pwr:11,shl:460,rng:350,spd:400,itv:600},tunable:{mwp:1},joint:{wp:0}}
 {id:5,name:"ガシマAM2",type:"c",cost:140,hp:25,tec:2,wlk:1,tgh:2,main:{pwr:20,shl:360,rng:330,spd:290,itv:900},tunable:{mwp:1},joint:{wp:0}}
 
@@ -254,7 +254,7 @@
 {id:2,name:"ギガトンオーAM2",type:"c",cost:200,hp:25,str:-1,tec:4,fly:-1,tgh:3,main:{pwr:37,shl:220,rng:330,spd:360,itv:800},sub:{pwr:30,shl:90,rng:350,spd:240,itv:1000},tunable:{mwp:1},joint:{wp:0}}
 {id:3,name:"ソア・ラAM2",type:"a",cost:190,hp:25,str:-1,tec:3,fly:1,tgh:2,main:{pwr:33,shl:190,rng:275,spd:440,itv:600},tunable:{mwp:1},joint:{wp:0}}
 {id:1401,name:"ガデロガAM",main:{tec:100,pwr:34,shl:100,rng:300,spd:320,itv:1000},tunable:{mwp:1},type:"c",cost:100,hp:25,str:-1,tec:3,wlk:-1,fly:1,tgh:3,joint:{wp:0}}
-{id:1402,name:"ガデロガAM2",main:{tec:100,pwr:7,shl:820,rng:90,spd:480,itv:100},tunable:{mwp:1},type:"c",cost:125,hp:25,tec:2,wlk:2,fly:-1,tgh:2,joint:{wp:0}}
+{id:1402,name:"ガデロガAM2",main:{tec:100,pwr:10,shl:760,rng:90,spd:480,itv:100},tunable:{mwp:1},type:"c",cost:125,hp:25,tec:2,wlk:2,fly:-1,tgh:2,joint:{wp:0}}
 {id:222,name:"ランサーロットAM2",type:"l",cost:90,hp:25,wlk:2,fly:1,tgh:2,sub:{str:100,rng:100,spd:50,itv:500},tunable:{pwp:1},joint:{wp:0},comment:""}
 {id:16,name:"マシンドレットAM",sub:{str:100,pwr:31,rng:120,spd:250,itv:1000},tunable:{pwp:1},joint:{wp:0},type:"l",cost:190,hp:25,str:3,tec:-1,wlk:1,fly:-1,tgh:3}
 {id:160,name:"ペルセシウスAM2",size:"LL",cost:80,hp:25,str:1,tec:1,tgh:3,comment:"盾耐久値70 2021 2/12"}
