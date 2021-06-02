@@ -160,7 +160,7 @@
 {id:30,name:"マリルマーチαAM3",type:"c",cost:155,hp:20,str:-1,tec:4,wlk:1,fly:1,main:{pwr:18,shl:480,rng:330,spd:440,itv:400},tunable:{mwp:1},joint:{wp:0}}
 {id:31,name:"マリルマーチαAM4",type:"c",cost:45,hp:20,tec:2,wlk:1,fly:-1,tgh:3,sub:{tec:100,pwr:30,rng:75,spd:200,itv:1000},tunable:{pwp:1},joint:{wp:0}}
 
-
+{id:525,name:"ライオスαAM",cost:40,hp:25,str:1,tec:2,wlk:1,tgh:1}
 
 
 
