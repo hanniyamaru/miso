@@ -48,7 +48,7 @@
 {id:4,name:"デュエルレイピア",type:"a",size:"M",cost:100,sub:{str:100,pwr:27,rng:100,spd:200,itv:1000}}
 {id:1003,name:"アサルトビームランス",type:"a",size:"M",cost:120,sub:{str:100,pwr:27,rng:120,spd:200,itv:500}}
 {id:8,name:"スタッグクロー",type:"a",size:"M",cost:100,sub:{str:100,pwr:26,rng:100,spd:200,itv:500}}
-
+{id:18,name:"セバースタッグシザー",sub:{pwr:28,shl:100,rng:75,spd:90,itv:2000},type:"a",size:"M",cost:160}
 
 
 
