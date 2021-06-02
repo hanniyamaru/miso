@@ -94,7 +94,7 @@
 {id:37,name:"イヅナカムイαAM",cost:40,hp:25,str:1,tec:2,wlk:-1,fly:2,tgh:1}
 {id:38,name:"イヅナカムイαAM2",cost:40,hp:25,str:2,tec:1,wlk:1,tgh:1}
 {id:39,name:"イヅナカムイαAM3",type:"a",cost:80,hp:25,tec:2,wlk:1,fly:1,tgh:1,sub:{tec:100,pwr:26,rng:70,spd:85,itv:500},tunable:{pwp:1}}
-{id:99,name:"イヅナカムイαAM4",type:"a",cost:130,hp:25,str:-1,tec:3,fly:1,tgh:2,tunable:{mwp:1},main:{tec:100,pwr:15,shl:270,rng:275,spd:485,itv:600}}
+{id:99,name:"イヅナカムイαAM4",type:"a",cost:130,hp:25,str:-1,tec:3,fly:1,tgh:2,tunable:{mwp:1},main:{tec:100,pwr:22,shl:290,rng:275,spd:485,itv:600}}
 {id:140,name:"ヴォルテスAM",sub:{pwr:13,shl:200,rng:275,spd:350,itv:1000},fixedParts:{am:{name:"ヴォルテスAM@",slot:0,type:"a",size:"M"}},type:"a",size:"M",cost:95,hp:25,str:-1,tec:3,fly:2,tgh:1}
 {id:76,name:"アハトジーベンAM",main:{pwr:4,shl:900,rng:300,spd:360,itv:140},tunable:{mwp:1},type:"lc",cost:85,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,joint:{wp:0}}
 {id:84,name:"アハトジーベンAM2",main:{pwr:6,shl:680,rng:120,spd:480,itv:100},joint:{wp:0},type:"lc",cost:85,hp:20,str:-1,tec:3,wlk:2,tgh:1,tunable:{mwp:1}}
@@ -122,8 +122,8 @@
 {id:71,name:"ゲンブラAM",type:"c",cost:60,hp:25,tec:2,wlk:1,tgh:2,main:{pwr:12,shl:130,rng:330,spd:290,itv:440},sub:{pwr:13,shl:160,rng:350,spd:290,itv:1000},tunable:{mwp:1,pwp:1},joint:{wp:1},comment:"AURA機構省略"}
 {id:62,name:"ブリッツェルトAM",cost:35,hp:20,tec:2,fly:1,tgh:2}
 {id:63,name:"ブリッツェルトAM2",cost:35,hp:20,str:2,fly:2,tgh:1}
-{id:43,name:"パシファールAM",type:"a",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:1,tgh:3,joint:{am:1},fixedParts:{am:{name:"パシファールAM@",main:{pwr:11,shl:220,rng:275,spd:440,itv:500},tunable:{mwp:1},cost:50,slot:0,joint:{wp:0}}}}
-{id:64,name:"パシファールAM2",type:"a",cost:40,hp:25,str:-1,tec:2,wlk:1,tgh:3,joint:{am:1},fixedParts:{am:{main:{pwr:8,shl:400,rng:275,spd:485,itv:300},name:"パシファールAM2@",tunable:{mwp:0},joint:{wp:0,am:0},cost:80,slot:0}}}
+{id:43,name:"パシファールAM",type:"a",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:1,tgh:3,joint:{am:1},fixedParts:{am:{name:"パシファールAM@",main:{pwr:15,shl:360,rng:275,spd:500,itv:500},tunable:{mwp:1},cost:50,slot:0,joint:{wp:0}}}}
+{id:64,name:"パシファールAM2",type:"a",cost:40,hp:25,str:-1,tec:2,wlk:1,tgh:3,joint:{am:1},fixedParts:{am:{main:{pwr:11,shl:440,rng:275,spd:570,itv:300},name:"パシファールAM2@",tunable:{mwp:0},joint:{wp:0,am:0},cost:80,slot:0}}}
 {id:48,name:"レイスタッグAM",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1}
 {id:9,name:"クレストセイントAM",cost:40,hp:25,str:2,wlk:1,fly:2}
 {id:47,name:"ビートランダーAM",cost:35,hp:20,str:2,tec:-1,wlk:1,fly:1,tgh:2}
@@ -183,7 +183,7 @@
 {id:81,name:"ガルスチールAM2",main:{tec:100,pwr:8,shl:720,rng:330,spd:480,itv:180},tunable:{mwp:1},auraStat:{main:{tec:100,pwr:9,shl:720,rng:330,spd:480,itv:160},str:-1,tec:2,wlk:2,fly:2},cost:165,hp:20,str:-1,tec:2,wlk:2,fly:2,type:"c",size:"L"}
 
 {id:63,name:"マイトボンバーAM",main:{tec:100,pwr:5,shl:900,rng:250,spd:440,itv:140},tunable:{mwp:1},type:"a",cost:85,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,joint:{wp:0}}
-{id:64,name:"マイトボンバーAM2",main:{tec:100,pwr:21,shl:220,rng:275,spd:400,itv:720},tunable:{mwp:1},cost:115,hp:20,str:-1,tec:3,fly:2,type:"a",tgh:1,joint:{wp:0}}
+{id:64,name:"マイトボンバーAM2",main:{tec:100,pwr:25,shl:240,rng:275,spd:400,itv:720},tunable:{mwp:1},cost:115,hp:20,str:-1,tec:3,fly:2,type:"a",tgh:1,joint:{wp:0}}
 {id:65,name:"マイトボンバーAM3",main:{tec:100,pwr:9,shl:500,rng:275,spd:350,itv:680},tunable:{mwp:1},type:"a",cost:115,hp:20,str:-1,tec:3,fly:1,tgh:2,joint:{wp:0}}
 {id:55,name:"ダイモンAM",cost:35,hp:20,str:2,tec:-1,wlk:1,fly:1,tgh:2}
 {id:56,name:"ダイモンAM2",main:{pwr:14,shl:350,rng:130,spd:300,itv:200},tunable:{mwp:1},type:"lc",cost:85,hp:20,str:-1,tec:3,wlk:1,tgh:2,joint:{wp:0}}
@@ -217,7 +217,7 @@
 {id:789,name:"ロトンレムレスAM",cost:35,hp:20,str:1,tec:-1,wlk:1,fly:1,tgh:3}
 {id:112,name:"プレデトバイツAM",main:{pwr:8,shl:290,rng:330,spd:290,itv:800},type:"c",cost:80,hp:25,str:-1,tec:3,wlk:1,tgh:2,tunable:{mwp:1}}
 {id:75,name:"ゼロブレイカーAM",cost:35,hp:20,str:3,tec:-1,wlk:1,tgh:2}
-{id:76,name:"ゼロブレイカーAM2",main:{tec:100,pwr:23,shl:220,rng:250,spd:480,itv:720},type:"lc",tunable:{mwp:1,pwp:0},cost:155,hp:20,str:-1,tec:3,wlk:1,tgh:2}
+{id:76,name:"ゼロブレイカーAM2",main:{tec:100,pwr:27,shl:220,rng:275,spd:480,itv:400},type:"lc",tunable:{mwp:1,pwp:0},cost:155,hp:20,str:-1,tec:3,wlk:1,tgh:2}
 {id:45,name:"コントラディクトAM",type:"c",cost:100,hp:25,str:-1,tec:3,wlk:1,fly:1,tgh:1,main:{pwr:22,shl:160,rng:330,spd:290,itv:780},tunable:{mwp:1},joint:{wp:0}}
 {id:790,name:"ハクメンスクナAM",cost:40,hp:25,str:1,tec:1,fly:2,tgh:1}
 {id:46,name:"クロコダガーAM",cost:35,hp:20,str:3,tec:1,tgh:1}
