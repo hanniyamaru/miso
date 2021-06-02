@@ -22,7 +22,7 @@
 {id:110,name:"セイバーライフル",main:{tec:100,pwr:25,shl:280,rng:250,spd:440,itv:640},tunable:{mwp:1},type:"l",size:"M",cost:170,comment:"ゼロセイバーNEXT初期装備"}
 {id:71,name:"AURAライトニングガン",main:{pwr:15,shl:240,rng:250,spd:440,itv:700},auraStat:{main:{pwr:18,shl:240,rng:250,spd:440,itv:700}},type:"a",size:"S",cost:70}
 
-{id:870,name:"スワロービームガン",main:{tec:100,pwr:12,shl:320,rng:275,spd:440,itv:540},tunable:{mwp:1},type:"a",size:"M",cost:80}
+{id:501,name:"スワロービームガン",main:{tec:100,pwr:12,shl:320,rng:275,spd:440,itv:540},tunable:{mwp:1},type:"a",size:"M",cost:80}
 {id:105,name:"クリスタルビームガン",size:"M",cost:110,main:{pwr:20,shl:250,rng:275,spd:440,itv:700,tec:100},type:"a",comment:"-"}
 {id:91,name:"eアサルトピアースガン",main:{tec:100,pwr:20,shl:140,rng:280,spd:360,itv:300},type:"l",size:"M",cost:140,tec:1,tgh:1}
 {id:17,name:"ビートルガン",size:"M",cost:100,main:{pwr:19,shl:330,rng:225,spd:440,itv:500}}
@@ -41,14 +41,14 @@
 {id:38,name:"エレキガン",type:"s",size:"S",cost:90,main:{pwr:15,shl:300,rng:250,spd:360,itv:600}}
 {id:39,name:"パラライズガン",type:"s",size:"S",cost:140,main:{pwr:22,shl:270,rng:250,spd:360,itv:600}}
 {id:89,name:"ライトニングキャノン",main:{pwr:12,shl:520,rng:275,spd:440,itv:300},type:"a",size:"L",cost:150}
-{id:930,name:"サンダーシューター",main:{pwr:11,tec:100,shl:520,rng:275,spd:440,itv:300},tunable:{mwp:1},cost:140,type:"a",size:"M"}
+{id:502,name:"サンダーシューター",main:{pwr:11,tec:100,shl:520,rng:275,spd:440,itv:300},tunable:{mwp:1},cost:140,type:"a",size:"M"}
 {id:43,name:"シュリケンガン",type:"ls",size:"S",cost:80,main:{pwr:7,shl:680,rng:175,spd:400,itv:160}}
 {id:44,name:"ダイシュリケンガン",type:"l",size:"M",cost:110,main:{pwr:12,shl:480,rng:175,spd:400,itv:220}}
-{id:1089,name:"ブレイドガン",main:{tec:100,pwr:10,shl:460,rng:250,spd:320,itv:300},tunable:{mwp:1},type:"l",size:"M",cost:150}
+{id:503,name:"ブレイドガン",main:{tec:100,pwr:10,shl:460,rng:250,spd:320,itv:300},tunable:{mwp:1},type:"l",size:"M",cost:150}
 {id:108,name:"シールドガン",main:{tec:100,pwr:17,shl:430,rng:225,spd:400,itv:340},tunable:{mwp:1},type:"l",size:"M",cost:180}
 
-{id:1400,name:"ベイオネット",size:"S",cost:130,main:{pwr:15,shl:360,rng:225,spd:440,itv:340},sub:{tec:100,pwr:32,rng:70,spd:85,itv:1000},tunable:{pwp:1}}
-{id:6,name:"M-9ベイオネット",size:"M",cost:145,main:{pwr:12,shl:600,rng:250,spd:480,itv:140},sub:{tec:100,pwr:32,rng:70,spd:85,itv:1000},tunable:{pwp:1}}
+{id:504,name:"ベイオネット",size:"S",cost:130,main:{pwr:15,shl:360,rng:225,spd:440,itv:340},sub:{tec:100,pwr:32,rng:70,spd:85,itv:1000},tunable:{pwp:1}}
+{id:505,name:"M-9ベイオネット",size:"M",cost:145,main:{pwr:12,shl:600,rng:250,spd:480,itv:140},sub:{tec:100,pwr:32,rng:70,spd:85,itv:1000},tunable:{pwp:1}}
 
 
 
