@@ -4,11 +4,6 @@
 
 
 
-{id:8,name:"ディカロスBD",cost:405,capa:780,hp:210,str:6,tec:11,wlk:7,fly:14,tgh:7,wbid:1,cartridge:{hpup:18,lv1:"85*6@25|7@30|9@15|8@20|19@15|23@25|22@30|15@20|52@20|28@30|26@20|21@20|13@30|32@50|31@40"}}
-
-{id:2,name:"ソードウィングBD",cost:320,capa:635,hp:185,str:4,tec:11,wlk:6,fly:13,tgh:6,wbid:1,cartridge:{hpup:25,lv1:"95*6@25|7@30|9@15|8@20|19@15|21@20|23@25|22@30|30@20|52@20|14@20|26@20|13@30|32@50|31@40"}}
-
-{id:41,name:"ソルボルカノウィングBD",cartridge:{hpup:18,lv1:"85*6@25|7@30|9@15|8@20|19@15|21@20|23@25|22@30|52@20|30@20|14@20|26@20|13@30|32@50|31@40|32@50"},cost:405,capa:780,hp:210,str:8,tec:8,wlk:6,fly:15,tgh:8,wbid:1}
 
 {id:37,name:"クリムローゼBD",cost:445,capa:900,hp:220,str:6,tec:8,wlk:10,fly:15,tgh:9,wbid:1,cartridge:{hpup:14,lv1:"4*6@25|7@30|9@15|8@20|51@30|50@30|19@15|23@25|22@30|21@20|31@40|13@30|39@15|32@50|26@20"},fixedParts:{hd:{name:"クリムローゼHD",sub:{itv:600},cost:40,hp:25,str:1,tec:1,fly:2,tgh:1},lg:{name:"クリムローゼLG",joint:{bs:2},fixedParts:{bs:[{name:"クリムローゼBS",slot:0},{name:"クリムローゼBS",slot:0}]},cost:85,hp:50,str:1,tec:2,wlk:3,fly:4,tgh:1},am:[{name:"クリムローゼAM",cost:40,hp:25,str:1,tec:1,fly:2,tgh:1},{name:"クリムローゼAM",cost:40,hp:25,str:1,tec:1,fly:2,tgh:1}]},joint:{bs:0},comment:"l"}
 
@@ -33,6 +28,14 @@
 {id:63,name:"マルカBD",sub:{pwr:25,shl:30,rng:250,spd:480,itv:1000,tec:100},builtin:{bs:1},cartridge:{hpup:14,lv1:"4*6@25|7@30|9@15|8@20|19@15|23@25|22@30|21@20|52@20|26@20|31@40|13@30|39@15|32@50|30@20|"},fixedParts:{hd:{name:"マルカHD",cost:40,hp:25,str:1,tec:3,wlk:2,tgh:-1},lg:{name:"マルカLG",cost:45,hp:25,tec:1,wlk:3,fly:1,tgh:1},am:[{name:"マルカAM",joint:{wp:2},cost:40,hp:25,tec:2,wlk:-1,fly:2,tgh:2},{name:"マルカAM2",main:{pwr:12,shl:280,rng:275,spd:440,itv:600},tunable:{mwp:1},cost:80,hp:20,tec:2,wlk:-1,fly:2,tgh:2}]},cost:535,capa:900,hp:250,str:5,tec:16,wlk:7,fly:16,tgh:9,wbid:1}
 
 {id:43,name:"A.L.E.クリムローゼBD",cartridge:{hpup:18,lv1:"85*6@25|7@30|9@15|8@20|19@15|21@20|23@25|22@30|52@20|15@20|30@20|31@40|13@30|32@50|26@20|"},fixedParts:{hd:{name:"A.L.E.クリムローゼHD",type:"a",size:"M",cost:40,hp:25,wlk:2,fly:2,tgh:1},bs:{name:"A.L.E.クリムローゼBS",sub:{shl:70,rng:140,spd:180,itv:1000},tunable:{mwp:0,pwp:0},builtin:{bs:1},cost:20,slot:3,size:"M",type:"a"}},type:"a",size:"S",cost:405,capa:780,hp:210,str:4,tec:12,wlk:8,fly:15,tgh:6,wbid:1}
+
+{id:8,name:"ディカロスBD",cost:405,capa:780,hp:210,str:6,tec:11,wlk:7,fly:14,tgh:7,wbid:1,cartridge:{hpup:18,lv1:"85*6@25|7@30|9@15|8@20|19@15|23@25|22@30|15@20|52@20|28@30|26@20|21@20|13@30|32@50|31@40"}}
+
+{id:2,name:"ソードウィングBD",cost:320,capa:635,hp:185,str:4,tec:11,wlk:6,fly:13,tgh:6,wbid:1,cartridge:{hpup:25,lv1:"95*6@25|7@30|9@15|8@20|19@15|21@20|23@25|22@30|30@20|52@20|14@20|26@20|13@30|32@50|31@40"}}
+
+{id:41,name:"ソルボルカノウィングBD",cartridge:{hpup:18,lv1:"85*6@25|7@30|9@15|8@20|19@15|21@20|23@25|22@30|52@20|30@20|14@20|26@20|13@30|32@50|31@40|32@50"},cost:405,capa:780,hp:210,str:8,tec:8,wlk:6,fly:15,tgh:8,wbid:1}
+
+
 {id:21,name:"バタフレアBD",cost:405,capa:780,hp:210,str:4,tec:9,wlk:9,fly:18,tgh:5,wbid:1,cartridge:{hpup:18,lv1:"85*6@25|7@30|9@15|8@20|19@15|21@20|23@25|22@30|52@20|30@20|31@40|15@20|13@30|32@50|26@20"}}
 
 {id:32,name:"バルーダBD",builtin:{bs:1},joint:{bs:0},cartridge:{hpup:14,lv1:"4*6@25|7@30|9@15|8@20|19@15|18@30|23@25|22@30|21@20|30@20|28@30|52@20|13@30|32@50|31@40"},cost:485,capa:850,hp:250,str:3,tec:14,wlk:7,fly:21,tgh:8,wbid:1,sub:{itv:2000}}
@@ -83,6 +86,8 @@
 {id:18,name:"スゼクBD",cost:445,capa:870,hp:255,str:13,tec:5,wlk:7,fly:14,tgh:9,wbid:17,cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|19@15|23@25|22@30|28@30|52@20|11@20|21@20|15@20|13@30|32@50|31@40"},comment:"AURAシステムを搭載。",auraSystem:1}
 {id:9,name:"パシファールBD",cost:445,capa:870,hp:255,str:5,tec:12,wlk:4,fly:15,tgh:12,wbid:1,cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|19@15|21@20|23@25|22@30|52@20|30@20|14@20|26@20|13@30|32@50|31@40"}}
 {id:10,name:"レイスタッグBD",cost:405,capa:785,hp:245,str:5,tec:12,wlk:6,fly:13,tgh:9,wbid:1,cartridge:{hpup:12,lv1:"3*6@20|7@30|9@15|8@20|19@15|21@20|23@25|22@30|15@20|30@20|13@30|32@50|31@40|26@20"}}
+{id:35,name:"セバーレイスタッグBD",cost:490,capa:945,hp:270,str:4,tec:16,wlk:7,fly:14,tgh:10,wbid:1,cartridge:{hpup:10,lv1:"75*6@15|7@30|9@15|8@20|19@15|21@20|23@25|22@30|52@20|15@20|30@20|13@30|32@50|31@40|26@20"}}
+
 {id:5,name:"クレストセイントBD",cost:445,capa:870,hp:255,str:16,tec:5,wlk:6,fly:13,tgh:8,cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|19@15|23@25|22@30|28@30|52@20|14@20|21@20|15@20|13@30|32@50|31@40"}}
 
 {id:4,name:"メカジェッターBD",cost:365,capa:730,hp:230,str:7,tec:7,wlk:7,fly:14,tgh:7,cartridge:{hpup:22,lv1:"5*6@20|7@30|9@15|8@20|19@15|21@20|23@25|22@30|52@20|28@30|26@20|15@20|13@30|32@50|31@40"}}
