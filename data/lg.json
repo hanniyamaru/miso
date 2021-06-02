@@ -119,6 +119,14 @@
 {id:2,name:"ビクトリーLG",cost:40,hp:20,str:1,wlk:3,tgh:1}
 {id:393,name:"ゴートランLG",type:"l",size:"M",cost:65,hp:25,str:1,tec:-1,wlk:3,fly:2,tgh:1,sub:{str:100,pwr:0,rng:120,spd:200,itv:1000},tunable:{pwp:0}}
 {id:394,name:"ブリンクLG",cost:45,hp:25,tec:2,wlk:3,fly:1}
+{id:86,name:"ヘラクビートランダーLG",cost:45,hp:25,str:1,tec:1,wlk:2,tgh:2}
+{id:87,name:"セバーレイスタッグLG",cost:45,hp:25,tec:2,wlk:3,tgh:1}
+
+
+
+
+
+
 
 
 
