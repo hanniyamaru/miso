@@ -26,7 +26,7 @@
 {id:105,name:"クリスタルビームガン",size:"M",cost:110,main:{pwr:20,shl:250,rng:275,spd:440,itv:700,tec:100},type:"a",comment:"-"}
 {id:91,name:"eアサルトピアースガン",main:{tec:100,pwr:20,shl:140,rng:280,spd:360,itv:300},type:"l",size:"M",cost:140,tec:1,tgh:1}
 {id:17,name:"ビートルガン",size:"M",cost:100,main:{pwr:19,shl:330,rng:225,spd:440,itv:500}}
-
+{id:500,name:"ヘラクビートルガン",size:"M",cost:160,main:{pwr:23,shl:340,rng:225,spd:440,itv:500}}
 {id:24,name:"ビームガン",size:"S",cost:30,main:{pwr:5,shl:400,rng:275,spd:440,itv:440}}
 {id:27,name:"ワイドビームガン",type:"as",size:"S",cost:50,main:{pwr:9,shl:300,rng:275,spd:440,itv:600}}
 {id:26,name:"ダブルビームガン",type:"as",size:"S",cost:60,main:{pwr:5,shl:600,rng:275,spd:440,itv:580}}
