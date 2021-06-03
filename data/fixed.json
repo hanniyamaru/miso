@@ -28,5 +28,5 @@
 {id:11,name:"ウィンベルAM3",cost:75,hp:20,str:1,tec:1,tgh:3,main:{pwr:2,shl:50,rng:340,spd:420,itv:600},tunable:{mwp:1}}
 {id:12,name:"ソア・ラAM2",cost:35,hp:20,str:1,tec:1,fly:2}
 {id:13,name:"ジークンロンAM",cost:40,hp:25,str:1,tec:1,wlk:2,tgh:1}
-{id:496,name:"コロナLG@",size:"S",type:"", slot:3}
+{id:496,name:"コロナLG@",size:"S",type:"l", slot:3}
 {group:"WP",prefixID:"W",nextID:1}
