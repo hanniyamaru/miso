@@ -22,10 +22,10 @@
 {id:18,name:"ミッサイドHD",cost:40,hp:25,tec:2,wlk:1,tgh:2}
 {id:19,name:"エースブレイバーHD",cost:40,hp:25,str:1,tec:1,wlk:1,tgh:2}
 {id:9,name:"ゴースレイダーHD",cost:40,hp:25,str:1,tec:2,fly:1,tgh:1}
-{id:2850,name:"ブルーメHD",sub:{str:100,shl:20,rng:43,spd:63,itv:1000},type:"s",size:"S",cost:70,hp:25,wlk:2,fly:1,tgh:2}
+{id:304,name:"ブルーメHD",sub:{str:100,shl:20,rng:43,spd:63,itv:1000},type:"s",size:"S",cost:70,hp:25,wlk:2,fly:1,tgh:2}
 {id:254,name:"ワンダーズHD",sub:{pwr:13,shl:420,rng:275,spd:290,itv:1000},type:"s",cost:135,hp:20,tec:2,wlk:2,fly:1}
-{id:2541,name:"ワンダーズHD3",sub:{pwr:30,shl:150,rng:250,spd:250,itv:1000},type:"s",cost:75,hp:20,tec:2,fly:2,tgh:1,comment:"ぺぺHD"}
-
+{id:305,name:"ワンダーズHD3",sub:{pwr:30,shl:150,rng:250,spd:250,itv:1000},type:"s",cost:75,hp:20,tec:2,fly:2,tgh:1,comment:"ぺぺHD"}
+{id:306,name:"アイシーHD",cost:35,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1}
 
 
 
