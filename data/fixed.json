@@ -16,7 +16,9 @@
 {id:1,name:"セラフクリムローゼBS2",sub:{pwr:-1,shl:[1,2,3],rng:-9,spd:-9,itv:-1},slot:0}
 {id:2,name:"セラフクリムローゼBS3",sub:{pwr:-1,shl:[1,2,3],rng:-9,spd:-9,itv:-1}}
 {id:3,name:"デモンBS",cost:35,hp:20,str:1,tec:1,fly:3}
-{id:10,name:"シャーナBS3",main:{pwr:13,shl:600,rng:275,spd:400,itv:700},sub:{shl:30,spd:180,itv:1000},slot:3,comment:"プシュパカ用",joint:{bs:2}}
+
+{id:10,name:"シャーナBS3",main:{pwr:13,shl:600,rng:275,spd:400,itv:700},sub:{shl:30,spd:180,itv:1000},comment:"プシュパカ用"}
+
 
 {group:"AM",prefixID:"A",nextID:14}
 {id:1,name:"セラフクリムローゼAM2",cost:25,hp:15,str:1,tec:2}
