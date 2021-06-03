@@ -1,7 +1,7 @@
 {group:"頭飾り",nextID:99}
 
 
-{id:399,name:"スロット ",slot:3,joint:{hdac:1,fcac:0,hd:0}}
+{id:399,name:"スロット ",slot:3,joint:{hdac:1,fcac:0,hd:0},comment:"スロット・メモリは、これで増設してください"}
 
 {id:301,name:"STR+1 HP+5 Capa+5 (HD)",str:1,hp:5,capa:5,slot:1}
 {id:302,name:"TEC+1 HP+5 Capa+5 (HD)",tec:1,hp:5,capa:5,slot:1}
