@@ -140,4 +140,3 @@
 
 
 
-{id:43,name:"パシファールAM",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:1,tgh:3,joint:{am:1},fixedParts:{am:{name:"パシファールAM@",cost:50,slot:0,joint:{wp:0}}}}
