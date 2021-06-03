@@ -1,6 +1,6 @@
 {group:"マスク",nextID:45}
 
-{id:506,name:"スロット",slot:3,joint:{hdac:0,fcac:1,hd:0}}
+{id:506,name:"スロット",slot:3,joint:{hdac:0,fcac:1,hd:0},comment:"スロット・メモリは、これで増設してください"}
 
 {id:501,name:"STR+1 HP+5 capa+5 (FC)",str:1,hp:5,capa:5,slot:1}
 {id:502,name:"TEC+1 HP+5 capa+5 (FC)",tec:1,hp:5,capa:5,slot:1}
