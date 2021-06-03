@@ -10,6 +10,8 @@
 {group:"LG",prefixID:"L",nextID:3}
 {id:1,name:"シエスLG",cost:40,hp:30,tec:-1,wlk:2,fly:1,tgh:3}
 {id:2,name:"セラフクリムローゼLG2",cost:70,hp:40,str:1,tec:1,wlk:2,fly:4,tgh:1}
+{id:496,name:"コロナLG@",size:"S",type:"l", slot:3}
+
 {group:"BS",prefixID:"B",nextID:4}
 {id:1,name:"セラフクリムローゼBS2",sub:{pwr:-1,shl:[1,2,3],rng:-9,spd:-9,itv:-1},slot:0}
 {id:2,name:"セラフクリムローゼBS3",sub:{pwr:-1,shl:[1,2,3],rng:-9,spd:-9,itv:-1}}
@@ -28,5 +30,5 @@
 {id:11,name:"ウィンベルAM3",cost:75,hp:20,str:1,tec:1,tgh:3,main:{pwr:2,shl:50,rng:340,spd:420,itv:600},tunable:{mwp:1}}
 {id:12,name:"ソア・ラAM2",cost:35,hp:20,str:1,tec:1,fly:2}
 {id:13,name:"ジークンロンAM",cost:40,hp:25,str:1,tec:1,wlk:2,tgh:1}
-{id:496,name:"コロナLG@",size:"S",type:"l", slot:3}
+
 {group:"WP",prefixID:"W",nextID:1}
