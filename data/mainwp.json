@@ -275,3 +275,8 @@
 {id:1591,name:"マニモウィング@",main:{str:100,pwr:3,shl:800,rng:300,spd:400,itv:440},type:"a",size:"M",comment:"マニモウィング専用コンバーションパーツ",cost:40}
 {id:156,name:"ペペンガンナーズ",main:{tec:100,pwr:9,shl:600,rng:330,spd:350,itv:500},tunable:{mwp:1},type:"c",size:"M",cost:100}
 {id:1561,name:"ペペンツインガン",main:{pwr:7,shl:700,rng:330,spd:220,itv:360},tunable:{mwp:1},type:"c",size:"S",cost:70}
+
+{id:94,name:"ビームショットカセット",main:{pwr:18,shl:420,rng:275,spd:440,itv:300},type:"a",size:"S",cost:70,comment:"ステラ・カラカル専用コンバージョンパーツ","アウロラキャノン省略",tunable:{mwp:1}}
+{id:95,name:"オートチャージカセット",main:{pwr:28,shl:60,rng:300,spd:480,itv:500},type:"a",size:"S",cost:30,slot:0,comment:"ステラ・カラカル専用コンバージョンパーツ","アウロラキャノン省略"}
+
+
