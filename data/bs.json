@@ -165,6 +165,8 @@
 {id:22,name:"マリルマーチαBS",type:"c",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:3,tgh:1}
 
 {id:444,name:"ライオスBS",type:"l",cost:40,hp:25,str:1,fly:3,tgh:1}
+{id:166,name:"オーガヒルBS2",sub:{tec:100,pwr:12,shl:300,rng:300,spd:350,itv:1000},type:"c",size:"M",cost:120,hp:25,str:-1,tec:2,wlk:-1,fly:3,tgh:2}
+
 
 
 
