@@ -29,7 +29,7 @@
 
 {id:20,name:"ルーシェαBD2",cost:405,capa:815,hp:210,str:3,tec:11,wlk:8,fly:7,tgh:8,comment:"ビット性能値固定",fixedParts:{hd:{name:"ルーシェαHD2",sub:{tec:100,pwr:20,shl:0,rng:100,spd:350,itv:1000},cost:90,hp:25,tec:2,wlk:2,tgh:1,comment:"押出効果あり"},lg:{name:"ルーシェαLG",cost:45,hp:25,str:2,wlk:3,fly:1,tgh:-1},wp:{name:"ルーシェαBD@",sub:{shl:0,itv:1000},slot:0}},cartridge:{hpup:18,lv1:"85*6@25|7@20|10@20|8@15|17@20|18@20|19@20|20@15|23@25|30@20|14@20|26@10|13@30|31@40|32@40"},joint:{wp:1},wbid:25}
 
-{id:639,name:"アイシーBD",cost:445,capa:850,hp:225,str:4,tec:16,wlk:10,fly:10,tgh:8,wbid:3,cartridge:{hpup:14,lv1:"4*6@25|7@20|10@20|8@15|17@20|18@20|23@25|22@30|25@25|30@20|21@20|26@10|13@30|32@40|31@40"}}
+{id:639,name:"アイシーBD",cost:445,capa:850,hp:225,str:4,tec:16,wlk:10,fly:10,tgh:8,wbid:3,cartridge:{hpup:14,lv1:"4*6@25|7@20|10@20|8@15|18@20|19@20|23@25|22@30|25@25|30@20|21@20|26@10|13@30|32@40|31@40"}}
 
 
 {group:"UniＭ砲",prefixID:"CM",commonStat:{size:"M",type:"c"},nextID:13}
