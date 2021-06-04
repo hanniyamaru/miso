@@ -1,6 +1,18 @@
 {group:"UniＳ陸",prefixID:"LS",commonStat:{size:"S",type:"l"},nextID:35}
 
-{id:29000,name:"lフォンメイαBD",cartridge:{lv1:"85*6@25|7@30|9@15|8@20|19@15|52@20|23@25|22@30|21@20|15@20|26@20|25@25|13@30|32@50|31@40",hpup:18},cost:405,capa:830,hp:210,str:6,tec:13,wlk:6,fly:15,tgh:5,wbid:1,fixedParts:{hd:{name:"フォンメイαHD",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1},lg:{name:"フォンメイαLG",joint:{wp:1},cost:45,hp:25,tec:1,wlk:3,fly:1},fixedParts:{wp:{name:"フォンティエン",main:{pwr:9,shl:810,rng:275,spd:320,itv:1000},sub:{shl:0,rng:100,spd:150,itv:1000},cost:140,tunable:{mwp:1,pwp:1}}},bs:{name:"フォンメイαBS",main:{pwr:0,shl:30,rng:0,spd:10,itv:1000},sub:{shl:60,rng:100,spd:160,itv:1000},cost:100,hp:25,tec:1,fly:4},am:[{name:"フォンメイαAM",fixedParts:{wp:{name:"フォンティエン",main:{pwr:9,shl:810,rng:275,spd:320,itv:1000},sub:{shl:0,rng:100,spd:150,itv:1000},cost:140,tunable:{mwp:1,pwp:1}}},cost:35,hp:20,tec:2,fly:1,tgh:2},{name:"フォンメイαAM2",cost:35,hp:20,tec:2,fly:1,tgh:2}]}}
+
+{id:2900,name:"lフォaンメイαBD",cartridge:{lv1:"85*6@25|7@30|9@15|8@20|19@15|52@20|23@25|22@30|21@20|15@20|26@20|25@25|13@30|32@50|31@40",hpup:18},cost:405,capa:830,hp:210,str:6,tec:13,wlk:6,fly:15,tgh:5,wbid:1,fixedParts:{hd:{name:"フォンメイαHD",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1},lg:{name:"フォンメイαLG",joint:{wp:1},cost:45,hp:25,tec:1,wlk:3,fly:1},{wp:{name:"フォンティエン",main:{pwr:9,shl:810,rng:275,spd:320,itv:1000},sub:{shl:0,rng:100,spd:150,itv:1000},cost:140,tunable:{mwp:1,pwp:1}}},bs:{name:"フォンメイαBS",main:{pwr:0,shl:30,rng:0,spd:10,itv:1000},sub:{shl:60,rng:100,spd:160,itv:1000},cost:100,hp:25,tec:1,fly:4},am:[{name:"フォンメイαAM",fixedParts:{wp:{name:"フォンティエン",main:{pwr:9,shl:810,rng:275,spd:320,itv:1000},sub:{shl:0,rng:100,spd:150,itv:1000},cost:140,tunable:{mwp:1,pwp:1}}},cost:35,hp:20,tec:2,fly:1,tgh:2},{name:"フォンメイαAM2",cost:35,hp:20,tec:2,fly:1,tgh:2}]}}
+
+
+
+
+
+
+
+
+
+
+
 
 {id:130,name:"コロナBD",cost:445,capa:900,hp:225,str:15,tec:4,wlk:14,fly:8,tgh:7,size:"S",type:"l",fixedParts:{lg:"コロナLG",hd:{name:"コロナHD",cost:40,hp:25,str:2,wlk:1,fly:1,tgh:1,type:"l",size:"S"},am:[{name:"コロナAM",cost:40,hp:25,str:2,wlk:1,tgh:2,type:"l",size:"S",joint:{wp:1},comment:"MODE CHANGE省略"},{name:"コロナAM2",main:{pwr:20,shl:50,rng:200,spd:570,itv:500,str:100},tunable:{mwp:1},cost:70,type:"l",size:"S",joint:{wp:0},hp:25,str:2,wlk:1,tgh:2}]},cartridge:{lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|16@20|11@20|13@30|34@15|32@50|31@40",hpup:14},builtin:{bs:1}}
 
