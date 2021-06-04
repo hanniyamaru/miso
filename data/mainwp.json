@@ -92,7 +92,7 @@
 {id:37,name:"ヴォルグライフル",main:{tec:100,pwr:17,shl:330,rng:330,spd:480,itv:480},tunable:{mwp:1},type:"c",size:"M",cost:160}
 
 {id:11,name:"サーキットブレイカー",type:"cs",size:"SS",cost:45,main:{pwr:14,shl:200,rng:330,spd:480,itv:540}}
-{id:12,name:"アーマーブレイカー",type:"lc",size:"M",cost:60,main:{pwr:38,shl:80,rng:330,spd:480,itv:1000}}
+{id:12,name:"アーマーブレイカー",type:"c",size:"M",cost:60,main:{pwr:38,shl:80,rng:330,spd:480,itv:1000}}
 {id:13,name:"デバイスブレイカー",type:"c",size:"M",cost:90,main:{pwr:33,shl:150,rng:330,spd:480,itv:1000}}
 {id:14,name:"コアブレイカー",type:"c",size:"M",cost:140,main:{pwr:39,shl:150,rng:350,spd:480,itv:1000}}
 {id:15,name:"ストラクトブレイカー",type:"c",size:"L",cost:200,main:{pwr:50,shl:120,rng:350,spd:480,itv:1000}}
