@@ -211,7 +211,7 @@
 {id:5,name:"シノ･イクスロードLG3",type:"l",cost:225,hp:55,str:2,tec:-1,wlk:3,tgh:2,sub:{str:100,pwr:32,rng:77,spd:94,itv:1000},tunable:{pwp:1},joint:{bs:1}}
 {id:58,name:"ブリガバロンLG",cost:50,hp:70,str:1,tec:-1,wlk:3,tgh:3}
 
-
+{id:12,name:"ラクラボロスLG",joint:{wp:1},fixedParts:{wp:{name:"ラクラボロスLG@",main:{pwr:15,shl:400,rng:250,spd:440,itv:500},sub:{pwr:27,rng:70,spd:85,itv:1000,str:100},slot:0}},cost:245,hp:60,str:2,tec:2,wlk:3,tgh:-1}
 
 
 
