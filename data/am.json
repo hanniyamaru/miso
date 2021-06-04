@@ -255,7 +255,7 @@
 
 {id:28,name:"ブレイズバロンAM3",type:"l",cost:170,hp:25,str:-1,tec:3,wlk:1,fly:1,tgh:1,sub:{tec:100,pwr:32,rng:150,spd:10,itv:1000},tunable:{pwp:1},joint:{wp:0}}
 
-
+{id:93,name:"ラクラボロスAM",cost:40,hp:25,str:1,tec:2,wlk:-1,fly:1,tgh:2}
 
 
 
