@@ -151,6 +151,8 @@
 {id:12,name:"ソア・ラLG",cost:45,hp:30,tec:1,wlk:1,fly:1,tgh:3,joint:{bs:1}}
 {id:23,name:"ブレイズバロンLG",cost:45,hp:65,str:1,tec:1,wlk:3,fly:1}
 {id:14,name:"シェイデンLG",cost:45,hp:45,str:1,tec:2,wlk:2,tgh:1}
+{id:46,name:"シェイデンLG2",cost:45,hp:45,str:-1,tec:2,wlk:2,fly:2,tgh:1}
+
 {id:48,name:"ベクターLG",sub:{shl:60,rng:100,spd:160,itv:1000},type:"a",cost:85,hp:45,tec:2,wlk:3,fly:2,tgh:-1}
 {id:26,name:"シュトルバンガーLG",cost:45,hp:45,tec:1,wlk:2,fly:1,tgh:2}
 {id:43,name:"アルバトレオスLG",cost:50,hp:30,str:1,tec:1,wlk:3,fly:2,tgh:-1}
