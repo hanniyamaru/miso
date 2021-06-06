@@ -10,8 +10,7 @@
 
 {id:3,name:"クリムローゼαBD",cartridge:{lv1:"85*6@25|7@30|9@15|8@20|19@15|21@20|23@25|22@30|52@20|15@20|30@20|31@40|13@30|32@50|26@20",hpup:18},joint:{bs:0},fixedParts:{hd:{name:"クリムローゼαHD",cost:40,hp:25,str:1,tec:2,fly:2,slot:3}},cost:405,capa:780,hp:210,str:7,tec:8,wlk:7,fly:16,tgh:7,wbid:1}
 
-{id:38,name:"セラフクリムローゼBD",cost:475,capa:900,hp:220,str:2,tec:9,wlk:10,fly:18,tgh:9,sub:{tec:100,pwr:24,shl:50,rng:75,spd:85,itv:1000},wbid:1,cartridge:{hpup:14,lv1:"4*6@25|7@30|9@15|8@20|51@30|50@30|19@15|23@25|22@30|21@20|31@40|13@30|39@15|32@50|26@20"},fixedParts:{hd:{name:"セラフクリムローゼHD",cost:40,hp:25,tec:3,fly:1,tgh:1},bs:{name:"セラフクリムローゼBS2",sub:{pwr:-1,shl:10,rng:-9,spd:-9,itv:-1}},lg:{name:"セラフクリムローゼLG",sub:{pwr:22,shl:100,rng:275,spd:350,itv:1000,tec:100},joint:{bs:2},fixedParts:{bs:[{name:"セラフクリムローゼBS",slot:0},{name:"セラフクリムローゼBS",slot:0}]},cost:145,hp:45,str:1,tec:2,wlk:3,fly:4,tgh:1},am:[{name:"セラフクリムローゼAM",cost:40,hp:25,str:1,tec:2,fly:1,tgh:1},{name:"セラフクリムローゼAM",cost:40,hp:25,str:1,tec:2,fly:1,tgh:1}]},comment:"-"}
-
+{id:38,name:"セラフクリムローゼBD",cost:475,capa:900,hp:220,str:2,tec:9,wlk:10,fly:18,tgh:9,sub:{tec:100,pwr:24,shl:50,rng:75,spd:85,itv:1000},wbid:1,cartridge:{hpup:14,lv1:"4*6@25|7@30|9@15|8@20|51@30|50@30|19@15|23@25|22@30|21@20|31@40|13@30|39@15|32@50|26@20"},fixedParts:{hd:{name:"セラフクリムローゼHD",cost:40,hp:25,tec:3,fly:1,tgh:1},bs:{name:"セラフクリムローゼBS2",sub:{pwr:-1,shl:10,rng:-9,spd:-9,itv:-1}},lg:{name:"セラフクリムローゼLG",sub:{pwr:22,shl:100,rng:275,spd:350,itv:1000,tec:100},joint:{bs:2},fixedParts:{bs:[{name:"セラフクリムローゼBS",slot:0},{name:"セラフクリムローゼBS",slot:0}]},cost:135,hp:50,str:1,tec:2,wlk:3,fly:4,tgh:1},am:[{name:"セラフクリムローゼAM",cost:40,hp:25,str:1,tec:2,fly:1,tgh:1},{name:"セラフクリムローゼAM",cost:40,hp:25,str:1,tec:2,fly:1,tgh:1}]},comment:"-"}
 
 
 
