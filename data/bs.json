@@ -92,7 +92,7 @@
 {id:510,name:"アイシーBS",type:"c",cost:40,hp:25,tec:1,wlk:1,fly:3}
 {id:129,name:"ステラBS",cost:40,hp:25,tec:3,wlk:1,fly:2,tgh:-1,type:"a"}
 {id:100,name:"シャーナBS",type:"a",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:2,tgh:1}
-
+{id:135,name:"K・ノンナBS",type:"c",size:"S",cost:35,hp:20,str:-1,tec:3,fly:3,joint:{bs:1},comment:"K・ノンナBS＠のみ接続可能"}
 
 
 
