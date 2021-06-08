@@ -171,6 +171,11 @@
 {id:525,name:"ライオスAM",cost:40,hp:25,str:1,tec:2,wlk:1,tgh:1}
 {id:100,name:"フラップジャックAM",fixedParts:{wp:{main:{pwr:14,tec:100,shl:360,rng:275,spd:440,itv:1120},name:"フラップジャックAM@",type:"a",slot:0,cost:40,comment:"AM@部位破壊不能",auraStat:{main:{tec:100,pwr:14,shl:360,rng:300,spd:480,itv:500}}}},auraStat:{str:-1,tec:2,fly:3,tgh:1},type:"a",cost:35,hp:20,str:-1,tec:2,fly:3,tgh:1}
 {id:176,name:"ウィザメルAM",main:{tec:100,pwr:8,shl:400,rng:275,spd:440,itv:300},tunable:{mwp:1},cost:65,hp:20,str:-1,tec:2,fly:2,tgh:2,type:"a",size:"M"}
+{id:97,name:"シノーリスAM",main:{tec:100,pwr:5,shl:460,rng:225,spd:480,itv:140},tunable:{mwp:1},type:"l",cost:75,hp:20,str:-1,tec:3,wlk:2,tgh:1}
+
+
+
+
 
 
 
