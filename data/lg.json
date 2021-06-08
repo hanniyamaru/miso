@@ -199,7 +199,7 @@
 {id:7,name:"スチールライダーLG",cost:45,hp:45,tec:1,wlk:5,fly:-1}
 
 {id:85,name:"スチールバーンLG",joint:{lg:1},fixedParts:{lg:{name:"スチールバーンLG@",joint:{bs:1},slot:0}},type:"a",cost:45,hp:40,str:-1,tec:1,wlk:2,fly:1,tgh:3}
-
+{id:33,name:"ドミクラウンLG",cost:50,hp:40,str:2,tec:1,wlk:3,fly:-1,tgh:1}
 
 
 
