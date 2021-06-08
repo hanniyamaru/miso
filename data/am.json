@@ -62,6 +62,13 @@
 {id:126,name:"リフィAM",cost:35,hp:20,str:1,tec:1,wlk:2,fly:1}
 {id:302,name:"アイシーAM",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1}
 {id:97,name:"イルミスAM",cost:40,hp:25,tec:3,wlk:1,fly:1}
+{id:163,name:"K・ノンナAM",type:"c",size:"S",cost:35,hp:20,tec:2,wlk:2,fly:1}
+
+
+
+
+
+
 
 {group:"UniＭサイズ",prefixID:"M",commonStat:{size:"M"},nextID:69}
 {id:24,name:"ホバリオンAM",cost:35,hp:20,tec:2,wlk:1,fly:1,tgh:1}
