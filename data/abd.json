@@ -98,6 +98,12 @@
 
 {id:27,name:"フラップジャックBD",sub:{shl:0,spd:150,itv:500},builtin:{bs:1},joint:{bs:0},cartridge:{lv1:"4*6@20|7@30|9@15|8@20|19@15|20@30|23@25|22@30|52@20|15@20|30@20|21@20|13@30|32@50|31@40",hpup:14},str:4,tec:14,wlk:9,fly:17,tgh:9,capa:905,cost:485,hp:280,auraSystem:1,auraStat:{str:4,tec:14,wlk:9,fly:17,tgh:9,comment:"TRANSFORM装備時cost+50"},joint:{wp:1,bs:0},builtin:{bs:1}}
 
+{id:51,name:"ウィザメルBD",cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|19@15|52@20|23@25|22@30|21@20|25@25|30@20|26@20|13@30|32@50|31@40"},cost:445,hp:255,capa:870,str:5,tec:14,wlk:18,fly:13,tgh:8,type:"a",size:"M"}
+
+
+
+
+
 
 
 {group:"UniＬ空",prefixID:"AL",commonStat:{size:"L",type:"a"},nextID:16}
