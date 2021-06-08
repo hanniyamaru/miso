@@ -131,7 +131,7 @@
 {id:69,name:"フラップジャックLG",sub:{pwr:0,shl:100,rng:100,spd:180,itv:1000},tunable:{mwp:1},auraStat:{main:{tec:100,pwr:8,shl:530,rng:275,spd:280,itv:760},sub:{pwr:0,shl:100,rng:100,spd:180,itv:1000}},type:"a",cost:115,hp:25,tec:1,wlk:3,fly:1,tgh:1,main:{pwr:8,shl:530,rng:275,spd:280,itv:760}}
 {id:396,name:"ウィザメルLG",cost:45,hp:25,tec:1,wlk:2,fly:2,tgh:1}
 {id:134,name:"シノーリスLG2",sub:{str:100,pwr:25,shl:0,rng:80,spd:180,itv:4000},type:"l",cost:95,hp:25,str:1,wlk:4,fly:-1,tgh:2}
-
+{id:106,name:"ロビンハンターLG",cost:45,hp:25,tec:2,wlk:2,fly:2,size:"M"}
 
 
 
