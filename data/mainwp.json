@@ -260,6 +260,11 @@
 
 {id:6556,name:"ブリンクシールド",main:{tec:100,pwr:0,shl:50,rng:0,spd:10,itv:1000},tunable:{mwp:1},size:"M",type:"c",cost:30}
 
+{id:6557,name:"ウィザメルワンド",main:{tec:100,pwr:7,shl:840,rng:275,spd:340,itv:900},sub:{tec:100,pwr:32,shl:50,rng:250,spd:400,itv:1000},tunable:{mwp:1,pwp:0},type:"a",size:"M",cost:150,comment:"-"}
+
+
+
+
 
 
 {group:"Uni mainコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
