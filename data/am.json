@@ -291,6 +291,10 @@
 {id:11,name:"ブリガバロンAM",cost:40,hp:25,str:2,tec:-1,wlk:1,tgh:3}
 {id:12,name:"ブリガバロンLAM2",cost:40,hp:25,str:2,tec:-1,wlk:1,tgh:3,fixedParts:{wp:{name:"ブリガントシールド",sub:{shl:10,rng:0,spd:0,itv:1000},cost:30,tunable:{pwp:0}}},type:"l",comment:"ブリガバロン専用コンバージョンパーツ"}
 {id:9,name:"シェイデンAM2",main:{tec:100,pwr:20,shl:330,rng:275,spd:520,itv:240},tunable:{mwp:1},type:"a",cost:205,hp:25,str:-1,tec:3,fly:1,tgh:2,joint:{wp:0}}
+{id:20,name:"ザリドAM",sub:{pwr:30,rng:70,spd:85,itv:1000,str:100},type:"l",cost:110,hp:25,str:3,tec:-1,wlk:1,tgh:2,tunable:{pwp:1}}
+
+
+
 
 
 {group:"UNIジョイント",prefixID:"J",commonStat:{jointPart:1},nextID:8}
