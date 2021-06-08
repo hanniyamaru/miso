@@ -196,7 +196,7 @@
 {id:170,name:"フラップジャックHD",main:{tec:100,pwr:4,shl:900,rng:275,spd:350,itv:720},tunable:{mwp:1},auraStat:{main:{tec:100,pwr:4,shl:900,rng:275,spd:350,itv:240},tec:2,wlk:-1,fly:2,tgh:2},type:"a",cost:100,hp:25,tec:2,wlk:-1,fly:2,tgh:2}
 {id:327,name:"ウィザメルHD",size:"M",cost:35,hp:20,tec:2,wlk:2,fly:2,tgh:-1}
 {id:283,name:"K・ノンナHD",type:"lacs",size:"M",cost:35,hp:20,str:-1,tec:2,fly:2,tgh:2}
-{id:71,name:"ドミクラウンHD2",cost:40,hp:25,tec:1,wlk:2,tgh:2}
+
 
 
 
