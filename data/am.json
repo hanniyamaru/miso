@@ -186,6 +186,8 @@
 {id:17,name:"マイティバインAM2",type:"l",cost:80,hp:25,str:1,wlk:1,tgh:3,comment:"シールド耐久値60"}
 {id:3,name:"ガナハウンドAM",type:"l",cost:135,hp:25,str:3,tec:-1,wlk:1,tgh:2,sub:{str:100,pwr:32,rng:70,spd:85,itv:500},tunable:{pwp:1}}
 {id:50,name:"スケアガントAM2",cost:40,hp:20,str:2,tec:1,wlk:2,fly:1,tgh:-1}
+{id:51,name:"スケアガントAM4",cost:40,hp:25,str:-1,tec:2,wlk:2,tgh:2}
+
 {id:1010,name:"ルペットAM",type:"lacs",size:"L",comment:"性能変更に伴いAM3と分離",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2}
 {id:1011,name:"ルペットAM3",type:"lacs",size:"L",comment:"性能変更に伴いAMと分離",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2}
 {id:13,name:"パルサーディオAM",cost:40,hp:25,str:2,wlk:1,tgh:2}
