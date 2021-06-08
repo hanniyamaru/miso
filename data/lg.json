@@ -200,7 +200,7 @@
 
 {id:85,name:"スチールバーンLG",joint:{lg:1},fixedParts:{lg:{name:"スチールバーンLG@",joint:{bs:1},slot:0}},type:"a",cost:45,hp:40,str:-1,tec:1,wlk:2,fly:1,tgh:3}
 {id:33,name:"ドミクラウンLG",cost:50,hp:40,str:2,tec:1,wlk:3,fly:-1,tgh:1}
-
+{id:77,name:"ザリドLG",cost:45,hp:50,wlk:4,fly:-1,tgh:3,type:"l"}
 
 
 
@@ -220,6 +220,16 @@
 {id:58,name:"ブリガバロンLG",cost:50,hp:70,str:1,tec:-1,wlk:3,tgh:3}
 
 {id:12,name:"ラクラボロスLG",joint:{wp:1},fixedParts:{wp:{name:"ラクラボロスLG@",main:{pwr:15,shl:400,rng:250,spd:440,itv:500},sub:{pwr:27,rng:70,spd:85,itv:1000,str:100},slot:0}},cost:245,hp:60,str:2,tec:2,wlk:3,tgh:-1}
+
+
+{group:"ジョイント",prefixID:"J",commonStat:{jointPart:1},nextID:10}
+{id:17,name:"ザリドLGJ",size:"L",slot:1}
+
+
+
+
+
+
 
 
 
