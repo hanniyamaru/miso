@@ -148,7 +148,7 @@
 
 {id:97,name:"ラビリンアクス",main:{pwr:13,shl:320,rng:330,spd:330,itv:340,tec:100},sub:{tec:100,pwr:30,shl:120,rng:350,spd:290,itv:1000},type:"c",size:"S",cost:225,comment:"ミルル・ミゥ専用コンバージョンパーツ",tunable:{pwp:0,mwp:1}}
 
-{id:500,name:"フラップジャックトランスフォーム",sub:{pwr:0,rng:0,spd:150,itv:500,str:100},slot:0,cost:50,tunable:{pwp:0},type:"a",size:"M",comment:"フラップジャックBD専用コンバージョンパーツ"}
+{id:500,name:"フラップジャックWPトランスフォーム",sub:{pwr:0,rng:0,spd:150,itv:500,str:100},slot:0,cost:50,tunable:{pwp:0},type:"a",size:"M",comment:"フラップジャックBD専用コンバージョンパーツ"}
 
 
 
