@@ -283,3 +283,17 @@
 
 {id:94,name:"ビームショットカセット",main:{pwr:18,shl:420,rng:275,spd:440,itv:300},type:"a",size:"S",cost:70,comment:"ステラ・カラカル専用コンバージョンパーツ　アウロラキャノン省略",tunable:{mwp:1}}
 {id:95,name:"オートチャージカセット",main:{pwr:28,shl:60,rng:300,spd:480,itv:500},type:"a",size:"S",cost:30,slot:0,comment:"ステラ・カラカル専用コンバージョンパーツ　アウロラキャノン省略"}
+{id:118,name:"ホーミングアロー",main:{pwr:13,shl:180,rng:250,spd:320,itv:800},cost:50,type:"l",size:"M",comment:"ロビンハンターAM専用コンバージョンパーツ",slot:0}
+{id:119,name:"インパクトアロー",main:{pwr:22,shl:230,rng:225,spd:480,itv:600},type:"l",size:"M",cost:30,comment:"ロビンハンターAM専用コンバージョンパーツ",slot:0}
+
+
+
+
+
+
+
+
+
+
+
+
