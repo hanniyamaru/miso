@@ -74,6 +74,8 @@
 {id:72,name:"ルクスLG",cost:45,hp:25,str:1,wlk:2,fly:2,tgh:1}
 {id:12,name:"ガシマLG",cost:45,hp:25,str:1,tec:1,wlk:3,tgh:1}
 {id:45,name:"バンガードLG",cost:45,hp:25,str:2,tec:-1,wlk:3,tgh:2}
+{id:52,name:"バンガードLG2",cost:45,hp:25,str:1,wlk:3,fly:-1,tgh:3}
+
 {id:28,name:"イヅナカムイαLG",type:"a",cost:45,hp:25,str:1,wlk:3,fly:1,tgh:1,joint:{bs:1}}
 {id:32,name:"イヅナカムイαLG2",type:"a",cost:45,hp:25,tec:1,wlk:2,fly:1,tgh:1,joint:{bs:1}}
 {id:450,name:"ヴォルテスLG",cost:45,hp:30,str:1,tec:1,wlk:3,fly:2,tgh:-1}
