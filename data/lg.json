@@ -207,7 +207,7 @@
 {id:85,name:"スチールバーンLG",joint:{lg:1},fixedParts:{lg:{name:"スチールバーンLG@",joint:{bs:1},slot:0}},type:"a",cost:45,hp:40,str:-1,tec:1,wlk:2,fly:1,tgh:3}
 {id:33,name:"ドミクラウンLG",cost:50,hp:40,str:2,tec:1,wlk:3,fly:-1,tgh:1}
 {id:77,name:"ザリドLG",cost:45,hp:50,wlk:4,fly:-1,tgh:3,type:"l"}
-
+{id:68,name:"アーティラスLG",sub:{pwr:23,rng:50,spd:150,itv:1500,tec:100},tunable:{pwp:1},cost:90,hp:25,str:-1,tec:3,wlk:3,tgh:1,comment:"-"}
 
 
 
