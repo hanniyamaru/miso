@@ -199,7 +199,7 @@
 {id:286,name:"ロビンハンターHD",size:"M",cost:35,hp:20,str:1,tec:3,wlk:1,fly:-1,tgh:1}
 {id:227,name:"ザリドHD",cost:40,hp:25,str:2,tec:-1,wlk:2,tgh:2}
 {id:309,name:"シャドウキネシスHD",cost:40,hp:25,tec:3,wlk:1,fly:1}
-
+{id:205,name:"メトラHD",cost:35,hp:20,tec:2,wlk:2,fly:-1,tgh:2}
 
 
 
