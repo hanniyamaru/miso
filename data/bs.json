@@ -94,7 +94,7 @@
 {id:100,name:"シャーナBS",type:"a",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:2,tgh:1}
 {id:135,name:"K・ノンナBS",type:"c",size:"S",cost:35,hp:20,str:-1,tec:3,fly:3,joint:{bs:1},comment:"K・ノンナBS＠のみ接続可能"}
 {id:112,name:"K・ノンナBS@",main:{pwr:15,shl:450,rng:350,spd:500,itv:400},sub:{pwr:28,shl:100,rng:350,spd:500,itv:1000},tunable:{mwp:1,pwp:0},type:"c",size:"S",cost:160,comment:"K・ノンナBS専用コンバージョンパーツ"}
-
+{id:96,name:"メトラBS",type:"a",cost:35,hp:20,str:1,tec:-1,wlk:1,fly:4}
 
 
 
