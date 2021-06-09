@@ -1,7 +1,11 @@
 {group:"UniＳ陸",prefixID:"LS",commonStat:{size:"S",type:"l"},nextID:35}
+{id:99999,name:"[INFO]",cost:0,capa:0,hp:0,str:0,tec:0,wlk:0,fly:0,tgh:0,wbid:6,cartridge:{hpup:2021,lv1:"7@20"},comment:["メモリスロットは追加していないためアクセ欄にある「スロット」を任意の個数追加してご使用ください。","一般機体の平均スロット数は21～24個が目安です。"]}
+
+
+
+
 
 {id:38,name:"エクスラズフラムBD",builtin:{bs:1},fixedParts:{hd:{name:"エクスラズフラムHD",joint:{hdac:1,fcac:1},cost:40,hp:25,wlk:1,fly:2,tgh:2,size:"S",type:"l"},lg:{builtin:{lg:1},joint:{bs:0,wp:1},fixedParts:{wp:{name:"ロスブラオBD",slot:0,joint:{wp:2},fixedParts:{wp:[{name:"ロスブラオLG",sub:{str:100,pwr:20,shl:0,rng:220,spd:0,itv:1000},cost:30,slot:0,type:"l",size:"L"},{name:"ロスブラオHD",main:{str:100,pwr:25,shl:50,rng:200,spd:500,itv:500},tunable:{mwp:1,pwp:1},cost:30,slot:3,type:"l",size:"L"}]},cost:0,type:"l",size:"L"}},name:"エクスラズフラムLG",cost:45,hp:25,str:1,wlk:4,tgh:1,type:"l",size:"S"},am:[{joint:{wp:1},fixedParts:{wp:{name:"エクスランス",main:{str:100,pwr:20,shl:340,rng:225,spd:440,itv:500},sub:{pwr:30,shl:30,rng:100,spd:250,itv:1000},cost:210,tunable:{mwp:1,pwp:1}}},name:"エクスラズフラムAM",type:"l",size:"S",cost:40,hp:25,str:2,wlk:1,tgh:2,comment:"部位破壊不能"},{name:"エクスラズフラムAM",cost:40,hp:25,str:2,wlk:1,tgh:2,type:"l",size:"S",comment:"部位破壊不能"}],wp:{name:"エクスラズフラムAM@",slot:0,type:"l",size:"S"}},type:"l",size:"S",cost:445,capa:920,hp:255,str:12,tec:4,wlk:16,fly:8,tgh:8,cartridge:{lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|25@25|16@20|12@20|13@30|34@15|32@50|31@40",hpup:14},joint:{bs:1},comment:"武器チューン可否不明"}
-
 
 
 {id:130,name:"コロナBD",cost:445,capa:900,hp:225,str:15,tec:4,wlk:14,fly:8,tgh:7,size:"S",type:"l",fixedParts:{lg:"コロナLG",hd:{name:"コロナHD",cost:40,hp:25,str:2,wlk:1,fly:1,tgh:1,type:"l",size:"S"},am:[{name:"コロナAM",cost:40,hp:25,str:2,wlk:1,tgh:2,type:"l",size:"S",joint:{wp:1},comment:"MODE CHANGE省略"},{name:"コロナAM2",main:{pwr:20,shl:50,rng:200,spd:570,itv:500,str:100},tunable:{mwp:1},cost:70,type:"l",size:"S",joint:{wp:0},hp:25,str:2,wlk:1,tgh:2}]},cartridge:{lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|16@20|11@20|13@30|34@15|32@50|31@40",hpup:14},builtin:{bs:1}}
