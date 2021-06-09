@@ -106,6 +106,8 @@
 
 {id:13,name:"シュトルバンガーBD2",cost:490,capa:980,hp:305,str:4,tec:15,wlk:7,fly:5,tgh:12,wbid:4,joint:{wp:1},cartridge:{hpup:10,lv1:"75*5@20|60*2@30|7@20|10@20|8@15|17@20|18@20|20@15|23@25|30@20|21@20|26@10|13@30|32@40|31@40"},fixedParts:{wp:{name:"シュトルバンガーBD2@",main:{pwr:[9],shl:[760],rng:350,spd:[330],itv:600},slot:0,cost:120}},comment:"強化値不明"}
 
+{id:39,name:"シュトルバンガーBD3",cost:510,capa:980,hp:305,str:4,tec:13,wlk:10,fly:7,tgh:9,wbid:4,cartridge:{hpup:10,lv1:"75*6@20|7@20|10@20|8@15|17@20|18@20|20@15|23@25|25@25|30@20|21@20|26@10|13@30|32@40|31@40"},sub:{pwr:[30],shl:[30],rng:[100],spd:[320],itv:[1000],tec:100},type:"c",size:"L",comment:"壱式"}
+
 {id:17,name:"アルバトレオスBD",cost:630,capa:945,hp:305,str:4,tec:17,wlk:7,fly:12,tgh:11,sub:{pwr:[10],shl:[330],rng:[350],spd:[290],itv:[1000],tec:100},wbid:4,cartridge:{hpup:10,lv1:"75*5@20|60*2@30|7@20|10@20|8@15|17@20|19@20|20@15|23@25|30@20|21@20|26@10|13@30|32@40|31@40"},main:{itv:[600],pwr:[9],shl:[580],rng:[350],spd:[360]},builtin:{bs:1},comment:"強化値不明"}
 
 {id:27,name:"ガデロガBD",joint:{hd:2,bs:0},cartridge:{hpup:8,lv1:"3*6@15|7@20|10@20|8@15|17@20|20@15|11@20|24@20|29@15|23@25|26@10|13@30|32@40|31@40"},cost:445,hp:290,capa:875,str:3,tec:12,wlk:13,fly:5,tgh:10,wbid:3}
