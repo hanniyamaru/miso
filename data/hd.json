@@ -92,6 +92,9 @@
 {id:122,name:"シェイデンHD2",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:2,tgh:1}
 {id:127,name:"ベクターHD",cost:40,hp:25,str:1,tec:3,fly:2,tgh:-1}
 {id:54,name:"シュトルバンガーHD",cost:40,hp:25,str:2,tec:-1,fly:1,tgh:3}
+{id:265,name:"シュトルバンガーHD2",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2}
+{id:55,name:"シュトルバンガーHD3",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2,size:"M"}
+
 {id:110,name:"アルバトレオスHD",type:"c",cost:80,hp:25,str:-1,tec:3,wlk:1,fly:2,main:{pwr:16,shl:160,rng:330,spd:290,itv:600},tunable:{mwp:1}}
 {id:53,name:"シグマクロックHD",cost:40,hp:25,wlk:1,fly:1,tgh:3}
 {id:192,name:"ディースモークHD",cost:40,hp:25,str:2,tec:1,wlk:1,fly:2,tgh:-1}
@@ -161,7 +164,7 @@
 {id:323,name:"A・ミラルHD",type:"l",size:"M",cost:115,hp:20,tec:3,wlk:2,fly:-1,tgh:1,main:{tec:100,pwr:3,shl:1200,rng:250,spd:440,itv:200},tunable:{mwp:1}}
 {id:292,name:"ロッソアスピーデHD",cost:40,hp:25,str:-1,tec:1,wlk:2,fly:1,tgh:2,size:"M",type:"lacs"}
 {id:215,name:"シンビジウムHD",cost:40,hp:25,str:3,tec:2}
-{id:265,name:"シュトルバンガーHD2",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2}
+
 {id:244,name:"ナイトジャーHD",cost:40,hp:25,str:2,wlk:2,fly:-2,tgh:3,comment:"未更新"}
 {id:295,name:"ナイトジャーHD2",type:"lacs",size:"M",cost:40,hp:25,str:3,tgh:2}
 {id:216,name:"クシュルブHD",cost:35,hp:20,str:2,tec:-1,fly:2,tgh:2}
@@ -200,8 +203,8 @@
 {id:227,name:"ザリドHD",cost:40,hp:25,str:2,tec:-1,wlk:2,tgh:2}
 {id:309,name:"シャドウキネシスHD",cost:40,hp:25,tec:3,wlk:1,fly:1}
 {id:205,name:"メトラHD",cost:35,hp:20,tec:2,wlk:2,fly:-1,tgh:2}
-{id:55,name:"シュトルバンガーHD3",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2,size:"M"}
 
+{id:214,name:"アーティラスHD",cost:40,hp:25,str:1,tec:2,wlk:1,fly:2,tgh:-1}
 
 
 
