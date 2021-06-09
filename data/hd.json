@@ -118,7 +118,7 @@
 {id:48,name:"クレストセイントHD",cost:40,hp:25,str:1,tec:2,wlk:1,fly:1}
 {id:36,name:"ランサーロットHD",cost:40,hp:25,str:1,tec:1,tgh:3}
 {id:37,name:"ランサーロットHD2",cost:40,hp:25,tec:1,wlk:1,tgh:3}
-{id:72,name:"ビートランダーHD",type:"l",cost:140,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2,sub:{str:100,pwr:32,spd:250,itv:1000},tunable:{pwp:1}}
+{id:72,name:"ビートランダーHD",type:"l",cost:140,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2,sub:{str:100,pwr:32,spd:250,itv:4500},tunable:{pwp:1}}
 {id:225,name:"ヘラクビートランダーHD",sub:{str:100,pwr:34,shl:0,rng:0,spd:320,itv:4500},cost:200,hp:25,str:3,tec:-1,wlk:1,tgh:2,type:"l",tunable:{pwp:1}}
 
 {id:184,name:"マシンドレットHD",cost:30,hp:20,tec:2,fly:1,tgh:1}
