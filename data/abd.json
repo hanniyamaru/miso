@@ -119,7 +119,7 @@
 
 {id:481,name:"フラクタリスBD",main:{tec:100,pwr:3,rng:250,spd:200,itv:440},cartridge:{hpup:30,lv1:"3*6@20|7@30|9@15|8@20|19@15|23@25|22@30|28@30|14@30|21@20|52@20|15@20|13@30|32@50|31@40"},cost:620,capa:765,hp:325,str:5,tec:22,wlk:5,fly:25,tgh:20,wbid:1,type:"a",size:"L",joint:{hdac:1,fcac:1,hd:0,bs:0,am:0},builtin:{bs:1},fixedParts:{lg:{name:"フラクタリスLG",sub:{str:100,pwr:[10],rng:280,spd:380,itv:1000},tunable:{pwp:0},type:"a",cost:145,hp:70,str:-1,tec:2,wlk:3,fly:1,slot:3}}}
 
-{id:50,name:"ペルセシウスBD",main:{pwr:[25,28],tec:100,shl:[270,270],rng:[275],spd:[440],itv:[700,700]},joint:{hdac:0,fcac:0,wp:0},cartridge:{hpup:10,lv1:"4*5@20|6@30|7@30|9@15|8@20|19@15|23@25|22@30|21@20|52@20|30@20|14@20|26@20|13@30|32@50|31@40"},type:"a",size:"L",cost:550,capa:945,hp:305,str:5,tec:12,wlk:8,fly:14,tgh:12,wbid:1}
+{id:50,name:"ペルセシウスBD",main:{pwr:[25,28],tec:100,shl:[270,270],rng:[275],spd:[440],itv:[700,700]},joint:{hdac:0,fcac:0,wp:0},cartridge:{hpup:10,lv1:"4*5@20|60@30|7@30|9@15|8@20|19@15|23@25|22@30|21@20|52@20|30@20|14@20|26@20|13@30|32@50|31@40"},type:"a",size:"L",cost:550,capa:945,hp:305,str:5,tec:12,wlk:8,fly:14,tgh:12,wbid:1}
 
 {id:31,name:"ヴォルフライエBD",main:{pwr:[12],shl:[320],rng:275,spd:[460],itv:320,tec:100},cartridge:{hpup:11,lv1:"3*5@15|6*2@30|7@30|9@15|8@20|17@30|19@15|21@20|23@25|22@30|31@40|13@30|32@50|26@20"},cost:565,capa:910,hp:290,str:6,tec:12,wlk:6,fly:15,tgh:7,wbid:1}
 
