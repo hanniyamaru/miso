@@ -133,7 +133,7 @@
 {id:217,name:"アントリオンHD",cost:40,hp:25,tec:2,fly:1,tgh:2}
 {id:238,name:"オーガヒルHD",cost:40,hp:25,tec:1,wlk:2,fly:1,tgh:1}
 {id:272,name:"ハイガクゥーンHD",type:"lacs",size:"M",cost:40,hp:20,str:2,tec:1,wlk:2,fly:1,tgh:-1}
-{id:181,name:"ロトンレムレスHD",cost:35,hp:20,str:1,tec:1,wlk:2,fly:1,tgh:-1}
+{id:181,name:"ロトンレムレスHD",cost:40,hp:25,str:1,tec:2,wlk:2,fly:1,tgh:-1}
 {id:232,name:"プレデトバイツHD",cost:40,hp:20,str:1,tec:2,tgh:2}
 {id:165,name:"ハイバリオンHD",cost:40,hp:25,str:2,tec:3,fly:1,tgh:-1}
 {id:15,name:"メカジェッターHD",cost:35,hp:20,tec:2,fly:2,tgh:1}
