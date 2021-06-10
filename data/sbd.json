@@ -57,6 +57,5 @@
 
 {id:11,name:"ディースモークBD",cost:425,hp:275,str:5,tec:7,wlk:10,fly:14,tgh:9,capa:800,sub:{shl:[25],rng:0,spd:0,itv:1000},cartridge:{hpup:18,lv1:"85*6@20|17@20|18@20|20@20|23@25|19@20|21@20|12@20|25@25|29@10|14@10|26@20|13@20|32@30|31@40"}}
 
-{id:9,name:"ロトンレムレスBD",main:{pwr:11,shl:[200],rng:275,spd:[250],itv:800},sub:{pwr:20,shl:150,rng:[275],spd:200,itv:1000},cartridge:{hpup:18,lv1:"85*5@20|61*2@30|17@20|18@20|20@20|14@10|28@20|29@10|13@20|32@30|31@40"},wbid:1,cost:555,capa:800,hp:275,str:9,tec:10,wlk:10,fly:6,tgh:10,comment:"-"}
-
+{id:9,name:"ロトンレムレスBD",main:{pwr:11,shl:[200],rng:275,spd:[250],itv:800},sub:{pwr:20,shl:150,rng:[275],spd:200,itv:1000},cartridge:{hpup:18,lv1:"85*5@20|61*2@30|17@20|18@20|20@20|15@30|25@25|16@20|12@20|14@10|28@20|29@10|13@20|32@30|31@40"},wbid:1,cost:555,capa:800,hp:275,str:9,tec:10,wlk:10,fly:6,tgh:10,comment:"-"}
 {id:12,name:"ラクラボロスBD",sub:{shl:[0],itv:1000},cartridge:{hpup:10,lv1:"75*6@20|17@20|18@20|19@20|20@20|23@25|29@10|28@20|25@25|15@30|14@10|21@20|13@20|32@30|31@40"},fixedParts:{hd:{name:"ラクラボロスHDJ",joint:{hd:1,hdac:0,fcac:0},slot:1}},cost:540,capa:945,hp:305,str:10,tec:9,wlk:14,fly:7,tgh:11,comment:"-"}
