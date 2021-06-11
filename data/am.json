@@ -136,7 +136,7 @@
 {id:47,name:"ビートランダーAM",cost:35,hp:20,str:2,tec:-1,wlk:1,fly:1,tgh:2}
 {id:113,name:"ルッカ・デーコAM",cost:40,hp:20,str:2,tec:2,wlk:1,fly:-1,tgh:1}
 {id:127,name:"オーガヒルAM",main:{pwr:6,shl:410,rng:350,spd:480,itv:540},tunable:{mwp:1},fixedParts:{wp:{name:"オーガヒルAM@",main:{pwr:8,shl:420,rng:330,spd:290,itv:600},slot:0}},type:"c",cost:135,hp:25,str:-1,tec:3,tgh:3,comment:"AM@cost45合算"}
-{id:175,name:"オーガヒルAM2",joint:{wp:2},fixedParts:{wp:{name:"オーガヒルAM2@",main:{pwr:19,shl:300,rng:350,spd:230,itv:500,slot:0},cost:70}},type:"c",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2,comment:"-"}
+{id:175,name:"オーガヒルAM2",joint:{wp:2},fixedParts:{wp:{name:"オーガヒルAM2@",main:{pwr:19,shl:300,rng:350,spd:230,itv:500},slot:0,cost:70}},type:"c",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2,comment:"-"}
   
 {id:146,name:"ハイガクゥーンAM",sub:{tec:100,pwr:27,rng:70,spd:85,itv:500},tunable:{pwp:1},type:"lc",size:"M",cost:75,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
 {id:95,name:"ハイバリオンAM",joint:{wp:2},type:"c",cost:100,hp:25,tec:2,wlk:1,fly:1,tgh:2,fixedParts:{wp:{name:"ハイバリオンAM@",sub:{pwr:20,shl:130,rng:350,spd:290,itv:1000,tec:100},slot:0}}}
