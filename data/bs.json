@@ -174,7 +174,7 @@
 
 {id:444,name:"ライオスBS",type:"l",cost:40,hp:25,str:1,fly:3,tgh:1}
 {id:175,name:"ウィザメルBS",sub:{pwr:1,shl:35,rng:150,spd:180,itv:1000},cost:65,hp:20,tec:2,wlk:1,fly:3,tgh:-1,type:"a",size:"M"}
-
+{id:75,name:"シノーリスBS",type:"l",cost:35,hp:20,str:2,tec:-1,wlk:1,fly:3}
 {id:135,name:"シノーリスBS2",sub:{tec:100,pwr:13,shl:180,rng:250,spd:300,itv:1000},type:"l",size:"M",cost:65,hp:20,str:-1,tec:1,wlk:2,fly:3}
 {id:141,name:"ロビンハンターBS",sub:{pwr:10,shl:20,rng:100,spd:340,itv:1000},cost:50,hp:20,str:-1,tec:2,wlk:1,fly:3,size:"M",type:"l"}
 
