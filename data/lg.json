@@ -51,7 +51,7 @@
 {id:302,name:"アイシーLG",cost:45,hp:25,tec:2,wlk:3,fly:2,tgh:-1}
 {id:103,name:"K・ノンナLG",type:"c",size:"S",cost:40,hp:20,wlk:2,fly:2,tgh:1}
 {id:78,name:"メトラLG",sub:{pwr:7,shl:600,rng:275,spd:350,itv:1000},tunable:{pwp:0},type:"a",cost:145,hp:25,str:-1,tec:3,wlk:2,fly:2}
-
+{id:36,name:"ブリックゲイルLG",cost:45,hp:25,tec:2,wlk:2,fly:2,comment:"BLUE"}
 
 
 
