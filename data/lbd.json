@@ -136,7 +136,7 @@ lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|26@20|21@20|13@30|34@
 
 
 
-{group:"UniＬ陸",prefixID:"LL",commonStat:{size:"L",type:"l"},nextID:21}
+{group:"UniＬ陸",prefixID:"LL",commonStat:{size:"L",type:"l"},nextID:11}
 
 {id:11,name:"ダイダリオンBD",cost:490,capa:945,hp:305,str:12,tec:3,wlk:12,fly:8,tgh:16,wbid:5,cartridge:{hpup:10,lv1:"75*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|16@20|29@15|15@15|14@10|13@30|32@50|31@40"}}
 
