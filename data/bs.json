@@ -78,7 +78,7 @@
 {id:86,name:"ナッツ･ボムリスBS",type:"s",cost:105,hp:20,str:-1,tec:2,fly:3,tgh:1,sub:{tec:100,pwr:20,shl:180,rng:275,spd:290,itv:1000}}
 {id:24,name:"ディカロスBS",type:"a",cost:40,hp:25,tec:1,fly:4}
 {id:21,name:"ミッサイドBS",type:"c",cost:40,hp:25,tec:2,fly:3}
-{id:23,name:"ビルダームBS",type:"c",cost:140,hp:25,str:-1,tec:3,fly:2,tgh:1,main:{pwr:15,shl:280,rng:330,spd:380,itv:580}}
+{id:23,name:"ビルダームBS",type:"c",cost:140,hp:25,str:-1,tec:3,fly:2,tgh:1,main:{pwr:15,shl:280,rng:330,spd:380,itv:580},tunable:{mwp:1}}
 {id:25,name:"ミスティホロウαBS",type:"l",cost:40,hp:25,str:1,wlk:2,fly:2}
 {id:14,name:"クロスラプターBS",type:"a",cost:40,hp:25,str:1,wlk:1,fly:3}
 {id:118,name:"オルフェノスBS",type:"s",cost:40,hp:25,tec:1,wlk:2,fly:3,tgh:-1}
