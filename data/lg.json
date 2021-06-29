@@ -11,7 +11,7 @@
 {id:4,name:"キャノンボールLG",cost:40,hp:20,tec:1,wlk:3,fly:-1,tgh:2}
 {id:79,name:"キャノンボールHLLG",cost:45,hp:25,tec:2,wlk:2,fly:-1,tgh:2}
 {id:300,name:"フェアリスLG",cost:45,hp:25,str:-1,wlk:3,fly:2,tgh:1}
-{id:105,name:"アレスターLG",sub:{pwr:18,shl:80,rng:300,spd:100,itv:1000},tunable:{pwp:0},cost:95,hp:25,str:1,tec:-1,wlk:3,tgh:2,type:"s",size:"S"}
+{id:105,name:"アレスターLG",sub:{pwr:18,shl:80,rng:300,spd:100,itv:1000},tunable:{pwp:0},cost:95,hp:25,str:1,tec:-1,wlk:3,tgh:2,type:"s",size:"S",comment:"爆風属性"}
 {id:19,name:"ウィンベルαLG",cost:45,hp:25,wlk:3,fly:1,tgh:1}
 {id:20,name:"ジークンロンαLG",type:"l",cost:145,hp:25,str:2,tec:-1,wlk:3,tgh:1,sub:{str:100,pwr:30,rng:98,spd:119,itv:500},tunable:{pwp:1}}
 {id:107,name:"ゼロセイバーNEXTLG",type:"lacs",size:"S",cost:45,hp:25,str:-1,tec:1,wlk:3,fly:1,tgh:2}
