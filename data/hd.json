@@ -98,7 +98,7 @@
 {id:110,name:"アルバトレオスHD",type:"c",cost:80,hp:25,str:-1,tec:3,wlk:1,fly:2,main:{pwr:16,shl:160,rng:330,spd:290,itv:600},tunable:{mwp:1}}
 {id:53,name:"シグマクロックHD",cost:40,hp:25,wlk:1,fly:1,tgh:3}
 {id:192,name:"ディースモークHD",cost:40,hp:25,str:2,tec:1,wlk:1,fly:2,tgh:-1}
-{id:224,name:"ボルカニクスHD",main:{pwr:5,shl:800,rng:110,spd:480,itv:100},tunable:{mwp:1},type:"lac",cost:120,hp:20,tec:2,fly:2,tgh:1}
+{id:224,name:"ボルカニクスHD",main:{pwr:5,shl:800,rng:110,spd:480,itv:100},tunable:{mwp:1},type:"lacs",cost:120,hp:20,tec:2,fly:2,tgh:1}
 {id:152,name:"メディージャーHD",cost:35,hp:20,str:2,tec:2,wlk:-1,fly:1,tgh:1}
 {id:157,name:"トニトルスHD",cost:40,hp:25,str:2,tec:3,wlk:1,tgh:-1}
 {id:79,name:"ガンアームズHD",cost:40,hp:20,tec:1,wlk:2,tgh:2}
