@@ -88,7 +88,7 @@
 {id:10,name:"ペイロードライフル",type:"c",size:"L",cost:200,main:{pwr:42,shl:150,rng:350,spd:520,itv:1000}}
 {id:32,name:"ストライカーライフル",main:{pwr:8,shl:820,rng:250,spd:400,itv:140},cost:155,type:"l",size:"M"}
 {id:16,name:"ビームライフル",type:"as",size:"M",cost:70,main:{pwr:24,shl:140,rng:275,spd:520,itv:800}}
-{id:18,name:"オートビームライフル",type:"a",size:"M",cost:120,main:{pwr:12,shl:450,rng:275,spd:520,itv:200}}
+{id:18,name:"オートビームライフル",type:"a",size:"M",cost:120,main:{pwr:14,shl:450,rng:275,spd:520,itv:200}}
 {id:17,name:"ネガトロンライフル",type:"a",size:"L",cost:180,main:{pwr:37,shl:190,rng:275,spd:520,itv:900}}
 {id:37,name:"ヴォルグライフル",main:{tec:100,pwr:17,shl:330,rng:330,spd:480,itv:480},tunable:{mwp:1},type:"c",size:"M",cost:160}
 
