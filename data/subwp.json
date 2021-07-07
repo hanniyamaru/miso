@@ -127,7 +127,7 @@
 
 {group:"Uni subコンバージョン",prefixID:"SO",nextID:17}
 {id:40,name:"グラッドチェーンソー",sub:{pwr:32,rng:[70],spd:[85],itv:500,str:100},type:"l",size:"S",slot:3,comment:"クルール・グラッド専用コンバージョンパーツ",cost:60,tunable:{mwp:0,pwp:1}}
-{id:72,name:"シヴァリーガード",sub:{pwr:30,itv:500},type:"c",size:"S",cost:50,comment:"ナターシャAM2専用コンバージョンパーツ"}
+{id:72,name:"シヴァリーガード",sub:{pwr:30,itv:500},type:"c",size:"S",cost:50,comment:["ナターシャAM2専用コンバージョンパーツ","1度の攻撃で受けるバリアへの最大与ダメージ13"]}
 
 {id:1010,name:"プチ桜雷切",main:{str:100,pwr:15,shl:220,rng:225,spd:400,itv:500}
 ,sub:{str:100,pwr:28,rng:81,spd:98,itv:500},type:"s",size:"S",cost:100}
