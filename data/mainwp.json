@@ -98,7 +98,7 @@
 {id:14,name:"コアブレイカー",type:"c",size:"M",cost:140,main:{pwr:39,shl:150,rng:350,spd:480,itv:1000}}
 {id:15,name:"ストラクトブレイカー",type:"c",size:"L",cost:200,main:{pwr:50,shl:120,rng:350,spd:480,itv:1000}}
 {id:26,name:"ガトリングブレイカー",main:{pwr:13,shl:1000,rng:350,spd:480,itv:200},size:"L",type:"c",cost:210}
-
+{id:27,name:"ピアースブレイカー",main:{pwr:43,shl:140,rng:350,spd:480,itv:1000},size:"M",type:"c",cost:170,comment:"貫通+HIT毎に爆風発生"}
 
 {group:"Uniシューター系",prefixID:"ST",commonStat:{tunable:{mwp:1}},nextID:1}
 
@@ -226,7 +226,7 @@
 {id:7,name:"レーザー",type:"as",size:"M",cost:100,main:{pwr:9,shl:750,rng:225,spd:480,itv:100}}
 {id:11,name:"プロトンレーザー",type:"a",size:"L",cost:140,main:{pwr:12,shl:750,rng:225,spd:480,itv:100}}
 {id:10,name:"パワードレーザー",type:"a",size:"L",cost:110,main:{pwr:17,shl:430,rng:225,spd:480,itv:100}}
-
+{id:12,name:"レーザーライフル",type:"a",size:"M",cost:130,main:{pwr:11,shl:420,rng:275,spd:480,itv:100}}
 
 
 
