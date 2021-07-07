@@ -111,11 +111,13 @@
 {id:3004,name:"デゴアックス",size:"L",cost:160,type:"a",sub:{str:100,pwr:28,rng:100,spd:180,itv:1000},tunable:{pwp:1}}
 
 {id:1009,name:"SBトリックミサイル",sub:{tec:100,pwr:9,shl:270,rng:275,spd:280,itv:1000},type:"a",size:"M",cost:60}
-{id:1008,name:"クリスタルパイルバンカー",sub:{tec:100,pwr:28,rng:100,spd:200,itv:1000},type:"l",size:"L",cost:70}
+{id:1008,name:"クリスタルパイルバンカー",sub:{tec:100,pwr:28,rng:100,spd:200,itv:1000},type:"l",size:"L",cost:70,tunable:{pwp:1}}
 
-{id:18,name:"ゲソウィップ",sub:{str:100,pwr:26,rng:70,spd:85,itv:500},type:"s",size:"S",cost:80}
+{id:18,name:"ゲソウィップ",sub:{str:100,pwr:26,rng:70,spd:85,itv:500},type:"s",size:"S",cost:80,tunable:{pwp:1}}
 
-{id:4,name:"ブルームカットラス",size:"M",cost:70,sub:{rec:100,pwr:28,shl:100,rng:250,spd:150,itv:2000},tunable:{pwp:0}}
+{id:4,name:"アストロアックス",sub:{str:100,pwr:32,shl:70,rng:70,spd:85,itv:2000},type:"a",size:"M",cost:150,tunable:{pwp:1}}
+
+{id:5,name:"ブルームカットラス",size:"M",cost:70,sub:{rec:100,pwr:28,shl:100,rng:250,spd:150,itv:2000},tunable:{pwp:0}}
 
 
 
