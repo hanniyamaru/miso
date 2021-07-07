@@ -171,7 +171,8 @@
 {id:30,name:"マリルマーチαAM3",type:"c",cost:155,hp:20,str:-1,tec:4,wlk:1,fly:1,main:{pwr:18,shl:480,rng:330,spd:440,itv:400},tunable:{mwp:1},joint:{wp:0}}
 {id:31,name:"マリルマーチαAM4",type:"c",cost:45,hp:20,tec:2,wlk:1,fly:-1,tgh:3,sub:{tec:100,pwr:30,rng:75,spd:200,itv:1000},tunable:{pwp:1},joint:{wp:0}}
 {id:525,name:"ライオスAM",cost:40,hp:25,str:1,tec:2,wlk:1,tgh:1}
-{id:100,name:"フラップジャックAM",fixedParts:{wp:{main:{pwr:14,tec:100,shl:360,rng:275,spd:440,itv:1120},name:"フラップジャックAM@",type:"a",slot:0,cost:40,comment:"AM@部位破壊不能",auraStat:{main:{tec:100,pwr:14,shl:360,rng:300,spd:480,itv:500}}}},auraStat:{str:-1,tec:2,fly:3,tgh:1},type:"a",cost:35,hp:20,str:-1,tec:2,fly:3,tgh:1}
+{id:100,name:"フラップジャックAM",fixedParts:{wp:{main:{pwr:20,tec:100,shl:340,rng:275,spd:440,itv:1120},name:"フラップジャックAM@",type:"a",slot:0,cost:40,comment:"AM@部位破壊不能",auraStat:{main:{tec:100,pwr:20,shl:340,rng:300,spd:500,itv:500}}}},auraStat:{str:-1,tec:2,fly:3,tgh:1},type:"a",cost:35,hp:20,str:-1,tec:2,fly:3,tgh:1}
+
 {id:176,name:"ウィザメルAM",main:{tec:100,pwr:8,shl:400,rng:275,spd:440,itv:300},tunable:{mwp:1},cost:65,hp:20,str:-1,tec:2,fly:2,tgh:2,type:"a",size:"M"}
 {id:97,name:"シノーリスAM",main:{tec:100,pwr:5,shl:460,rng:225,spd:480,itv:140},tunable:{mwp:1},type:"l",cost:75,hp:20,str:-1,tec:3,wlk:2,tgh:1}
 {id:151,name:"ロビンハンターAM",main:{pwr:17,shl:320,rng:225,spd:440,itv:520},sub:{pwr:14,shl:220,rng:250,spd:320,itv:1000},tunable:{mwp:1},type:"l",size:"M",cost:125,hp:20,tec:2,wlk:2,tgh:1,joint:{wp:2}}
@@ -270,7 +271,7 @@
 
 {id:119,name:"スチールバーンAM2",sub:{pwr:16,shl:140,rng:320,spd:230,itv:1000},type:"a",cost:80,hp:25,str:2,tec:2,wlk:-1,fly:1,tgh:1,comment:"未更新"}
 
-{id:139,name:"スチールバーンAM3",main:{pwr:7,shl:540,rng:275,spd:350,itv:300},tunable:{mwp:1},type:"a",size:"L",cost:120,hp:25,str:-1,tec:3,fly:1,tgh:2}
+{id:139,name:"スチールバーンAM3",main:{pwr:9,shl:540,rng:275,spd:350,itv:300},tunable:{mwp:1},type:"a",size:"L",cost:120,hp:25,str:-1,tec:3,fly:1,tgh:2}
 
 {id:28,name:"ブレイズバロンAM3",type:"l",cost:170,hp:25,str:-1,tec:3,wlk:1,fly:1,tgh:1,sub:{tec:100,pwr:32,rng:150,spd:10,itv:1000},tunable:{pwp:1},joint:{wp:0}}
 
