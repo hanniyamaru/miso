@@ -263,7 +263,7 @@
 
 {id:6557,name:"ウィザメルワンド",main:{tec:100,pwr:7,shl:840,rng:275,spd:340,itv:900},sub:{tec:100,pwr:32,shl:50,rng:250,spd:400,itv:1000},tunable:{mwp:1,pwp:0},type:"a",size:"M",cost:150,comment:"-"}
 
-
+{id:6558,name:"フリントビームガン",main:{tec:100,pwr:11,shl:500,rng:275,spd:520,itv:200},tunable:{mwp:1},size:"M",type:"a",cost:70}
 
 
 
