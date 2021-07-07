@@ -55,7 +55,9 @@
 {id:25,name:"トイボックスガールαBD2",sub:{tec:100,pwr:[6],shl:540,rng:350,spd:290,itv:1000},cartridge:{lv1:"85*5@20|61*2@30|7@20|10@20|8@15|18@20|20@15|23@25|22@30|30@20|21@20|26@10|13@30|32@40|31@40|",hpup:18},cost:505,capa:800,hp:270,str:3,tec:16,wlk:11,fly:10,tgh:10,fixedParts:{hd:{name:"トイボックスガールαHD2",sub:{tec:100,pwr:15,shl:120,rng:40,spd:200,itv:1000},cost:75,hp:25,tec:2,wlk:1,fly:1,tgh:1},lg:{name:"トイボックスガールαLG",cost:45,hp:25,tec:-1,wlk:3,tgh:3}},builtin:{bs:1}}
 
 {id:15,name:"アハトジーベンBD",cartridge:{hpup:18,lv1:"85*6@20|7@20|10@20|8@15|17@20|18@20|20@15|23@25|22@30|30@20|21@20|26@10|13@30|32@40|31@40"},cost:405,capa:800,hp:245,str:5,tec:12,wlk:12,fly:5,tgh:11,wbid:4}
-{id:29,name:"ホプリテスBD",cartridge:{hpup:18,lv1:"85*5@20|61*2@30|7@20|10@20|8@15|18@20|19@20|20@15|23@25|30@20|21@20|26@10|13@30|32@40|31@40"},fixedParts:{am:{name:"ホプリテスAM2",sub:{shl:0,rng:10,itv:1000},tunable:{pwp:0,mwp:0},cost:85,hp:20,str:-1,tec:3,tgh:3,size:"M",type:"c",joint:{wp:0}}},cost:405,capa:800,hp:245,str:4,tec:10,wlk:13,fly:9,tgh:9,wbid:3}
+
+{id:29,name:"ホプリテスBD",cartridge:{hpup:18,lv1:"85*5@20|61*2@30|7@20|10@20|8@15|18@20|19@20|20@15|23@25|30@20|21@20|26@10|13@30|32@40|31@40"},fixedParts:{am:{name:"ホプリテスAM2",sub:{shl:0,rng:10,itv:1000},tunable:{pwp:0,mwp:0},cost:85,hp:20,str:-1,tec:3,tgh:3,size:"M",type:"c",joint:{wp:0}}},cost:405,capa:800,hp:245,str:4,tec:10,wlk:13,fly:9,tgh:9,wbid:3,comment:"1度の攻撃で受けるバリアへの最大与ダメージ30"}
+
 {id:35,name:"ランドスBD",cartridge:{lv1:"4*6@20|7@20|10@20|8@15|17@20|18@20|19@20|20@15|23@25|30@20|15@30|26@10|21@20|13@30|32@40|31@40",hpup:14},cost:445,capa:870,hp:255,str:6,tec:13,wlk:13,fly:9,tgh:7,comment:"-",wbid:3}
 {id:43,name:"ブラディスターBD",cartridge:{hpup:14,lv1:"4*6@20|7@20|10@20|8@15|17@20|18@20|19@20|20@15|23@25|30@20|21@20|26@10|13@30|32@40|31@40"},type:"c",size:"M",cost:445,capa:905,hp:255,str:3,tec:11,wlk:10,fly:8,tgh:8,sub:{shl:0,rng:0,spd:0,itv:1000},comment:"BD@cost20合算　ビット性能値固定 ゲージ35秒"}
 
