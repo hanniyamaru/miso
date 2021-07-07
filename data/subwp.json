@@ -49,7 +49,7 @@
 {id:1003,name:"アサルトビームランス",type:"a",size:"M",cost:120,sub:{str:100,pwr:27,rng:120,spd:200,itv:500}}
 {id:8,name:"スタッグクロー",type:"a",size:"M",cost:100,sub:{str:100,pwr:26,rng:100,spd:200,itv:500}}
 {id:18,name:"セバースタッグシザー",sub:{pwr:28,shl:100,rng:75,spd:90,itv:2000},type:"a",size:"M",cost:160}
-
+{id:1004,name:"エンラージハルバード",sub:{str:100,pwr:31,rng:70,spd:85,itv:1000},tunable:{pwp:1},cost:130,type:"l",size:"M"}
 
 
 {group:"Uniアクス系",prefixID:"AX",nextID:10}
