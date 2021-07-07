@@ -137,7 +137,8 @@
 {id:10,name:"ラージバズーカ",type:"cs",size:"LL",cost:160,main:{pwr:43,shl:220,rng:330,spd:400,itv:900}}
 {id:11,name:"タイタンバズーカ",type:"c",size:"LL",cost:200,main:{pwr:52,shl:200,rng:300,spd:360,itv:1000}}
 {id:70,name:"ミニブラストバズーカ",main:{pwr:21,shl:280,rng:330,spd:400,itv:640},type:"c",size:"S",cost:60}
-{id:6,name:"ブラストバズーカ",type:"c",size:"M",cost:105,main:{pwr:37,shl:200,rng:330,spd:360,itv:900}}
+{id:6,name:"ブラストバズーカ",type:"c",size:"M",cost:105,main:{pwr:29,shl:260,rng:330,spd:360,itv:700}}
+
 {id:801,name:"ミニマイトバズーカ",main:{pwr:19,shl:340,rng:330,spd:400,itv:500},type:"c",size:"M",cost:90}
 {id:802,name:"マイトバズーカ",main:{pwr:24,shl:340,rng:330,spd:400,itv:500},type:"c",size:"M",cost:160}
 
