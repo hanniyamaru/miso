@@ -286,7 +286,7 @@
 {id:95,name:"オートチャージカセット",main:{pwr:28,shl:60,rng:300,spd:480,itv:500},type:"a",size:"S",cost:30,slot:0,comment:"ステラ・カラカル専用コンバージョンパーツ　アウロラキャノン省略"}
 {id:118,name:"ホーミングアロー",main:{pwr:13,shl:180,rng:250,spd:320,itv:800},cost:50,type:"l",size:"M",comment:"ロビンハンターAM専用コンバージョンパーツ",slot:0}
 {id:119,name:"インパクトアロー",main:{pwr:22,shl:230,rng:225,spd:480,itv:600},type:"l",size:"M",cost:30,comment:"ロビンハンターAM専用コンバージョンパーツ",slot:0}
-{id:501,name:"パワーアロー",main:{pwr:28,shl:230,rng:225,spd:480,itv:700},type:"l",size:"M",cost:30,comment:"ロビンハンターAM専用コンバージョンパーツ",slot:0}
+{id:502,name:"パワーアロー",main:{pwr:28,shl:230,rng:225,spd:480,itv:700},type:"l",size:"M",cost:30,comment:"ロビンハンターAM専用コンバージョンパーツ",slot:0}
 {id:98,name:"バアルバズーカ",tunable:{mwp:1},cost:90,type:"c",size:"S",main:{pwr:19,shl:420,rng:330,spd:400,itv:400}}
 {id:99,name:"ゼブルサイガン",main:{pwr:10,shl:540,rng:330,spd:220,itv:300},tunable:{mwp:1},type:"c",size:"S",cost:60}
 
