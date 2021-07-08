@@ -226,6 +226,9 @@
 {id:58,name:"ブリガバロンLG",cost:50,hp:70,str:1,tec:-1,wlk:3,tgh:3}
 
 {id:12,name:"ラクラボロスLG",joint:{wp:1},fixedParts:{wp:{name:"ラクラボロスLG@",main:{pwr:15,shl:400,rng:250,spd:440,itv:500},sub:{pwr:27,rng:70,spd:85,itv:1000,str:100},slot:0}},cost:245,hp:60,str:2,tec:2,wlk:3,tgh:-1}
+{id:15,name:"サイクロテスLG2",sub:{str:100,pwr:30,rng:100,spd:250,itv:3000},tunable:{pwp:1},type:"l",size:"LL",cost:160,hp:75,str:2,wlk:2,fly:-1,tgh:3}
+
+
 
 
 {group:"ジョイント",prefixID:"J",commonStat:{jointPart:1},nextID:10}
