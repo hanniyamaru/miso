@@ -176,6 +176,8 @@
 {id:176,name:"ウィザメルAM",main:{tec:100,pwr:8,shl:400,rng:275,spd:440,itv:300},tunable:{mwp:1},cost:65,hp:20,str:-1,tec:2,fly:2,tgh:2,type:"a",size:"M"}
 {id:97,name:"シノーリスAM",main:{tec:100,pwr:5,shl:460,rng:225,spd:480,itv:140},tunable:{mwp:1},type:"l",cost:75,hp:20,str:-1,tec:3,wlk:2,tgh:1}
 {id:151,name:"ロビンハンターAM",main:{pwr:17,shl:320,rng:225,spd:440,itv:520},sub:{pwr:14,shl:220,rng:250,spd:320,itv:1000},tunable:{mwp:1},type:"l",size:"M",cost:125,hp:20,tec:2,wlk:2,tgh:1,joint:{wp:2}}
+{id:171,name:"ロビンハンターAM2",main:{tec:100,pwr:12,shl:280,rng:250,spd:320,itv:500},tunable:{mwp:1},joint:{wp:2},type:"l",size:"M",cost:125,hp:20,tec:2,wlk:1,fly:1,tgh:1}
+
 {id:196,name:"シャドウキネシスAM",type:"lacs",size:"M",cost:40,hp:25,tec:1,wlk:2,tgh:2}
 {id:177,name:"ソルブレンサーAM",type:"lacs",size:"M",cost:40,hp:25,str:2,tec:-1,wlk:2,tgh:2,joint:{wp:3},comment:"ブレイブアーツ省略"}
 {id:155,name:"ヴァリアントAM",main:{tec:100,pwr:4,shl:800,rng:275,spd:380,itv:400},tunable:{mwp:1},joint:{am:1},fixedParts:{am:{name:"ヴァリアントAM@",main:{tec:100,pwr:14,shl:230,rng:275,spd:290,itv:700},slot:0,type:"a",size:"M",joint:{wp:0}}},type:"a",size:"M",cost:35,hp:20,tec:2,fly:2,tgh:1}
