@@ -100,7 +100,7 @@
 {id:29,name:"ブリックゲイルBS",type:"a",cost:60,hp:25,wlk:1,fly:4,sub:{shl:50,rng:0,spd:150,itv:1000},comment:"BLUE"}
 
 {id:130,name:"ベルゼイラフガールBS",type:"c",size:"S",cost:35,hp:20,tec:1,wlk:1,fly:3}
-
+{id:113,name:"エアリーデBS",sub:{shl:50,rng:100,spd:120,itv:1000},type:"a",cost:65,hp:20,tec:2,wlk:-1,fly:4}
 
 
 
