@@ -282,7 +282,7 @@
 {id:95,name:"アーティラスAM",cost:40,hp:25,str:1,tec:1,wlk:1,fly:-1,tgh:3}
 {id:30,name:"ボイルデックAM",type:"c",cost:95,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,main:{pwr:7,shl:1050,rng:330,spd:440,itv:140},tunable:{mwp:1},joint:{wp:0}}
 
-
+{id:501,name:"コルディプスAM",cost:35,hp:20,str:1,tec:1,fly:1,tgh:2}
 
 
 
