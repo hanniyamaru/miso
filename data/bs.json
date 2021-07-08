@@ -99,7 +99,7 @@
 {id:96,name:"メトラBS",type:"a",cost:35,hp:20,str:1,tec:-1,wlk:1,fly:4}
 {id:29,name:"ブリックゲイルBS",type:"a",cost:60,hp:25,wlk:1,fly:4,sub:{shl:50,rng:0,spd:150,itv:1000},comment:"BLUE"}
 
-
+{id:130,name:"ベルゼイラフガールBS",type:"c",size:"S",cost:35,hp:20,tec:1,wlk:1,fly:3}
 
 
 
