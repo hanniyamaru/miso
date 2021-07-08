@@ -210,7 +210,7 @@
 {id:77,name:"ザリドLG",cost:45,hp:50,wlk:4,fly:-1,tgh:3,type:"l"}
 {id:68,name:"アーティラスLG",sub:{pwr:23,rng:120,spd:250,itv:1000,tec:100},tunable:{pwp:1},cost:90,hp:25,str:-1,tec:3,wlk:3,tgh:1,comment:"-"}
 {id:25,name:"ボイルデックLG",cost:45,hp:25,str:2,wlk:3,fly:1}
-
+{id:321,name:"コルディプスLG",cost:45,hp:35,tec:2,wlk:2,tgh:2}
 
 
 
