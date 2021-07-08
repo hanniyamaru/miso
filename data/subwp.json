@@ -157,7 +157,7 @@
 
 {id:47,name:"ブレイブソード",sub:{str:100,pwr:32,rng:70,spd:85,itv:500},tunable:{pwp:1},cost:100,type:"l",size:"M",comment:"ソルブレンサーAMにのみ装着可能"}
 {id:28,name:"ブレイブランス",sub:{str:100,pwr:28,rng:120,spd:250,itv:500},type:"l",size:"M",cost:50,slot:0,comment:"ソルブレンサーAMにのみ装着可能"}
-
+{id:127,name:"ヴァリアントBD@",sub:{str:100,spd:150,itv:500},type:"a",size:"M",cost:230,slot:0}
 
 
 
