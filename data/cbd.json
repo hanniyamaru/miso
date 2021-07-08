@@ -148,7 +148,7 @@
 
 
 
-
+{id:47,name:"コルディプスBD",joint:{wp:1},fixedParts:{wp:{name:"コルディプスBD@",main:{pwr:[32],shl:3,rng:300,spd:400,itv:1000},sub:{shl:[23]},tunable:{mwp:0,pwp:0},slot:0,cost:100}},type:"c",size:"L",cost:490,capa:945,hp:305,str:5,tec:15,wlk:9,fly:9,tgh:13,wbid:3,cartridge:{hpup:10,lv1:"75*5@20|60*2@30|7@20|10@20|8@15|18@20|19@20|20@15|23@25|21@20|29@15|15@30|13@30|32@40|31@40"}}
 
 
 
