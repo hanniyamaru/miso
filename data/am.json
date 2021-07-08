@@ -74,6 +74,7 @@
 
 {group:"UniＭサイズ",prefixID:"M",commonStat:{size:"M"},nextID:69}
 {id:24,name:"ホバリオンAM",cost:35,hp:20,tec:2,wlk:1,fly:1,tgh:1}
+{id:42,name:"ホバリオン・マグナAM",cost:40,hp:25,tec:2,fly:1,tgh:2}
 
 {id:1511,name:"アクシオンAM",main:{tec:100,pwr:14,shl:240,rng:250,spd:400,itv:300},tunable:{mwp:1},type:"l",size:"M",cost:110,hp:25,str:-1,tec:3,wlk:2,tgh:1}
 {id:1512,name:"アクシオンAM2",sub:{str:100,pwr:28,rng:70,spd:85,itv:500},tunable:{mwp:1},type:"l",size:"M",cost:80,hp:25,str:3,tec:-1,wlk:2,tgh:1}
