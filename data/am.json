@@ -69,7 +69,7 @@
 {id:53,name:"ブリックゲイルAM2",type:"a",cost:140,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,main:{pwr:8,shl:560,rng:250,spd:480,itv:140},tunable:{mwp:1},comment:"BEAM MACHINEGUN"}
 {id:129,name:"エアリーデAM",cost:35,hp:20,tec:2,fly:2,tgh:1}
 {id:165,name:"ゼロナイトAM",type:"lacs",size:"M",cost:35,hp:20,str:3,wlk:-1,fly:2,tgh:1}
-
+{id:115,name:"ヤクシャAM",cost:35,hp:20,str:2,tec:1,wlk:-1,fly:2,tgh:1}
 
 
 {group:"UniＭサイズ",prefixID:"M",commonStat:{size:"M"},nextID:69}
