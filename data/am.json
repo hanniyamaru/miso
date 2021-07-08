@@ -67,7 +67,7 @@
 {id:110,name:"メトラAM",main:{pwr:7,shl:500,rng:275,spd:350,itv:360},type:"a",cost:75,hp:20,tec:3,wlk:-1,fly:2,tgh:2,tunable:{mwp:1,pwp:0},size:"S"}
 {id:52,name:"ブリックゲイルAM",cost:35,hp:20,tec:2,wlk:1,fly:1,tgh:1}
 {id:53,name:"ブリックゲイルAM2",type:"a",cost:140,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,main:{pwr:8,shl:560,rng:250,spd:480,itv:140},tunable:{mwp:1},comment:"BEAM MACHINEGUN"}
-
+{id:129,name:"エアリーデAM",cost:35,hp:20,tec:2,fly:2,tgh:1}
 
 
 
