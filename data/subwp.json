@@ -119,7 +119,7 @@
 
 {id:5,name:"ブルームカットラス",type:"a",size:"M",cost:70,sub:{rec:100,pwr:28,shl:100,rng:250,spd:150,itv:2000},tunable:{pwp:0}}
 
-
+{id:155,name:"ゼロナイトキャリバー",sub:{str:100,pwr:28,shl:200,rng:70,spd:75,itv:2000},tunable:{pwp:1},type:"a",size:"M",cost:160}
 
 
 
