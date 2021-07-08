@@ -112,6 +112,7 @@
 {id:98,name:"マンティサイスLG",joint:{bs:1},type:"lacs",size:"M",cost:45,hp:25,str:1,wlk:3,fly:2,tgh:-1}
 {id:3,name:"フィザリバンLG",cost:45,hp:25,str:1,tec:1,wlk:3}
 {id:14,name:"ホバリオンLG",cost:45,hp:30,str:-1,tec:1,wlk:3,fly:1,tgh:1}
+{id:33,name:"ホバリオン・マグナLG",cost:50,hp:35,str:-1,tec:1,wlk:2,fly:2,tgh:2}
 {id:4,name:"マッハナイトLG",cost:45,hp:25,wlk:3,fly:1,tgh:1}
 {id:10,name:"テツジンガーLG",cost:45,hp:25,str:1,wlk:3,fly:-1,tgh:2}
 {id:16,name:"ゴースレイダーLG",type:"a",cost:45,hp:25,str:1,wlk:3,tgh:1}
