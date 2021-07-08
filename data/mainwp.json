@@ -294,7 +294,8 @@
 {id:97,name:"クリスタルウォール",main:{pwr:2,shl:1740,rng:275,spd:340,itv:200},tunable:{mwp:1},comment:["フラクタリスガール専用コンバージョンパーツ","変形省略"],type:"a",size:"M",cost:90}
 {id:500,name:"ブレイブアクス",main:{str:100,pwr:20,shl:50,rng:200,spd:570,itv:500},type:"l",size:"M",cost:30,comment:"ソルブレンサーAMにのみ装着可能",slot:0}
 
-
+{id:67,name:"エアリーデ・ビットα",main:{pwr:[4],shl:[840],rng:275,spd:440,itv:900},size:"S",type:"a",slot:0,cost:70,comment:"ビットホルダー専用コンバージョンパーツ"}
+{id:68,name:"エアリーデ・ビットβ",main:{pwr:[6],shl:[920],rng:275,spd:400,itv:380},size:"S",type:"a",slot:0,cost:100,comment:"ビットホルダー専用コンバージョンパーツ"}
 
 
 
