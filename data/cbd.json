@@ -1,7 +1,6 @@
 {group:"UniＳ砲",prefixID:"CS",commonStat:{size:"S",type:"c"},nextID:12}
 
-{id:58,name:"ベルゼイラフガールBD",sub:{pwr:0,shl:50,spd:150,itv:1000},cartridge:{hpup:14,lv1:"4*6@25|7@20|10@20|8@15|18@20|19@20|23@25|22@30|26@10|21@20|13@30|30@20|50@30|32@40|31@40"},fixedParts:{hd:{name:"ベルゼイラフガールHD",sub:{pwr:30,shl:40,rng:150,spd:350,itv:1000},type:"c",size:"M",cost:75,hp:20,tec:1,fly:2,tgh:2},lg:{joint:{bs:1},name:"ベルゼイラフガールLG",cost:45,hp:20,tec:1,fly:2,tgh:2,type:"c",size:"S"},am:[{name:"ベルゼイラフガールAM",cost:40,hp:25,str:1,tec:2,wlk:1,fly:-1,tgh:2,type:"c",size:"S",slot:0},{name:"ベルゼイラフガールAM2",cost:40,hp:25,str:1,tec:2,wlk:1,fly:-1,tgh:2,type:"c",size:"S",slot:0}}]},type:"c",size:"S",cost:490,capa:920,hp:225,str:2,tec:16,wlk:7,fly:14,tgh:9,comment:"BDサブ効果時間中は爆風属性が弱点となり、ブラストガードが無効"}
-
+{id:58,name:"ベルゼイラフガールBD",sub:{pwr:0,shl:50,spd:150,itv:1000},cartridge:{hpup:14,lv1:"4*6@25|7@20|10@20|8@15|18@20|19@20|23@25|22@30|26@10|21@20|13@30|30@20|50@30|32@40|31@40"},fixedParts:{hd:{name:"ベルゼイラフガールHD",sub:{pwr:30,shl:40,rng:150,spd:350,itv:1000},type:"c",size:"M",cost:75,hp:20,tec:1,fly:2,tgh:2},lg:{joint:{bs:1},name:"ベルゼイラフガールLG",cost:45,hp:20,tec:1,fly:2,tgh:2,type:"c",size:"S"},am:[{name:"ベルゼイラフガールAM",slot:0,cost:40,hp:25,str:1,tec:2,wlk:1,fly:-1,tgh:2,type:"c",size:"S"},{name:"ベルゼイラフガールAM2",slot:0,cost:40,hp:25,str:1,tec:2,wlk:1,fly:-1,tgh:2,type:"c",size:"S"}}]},type:"c",size:"S",cost:490,capa:920,hp:225,str:2,tec:16,wlk:7,fly:14,tgh:9,comment:"BDサブ効果時間中は爆風属性が弱点となり、ブラストガードが無効"}
 
 
 
