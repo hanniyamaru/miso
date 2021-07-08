@@ -53,7 +53,7 @@
 {id:78,name:"メトラLG",sub:{pwr:7,shl:600,rng:275,spd:350,itv:1000},tunable:{pwp:0},type:"a",cost:145,hp:25,str:-1,tec:3,wlk:2,fly:2}
 {id:36,name:"ブリックゲイルLG",cost:45,hp:25,tec:2,wlk:2,fly:2,comment:"BLUE"}
 {id:91,name:"エアリーデLG",cost:40,hp:20,tec:2,wlk:2,fly:1}
-
+{id:116,name:"ゼロナイトLG",type:"lacs",size:"S",cost:45,hp:25,str:1,wlk:2,fly:2,tgh:1}
 
 
 
