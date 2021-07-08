@@ -292,7 +292,7 @@
 
 {id:96,name:"ビームクリスタル",main:{pwr:11,shl:500,rng:275,spd:440,itv:700},tunable:{mwp:1},type:"a",size:"S",cost:70,comment:"フラクタリスガール専用コンバージョンパーツ"}
 {id:97,name:"クリスタルウォール",main:{pwr:2,shl:1740,rng:275,spd:340,itv:200},tunable:{mwp:1},comment:["フラクタリスガール専用コンバージョンパーツ","変形省略"],type:"a",size:"M",cost:90}
-{id:500,name:"ブレイブアクス",main:{str:100,pwr:20,shl:50,rng:200,spd:570,itv:500},type:"l",size:"M",cost:30,comment:"ソルブレンサーAM専用コンバージョンパーツ",slot:0}
+{id:500,name:"ブレイブアクス",main:{str:100,pwr:20,shl:50,rng:200,spd:570,itv:500},type:"l",size:"M",cost:30,comment:"ソルブレンサーAMにのみ装着可能",slot:0}
 
 
 
