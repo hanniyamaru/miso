@@ -267,6 +267,7 @@
 {group:"UniＬＬサイズ",prefixID:"LL",commonStat:{size:"LL"},nextID:3}
 {id:1,name:"シェイデンBS",type:"a",cost:125,hp:25,fly:5,sub:{pwr:1,shl:1,rng:200,spd:110,itv:2000}}
 {id:3,name:"シェイデンBS2",sub:{pwr:1,shl:1,rng:200,spd:110,itv:2000},type:"a",cost:125,hp:25,tec:2,wlk:1,fly:4,tgh:-2}
+{id:6,name:"シェイデンBS3",sub:{pwr:1,shl:1,rng:200,spd:110,itv:2000},type:"a",size:"LL",cost:125,hp:25,str:1,tec:1,fly:4,tgh:-1}
 {id:5,name:"ヘカトケレスBS",type:"c",cost:125,hp:20,tec:2,wlk:-1,fly:3,tgh:1,main:{tec:100,pwr:11,shl:700,rng:330,spd:290,itv:1000},tunable:{mwp:1},size:"LL"}
 {id:4,name:"ブリガバロンBS",type:"l",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:2,tgh:2}
 {id:95,name:"コルディプスBS",main:{tec:100,pwr:10,shl:500,rng:330,spd:280,itv:800},cost:85,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,size:"LL",type:"c",tunable:{mwp:1}}
