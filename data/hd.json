@@ -220,6 +220,8 @@
 {id:288,name:"ヴァリアントHD",type:"lacs",size:"M",cost:35,hp:20,str:1,tec:2,fly:2}
 {id:49,name:"ハイプリストルHD",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1}
 {id:284,name:"ランパーニルHD",main:{str:100,pwr:5,shl:600,rng:225,spd:400,itv:300},cost:65,hp:20,str:2,tec:-1,wlk:1,fly:1,tgh:2,size:"M",tunable:{mwp:1}}
+{id:276,name:"インサネクトHD",cost:35,hp:25,tec:1,wlk:1,tgh:3,size:"M"}
+
 
 
 
