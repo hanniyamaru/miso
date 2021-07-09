@@ -93,6 +93,8 @@
 {id:67,name:"ハティガルムHD2",cost:40,hp:25,str:2,wlk:2,tgh:1}
 {id:35,name:"シェイデンHD",cost:40,hp:25,str:1,tec:1,wlk:1,tgh:2}
 {id:122,name:"シェイデンHD2",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:2,tgh:1}
+{id:299,name:"シェイデンHD3",type:"lacs",size:"M",cost:40,hp:25,str:-1,wlk:2,fly:2,tgh:2}
+
 {id:127,name:"ベクターHD",cost:40,hp:25,str:1,tec:3,fly:2,tgh:-1}
 {id:54,name:"シュトルバンガーHD",cost:40,hp:25,str:2,tec:-1,fly:1,tgh:3}
 {id:265,name:"シュトルバンガーHD2",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2}
