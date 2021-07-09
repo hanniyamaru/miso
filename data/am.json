@@ -184,8 +184,7 @@
 {id:177,name:"ソルブレンサーAM",type:"lacs",size:"M",cost:40,hp:25,str:2,tec:-1,wlk:2,tgh:2,joint:{wp:3},comment:"ブレイブアーツ省略"}
 {id:155,name:"ヴァリアントAM",main:{tec:100,pwr:4,shl:800,rng:275,spd:380,itv:400},tunable:{mwp:1},joint:{am:1},fixedParts:{am:{name:"ヴァリアントAM@",main:{tec:100,pwr:14,shl:230,rng:275,spd:290,itv:700},slot:0,type:"a",size:"M",joint:{wp:0}}},type:"a",size:"M",cost:35,hp:20,tec:2,fly:2,tgh:1}
 {id:17,name:"ハイプリストルAM",cost:35,hp:20,tec:2,wlk:1,fly:1,tgh:1}
-{id:526,name:"ハイプリストルAM2",sub:{str:100,pwr:0,shl:230,rng:0,spd:0,itv:800},tunable:{pwp:0,mwp:0},type:"s",size:"M",cost:135,hp:20,wlk:2,fly:1,tgh:2}
-
+{id:526,name:"ハイプリストルAM2",sub:{str:100,pwr:0,shl:230,rng:0,spd:0,itv:800},tunable:{pwp:0,mwp:0},type:"s",size:"M",cost:135,hp:20,wlk:2,fly:1,tgh:2,joint:{wp:0}}
 
 
 {group:"UniＬサイズ",prefixID:"L",commonStat:{size:"L"},nextID:53}
