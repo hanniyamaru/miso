@@ -161,6 +161,7 @@
 {id:51,name:"マイトボンバーLG",builtin:{bs:1},cost:45,hp:25,str:2,tec:1,wlk:2,fly:1,tgh:-1,type:"a",}
 {id:45,name:"ダイモンLG",cost:45,hp:25,str:1,wlk:3,fly:2,tgh:-1}
 {id:47,name:"アハトジーベンLG",cost:45,hp:70,tec:1,wlk:5,fly:-2,tgh:1}
+{id:54,name:"アハトジーベンLG2",cost:45,hp:70,wlk:4,tgh:2}
 {id:66,name:"ウォーダスLG",cost:45,hp:25,str:2,tec:1,wlk:3,fly:-1}
 {id:12,name:"ソア・ラLG",cost:45,hp:30,tec:1,wlk:1,fly:1,tgh:3,joint:{bs:1}}
 {id:23,name:"ブレイズバロンLG",cost:45,hp:65,str:1,tec:1,wlk:3,fly:1}
