@@ -288,7 +288,7 @@
 {id:39,name:"ドミクラウンAM3",type:"l",cost:240,hp:25,str:2,tec:-1,wlk:2,fly:1,tgh:1,main:{str:100,pwr:8,shl:800,rng:250,spd:400,itv:880},sub:{str:100,pwr:28,rng:70,spd:85,itv:500},tunable:{mwp:1,pwp:1},joint:{wp:0}}
 {id:95,name:"アーティラスAM",cost:40,hp:25,str:1,tec:1,wlk:1,fly:-1,tgh:3}
 {id:30,name:"ボイルデックAM",type:"c",cost:95,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,main:{pwr:7,shl:1050,rng:330,spd:440,itv:140},tunable:{mwp:1},joint:{wp:0}}
-
+{id:31,name:"ボイルデックAM2",type:"c",cost:95,hp:20,str:-1,tec:1,wlk:2,tgh:3,main:{pwr:9,shl:400,rng:160,spd:480,itv:100},tunable:{mwp:1}}
 {id:501,name:"コルディプスAM",cost:35,hp:20,str:1,tec:1,fly:1,tgh:2}
 {id:163,name:"サイクロテスAM3",type:"lacs",size:"L",cost:60,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2}
 
