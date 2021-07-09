@@ -61,6 +61,8 @@
 {id:700,name:"メディージャーBD",cost:360,capa:710,hp:200,str:7,tec:7,wlk:8,fly:7,tgh:13,wbid:10,cartridge:{hpup:22,lv1:"5*6@20|17@20|18@20|20@20|23@25|22@30|19@20|25@25|12@20|28@20|14@20|29@10|13@20|32@30|31@40"},comment:"-"}
 
 {id:701,name:"メディージャーBD2",cost:360,capa:710,hp:200,str:5,tec:5,wlk:12,fly:10,tgh:10,wbid:10,cartridge:{hpup:22,lv1:"5*6@20|17@20|18@20|20@20|23@25|22@30|19@20|25@25|12@20|28@20|14@20|29@10|13@20|32@30|31@40"},comment:"-"}
+{id:3,name:"ハイプリストルBD",cost:515,capa:800,hp:270,str:9,tec:9,wlk:11,fly:10,tgh:11,sub:{pwr:0,shl:[12],rng:[0],spd:[0],itv:[20000]},wbid:10,cartridge:{hpup:18,lv1:"85*6@20|17@20|18@20|19@20|20@20|23@25|14@10|28@20|21@20|33@40|21@20|29@10|25@25|13@20|32@30|31@40"},joint:{bs:0},builtin:{bs:1}}
+
 
 
 {group:"UniＬ補",prefixID:"SL",commonStat:{size:"L",type:"s"},nextID:7}
