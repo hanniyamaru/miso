@@ -223,6 +223,8 @@
 {id:10,name:"ソア・ラAM",cost:40,hp:25,str:2,tec:1,fly:2}
 {id:26,name:"ブレイズバロンAM",cost:40,hp:25,str:2,tec:2,wlk:1,fly:1,tgh:-1}
 {id:27,name:"ブレイズバロンAM2",type:"l",cost:140,hp:25,str:3,tec:-1,wlk:1,tgh:2,sub:{str:100,pwr:32,rng:70,spd:85,itv:600},tunable:{pwp:1},joint:{wp:0}}
+{id:44,name:"ブレイズバロンAM4",type:"l",cost:210,hp:25,str:3,tec:-1,tgh:3,main:{str:100,pwr:23,shl:250,rng:200,spd:400,itv:700},sub:{str:100,pwr:30,rng:120,spd:250,itv:2000},tunable:{mwp:1,pwp:1},joint:{wp:0}}
+
 {id:8,name:"シェイデンAM",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1}
 {id:59,name:"シェイデンAM3",cost:40,hp:25,str:2,wlk:1,fly:1,tgh:1}
 {id:62,name:"ベクターAM",cost:35,hp:20,str:1,tec:-1,wlk:2,fly:1,tgh:2}
