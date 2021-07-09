@@ -140,7 +140,7 @@
 {id:122,name:"ソルブレンサーLG",type:"lacs",size:"M",cost:45,hp:25,str:2,wlk:3,fly:2,tgh:-1}
 {id:108,name:"ヴァリアントLG",sub:{str:100,shl:50,rng:0,spd:150,itv:1000},type:"a",size:"M",cost:65,hp:25,tec:2,wlk:3,fly:2,tgh:-1}
 {id:23,name:"ハイプリストルLG",cost:45,hp:25,wlk:3,fly:1,tgh:2}
-{id:104,name:"インサネクト",type:"a",size:"M",cost:45,hp:25,tec:1,wlk:3,fly:2}
+{id:104,name:"インサネクトLG",type:"a",size:"M",cost:45,hp:25,tec:1,wlk:3,fly:2}
 
 
 
