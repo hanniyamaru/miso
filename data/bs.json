@@ -97,6 +97,10 @@
 {id:135,name:"K・ノンナBS",type:"c",size:"S",cost:35,hp:20,str:-1,tec:3,fly:3,joint:{bs:1},comment:"K・ノンナBS＠のみ接続可能"}
 {id:112,name:"K・ノンナBS@",main:{pwr:15,shl:450,rng:350,spd:500,itv:400},sub:{pwr:28,shl:100,rng:350,spd:500,itv:1000},tunable:{mwp:1,pwp:0},type:"c",size:"S",cost:160,comment:"K・ノンナBS専用コンバージョンパーツ"}
 {id:96,name:"メトラBS",type:"a",cost:35,hp:20,str:1,tec:-1,wlk:1,fly:4}
+{id:190,name:"メトラBS2+BS2@",sub:{pwr:9,shl:180,rng:250,spd:320,itv:1000},joint:{bs:1},fixedParts:{bs:{name:"メトラBS2@",sub:{shl:40,rng:100,spd:150,itv:1000},cost:20,slot:0}},cost:65,hp:20,str:-1,tec:2,fly:3,tgh:1,comment:"コンバージョン複合",type:"a",size:"S"}
+
+{id:189,name:"メトラBS2",sub:{pwr:9,shl:180,rng:250,spd:320,itv:1000},cost:65,hp:20,str:-1,tec:2,fly:3,tgh:1,type:"a",size:"S"}
+
 {id:29,name:"ブリックゲイルBS",type:"a",cost:60,hp:25,wlk:1,fly:4,sub:{shl:50,rng:0,spd:150,itv:1000},comment:"BLUE"}
 
 {id:130,name:"ベルゼイラフガールBS",type:"c",size:"S",cost:35,hp:20,tec:1,wlk:1,fly:3}
