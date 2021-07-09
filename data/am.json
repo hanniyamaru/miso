@@ -303,6 +303,16 @@
 {id:163,name:"サイクロテスAM3",type:"lacs",size:"L",cost:60,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2}
 {id:159,name:"ランパーニルAM",type:"l",cost:55,hp:20,str:2,wlk:1,fly:-1,tgh:3,comment:"シールド有り、耐久値不明"}
 {id:94,name:"ギャスターAM2",main:{pwr:24,shl:240,rng:330,spd:270,itv:600},tunable:{mwp:1},type:"c",cost:135,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
+{id:115,name:"タイタンコイルAM",main:{pwr:4,shl:800,rng:225,spd:480,itv:100},sub:{pwr:24,shl:0,rng:100,spd:150,itv:2000},tunable:{mwp:1},joint:{wp:0},cost:110,hp:25,str:-1,wlk:2,fly:1,tgh:2,comment:"-"}
+
+
+
+
+
+
+
+
+
 
 {group:"UniＬＬサイズ",prefixID:"LL",commonStat:{size:"LL"},nextID:7}
 {id:1,name:"マイティバインAM3",type:"l",cost:155,hp:25,str:4,wlk:2,fly:-1,main:{str:100,pwr:9,shl:780,rng:150,spd:400,itv:500},sub:{str:100,pwr:38,shl:30,rng:70,spd:85,itv:500},tunable:{mwp:1,pwp:1},joint:{wp:0},comment:"-"}
