@@ -105,7 +105,7 @@
 
 {id:130,name:"ベルゼイラフガールBS",type:"c",size:"S",cost:35,hp:20,tec:1,wlk:1,fly:3}
 {id:113,name:"エアリーデBS",sub:{shl:50,rng:100,spd:120,itv:1000},type:"a",cost:65,hp:20,tec:2,wlk:-1,fly:4}
-{id:511,name:"ゼロナイトBS",type:"a",size:"M",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:3,tgh:1}
+{id:511,name:"ゼロナイトBS",type:"a",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:3,tgh:1}
 {id:101,name:"ヤクシャBS",main:{pwr:8,shl:540,rng:275,spd:320,itv:1000},tunable:{mwp:1},type:"a",cost:105,hp:20,str:-1,tec:3,fly:3}
 
 
