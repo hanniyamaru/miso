@@ -291,7 +291,7 @@
 {id:31,name:"ボイルデックAM2",type:"c",cost:95,hp:20,str:-1,tec:1,wlk:2,tgh:3,main:{pwr:9,shl:400,rng:160,spd:480,itv:100},tunable:{mwp:1}}
 {id:501,name:"コルディプスAM",cost:35,hp:20,str:1,tec:1,fly:1,tgh:2}
 {id:163,name:"サイクロテスAM3",type:"lacs",size:"L",cost:60,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2}
-
+{id:159,name:"ランパーニルAM",type:"l",cost:55,hp:20,str:2,wlk:1,fly:-1,tgh:3,comment:"シールド有り、耐久値不明"}
 
 
 {group:"UniＬＬサイズ",prefixID:"LL",commonStat:{size:"LL"},nextID:7}
