@@ -24,16 +24,16 @@
 {id:1409,name:"FLY+2.(HD)",fly:2,slot:1}
 {id:1410,name:"TGH+2.(HD)",tgh:2,slot:1}
 
-{id:1701,name:"STR+1.TEC+1.(HD) ",str:1,tec:1,slot:1}
-{id:1702,name:"STR+1.WLK+1.(HD) ",str:1,wlk:1,slot:1}
-{id:1703,name:"STR+1.FLY+1.(HD) ",str:1,fly:1,slot:1}
-{id:1704,name:"STR+1.TGH+1.(HD) ",str:1,tgh:1,slot:1}
-{id:1705,name:"TEC+1.WLK+1.(HD) ",tec:1,wlk:1,slot:1}
-{id:1706,name:"TEC+1.FLY+1.(HD) ",tec:1,fly:1,slot:1}
-{id:1707,name:"TEC+1.TGH+1.(HD) ",tec:1,tgh:1,slot:1}
-{id:1708,name:"WLK+1.FLY+1.(HD) ",wlk:1,fly:1,slot:1}
-{id:1709,name:"WLK+1.TGH+1.(HD) ",wlk:1,tgh:1,slot:1}
-{id:1710,name:"FLY+1.TGH+1.(HD) ",fly:1,tgh:1,slot:1}
+{id:1701,name:"STR+1.TEC+1.(HD)",str:1,tec:1,slot:1}
+{id:1702,name:"STR+1.WLK+1.(HD)",str:1,wlk:1,slot:1}
+{id:1703,name:"STR+1.FLY+1.(HD)",str:1,fly:1,slot:1}
+{id:1704,name:"STR+1.TGH+1.(HD)",str:1,tgh:1,slot:1}
+{id:1705,name:"TEC+1.WLK+1.(HD)",tec:1,wlk:1,slot:1}
+{id:1706,name:"TEC+1.FLY+1.(HD)",tec:1,fly:1,slot:1}
+{id:1707,name:"TEC+1.TGH+1.(HD)",tec:1,tgh:1,slot:1}
+{id:1708,name:"WLK+1.FLY+1.(HD)",wlk:1,fly:1,slot:1}
+{id:1709,name:"WLK+1.TGH+1.(HD)",wlk:1,tgh:1,slot:1}
+{id:1710,name:"FLY+1.TGH+1.(HD)",fly:1,tgh:1,slot:1}
 
 {id:1711,name:"HP+5.Capa+10.(HD)",hp:5,capa:10,slot:1}
 {id:1712,name:"Capa+10.(HD)",capa:10,slot:1}
