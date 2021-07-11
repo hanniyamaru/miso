@@ -42,13 +42,18 @@
 
 
 
-{id:1306,name:"STR+1.HP+5",hp:5,str:1,slot:1}
-{id:1307,name:"TEC+1.HP+5",hp:5,tec:1,slot:1}
-{id:1308,name:"WLK+1.HP+5",hp:5,wlk:1,slot:1}
-{id:1309,name:"FLY+1.HP+5",hp:5,fly:1,slot:1}
-{id:1310,name:"TGH+1.HP+5",hp:5,tgh:1,slot:1}
 
+{id:1306,name:"STR+1.HP+5(HD)",hp:5,str:1,slot:1}
+{id:1307,name:"TEC+1.HP+5(HD)",hp:5,tec:1,slot:1}
+{id:1308,name:"WLK+1.HP+5(HD)",hp:5,wlk:1,slot:1}
+{id:1309,name:"FLY+1.HP+5(HD)",hp:5,fly:1,slot:1}
+{id:1310,name:"TGH+1.HP+5(HD)",hp:5,tgh:1,slot:1}
 
+{id:1167,name:"STR+1.Capa+5(HD)",capa:5,str:1,slot:1}
+{id:1168,name:"TEC+1.Capa+5(HD)",capa:5,tec:1,slot:1}
+{id:1169,name:"WLK+1.Capa+5(HD)",capa:5,wlk:1,slot:1}
+{id:1170,name:"FLY+1.Capa+5(HD)",capa:5,fly:1,slot:1}
+{id:1171,name:"TGH+1.Capa+5(HD)",capa:5,tgh:1,slot:1}
 
 
 {group:"旧頭飾り",nextID:991}
