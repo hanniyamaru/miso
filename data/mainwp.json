@@ -33,9 +33,11 @@
 {id:30,name:"3ウェイビームガン",type:"as",size:"M",cost:80,main:{pwr:6,shl:720,rng:275,spd:350,itv:780}}
 {id:31,name:"リミットプラズマガン",type:"a",size:"M",cost:110,main:{pwr:15,shl:460,rng:275,spd:440,itv:380}}
 {id:32,name:"プラズマガン",type:"a",size:"M",cost:170,main:{pwr:23,shl:350,rng:275,spd:440,itv:500}}
-{id:72,name:"ガンマライトニングガン",main:{pwr:26,shl:210,rng:275,spd:440,itv:780},type:"a",size:"M",cost:130}
-{id:33,name:"カーブガン",type:"as",size:"S",cost:50,main:{pwr:11,shl:220,rng:275,spd:480,itv:500}}
-{id:34,name:"スイングガン",type:"a",size:"M",cost:90,main:{pwr:15,shl:240,rng:275,spd:480,itv:500}}
+
+{id:72,name:"ガンマライトニングガン",main:{pwr:29,shl:210,rng:275,spd:440,itv:780},type:"a",size:"M",cost:130}
+{id:33,name:"カーブガン",type:"as",size:"S",cost:50,main:{pwr:8,shl:600,rng:275,spd:480,itv:300}}
+{id:34,name:"スイングガン",type:"a",size:"M",cost:90,main:{pwr:9,shl:760,rng:275,spd:480,itv:260}}
+
 {id:70,name:"アクセルビームガン",main:{pwr:15,shl:440,rng:275,spd:570,itv:400},type:"a",size:"M",cost:100}
 {id:37,name:"パルスガン",size:"S",cost:40,main:{pwr:8,shl:300,rng:250,spd:360,itv:600}}
 {id:38,name:"エレキガン",type:"s",size:"S",cost:90,main:{pwr:15,shl:300,rng:250,spd:360,itv:600}}
