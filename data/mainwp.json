@@ -203,7 +203,7 @@
 {group:"Uniショットガン系",prefixID:"ST",commonStat:{tunable:{mwp:1}},nextID:14}
 {id:18,name:"マグネショットガン",main:{pwr:5,shl:1190,rng:330,spd:290,itv:900},size:"M",type:"c",cost:140,wlk:1}
 
-{id:1,name:"ショットガン",size:"M",cost:50,main:{pwr:6,shl:1090,rng:130,spd:260,itv:500},auraStat:{comment:["拠点距離減衰","実弾系ゼロ距離ショットガン・カスタムショットガン　50％"]}}
+{id:1,name:"ショットガン",size:"M",cost:50,main:{pwr:6,shl:1090,rng:130,spd:260,itv:500},auraStat:{comment:["距離減衰・実弾系ショットガン・カスタムショットガン","武器表記威力が命中距離によって割合で減少し、その後にTEC計算される","威力50%~100%"]}}
 {id:2,name:"カスタムショットガン",size:"L",cost:70,main:{pwr:6,shl:1090,rng:150,spd:400,itv:560}}
 {id:3,name:"スイーパーショットガン",type:"lc",size:"L",cost:90,main:{pwr:9,shl:840,rng:150,spd:400,itv:720}}
 {id:21,name:"アドバンスショットガン",main:{tec:100,pwr:7,shl:720,rng:225,spd:400,itv:500},tunable:{mwp:1},type:"l",size:"M",cost:160}
