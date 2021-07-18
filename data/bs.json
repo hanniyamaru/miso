@@ -295,4 +295,4 @@
 
 
 {group:"コンバージョンパーツ",nextID:0}
-{id:159,name:"マニモウィング",sub:{shl:60,spd:160,itv:1000},builtin:{bs:-1},joint:{wp:1},type:"a",size:"M",cost:70,hp:25,str:1,fly:2,tgh:2}
+{id:159,name:"マニモウィング",sub:{shl:60,spd:160,itv:1000},builtin:{bs:-1},joint:{wp:1},type:"a",size:"M",cost:70,hp:25,str:1,fly:2,tgh:2,slot:0}
