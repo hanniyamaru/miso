@@ -159,6 +159,8 @@
 {id:12,name:"テツジンガーAM",tunable:{pwp:1},type:"l",cost:105,hp:20,str:3,tec:-1,wlk:1,tgh:2,sub:{str:100,pwr:34,rng:70,spd:85,itv:500}}
 {id:144,name:"シンビジウムAM2",main:{pwr:10,shl:240,rng:275,spd:290,itv:900},type:"a",size:"M",cost:65,hp:20,tec:3,fly:1,tgh:1,tunable:{mwp:1}}
 {id:14,name:"デジトロイドAM",cost:40,hp:25,str:1,tec:1,wlk:1,fly:1,tgh:1}
+
+{id:11,name:"スコルタンAM",cost:35,hp:20,str:1,tec:2,wlk:1,tgh:1}
 {id:523,name:"スコルタンAM2",cost:35,hp:20,str:2,wlk:1,tgh:2}
 {id:154,name:"ビクトリーAM",type:"lacs",size:"M",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1}
 {id:180,name:"ゴートランAM",main:{str:100,pwr:20,shl:50,rng:200,spd:570,itv:500},sub:{str:100,pwr:32,shl:0,rng:70,spd:85,itv:2000},tunable:{mwp:1,pwp:1},type:"l",size:"M",cost:165,hp:20,str:4,tec:-1,tgh:2,joint:{wp:0}}
