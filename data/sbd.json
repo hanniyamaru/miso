@@ -50,7 +50,7 @@
 
 {id:23,name:"うぃんべるBD",cost:470,capa:635,hp:225,str:6,tec:11,wlk:11,fly:8,tgh:14,main:{pwr:0,shl:[80],rng:300,spd:[300],itv:[500]},sub:{shl:[20],rng:43,spd:63,itv:[1000]},wbid:1,cartridge:{hpup:25,lv1:"95*6@25|17@20|18@20|19@20|20@20|22@30|29@10|21@20|25@25|23@25|14@10|28@20|13@20|32@30|31@40"},fixedParts:{hd:{name:"うぃんべるHD",cost:35,hp:20,tec:1,wlk:2,tgh:2},lg:{name:"うぃんべるLG",cost:40,hp:20,str:2,wlk:2,fly:1,sub:{rng:43,spd:63,itv:2500}},bs:"B3"},joint:{am:0,wp:1},comment:["バインド陣","回復量41"]}
 
-
+{id:30,name:"RうぃんべるBD",main:{pwr:0,shl:[80],rng:300,spd:[300],itv:[500]},sub:{shl:[20],rng:43,spd:63,itv:[1000]},cost:470,capa:635,hp:225,str:8,tec:11,wlk:7,fly:11,tgh:13,wbid:1,joint:{wp:1,am:0},,comment:["回復量41","オートリペア　回復量3×11回"],cartridge:{hpup:25,lv1:"95*6@25|17@20|18@20|19@20|20@20|22@30|29@10|21@20|25@25|23@25|14@10|28@20|13@20|32@30|31@40"},fixedParts:{hd:{name:"RうぃんべるHD",sub:{pwr:8,shl:120,rng:200,spd:200,itv:1000},cost:55,hp:20,str:1,tec:2,fly:1,tgh:1},lg:{sub:{rng:37,spd:37,itv:2500},joint:{bs:1},name:"RうぃんべるLG",cost:40,hp:20,wlk:2,fly:1,tgh:2},bs:[{name:"デモンBS4",cost:35,hp:20,str:1,tec:1,fly:3},{name:"RうぃんべるBS"}]}}
 
 
 
