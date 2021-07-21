@@ -48,6 +48,8 @@
 
 {id:106,name:"かぐらBD",cost:470,capa:635,hp:225,str:6,tec:15,wlk:10,fly:11,tgh:8,main:{pwr:0,shl:[80],rng:300,spd:[300],itv:[500]},sub:{shl:[20],rng:43,spd:63,itv:[1000]},wbid:1,cartridge:{hpup:25,lv1:"95*6@25|17@20|18@20|19@20|20@20|22@30|29@10|21@20|25@25|23@25|30@20|15@30|13@20|32@30|31@40"},fixedParts:{wp:{name:"プチ神祓の弓",main:{tec:100,pwr:10,shl:160,rng:300,spd:300,itv:500},cost:40,tunable:{mwp:1}},hd:{name:"かぐらHD",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1},lg:{name:"かぐらLG",cost:40,hp:20,tec:1,wlk:2,fly:2,sub:{str:100,pwr:10,rng:40,spd:60,itv:2500}},bs:"B3"},joint:{am:0,wp:1},comment:["ロングレンジ陣","回復量41"]}
 
+{id:23,name:"うぃんべるBD",cost:470,capa:635,hp:225,str:6,tec:11,wlk:11,fly:8,tgh:14,main:{pwr:0,shl:[80],rng:300,spd:[300],itv:[500]},sub:{shl:[20],rng:43,spd:63,itv:[1000]},wbid:1,cartridge:{hpup:25,lv1:"95*6@25|17@20|18@20|19@20|20@20|22@30|29@10|21@20|25@25|23@25|14@10|28@20|13@20|32@30|31@40"},fixedParts:{hd:{name:"うぃんべるHD",cost:35,hp:20,tec:1,wlk:2,tgh:2},lg:{name:"うぃんべるLG",cost:40,hp:20,str:2,wlk:2,fly:1,sub:{rng:43,spd:63,itv:2500}},bs:"B3"},joint:{am:0,wp:1},comment:["バインド陣","回復量41"]}
+
 
 
 
