@@ -5,6 +5,15 @@
 {id:4,name:"FLY+1",size:"M",cost:10,fly:1}
 {id:5,name:"TGH+1",size:"M",cost:10,tgh:1}
 
+{group:"Uniシールド系",prefixID:"SL",nextID:4}
+{id:1,name:"バックラー",size:"S",cost:40}
+{id:2,name:"バイパーシールド",size:"L",cost:40}
+{id:3,name:"スパイクシールド",type:"l",size:"LL",cost:90,sub:{str:100,pwr:28,rng:120,spd:400,itv:500},tunable:{pwp:1}}
+
+{id:4,name:"キャンバスシールド",size:"S",cost:40}
+{id:15,name:"クリスタライトシールド",size:"S",cost:35}
+
+
 {group:"Uniソード系",prefixID:"SW",commonStat:{tunable:{pwp:1}},nextID:27}
 
 {id:1,name:"ショートソード",size:"M",cost:40,sub:{str:100,pwr:28,rng:77,spd:94,itv:500}}
@@ -83,13 +92,7 @@
 
 
 
-{group:"Uniシールド系",prefixID:"SL",nextID:4}
-{id:1,name:"バックラー",size:"S",cost:40}
-{id:2,name:"バイパーシールド",size:"M",cost:40}
-{id:3,name:"スパイクシールド",type:"l",size:"LL",cost:90,sub:{str:100,pwr:28,rng:120,spd:400,itv:500},tunable:{pwp:1}}
 
-{id:4,name:"キャンバスシールド",size:"S",cost:40}
-{id:15,name:"クリスタライトシールド",size:"S",cost:35}
 
 
 
