@@ -299,7 +299,9 @@
 {id:67,name:"エアリーデ・ビットα",main:{pwr:[4,5,6],shl:[840],rng:275,spd:440,itv:900},size:"S",type:"a",slot:0,cost:70,comment:"ビットホルダー専用コンバージョンパーツ"}
 {id:68,name:"エアリーデ・ビットβ",main:{pwr:[6,7,8],shl:[920],rng:275,spd:400,itv:380},size:"S",type:"a",slot:0,cost:100,comment:"ビットホルダー専用コンバージョンパーツ"}
 {id:105,name:"見習い手裏剣",main:{str:100,pwr:4,shl:800,rng:200,spd:400,itv:140},tunable:{mwp:1},type:"s",size:"S",cost:40,comment:"もみじBD専用コンバージョンパーツ"}
-{id:503,name:"アクアショット",main:{pwr:19,shl:340,rng:250,spd:400,itv:500},type:"l",size:"S",cost:70,comment:"イオンAM2専用コンバージョンパーツ"}
+{id:503,name:"アクアショット",main:{pwr:19,shl:340,rng:250,spd:400,itv:500},type:"l",size:"S",cost:70,comment:"イオンAM2専用コンバージョンパーツ",tunable:{mwp:1}}
+
+
 
 
 
