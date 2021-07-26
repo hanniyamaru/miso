@@ -1,5 +1,5 @@
 {group:"代用品",nextID:98}
-{id:1500,name:"メモリ・スロット",slot:3,joint:{hdac:0,fcac:1,hd:0},comment:"ゲーム内機体参照の上、任意の個数増設してください"}
+{id:1500,name:"メモリ・スロット.",slot:3,joint:{hdac:0,fcac:1,hd:0},comment:"ゲーム内機体参照の上、任意の個数増設してください"}
 
 {group:"マスク",nextID:45}
 
