@@ -1,5 +1,5 @@
 {group:"代用品",nextID:98}
-{id:1500,name:"メモリ・スロット",slot:3,joint:{hdac:1,fcac:0,hd:0},comment:"ゲーム内機体参照の上、任意の個数増設してください"}
+{id:1500,name:"メモリ・スロット(HD)",slot:3,joint:{hdac:1,fcac:0,hd:0},comment:"ゲーム内機体参照の上、任意の個数増設してください"}
 
 
 {id:1910,name:"ALL40",str:40,tec:40,wlk:40,fly:40,tgh:40,slot:6,comment:"検証用"}
