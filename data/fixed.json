@@ -35,7 +35,7 @@
 {id:13,name:"ジークンロンAM",cost:40,hp:25,str:1,tec:1,wlk:2,tgh:1}
 
 {group:"WP",prefixID:"W",nextID:1}
-{id:1,name:"スロット・メモリ_1",slot:3}
+{id:1,name:"メモリ・スロット",size:"M",type:"lacs",slot:3,comment:["-"],comment:["-"]}
 
 
 
