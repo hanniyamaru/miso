@@ -189,7 +189,7 @@
 {id:526,name:"ハイプリストルAM2",sub:{str:100,pwr:0,shl:230,rng:0,spd:0,itv:800},tunable:{pwp:0,mwp:0},type:"s",size:"M",cost:135,hp:20,wlk:2,fly:1,tgh:2,joint:{wp:0}}
 {id:115,name:"ギャスターAM",cost:35,hp:20,str:2,wlk:2,fly:1}
 
-
+{id:20,name:"パラボロイドAM",cost:35,hp:20,str:2,tec:1,wlk:1,tgh:1}
 
 
 
@@ -201,30 +201,67 @@
 
 {group:"UniＬサイズ",prefixID:"L",commonStat:{size:"L"},nextID:53}
 
-{id:9,name:"スチールライダーAM",cost:35,hp:20,str:2,tec:1,wlk:1,tgh:1}
-{id:531,name:"スチールライダーAM2",type:"l",cost:135,hp:20,str:-1,tec:3,wlk:1,tgh:2,main:{tec:100,pwr:5,shl:1400,rng:225,spd:400,itv:180},tunable:{mwp:1}}
-{id:108,name:"カタロスAM",type:"a",cost:40,hp:25,tec:3,fly:1,tgh:1,comment:"-"}
-{id:19,name:"メガトンオーAM",cost:35,hp:20,str:2,tec:1,tgh:2}
-{id:4,name:"ギガトンオーAM",cost:40,hp:25,str:2,tec:2,tgh:1}
-{id:36,name:"ジーウェインAM",type:"a",cost:40,hp:25,tec:1,fly:1,tgh:3,builtin:{bs:1}}
 
-{id:16,name:"マイティバインAM",type:"l",cost:135,hp:25,str:3,tec:-1,wlk:1,tgh:2,sub:{str:100,pwr:35,shl:40,rng:70,spd:85,itv:2000},tunable:{pwp:1},comment:"シールド耐久値60"}
-{id:17,name:"マイティバインAM2",type:"l",cost:80,hp:25,str:1,wlk:1,tgh:3,comment:"シールド耐久値60"}
+
+{id:95,name:"アーティラスAM",cost:40,hp:25,str:1,tec:1,wlk:1,fly:-1,tgh:3}
+{id:1,name:"アクイーアAM",cost:35,hp:20,str:2,tec:1,fly:1,tgh:1}
+
+
+
+{id:108,name:"カタロスAM",type:"a",cost:40,hp:25,tec:3,fly:1,tgh:1,comment:"-"}
 {id:3,name:"ガナハウンドAM",type:"l",cost:135,hp:25,str:3,tec:-1,wlk:1,tgh:2,sub:{str:100,pwr:32,rng:70,spd:85,itv:500},tunable:{pwp:1}}
+{id:80,name:"ガルスチールAM",auraStat:{str:1,tec:1,wlk:2,fly:2,tgh:-1},cost:35,hp:20,str:1,tec:1,wlk:2,fly:2,tgh:-1}
+{id:81,name:"ガルスチールAM2",main:{tec:100,pwr:8,shl:720,rng:330,spd:480,itv:180},tunable:{mwp:1},auraStat:{main:{tec:100,pwr:9,shl:720,rng:330,spd:480,itv:160},str:-1,tec:2,wlk:2,fly:2},cost:165,hp:20,str:-1,tec:2,wlk:2,fly:2,type:"c",size:"L"}
+
+
+{id:4,name:"ギガトンオーAM",cost:40,hp:25,str:2,tec:2,tgh:1}
+{id:94,name:"ギャスターAM2",main:{pwr:24,shl:240,rng:330,spd:270,itv:600},tunable:{mwp:1},type:"c",cost:135,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
+
+{id:98,name:"クシュルブAM",sub:{str:100,pwr:33,rng:35,spd:43,itv:2000},tunable:{pwp:1},type:"l",cost:90,hp:20,str:3,wlk:1,fly:2,tgh:-1}
+
+{id:501,name:"コルディプスAM",cost:35,hp:20,str:1,tec:1,fly:1,tgh:2}
+
+{id:163,name:"サイクロテスAM3",type:"lacs",size:"L",cost:60,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2}
+{id:7,name:"サジタルマクシスAM",cost:40,hp:25,str:2,tec:3}
+
+
+{id:36,name:"ジーウェインAM",type:"a",cost:40,hp:25,tec:1,fly:1,tgh:3,builtin:{bs:1}}
+{id:43,name:"ジオグラシスAM2",cost:35,hp:20,str:2,tec:2,wlk:-1,tgh:2,comment:"F型AM"}
+{id:61,name:"ジオグラシスAM4",cost:85,hp:20,tec:3,wlk:-1,fly:2,tgh:1,type:"a",main:{tec:100,pwr:10,shl:350,rng:275,spd:290,itv:1000},tunable:{mwp:1}}
+{id:35,name:"ジオグラシスAM",cost:35,hp:20,str:2,tec:1,wlk:2,fly:-1,tgh:1}
+{id:60,name:"ジオグラシスAM3",sub:{str:100,pwr:30,rng:80,spd:150,itv:2000},tunable:{pwp:1},type:"l",cost:105,hp:20,str:3,wlk:3,fly:-1}
+
+
+
 {id:50,name:"スケアガントAM2",cost:40,hp:20,str:2,tec:1,wlk:2,fly:1,tgh:-1}
 {id:51,name:"スケアガントAM4",cost:40,hp:25,str:-1,tec:2,wlk:2,tgh:2}
 
-{id:1010,name:"ルペットAM",type:"lacs",size:"L",comment:"性能変更に伴いAM3と分離",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2}
-{id:1011,name:"ルペットAM3",type:"lacs",size:"L",comment:"性能変更に伴いAMと分離",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2}
-{id:13,name:"パルサーディオAM",cost:40,hp:25,str:2,wlk:1,tgh:2}
-{id:122,name:"バフデバスターAM",sub:{pwr:22,rng:150,spd:10,itv:1000,str:100},tunable:{pwp:1},cost:60,hp:20,str:1,fly:1,tgh:3}
-{id:1,name:"アクイーアAM",cost:35,hp:20,str:2,tec:1,fly:1,tgh:1}
-{id:7,name:"サジタルマクシスAM",cost:40,hp:25,str:2,tec:3}
+{id:118,name:"スチールバーンAM",main:{pwr:5,shl:600,rng:250,spd:480,itv:240},sub:{pwr:21,rng:120,spd:200,itv:500,tec:100},tunable:{mwp:1,pwp:1},type:"a",cost:130,hp:25,str:-1,tec:3,fly:2,tgh:1,comment:"-"}
+{id:119,name:"スチールバーンAM2",sub:{pwr:16,shl:140,rng:320,spd:230,itv:1000},type:"a",cost:80,hp:25,str:2,tec:2,wlk:-1,fly:1,tgh:1,comment:"未更新"}
+{id:139,name:"スチールバーンAM3",main:{pwr:9,shl:540,rng:275,spd:350,itv:300},tunable:{mwp:1},type:"a",size:"L",cost:120,hp:25,str:-1,tec:3,fly:1,tgh:2}
+{id:9,name:"スチールライダーAM",cost:35,hp:20,str:2,tec:1,wlk:1,tgh:1}
+{id:531,name:"スチールライダーAM2",type:"l",cost:135,hp:20,str:-1,tec:3,wlk:1,tgh:2,main:{tec:100,pwr:5,shl:1400,rng:225,spd:400,itv:180},tunable:{mwp:1}}
+
+
+
+{id:115,name:"タイタンコイルAM",main:{pwr:4,shl:800,rng:225,spd:480,itv:100},sub:{pwr:24,shl:0,rng:100,spd:150,itv:2000},tunable:{mwp:1,pwp:1},joint:{wp:0},cost:110,hp:25,str:-1,tec:1,wlk:2,fly:1,tgh:2,comment:"-"}
+
+{id:37,name:"ドミクラウンAM",type:"l",cost:220,hp:25,str:4,tec:-1,wlk:1,tgh:1,main:{str:100,pwr:22,shl:150,rng:200,spd:400,itv:560},sub:{str:100,pwr:30,rng:70,spd:85,itv:2000},tunable:{mwp:1,pwp:1},joint:{wp:0}}
+{id:38,name:"ドミクラウンAM2",cost:40,hp:25,tec:2,fly:1,tgh:2}
+{id:39,name:"ドミクラウンAM3",type:"l",cost:240,hp:25,str:2,tec:-1,wlk:2,fly:1,tgh:1,main:{str:100,pwr:8,shl:800,rng:250,spd:400,itv:880},sub:{str:100,pwr:28,rng:70,spd:85,itv:500},tunable:{mwp:1,pwp:1},joint:{wp:0}}
+
+
+
+
+
+
+
+
+
+
 {id:11,name:"トイボックスAM",type:"c",cost:120,hp:25,tec:3,tgh:2,main:{pwr:12,shl:580,rng:330,spd:290,itv:540},tunable:{mwp:1},joint:{wp:0}}
 {id:12,name:"トイボックスAM2",type:"c",cost:95,hp:25,tec:2,tgh:3,main:{pwr:10,shl:480,rng:330,spd:480,itv:300},tunable:{mwp:1}}
 
-{id:80,name:"ガルスチールAM",auraStat:{str:1,tec:1,wlk:2,fly:2,tgh:-1},cost:35,hp:20,str:1,tec:1,wlk:2,fly:2,tgh:-1}
-{id:81,name:"ガルスチールAM2",main:{tec:100,pwr:8,shl:720,rng:330,spd:480,itv:180},tunable:{mwp:1},auraStat:{main:{tec:100,pwr:9,shl:720,rng:330,spd:480,itv:160},str:-1,tec:2,wlk:2,fly:2},cost:165,hp:20,str:-1,tec:2,wlk:2,fly:2,type:"c",size:"L"}
 
 {id:63,name:"マイトボンバーAM",main:{tec:100,pwr:5,shl:900,rng:250,spd:440,itv:140},tunable:{mwp:1},type:"a",cost:85,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,joint:{wp:0}}
 {id:64,name:"マイトボンバーAM2",main:{tec:100,pwr:25,shl:240,rng:275,spd:400,itv:720},tunable:{mwp:1},cost:115,hp:20,str:-1,tec:3,fly:2,type:"a",tgh:1,joint:{wp:0}}
@@ -254,10 +291,6 @@
 {id:1801,name:"アントリオンAM2",main:{tec:100,pwr:42,shl:50,rng:300,spd:360,itv:2000},tunable:{mwp:1},joint:{wp:0},cost:125,hp:20,tec:3,tgh:2,type:"c",size:"L"}
 {id:1802,name:"アントリオンAM3",main:{pwr:5,shl:640,rng:150,spd:400,itv:200},tunable:{mwp:1},type:"c",cost:85,hp:20,tec:2,wlk:2,tgh:1}
 
-{id:21,name:"ランサーロットAM",type:"l",cost:190,hp:25,str:3,tec:-1,wlk:1,tgh:2,sub:{str:100,pwr:28,shl:0,rng:120,spd:250,itv:1000},main:{str:100,pwr:13,shl:210,rng:250,spd:440,itv:160},tunable:{pwp:1,mwp:1},joint:{wp:0},comment:"無印、槍"}
-{id:23,name:"ランサーロットAM3",type:"l",cost:110,hp:25,str:4,tec:-1,tgh:2,sub:{str:100,pwr:34,rng:63,spd:76,itv:500},tunable:{pwp:1},joint:{wp:0},comment:"J、斧"}
-{id:24,name:"ランサーロットAM4",type:"l",cost:190,hp:25,str:2,tec:-1,wlk:2,fly:1,tgh:1,main:{str:100,pwr:14,shl:240,rng:225,spd:400,itv:520},sub:{str:100,pwr:30,rng:84,spd:102,itv:500},tunable:{mwp:1,pwp:1},joint:{wp:0},comment:"J、槍"}
-{id:49,name:"ランサーロットAM5",type:"l",cost:200,hp:25,str:3,tec:-1,wlk:2,tgh:1,sub:{str:100,pwr:48,rng:100,spd:150,itv:2000},tunable:{pwp:1},joint:{wp:0},comment:"K、剣"}
 
 {id:114,name:"ドラゴネイルAM",main:{pwr:12,shl:180,rng:225,spd:570,itv:340},sub:{pwr:29,shl:30,rng:70,spd:85,itv:500,str:100},tunable:{mwp:1,pwp:1},cost:145,hp:25,str:3,tec:-1,wlk:1,fly:1,tgh:1}
 {id:210,name:"ペルセシウスAM",main:{str:100,pwr:15,shl:30,rng:250,spd:570,itv:500},tunable:{mwp:1},type:"a",size:"M",cost:55,hp:25,str:3,tec:-1,fly:2,tgh:1}
@@ -279,39 +312,49 @@
 {id:290,name:"ドラッケンAM",cost:40,hp:25,str:3,wlk:1,fly:-1,tgh:2}
 {id:129,name:"ヘカトケレスAM",cost:115,hp:20,str:-1,tec:3,wlk:1,tgh:2,size:"L",type:"c",main:{tec:100,pwr:14,shl:360,rng:330,spd:370,itv:800},tunable:{mwp:1}}
 {id:140,name:"ヘカトケレスAM2",main:{tec:100,pwr:26,shl:210,rng:300,spd:320,itv:800},tunable:{mwp:1},type:"c",size:"L",cost:115,hp:20,str:-1,tec:4,fly:1,tgh:1,joint:{wp:0}}
-{id:77,name:"ラグナバレットAM",joint:{am:1},fixedParts:{am:{name:"ラグナバレットAM@",main:{tec:100,pwr:12,shl:200,rng:300,spd:400,itv:600},cost:30,slot:0,joint:{wp:0}}},type:"c",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2}
-{id:146,name:"ロッソアスピーデAM",main:{tec:100,pwr:4,shl:600,rng:275,spd:400,itv:300},tunable:{mwp:1},type:"a",size:"L",cost:70,hp:25,str:-1,tec:3,fly:3,comment:"ロッソアスピーデBD専用",joint:{wp:0}}
-{id:147,name:"ロッソアスピーデAM2",type:"lacs",size:"L",cost:40,hp:25,tec:2,wlk:-1,fly:2,tgh:2}
-{id:98,name:"クシュルブAM",sub:{str:100,pwr:33,rng:35,spd:43,itv:2000},tunable:{pwp:1},type:"l",cost:90,hp:20,str:3,wlk:1,fly:2,tgh:-1}
-{id:43,name:"ジオグラシスAM2",cost:35,hp:20,str:2,tec:2,wlk:-1,tgh:2,comment:"F型AM"}
-{id:61,name:"ジオグラシスAM4",cost:85,hp:20,tec:3,wlk:-1,fly:2,tgh:1,type:"a",main:{tec:100,pwr:10,shl:350,rng:275,spd:290,itv:1000},tunable:{mwp:1}}
-{id:35,name:"ジオグラシスAM",cost:35,hp:20,str:2,tec:1,wlk:2,fly:-1,tgh:1}
-{id:60,name:"ジオグラシスAM3",sub:{str:100,pwr:30,rng:80,spd:150,itv:2000},tunable:{pwp:1},type:"l",cost:105,hp:20,str:3,wlk:3,fly:-1}
 
-{id:118,name:"スチールバーンAM",main:{pwr:5,shl:600,rng:250,spd:480,itv:240},sub:{pwr:21,rng:120,spd:200,itv:500,tec:100},tunable:{mwp:1,pwp:1},type:"a",cost:130,hp:25,str:-1,tec:3,fly:2,tgh:1,comment:"-"}
 
-{id:119,name:"スチールバーンAM2",sub:{pwr:16,shl:140,rng:320,spd:230,itv:1000},type:"a",cost:80,hp:25,str:2,tec:2,wlk:-1,fly:1,tgh:1,comment:"未更新"}
 
-{id:139,name:"スチールバーンAM3",main:{pwr:9,shl:540,rng:275,spd:350,itv:300},tunable:{mwp:1},type:"a",size:"L",cost:120,hp:25,str:-1,tec:3,fly:1,tgh:2}
 
+
+
+
+
+{id:122,name:"バフデバスターAM",sub:{pwr:22,rng:150,spd:10,itv:1000,str:100},tunable:{pwp:1},cost:60,hp:20,str:1,fly:1,tgh:3}
+
+
+{id:13,name:"パルサーディオAM",cost:40,hp:25,str:2,wlk:1,tgh:2}
+
+{id:14,name:"ビッグマンテスAM",cost:35,hp:20,str:2,tec:1,tgh:2}
 {id:28,name:"ブレイズバロンAM3",type:"l",cost:170,hp:25,str:-1,tec:3,wlk:1,fly:1,tgh:1,sub:{tec:100,pwr:32,rng:150,spd:10,itv:1000},tunable:{pwp:1},joint:{wp:0}}
 
-{id:93,name:"ラクラボロスAM",cost:40,hp:25,str:1,tec:2,wlk:-1,fly:1,tgh:2}
-{id:37,name:"ドミクラウンAM",type:"l",cost:220,hp:25,str:4,tec:-1,wlk:1,tgh:1,main:{str:100,pwr:22,shl:150,rng:200,spd:400,itv:560},sub:{str:100,pwr:30,rng:70,spd:85,itv:2000},tunable:{mwp:1,pwp:1},joint:{wp:0}}
-{id:38,name:"ドミクラウンAM2",cost:40,hp:25,tec:2,fly:1,tgh:2}
-{id:39,name:"ドミクラウンAM3",type:"l",cost:240,hp:25,str:2,tec:-1,wlk:2,fly:1,tgh:1,main:{str:100,pwr:8,shl:800,rng:250,spd:400,itv:880},sub:{str:100,pwr:28,rng:70,spd:85,itv:500},tunable:{mwp:1,pwp:1},joint:{wp:0}}
-{id:95,name:"アーティラスAM",cost:40,hp:25,str:1,tec:1,wlk:1,fly:-1,tgh:3}
+
 {id:30,name:"ボイルデックAM",type:"c",cost:95,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,main:{pwr:7,shl:1050,rng:330,spd:440,itv:140},tunable:{mwp:1},joint:{wp:0}}
 {id:31,name:"ボイルデックAM2",type:"c",cost:95,hp:20,str:-1,tec:1,wlk:2,tgh:3,main:{pwr:9,shl:400,rng:160,spd:480,itv:100},tunable:{mwp:1}}
-{id:501,name:"コルディプスAM",cost:35,hp:20,str:1,tec:1,fly:1,tgh:2}
-{id:163,name:"サイクロテスAM3",type:"lacs",size:"L",cost:60,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2}
+
+
+{id:16,name:"マイティバインAM",type:"l",cost:135,hp:25,str:3,tec:-1,wlk:1,tgh:2,sub:{str:100,pwr:35,shl:40,rng:70,spd:85,itv:2000},tunable:{pwp:1},comment:"シールド耐久値60"}
+{id:17,name:"マイティバインAM2",type:"l",cost:80,hp:25,str:1,wlk:1,tgh:3,comment:"シールド耐久値60"}
+{id:19,name:"メガトンオーAM",cost:35,hp:20,str:2,tec:1,tgh:2}
+
+
+{id:77,name:"ラグナバレットAM",joint:{am:1},fixedParts:{am:{name:"ラグナバレットAM@",main:{tec:100,pwr:12,shl:200,rng:300,spd:400,itv:600},cost:30,slot:0,joint:{wp:0}}},type:"c",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2}
+
+{id:93,name:"ラクラボロスAM",cost:40,hp:25,str:1,tec:2,wlk:-1,fly:1,tgh:2}
+
+{id:21,name:"ランサーロットAM",type:"l",cost:190,hp:25,str:3,tec:-1,wlk:1,tgh:2,sub:{str:100,pwr:28,shl:0,rng:120,spd:250,itv:1000},main:{str:100,pwr:13,shl:210,rng:250,spd:440,itv:160},tunable:{pwp:1,mwp:1},joint:{wp:0},comment:"無印、槍"}
+{id:23,name:"ランサーロットAM3",type:"l",cost:110,hp:25,str:4,tec:-1,tgh:2,sub:{str:100,pwr:34,rng:63,spd:76,itv:500},tunable:{pwp:1},joint:{wp:0},comment:"J、斧"}
+{id:24,name:"ランサーロットAM4",type:"l",cost:190,hp:25,str:2,tec:-1,wlk:2,fly:1,tgh:1,main:{str:100,pwr:14,shl:240,rng:225,spd:400,itv:520},sub:{str:100,pwr:30,rng:84,spd:102,itv:500},tunable:{mwp:1,pwp:1},joint:{wp:0},comment:"J、槍"}
+{id:49,name:"ランサーロットAM5",type:"l",cost:200,hp:25,str:3,tec:-1,wlk:2,tgh:1,sub:{str:100,pwr:48,rng:100,spd:150,itv:2000},tunable:{pwp:1},joint:{wp:0},comment:"K、剣"}
+
+
 {id:159,name:"ランパーニルAM",type:"l",cost:55,hp:20,str:2,wlk:1,fly:-1,tgh:3,comment:"シールド有り、耐久値不明"}
-{id:94,name:"ギャスターAM2",main:{pwr:24,shl:240,rng:330,spd:270,itv:600},tunable:{mwp:1},type:"c",cost:135,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
-{id:115,name:"タイタンコイルAM",main:{pwr:4,shl:800,rng:225,spd:480,itv:100},sub:{pwr:24,shl:0,rng:100,spd:150,itv:2000},tunable:{mwp:1,pwp:1},joint:{wp:0},cost:110,hp:25,str:-1,tec:1,wlk:2,fly:1,tgh:2,comment:"-"}
-{id:14,name:"ビッグマンテスAM",cost:35,hp:20,str:2,tec:1,tgh:2}
 
 
-
+{id:1010,name:"ルペットAM",type:"lacs",size:"L",comment:"性能変更に伴いAM3と分離",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2}
+{id:1011,name:"ルペットAM3",type:"lacs",size:"L",comment:"性能変更に伴いAMと分離",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2}
+{id:146,name:"ロッソアスピーデAM",main:{tec:100,pwr:4,shl:600,rng:275,spd:400,itv:300},tunable:{mwp:1},type:"a",size:"L",cost:70,hp:25,str:-1,tec:3,fly:3,comment:"ロッソアスピーデBD専用",joint:{wp:0}}
+{id:147,name:"ロッソアスピーデAM2",type:"lacs",size:"L",cost:40,hp:25,tec:2,wlk:-1,fly:2,tgh:2}
 
 
 
