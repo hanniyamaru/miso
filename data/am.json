@@ -200,6 +200,8 @@
 
 
 {group:"UniＬサイズ",prefixID:"L",commonStat:{size:"L"},nextID:53}
+
+{id:9,name:"スチールライダーAM",cost:35,hp:20,str:2,tec:1,wlk:1,tgh:1}
 {id:531,name:"スチールライダーAM2",type:"l",cost:135,hp:20,str:-1,tec:3,wlk:1,tgh:2,main:{tec:100,pwr:5,shl:1400,rng:225,spd:400,itv:180},tunable:{mwp:1}}
 {id:108,name:"カタロスAM",type:"a",cost:40,hp:25,tec:3,fly:1,tgh:1,comment:"-"}
 {id:19,name:"メガトンオーAM",cost:35,hp:20,str:2,tec:1,tgh:2}
