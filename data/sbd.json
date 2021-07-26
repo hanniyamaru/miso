@@ -21,6 +21,7 @@
 
 {id:75,name:"A.L.E.ウィンベルBD",cost:525,hp:210,capa:815,str:5,tec:9,wlk:8,fly:7,tgh:8,sub:{pwr:2,itv:[1000]},cartridge:{hpup:18,lv1:"85*6@25|17@20|19@20|20@20|23@25|18@20|15@30|14@10|29@10|28@20|30@20|26@20|13@20|32@30|31@40"},fixedParts:{hd:{name:"A.L.E.ウィンベルHD",cost:40,hp:25,str:1,tec:2,wlk:1,tgh:1},lg:{name:"A.L.E.ウィンベルLG",cost:45,hp:25,str:-1,wlk:3,fly:1,tgh:2},wp:{name:"A.L.E.ウィンベルBD@",sub:{itv:1000},slot:3}},wbid:5,joint:{wp:1}}
 
+{id:1000,name:"トレタBD",joint:{am:0,wp:1,bs:1},cartridge:{hpup:35,lv1:"75*6@25|17@20|18@20|19@20|20@20|23@25|22@30|21@20|25@25|14@10|29@10|28@20|26@20|13@20|32@30|31@40"},fixedParts:{hd:{name:"トレタHD",cost:30,hp:15,str:2,tec:2,type:"s",size:"S"},lg:{name:"トレタLG",cost:40,hp:20,wlk:3,fly:1,size:"S",type:"s"}},size:"S",type:"s",cost:370,capa:675,hp:190,str:10,tec:10,wlk:14,fly:9,tgh:10,wbid:11}
 
 {id:33,name:"桜華・禿BD",cartridge:{hpup:25,lv1:"95*6@25|17@20|18@20|19@20|20@20|22@30|29@10|21@20|25@25|23@25|16@20|15@30|13@20|32@30|31@40"},cost:470,capa:635,hp:225,str:15,tec:5,wlk:13,fly:7,tgh:10,wbid:1,joint:{am:0,wp:2},fixedParts:{hd:{name:"桜華・禿HD",cost:35,hp:20,str:2,tec:1,fly:1,tgh:1},bs:{name:"桜華・禿BS",cost:35,hp:20,str:1,tec:1,fly:3},lg:{name:"桜華・禿LG",sub:{pwr:1,rng:43,spd:63,itv:600},cost:40,hp:20,str:1,wlk:3,tgh:1}},main:{pwr:0,shl:[80],rng:300,spd:[300],itv:[500]},sub:{shl:[20],rng:43,spd:63,itv:[1000]},comment:"回復量41、ハイショ陣、スクール桜華・禿共通"}
 
