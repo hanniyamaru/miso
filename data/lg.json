@@ -66,17 +66,39 @@
 
 {group:"Ｍサイズ",prefixID:"M",commonStat:{size:"M"},nextID:49}
 {id:1000,name:"アクシオンLG",cost:45,hp:25,str:1,tec:1,wlk:3,fly:2,tgh:-1}
-{id:76,name:"エスティスLG",type:"l",cost:45,hp:25,str:-1,tec:2,wlk:3,fly:1,tgh:1}
-{id:11,name:"ミカドマックスLG",cost:45,hp:25,tec:1,wlk:3,fly:1}
-{id:350,name:"バグジーケットLG",cost:45,hp:25,str:1,tec:2,wlk:3}
-{id:46,name:"サイコクラスターLG",cost:45,hp:25,str:1,tec:-1,wlk:2,fly:1,tgh:2}
-{id:107,name:"ラムダイバーLG",type:"lacs",cost:45,hp:25,tec:2,wlk:3,fly:1,tgh:-1,size:"M",fly:1,tgh:-1}
+
 {id:36,name:"アマテウスLG",cost:45,hp:25,tec:2,wlk:2,tgh:2}
+
+
+
 {id:71,name:"イニトォンLG",type:"a",cost:45,hp:25,tec:1,wlk:3,fly:1}
+{id:104,name:"インサネクトLG",type:"a",size:"M",cost:45,hp:25,tec:1,wlk:3,fly:2}
+{id:108,name:"ヴァリアントLG",sub:{str:100,shl:50,rng:0,spd:150,itv:1000},type:"a",size:"M",cost:65,hp:25,tec:2,wlk:3,fly:2,tgh:-1}
+{id:76,name:"エスティスLG",type:"l",cost:45,hp:25,str:-1,tec:2,wlk:3,fly:1,tgh:1}
+
+
+
+
+
+{id:11,name:"ミカドマックスLG",cost:45,hp:25,tec:1,wlk:3,fly:1}
+
+{id:350,name:"バグジーケットLG",cost:45,hp:25,str:1,tec:2,wlk:3}
+
+{id:46,name:"サイコクラスターLG",cost:45,hp:25,str:1,tec:-1,wlk:2,fly:1,tgh:2}
+
+{id:107,name:"ラムダイバーLG",type:"lacs",cost:45,hp:25,tec:2,wlk:3,fly:1,tgh:-1,size:"M",fly:1,tgh:-1}
+
+
+
+
 {id:72,name:"ルクスLG",cost:45,hp:25,str:1,wlk:2,fly:2,tgh:1}
+
 {id:12,name:"ガシマLG",cost:45,hp:25,str:1,tec:1,wlk:3,tgh:1}
+
 {id:45,name:"バンガードLG",cost:45,hp:25,str:2,tec:-1,wlk:3,tgh:2}
+
 {id:52,name:"バンガードLG2",cost:45,hp:25,str:1,wlk:3,fly:-1,tgh:3}
+
 
 {id:28,name:"イヅナカムイαLG",type:"a",cost:45,hp:25,str:1,wlk:3,fly:1,tgh:1,joint:{bs:1}}
 {id:32,name:"イヅナカムイαLG2",type:"a",cost:45,hp:25,tec:1,wlk:2,fly:1,tgh:1,joint:{bs:1}}
@@ -135,13 +157,25 @@
 {id:396,name:"ウィザメルLG",cost:45,hp:25,tec:1,wlk:2,fly:2,tgh:1}
 {id:66,name:"シノーリスLG",cost:45,hp:25,str:-1,tec:1,wlk:4,tgh:2}
 {id:134,name:"シノーリスLG2",sub:{str:100,pwr:25,shl:0,rng:80,spd:180,itv:4000},type:"l",cost:95,hp:25,str:1,wlk:4,fly:-1,tgh:2}
-{id:106,name:"ロビンハンターLG",cost:45,hp:25,tec:2,wlk:2,fly:2,size:"M"}
+
+
+
 {id:115,name:"シャドウキネシスLG",cost:45,hp:25,str:2,tec:1,wlk:2,fly:-1,tgh:2,size:"M",type:"lacs"}
+
 {id:122,name:"ソルブレンサーLG",type:"lacs",size:"M",cost:45,hp:25,str:2,wlk:3,fly:2,tgh:-1}
-{id:108,name:"ヴァリアントLG",sub:{str:100,shl:50,rng:0,spd:150,itv:1000},type:"a",size:"M",cost:65,hp:25,tec:2,wlk:3,fly:2,tgh:-1}
+
 {id:23,name:"ハイプリストルLG",cost:45,hp:25,wlk:3,fly:1,tgh:2}
-{id:104,name:"インサネクトLG",type:"a",size:"M",cost:45,hp:25,tec:1,wlk:3,fly:2}
+
+
+
 {id:82,name:"ギャスターLG",cost:45,hp:25,tec:2,wlk:3,fly:-1,tgh:2}
+
+{id:1,name:"パラボロイドLG",cost:40,hp:20,tec:1,wlk:3,fly:1}
+
+{id:106,name:"ロビンハンターLG",cost:45,hp:25,tec:2,wlk:2,fly:2,size:"M"}
+
+
+
 
 
 
