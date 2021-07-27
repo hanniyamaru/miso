@@ -80,7 +80,7 @@ lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|26@20|21@20|13@30|34@
 
 {id:22,name:"エースブレイバーBD",cost:505,capa:780,hp:210,str:7,tec:9,wlk:15,fly:7,tgh:7,main:{pwr:[5],shl:[1200],rng:225,spd:440,itv:200},cartridge:{hpup:18,lv1:"85*5@25|61*2@35|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|25@25|28@30|13@30|32@50|31@40"}}
 
-
+{id:427,name:"ペペンBD",cost:600,capa:675,hp:220,str:22,tec:8,wlk:30,fly:10,tgh:13,sub:{str:100,pwr:[26,30,34],rng:[77,84,102],spd:[94,102,110],itv:1500},wbid:14,cartridge:{hpup:35,lv1:"75*5@20|61*2@30|7@20|9@20|10@15|17@15|18@15||20@15|23@25|29@15|15@15|14@20|13@30|32@50|31@40"},joint:{hdac:1,fcac:1,hd:0,bs:0,am:0},builtin:{bs:1,lg:1}}
 
 
 
@@ -110,6 +110,7 @@ lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|26@20|21@20|13@30|34@
 
 
 {id:27,name:"でかペペンBD",cost:660,capa:765,hp:305,str:26,tec:8,wlk:26,fly:10,tgh:19,sub:{str:100,pwr:[28],rng:63,spd:77,itv:1500},wbid:14,cartridge:{hpup:30,lv1:"3*5@20|60*2@30|7@20|9@20|10@15|17@15|18@15||20@15|23@25|29@15|15@15|14@20|13@30|32@50|31@40"},joint:{hdac:1,fcac:1,hd:0,bs:0,am:0},builtin:{bs:1,lg:1}}
+
 {id:540,name:"でかマニモBD",cost:525,capa:765,hp:305,str:22,tec:9,wlk:26,fly:10,tgh:14,wbid:14,cartridge:{hpup:30,lv1:"3*5@20|60*2@30|7@20|9@20|10@15|17@15|18@15||20@15|23@25|29@15|15@15|14@20|13@30|32@50|31@40"},joint:{hdac:1,fcac:1,hd:0,bs:0,am:0,wp:1},builtin:{bs:1,lg:1},fixedParts:{wp:{name:"でかマニモBD@",sub:{str:100,pwr:[30],rng:56,spd:68,itv:1500},tunable:{pwp:1},cost:100,slot:3}}}
 
 {id:538,name:"キングペペンBD",main:{str:100,pwr:5,shl:600,rng:180,spd:480,itv:100},sub:{str:100,pwr:8,rng:30,spd:62,itv:1000},builtin:{bs:1},cartridge:{hpup:30,lv1:"3*5@20|60*2@35|7@20|9@20|10@15|17@15|18@15||20@15|23@25|29@15|15@15|14@20|13@30|32@50|31@40"},fixedParts:{lg:{name:"キングペペンLG",size:"M",type:"l",cost:45,hp:25,wlk:3,tgh:2}},cost:680,capa:745,hp:250,str:30,tec:6,wlk:26,fly:9,tgh:18,wbid:1,comment:["-"],joint:{hd:0,bs:0,am:0,wp:0,hdac:1,fcac:1}}
