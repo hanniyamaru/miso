@@ -120,21 +120,49 @@
 
 {group:"UniＭサイズ",prefixID:"M",commonStat:{size:"M"},nextID:49}
 
-
+{id:99,name:"アーティラスBS",type:"c",cost:40,hp:25,tec:1,wlk:1,fly:3}
 
 {id:1000,name:"アクシオンBS",type:"l",cost:45,hp:25,tec:2,wlk:1,fly:3,tgh:-1}
-{id:88,name:"エスティスBS",type:"l",cost:40,hp:20,tec:2,wlk:2,fly:2,tgh:-1}
-{id:103,name:"ルペットBS",type:"l",cost:40,hp:20,str:-1,tec:1,wlk:1,fly:3,tgh:1}
-{id:2,name:"ミカドマックスBS",type:"l",cost:40,hp:25,str:2,fly:2,tgh:1}
-{id:77,name:"バグジーケットBS",type:"s",cost:140,hp:25,tec:1,wlk:-1,fly:3,tgh:2,sub:{pwr:20,shl:90,rng:275,spd:250,itv:1000}}
-{id:6,name:"バルテオンBS",type:"a",cost:40,hp:25,str:-1,tec:1,fly:3,tgh:2}
-{id:46,name:"サイコクラスターBS",type:"a",cost:40,hp:25,str:1,tec:2,fly:3,tgh:-1}
-{id:143,name:"ラムダイバーBS",sub:{shl:10,itv:500},type:"a",size:"M",cost:70,hp:25,fly:4,tgh:1,comment:["使用すると落下が低速になり、スウェーのような空中ダッシュアクションが使えるようになる。","。"]}
 {id:34,name:"アマテウスBS",type:"c",cost:40,hp:25,str:1,tec:2,wlk:-1,fly:3}
+
+{id:158,name:"インサネクトBS",cost:35,hp:20,str:2,wlk:1,fly:3,tgh:-1,type:"a",size:"M"}
+
+{id:144,name:"ヴァリアントBS",main:{tec:100,pwr:9,shl:480,rng:275,spd:350,itv:340},tunable:{mwp:1},type:"a",size:"M",cost:35,hp:20,str:-1,tec:2,fly:3,tgh:1}
+
+{id:88,name:"エスティスBS",type:"l",cost:40,hp:20,tec:2,wlk:2,fly:2,tgh:-1}
+
+
+{id:98,name:"ギャスターBS",type:"c",cost:40,hp:25,wlk:1,fly:3,tgh:2}
+
+
+{id:445,name:"シャドウキネシスBS",main:{pwr:5,shl:900,rng:275,spd:400,itv:1000},tunable:{mwp:1},type:"a",size:"M",cost:160,hp:20,str:-1,tec:2,fly:3,tgh:1,joint:{bs:1},comment:"シャドウキネシスBS＠のみ接続可能"}
+{id:446,name:"シャドウキネシスBS@",sub:{tec:100,pwr:0,shl:0,rng:275,spd:10,itv:1000},cost:20,size:"M",type:"a"}
+
+
+{id:180,name:"ソルブレンサーBS",type:"l",size:"M",cost:40,hp:25,str:1,tec:1,wlk:1,fly:2}
+
+
+
+{id:2,name:"ミカドマックスBS",type:"l",cost:40,hp:25,str:2,fly:2,tgh:1}
+
+{id:77,name:"バグジーケットBS",type:"s",cost:140,hp:25,tec:1,wlk:-1,fly:3,tgh:2,sub:{pwr:20,shl:90,rng:275,spd:250,itv:1000}}
+
+{id:6,name:"バルテオンBS",type:"a",cost:40,hp:25,str:-1,tec:1,fly:3,tgh:2}
+
+{id:46,name:"サイコクラスターBS",type:"a",cost:40,hp:25,str:1,tec:2,fly:3,tgh:-1}
+
+{id:143,name:"ラムダイバーBS",sub:{shl:10,itv:500},type:"a",size:"M",cost:70,hp:25,fly:4,tgh:1,comment:["使用すると落下が低速になり、スウェーのような空中ダッシュアクションが使えるようになる。","。"]}
+
+
 {id:83,name:"ルクスBS",cost:40,hp:25,str:1,tec:1,fly:4,tgh:-1,type:"a"}
+
 {id:11,name:"ガシマBS",type:"c",cost:40,hp:20,str:-1,tec:1,fly:3,tgh:2}
+
 {id:44,name:"バンガードBS",type:"l",cost:40,hp:25,str:-1,tec:2,fly:3,tgh:1}
+
 {id:55,name:"バンガードBS2",type:"l",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:2,tgh:2}
+
+
 
 
 {id:300,name:"フェアリスBS",type:"a",cost:60,hp:25,wlk:2,fly:3,comment:["コンバージョン複合"],sub:{str:100,pwr:0,shl:40,rng:0,spd:160,itv:1000},tunable:{pwp:1}}
@@ -192,19 +220,23 @@
 {id:105,name:"セバーレイスタッグBS",type:"a",cost:40,hp:25,str:2,tec:-1,fly:3,tgh:1}
 {id:22,name:"マリルマーチαBS",type:"c",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:3,tgh:1}
 
-{id:444,name:"ライオスBS",type:"l",cost:40,hp:25,str:1,fly:3,tgh:1}
+
 {id:175,name:"ウィザメルBS",sub:{pwr:1,shl:35,rng:150,spd:180,itv:1000},cost:65,hp:20,tec:2,wlk:1,fly:3,tgh:-1,type:"a",size:"M"}
 {id:75,name:"シノーリスBS",type:"l",cost:35,hp:20,str:2,tec:-1,wlk:1,fly:3}
 {id:135,name:"シノーリスBS2",sub:{tec:100,pwr:13,shl:180,rng:250,spd:300,itv:1000},type:"l",size:"M",cost:65,hp:20,str:-1,tec:1,wlk:2,fly:3}
+
+
+
+{id:13,name:"パラボロイドBS",type:"s",cost:35,hp:20,str:1,tec:1,fly:3}
+
+{id:444,name:"ライオスBS",type:"l",cost:40,hp:25,str:1,fly:3,tgh:1}
+
+{id:103,name:"ルペットBS",type:"l",cost:40,hp:20,str:-1,tec:1,wlk:1,fly:3,tgh:1}
+
 {id:141,name:"ロビンハンターBS",sub:{pwr:10,shl:20,rng:100,spd:340,itv:1000},cost:50,hp:20,str:-1,tec:2,wlk:1,fly:3,size:"M",type:"l"}
 
-{id:445,name:"シャドウキネシスBS",main:{pwr:5,shl:900,rng:275,spd:400,itv:1000},tunable:{mwp:1},type:"a",size:"M",cost:160,hp:20,str:-1,tec:2,fly:3,tgh:1,joint:{bs:1},comment:"シャドウキネシスBS＠のみ接続可能"}
-{id:446,name:"シャドウキネシスBS@",sub:{tec:100,pwr:0,shl:0,rng:275,spd:10,itv:1000},cost:20,size:"M",type:"a"}
-{id:99,name:"アーティラスBS",type:"c",cost:40,hp:25,tec:1,wlk:1,fly:3}
-{id:180,name:"ソルブレンサーBS",type:"l",size:"M",cost:40,hp:25,str:1,tec:1,wlk:1,fly:2}
-{id:144,name:"ヴァリアントBS",main:{tec:100,pwr:9,shl:480,rng:275,spd:350,itv:340},tunable:{mwp:1},type:"a",size:"M",cost:35,hp:20,str:-1,tec:2,fly:3,tgh:1}
-{id:158,name:"インサネクトBS",cost:35,hp:20,str:2,wlk:1,fly:3,tgh:-1,type:"a",size:"M"}
-{id:98,name:"ギャスターBS",type:"c",cost:40,hp:25,wlk:1,fly:3,tgh:2}
+
+
 
 
 
