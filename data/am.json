@@ -95,6 +95,7 @@
 
 {id:115,name:"ヤクシャAM",cost:35,hp:20,str:2,tec:1,wlk:-1,fly:2,tgh:1}
 
+{id:41,name:"ラズフラムαAM",cost:35,hp:20,str:1,tec:1,wlk:1,tgh:2}
 
 {id:126,name:"リフィAM",cost:35,hp:20,str:1,tec:1,wlk:2,fly:1}
 
@@ -110,7 +111,7 @@
 {id:107,name:"A.L.E.リリレインAM",cost:35,hp:20,str:1,tec:3,fly:1}
 {id:108,name:"A.L.E.ジークンロンAM",cost:75,hp:20,str:2,tec:-1,wlk:2,tgh:2,type:"l",sub:{pwr:26,rng:70,spd:85,itv:500,str:100},tunable:{pwp:1}}
 {id:146,name:"A.L.E.ラズフラムAM",cost:35,hp:20,str:2,tec:2,wlk:2,fly:-1,type:"lacs",size:"S"}
-{id:147,name:"A.L.E.ラズフラムAM2",main:{pwr:9,shl:600,rng:225,spd:440,itv:200},type:"l",size:"S",cost:105,hp:20,tec:3,wlk:1,fly:-1,tgh:2,tunable:{mwp:1},joint:{wp:0}}{id:41,name:"ラズフラムαAM",cost:35,hp:20,str:1,tec:1,wlk:1,tgh:2}
+{id:147,name:"A.L.E.ラズフラムAM2",main:{pwr:9,shl:600,rng:225,spd:440,itv:200},type:"l",size:"S",cost:105,hp:20,tec:3,wlk:1,fly:-1,tgh:2,tunable:{mwp:1},joint:{wp:0}}
 
 {id:163,name:"K・ノンナAM",type:"c",size:"S",cost:35,hp:20,tec:2,wlk:2,fly:1}
 
