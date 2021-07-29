@@ -123,7 +123,7 @@
 
 {id:155,name:"ゼロナイトキャリバー",sub:{str:100,pwr:28,shl:200,rng:70,spd:75,itv:2000},tunable:{pwp:1},type:"a",size:"M",cost:160}
 {id:35,name:"フウジンケン",sub:{str:100,pwr:30,rng:70,spd:85,itv:1000},tunable:{pwp:1},type:"a",size:"M",cost:120}
-
+{id:200,name:"虎咆拳",sub:{str:100,pwr:30,shl:0,rng:100,spd:350,itv:1500},type:"l",size:"M",cost:100,tunable:{pwp:1}}
 
 
 
