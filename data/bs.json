@@ -184,7 +184,7 @@
 {id:35,name:"ガンアームズBS",type:"c",cost:70,hp:25,str:-1,tec:2,fly:3,tgh:1,joint:{bs:1},fixedParts:{bs:{name:"ガンアームズBS@",main:{pwr:16,shl:200,rng:350,spd:520,itv:900},tunable:{mwp:1},slot:0}}}
 {id:52,name:"ビャッコウBS",type:"l",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:2,tgh:2}
 {id:47,name:"セイロンBS",cost:40,hp:25,str:1,tec:1,fly:3,type:"a",comment:"AURA機構省略"}
-{id:48,name:"スゼクBS",cost:120,hp:25,str:2,wlk:-1,fly:4,type:"a",main:{str:100,pwr:5,shl:460,rng:275,spd:350,itv:900},sub:{pwr:26,rng:90,spd:200,itv:1000,str:100},tunable:{mwp:1},comment:"AURA機構省略"}
+{id:48,name:"スゼクBS",cost:120,hp:25,str:2,wlk:-1,fly:4,type:"a",main:{str:100,pwr:5,shl:460,rng:275,spd:350,itv:900},sub:{pwr:26,rng:90,spd:200,itv:1000,str:100},tunable:{mwp:1,pwp:1},comment:"AURA機構省略"}
 {id:51,name:"ゲンブラBS",type:"c",cost:40,hp:25,str:1,tec:1,wlk:-1,fly:2,tgh:2}
 {id:30,name:"パシファールBS",type:"a",cost:40,hp:25,str:1,tec:1,fly:3}
 {id:33,name:"レイスタッグBS",type:"a",cost:40,hp:25,str:2,tec:2,wlk:-1,fly:3,tgh:-1}
