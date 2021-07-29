@@ -121,6 +121,21 @@
 
 
 {group:"Ｍサイズ",prefixID:"M",commonStat:{size:"M"},nextID:49}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {id:1000,name:"アクシオンLG",cost:45,hp:25,str:1,tec:1,wlk:3,fly:2,tgh:-1}
 
 {id:36,name:"アマテウスLG",cost:45,hp:25,tec:2,wlk:2,tgh:2}
@@ -130,30 +145,53 @@
 {id:71,name:"イニトォンLG",type:"a",cost:45,hp:25,tec:1,wlk:3,fly:1}
 {id:104,name:"インサネクトLG",type:"a",size:"M",cost:45,hp:25,tec:1,wlk:3,fly:2}
 {id:108,name:"ヴァリアントLG",sub:{str:100,shl:50,rng:0,spd:150,itv:1000},type:"a",size:"M",cost:65,hp:25,tec:2,wlk:3,fly:2,tgh:-1}
+{id:396,name:"ウィザメルLG",cost:45,hp:25,tec:1,wlk:2,fly:2,tgh:1}
+
+
+
 {id:76,name:"エスティスLG",type:"l",cost:45,hp:25,str:-1,tec:2,wlk:3,fly:1,tgh:1}
-
-
-
-
-
-{id:11,name:"ミカドマックスLG",cost:45,hp:25,tec:1,wlk:3,fly:1}
-
-{id:350,name:"バグジーケットLG",cost:45,hp:25,str:1,tec:2,wlk:3}
-
-{id:46,name:"サイコクラスターLG",cost:45,hp:25,str:1,tec:-1,wlk:2,fly:1,tgh:2}
-
-{id:107,name:"ラムダイバーLG",type:"lacs",cost:45,hp:25,tec:2,wlk:3,fly:1,tgh:-1,size:"M",fly:1,tgh:-1}
-
-
-
-
-{id:72,name:"ルクスLG",cost:45,hp:25,str:1,wlk:2,fly:2,tgh:1}
 
 {id:12,name:"ガシマLG",cost:45,hp:25,str:1,tec:1,wlk:3,tgh:1}
 
-{id:45,name:"バンガードLG",cost:45,hp:25,str:2,tec:-1,wlk:3,tgh:2}
+{id:82,name:"ギャスターLG",cost:45,hp:25,tec:2,wlk:3,fly:-1,tgh:2}
 
-{id:52,name:"バンガードLG2",cost:45,hp:25,str:1,wlk:3,fly:-1,tgh:3}
+{id:16,name:"ゴースレイダーLG",type:"a",cost:45,hp:25,str:1,wlk:3,tgh:1}
+{id:53,name:"ゴースレイダーLG2",type:"a",cost:45,hp:25,tec:1,wlk:2,fly:2}
+
+{id:393,name:"ゴートランLG",type:"l",size:"M",cost:65,hp:25,str:1,tec:-1,wlk:3,fly:2,tgh:1,sub:{str:100,pwr:0,rng:120,spd:200,itv:1000},tunable:{pwp:0}}
+
+{id:321,name:"コルディプスLG",cost:45,hp:35,tec:2,wlk:2,tgh:2}
+
+
+{id:46,name:"サイコクラスターLG",cost:45,hp:25,str:1,tec:-1,wlk:2,fly:1,tgh:2}
+
+{id:66,name:"シノーリスLG",cost:45,hp:25,str:-1,tec:1,wlk:4,tgh:2}
+{id:134,name:"シノーリスLG2",sub:{str:100,pwr:25,shl:0,rng:80,spd:180,itv:4000},type:"l",cost:95,hp:25,str:1,wlk:4,fly:-1,tgh:2}
+
+{id:115,name:"シャドウキネシスLG",cost:45,hp:25,str:2,tec:1,wlk:2,fly:-1,tgh:2,size:"M",type:"lacs"}
+{id:101,name:"シンビジウムLG2",cost:40,hp:25,tec:2,wlk:3,fly:1}
+
+{id:7,name:"スコルタンLG",cost:45,hp:25,str:1,tec:1,wlk:3}
+
+{id:87,name:"セバーレイスタッグLG",cost:45,hp:25,tec:2,wlk:3,tgh:1}
+
+{id:122,name:"ソルブレンサーLG",type:"lacs",size:"M",cost:45,hp:25,str:2,wlk:3,fly:2,tgh:-1}
+
+
+
+
+{id:13,name:"デジトロイドLG",cost:45,hp:25,str:2,wlk:3,tgh:1}
+{id:10,name:"テツジンガーLG",cost:45,hp:25,str:1,wlk:3,fly:-1,tgh:2}
+
+
+
+
+
+
+
+
+
+
 
 
 {id:28,name:"イヅナカムイαLG",type:"a",cost:45,hp:25,str:1,wlk:3,fly:1,tgh:1,joint:{bs:1}}
@@ -194,41 +232,63 @@
 {id:14,name:"ホバリオンLG",cost:45,hp:30,str:-1,tec:1,wlk:3,fly:1,tgh:1}
 {id:33,name:"ホバリオン・マグナLG",cost:50,hp:35,str:-1,tec:1,wlk:2,fly:2,tgh:2}
 {id:4,name:"マッハナイトLG",cost:45,hp:25,wlk:3,fly:1,tgh:1}
-{id:10,name:"テツジンガーLG",cost:45,hp:25,str:1,wlk:3,fly:-1,tgh:2}
-{id:16,name:"ゴースレイダーLG",type:"a",cost:45,hp:25,str:1,wlk:3,tgh:1}
-{id:53,name:"ゴースレイダーLG2",type:"a",cost:45,hp:25,tec:1,wlk:2,fly:2}
-{id:101,name:"シンビジウムLG2",cost:40,hp:25,tec:2,wlk:3,fly:1}
-{id:7,name:"スコルタンLG",cost:45,hp:25,str:1,tec:1,wlk:3}
-{id:13,name:"デジトロイドLG",cost:45,hp:25,str:2,wlk:3,tgh:1}
-{id:2,name:"ビクトリーLG",cost:40,hp:20,str:1,wlk:3,tgh:1}
-{id:393,name:"ゴートランLG",type:"l",size:"M",cost:65,hp:25,str:1,tec:-1,wlk:3,fly:2,tgh:1,sub:{str:100,pwr:0,rng:120,spd:200,itv:1000},tunable:{pwp:0}}
-{id:394,name:"ブリンクLG",cost:45,hp:25,tec:2,wlk:3,fly:1}
-{id:86,name:"ヘラクビートランダーLG",cost:45,hp:25,str:1,tec:1,wlk:2,tgh:2}
-{id:87,name:"セバーレイスタッグLG",cost:45,hp:25,tec:2,wlk:3,tgh:1}
-{id:24,name:"マリルマーチαLG",cost:45,hp:25,tec:2,wlk:2,tgh:1}
-
-{id:395,name:"ライオスLG",cost:45,hp:25,str:1,wlk:3,tgh:2}
-
-{id:69,name:"フラップジャックLG",sub:{pwr:0,shl:100,rng:100,spd:180,itv:1000},tunable:{mwp:1},auraStat:{main:{tec:100,pwr:10,shl:530,rng:275,spd:280,itv:760},sub:{pwr:0,shl:100,rng:100,spd:180,itv:1000}},type:"a",cost:115,hp:25,tec:1,wlk:3,fly:1,tgh:1,main:{pwr:8,shl:530,rng:275,spd:280,itv:760}}
-{id:396,name:"ウィザメルLG",cost:45,hp:25,tec:1,wlk:2,fly:2,tgh:1}
-{id:66,name:"シノーリスLG",cost:45,hp:25,str:-1,tec:1,wlk:4,tgh:2}
-{id:134,name:"シノーリスLG2",sub:{str:100,pwr:25,shl:0,rng:80,spd:180,itv:4000},type:"l",cost:95,hp:25,str:1,wlk:4,fly:-1,tgh:2}
 
 
 
-{id:115,name:"シャドウキネシスLG",cost:45,hp:25,str:2,tec:1,wlk:2,fly:-1,tgh:2,size:"M",type:"lacs"}
 
-{id:122,name:"ソルブレンサーLG",type:"lacs",size:"M",cost:45,hp:25,str:2,wlk:3,fly:2,tgh:-1}
+
+
+
+
+
+
+
 
 {id:23,name:"ハイプリストルLG",cost:45,hp:25,wlk:3,fly:1,tgh:2}
 
 
-
-{id:82,name:"ギャスターLG",cost:45,hp:25,tec:2,wlk:3,fly:-1,tgh:2}
+{id:350,name:"バグジーケットLG",cost:45,hp:25,str:1,tec:2,wlk:3}
 
 {id:1,name:"パラボロイドLG",cost:40,hp:20,tec:1,wlk:3,fly:1}
+{id:45,name:"バンガードLG",cost:45,hp:25,str:2,tec:-1,wlk:3,tgh:2}
+{id:52,name:"バンガードLG2",cost:45,hp:25,str:1,wlk:3,fly:-1,tgh:3}
+{id:2,name:"ビクトリーLG",cost:40,hp:20,str:1,wlk:3,tgh:1}
 
+
+{id:69,name:"フラップジャックLG",sub:{pwr:0,shl:100,rng:100,spd:180,itv:1000},tunable:{mwp:1},auraStat:{main:{tec:100,pwr:10,shl:530,rng:275,spd:280,itv:760},sub:{pwr:0,shl:100,rng:100,spd:180,itv:1000}},type:"a",cost:115,hp:25,tec:1,wlk:3,fly:1,tgh:1,main:{pwr:8,shl:530,rng:275,spd:280,itv:760}}
+{id:86,name:"ヘラクビートランダーLG",cost:45,hp:25,str:1,tec:1,wlk:2,tgh:2}
+{id:394,name:"ブリンクLG",cost:45,hp:25,tec:2,wlk:3,fly:1}
+
+{id:24,name:"マリルマーチαLG",cost:45,hp:25,tec:2,wlk:2,tgh:1}
+
+
+{id:11,name:"ミカドマックスLG",cost:45,hp:25,tec:1,wlk:3,fly:1}
+
+
+
+{id:395,name:"ライオスLG",cost:45,hp:25,str:1,wlk:3,tgh:2}
+
+{id:107,name:"ラムダイバーLG",type:"lacs",cost:45,hp:25,tec:2,wlk:3,fly:1,tgh:-1,size:"M",fly:1,tgh:-1}
+{id:72,name:"ルクスLG",cost:45,hp:25,str:1,wlk:2,fly:2,tgh:1}
 {id:106,name:"ロビンハンターLG",cost:45,hp:25,tec:2,wlk:2,fly:2,size:"M"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -308,7 +368,17 @@
 {id:77,name:"ザリドLG",cost:45,hp:50,wlk:4,fly:-1,tgh:3,type:"l"}
 {id:68,name:"アーティラスLG",sub:{pwr:23,rng:120,spd:250,itv:1000,tec:100},tunable:{pwp:1},cost:90,hp:25,str:-1,tec:3,wlk:3,tgh:1,comment:"-"}
 {id:25,name:"ボイルデックLG",cost:45,hp:25,str:2,wlk:3,fly:1}
-{id:321,name:"コルディプスLG",cost:45,hp:35,tec:2,wlk:2,tgh:2}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
