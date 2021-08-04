@@ -3,9 +3,8 @@
 
 {group:"UniＳ陸",prefixID:"LS",commonStat:{size:"S",type:"l"},nextID:35}
 
+{id:124,name:"カエデBD",joint:{wp:2},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|16@20|21@20|13@30|34@15|32@50|31@40"},fixedParts:{hd:{name:"カエデHD",cost:40,hp:25,str:2,wlk:2,fly:1},lg:{name:"カエデLG",cost:45,hp:25,str:3,wlk:2,fly:1},am:[{name:"カエデAM",cost:60,hp:25,str:2,wlk:2,tgh:1,joint:{wp:1}},{name:"カエデAM2",cost:40,hp:25,str:2,wlk:2,tgh:1,joint:{wp:0}}]},type:"l",size:"S",cost:445,capa:900,hp:225,str:15,tec:5,wlk:12,fly:8,tgh:8,builtin:{bs:1}}
 
-
-{id:124,name:"カエデBD",joint:{wp:2},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|16@20|21@20|13@30|34@15|32@50|31@40"},fixedParts:{hd:{name:"カエデHD",cost:40,hp:25,str:2,wlk:2,fly:1},lg:{name:"カエデLG",cost:45,hp:25,str:3,wlk:2,fly:1},am:[{name:"カエデAM",cost:60,hp:25,str:2,wlk:2,tgh:1,joint:{wp:1}},{name:"カエデAM2",cost:40,hp:25,str:2,wlk:2,tgh:1,joint:{wp:0}}]},cost:450,type:"l",size:"S",slot:0},{type:"l",size:"S",cost:445,capa:900,hp:225,str:15,tec:5,wlk:12,fly:8,tgh:8,builtin:{bs:1}}
 
 
 {id:84,name:"ラズフラムSptBD",cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|46@15|20@15|23@25|21@20|22@30|13@30|34@15|32@50|31@40"},type:"l",size:"S",wbid:8,cost:485,capa:900,hp:250,str:7,tec:10,wlk:17,fly:12,tgh:7,builtin:{bs:1},fixedParts:{hd:{name:"ラズフラムSptHD",cost:40,hp:25,str:1,tec:2,wlk:1,fly:1,type:"l",size:"S"},wp:["W1","W1"],lg:{sub:{pwr:0,shl:20,rng:0,spd:140,itv:1000},tunable:{pwp:0},builtin:{lg:1},name:"ラズフラムSptLG",cost:85,hp:25,tec:1,wlk:3,tgh:2,size:"S",type:"l",tunable:{pwp:1},comment:["5秒間スピードアップ+ブーストランニングフリー","約110秒チャージ保持可能"]},am:[{name:"ラズフラムSptAM",cost:40,hp:25,str:1,wlk:2,tgh:2,size:"S",type:"l"},{name:"ラズフラムSptAM",cost:40,hp:25,str:1,wlk:2,tgh:2,size:"S",type:"l"}]},joint:{bs:0,wp:2},comment:"ラズのプリーツスカートは省略"}
