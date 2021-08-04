@@ -11,6 +11,9 @@
 {id:45,name:"ボルカニクスBS",cost:35,hp:20,wlk:2,fly:3}
 {id:40,name:"テントリオンBS",size:"S",cost:35,hp:20,tec:1,wlk:-1,fly:3,tgh:2}
 {id:22,name:"エースブレイバーBS",size:"S",cost:40,hp:25,wlk:1,fly:3,tgh:1}
+{id:111,name:"アビス・ジークンフーBS",size:"S",cost:35,hp:20,str:3,tec:-1,fly:2,tgh:1}
+{id:112,name:"クロエBS",size:"S",cost:35,hp:20,str:-1,tec:3,fly:2,tgh:1}
+
 {id:122,name:"サイバーステップロゴBSα",cost:30,hp:15,tec:1,fly:3}
 {id:124,name:"サイバーステップロゴBSβ",cost:30,hp:15,wlk:1,fly:3}
 {id:125,name:"サイバーステップロゴBSγ",cost:30,hp:15,str:1,fly:3}
