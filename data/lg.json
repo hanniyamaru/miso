@@ -385,7 +385,7 @@
 
 
 {group:"UniLLサイズ",prefixID:"LL",commonStat:{size:"L"},nextID:999}
-
+{id:9,name:"イルグリプスLG",builtin:{bs:1},joint:{bs:1},type:"a",cost:45,hp:55,str:-1,tec:2,wlk:2,fly:2,tgh:1}
 {id:6,name:"ガデロガLG",joint:{bs:1},cost:45,hp:65,str:-1,tec:-1,wlk:4,fly:1,tgh:3}
 
 {id:15,name:"サイクロテスLG2",sub:{str:100,pwr:30,rng:100,spd:250,itv:3000},tunable:{pwp:1},type:"l",size:"LL",cost:160,hp:75,str:2,wlk:2,fly:-1,tgh:3}
