@@ -60,6 +60,8 @@
 {id:45,name:"スクイドルガールαBS",type:"s",cost:40,hp:25,str:2,tec:1,wlk:-1,fly:3}
 {id:160,name:"アレスターBS",type:"s",cost:40,hp:25,str:1,wlk:2,fly:2,size:"S"}
 {id:77,name:"シルビアBS",type:"l",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:2,tgh:2}
+{id:105,name:"シルビアBS2",type:"l",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:3,tgh:1}
+
 {id:108,name:"ナターシャBS",type:"c",cost:40,hp:25,wlk:-1,fly:3,tgh:3}
 {id:6,name:"ジークンαBS",type:"l",cost:40,hp:25,str:2,tec:-1,fly:3,tgh:1}
 {id:102,name:"アルテリスBS",type:"l",cost:40,hp:25,tec:-1,wlk:1,fly:3,tgh:2}
