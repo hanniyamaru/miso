@@ -37,5 +37,7 @@
 {group:"WP",prefixID:"W",nextID:1}
 {id:1,name:"メモリ・スロット",size:"M",type:"lacs",slot:3,comment:["-"],comment:["-"]}
 
+{id:2,name:"桃魂",sub:{pwr:32,shl:15,rng:180,spd:300,itv:500,str:100},cost:60,tunable:{pwp:1}}}
 
+{id:3,name:"桃魂＠",main:{shl:5,rng:300,spd:10,itv:1000},slot:0}}
 
