@@ -319,7 +319,7 @@
 {id:1801,name:"アントリオンAM2",main:{tec:100,pwr:42,shl:50,rng:300,spd:360,itv:2000},tunable:{mwp:1},joint:{wp:0},cost:125,hp:20,tec:3,tgh:2,type:"c",size:"L"}
 {id:1802,name:"アントリオンAM3",main:{pwr:5,shl:640,rng:150,spd:400,itv:200},tunable:{mwp:1},type:"c",cost:85,hp:20,tec:2,wlk:2,tgh:1}
 
-
+{id:83,name:"イルグリプスAM",cost:35,hp:20,str:1,tec:1,fly:1,tgh:2}
 {id:111,name:"ウォーダスAM2",cost:35,hp:20,str:2,tec:-1,wlk:1,fly:2,tgh:1}
 {id:104,name:"ヴォルフライエAM",cost:40,hp:25,tec:3,fly:1,wlk:1}
 
