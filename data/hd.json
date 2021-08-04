@@ -96,6 +96,7 @@
 
 
 {id:174,name:"イニトォンHD",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:3}
+{id:191,name:"イルグリプスHD",cost:35,hp:20,str:-1,tec:2,fly:1,tgh:3}
 
 {id:276,name:"インサネクトHD",cost:35,hp:20,tec:1,wlk:1,tgh:3,size:"M"}
 
