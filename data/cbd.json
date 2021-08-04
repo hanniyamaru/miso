@@ -167,8 +167,7 @@
 
 {id:14,name:"ホバリオン・マグナBD",cost:605,capa:870,hp:290,str:6,tec:17,wlk:8,fly:7,tgh:10,main:{pwr:[11],shl:[900],rng:[350,365,380],spd:[440],itv:340},wbid:4,cartridge:{hpup:14,lv1:"4*5@20|61*2@30|7@20|10@20|8@15|19@20|18@20|20@15|23@25|25@25|21@20|30@20|13@30|32@40|31@40"}}
 
-{id:42,name:"ヘルトカイゼルBD",main:{pwr:26,shl:200,rng:300,spd:320,itv:800},cartridge:{hpup:10,lv1:"75*6@20|7@20|10@20|8@15|18@20|19@20|20@15|23@25|29@15|11@20|26@10|21@20|13@30|32@40|31@40"},comment:"-",cost:550,capa:980,hp:305,str:4,tec:12,wlk:9,fly:8,tgh:10,size:"L",type:"c",fixedParts:{bs:{name:"ヘルトカイゼルBS",main:{pwr:13,shl:440,rng:330,spd:290,itv:900},sub:{tec:100,pwr:25,rng:350,spd:480,itv:1000},tunable:{mwp:1},builtin:{bs:1},type:"c",size:"L",cost:95,hp:20,str:-1,tec:4,fly:2}}}
-
+{id:42,name:"ヘルトカイゼルBD",main:{pwr:24,shl:260,rng:380,spd:480,itv:800},cartridge:{hpup:10,lv1:"75*6@20|7@20|10@20|8@15|18@20|19@20|20@15|23@25|29@15|11@20|26@10|21@20|13@30|32@40|31@40"},comment:"-",cost:550,capa:980,hp:305,str:4,tec:12,wlk:9,fly:8,tgh:10,size:"L",type:"c",fixedParts:{bs:{name:"ヘルトカイゼルBS",main:{pwr:13,shl:440,rng:330,spd:290,itv:900},sub:{tec:100,pwr:25,rng:350,spd:480,itv:1000},tunable:{mwp:1},builtin:{bs:1},type:"c",size:"L",cost:95,hp:20,str:-1,tec:4,fly:2}}}
 
 
 
