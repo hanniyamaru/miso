@@ -136,9 +136,12 @@
 
 {id:88,name:"エスティスBS",type:"l",cost:40,hp:20,tec:2,wlk:2,fly:2,tgh:-1}
 
+{id:447,name:"ガンドリルBS",type:"l",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:2,tgh:1}
 
 {id:98,name:"ギャスターBS",type:"c",cost:40,hp:25,wlk:1,fly:3,tgh:2}
 
+{id:75,name:"シノーリスBS",type:"l",cost:35,hp:20,str:2,tec:-1,wlk:1,fly:3}
+{id:135,name:"シノーリスBS2",sub:{tec:100,pwr:13,shl:180,rng:250,spd:300,itv:1000},type:"l",size:"M",cost:65,hp:20,str:-1,tec:1,wlk:2,fly:3}
 
 {id:445,name:"シャドウキネシスBS",main:{pwr:5,shl:900,rng:275,spd:400,itv:1000},tunable:{mwp:1},type:"a",size:"M",cost:160,hp:20,str:-1,tec:2,fly:3,tgh:1,joint:{bs:1},comment:"シャドウキネシスBS＠のみ接続可能"}
 {id:446,name:"シャドウキネシスBS@",sub:{tec:100,pwr:0,shl:0,rng:275,spd:10,itv:1000},cost:20,size:"M",type:"a"}
@@ -227,8 +230,6 @@
 
 
 {id:175,name:"ウィザメルBS",sub:{pwr:1,shl:35,rng:150,spd:180,itv:1000},cost:65,hp:20,tec:2,wlk:1,fly:3,tgh:-1,type:"a",size:"M"}
-{id:75,name:"シノーリスBS",type:"l",cost:35,hp:20,str:2,tec:-1,wlk:1,fly:3}
-{id:135,name:"シノーリスBS2",sub:{tec:100,pwr:13,shl:180,rng:250,spd:300,itv:1000},type:"l",size:"M",cost:65,hp:20,str:-1,tec:1,wlk:2,fly:3}
 
 
 
