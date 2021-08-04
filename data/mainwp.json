@@ -62,7 +62,7 @@
 {id:2,name:"サブマシンガン",type:"lcs",size:"M",cost:70,main:{pwr:6,shl:960,rng:160,spd:480,itv:140}}
 {id:4,name:"マシンガン",type:"ls",size:"M",cost:100,main:{pwr:8,shl:800,rng:160,spd:480,itv:140}}
 {id:5,name:"ドラムマシンガン",type:"l",size:"M",cost:160,main:{pwr:15,shl:1000,rng:160,spd:480,itv:140}}
-{id:7,name:"レイジマシンガン",type:"las",size:"M",cost:120,main:{pwr:16,shl:440,rng:160,spd:480,itv:140}}
+{id:7,name:"レイジマシンガン",type:"l",size:"M",cost:120,main:{pwr:16,shl:440,rng:160,spd:480,itv:140}}
 {id:14,name:"バルカン",type:"lcs",size:"L",cost:70,main:{pwr:10,shl:840,rng:110,spd:400,itv:200}}
 {id:15,name:"エイトバルカン",type:"lc",size:"LL",cost:130,main:{pwr:8,shl:1640,rng:110,spd:400,itv:220}}
 {id:16,name:"チェインバルカン",type:"lcs",size:"L",cost:100,main:{pwr:12,shl:960,rng:110,spd:400,itv:200}}
