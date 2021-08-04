@@ -160,7 +160,7 @@
 
 {id:39,name:"スチールバーンBD",cartridge:{hpup:10,lv1:"75*6@20|7@30|9@15|8@20|17@30|20@30|19@15|23@25|22@30|21@20|28@30|26@20|13@30|32@50|31@40"},cost:490,capa:945,hp:305,str:6,tec:14,wlk:7,fly:17,tgh:7,comment:"-"}
 
-{id:26,name:"イルグリプスBD",cartridge:{hpup:10,lv1:"75*5@20|60*2@30|7@30|9@15|8@20|19@15|23@25|22@30|52@20|26@20|30@20|21@20|13@30|32@50|31@40"},fixedParts:{bs:{name:"イルグリプスBS",fixedParts:{bs:{name:"イルグリプスBS@",main:{tec:100,pwr:9,shl:630,rng:275,spd:520,itv:520},tunable:{mwp:0,pwp:0},slot:0,type:"a",size:"L",auraStat:{main:{tec:100,pwr:15,shl:520,rng:300,spd:400,itv:700}}}},cost:165,hp:20,wlk:1,fly:4,slot:3,joint:{bs:1},sub:{shl:30,spd:150,itv:1000},comment:"BS@cost複合"},hd:{name:"イルグリプスHDJ",joint:{hd:1},slot:1}},name:"イルグリプスBD",cost:490,capa:945,hp:305,str:5,tec:15,wlk:8,fly:13,tgh:10,wbid:1,auraSystem:1}
+{id:26,name:"イルグリプスBD",cartridge:{hpup:10,lv1:"75*5@20|60*2@30|7@30|9@15|8@20|19@15|23@25|22@30|52@20|26@20|30@20|21@20|13@30|32@50|31@40"},fixedParts:{bs:{name:"イルグリプスBS",fixedParts:{bs:{name:"イルグリプスBS@",main:{tec:100,pwr:9,shl:630,rng:275,spd:520,itv:520},tunable:{mwp:0,pwp:0},slot:0,type:"a",size:"L",auraStat:{main:{tec:100,pwr:15,shl:520,rng:300,spd:400,itv:700}}}},cost:165,hp:20,wlk:1,fly:4,slot:3,joint:{bs:1},sub:{shl:30,spd:150,itv:1000},comment:"BS@cost複合"},hd:{name:"イルグリプスHDJ",joint:{hd:1,hdac:0,fcac:0},slot:1}},name:"イルグリプスBD",cost:490,capa:945,hp:305,str:5,tec:15,wlk:8,fly:13,tgh:10,wbid:1,auraSystem:1}
 
 
 
