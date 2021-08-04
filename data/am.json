@@ -399,8 +399,7 @@
 {id:38,name:"ドミクラウンAM2",cost:40,hp:25,tec:2,fly:1,tgh:2}
 {id:39,name:"ドミクラウンAM3",type:"l",cost:240,hp:25,str:2,tec:-1,wlk:2,fly:1,tgh:1,main:{str:100,pwr:8,shl:800,rng:250,spd:400,itv:880},sub:{str:100,pwr:28,rng:70,spd:85,itv:500},tunable:{mwp:1,pwp:1},joint:{wp:0}}
 
-{id:114,name:"ドラゴネイルAM",main:{pwr:12,shl:180,rng:225,spd:570,itv:340},sub:{pwr:29,shl:30,rng:70,spd:85,itv:500,str:100},tunable:{mwp:1,pwp:1},cost:145,hp:25,str:3,tec:-1,wlk:1,fly:1,tgh:1}
-
+{id:114,name:"ドラゴネイルAM",main:{pwr:12,shl:180,rng:225,spd:570,itv:340},sub:{pwr:29,shl:50,rng:70,spd:85,itv:500,str:100},tunable:{mwp:1,pwp:1},cost:145,hp:25,str:3,tec:-1,wlk:1,fly:1,tgh:1,comment:["爆発ダメージ1.0倍","バーニング時間4秒"]}
 {id:290,name:"ドラッケンAM",cost:40,hp:25,str:3,wlk:1,fly:-1,tgh:2}
 
 
