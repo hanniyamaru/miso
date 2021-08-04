@@ -356,21 +356,35 @@
 {id:24,name:"ダイダリオンLG",cost:50,hp:35,str:2,tec:-1,wlk:3,fly:1,tgh:1}
 {id:57,name:"ビクトールLG",cost:45,hp:25,str:-1,tec:2,wlk:3,tgh:1}
 {id:290,name:"ドラッケンLG",cost:45,hp:25,str:2,wlk:3,tgh:1}
-{id:96,name:"ヘカトケレスLG",sub:{shl:30,rng:100,spd:150,itv:1000},tunable:{pwp:0},type:"c",size:"L",cost:70,hp:55,tec:1,wlk:2,fly:2,tgh:1}
-{id:100,name:"ヘカトケレスLG2",sub:{shl:30,rng:100,spd:260,itv:1000},tunable:{pwp:0},type:"c",size:"L",cost:70,hp:65,wlk:3,fly:1,tgh:2,builtin:{lg:-1}}
-{id:70,name:"クシュルブLG",sub:{str:100,pwr:28,rng:84,spd:102,itv:1000},tunable:{pwp:1},type:"l",cost:145,hp:50,str:1,wlk:4,fly:-1,tgh:1}
-{id:28,name:"ジオグラシスLG",cost:45,hp:25,str:1,tec:1,wlk:4}
-{id:37,name:"ジオグラシスLG2",type:"a",cost:45,hp:25,tec:2,wlk:1,fly:3}
+
+
+
 {id:3,name:"メガトンオーLG",cost:40,hp:20,str:1,wlk:2,tgh:2}
 {id:8,name:"ギガトンオーLG",cost:45,hp:25,str:2,wlk:3,fly:-1,tgh:2}
-{id:13,name:"ビッグマンテスLG",cost:50,hp:70,tec:1,wlk:3,fly:1,tgh:1}
-{id:320,name:"ビッグマンテスLG2",sub:{shl:100,rng:0,spd:60,itv:1000},tunable:{pwp:0},type:"a",size:"L",cost:90,hp:70,tec:1,wlk:3,fly:2}
+{id:70,name:"クシュルブLG",sub:{str:100,pwr:28,rng:84,spd:102,itv:1000},tunable:{pwp:1},type:"l",cost:145,hp:50,str:1,wlk:4,fly:-1,tgh:1}
+
+
 {id:78,name:"カタロスLG",sub:{shl:30,itv:1000},type:"a",cost:75,hp:70,wlk:2,fly:2,tgh:2}
-{id:7,name:"スチールライダーLG",cost:45,hp:45,tec:1,wlk:5,fly:-1}
+{id:28,name:"ジオグラシスLG",cost:45,hp:25,str:1,tec:1,wlk:4}
+{id:37,name:"ジオグラシスLG2",type:"a",cost:45,hp:25,tec:2,wlk:1,fly:3}
+
+{id:77,name:"ザリドLG",cost:45,hp:50,wlk:4,fly:-1,tgh:3,type:"l"}
 
 {id:85,name:"スチールバーンLG",joint:{lg:1},fixedParts:{lg:{name:"スチールバーンLG@",joint:{bs:1},slot:0}},type:"a",cost:45,hp:40,str:-1,tec:1,wlk:2,fly:1,tgh:3}
+
+{id:7,name:"スチールライダーLG",cost:45,hp:45,tec:1,wlk:5,fly:-1}
+
+
+
 {id:33,name:"ドミクラウンLG",cost:50,hp:40,str:2,tec:1,wlk:3,fly:-1,tgh:1}
-{id:77,name:"ザリドLG",cost:45,hp:50,wlk:4,fly:-1,tgh:3,type:"l"}
+
+{id:13,name:"ビッグマンテスLG",cost:50,hp:70,tec:1,wlk:3,fly:1,tgh:1}
+{id:320,name:"ビッグマンテスLG2",sub:{shl:100,rng:0,spd:60,itv:1000},tunable:{pwp:0},type:"a",size:"L",cost:90,hp:70,tec:1,wlk:3,fly:2}
+
+{id:96,name:"ヘカトケレスLG",sub:{shl:30,rng:100,spd:150,itv:1000},tunable:{pwp:0},type:"c",size:"L",cost:70,hp:55,tec:1,wlk:2,fly:2,tgh:1}
+{id:100,name:"ヘカトケレスLG2",sub:{shl:30,rng:100,spd:260,itv:1000},tunable:{pwp:0},type:"c",size:"L",cost:70,hp:65,wlk:3,fly:1,tgh:2,builtin:{lg:-1}}
+{id:104,name:"ヘルトカイゼルLG",type:"c",size:"L",cost:45,hp:65,str:2,wlk:3,fly:-1,tgh:2}
+
 
 {id:25,name:"ボイルデックLG",cost:45,hp:25,str:2,wlk:3,fly:1}
 
