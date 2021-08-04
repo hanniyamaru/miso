@@ -1,7 +1,6 @@
 {group:"Uniハンドガン系",prefixID:"HG",commonStat:{tunable:{mwp:1}},nextID:60}
 
 
-{id:34545,name:"桃魂＠",main:{shl:5,rng:300,spd:10,itv:1000},cost:45,slot:0}}
 
 {id:1,name:"ハンドガン",size:"S",cost:15,main:{pwr:6,shl:500,rng:225,spd:570,itv:300}}
 {id:2,name:"オートガン",size:"S",cost:35,main:{pwr:8,shl:440,rng:225,spd:500,itv:300}}
