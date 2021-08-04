@@ -275,34 +275,54 @@
 
 {group:"Uni mainコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 
-{id:25,name:"スパイクシューター",main:{str:100,pwr:[5],shl:[700],rng:225,spd:400,itv:140},sub:{str:100,pwr:6,rng:250,spd:500,itv:1000},comment:"クルール・グラッド専用コンバージョンパーツ",type:"l",size:"S",cost:60,slot:3}
-{id:64,name:"グロームロッド",main:{pwr:9,shl:540,rng:275,spd:440,itv:300,tec:100},sub:{pwr:26,shl:40,spd:150,itv:1000,tec:100},type:"a",size:"M",cost:100,comment:"マルカAM専用コンバージョンパーツ、変形省略、爆風比率1：9　",tunable:{mwp:1}}
-{id:62,name:"シヴァリーキャノン",main:{pwr:17,shl:350,rng:330,spd:290,itv:600},joint:{wp:1},fixedParts:{wp:{name:"シヴァリーキャノン",main:{pwr:40,shl:30,rng:300,spd:400,itv:500},slot:0}},type:"c",size:"S",cost:160,comment:"ナターシャAM専用コンバージョンパーツ cost合算"}
-{id:501,name:"ブラディスターAM@",main:{pwr:17,shl:50,rng:250,spd:400,itv:500},size:"M",type:"c",cost:25,slot:0,comment:["非ロックでの飛距離が表記程度","ロックオン武器の射程で飛距離が変わる"]}
-{id:74,name:"メロディコードα",main:{pwr:9,shl:380,rng:250,spd:400,itv:500},sub:{pwr:11,shl:240,rng:250,spd:320,itv:1000},type:"s",size:"S",cost:65,comment:"ハープにのみ接続可能。"}
-{id:76,name:"メロディコードβ",main:{shl:80,rng:300,spd:300,itv:500},sub:{shl:50,rng:300,spd:300,itv:1000},type:"s",size:"S",cost:100,comment:"ハープにのみ接続可能。"}
-{id:75,name:"メロディコードγ",main:{tec:100,pwr:6,shl:260,rng:250,spd:360,itv:600},sub:{tec:100,pwr:10,shl:120,rng:260,spd:300,itv:500},tunable:{mwp:1,pwp:0},type:"s",size:"S",cost:90,comment:"ハープにのみ接続可能"}
-{id:1591,name:"マニモウィング@",main:{str:100,pwr:3,shl:800,rng:300,spd:400,itv:440},type:"a",size:"M",comment:"マニモウィング専用コンバーションパーツ",cost:40}
-{id:156,name:"ペペンガンナーズ",main:{tec:100,pwr:9,shl:600,rng:330,spd:350,itv:500},tunable:{mwp:1},type:"c",size:"M",cost:100,comment:"UNIで誘導弾に変更"}
-{id:1561,name:"ペペンツインガン",main:{pwr:8,shl:700,rng:330,spd:220,itv:360},tunable:{mwp:1},type:"c",size:"S",cost:70}
-
-{id:94,name:"ビームショットカセット",main:{pwr:18,shl:420,rng:275,spd:440,itv:300},type:"a",size:"S",cost:70,comment:"ステラ・カラカル専用コンバージョンパーツ　アウロラキャノン省略",tunable:{mwp:1}}
-{id:95,name:"オートチャージカセット",main:{pwr:28,shl:60,rng:300,spd:480,itv:500},type:"a",size:"S",cost:30,slot:0,comment:"ステラ・カラカル専用コンバージョンパーツ　アウロラキャノン省略"}
-{id:118,name:"ホーミングアロー",main:{pwr:13,shl:180,rng:250,spd:320,itv:800},cost:50,type:"l",size:"M",comment:"ロビンハンターAM専用コンバージョンパーツ",slot:0}
+{id:503,name:"アクアショット",main:{pwr:19,shl:340,rng:250,spd:400,itv:500},type:"l",size:"S",cost:70,comment:"イオンAM2専用コンバージョンパーツ",tunable:{mwp:1}}
 {id:119,name:"インパクトアロー",main:{pwr:22,shl:230,rng:225,spd:480,itv:600},type:"l",size:"M",cost:30,comment:"ロビンハンターAM専用コンバージョンパーツ",slot:0}
-{id:502,name:"パワーアロー",main:{pwr:28,shl:230,rng:225,spd:480,itv:700},type:"l",size:"M",cost:30,comment:"ロビンハンターAM専用コンバージョンパーツ",slot:0}
-{id:98,name:"バアルバズーカ",tunable:{mwp:1},cost:90,type:"c",size:"S",main:{pwr:19,shl:420,rng:330,spd:400,itv:400}}
-{id:99,name:"ゼブルサイガン",main:{pwr:10,shl:540,rng:330,spd:220,itv:300},tunable:{mwp:1},type:"c",size:"S",cost:60}
-
-{id:96,name:"ビームクリスタル",main:{pwr:11,shl:500,rng:275,spd:440,itv:700},tunable:{mwp:1},type:"a",size:"S",cost:70,comment:"フラクタリスガール専用コンバージョンパーツ"}
-{id:97,name:"クリスタルウォール",main:{pwr:2,shl:1740,rng:275,spd:340,itv:200},tunable:{mwp:1},comment:["フラクタリスガール専用コンバージョンパーツ","変形省略"],type:"a",size:"M",cost:90}
-{id:500,name:"ブレイブアクス",main:{str:100,pwr:20,shl:50,rng:200,spd:570,itv:500},type:"l",size:"M",cost:30,comment:"ソルブレンサーAMにのみ装着可能",slot:0}
+{id:95,name:"オートチャージカセット",main:{pwr:28,shl:60,rng:300,spd:480,itv:500},type:"a",size:"S",cost:30,slot:0,comment:"ステラ・カラカル専用コンバージョンパーツ　アウロラキャノン省略"}
 
 {id:67,name:"エアリーデ・ビットα",main:{pwr:[4,5,6],shl:[840],rng:275,spd:440,itv:900},size:"S",type:"a",slot:0,cost:70,comment:"ビットホルダー専用コンバージョンパーツ"}
 {id:68,name:"エアリーデ・ビットβ",main:{pwr:[6,7,8],shl:[920],rng:275,spd:400,itv:380},size:"S",type:"a",slot:0,cost:100,comment:"ビットホルダー専用コンバージョンパーツ"}
-{id:105,name:"見習い手裏剣",main:{str:100,pwr:4,shl:800,rng:200,spd:400,itv:140},tunable:{mwp:1},type:"s",size:"S",cost:40,comment:"もみじBD専用コンバージョンパーツ"}
-{id:503,name:"アクアショット",main:{pwr:19,shl:340,rng:250,spd:400,itv:500},type:"l",size:"S",cost:70,comment:"イオンAM2専用コンバージョンパーツ",tunable:{mwp:1}}
+{id:148,name:"カイゼルゲヴィッター",main:{pwr:10,shl:390,rng:300,spd:480,itv:300},sub:{tec:100,pwr:20,shl:0,rng:75,spd:200,itv:1000},tunable:{mwp:1,pwp:1},type:"c",size:"L",comment:"ヘルトカイゼルAM専用コンバージョンパーツ",cost:70}
+{id:97,name:"クリスタルウォール",main:{pwr:2,shl:1740,rng:275,spd:340,itv:200},tunable:{mwp:1},comment:["フラクタリスガール専用コンバージョンパーツ","変形省略"],type:"a",size:"M",cost:90}
+{id:64,name:"グロームロッド",main:{pwr:9,shl:540,rng:275,spd:440,itv:300,tec:100},sub:{pwr:26,shl:40,spd:150,itv:1000,tec:100},type:"a",size:"M",cost:100,comment:"マルカAM専用コンバージョンパーツ、変形省略、爆風比率1：9　",tunable:{mwp:1}}
+
+{id:25,name:"スパイクシューター",main:{str:100,pwr:[5],shl:[700],rng:225,spd:400,itv:140},sub:{str:100,pwr:6,rng:250,spd:500,itv:1000},comment:"クルール・グラッド専用コンバージョンパーツ",type:"l",size:"S",cost:60,slot:3}
+
+
+{id:62,name:"シヴァリーキャノン",main:{pwr:17,shl:350,rng:330,spd:290,itv:600},joint:{wp:1},fixedParts:{wp:{name:"シヴァリーキャノン",main:{pwr:40,shl:30,rng:300,spd:400,itv:500},slot:0}},type:"c",size:"S",cost:160,comment:"ナターシャAM専用コンバージョンパーツ cost合算"}
+{id:99,name:"ゼブルサイガン",main:{pwr:10,shl:540,rng:330,spd:220,itv:300},tunable:{mwp:1},type:"c",size:"S",cost:60}
+
+
+{id:1591,name:"マニモウィング@",main:{str:100,pwr:3,shl:800,rng:300,spd:400,itv:440},type:"a",size:"M",comment:"マニモウィング専用コンバーションパーツ",cost:40}
+{id:74,name:"メロディコードα",main:{pwr:9,shl:380,rng:250,spd:400,itv:500},sub:{pwr:11,shl:240,rng:250,spd:320,itv:1000},type:"s",size:"S",cost:65,comment:"ハープにのみ接続可能。"}
+{id:76,name:"メロディコードβ",main:{shl:80,rng:300,spd:300,itv:500},sub:{shl:50,rng:300,spd:300,itv:1000},type:"s",size:"S",cost:100,comment:"ハープにのみ接続可能。"}
+{id:75,name:"メロディコードγ",main:{tec:100,pwr:6,shl:260,rng:250,spd:360,itv:600},sub:{tec:100,pwr:10,shl:120,rng:260,spd:300,itv:500},tunable:{mwp:1,pwp:0},type:"s",size:"S",cost:90,comment:"ハープにのみ接続可能"}
+
+{id:98,name:"バアルバズーカ",tunable:{mwp:1},cost:90,type:"c",size:"S",main:{pwr:19,shl:420,rng:330,spd:400,itv:400}}
+
+{id:502,name:"パワーアロー",main:{pwr:28,shl:230,rng:225,spd:480,itv:700},type:"l",size:"M",cost:30,comment:"ロビンハンターAM専用コンバージョンパーツ",slot:0}
+{id:96,name:"ビームクリスタル",main:{pwr:11,shl:500,rng:275,spd:440,itv:700},tunable:{mwp:1},type:"a",size:"S",cost:70,comment:"フラクタリスガール専用コンバージョンパーツ"}
+
+
+{id:94,name:"ビームショットカセット",main:{pwr:18,shl:420,rng:275,spd:440,itv:300},type:"a",size:"S",cost:70,comment:"ステラ・カラカル専用コンバージョンパーツ　アウロラキャノン省略",tunable:{mwp:1}}
+
+{id:501,name:"ブラディスターAM@",main:{pwr:17,shl:50,rng:250,spd:400,itv:500},size:"M",type:"c",cost:25,slot:0,comment:["非ロックでの飛距離が表記程度","ロックオン武器の射程で飛距離が変わる"]}
+{id:500,name:"ブレイブアクス",main:{str:100,pwr:20,shl:50,rng:200,spd:570,itv:500},type:"l",size:"M",cost:30,comment:"ソルブレンサーAMにのみ装着可能",slot:0}
+
+
+
+{id:156,name:"ペペンガンナーズ",main:{tec:100,pwr:9,shl:600,rng:330,spd:350,itv:500},tunable:{mwp:1},type:"c",size:"M",cost:100,comment:"UNIで誘導弾に変更"}
+{id:1561,name:"ペペンツインガン",main:{pwr:8,shl:700,rng:330,spd:220,itv:360},tunable:{mwp:1},type:"c",size:"S",cost:70}
+
+
+
+{id:118,name:"ホーミングアロー",main:{pwr:13,shl:180,rng:250,spd:320,itv:800},cost:50,type:"l",size:"M",comment:"ロビンハンターAM専用コンバージョンパーツ",slot:0}
+
 {id:83,name:"ロギナス",main:{pwr:32,shl:280,rng:330,spd:440,itv:700},tunable:{mwp:1},type:"c",size:"S",cost:100,comment:"クロエAM専用コンバージョンパーツ"}
+
+
+
+
+{id:105,name:"見習い手裏剣",main:{str:100,pwr:4,shl:800,rng:200,spd:400,itv:140},tunable:{mwp:1},type:"s",size:"S",cost:40,comment:"もみじBD専用コンバージョンパーツ"}
 
 
 
