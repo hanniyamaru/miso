@@ -28,7 +28,7 @@
 {id:2,name:"ポーンジャーBD",cost:320,capa:635,hp:185,str:10,tec:5,wlk:10,fly:5,tgh:10,wbid:6,cartridge:{hpup:25,lv1:"95*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30",lv6:"16@20|29@15|14@20",lv9:"13@30|32@50|31@40"}}
 {id:56,name:"クロタクスBD",joint:{am:1},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|",lv6:"|23@25|22@30|16@20|25@25|30@20|",lv9:"13@30|32@50|31@40"},fixedParts:{am:{name:"クロタクスAM",fixedParts:{wp:{name:"セラスグレイブ",main:{pwr:15,shl:720,rng:250,spd:480,itv:140},sub:{tec:100,pwr:26,rng:100,spd:150,itv:1000},tunable:{pwp:1,mwp:1},cost:160}},cost:80,hp:50,str:-2,tec:4,wlk:4,tgh:4}},cost:445,capa:850,hp:225,str:3,tec:18,wlk:13,fly:6,tgh:8}
 {id:69,name:"クロタクスBD2",joint:{am:1},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|",lv6:"|23@25|22@30|16@20|25@25|30@20|",lv9:"13@30|32@50|31@40"},fixedParts:{am:{name:"クロタクスAM2",joint:{wp:1},fixedParts:{wp:{name:"セラステス・アサルト",main:{tec:100,pwr:15,shl:800,rng:250,spd:440,itv:300},sub:{tec:100,pwr:28,rng:100,spd:150,itv:1000},tunable:{mwp:1,pwp:1},type:"l",size:"S",cost:190}},type:"l",size:"S",cost:80,hp:50,tec:6,wlk:-1,fly:-1,tgh:6}},type:"l",size:"S",cost:445,capa:850,hp:225,str:3,tec:20,wlk:12,fly:5,tgh:8}
-{id:12,name:"ゼロセイバーBD",cost:475,capa:850,hp:225,str:10,tec:9,wlk:13,fly:9,tgh:7,sub:{shl:[30],rng:[150],spd:[350],itv:1000},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15||23@25|22@30|19@30|",lv6:"16@20|27@40|",lv9:"13@30|32@50|31@40"}}
+{id:12,name:"ゼロセイバーBD",cost:475,capa:850,hp:225,str:10,tec:9,wlk:13,fly:9,tgh:7,sub:{shl:[30],rng:[150],spd:[350],itv:1000},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|19@30|16@20|27@10|13@30|32@50|31@40"}}
 
 {id:13,name:"ゼロセイバーBD2",cost:445,capa:850,hp:225,str:5,tec:13,wlk:13,fly:9,tgh:8,cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|25@25|30@20|26@20|13@30|32@50|31@40"}}
 
@@ -39,7 +39,7 @@ lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|26@20|21@20|13@30|34@
 
 {id:26,name:"ゼロファイターBD",cost:320,capa:635,hp:185,str:8,tec:8,wlk:11,fly:7,tgh:6,cartridge:{hpup:14,lv1:"95*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|16@20|28@30|26@20|13@30|32@50|31@40"}}
 {id:46,name:"ゼロファイターNEXTBD",cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|16@20|28@30|26@20|13@30|32@50|31@40"},cost:445,capa:850,hp:225,str:9,tec:9,wlk:14,fly:8,tgh:8}
-{id:154,name:"ゼロセイバーNEXTBD",sub:{shl:30,rng:150,spd:350,itv:1000},cartridge:{hpup:10,lv1:"75*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|19@30|16@20|27@40|13@30|32@50|31@40"},type:"l",size:"S",cost:520,capa:925,hp:235,str:10,tec:10,wlk:14,fly:9,tgh:8,comment:"-"}
+{id:154,name:"ゼロセイバーNEXTBD",sub:{shl:30,rng:150,spd:350,itv:1000},cartridge:{hpup:10,lv1:"75*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|19@30|16@20|27@10|13@30|32@50|31@40"},type:"l",size:"S",cost:520,capa:925,hp:235,str:10,tec:10,wlk:14,fly:9,tgh:8,comment:"-"}
 
 
 {id:21,name:"ジークンロンBD",cost:505,capa:900,hp:220,str:14,tec:4,wlk:13,fly:8,tgh:9,sub:{str:100,pwr:[25],rng:150,spd:350,itv:1000},wbid:5,cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|16@20|29@15|21@20|13@30|34@15|32@50|31@40"},fixedParts:{hd:{name:"ジークンロンHD",type:"l",size:"S",cost:40,hp:25,str:1,wlk:1,fly:1,tgh:2},lg:{name:"ジークンロンLG",cost:145,hp:25,str:2,tec:-1,wlk:3,fly:1,tgh:1,sub:{str:100,pwr:30,rng:98,spd:119,itv:500},tunable:{pwp:1}},am:["A13","A13"],bs:{name:"ジークンロンBS",size:"S",type:"l",cost:40,hp:25,str:2,tec:-1,fly:3,tgh:1}},builtin:{bs:1},type:"l",size:"S"}
