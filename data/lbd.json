@@ -3,7 +3,9 @@
 
 {group:"UniＳ陸",prefixID:"LS",commonStat:{size:"S",type:"l"},nextID:35}
 
-{id:124,name:"カエデBD",joint:{wp:2},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|16@20|21@20|13@30|34@15|32@50|31@40"},fixedParts:{hd:{name:"カエデHD",cost:40,hp:25,str:2,wlk:2,fly:1},lg:{name:"カエデLG",cost:45,hp:25,str:3,wlk:2,fly:1},am:[{name:"カエデAM",cost:60,hp:25,str:2,wlk:2,tgh:1,joint:{wp:1}},{name:"カエデAM2",cost:40,hp:25,str:2,wlk:2,tgh:1,joint:{wp:0}}]},type:"l",size:"S",cost:445,capa:900,hp:225,str:15,tec:5,wlk:12,fly:8,tgh:8,builtin:{bs:1}}
+{id:124,name:"カエデBD",joint:{wp:2},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|16@20|21@20|13@30|34@15|32@50|31@40"},fixedParts:{hd:{name:"カエデHD",cost:40,hp:25,str:2,wlk:2,fly:1},lg:{name:"カエデLG",cost:45,hp:25,str:3,wlk:2,fly:1},am:[{name:"カエデAM",cost:60,hp:25,str:2,wlk:2,tgh:1,joint:{wp:1}},{name:"カエデAM2",cost:40,hp:25,str:2,wlk:2,tgh:1,joint:{wp:0}}]},wp:{name:"桃魂",sub:{pwr:32,shl:15,rng:180,spd:300,itv:500,str:100},cost:60,name:"桃魂＠",main:{shl:5,rng:300,spd:10,itv:1000},tunable:{mwp:1,pwp:1},slot:0}},{type:"l",size:"S",cost:445,capa:900,hp:225,str:15,tec:5,wlk:12,fly:8,tgh:8,builtin:{bs:1}}
+
+
 
 
 
