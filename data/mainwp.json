@@ -300,7 +300,7 @@
 {id:68,name:"エアリーデ・ビットβ",main:{pwr:[6,7,8],shl:[920],rng:275,spd:400,itv:380},size:"S",type:"a",slot:0,cost:100,comment:"ビットホルダー専用コンバージョンパーツ"}
 {id:105,name:"見習い手裏剣",main:{str:100,pwr:4,shl:800,rng:200,spd:400,itv:140},tunable:{mwp:1},type:"s",size:"S",cost:40,comment:"もみじBD専用コンバージョンパーツ"}
 {id:503,name:"アクアショット",main:{pwr:19,shl:340,rng:250,spd:400,itv:500},type:"l",size:"S",cost:70,comment:"イオンAM2専用コンバージョンパーツ",tunable:{mwp:1}}
-
+{id:83,name:"ロギナス",main:{pwr:32,shl:280,rng:330,spd:440,itv:700},tunable:{mwp:1},type:"c",size:"S",cost:100,comment:"クロエAM専用コンバージョンパーツ"}
 
 
 
