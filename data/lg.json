@@ -152,7 +152,8 @@
 {id:76,name:"エスティスLG",type:"l",cost:45,hp:25,str:-1,tec:2,wlk:3,fly:1,tgh:1}
 
 {id:12,name:"ガシマLG",cost:45,hp:25,str:1,tec:1,wlk:3,tgh:1}
-{id:397,name:"ガンドリルLG",sub:{str:100,pwr:35,shl:0,rng:100,spd:150,itv:2000},type:"l",size:"M",cost:175,hp:25,str:2,tec:-1,wlk:3,tgh:2}
+{id:397,name:"ガンドリルLG",sub:{str:100,pwr:35,shl:0,rng:100,spd:150,itv:2000},tunable:{pwp:1},type:"l",size:"M",cost:175,hp:25,str:2,tec:-1,wlk:3,tgh:2}
+
 
 {id:82,name:"ギャスターLG",cost:45,hp:25,tec:2,wlk:3,fly:-1,tgh:2}
 
