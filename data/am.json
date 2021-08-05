@@ -395,7 +395,7 @@
 
 
 {id:85,name:"ディースモークAM",type:"s",cost:105,hp:20,tec:2,tgh:3,tunable:{mwp:1},main:{pwr:6,shl:480,rng:250,spd:325,itv:400}}
-
+{id:151,name:"ディースモークAM2",cost:65,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,size:"L",joint:{am:1},fixedParts:{am:{name:"ディースモークAM2@",slot:0,joint:{wp:0}}}}
 
 
 
