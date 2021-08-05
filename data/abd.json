@@ -124,8 +124,9 @@
 
 {id:24,name:"ラークピットBD",main:{pwr:[10,11,13],shl:[600],rng:[275],spd:[440],itv:600,tec:100},sub:{str:100,itv:2000},joint:{hd:0,wp:0,hdac:1,fcac:1},cartridge:{hpup:18,lv1:"85*5@20|61*2@30|7@30|9@15|8@20|50@30|19@15|23@25|22@30|52@20|15@20|21@20|13@30|32@50|31@40"},fixedParts:{bs:{name:"ラークピットBS",builtin:{bs:1},cost:40,hp:25,str:-1,tec:1,wlk:1,fly:3,tgh:1},lg:{sub:{str:100,shl:60,rng:120,spd:220,itv:2500},tunable:{pwp:0},builtin:{lg:1},name:"ラークピットLG",cost:75,hp:25,str:1,tec:1,wlk:3,fly:1,tgh:-1},am:[{name:"ラークピットAM",type:"a",size:"L",cost:35,hp:20,tec:1,fly:3,tgh:1,joint:{wp:0}},{name:"ラークピットAM",joint:{wp:0},cost:35,hp:20,tec:1,fly:3,tgh:1}]},type:"a",size:"L",cost:525,capa:800,hp:300,str:3,tec:14,wlk:6,fly:16,tgh:11,wbid:1}
 
-{id:20,name:"マイトボンバーBD",sub:{pwr:[25],shl:[130],rng:275,spd:[350],itv:1000},builtin:{bs:1},joint:{bs:0},cartridge:{hpup:18,lv1:"85*6@20|7@30|9@15|8@20|19@15|21@20|23@25|22@30|52@20|28@30|26@20|15@20|13@30|32@50|31@40"},cost:485,capa:800,hp:300,str:4,tec:12,wlk:7,fly:18,tgh:9}
-{id:21,name:"マイトボンバーBD2",sub:{tec:100,pwr:17,shl:200,rng:275,spd:350,itv:1000},builtin:{bs:1},joint:{bs:0},cartridge:{lv1:"85*6@20|7@30|9@15|8@20|19@15|21@20|23@25|22@30|52@20|28@30|26@20|15@20|13@30|32@50|31@40",hpup:12},cost:485,capa:800,hp:300,str:4,tec:10,wlk:6,fly:19,tgh:11,wbid:1,comment:"-"}
+
+{id:20,name:"マイトボンバーBD",sub:{pwr:[25],shl:[130],rng:275,spd:[350],itv:1000},builtin:{bs:1},joint:{bs:0,wp:1},cartridge:{hpup:18,lv1:"85*6@20|7@30|9@15|8@20|19@15|21@20|23@25|22@30|52@20|28@30|26@20|15@20|13@30|32@50|31@40"},wp:["W1"],cost:485,capa:800,hp:300,str:4,tec:12,wlk:7,fly:18,tgh:9}
+{id:21,name:"マイトボンバーBD2",sub:{tec:100,pwr:17,shl:200,rng:275,spd:350,itv:1000},builtin:{bs:1},joint:{bs:0,wp:1},cartridge:{lv1:"85*6@20|7@30|9@15|8@20|19@15|21@20|23@25|22@30|52@20|28@30|26@20|15@20|13@30|32@50|31@40",hpup:12},wp:["W1"],cost:485,capa:800,hp:300,str:4,tec:10,wlk:6,fly:19,tgh:11,wbid:1,comment:"-"}
 
 {id:8,name:"ソア・ラBD",cost:510,capa:945,hp:305,str:4,tec:13,wlk:7,fly:13,tgh:14,sub:{pwr:[18,18,54],shl:[60],rng:275,spd:500,itv:1000},wbid:1,cartridge:{hpup:10,lv1:"75*5@15|60*2@30|7@30|9@15|8@20|21@20|28@30|19@15|23@25|22@30|52@20|28@30|26@20|13@30|32@50|31@40"},fixedParts:{hd:{name:"ソア・ラHD",cost:40,hp:25,str:1,tec:2,wlk:1,fly:1,slot:3}},joint:{bs:0}}
 
