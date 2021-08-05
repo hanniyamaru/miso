@@ -260,6 +260,10 @@
 
 {id:74,name:"タイタンコイルBS",type:"s",cost:40,hp:25,str:-1,wlk:2,fly:3,tgh:1}
 
+{id:89,name:"ディースモークBS2",main:{tec:100,pwr:7,shl:400,rng:275,spd:290,itv:800},sub:{shl:25,rng:10,spd:10,itv:1000,str:100},tunable:{pwp:1,mwp:1},type:"s",size:"L",cost:140,hp:25,str:-1,tec:1,wlk:1,fly:3,tgh:1}
+
+
+
 {id:6,name:"マイティバインBS",type:"l",cost:40,hp:25,str:1,tec:-1,fly:3,tgh:2}
 {id:5,name:"ガナハウンドBS",type:"l",cost:40,hp:20,tec:1,fly:3,tgh:1}
 {id:86,name:"クリスタスBS",main:{tec:100,pwr:14,shl:220,rng:275,spd:360,itv:1000},tunable:{mwp:1},type:"a",size:"L",cost:105,hp:20,str:-1,tec:2,fly:3,tgh:1}
