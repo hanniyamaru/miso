@@ -96,8 +96,7 @@
 
 {id:31,name:"ギャスターBD",cartridge:{hpup:18,lv1:"85*6@20|7@20|10@20|8@15|17@20|18@20|20@15|23@25|29@15|11@20|25@25|26@10|13@30|32@40|31@40"},cost:405,capa:800,hp:245,str:5,tec:13,wlk:10,fly:6,tgh:11}
 
-{id:28,name:"テオライネBD",joint:{bs:0},cartridge:{hpup:14,lv1:"4*6@20|7@20|10@20|8@15|17@20|19@20|18@20|20@15|23@25|25@25|21@20|26@10|13@30|32@40|31@40"},cost:515,capa:870,hp:255,str:4,tec:15,wlk:11,fly:8,tgh:10,wbid:4,sub:{tec:100,pwr:22,shl:0,rng:300,spd:500,itv:1000},joint:{wp:1},fixedParts:{wp:["W1"]},comment:"BD@cost70合算"}
-
+{id:48,name:"テオライネBD",joint:{bs:0},cartridge:{hpup:14,lv1:"4*6@20|7@20|10@20|8@15|17@20|19@20|18@20|20@15|23@25|25@25|21@20|26@10|13@30|32@40|31@40"},cost:515,capa:870,hp:255,str:4,tec:15,wlk:11,fly:8,tgh:10,wbid:4,sub:{tec:100,pwr:22,shl:0,rng:300,spd:500,itv:1000},joint:{wp:1},fixedParts:{wp:["W1"]},comment:"BD@cost70合算"}
 
 
 
