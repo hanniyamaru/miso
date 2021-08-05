@@ -219,6 +219,9 @@
 
 {id:177,name:"ソルブレンサーAM",type:"lacs",size:"M",cost:40,hp:25,str:2,tec:-1,wlk:2,tgh:2,joint:{wp:3},comment:"ブレイブアーツ省略"}
 
+
+{id:109,name:"テオライネAM",main:{pwr:7,shl:780,rng:330,spd:270,itv:580},joint:{wp:0},cost:85,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,tunable:{mwp:1},type:"c"}
+
 {id:14,name:"デジトロイドAM",cost:40,hp:25,str:1,tec:1,wlk:1,fly:1,tgh:1}
 {id:15,name:"デストラクトAM",type:"c",cost:70,hp:25,str:1,tec:2,tgh:2,main:{pwr:3,shl:1080,rng:330,spd:480,itv:200},tunable:{mwp:1},joint:{wp:0}}
 {id:16,name:"デストラクトAM2",cost:40,hp:25,str:1,tec:2,tgh:2}
