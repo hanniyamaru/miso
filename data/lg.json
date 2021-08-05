@@ -380,11 +380,16 @@
 
 {id:33,name:"ドミクラウンLG",cost:50,hp:40,str:2,tec:1,wlk:3,fly:-1,tgh:1}
 
+
+
+
 {id:13,name:"ビッグマンテスLG",cost:50,hp:70,tec:1,wlk:3,fly:1,tgh:1}
 {id:320,name:"ビッグマンテスLG2",sub:{shl:100,rng:0,spd:60,itv:1000},tunable:{pwp:0},type:"a",size:"L",cost:90,hp:70,tec:1,wlk:3,fly:2}
 
 {id:96,name:"ヘカトケレスLG",sub:{shl:30,rng:100,spd:150,itv:1000},tunable:{pwp:0},type:"c",size:"L",cost:70,hp:55,tec:1,wlk:2,fly:2,tgh:1}
 {id:100,name:"ヘカトケレスLG2",sub:{shl:30,rng:100,spd:260,itv:1000},tunable:{pwp:0},type:"c",size:"L",cost:70,hp:65,wlk:3,fly:1,tgh:2,builtin:{lg:-1}}
+{id:49,name:"ベクターLG2",sub:{shl:60,rng:100,spd:160,itv:1000},auraStat:{sub:{shl:60,rng:100,spd:160,itv:1000},str:-1,tec:1,wlk:3,fly:2,tgh:1},type:"a",cost:85,hp:45,str:-1,tec:1,wlk:3,fly:2,tgh:1}
+
 {id:104,name:"ヘルトカイゼルLG",type:"c",size:"L",cost:45,hp:65,str:2,wlk:3,fly:-1,tgh:2}
 
 
