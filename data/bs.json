@@ -123,7 +123,7 @@
 
 
 
-{group:"UniＭサイズ",prefixID:"M",commonStat:{size:"M"},nextID:449}
+{group:"UniＭサイズ",prefixID:"M",commonStat:{size:"M"},nextID:0}
 
 {id:99,name:"アーティラスBS",type:"c",cost:40,hp:25,tec:1,wlk:1,fly:3}
 
@@ -163,7 +163,7 @@
 {id:46,name:"サイコクラスターBS",type:"a",cost:40,hp:25,str:1,tec:2,fly:3,tgh:-1}
 
 
-{id:74,name:"タイタンコイルBS",type:"s",cost:40,hp:25,str:-1,wlk:2,fly:3,tgh:1}
+
 
 
 
@@ -258,7 +258,7 @@
 
 {group:"UniＬサイズ",prefixID:"L",commonStat:{size:"L"},nextID:35}
 
-
+{id:74,name:"タイタンコイルBS",type:"s",cost:40,hp:25,str:-1,wlk:2,fly:3,tgh:1}
 
 {id:6,name:"マイティバインBS",type:"l",cost:40,hp:25,str:1,tec:-1,fly:3,tgh:2}
 {id:5,name:"ガナハウンドBS",type:"l",cost:40,hp:20,tec:1,fly:3,tgh:1}
