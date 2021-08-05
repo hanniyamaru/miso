@@ -152,7 +152,7 @@
 
 {id:180,name:"ソルブレンサーBS",type:"l",size:"M",cost:40,hp:25,str:1,tec:1,wlk:1,fly:2}
 
-
+{id:90,name:"テオライネBS",type:"c",cost:35,hp:20,tec:2,wlk:-1,fly:3,tgh:1}
 
 {id:2,name:"ミカドマックスBS",type:"l",cost:40,hp:25,str:2,fly:2,tgh:1}
 
