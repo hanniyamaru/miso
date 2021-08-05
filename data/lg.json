@@ -180,7 +180,7 @@
 {id:122,name:"ソルブレンサーLG",type:"lacs",size:"M",cost:45,hp:25,str:2,wlk:3,fly:2,tgh:-1}
 
 
-
+{id:78,name:"テオライネLG",joint:{bs:1},type:"c",cost:45,hp:25,str:-1,tec:2,wlk:2,fly:2,tgh:1}
 
 {id:13,name:"デジトロイドLG",cost:45,hp:25,str:2,wlk:3,tgh:1}
 {id:10,name:"テツジンガーLG",cost:45,hp:25,str:1,wlk:3,fly:-1,tgh:2}
