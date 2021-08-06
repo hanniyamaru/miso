@@ -204,7 +204,7 @@
 {id:91,name:"ランドスLG",cost:45,hp:30,tec:2,wlk:4,fly:-1,tgh:1}
 {id:9,name:"リリレインαLG",cost:45,hp:25,wlk:2,fly:2,tgh:1}
 {id:332,name:"ウィンドリンクスLG",cost:45,hp:25,str:1,tec:2,wlk:2,fly:2,tgh:-1}
-{id:333,name:"ブラディスターLG",type:"c",cost:70,hp:25,tec:2,wlk:2,fly:1,tgh:1,sub:{str:100,pwr:0,shl:25,rng:100,spd:200,itv:600},tunable:{pwp:1}}
+{id:333,name:"ブラディスターLG",type:"cl",cost:70,hp:25,tec:2,wlk:2,fly:1,tgh:1,sub:{str:100,pwr:0,shl:25,rng:100,spd:200,itv:600},tunable:{pwp:1}}
 {id:27,name:"シグマクロックLG",cost:45,hp:25,str:2,wlk:3}
 {id:17,name:"クリムローゼαLG",type:"a",cost:85,hp:50,str:1,tec:2,wlk:3,fly:3,tgh:1,builtin:{bs:1}}
 {id:26,name:"セラフクリムローゼαLG",type:"a",cost:145,hp:50,str:1,tec:2,wlk:3,fly:4,size:"M",type:"a",sub:{tec:100,pwr:22,rng:275,spd:350,itv:1000},comment:"-",tunable:{pwp:0},builtin:{bs:1}}
@@ -302,7 +302,7 @@
 
 {group:"UniＬサイズ",prefixID:"L",commonStat:{size:"L"},nextID:44}
 
-{id:68,name:"アーティラスLG",sub:{pwr:23,rng:120,spd:250,itv:1000,tec:100},tunable:{pwp:1},cost:90,hp:25,str:-1,tec:3,wlk:3,tgh:1,comment:"-"}
+{id:68,name:"アーティラスLG",sub:{pwr:23,rng:120,spd:250,itv:1000,tec:100},tunable:{pwp:1},cost:90,hp:25,str:-1,tec:3,wlk:3,tgh:1,type:"c",comment:"-"}
 
 
 {id:4,name:"ガナハウンドLG",cost:45,hp:50,str:1,wlk:3,tgh:1}
