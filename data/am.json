@@ -345,7 +345,7 @@
 
 
 {id:6,name:"コスモカイザーAM",cost:40,hp:25,str:3,tec:1,tgh:1}
-{id:6050,name:"コスモカイザーAM2",cost:90,hp:20,str:-1,tec:2,wlk:2,tgh:2,sub:{tec:100,pwr:27,shl:300,rng:120,spd:250,itv:500}}
+{id:6050,name:"コスモカイザーAM2",cost:90,hp:20,str:-1,tec:2,wlk:2,tgh:2,sub:{tec:100,pwr:27,shl:30,rng:120,spd:250,itv:500}}
 
 {id:501,name:"コルディプスAM",cost:35,hp:20,str:1,tec:1,fly:1,tgh:2}
 {id:45,name:"コントラディクトAM",type:"c",cost:100,hp:25,str:-1,tec:3,wlk:1,fly:1,tgh:1,main:{pwr:22,shl:160,rng:330,spd:290,itv:780},tunable:{mwp:1},joint:{wp:0}}
