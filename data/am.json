@@ -385,7 +385,7 @@
 {id:10,name:"ソア・ラAM",cost:40,hp:25,str:2,tec:1,fly:2}
 
 {id:29,name:"ダイダリオンAM",type:"l",cost:40,hp:25,str:3,tec:-1,wlk:1,tgh:2}
-{id:115,name:"タイタンコイルAM",main:{pwr:4,shl:800,rng:225,spd:480,itv:100},sub:{pwr:24,shl:0,rng:100,spd:150,itv:2000},tunable:{mwp:1,pwp:1},type:"",joint:{wp:0},cost:110,hp:25,str:-1,tec:1,wlk:2,fly:1,tgh:2,comment:"-"}
+{id:115,name:"タイタンコイルAM",main:{pwr:4,shl:800,rng:225,spd:480,itv:100},sub:{pwr:24,shl:0,rng:100,spd:150,itv:2000},tunable:{mwp:1,pwp:1},type:"s",joint:{wp:0},cost:110,hp:25,str:-1,tec:1,wlk:2,fly:1,tgh:2,comment:"-"}
 {id:55,name:"ダイモンAM",cost:35,hp:20,str:2,tec:-1,wlk:1,fly:1,tgh:2}
 {id:56,name:"ダイモンAM2",main:{pwr:14,shl:350,rng:130,spd:300,itv:200},tunable:{mwp:1},type:"lc",cost:85,hp:20,str:-1,tec:3,wlk:1,tgh:2,joint:{wp:0}}
 {id:57,name:"ダイモンAM3",main:{pwr:6,shl:900,rng:150,spd:400,itv:500},tunable:{mwp:1},type:"l",cost:85,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,joint:{wp:0}}
