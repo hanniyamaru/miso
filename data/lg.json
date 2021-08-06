@@ -225,7 +225,7 @@
 {id:114,name:"RAMソルジェッターLG",cost:105,hp:25,str:2,tec:-1,wlk:2,fly:2,tgh:1,size:"M",type:"a",sub:{str:100,pwr:26,rng:120,spd:250,itv:1000},comment:"-",tunable:{pwp:1}}
 {id:90,name:"オーガヒルLG",joint:{bs:1},cost:45,hp:25,str:-1,wlk:2,fly:2,tgh:3}
 {id:102,name:"ハイガクゥーンLG",type:"lacs",size:"M",cost:45,hp:25,str:-1,tec:1,wlk:3,fly:2,tgh:1}
-{id:15,name:"メカジェッターLG",cost:85,hp:25,str:2,tec:-1,wlk:2,fly:1,tgh:1,sub:{str:100,pwr:24,shl:60,rng:120,spd:220,itv:1000},tunable:{pwp:1}}
+{id:15,name:"メカジェッターLG",cost:85,hp:25,str:2,tec:-1,wlk:2,fly:1,tgh:1,sub:{str:100,pwr:24,shl:60,rng:120,spd:220,itv:1000},type:"a",tunable:{pwp:1}}
 {id:29,name:"ソルジェッターLG",type:"a",cost:95,hp:25,str:3,tec:-1,wlk:2,fly:1,sub:{str:100,pwr:34,shl:30,rng:120,spd:220,itv:1000},tunable:{pwp:1},builtin:{bs:1}}
 {id:392,name:"ウミガメンティスLG",type:"a",size:"M",cost:45,hp:25,str:2,tec:1,wlk:3,fly:1,tgh:-1}
 {id:125,name:"ワニガメンティスLG",type:"lacs",size:"M",cost:45,hp:25,str:-1,tec:1,wlk:3,fly:1,tgh:2}
