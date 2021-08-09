@@ -35,32 +35,51 @@
 
 
 {group:"UniＳＳサイズ",prefixID:"SS",commonStat:{size:"SS"},nextID:8}
-{id:3,name:"リリレインαBS",type:"c",cost:40,hp:25,wlk:2,fly:2,tgh:1}
 {id:4,name:"ウィンベルαBS",type:"s",cost:40,hp:25,wlk:1,fly:3,tgh:1}
+{id:3,name:"リリレインαBS",type:"c",cost:40,hp:25,wlk:2,fly:2,tgh:1}
+
+
 
 
 {group:"UniＳサイズ",prefixID:"S",commonStat:{size:"S"},nextID:42}
-{id:1,name:"フログランダーBS",type:"l",cost:35,hp:20,str:1,tec:1,fly:3}
-{id:3,name:"ポーンジャーBS",type:"l",cost:35,hp:20,str:1,wlk:1,fly:3}
-{id:18,name:"タラントリックBS",type:"s",cost:35,hp:20,wlk:1,fly:3,tgh:1}
+
+{id:160,name:"アレスターBS",type:"s",cost:40,hp:25,str:1,wlk:2,fly:2,size:"S"}
+
+{id:55,name:"イオンαBS",type:"l",cost:40,hp:25,tec:2,wlk:1,fly:2}
+
+{id:113,name:"エアリーデBS",sub:{shl:50,rng:100,spd:120,itv:1000},type:"a",cost:65,hp:20,tec:2,wlk:-1,fly:4}
+
+
 {id:72,name:"クロタクスBS",type:"l",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:3,tgh:1}
-{id:85,name:"ゼロセイバーガールBS",type:"l",cost:40,hp:20,str:1,tec:1,fly:1,tgh:2}
+
+{id:77,name:"シルビアBS",type:"l",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:2,tgh:2}
+{id:105,name:"シルビアBS2",type:"l",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:3,tgh:1}
+
+{id:45,name:"スクイドルガールαBS",type:"s",cost:40,hp:25,str:2,tec:1,wlk:-1,fly:3}
+
+
 {id:7,name:"ゼロセイバーBS",type:"l",cost:40,hp:25,str:1,tec:1,wlk:1,fly:2}
+
 {id:167,name:"ゼロセイバーNEXTBS",sub:{pwr:1,str:100,shl:30,rng:10,spd:150,itv:1000},cost:70,hp:25,str:2,tec:1,wlk:-1,fly:3,comment:"-",size:"S",type:"l"}
+{id:85,name:"ゼロセイバーガールBS",type:"l",cost:40,hp:20,str:1,tec:1,fly:1,tgh:2}
+{id:511,name:"ゼロナイトBS",type:"a",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:3,tgh:1}
+
 {id:26,name:"ゼロファイターBS",type:"l",cost:35,hp:20,str:1,fly:3,tgh:1}
 {id:64,name:"ゼロファイターNEXTBS",type:"l",cost:70,hp:25,str:1,tec:-1,wlk:2,fly:3,sub:{shl:30,rng:120,spd:250,itv:1000,str:100},tunable:{pwp:0}}
-{id:78,name:"メルフィBS",cost:40,hp:25,str:1,tec:2,wlk:-1,fly:3,type:"s"}
-{id:87,name:"メカジェッターガールBS",type:"a",cost:40,hp:20,str:1,wlk:1,fly:2,tgh:1}
+
+
+
+
+{id:18,name:"タラントリックBS",type:"s",cost:35,hp:20,wlk:1,fly:3,tgh:1}
+
+
+
+
 {id:13,name:"ソードウィングBS",type:"a",cost:35,hp:20,wlk:1,fly:4}
 {id:61,name:"サイコフォーミュラBS",type:"c",cost:40,hp:25,tec:1,fly:3,tgh:1}
 {id:81,name:"デストラクトガールBS",type:"c",cost:40,hp:20,fly:2,tgh:3}
 {id:15,name:"キャノンボールBS",type:"c",cost:35,hp:20,str:1,fly:3,tgh:1}
 {id:97,name:"キャノンボールHLBS",type:"c",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:3,tgh:1}
-{id:43,name:"マイティバインガールBS",cost:40,hp:25,wlk:1,fly:2,tgh:2,type:"l"}
-{id:45,name:"スクイドルガールαBS",type:"s",cost:40,hp:25,str:2,tec:1,wlk:-1,fly:3}
-{id:160,name:"アレスターBS",type:"s",cost:40,hp:25,str:1,wlk:2,fly:2,size:"S"}
-{id:77,name:"シルビアBS",type:"l",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:2,tgh:2}
-{id:105,name:"シルビアBS2",type:"l",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:3,tgh:1}
 
 {id:108,name:"ナターシャBS",type:"c",cost:40,hp:25,wlk:-1,fly:3,tgh:3}
 {id:6,name:"ジークンαBS",type:"l",cost:40,hp:25,str:2,tec:-1,fly:3,tgh:1}
@@ -99,23 +118,40 @@
 {id:510,name:"アイシーBS",type:"c",cost:40,hp:25,tec:1,wlk:1,fly:3}
 {id:129,name:"ステラBS",cost:40,hp:25,tec:3,wlk:1,fly:2,tgh:-1,type:"a"}
 {id:100,name:"シャーナBS",type:"a",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:2,tgh:1}
-{id:135,name:"K・ノンナBS",type:"c",size:"S",cost:35,hp:20,str:-1,tec:3,fly:3,joint:{bs:1},comment:"K・ノンナBS＠のみ接続可能"}
-{id:112,name:"K・ノンナBS@",main:{pwr:15,shl:450,rng:350,spd:500,itv:400},sub:{pwr:28,shl:100,rng:350,spd:500,itv:1000},tunable:{mwp:1,pwp:0},type:"c",size:"S",cost:160,comment:"K・ノンナBS専用コンバージョンパーツ"}
+
+{id:29,name:"ブリックゲイルBS",type:"a",cost:60,hp:25,wlk:1,fly:4,sub:{shl:50,rng:0,spd:150,itv:1000},comment:"BLUE"}
+
+{id:130,name:"ベルゼイラフガールBS",type:"c",size:"S",cost:35,hp:20,tec:1,wlk:1,fly:3}
+
+
+
+
+{id:1,name:"フログランダーBS",type:"l",cost:35,hp:20,str:1,tec:1,fly:3}
+
+{id:3,name:"ポーンジャーBS",type:"l",cost:35,hp:20,str:1,wlk:1,fly:3}
+{id:43,name:"マイティバインガールBS",cost:40,hp:25,wlk:1,fly:2,tgh:2,type:"l"}
+
+
+{id:87,name:"メカジェッターガールBS",type:"a",cost:40,hp:20,str:1,wlk:1,fly:2,tgh:1}
 {id:96,name:"メトラBS",type:"a",cost:35,hp:20,str:1,tec:-1,wlk:1,fly:4}
 {id:190,name:"メトラBS2+BS2@",sub:{pwr:9,shl:180,rng:250,spd:320,itv:1000},joint:{bs:1},fixedParts:{bs:{name:"メトラBS2@",sub:{shl:40,rng:100,spd:150,itv:1000},cost:20,slot:0}},cost:65,hp:20,str:-1,tec:2,fly:3,tgh:1,comment:"コンバージョン複合",type:"a",size:"S"}
 
 {id:189,name:"メトラBS2",sub:{pwr:9,shl:180,rng:250,spd:320,itv:1000},cost:65,hp:20,str:-1,tec:2,fly:3,tgh:1,type:"a",size:"S"}
 
-{id:29,name:"ブリックゲイルBS",type:"a",cost:60,hp:25,wlk:1,fly:4,sub:{shl:50,rng:0,spd:150,itv:1000},comment:"BLUE"}
+{id:78,name:"メルフィBS",cost:40,hp:25,str:1,tec:2,wlk:-1,fly:3,type:"s"}
 
-{id:130,name:"ベルゼイラフガールBS",type:"c",size:"S",cost:35,hp:20,tec:1,wlk:1,fly:3}
-{id:113,name:"エアリーデBS",sub:{shl:50,rng:100,spd:120,itv:1000},type:"a",cost:65,hp:20,tec:2,wlk:-1,fly:4}
-{id:511,name:"ゼロナイトBS",type:"a",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:3,tgh:1}
-{id:101,name:"ヤクシャBS",main:{pwr:8,shl:540,rng:275,spd:320,itv:1000},tunable:{mwp:1},type:"a",cost:105,hp:20,str:-1,tec:3,fly:3}
-
-{id:55,name:"イオンαBS",type:"l",cost:40,hp:25,tec:2,wlk:1,fly:2}
 {id:53,name:"レジナ・ウィンベルαBS",type:"s",cost:30,hp:15,str:1,fly:2,tgh:1}
 {id:54,name:"レジナ・ウィンベルαBS2",cost:30,hp:15,wlk:1,fly:3}
+
+
+{id:101,name:"ヤクシャBS",main:{pwr:8,shl:540,rng:275,spd:320,itv:1000},tunable:{mwp:1},type:"a",cost:105,hp:20,str:-1,tec:3,fly:3}
+
+
+{id:135,name:"K・ノンナBS",type:"c",size:"S",cost:35,hp:20,str:-1,tec:3,fly:3,joint:{bs:1},comment:"K・ノンナBS＠のみ接続可能"}
+{id:112,name:"K・ノンナBS@",main:{pwr:15,shl:450,rng:350,spd:500,itv:400},sub:{pwr:28,shl:100,rng:350,spd:500,itv:1000},tunable:{mwp:1,pwp:0},type:"c",size:"S",cost:160,comment:"K・ノンナBS専用コンバージョンパーツ"}
+
+{id:11112,name:"K・ノンナBS(コンバージョン有り)",type:"c",size:"S",cost:35,hp:20,str:-1,tec:3,fly:3,joint:{wp:1},fixedParts:{wp:{name:"K・ノンナBS@",main:{pwr:15,shl:450,rng:350,spd:500,itv:400},sub:{pwr:28,shl:100,rng:350,spd:500,itv:1000},tunable:{mwp:1,pwp:0},type:"c",size:"S",cost:160,comment:"-"}}}
+
 
 
 
