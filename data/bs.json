@@ -156,8 +156,8 @@
 {id:185,name:"A・ミラルBS",sub:{shl:60,rng:100,spd:150,itv:1000},type:"lc",size:"S",cost:65,hp:20,str:-1,tec:2,wlk:1,fly:3,fixedParts:[],tunable:{pwp:0},joint:{bs:1}}
 {id:186,name:"A・ミラルBS@",type:"lc",size:"S",cost:100,fixedParts:[],tunable:{pwp:0,mwp:1},main:{tec:100,pwr:8,shl:500,rng:250,spd:360,itv:440}}
 
-{id:185000,name:"A・ミラルBS（コンバージョン有り）",sub:{shl:60,rng:100,spd:150,itv:1000},type:"lc",size:"S",cost:65,hp:20,str:-1,tec:2,wlk:1,fly:3,fixedParts:{wp:{name:"A・ミラルBS@",type:"lc",size:"S",cost:100,tunable:{pwp:0,mwp:1},main:{tec:100,pwr:8,shl:500,rng:250,spd:360,itv:440},tunable:{pwp:0},joint:{wp:1}}}}
 
+{id:185000,name:"A・ミラルBS（コンバージョン有り）",sub:{shl:60,rng:100,spd:150,itv:1000},type:"lc",size:"S",cost:65,hp:20,str:-1,tec:2,wlk:1,fly:3,joint:{wp:1},fixedParts:{wp:{name:"A・ミラルBS@",type:"lc",size:"S",cost:100,tunable:{pwp:0,mwp:1},main:{tec:100,pwr:8,shl:500,rng:250,spd:360,itv:440},tunable:{mwp:1}}}}
 
 {id:89,name:"A.L.E.ウィンベルBS",cost:40,hp:25,str:-1,wlk:1,fly:3,tgh:2,type:"s"}
 {id:93,name:"A.L.E.ジークンロンBS",cost:40,hp:25,str:2,wlk:1,fly:2,type:"l"}
