@@ -324,9 +324,16 @@
 {id:12,name:"アクイーアBS",type:"a",cost:50,hp:30,str:1,tec:2,wlk:-1,fly:3,tgh:1}
 
 
+{id:61,name:"アントリオンBS",sub:{tec:100,pwr:7,shl:360,rng:350,spd:290,itv:1000},type:"c",cost:90,hp:25,str:-1,tec:2,fly:2,tgh:2}
+
 
 {id:57,name:"ウォーダスBS",type:"l",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:3}
 {id:68,name:"ウォーダスBS2",type:"l",cost:40,hp:25,str:-1,wlk:2,fly:3,tgh:1}
+{id:63,name:"ヴォルフライエBS",joint:{bs:1},fixedParts:{bs:{name:"ヴォルフライエBS@",main:{pwr:6,shl:600,rng:275,spd:350,itv:1000},sub:{shl:30,rng:100,spd:120,itv:1000},slot:0}},type:"a",cost:160,hp:25,tec:2,fly:4,tgh:-1,comment:"BS@cost120合算"}
+
+
+
+
 
 
 
@@ -335,13 +342,25 @@
 
 
 {id:71,name:"カタロスBS",cost:40,hp:25,str:1,tec:1,wlk:-1,fly:3,tgh:1,type:"a"}
+{id:45,name:"ガデロガBS",type:"c",cost:40,hp:25,str:1,wlk:-1,fly:3,tgh:2}
+
+
 {id:5,name:"ガナハウンドBS",type:"l",cost:40,hp:20,tec:1,fly:3,tgh:1}
 {id:43,name:"ガルスチールBS",type:"c",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:3,tgh:1}
+{id:24,name:"ガルラバードBS",type:"a",cost:40,hp:25,wlk:1,fly:2,tgh:2}
+
+
 {id:16,name:"ギガトンオーBS",type:"c",cost:40,hp:25,str:-1,tec:1,fly:3,tgh:2}
 
 {id:60,name:"クシュルブBS",type:"l",cost:35,hp:20,str:-1,tec:1,fly:3,tgh:2}
 
 {id:86,name:"クリスタスBS",main:{tec:100,pwr:14,shl:220,rng:275,spd:360,itv:1000},tunable:{mwp:1},type:"a",size:"L",cost:105,hp:20,str:-1,tec:2,fly:3,tgh:1}
+{id:30,name:"クロコダガーBS",type:"l",cost:40,hp:25,str:1,tec:-1,wlk:2,fly:2,tgh:1}
+{id:4,name:"コスモカイザーBS",type:"l",cost:35,hp:20,str:1,tec:-1,wlk:1,fly:3,tgh:1}
+{id:4050,name:"コスモカイザーBS2",type:"l",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:3}
+
+
+{id:29,name:"コントラディクトBS",type:"c",cost:35,hp:20,str:1,wlk:-1,fly:3,tgh:2}
 
 {id:37,name:"サイクロテスBS",type:"l",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:2,tgh:2}
 {id:18,name:"サジタルマクシスBS",type:"c",cost:40,hp:25,str:2,fly:3}
@@ -351,62 +370,39 @@
 
 {id:22,name:"ジオグラシスBS",type:"l",cost:40,hp:25,str:1,wlk:1,fly:3}
 {id:28,name:"ジオグラシスBS2",type:"a",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:3,tgh:1}
+{id:20,name:"シュトルバンガーBS",type:"c",cost:35,hp:20,str:2,wlk:1,fly:2}
 
+{id:34,name:"スケアガントBS",cost:40,hp:25,fly:2,tgh:3,type:"l"}
 
 {id:121,name:"スチールバーンBS2",type:"a",cost:40,hp:25,wlk:1,fly:3,tgh:1}
 {id:1,name:"スチールライダーBS",type:"l",cost:40,hp:25,tec:1,wlk:1,fly:3}
 
+{id:26,name:"ゼロブレイカーBS",tunable:{mwp:0,pwp:0},type:"l",cost:40,hp:25,wlk:2,fly:2,tgh:1}
+{id:11,name:"ソア・ラBS",type:"a",cost:40,hp:25,wlk:1,fly:2,tgh:2}
+
 
 {id:74,name:"タイタンコイルBS",type:"s",cost:40,hp:25,str:-1,wlk:2,fly:3,tgh:1}
+{id:8,name:"ダイダリオンBS",type:"l",cost:40,hp:25,str:1,tec:1,fly:2,tgh:1}
+
 {id:36,name:"ダイモンBS",type:"l",cost:40,hp:25,str:1,wlk:1,fly:3}
 
+{id:51,name:"ダゴミュールBS",type:"c",cost:120,hp:25,str:-1,tec:3,fly:3,joint:{bs:1},fixedParts:{bs:{name:"ダゴミュールBS@",main:{pwr:11,shl:400,rng:300,spd:360,itv:800},tunable:{mwp:1},slot:0},comment:"BS@cost80合算"}}
+{id:78,name:"ダゴミュールBS2",joint:{bs:2},fixedParts:{bs:[{main:{pwr:23,shl:120,rng:330,spd:350,itv:800},name:"ダゴミュールBS2@1",slot:0,comment:"ミサイル"},{name:"ダゴミュールBS2@2",main:{pwr:10,shl:300,rng:380,spd:500,itv:300},slot:0,comment:"バズーカ"}]},type:"c",cost:160,hp:25,str:-1,tec:3,fly:2,tgh:1,comment:"@パーツ合計cost120合算"}
+
+{id:52,name:"ディースモークBS",type:"s",cost:40,hp:25,tec:-1,wlk:2,fly:2,tgh:2}
+
 {id:89,name:"ディースモークBS2",main:{tec:100,pwr:7,shl:400,rng:275,spd:290,itv:800},sub:{shl:25,rng:10,spd:10,itv:1000,str:100},tunable:{pwp:1,mwp:1},type:"s",size:"L",cost:140,hp:25,str:-1,tec:1,wlk:1,fly:3,tgh:1}
+
+{id:15,name:"デストラクトBS",type:"c",cost:40,hp:25,tec:1,wlk:1,fly:2,tgh:1}
+{id:41,name:"デストラクトMAXBS",type:"c",cost:40,hp:25,tec:1,fly:2,tgh:2}
 
 
 {id:17,name:"トイボックスBS",type:"c",cost:40,hp:20,str:1,fly:3,tgh:1}
 
 {id:25,name:"ドミクラウンBS",type:"l",cost:35,hp:20,str:2,tec:-1,fly:3,tgh:1}
-
-
-
-
-
-
-{id:34,name:"スケアガントBS",cost:40,hp:25,fly:2,tgh:3,type:"l"}
-{id:46,name:"ワイルドビークBS",type:"l",cost:40,hp:25,tec:1,wlk:1,fly:3}
-
-
-
-
-
-{id:11,name:"ソア・ラBS",type:"a",cost:40,hp:25,wlk:1,fly:2,tgh:2}
-{id:7,name:"ブレイズバロンBS",type:"l",cost:45,hp:25,str:2,tec:1,fly:3,tgh:-1}
-{id:38,name:"ベクターBS",type:"a",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:3}
-{id:20,name:"シュトルバンガーBS",type:"c",cost:35,hp:20,str:2,wlk:1,fly:2}
-{id:52,name:"ディースモークBS",type:"s",cost:40,hp:25,tec:-1,wlk:2,fly:2,tgh:2}
-{id:4,name:"コスモカイザーBS",type:"l",cost:35,hp:20,str:1,tec:-1,wlk:1,fly:3,tgh:1}
-{id:4050,name:"コスモカイザーBS2",type:"l",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:3}
-{id:33,name:"ブリッツェルトBS",type:"a",cost:55,hp:25,str:1,tec:1,fly:4,tgh:-1}
-{id:45,name:"ガデロガBS",type:"c",cost:40,hp:25,str:1,wlk:-1,fly:3,tgh:2}
-{id:49,name:"マシンドレットBS",type:"l",cost:30,hp:20,str:1,tec:-1,fly:2,tgh:2}
 {id:73,name:"ドラゴネイルBS",type:"l",cost:40,hp:25,str:2,tec:1,wlk:1,fly:2,tgh:-1}
-{id:63,name:"ヴォルフライエBS",joint:{bs:1},fixedParts:{bs:{name:"ヴォルフライエBS@",main:{pwr:6,shl:600,rng:275,spd:350,itv:1000},sub:{shl:30,rng:100,spd:120,itv:1000},slot:0}},type:"a",cost:160,hp:25,tec:2,fly:4,tgh:-1,comment:"BS@cost120合算"}
-{id:61,name:"アントリオンBS",sub:{tec:100,pwr:7,shl:360,rng:350,spd:290,itv:1000},type:"c",cost:90,hp:25,str:-1,tec:2,fly:2,tgh:2}
-{id:51,name:"ダゴミュールBS",type:"c",cost:120,hp:25,str:-1,tec:3,fly:3,joint:{bs:1},fixedParts:{bs:{name:"ダゴミュールBS@",main:{pwr:11,shl:400,rng:300,spd:360,itv:800},tunable:{mwp:1},slot:0},comment:"BS@cost80合算"}}
-{id:78,name:"ダゴミュールBS2",joint:{bs:2},fixedParts:{bs:[{main:{pwr:23,shl:120,rng:330,spd:350,itv:800},name:"ダゴミュールBS2@1",slot:0,comment:"ミサイル"},{name:"ダゴミュールBS2@2",main:{pwr:10,shl:300,rng:380,spd:500,itv:300},slot:0,comment:"バズーカ"}]},type:"c",cost:160,hp:25,str:-1,tec:3,fly:2,tgh:1,comment:"@パーツ合計cost120合算"}
-{id:70,name:"プレデトバイツBS",type:"c",cost:40,hp:25,str:1,tec:1,tgh:3}
-{id:48,name:"ロトンレムレスBS",type:"s",cost:40,hp:25,str:-1,tec:1,fly:2,tgh:3}
-{id:26,name:"ゼロブレイカーBS",tunable:{mwp:0,pwp:0},type:"l",cost:40,hp:25,wlk:2,fly:2,tgh:1}
-{id:15,name:"デストラクトBS",type:"c",cost:40,hp:25,tec:1,wlk:1,fly:2,tgh:1}
-{id:41,name:"デストラクトMAXBS",type:"c",cost:40,hp:25,tec:1,fly:2,tgh:2}
-{id:29,name:"コントラディクトBS",type:"c",cost:35,hp:20,str:1,wlk:-1,fly:3,tgh:2}
-{id:30,name:"クロコダガーBS",type:"l",cost:40,hp:25,str:1,tec:-1,wlk:2,fly:2,tgh:1}
-{id:24,name:"ガルラバードBS",type:"a",cost:40,hp:25,wlk:1,fly:2,tgh:2}
-{id:8,name:"ダイダリオンBS",type:"l",cost:40,hp:25,str:1,tec:1,fly:2,tgh:1}
+
 {id:290,name:"ドラッケンBS",type:"l",cost:40,hp:25,str:1,tec:-1,fly:3,tgh:2}
-{id:47,name:"ラグナバレットBS",type:"c",cost:40,hp:25,fly:4,tgh:1}
-
-
 
 
 
@@ -417,21 +413,32 @@
 
 
 {id:10,name:"ビッグマンテスBS",type:"a",cost:40,hp:25,tec:1,fly:2,tgh:2}
+{id:33,name:"ブリッツェルトBS",type:"a",cost:55,hp:25,str:1,tec:1,fly:4,tgh:-1}
+{id:7,name:"ブレイズバロンBS",type:"l",cost:45,hp:25,str:2,tec:1,fly:3,tgh:-1}
 
+{id:70,name:"プレデトバイツBS",type:"c",cost:40,hp:25,str:1,tec:1,tgh:3}
+
+{id:38,name:"ベクターBS",type:"a",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:3}
 
 
 {id:19,name:"ボイルデックBS",type:"c",cost:40,hp:25,tec:1,fly:2,tgh:2}
 
 {id:6,name:"マイティバインBS",type:"l",cost:40,hp:25,str:1,tec:-1,fly:3,tgh:2}
+{id:49,name:"マシンドレットBS",type:"l",cost:30,hp:20,str:1,tec:-1,fly:2,tgh:2}
+
+
 {id:14,name:"メガトンオーBS",type:"c",cost:35,hp:20,tec:1,fly:3,tgh:1}
 
 {id:50,name:"メディックボールBS",type:"s",cost:40,hp:25,tec:1,fly:3,tgh:1}
 
+{id:47,name:"ラグナバレットBS",type:"c",cost:40,hp:25,fly:4,tgh:1}
 
 {id:58,name:"ラクラボロスBS",type:"s",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:3}
 
 {id:88,name:"ランパーニルBS",type:"l",size:"L",cost:35,hp:20,str:-1,tec:1,wlk:1,fly:3,tgh:1}
+{id:48,name:"ロトンレムレスBS",type:"s",cost:40,hp:25,str:-1,tec:1,fly:2,tgh:3}
 
+{id:46,name:"ワイルドビークBS",type:"l",cost:40,hp:25,tec:1,wlk:1,fly:3}
 
 
 
@@ -454,7 +461,7 @@
 
 {id:4,name:"ブリガバロンBS",type:"l",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:2,tgh:2}
 
-{id:5,name:"ヘカトケレスBS",type:"c",cost:125,hp:20,tec:2,wlk:-1,fly:3,tgh:1,main:{tec:100,pwr:11,shl:700,rng:330,spd:290,itv:1000},tunable:{mwp:1},size:"LL"}
+{id:5,name:"ヘカトケレスBS",type:"c",cost:125,hp:20,tec:2,wlk:-1,fly:3,tgh:1,main:{tec:100,pwr:11,shl:700,rng:330,spd:290,itv:1000},tunable:{mwp:1},size:"LL",comment:"壁越しロックオン可能"}
 
 
 
@@ -469,7 +476,7 @@
 
 
 {id:2001,name:"メビウスBSJ",size:"M",cost:0,hp:0,slot:1}
-{id:13,name:"ヘカトケレスBSJ",main:{pwr:6,shl:360,rng:330,spd:290,itv:600},cost:40,size:"LL",type:"c",slot:1,tunable:{mwp:1}}
+{id:13,name:"ヘカトケレスBSJ",main:{pwr:6,shl:360,rng:330,spd:290,itv:600},cost:40,size:"LL",type:"c",slot:1,tunable:{mwp:1},comment:"壁越しロックオン可能"}
 
 
 {group:"コンバージョンパーツ",nextID:0}
