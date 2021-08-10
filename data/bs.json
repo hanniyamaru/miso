@@ -321,29 +321,64 @@
 
 {group:"UniＬサイズ",prefixID:"L",commonStat:{size:"L"},nextID:35}
 
+{id:12,name:"アクイーアBS",type:"a",cost:50,hp:30,str:1,tec:2,wlk:-1,fly:3,tgh:1}
+
+
+
+{id:57,name:"ウォーダスBS",type:"l",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:3}
+{id:68,name:"ウォーダスBS2",type:"l",cost:40,hp:25,str:-1,wlk:2,fly:3,tgh:1}
+
+
+
+
+
+
+
+{id:71,name:"カタロスBS",cost:40,hp:25,str:1,tec:1,wlk:-1,fly:3,tgh:1,type:"a"}
+{id:5,name:"ガナハウンドBS",type:"l",cost:40,hp:20,tec:1,fly:3,tgh:1}
+{id:43,name:"ガルスチールBS",type:"c",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:3,tgh:1}
+{id:16,name:"ギガトンオーBS",type:"c",cost:40,hp:25,str:-1,tec:1,fly:3,tgh:2}
+
+{id:60,name:"クシュルブBS",type:"l",cost:35,hp:20,str:-1,tec:1,fly:3,tgh:2}
+
+{id:86,name:"クリスタスBS",main:{tec:100,pwr:14,shl:220,rng:275,spd:360,itv:1000},tunable:{mwp:1},type:"a",size:"L",cost:105,hp:20,str:-1,tec:2,fly:3,tgh:1}
+
+{id:37,name:"サイクロテスBS",type:"l",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:2,tgh:2}
+{id:18,name:"サジタルマクシスBS",type:"c",cost:40,hp:25,str:2,fly:3}
+
+{id:69,name:"ザリドBS",type:"l",cost:40,hp:25,tec:2,wlk:-1,fly:3,tgh:1}
+{id:23,name:"ジーウェインBS",type:"a",cost:40,hp:25,tec:2,wlk:-1,fly:3,tgh:1}
+
+{id:22,name:"ジオグラシスBS",type:"l",cost:40,hp:25,str:1,wlk:1,fly:3}
+{id:28,name:"ジオグラシスBS2",type:"a",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:3,tgh:1}
+
+
+{id:121,name:"スチールバーンBS2",type:"a",cost:40,hp:25,wlk:1,fly:3,tgh:1}
+{id:1,name:"スチールライダーBS",type:"l",cost:40,hp:25,tec:1,wlk:1,fly:3}
+
+
 {id:74,name:"タイタンコイルBS",type:"s",cost:40,hp:25,str:-1,wlk:2,fly:3,tgh:1}
+{id:36,name:"ダイモンBS",type:"l",cost:40,hp:25,str:1,wlk:1,fly:3}
 
 {id:89,name:"ディースモークBS2",main:{tec:100,pwr:7,shl:400,rng:275,spd:290,itv:800},sub:{shl:25,rng:10,spd:10,itv:1000,str:100},tunable:{pwp:1,mwp:1},type:"s",size:"L",cost:140,hp:25,str:-1,tec:1,wlk:1,fly:3,tgh:1}
 
 
+{id:17,name:"トイボックスBS",type:"c",cost:40,hp:20,str:1,fly:3,tgh:1}
 
-{id:6,name:"マイティバインBS",type:"l",cost:40,hp:25,str:1,tec:-1,fly:3,tgh:2}
-{id:5,name:"ガナハウンドBS",type:"l",cost:40,hp:20,tec:1,fly:3,tgh:1}
-{id:86,name:"クリスタスBS",main:{tec:100,pwr:14,shl:220,rng:275,spd:360,itv:1000},tunable:{mwp:1},type:"a",size:"L",cost:105,hp:20,str:-1,tec:2,fly:3,tgh:1}
+{id:25,name:"ドミクラウンBS",type:"l",cost:35,hp:20,str:2,tec:-1,fly:3,tgh:1}
+
+
+
+
+
 
 {id:34,name:"スケアガントBS",cost:40,hp:25,fly:2,tgh:3,type:"l"}
 {id:46,name:"ワイルドビークBS",type:"l",cost:40,hp:25,tec:1,wlk:1,fly:3}
-{id:50,name:"メディックボールBS",type:"s",cost:40,hp:25,tec:1,fly:3,tgh:1}
-{id:21,name:"パルサーディオBS",type:"s",cost:40,hp:25,wlk:2,fly:2,tgh:1}
-{id:80,name:"バフデバスターBS",type:"s",cost:40,hp:25,str:-1,wlk:1,fly:3,tgh:2}
-{id:23,name:"ジーウェインBS",type:"a",cost:40,hp:25,tec:2,wlk:-1,fly:3,tgh:1}
-{id:12,name:"アクイーアBS",type:"a",cost:50,hp:30,str:1,tec:2,wlk:-1,fly:3,tgh:1}
-{id:18,name:"サジタルマクシスBS",type:"c",cost:40,hp:25,str:2,fly:3}
-{id:17,name:"トイボックスBS",type:"c",cost:40,hp:20,str:1,fly:3,tgh:1}
-{id:43,name:"ガルスチールBS",type:"c",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:3,tgh:1}
-{id:36,name:"ダイモンBS",type:"l",cost:40,hp:25,str:1,wlk:1,fly:3}
-{id:57,name:"ウォーダスBS",type:"l",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:3}
-{id:68,name:"ウォーダスBS2",type:"l",cost:40,hp:25,str:-1,wlk:2,fly:3,tgh:1}
+
+
+
+
+
 {id:11,name:"ソア・ラBS",type:"a",cost:40,hp:25,wlk:1,fly:2,tgh:2}
 {id:7,name:"ブレイズバロンBS",type:"l",cost:45,hp:25,str:2,tec:1,fly:3,tgh:-1}
 {id:38,name:"ベクターBS",type:"a",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:3}
@@ -370,21 +405,31 @@
 {id:8,name:"ダイダリオンBS",type:"l",cost:40,hp:25,str:1,tec:1,fly:2,tgh:1}
 {id:290,name:"ドラッケンBS",type:"l",cost:40,hp:25,str:1,tec:-1,fly:3,tgh:2}
 {id:47,name:"ラグナバレットBS",type:"c",cost:40,hp:25,fly:4,tgh:1}
-{id:60,name:"クシュルブBS",type:"l",cost:35,hp:20,str:-1,tec:1,fly:3,tgh:2}
-{id:22,name:"ジオグラシスBS",type:"l",cost:40,hp:25,str:1,wlk:1,fly:3}
-{id:28,name:"ジオグラシスBS2",type:"a",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:3,tgh:1}
-{id:14,name:"メガトンオーBS",type:"c",cost:35,hp:20,tec:1,fly:3,tgh:1}
-{id:16,name:"ギガトンオーBS",type:"c",cost:40,hp:25,str:-1,tec:1,fly:3,tgh:2}
-{id:10,name:"ビッグマンテスBS",type:"a",cost:40,hp:25,tec:1,fly:2,tgh:2}
-{id:71,name:"カタロスBS",cost:40,hp:25,str:1,tec:1,wlk:-1,fly:3,tgh:1,type:"a"}
-{id:1,name:"スチールライダーBS",type:"l",cost:40,hp:25,tec:1,wlk:1,fly:3}
 
-{id:121,name:"スチールバーンBS2",type:"a",cost:40,hp:25,wlk:1,fly:3,tgh:1}
-{id:58,name:"ラクラボロスBS",type:"s",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:3}
-{id:25,name:"ドミクラウンBS",type:"l",cost:35,hp:20,str:2,tec:-1,fly:3,tgh:1}
-{id:69,name:"ザリドBS",type:"l",cost:40,hp:25,tec:2,wlk:-1,fly:3,tgh:1}
+
+
+
+
+{id:80,name:"バフデバスターBS",type:"s",cost:40,hp:25,str:-1,wlk:1,fly:3,tgh:2}
+
+{id:21,name:"パルサーディオBS",type:"s",cost:40,hp:25,wlk:2,fly:2,tgh:1}
+
+
+
+{id:10,name:"ビッグマンテスBS",type:"a",cost:40,hp:25,tec:1,fly:2,tgh:2}
+
+
+
 {id:19,name:"ボイルデックBS",type:"c",cost:40,hp:25,tec:1,fly:2,tgh:2}
-{id:37,name:"サイクロテスBS",type:"l",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:2,tgh:2}
+
+{id:6,name:"マイティバインBS",type:"l",cost:40,hp:25,str:1,tec:-1,fly:3,tgh:2}
+{id:14,name:"メガトンオーBS",type:"c",cost:35,hp:20,tec:1,fly:3,tgh:1}
+
+{id:50,name:"メディックボールBS",type:"s",cost:40,hp:25,tec:1,fly:3,tgh:1}
+
+
+{id:58,name:"ラクラボロスBS",type:"s",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:3}
+
 {id:88,name:"ランパーニルBS",type:"l",size:"L",cost:35,hp:20,str:-1,tec:1,wlk:1,fly:3,tgh:1}
 
 
@@ -396,14 +441,20 @@
 
 
 
+
+
+
 {group:"UniＬＬサイズ",prefixID:"LL",commonStat:{size:"LL"},nextID:3}
+{id:95,name:"コルディプスBS",main:{tec:100,pwr:10,shl:500,rng:330,spd:280,itv:800},cost:85,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,size:"LL",type:"c",tunable:{mwp:1}}
+
 {id:1,name:"シェイデンBS",type:"a",cost:125,hp:25,fly:5,sub:{pwr:1,shl:1,rng:200,spd:110,itv:2000}}
 {id:3,name:"シェイデンBS2",sub:{pwr:1,shl:1,rng:200,spd:110,itv:2000},type:"a",cost:125,hp:25,tec:2,wlk:1,fly:4,tgh:-2}
 {id:6,name:"シェイデンBS3",sub:{pwr:1,shl:1,rng:200,spd:110,itv:2000},type:"a",size:"LL",cost:125,hp:25,str:1,tec:1,fly:4,tgh:-1}
-{id:5,name:"ヘカトケレスBS",type:"c",cost:125,hp:20,tec:2,wlk:-1,fly:3,tgh:1,main:{tec:100,pwr:11,shl:700,rng:330,spd:290,itv:1000},tunable:{mwp:1},size:"LL"}
-{id:4,name:"ブリガバロンBS",type:"l",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:2,tgh:2}
-{id:95,name:"コルディプスBS",main:{tec:100,pwr:10,shl:500,rng:330,spd:280,itv:800},cost:85,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,size:"LL",type:"c",tunable:{mwp:1}}
 
+
+{id:4,name:"ブリガバロンBS",type:"l",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:2,tgh:2}
+
+{id:5,name:"ヘカトケレスBS",type:"c",cost:125,hp:20,tec:2,wlk:-1,fly:3,tgh:1,main:{tec:100,pwr:11,shl:700,rng:330,spd:290,itv:1000},tunable:{mwp:1},size:"LL"}
 
 
 
