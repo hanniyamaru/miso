@@ -157,11 +157,13 @@
 {id:93,name:"A.L.E.ジークンロンBS",cost:40,hp:25,str:2,wlk:1,fly:2,type:"l"}
 {id:125,name:"A.L.E.ラズフラムBS",sub:{pwr:20,shl:30,rng:150,spd:200,itv:500,tec:100},type:"l",size:"S",comment:"-",cost:70,hp:25,str:-1,tec:2,wlk:2,fly:2}
 
-{id:90,name:"A.L.E.リリレインBS",cost:40,hp:25,str:-1,wlk:1,fly:3,tgh:2,type:"c",comment:"ポリゴン編集画面まで移行可能になっている（編集しても変化無し）"}
+{id:90,name:"A.L.E.リリレインBS",cost:40,hp:25,str:-1,wlk:1,fly:3,tgh:2,type:"c",comment:"-"}
 
-{id:135,name:"K・ノンナBS",type:"c",size:"S",cost:35,hp:20,str:-1,tec:3,fly:3,joint:{bs:1},comment:"K・ノンナBS＠のみ接続可能"}
+{id:112,name:"K・ノンナBS",type:"c",size:"S",cost:35,hp:20,str:-1,tec:3,fly:3,joint:{wp:1},fixedParts:{wp:{name:"K・ノンナBS@",main:{pwr:15,shl:450,rng:350,spd:500,itv:400},sub:{pwr:28,shl:100,rng:350,spd:500,itv:1000},tunable:{mwp:1,pwp:0},type:"c",size:"S",cost:160,comment:"-"}}}
 
-{id:112,name:"K・ノンナBS（コンバージョン有り）",type:"c",size:"S",cost:35,hp:20,str:-1,tec:3,fly:3,joint:{wp:1},fixedParts:{wp:{name:"K・ノンナBS@",main:{pwr:15,shl:450,rng:350,spd:500,itv:400},sub:{pwr:28,shl:100,rng:350,spd:500,itv:1000},tunable:{mwp:1,pwp:0},type:"c",size:"S",cost:160,comment:"-"}}}
+
+{id:135,name:"K・ノンナBS（コンバージョン無し）",type:"c",size:"S",cost:35,hp:20,str:-1,tec:3,fly:3,comment:"K・ノンナBS＠のみ接続可能"}
+
 
 
 
