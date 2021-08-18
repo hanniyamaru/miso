@@ -23,6 +23,11 @@
 
 {id:1000,name:"トレタBD",joint:{am:0,wp:1,bs:1},cartridge:{hpup:35,lv1:"75*6@25|17@20|18@20|19@20|20@20|23@25|22@30|21@20|29@10|14@10|28@20|26@20|13@20|32@30|31@40"},fixedParts:{hd:{name:"トレタHD",cost:30,hp:15,str:2,tec:2,type:"s",size:"S"},lg:{name:"トレタLG",cost:40,hp:20,wlk:3,fly:1,size:"S",type:"s"}},size:"S",type:"s",cost:370,capa:675,hp:190,str:10,tec:10,wlk:14,fly:9,tgh:10,wbid:11,builtin:{bs:1}}
 
+{id:63,name:"キンギョBD",main:{shl:240,rng:70,spd:20,itv:700},sub:{str:100,pwr:25,rng:120,spd:200,itv:3000},builtin:{bs:1},cartridge:{hpup:35,lv1:"75*6@25|17@20|18@20|19@20|20@20|23@25|22@30|29@10|53@10|21@20|28@20|14@10|13@20|32@30|31@40"},fixedParts:{lg:{name:"キンギョLG",cost:40,hp:20,str:1,tec:1,wlk:2,tgh:1,size:"S",type:"s"}},cost:565,capa:675,hp:220,str:13,tec:13,wlk:21,fly:19,tgh:9,wbid:10,comment:["金魚ちゃんS"],joint:{hd:0,bs:0,am:0,wp:1,hdac:1,fcac:1}}
+
+
+
+
 {group:"ちびキャラ",prefixID:"SS",commonStat:{size:"S",type:"s"},nextID:219}
 
 {id:33,name:"桜華・禿BD",cartridge:{hpup:25,lv1:"95*6@25|17@20|18@20|19@20|20@20|22@30|29@10|21@20|25@25|23@25|16@20|15@30|13@20|32@30|31@40"},cost:470,capa:635,hp:225,str:15,tec:5,wlk:13,fly:7,tgh:10,wbid:1,joint:{am:0,wp:2},fixedParts:{hd:{name:"桜華・禿HD",cost:35,hp:20,str:2,tec:1,fly:1,tgh:1},bs:{name:"桜華・禿BS",cost:35,hp:20,str:1,tec:1,fly:3},lg:{name:"桜華・禿LG",sub:{pwr:1,rng:43,spd:63,itv:600},cost:40,hp:20,str:1,wlk:3,tgh:1}},main:{pwr:0,shl:[80],rng:300,spd:[300],itv:[500]},sub:{shl:[20],rng:43,spd:63,itv:[1000]},comment:"回復量41、ハイショ陣、スクール桜華・禿共通"}
@@ -75,21 +80,29 @@
 {id:701,name:"メディージャーBD2",cost:360,capa:710,hp:200,str:5,tec:5,wlk:12,fly:10,tgh:10,wbid:10,cartridge:{hpup:22,lv1:"5*6@20|17@20|18@20|20@20|23@25|22@30|19@20|25@25|12@20|28@20|14@20|29@10|13@20|32@30|31@40"},comment:"-"}
 {id:3,name:"ハイプリストルBD",cost:515,capa:800,hp:270,str:9,tec:9,wlk:11,fly:10,tgh:11,sub:{pwr:0,shl:[12],rng:[0],spd:[0],itv:[20000]},wbid:10,cartridge:{hpup:18,lv1:"85*6@20|17@20|18@20|19@20|20@20|23@25|14@10|28@20|33@40|21@20|29@10|25@25|13@20|32@30|31@40"},joint:{bs:0},builtin:{bs:1}}
 
+{id:631,name:"キンギョBD2",main:{shl:240,rng:70,spd:20,itv:700},sub:{str:100,pwr:25,rng:120,spd:200,itv:3000},builtin:{bs:1},cartridge:{hpup:35,lv1:"75*6@25|17@20|18@20|19@20|20@20|23@25|22@30|29@10|53@10|21@20|28@20|14@10|13@20|32@30|31@40"},fixedParts:{lg:{name:"キンギョLG2",cost:40,hp:20,str:1,tec:1,wlk:2,tgh:1,size:"M",type:"s"}},cost:565,capa:695,hp:245,str:13,tec:13,wlk:21,fly:19,tgh:9,wbid:10,comment:["金魚ちゃんM"],joint:{hd:0,bs:0,am:0,wp:1,hdac:1,fcac:1}}
 
 
 {group:"UniＬ補",prefixID:"SL",commonStat:{size:"L",type:"s"},nextID:7}
+
+{id:632,name:"キンギョBD3",main:{shl:240,rng:70,spd:20,itv:700},sub:{str:100,pwr:25,rng:120,spd:200,itv:3000},builtin:{bs:1},cartridge:{hpup:35,lv1:"75*6@25|17@20|18@20|19@20|20@20|23@25|22@30|29@10|53@10|21@20|28@20|14@10|13@20|32@30|31@40"},fixedParts:{lg:{name:"キンギョLG3",cost:40,hp:20,str:1,tec:1,wlk:2,tgh:1,size:"L",type:"s"}},cost:565,capa:695,hp:270,str:13,tec:13,wlk:21,fly:19,tgh:9,wbid:10,comment:["金魚ちゃんL"],joint:{hd:0,bs:0,am:0,wp:1,hdac:1,fcac:1}}
+
+{id:633,name:"キンギョBD4",main:{shl:240,rng:70,spd:20,itv:700},sub:{str:100,pwr:25,rng:120,spd:200,itv:3000},builtin:{bs:1},cartridge:{hpup:30,lv1:"3*6@2|17@20|18@20|19@20|20@20|23@25|22@30|29@10|53@10|21@20|28@20|14@10|13@20|32@30|31@40"},fixedParts:{lg:{name:"キンギョLG4",cost:40,hp:20,str:1,tec:1,wlk:2,tgh:1,size:"L",type:"s"}},cost:625,capa:765,hp:305,str:17,tec:17,wlk:17,fly:15,tgh:15,wbid:10,comment:["でか金魚ちゃん"],joint:{hd:0,bs:0,am:0,wp:1,hdac:1,fcac:1}}
+
+{id:13,name:"タイタンコイルBD",sub:{shl:0,rng:10,itv:1000},cartridge:{lv1:"75*5@20|60*2@30|17@20|18@20|19@20|20@20|23@25|29@10|15@30|14@10|28@20|26@20|13@20|32@30|31@40",hpup:10},cost:590,capa:945,hp:305,str:9,tec:12,wlk:9,fly:8,tgh:13}
+{id:11,name:"ディースモークBD",cost:425,hp:275,str:5,tec:7,wlk:10,fly:14,tgh:9,capa:800,sub:{shl:[25],rng:0,spd:0,itv:1000},cartridge:{hpup:18,lv1:"85*6@20|17@20|18@20|20@20|23@25|19@20|21@20|12@20|25@25|29@10|14@10|26@20|13@20|32@30|31@40"}}
+{id:240,name:"バフデバスターBD",sub:{pwr:0,shl:[12],rng:[0],spd:[0],itv:[20000]},joint:{wp:1},cartridge:{hpup:14,lv1:"4*5@20|61*2@30|17@20|18@20||20@20|25@25|16@20|15@30|14@10|29@10|23@25|28@20|13@20|32@30|31@40"},fixedParts:{wp:{name:"バフデバスターBD@",main:{pwr:[7],shl:500,rng:[330],spd:290,itv:600},slot:0}},cost:570,capa:870,hp:290,str:6,tec:12,wlk:11,fly:8,tgh:11,wbid:0,comment:"回復量 57→69→81"}
+
 {id:1,name:"パルサーディオBD",cost:590,capa:945,hp:305,str:6,tec:11,wlk:10,fly:11,tgh:13,sub:{pwr:17,shl:[370],rng:[275],spd:[290],itv:[1000]},cartridge:{hpup:10,lv1:"75*5@20|60*2@30|17@20|20@20|23@25|19@20|14@10|25@25|29@10|30@20|21@20|26@20|13@20|32@30|31@40"}}
 {id:2,name:"パルサーディオBD2",cost:590,capa:945,hp:305,str:5,tec:14,wlk:9,fly:8,tgh:15,sub:{pwr:16,shl:[400],rng:[275],spd:[290],itv:[1000]},cartridge:{hpup:10,lv1:"75*5@20|60*2@30|17@20|20@20|23@25|19@20|14@10|25@25|29@10|30@20|21@20|26@20|13@20|32@30|31@40"}}
 
-{id:240,name:"バフデバスターBD",sub:{pwr:0,shl:[12],rng:[0],spd:[0],itv:[20000]},joint:{wp:1},cartridge:{hpup:14,lv1:"4*5@20|61*2@30|17@20|18@20||20@20|25@25|16@20|15@30|14@10|29@10|23@25|28@20|13@20|32@30|31@40"},fixedParts:{wp:{name:"バフデバスターBD@",main:{pwr:[7],shl:500,rng:[330],spd:290,itv:600},slot:0}},cost:570,capa:870,hp:290,str:6,tec:12,wlk:11,fly:8,tgh:11,wbid:0,comment:"回復量 57→69→81"}
+
 {id:33,name:"メディックボールBD",sub:{itv:2000},joint:{hd:0,hdac:1,fcac:1},cartridge:{hpup:18,lv1:"85*6@20|19@20||20@20|23@25|29@10|18@20|16@20|28@20|25@25|14@10|33@40|21@20|13@20|32@30|31@40"},fixedParts:{lg:{name:"メディックボールLG",cost:40,hp:25,str:1,wlk:3,tgh:1,size:"L",type:"s"},am:[{name:"メディックボールAM2",cost:80,hp:20,str:1,tec:2,wlk:1,tgh:1,main:{tec:100,pwr:6,shl:430,rng:250,spd:325,itv:360},tunable:{mwp:1},type:"s",size:"L",joint:{wp:0}},{name:"メディックボールAM",cost:80,hp:20,str:1,tec:2,wlk:1,tgh:1,main:{tec:100,pwr:0,shl:220,rng:300,spd:300,itv:800},tunable:{mwp:1},joint:{wp:0}}]},cost:485,capa:800,hp:300,str:4,tec:8,wlk:15,fly:11,tgh:12,size:"L",type:"s",comment:"回復量 AM弾22、BDオートリペア18"}
 
-{id:11,name:"ディースモークBD",cost:425,hp:275,str:5,tec:7,wlk:10,fly:14,tgh:9,capa:800,sub:{shl:[25],rng:0,spd:0,itv:1000},cartridge:{hpup:18,lv1:"85*6@20|17@20|18@20|20@20|23@25|19@20|21@20|12@20|25@25|29@10|14@10|26@20|13@20|32@30|31@40"}}
-
-{id:9,name:"ロトンレムレスBD",main:{pwr:11,shl:[200],rng:275,spd:[250],itv:800},sub:{pwr:20,shl:150,rng:[275],spd:200,itv:1000},cartridge:{hpup:18,lv1:"85*5@20|61*2@30|17@20|18@20|20@20|15@30|25@25|16@20|12@20|14@10|28@20|29@10|13@20|32@30|31@40"},wbid:1,cost:555,capa:800,hp:275,str:9,tec:10,wlk:10,fly:6,tgh:10,comment:"-"}
 {id:12,name:"ラクラボロスBD",sub:{shl:[0],itv:1000},cartridge:{hpup:10,lv1:"75*6@20|17@20|18@20|19@20|20@20|23@25|29@10|28@20|25@25|15@30|14@10|21@20|13@20|32@30|31@40"},fixedParts:{hd:{name:"ラクラボロスHDJ",joint:{hd:1,hdac:0,fcac:0},slot:1}},cost:540,capa:945,hp:305,str:10,tec:9,wlk:14,fly:7,tgh:11,comment:"-"}
 
-{id:13,name:"タイタンコイルBD",sub:{shl:0,rng:10,itv:1000},cartridge:{lv1:"75*5@20|60*2@30|17@20|18@20|19@20|20@20|23@25|29@10|15@30|14@10|28@20|26@20|13@20|32@30|31@40",hpup:10},cost:590,capa:945,hp:305,str:9,tec:12,wlk:9,fly:8,tgh:13}
+{id:9,name:"ロトンレムレスBD",main:{pwr:11,shl:[200],rng:275,spd:[250],itv:800},sub:{pwr:20,shl:150,rng:[275],spd:200,itv:1000},cartridge:{hpup:18,lv1:"85*5@20|61*2@30|17@20|18@20|20@20|15@30|25@25|16@20|12@20|14@10|28@20|29@10|13@20|32@30|31@40"},wbid:1,cost:555,capa:800,hp:275,str:9,tec:10,wlk:10,fly:6,tgh:10,comment:"-"}
+
 
 
 
