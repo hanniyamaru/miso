@@ -1,5 +1,10 @@
 {group:"UniＳ砲",prefixID:"CS",commonStat:{size:"S",type:"c"},nextID:12}
 
+
+
+{id:29,name:"リリレインSwmBD",sub:{tec:100,pwr:50,shl:90,rng:330,spd:220,itv:1000},builtin:{bs:1},joint:{bs:0,wp:2},cartridge:{hpup:14,lv1:"4*6@25|7@20|10@20|8@15|18@20|21@20|23@25|22@30|25@25|30@20|13@30|26@10|42@15|31@40|32@40"},fixedParts:{hd:{name:"リリレインSwmHD",type:"c",size:"S",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1},wp:["W1","W1"],lg:{name:"リリレインSwmLG",sub:{pwr:0,shl:0,rng:15,spd:0,itv:1000},builtin:{lg:1},type:"c",size:"S",cost:45,hp:25,str:1,tec:2,wlk:2,tgh:1,tunable:{pwp:1},comment:["弱 引き寄せ効果","-"]},am:[{name:"リリレインSwmAM",type:"c",size:"S",cost:40,hp:25,tec:3,wlk:1,fly:1},{name:"リリレインSwmAM",type:"c",size:"S",cost:40,hp:25,tec:3,wlk:1,fly:1}]},type:"c",size:"S",cost:585,hp:250,capa:900,str:6,tec:14,wlk:11,fly:16,tgh:6,comment:["-","-"],wbid:0}
+
+
 {id:49,name:"クロエBD",sub:{shl:0,itv:1000},cartridge:{hpup:14,lv1:"4*6@25|7@20|10@20|8@15|18@20|19@20|23@25|26@10|21@20|30@20|13@30|42@15|31@40|32@40"},fixedParts:{wp:["W1"],hd:{name:"クロエHD",cost:40,hp:25,str:-1,wlk:1,fly:2,tgh:3},lg:{name:"クロエLG",cost:45,hp:25,str:1,tec:1,wlk:3,fly:1},am:[{name:"クロエAM",main:{pwr:25,shl:230,rng:300,spd:260,itv:800},tunable:{mwp:1},joint:{wp:1},cost:90,hp:25,tec:2,wlk:1,fly:1,tgh:1,type:"c"},{name:"クロエAM2",sub:{pwr:1,shl:15,rng:60,spd:70,itv:1000},type:"c",cost:80,hp:25,tec:2,wlk:1,fly:1,tgh:1}]},joint:{wp:1},cost:465,capa:900,hp:225,str:5,tec:17,wlk:10,fly:10,tgh:6,comment:"MODE CHANGE省略"}
 
 
