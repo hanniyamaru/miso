@@ -23,7 +23,7 @@
 
 {id:1000,name:"トレタBD",joint:{am:0,wp:1,bs:1},cartridge:{hpup:35,lv1:"75*6@25|17@20|18@20|19@20|20@20|23@25|22@30|21@20|29@10|14@10|28@20|26@20|13@20|32@30|31@40"},fixedParts:{hd:{name:"トレタHD",cost:30,hp:15,str:2,tec:2,type:"s",size:"S"},lg:{name:"トレタLG",cost:40,hp:20,wlk:3,fly:1,size:"S",type:"s"}},size:"S",type:"s",cost:370,capa:675,hp:190,str:10,tec:10,wlk:14,fly:9,tgh:10,wbid:11,builtin:{bs:1}}
 
-{id:63,name:"キンギョBD",main:{shl:240,rng:70,spd:20,itv:700},sub:{str:100,pwr:25,rng:120,spd:200,itv:3000},builtin:{bs:1},cartridge:{hpup:35,lv1:"75*6@25|17@20|18@20|19@20|20@20|23@25|22@30|29@10|53@10|21@20|28@20|14@10|13@20|32@30|31@40"},fixedParts:{lg:{name:"キンギョLG",cost:40,hp:20,str:1,tec:1,wlk:2,tgh:1,size:"S",type:"s"}},cost:565,capa:675,hp:220,str:13,tec:13,wlk:21,fly:19,tgh:9,wbid:10,comment:["金魚ちゃんS"],joint:{hd:0,bs:0,am:0,wp:1,hdac:1,fcac:1}}
+{id:63,name:"キンギョBD",main:{shl:240,rng:70,spd:20,itv:700},sub:{str:100,pwr:25,rng:120,spd:200,itv:3000},builtin:{bs:1},cartridge:{hpup:35,lv1:"75*6@25|17@20|18@20|19@20|20@20|23@25|22@30|29@10|53@10|21@20|28@20|14@10|13@20|32@30|31@40"},fixedParts:{lg:{name:"キンギョLG",cost:40,hp:20,str:1,tec:1,wlk:2,tgh:1,size:"S",type:"s"}},cost:565,capa:675,hp:220,str:13,tec:13,wlk:21,fly:19,tgh:9,wbid:10,comment:["回復量10","金魚ちゃんS"],joint:{hd:0,bs:0,am:0,wp:1,hdac:1,fcac:1}}
 
 
 
