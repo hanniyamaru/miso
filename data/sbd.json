@@ -81,23 +81,28 @@
 
 
 {group:"Ｍ補",prefixID:"SM",commonStat:{size:"M",type:"s"},nextID:8}
+{id:631,name:"キンギョBD2",main:{shl:240,rng:70,spd:20,itv:700},sub:{str:100,pwr:25,rng:120,spd:200,itv:3000},builtin:{bs:1},cartridge:{hpup:35,lv1:"75*6@25|17@20|18@20|19@20|20@20|23@25|22@30|29@10|53@10|21@20|28@20|14@10|13@20|32@30|31@40"},fixedParts:{lg:{name:"キンギョLG2",cost:40,hp:20,str:1,tec:1,wlk:2,tgh:1,size:"M",type:"s"}},cost:565,capa:695,hp:245,str:13,tec:13,wlk:21,fly:19,tgh:9,wbid:10,comment:["回復量10","金魚ちゃんM"],joint:{hd:0,bs:0,am:0,wp:1,hdac:1,fcac:1}}
 
-{id:1,name:"パラボロイドBD",cost:320,capa:655,hp:215,str:7,tec:7,wlk:10,fly:8,tgh:8,cartridge:{hpup:25,lv1:"95*6@20|17@20|18@20|19@20|20@20|23@25|22@30|29@10|21@20|33@40|14@10|28@20|13@20|32@30|31@40"}}
-{id:5,name:"デジトロイドBD",cost:445,capa:870,hp:255,str:9,tec:9,wlk:12,fly:9,tgh:9,cartridge:{hpup:14,lv1:"4*6@20|17@20|18@20|19@20|20@20|23@25|22@30|29@10|21@20|33@40|14@10|28@20|13@20|32@30|31@40"}}
+{id:6,name:"シグマクロックBD",cost:405,capa:800,hp:245,str:5,tec:15,wlk:8,fly:7,tgh:10,wbid:7,cartridge:{hpup:18,lv1:"85*6@20|17@20|19@20|20@20|23@25|22@30|25@25|14@10|28@20|29@10|12@20|26@20|13@20|32@30|31@40"},fixedParts:{am:{name:"シグマクロックAM2",cost:125,hp:20,str:-1,tec:3,wlk:1,tgh:2,sub:{pwr:28,shl:0,rng:200,spd:350,itv:1000},joint:{wp:0},slot:3}}}
+{id:8,name:"シグマクロックBD2",cost:405,capa:800,hp:245,str:5,tec:15,wlk:8,fly:7,tgh:10,wbid:7,cartridge:{hpup:18,lv1:"85*6@20|17@20|19@20|20@20|23@25|22@30|25@25|14@10|28@20|29@10|12@20|26@20|13@20|32@30|31@40"},fixedParts:{am:{name:"シグマクロックAM3",cost:125,hp:20,tec:1,wlk:2,fly:1,tgh:1,sub:{pwr:10,shl:0,rng:200,spd:350,itv:1000},joint:{wp:0},slot:3}}}
+
 {id:4,name:"スコルタンBD",cost:465,capa:730,hp:230,str:6,tec:10,wlk:11,fly:7,tgh:8,main:{pwr:[7,8,9],shl:[800],rng:[250],spd:[360,400,440],itv:200},wbid:8,cartridge:{hpup:22,lv1:"5*5@20|62*2@30|17@20|18@20|19@20|20@20|23@25|22@30|29@10|15@30|16@20|26@20|13@20|32@30|31@40"},comment:"ビーム属性"}
 
 {id:450,name:"スコルタンBD2",cost:465,capa:730,hp:230,str:4,tec:12,wlk:10,fly:7,tgh:9,main:{pwr:[5],shl:[800,1000,1200],rng:[250],spd:[360,400,440],itv:200},wbid:8,cartridge:{hpup:22,lv1:"5*5@20|62*2@30|17@20|18@20|19@20|20@20|23@25|22@30|29@10|15@30|16@20|26@20|13@20|32@30|31@40"},comment:"ビーム属性"}
 
-{id:7,name:"バグジーケットBD",cost:445,capa:870,hp:255,str:8,tec:12,wlk:11,fly:5,tgh:12,wbid:1,cartridge:{hpup:14,lv1:"4*6@20|17@20|18@20|20@20|23@25|22@30|19@20|14@10|25@25|28@20|29@10|15@30|13@20|32@30|31@40"}}
 
-{id:6,name:"シグマクロックBD",cost:405,capa:800,hp:245,str:5,tec:15,wlk:8,fly:7,tgh:10,wbid:7,cartridge:{hpup:18,lv1:"85*6@20|17@20|19@20|20@20|23@25|22@30|25@25|14@10|28@20|29@10|12@20|26@20|13@20|32@30|31@40"},fixedParts:{am:{name:"シグマクロックAM2",cost:125,hp:20,str:-1,tec:3,wlk:1,tgh:2,sub:{pwr:28,shl:0,rng:200,spd:350,itv:1000},joint:{wp:0},slot:3}}}
-{id:8,name:"シグマクロックBD2",cost:405,capa:800,hp:245,str:5,tec:15,wlk:8,fly:7,tgh:10,wbid:7,cartridge:{hpup:18,lv1:"85*6@20|17@20|19@20|20@20|23@25|22@30|25@25|14@10|28@20|29@10|12@20|26@20|13@20|32@30|31@40"},fixedParts:{am:{name:"シグマクロックAM3",cost:125,hp:20,tec:1,wlk:2,fly:1,tgh:1,sub:{pwr:10,shl:0,rng:200,spd:350,itv:1000},joint:{wp:0},slot:3}}}
+{id:5,name:"デジトロイドBD",cost:445,capa:870,hp:255,str:9,tec:9,wlk:12,fly:9,tgh:9,cartridge:{hpup:14,lv1:"4*6@20|17@20|18@20|19@20|20@20|23@25|22@30|29@10|21@20|33@40|14@10|28@20|13@20|32@30|31@40"}}
+
+
+{id:7,name:"バグジーケットBD",cost:445,capa:870,hp:255,str:8,tec:12,wlk:11,fly:5,tgh:12,wbid:1,cartridge:{hpup:14,lv1:"4*6@20|17@20|18@20|20@20|23@25|22@30|19@20|14@10|25@25|28@20|29@10|15@30|13@20|32@30|31@40"}}
+{id:1,name:"パラボロイドBD",cost:320,capa:655,hp:215,str:7,tec:7,wlk:10,fly:8,tgh:8,cartridge:{hpup:25,lv1:"95*6@20|17@20|18@20|19@20|20@20|23@25|22@30|29@10|21@20|33@40|14@10|28@20|13@20|32@30|31@40"}}
+
+
 {id:700,name:"メディージャーBD",cost:360,capa:710,hp:200,str:7,tec:7,wlk:8,fly:7,tgh:13,wbid:10,cartridge:{hpup:22,lv1:"5*6@20|17@20|18@20|20@20|23@25|22@30|19@20|25@25|12@20|28@20|14@20|29@10|13@20|32@30|31@40"},comment:"-"}
 
 {id:701,name:"メディージャーBD2",cost:360,capa:710,hp:200,str:5,tec:5,wlk:12,fly:10,tgh:10,wbid:10,cartridge:{hpup:22,lv1:"5*6@20|17@20|18@20|20@20|23@25|22@30|19@20|25@25|12@20|28@20|14@20|29@10|13@20|32@30|31@40"},comment:"-"}
 {id:3,name:"ハイプリストルBD",cost:515,capa:800,hp:270,str:9,tec:9,wlk:11,fly:10,tgh:11,sub:{pwr:0,shl:[12],rng:[0],spd:[0],itv:[20000]},wbid:10,cartridge:{hpup:18,lv1:"85*6@20|17@20|18@20|19@20|20@20|23@25|14@10|28@20|33@40|21@20|29@10|25@25|13@20|32@30|31@40"},joint:{bs:0},builtin:{bs:1}}
 
-{id:631,name:"キンギョBD2",main:{shl:240,rng:70,spd:20,itv:700},sub:{str:100,pwr:25,rng:120,spd:200,itv:3000},builtin:{bs:1},cartridge:{hpup:35,lv1:"75*6@25|17@20|18@20|19@20|20@20|23@25|22@30|29@10|53@10|21@20|28@20|14@10|13@20|32@30|31@40"},fixedParts:{lg:{name:"キンギョLG2",cost:40,hp:20,str:1,tec:1,wlk:2,tgh:1,size:"M",type:"s"}},cost:565,capa:695,hp:245,str:13,tec:13,wlk:21,fly:19,tgh:9,wbid:10,comment:["回復量10","金魚ちゃんM"],joint:{hd:0,bs:0,am:0,wp:1,hdac:1,fcac:1}}
 
 
 {group:"UniＬ補",prefixID:"SL",commonStat:{size:"L",type:"s"},nextID:7}
