@@ -181,7 +181,7 @@
 
 {id:34,name:"アマテウスBS",type:"c",cost:40,hp:25,str:1,tec:2,wlk:-1,fly:3}
 
-
+{id:142,name:"イスチナ・バレットBS",type:"a",size:"M",cost:35,hp:20,str:-1,tec:1,fly:2,tgh:3}
 {id:270,name:"イヅナカムイαBS",type:"a",cost:90,hp:25,str:-1,tec:2,fly:3,tgh:1,sub:{pwr:6,shl:400,rng:275,spd:290,itv:1000}}
 {id:27,name:"イヅナカムイαBS2",type:"a",cost:90,hp:25,str:-1,tec:3,fly:3,sub:{pwr:8,shl:300,rng:275,spd:290,itv:1000}}
 {id:76,name:"イヅナカムイαBS3",type:"a",cost:85,hp:25,str:-1,tec:1,wlk:1,fly:4,main:{tec:100,pwr:4,shl:520,rng:275,spd:335,itv:1000},tunable:{mwp:1}}
