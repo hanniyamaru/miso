@@ -526,8 +526,12 @@
 
 {group:"UNIジョイント",prefixID:"J",commonStat:{jointPart:1},nextID:8}
 {id:35,name:"スロット1AMJ",slot:1,size:"M"}
-{id:1,name:"ウィングプラスAMJ",size:"S",cost:20,wlk:-1,fly:2,builtin:{bs:1},slot:1}
+
 {id:2,name:"アシュラAMJ",type:"lac",size:"M",cost:40,hp:-30,tec:-2,wlk:-1,joint:{am:2},slot:1}
+
+{id:1,name:"ウィングプラスAMJ",size:"S",cost:20,wlk:-1,fly:2,builtin:{bs:1},slot:1}
+
+
 {id:28,name:"ルペットAMJ",joint:{am:2},comment:"性能が同じAMJ2と統合",type:"lac",size:"M",cost:20,hp:-35,str:-1,tec:-2,wlk:-1,fly:-1,tgh:-1,slot:1}
 
 {id:3,name:"フォールドライフルAMJ",size:"M",cost:60,tec:2,wlk:-1,main:{pwr:9,shl:220,rng:250,spd:480,itv:520},tunable:{mwp:1},slot:1}
@@ -553,7 +557,7 @@
 {id:15,name:"コメットランチャーAMJ",type:"c",size:"M",cost:50,slot:1,main:{pwr:8,shl:440,rng:330,spd:320,itv:340},tunable:{mwp:1},comment:"イルミス付属AMJ"}
 {id:16,name:"バーストミサイルAMJ",type:"c",size:"M",cost:80,slot:1,main:{pwr:11,shl:100,rng:330,spd:290,itv:1200},tunable:{mwp:1},comment:"イルミス付属AMJ"}
 
-
+{id:31,name:"ミコトAMJ",main:{pwr:12,shl:270,rng:250,spd:400,itv:620},tunable:{mwp:1},type:"lc",size:"M",cost:15,slot:1}
 
 
 
