@@ -13,7 +13,9 @@
 {id:177,name:"アレスターAM",type:"lacs",size:"S",cost:35,hp:20,str:2,tec:1,wlk:1,fly:2,tgh:-1}
 {id:1770,name:"アレスターAM2",type:"s",size:"S",cost:85,hp:20,str:-1,tec:2,wlk:2,tgh:2,fixedParts:{wp:{name:"アレスターAM2@",main:{tec:100,pwr:7,shl:150,rng:250,spd:500,itv:500},type:"s",size:"S",slot:0}},joint:{wp:2},comment:"@パーツのcost50と合算"}
 {id:119,name:"アンコAM",cost:35,hp:20,str:1,tec:3,wlk:2,fly:-1}
-{id:120,name:"アンコAM2",cost:35,hp:20,str:-1,tec:3,wlk:2,tgh:1,comment:["コンバージョンパーツのみ装着可能","部位破壊不能"]}
+{id:1209,name:"アンコAM2",cost:35,hp:20,str:-1,tec:3,wlk:2,tgh:1,comment:["-","部位破壊不能"],fixedParts:{wp:{name:"D.N.Gキャノン",main:{pwr:28,shl:220,rng:330,spd:230,itv:700},type:"c",cost:70,slot:3}}}
+
+{id:120,name:"アンコAM2（コンバージョンなし）",cost:35,hp:20,str:-1,tec:3,wlk:2,tgh:1,comment:["コンバージョンパーツのみ装着可能","部位破壊不能"]}
 
 {id:97,name:"イルミスAM",cost:40,hp:25,tec:3,wlk:1,fly:1}
 
