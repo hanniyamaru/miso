@@ -302,6 +302,7 @@
 {id:74,name:"メロディコードα",main:{pwr:9,shl:380,rng:250,spd:400,itv:500},sub:{pwr:11,shl:240,rng:250,spd:320,itv:1000},type:"s",size:"S",cost:65,comment:"ハープにのみ接続可能。"}
 {id:76,name:"メロディコードβ",main:{shl:80,rng:300,spd:300,itv:500},sub:{shl:50,rng:300,spd:300,itv:1000},type:"s",size:"S",cost:100,comment:"ハープにのみ接続可能。"}
 {id:75,name:"メロディコードγ",main:{tec:100,pwr:6,shl:260,rng:250,spd:360,itv:600},sub:{tec:100,pwr:10,shl:120,rng:260,spd:300,itv:500},tunable:{mwp:1,pwp:0},type:"s",size:"S",cost:90,comment:"ハープにのみ接続可能"}
+{id:141,name:"モノケロスロッド",main:{pwr:38,shl:280,rng:330,spd:400,itv:800,tec:100},sub:{pwr:9,shl:300,rng:300,spd:280,itv:1000,tec:100},type:"c",size:"S",cost:170,comment:["ルミエラAM、ルミエラAM3専用コンバージョンパーツ","-"]}
 
 {id:98,name:"バアルバズーカ",tunable:{mwp:1},cost:90,type:"c",size:"S",main:{pwr:19,shl:420,rng:330,spd:400,itv:400}}
 
