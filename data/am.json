@@ -90,6 +90,7 @@
 {id:33,name:"ポーンジャーAM",cost:35,hp:20,str:1,tec:1,wlk:1,tgh:2}
 {id:34,name:"マッハナイトAM",cost:35,hp:20,tec:2,fly:2,tgh:1}
 
+{id:118,name:"ミコトAM",type:"l",cost:35,hp:20,str:-1,tec:2,wlk:3,tgh:1}
 {id:35,name:"ミスティホロウαAM",cost:35,hp:20,str:2,wlk:2,fly:1}
 {id:36,name:"ミスティホロウαAM2",type:"l",cost:105,hp:20,str:3,wlk:2,fly:-1,tgh:1,sub:{str:100,pwr:32,rng:70,spd:10,itv:500},tunable:{pwp:1},joint:{wp:0}}
 
