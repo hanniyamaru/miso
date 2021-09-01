@@ -66,6 +66,11 @@
 
 {group:"UniＭ空",prefixID:"AM",commonStat:{size:"M",type:"a"},nextID:19}
 
+{id:44,name:"イスチナ・バレットBD",joint:{bs:2,wp:2},fixedParts:{wp:["W1","W1"]},hd:{name:"イスチナ・バレットHD",cost:40,hp:25,str:1,tec:2,fly:2},lg:{name:"イスチナ・バレットLG",cost:45,hp:25,wlk:2,tgh:3,type:"a",size:"M",joint:{wp:1}},am:[{joint:{wp:0},name:"イスチナ・バレットLAM",cost:40,hp:25,tec:2,fly:2,tgh:1,type:"a",size:"S"},{joint:{wp:2},name:"イスチナ・バレットRAM",cost:40,hp:25,tec:2,fly:2,tgh:1,type:"a",size:"S"}],bs:{name:"イスチナ・バレットBS2",type:"a",size:"S",slot:0},type:"a",size:"M",cost:445,capa:920,hp:255,str:3,tec:16,wlk:7,fly:12,tgh:10,wbid:1,cartridge:{lv1:"4*6@20|7@30|9@15|8@20|19@15|23@25|22@30|21@20|52@20|25@25|31@40|13@30|39@15|32@50|30@20",hpup:14}}
+
+
+
+
 {id:3,name:"ゴースレイダーBD",sub:{pwr:[0],shl:[30],rng:[100],spd:[150],itv:[1000,1000,1000]},joint:{bs:0},builtin:{bs:1},cartridge:{hpup:18,lv1:"85*6@20|7@30|9@15|8@20|19@15|52@20|21@20|23@25|22@30|15@20|30@20|25@25|13@30|32@50|31@40"},cost:495,capa:800,hp:270,str:7,tec:12,wlk:8,fly:16,tgh:7,wbid:1}
 {id:20,name:"ゴースレイダーBD2",main:{pwr:[9,11,13],shl:[380],rng:[275],spd:[350],itv:[800]},builtin:{bs:1},cartridge:{hpup:18,lv1:"85*6@20|61*2@30|7@30|9@15|8@20|19@15|21@20|22@30|52@20|23@25|26@20|13@30|32@50|31@40"},cost:485,capa:800,hp:245,str:4,tec:14,wlk:7,fly:12,tgh:8,wbid:1}
 {id:1,name:"マッハナイトBD",cost:515,capa:800,hp:270,str:4,tec:14,wlk:6,fly:19,tgh:7,sub:{pwr:[20],shl:[200],rng:275,spd:350,itv:1000},wbid:1,cartridge:{hpup:18,lv1:"85*5@20|61*2@30|7@30|9@15|8@20|19@15|23@25|22@30|52@20|21@20|14@20|26@20|13@30|32@50|31@40"},joint:{bs:0},builtin:{bs:1}}
