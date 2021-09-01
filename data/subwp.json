@@ -163,7 +163,7 @@
 
 {id:93,name:"霊葬双櫂",sub:{pwr:32,rng:77,spd:94,itv:500,str:100},tunable:{pwp:1},cost:100,size:"S",type:"l",comment:"カエデAM専用コンバージョンパーツ"}
 
-
+{id:51,name:"月輪【新月】",type:"l",cost:20,slot:0,comment:"月讀ミコト専用コンバージョンパーツ"}
 
 
 
