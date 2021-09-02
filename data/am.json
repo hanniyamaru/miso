@@ -24,6 +24,8 @@
 {id:4,name:"エースブレイバーAM",type:"la",cost:75,hp:20,str:2,wlk:1,fly:1,tgh:1,sub:{str:100,pwr:28,rng:70,spd:85,itv:500},tunable:{pwp:1}}
 
 {id:129,name:"エアリーデAM",cost:35,hp:20,tec:2,fly:2,tgh:1}
+{id:303,name:"オボロマルAM",main:{pwr:11,shl:540,rng:275,spd:280,itv:500},type:"a",cost:85,hp:20,str:-1,tec:2,fly:2,tgh:2,tunable:{mwp:0,pwp:0},size:"S",comment:["AM@cost50複合","mainチューン不可"]}
+
 {id:5,name:"カメンティスAM",cost:35,hp:20,tec:1,wlk:2,tgh:2}
 
 {id:6,name:"クリムローゼαAM",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1}
