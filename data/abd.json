@@ -61,7 +61,7 @@
 
 
 {id:53,name:"ヤクシャBD",cartridge:{hpup:18,lv1:"85*6@25|7@30|9@15|8@20|18@30|19@15|23@25|22@30|52@20|28@30|21@20|26@20|13@30|32@50|31@40"},cost:405,capa:800,hp:210,str:8,tec:8,wlk:6,fly:16,tgh:7,wbid:1,comment:"-"}
-
+{id:97,name:"F･リュールBD",cartridge:{hpup:18,lv1:"85*6@25|7@30|9@15|8@20|19@15|52@20|21@20|23@25|22@30|25@25|30@20|26@20|13@30|32@50|31@40"},type:"a",size:"S",cost:405,capa:815,hp:210,str:4,tec:9,wlk:6,fly:12,tgh:6,comment:"-"}
 
 
 {group:"UniＭ空",prefixID:"AM",commonStat:{size:"M",type:"a"},nextID:19}
