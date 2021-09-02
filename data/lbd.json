@@ -229,6 +229,6 @@ lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|26@20|21@20|13@30|34@
 
 
 
-
+{id:291,name:"ヤマトオグナBD",fixedParts:{hd:{name:"エクスラズフラムHD",joint:{hdac:1,fcac:1},cost:40,hp:25,wlk:1,fly:2,tgh:2,size:"S",type:"l"},joint:{bs:0,wp:1},fixedParts:{wp:{name:"ヤマトオグナBD@",slot:0,joint:{wp:2},fixedParts:{wp:[{name:"ムラクモブレード",sub:{str:100,pwr:30,shl:0,rng:150,spd:300,itv:1000},cost:120,slot:3,type:"l",size:"L"},{name:"ヤサカニオーブ",main:{str:100,pwr:15,shl:540,rng:250,spd:440,itv:200},tunable:{mwp:1,pwp:1},cost:60,slot:3,type:"l",size:"L"}]},cost:0,type:"l",size:"L"}},am:[{joint:{wp:0},fixedParts:{wp:{name:"ヤタノミラー",main:{str:100,pwr:18,shl:50,rng:150,spd:480,itv:100},sub:{str:100,pwr:0,rng:0,spd:0,itv:1000},tunable:{mwp:1,pwp:1},type:"l",size:"L",cost:60}},name:"ヤマトオグナAM2",cost:35,hp:20,str:3,tec:-1,wlk:2,tgh:1,comment:"部位破壊不能"},{name:"ヤマトオグナAM",cost:35,hp:20,str:3,tec:-1,wlk:2,tgh:1,comment:"部位破壊不能"}],wp:{name:"エクスラズフラムAM@",slot:0,type:"l",size:"S"}},type:"l",size:"S",cost:445,capa:920,hp:255,str:12,tec:4,wlk:16,fly:8,tgh:8,cartridge:{lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|25@25|16@20|12@20|13@30|34@15|32@50|31@40",hpup:14},joint:{bs:1},comment:"武器チューン可否不明"}
 
 
