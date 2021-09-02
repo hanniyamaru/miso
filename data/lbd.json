@@ -227,8 +227,6 @@ lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|26@20|21@20|13@30|34@
 {id:50,name:"ランパーニルBD",main:{str:100,pwr:20,shl:50,rng:200,spd:570,itv:500},cartridge:{hpup:10,lv1:"75*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|16@20|25@25|22@30|29@15|13@30|32@50|31@40"},type:"l",size:"L",cost:540,capa:980,hp:305,str:11,tec:5,wlk:11,fly:5,tgh:11,comment:"シールド有り、耐久値不明",wbid:6}
 
 
-{id:291,name:"ヤマトオグナBD",cartridge:{lv1:"4*6@20|7@20|9@20|10@15|17@15|20@15|23@25|16@20|15@15|30@20|26@20|13@30|32@50|31@40",hpup:14},cost:445,hp:290,capa:870,str:12,tec:5,wlk:14,fly:8,tgh:9,fixedParts:{am:{name:"ヤマトオグナAM",cost:35,hp:20,str:3,tec:-1,wlk:2,tgh:1},joint:{wp:2},fixedParts:{wp:[{name:"ムラクモブレード",sub:{str:100,pwr:30,rng:150,spd:300,itv:1000},tunable:{pwp:1},type:"l",size:"L",cost:120},{name:"ヤサカニオーブ",main:{str:100,pwr:15,shl:540,rng:250,spd:440,itv:200},cost:60,tunable:{mwp:1}}]}}
-
 
 
 
