@@ -1,6 +1,8 @@
 {group:"UniＳサイズ",prefixID:"S",commonStat:{size:"S"},nextID:66}
 
+{id:1811,name:"トリスティンAM",type:"lacs",size:"S",cost:35,hp:20,tec:1,fly:1,tgh:3,joint:{wp:2},fixedParts:{wp:{main:{shl:30,spd:10,itv:1000},name:"ハープシールド",tunable:{mwp:0,pwp:0},type:"c",size:"SS",cost:40,slot:0}}}
 
+{id:1821,name:"トリスティンAM2",type:"lacs",size:"S",cost:35,hp:20,str:-1,tec:3,wlk:2,tgh:1,joint:{wp:2},fixedParts:{wp:{main:{tec:100,pwr:14,shl:390,rng:350,spd:340,itv:300},tunable:{mwp:1},type:"c",size:"SS",sub:{tec:100,pwr:10,shl:240,rng:300,spd:220,itv:1000},name:"フェイルノート",cost:130,slot:0}}}
 
 
 
