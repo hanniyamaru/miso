@@ -97,6 +97,8 @@
 
 {id:97,name:"A.L.E.ラズフラムLG",type:"lacs",size:"S",cost:45,hp:25,str:-1,tec:1,wlk:4,tgh:1,joint:{bs:1}}
 
+{id:108,name:"F･リュールLG",type:"lacs",size:"S",cost:40,hp:20,tec:1,wlk:2,fly:2}
+
 {id:103,name:"K・ノンナLG",type:"c",size:"S",cost:40,hp:20,wlk:2,fly:2,tgh:1}
 
 
