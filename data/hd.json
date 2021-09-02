@@ -128,7 +128,7 @@
 
 {id:259,name:"オルフェノスHD",cost:40,hp:25,str:2,tec:1,wlk:-1,fly:2,tgh:1}
 
-
+{id:301,name:"ガゥディアンHD2",cost:35,hp:20,str:2,tec:-1,wlk:3,tgh:1,type:"lacs",size:"M"}
 {id:23,name:"ガシマHD",cost:40,hp:25,str:1,tec:2,wlk:1,fly:1}
 {id:229,name:"カタロスHD",cost:40,hp:25,str:1,wlk:1,fly:1,tgh:2}
 
