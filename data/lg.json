@@ -362,7 +362,7 @@
 {id:9,name:"コスモカイザーLG",cost:45,hp:25,str:1,tec:1,wlk:3,tgh:1}
 {id:950,name:"コスモカイザーLG2",cost:45,hp:30,str:-1,tec:1,wlk:3,fly:1,tgh:2}
 {id:38,name:"コントラディクトLG",cost:50,hp:25,str:1,tec:-1,wlk:3,fly:1,tgh:2}
-
+{id:75,name:"コンバットフリードLG",type:"l",cost:45,hp:35,str:2,wlk:3,fly:-1,tgh:2}
 
 {id:10,name:"サジタルマクシスLG",cost:50,hp:60,tec:1,wlk:4,tgh:1}
 
