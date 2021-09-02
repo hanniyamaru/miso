@@ -278,7 +278,7 @@
 {id:503,name:"アクアショット",main:{pwr:19,shl:340,rng:250,spd:400,itv:500},type:"l",size:"S",cost:70,comment:"イオンAM2専用コンバージョンパーツ",tunable:{mwp:1}}
 {id:119,name:"インパクトアロー",main:{pwr:22,shl:230,rng:225,spd:480,itv:600},type:"l",size:"M",cost:30,comment:"ロビンハンターAM専用コンバージョンパーツ",slot:0}
 {id:95,name:"オートチャージカセット",main:{pwr:28,shl:60,rng:300,spd:480,itv:500},type:"a",size:"S",cost:30,slot:0,comment:"ステラ・カラカル専用コンバージョンパーツ　アウロラキャノン省略"}
-
+{id:152,name:"オフダシューター",main:{pwr:10,shl:1050,rng:250,spd:400,itv:600},tunable:{mwp:1},type:"ls",size:"M",cost:70}
 {id:67,name:"エアリーデ・ビットα",main:{pwr:[4,5,6],shl:[840],rng:275,spd:440,itv:900},size:"S",type:"a",slot:0,cost:70,comment:"ビットホルダー専用コンバージョンパーツ"}
 {id:68,name:"エアリーデ・ビットβ",main:{pwr:[6,7,8],shl:[920],rng:275,spd:400,itv:380},size:"S",type:"a",slot:0,cost:100,comment:"ビットホルダー専用コンバージョンパーツ"}
 
