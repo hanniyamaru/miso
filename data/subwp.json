@@ -165,6 +165,7 @@
 
 {id:51,name:"月輪【新月】",type:"l",cost:20,slot:0,comment:"月讀ミコト専用コンバージョンパーツ"}
 
+{id:53,name:"O.N.T.マチェット",sub:{pwr:32,rng:77,spd:94,itv:1000,tec:100},tunable:{pwp:1},type:"c",size:"S",cost:70,comment:["如月アンコ専用コンバージョンパーツ","-"]}
 
 
 
