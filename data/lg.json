@@ -436,6 +436,8 @@
 {id:51,name:"マイトボンバーLG",builtin:{bs:1},cost:45,hp:25,str:2,tec:1,wlk:2,fly:1,tgh:-1,type:"a",}
 {id:3,name:"メガトンオーLG",cost:40,hp:20,str:1,wlk:2,tgh:2}
 
+{id:322,name:"ヤマトオグナLG",type:"l",size:"L",cost:45,hp:25,tec:1,wlk:4,fly:-1,tgh:2}
+
 
 {id:17,name:"ランサーロットLG",cost:50,hp:50,str:1,tec:1,wlk:4}
 {id:60,name:"ロトンレムレスLG",cost:45,hp:25,str:2,tec:2,wlk:2,fly:-1}
