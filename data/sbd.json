@@ -81,6 +81,8 @@
 
 
 {group:"Ｍ補",prefixID:"SM",commonStat:{size:"M",type:"s"},nextID:8}
+{id:48,name:"ガゥディアンBD",type:"s",size:"M",cost:445,capa:870,hp:255,str:7,tec:11,wlk:14,fly:8,tgh:8,cartridge:{hpup:14,lv1:"4*6@20|17@20|18@20|19@20|20@20|23@25|22@30|21@20|16@20|15@30|29@10|26@20|13@20|32@30|31@40"}}
+
 {id:631,name:"キンギョBD2",main:{shl:240,rng:70,spd:20,itv:700},sub:{str:100,pwr:25,rng:120,spd:200,itv:3000},builtin:{bs:1},cartridge:{hpup:35,lv1:"75*6@25|17@20|18@20|19@20|20@20|23@25|22@30|29@10|53@10|21@20|28@20|14@10|13@20|32@30|31@40"},fixedParts:{lg:{name:"キンギョLG2",cost:40,hp:20,str:1,tec:1,wlk:2,tgh:1,size:"M",type:"s"}},cost:565,capa:695,hp:245,str:13,tec:13,wlk:21,fly:19,tgh:9,wbid:10,comment:["回復量10","金魚ちゃんM"],joint:{hd:0,bs:0,am:0,wp:1,hdac:1,fcac:1}}
 
 {id:6,name:"シグマクロックBD",cost:405,capa:800,hp:245,str:5,tec:15,wlk:8,fly:7,tgh:10,wbid:7,cartridge:{hpup:18,lv1:"85*6@20|17@20|19@20|20@20|23@25|22@30|25@25|14@10|28@20|29@10|12@20|26@20|13@20|32@30|31@40"},fixedParts:{am:{name:"シグマクロックAM2",cost:125,hp:20,str:-1,tec:3,wlk:1,tgh:2,sub:{pwr:28,shl:0,rng:200,spd:350,itv:1000},joint:{wp:0},slot:3}}}
