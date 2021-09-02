@@ -95,6 +95,7 @@
 
 {id:81,name:"デストラクトガールBS",type:"c",cost:40,hp:20,fly:2,tgh:3}
 {id:57,name:"トノサマランダーBS",type:"l",cost:40,hp:25,wlk:1,fly:3,tgh:1}
+{id:169,name:"トリスティンBS",type:"c",size:"S",cost:30,hp:15,tec:1,fly:2,tgh:1}
 
 
 {id:109,name:"ナイトジャーBS",type:"l",cost:40,hp:25,str:2,tec:-1,fly:3,tgh:1}
