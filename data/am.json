@@ -5,7 +5,7 @@
 {id:24,name:"タラントリックAM",cost:35,hp:20,str:1,tec:1,wlk:2,tgh:1}
 
 
-
+{id:60,name:"アームドビルダームAM2",type:"c",cost:115,hp:20,str:-1,tec:3,wlk:1,fly:2,sub:{tec:100,pwr:14,shl:270,rng:330,spd:380,itv:2000}}
 {id:302,name:"アイシーAM",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1}
 
 {id:177,name:"アレスターAM",type:"lacs",size:"S",cost:35,hp:20,str:2,tec:1,wlk:1,fly:2,tgh:-1}
@@ -508,7 +508,7 @@
 
 
 {group:"UniＬＬサイズ",prefixID:"LL",commonStat:{size:"LL"},nextID:7}
-{id:1401,name:"ガデロガAM",main:{tec:100,pwr:36,shl:180,rng:300,spd:320,itv:1000},tunable:{mwp:1},type:"c",cost:100,hp:25,str:-1,tec:3,wlk:-1,fly:1,tgh:3,joint:{wp:0}}
+{id:1401,name:"ガデロガAM",main:{tec:100,pwr:36,shl:180,rng:300,spd:320,itv:1000},tunable:{mwp:1},type:"c",cost:100,hp:25,str:-1,tec:3,wlk:-1,fly:1,tgh:3,joint:{wp:0},comment:"部位破壊不能"}
 {id:1402,name:"ガデロガAM2",main:{tec:100,pwr:10,shl:760,rng:90,spd:480,itv:100},tunable:{mwp:1},type:"c",cost:125,hp:25,tec:2,wlk:2,fly:-1,tgh:2,joint:{wp:0}}
 {id:19,name:"ガデロガAM3",main:{tec:100,pwr:13,shl:800,rng:280,spd:480,itv:100},tunable:{mwp:1},type:"c",cost:155,hp:25,str:-1,tec:3,tgh:3,joint:{wp:0}}
 {id:2,name:"ギガトンオーAM2",type:"c",cost:200,hp:25,str:-1,tec:4,fly:-1,tgh:3,main:{pwr:37,shl:220,rng:330,spd:360,itv:800},sub:{pwr:30,shl:90,rng:350,spd:240,itv:1000},tunable:{mwp:1},joint:{wp:0}}
