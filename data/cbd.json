@@ -43,6 +43,7 @@
 
 
 {group:"Ｓ砲ロボ",prefixID:"CS",commonStat:{size:"S",type:"c"},nextID:12}
+{id:11,name:"アームドビルダームBD",cost:405,capa:780,hp:210,str:4,tec:15,wlk:8,fly:8,tgh:10,wbid:3,cartridge:{hpup:18,lv1:"85*6@25|7@20|10@20|8@15|17@20|18@20|19@20|20@15|23@25|25@25|21@20|26@10|13@30|32@40|31@40"}}
 
 {id:638,name:"カクタスフューラーBD",main:{pwr:10,shl:800,rng:240,spd:480,itv:100},sub:{tec:100,pwr:8,shl:420,rng:350,spd:290,itv:1000},builtin:{bs:1},cartridge:{hpup:30,lv1:"3*6@25|7@20|10@20|8@15|17@20|18@20|20@15|23@25|22@30|30@20|21@20|29@15|13@30|32@40|31@40"},fixedParts:{lg:{name:"カクタスフューラーLG",size:"S",type:"c",cost:45,hp:25,str:1,tec:1,wlk:3}},cost:680,capa:745,hp:250,str:7,tec:29,wlk:26,fly:11,tgh:16,wbid:10,comment:["-"],joint:{hd:0,bs:0,am:0,wp:0,hdac:1,fcac:1}}
 
