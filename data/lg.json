@@ -473,7 +473,7 @@
 {group:"UniLLサイズ",prefixID:"LL",commonStat:{size:"L"},nextID:999}
 {id:9,name:"イルグリプスLG",builtin:{bs:1},joint:{bs:1},type:"a",cost:45,hp:50,str:-1,tec:2,wlk:2,fly:2,tgh:1}
 {id:6,name:"ガデロガLG",joint:{bs:1},cost:45,hp:65,str:-1,tec:-1,wlk:4,fly:1,tgh:3}
-
+{id:11,name:"ガデロガLG2",joint:{bs:1},cost:55,hp:65,tec:1,wlk:4,fly:-1,tgh:2,sub:{tec:100,pwr:24,rng:100,spd:150,itv:2000},tunable:{pwp:1},type:"c",comment:"-"}
 {id:15,name:"サイクロテスLG2",sub:{str:100,pwr:30,rng:100,spd:250,itv:3000},tunable:{pwp:1},type:"l",size:"LL",cost:160,hp:75,str:2,wlk:2,fly:-1,tgh:3}
 
 {id:2,name:"シノ･イクスロードLG",type:"l",cost:145,hp:55,str:2,tec:-1,wlk:4,tgh:1,sub:{str:100,pwr:28,rng:150,spd:150,itv:2500},tunable:{pwp:1},joint:{bs:1}}
