@@ -93,6 +93,7 @@
 {id:10,name:"ラズフラムαLG",cost:45,hp:25,tec:1,wlk:3,fly:-1,tgh:2,joint:{bs:1}}
 
 {id:90,name:"リフィLG",cost:45,hp:25,str:-1,tec:-1,wlk:3,fly:2,tgh:2}
+{id:303,name:"レプシロンLG",cost:45,hp:25,tec:2,wlk:2,fly:2}
 
 {id:301,name:"ワンダーズLG",cost:45,hp:25,str:-1,tec:1,wlk:2,fly:1,tgh:2}
 
