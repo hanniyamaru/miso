@@ -79,7 +79,7 @@
 
 
 
-{group:"UniＭサイズ",prefixID:"M",commonStat:{size:"M"},nextID:541}
+{group:"UniＭサイズ",prefixID:"M",commonStat:{size:"M"},nextID:542}
 {id:31,name:"デジトロイドHD",cost:40,hp:25,str:1,tec:1,wlk:1,fly:1,tgh:1}
 
 {id:214,name:"アーティラスHD",cost:40,hp:25,str:1,tec:2,wlk:1,fly:2,tgh:-1}
@@ -379,7 +379,7 @@
 {id:202,name:"ルッカ・デーコHD",cost:40,hp:25,str:2,tec:-1,fly:2,tgh:2}
 
 {id:73,name:"レイスタッグHD",type:"a",cost:110,hp:25,str:-1,tec:2,wlk:2,fly:2,main:{pwr:4,shl:780,rng:275,spd:315,itv:1000},tunable:{mwp:1}}
-{id:539,name:"レプシロンHD",type:"lacs",size:"M",cost:35,hp:20,tec:1,wlk:-1,fly:2,tgh:3}
+{id:541,name:"レプシロンHD",type:"lacs",size:"M",cost:35,hp:20,tec:1,wlk:-1,fly:2,tgh:3}
 
 {id:292,name:"ロッソアスピーデHD",cost:40,hp:25,str:-1,tec:1,wlk:2,fly:1,tgh:2,size:"M",type:"lacs"}
 {id:181,name:"ロトンレムレスHD",cost:40,hp:25,str:1,tec:2,wlk:2,fly:1,tgh:-1}
