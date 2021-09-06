@@ -86,7 +86,7 @@
 {id:2,name:"フリントマスケット",type:"lcs",size:"M",cost:50,main:{pwr:7,shl:330,rng:330,spd:440,itv:500}}
 {id:4,name:"イージーライフル",type:"lcs",size:"S",cost:70,main:{pwr:12,shl:250,rng:330,spd:440,itv:660}}
 {id:3,name:"ライフル",type:"lcs",size:"M",cost:100,main:{pwr:17,shl:250,rng:330,spd:440,itv:700}}
-{id:5,name:"アサルトライフル",type:"lcs",size:"M",cost:130,main:{pwr:14,shl:630,rng:275,spd:480,itv:140}}
+{id:5,name:"アサルトライフル",type:"lc",size:"M",cost:130,main:{pwr:14,shl:630,rng:275,spd:480,itv:140}}
 {id:8,name:"レイドライフル",type:"lc",size:"M",cost:160,main:{pwr:16,shl:660,rng:250,spd:480,itv:140}}
 {id:7,name:"スカウトライフル",type:"lc",size:"M",cost:140,main:{pwr:20,shl:470,rng:275,spd:480,itv:340}}
 {id:10,name:"ペイロードライフル",type:"c",size:"L",cost:200,main:{pwr:42,shl:150,rng:350,spd:520,itv:1000}}
