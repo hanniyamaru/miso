@@ -45,19 +45,21 @@
 {group:"MAIN武器性能特殊効果系",prefixID:"MS",commonStat:{target:"mwp"}}
 {id:1,name:"パラライズ",cost:25,material:"10*1|27*31|32*10|35*7|37*2|15*3",comment:["50%","スタン係数50%上昇"]}
 
-{group:"近接SUB武器性能系",prefixID:"PP",commonStat:{target:"pwp"}}
+{group:"グラップラー系",prefixID:"PP",commonStat:{target:"pwp"}}
 {id:1,name:"グラップラー",cost:10,effect:{pwr:3},material:"7*1|27*4",comment:["50%","威力+3%"]}
 {id:1,name:"ハイグラップラー",cost:25,effect:{pwr:6},material:"8*1|27*10|23*5|12*4",comment:["50%","威力+6%"]}
 {id:2,name:"ハイグラップラーα",cost:20,effect:{pwr:6,spd:-7},material:"8*1|27*10|23*5|12*4",comment:["50%","威力+6%、速度-7%"]}
 {id:1,name:"グレートグラップラー",cost:40,effect:{pwr:9},material:"9*1|27*13|23*7|12*5|35*2|37*2",comment:["50%","威力+9%"]}
 {id:3,name:"グレートグラップラーα",cost:30,effect:{pwr:9,spd:-10},material:"9*1|27*13|23*7|12*5|35*2|37*2",comment:["50%","威力+9%、速度-10%"]}
+
+{group:"グラディエーター系",prefixID:"PP",commonStat:{target:"pwp"}}
 {id:4,name:"グラディエーター",cost:20,effect:{rng:5,spd:5},material:"9*1|23*10|32*10|36*4|38*1|16*3",comment:["50%","射程+5%、速度+5%"]}
 {id:5,name:"ハイグラディエーター",cost:45,effect:{rng:10,spd:10},material:"10*1|23*20|32*20|36*10|38*3|16*4",comment:["50%","射程+10%、速度+10%"]}
 {group:"近接SUB武器特殊効果系",prefixID:"PS",commonStat:{target:"pwp"}}
-{id:1,name:"バーニング",cost:20,material:"10*1|29*31|32*10|15*3|35*7|37*2",comment:["50%","5%でバーニング効果"]}
-{id:2,name:"ライトスロウ",cost:20,material:"10*1|30*31|32*10|15*3|35*7|37*2",comment:["50%","5%でスロウ効果"]}
-{id:3,name:"ディスオーダー",cost:20,material:"10*1|28*31|32*10|15*3|35*7|37*2",comment:["50%","5%で集弾異常"]}
-{id:4,name:"シェルドレイン",cost:20,material:"10*1|26*31|32*10|15*3|35*7|37*2",comment:["50%","5%でシェルドレイン効果"]}
+{id:1,name:"*バーニング",cost:20,material:"10*1|29*31|32*10|15*3|35*7|37*2",comment:["50%","5%でバーニング効果","未実装"]}
+{id:2,name:"*ライトスロウ",cost:20,material:"10*1|30*31|32*10|15*3|35*7|37*2",comment:["50%","5%でスロウ効果","未実装"]}
+{id:3,name:"*ディスオーダー",cost:20,material:"10*1|28*31|32*10|15*3|35*7|37*2",comment:["50%","5%で集弾異常","未実装"]}
+{id:4,name:"*シェルドレイン",cost:20,material:"10*1|26*31|32*10|15*3|35*7|37*2",comment:["50%","5%でシェルドレイン効果","未実装"]}
 
 
 
