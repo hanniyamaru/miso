@@ -171,7 +171,7 @@
 
 {id:451,name:"バニッシュストライカー",main:{str:100,pwr:20,shl:50,rng:200,spd:200,itv:1000},sub:{str:100,pwr:35,shl:0,rng:90,spd:250,itv:2000},type:"l",size:"S",cost:80,comment:"ベスティア専用コンバージョンパーツ",tunable:{pwp:1,mwp:1}}
 
-
+{id:44,name:"ライザーブレス",size:"M",type:"l",cost:210,comment:"アストライザー専用コンバージョンパーツ",sub:{itv:500},slot:0}
 
 
 
