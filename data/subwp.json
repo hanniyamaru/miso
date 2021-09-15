@@ -167,9 +167,9 @@
 
 {id:53,name:"O.N.T.マチェット",sub:{pwr:32,rng:77,spd:94,itv:1000,tec:100},tunable:{pwp:1},type:"c",size:"S",cost:10,comment:["如月アンコ専用コンバージョンパーツ","-"]}
 
+{id:45,name:"サーペントウィップ",sub:{pwr:32,rng:90,spd:110,itv:1000,str:100},tunable:{pwp:1},cost:90,size:"S",comment:"ベスティア専用コンバージョンパーツ",type:"l"}
 
-
-
+{id:451,name:"バニッシュストライカー",main:{str:100,pwr:20,shl:50,rng:200,spd:200,itv:1000},sub:{str:100,pwr:35,shl:0,rng:90,spd:250,itv:2000},type:"l",size:"S",cost:80,comment:"ベスティア専用コンバージョンパーツ",tunable:{pwp:1,mwp:1}}
 
 
 
