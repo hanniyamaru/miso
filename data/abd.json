@@ -217,7 +217,7 @@
 
 {id:18,name:"ベクターBD",main:{pwr:[6,8,10],shl:[600],rng:[275,285,300],spd:[350,365,380],itv:300},cartridge:{hpup:14,lv1:"4*5@20|61*2@30|7@30|9@15|8@20|19@15|23@25|22@30|52@20|21@20|30@20|31@40|13@30|32@50|26@20"},cost:555,capa:870,hp:290,str:4,tec:11,wlk:8,fly:15,tgh:10,wbid:1}
 {id:19,name:"ベクターBD2",main:{pwr:[5],shl:[600],rng:275,spd:350,itv:300},cartridge:{hpup:14,lv1:"4*5@20|61*2@30|7@30|9@15|8@20|19@15|23@25|22@30|52@20|21@20|30@20|31@40|13@30|32@50|26@20"},type:"a",size:"L",cost:535,capa:870,hp:290,str:4,tec:14,wlk:8,fly:14,tgh:8,auraSystem:1,wbid:17,auraStat:{main:{pwr:[5],shl:[600],rng:275,spd:350,itv:800},str:4,tec:14,wlk:8,fly:14,tgh:8},comment:"強化値不明"}
-{id:50,name:"ペルセシウスBD",main:{pwr:[25,28],tec:100,shl:[270,270],rng:[275],spd:[440],itv:[700,700]},joint:{hdac:0,fcac:0,wp:0},cartridge:{hpup:10,lv1:"4*5@20|60@30|7@30|9@15|8@20|19@15|23@25|22@30|21@20|52@20|30@20|14@20|26@20|13@30|32@50|31@40"},type:"a",size:"L",cost:550,capa:945,hp:305,str:5,tec:12,wlk:8,fly:14,tgh:12,wbid:1}
+{id:50,name:"ペルセシウスBD",main:{pwr:[25,28],tec:100,shl:[270,270],rng:[275,300],spd:[440,485],itv:[700,700]},joint:{hdac:0,fcac:0,wp:0},cartridge:{hpup:10,lv1:"4*5@20|60@30|7@30|9@15|8@20|19@15|23@25|22@30|21@20|52@20|30@20|14@20|26@20|13@30|32@50|31@40"},type:"a",size:"L",cost:550,capa:945,hp:305,str:5,tec:12,wlk:8,fly:14,tgh:12,wbid:1}
 
 
 {id:20,name:"マイトボンバーBD",sub:{pwr:[25],shl:[130],rng:275,spd:[350],itv:1000},builtin:{bs:1},joint:{bs:0,wp:1},cartridge:{hpup:18,lv1:"85*6@20|7@30|9@15|8@20|19@15|21@20|23@25|22@30|52@20|28@30|26@20|15@20|13@30|32@50|31@40"},fixedParts:{wp:["W1"]},cost:485,capa:800,hp:300,str:4,tec:12,wlk:7,fly:18,tgh:9}
