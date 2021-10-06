@@ -339,5 +339,5 @@
 {id:73,name:"アムリムBD@",main:{pwr:8,shl:630,rng:275,spd:380,itv:580,tec:100},tunable:{mwp:1},type:"a",size:"S",cost:70,comment:"アムリムBS専用コンバージョンパーツ"}
 
 {id:72,name:"ブラッドシューター",main:{pwr:14,shl:560,rng:275,spd:360,itv:300},tunable:{mwp:1},type:"la",size:"S",comment:"アムリムAM2専用コンバーションパーツ",cost:100}
-
+{id:1,name:"ラキアコフィン",size:"S",slot:0,sub:{pwr:0,shl:0,rng:300,spd:0,itv:1000},comment:"アムリムLG専用コンバージョンパーツ"}
 
