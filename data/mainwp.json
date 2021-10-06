@@ -184,6 +184,7 @@
 {id:33,name:"セプタプルランチャー",main:{pwr:6,shl:1260,rng:330,spd:250,itv:900},cost:170,size:"LL",type:"c"}
 
 {id:76,name:"アクセルミサイルガン",main:{pwr:10,shl:480,rng:330,spd:290,itv:300},type:"c",size:"M",cost:160}
+{id:586,name:"6連ミサイルランチャー",main:{pwr:15,shl:300,rng:330,spd:290,itv:500},type:"c",size:"M",cost:160}
 {id:78,name:"ラピッドパルスミサイル",main:{pwr:11,shl:350,rng:275,spd:350,itv:320},tunable:{mwp:1},type:"a",size:"M",cost:110}
 {id:38,name:"ビームランチャー",main:{tec:100,pwr:27,shl:180,rng:275,spd:280,itv:1000},size:"L",type:"a",cost:100}
 
