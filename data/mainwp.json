@@ -335,6 +335,8 @@
 
 {id:105,name:"見習い手裏剣",main:{str:100,pwr:4,shl:800,rng:200,spd:400,itv:140},tunable:{mwp:1},type:"s",size:"S",cost:40,comment:"もみじBD専用コンバージョンパーツ"}
 
-
+{group:"アムリム コンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
+{id:72,name:"ブラッドシューター",main:{pwr:14,shl:560,rng:275,spd:360,itv:300},tunable:{mwp:1},type:"la",size:"S",comment:"アムリムAM2専用コンバーションパーツ",cost:100}
+{id:73,name:"アムリムBD@",main:{pwr:8,shl:630,rng:275,spd:380,itv:580,tec:100},tunable:{mwp:1},type:"a",size:"S",cost:70,comment:"アムリムBS専用コンバージョンパーツ"}
 
 
