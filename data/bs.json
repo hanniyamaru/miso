@@ -495,3 +495,7 @@
 
 {group:"コンバージョンパーツ",nextID:0}
 {id:159,name:"マニモウィング",sub:{shl:60,spd:160,itv:1000},builtin:{bs:-1},joint:{wp:1},type:"a",size:"M",cost:70,hp:25,str:1,fly:2,tgh:2,slot:0}
+{id:116,name:"アムリムBS",joint:{wp:1},type:"a",cost:35,hp:20,tec:2,fly:3,comment:"アムリムBD専用コンバーションパーツ",slot:0}
+
+
+
