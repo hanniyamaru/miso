@@ -22,6 +22,8 @@
 {id:6,name:"ブロードソード",type:"ls",size:"M",cost:100,sub:{str:100,pwr:32,rng:77,spd:94,itv:500}}
 {id:10,name:"グレートソード",type:"l",size:"L",cost:120,sub:{str:100,pwr:33,rng:77,spd:94,itv:500}}
 {id:13,name:"オーガソード",type:"l",size:"LL",cost:160,sub:{str:100,pwr:35,rng:77,spd:94,itv:500}}
+{id:1004,name:"ライトフリード",type:"l",size:"M",cost:120,sub:{str:100,pwr:33,rng:77,spd:94,itv:500},tunable:{pwp:1}}
+
 {id:22,name:"メタルスレイヤー",type:"l",size:"M",cost:120,sub:{str:100,pwr:32,rng:77,spd:94,itv:500}}
 {id:24,name:"ドゥームスレイヤー",type:"l",size:"L",cost:150,sub:{str:100,pwr:34,rng:84,spd:102,itv:500}}
 {id:29,name:"ライトニングエッジ",sub:{pwr:32,rng:70,spd:85,itv:500},auraStat:{sub:{pwr:34,rng:77,spd:93,itv:500}},type:"l",size:"M",cost:100}
@@ -68,7 +70,7 @@
 {id:4,name:"ギガントアクス",type:"l",size:"LL",cost:160,sub:{str:100,pwr:37,rng:56,spd:68,itv:1000},tunable:{pwp:1}}
 {id:5,name:"ブレイズアクス",type:"l",size:"L",cost:120,sub:{str:100,pwr:33,rng:70,spd:85,itv:500},tunable:{pwp:1}}
 {id:11,name:"ブリガンドアクス",sub:{str:100,pwr:30,rng:49,spd:60,itv:2000},type:"l",size:"LL",cost:180,tunable:{pwp:1}}
-
+{id:300,name:"ビームエッジアクス",sub:{tec:100,pwr:34,tec:100,rng:100,spd:180,itv:1000},tunable:{pwp:1},type:"a",size:"L",cost:100}
 
 
 {group:"Uniメイス系",prefixID:"MC",commonStat:{tunable:{pwp:1}},nextID:7}
