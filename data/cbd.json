@@ -4,6 +4,7 @@
 
 
 {id:41,name:"アンコBD",cartridge:{hpup:14,lv1:"4*6@25|7@20|10@20|8@15|18@20|19@20|20@15|23@25|25@25|13@30|21@20|26@10|42@15|31@40|32@40"},fixedParts:{hd:{name:"アンコHD",cost:40,hp:25,str:-1,wlk:2,fly:2,tgh:2},lg:{name:"アンコLG",cost:45,hp:25,str:1,tec:1,wlk:3,fly:1},bs:{name:"アンコBS",joint:{bs:1},fixedParts:{bs:{name:"アンコBS@",sub:{tec:100,pwr:24,shl:150,rng:350,spd:240,itv:1000},slot:3,main:{tec:100,pwr:32,shl:210,rng:330,spd:240,itv:800},tunable:{mwp:1}}},cost:160,hp:25,tec:1,wlk:-1,fly:3,tgh:2}},cost:445,capa:900,hp:225,str:5,tec:15,wlk:10,fly:10,tgh:8,wbid:3,comment:"BS@cost40合算"}
+
 {id:26,name:"イルミスBD",type:"c",cost:465,capa:900,hp:225,str:4,tec:17,wlk:6,fly:11,tgh:10,wbid:4,cartridge:{hpup:14,lv1:"4*5@25|61*2@35|7@20|10@20|8@15|18@20|19@20|23@25|25@25|13@30|21@20|26@10|42@15|31@40|32@40"},fixedParts:{hd:{name:"イルミスHD",cost:40,hp:25,str:1,tec:1,wlk:2,fly:1},lg:{name:"イルミスLG",cost:45,hp:25,str:-1,tec:1,wlk:3,fly:2,tgh:1},wp:{name:"イルミスBD@",sub:{pwr:[4,5,6],shl:[140],rng:[350,365,380],spd:[290],itv:[1000]},slot:3,cost:100}},joint:{wp:1},builtin:{bs:1}}
 
 {id:57,name:"カグラBD",fixedParts:{hd:{name:"カグラHD",cost:40,hp:25,str:1,tec:2,fly:1,tgh:1},lg:{name:"カグラLG",cost:45,hp:25,tec:2,wlk:3,fly:1},am:[{name:"カグラAM",sub:{tec:100,pwr:1,shl:30,rng:60,spd:70,itv:1000},joint:{wp:0},cost:80,hp:25,tec:2,wlk:1,fly:1,tgh:1},{joint:{wp:2},fixedParts:{wp:[{main:{tec:100,pwr:34,shl:160,rng:330,spd:300,itv:500},tunable:{mwp:1},name:"神祓の弓",cost:150},{name:"戦術神符",tunable:{pwp:0},cost:40,sub:{tec:100,pwr:1,rng:60,spd:70,itv:1000}}]},name:"カグラAM2",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1}]},cost:445,hp:225,capa:900,str:3,tec:18,wlk:9,fly:10,tgh:8,wbid:3,cartridge:{hpup:14,lv1:"4*6@25|7@20|10@20|8@15|18@20|19@20|20@15|23@25|25@25|21@20|30@20|13@30|42@15|31@40|32@40"},builtin:{bs:1}}
@@ -139,9 +140,9 @@
 
 {id:33,name:"アーティラスBD",main:{pwr:9,shl:[560],rng:350,spd:520,itv:1500},joint:{wp:1},cartridge:{lv1:"75*5@20|60*2@30|7@20|10@20|8@15|17@20|18@20|19@20|20@15|30@20|23@25|26@10|13@30|32@40|31@40"},fixedParts:{wp:{name:"アーティラスBD@",main:{pwr:[21],shl:180,rng:[350,365,380],spd:[520],itv:900},slot:0,cost:70}},cost:560,capa:980,hp:305,str:5,tec:14,wlk:6,fly:10,tgh:8,wbid:3}
 
-{id:17,name:"アルバトレオスBD",cost:630,capa:945,hp:305,str:4,tec:17,wlk:7,fly:12,tgh:11,sub:{pwr:[10],shl:[330],rng:[350],spd:[290],itv:[1000],tec:100},wbid:4,cartridge:{hpup:10,lv1:"75*5@20|60*2@30|7@20|10@20|8@15|17@20|19@20|20@15|23@25|30@20|21@20|26@10|13@30|32@40|31@40"},main:{itv:[600],pwr:[9],shl:[580],rng:[350],spd:[360]},builtin:{bs:1},comment:"強化値不明"}
+{id:17,name:"アルバトレオスBD",cost:630,capa:945,hp:305,str:4,tec:17,wlk:7,fly:12,tgh:11,sub:{pwr:[11,13,15],shl:[330],rng:[350,365,380],spd:[290,305,320],itv:[1000],tec:100},wbid:4,cartridge:{hpup:10,lv1:"75*5@20|60*2@30|7@20|10@20|8@15|17@20|19@20|20@15|23@25|30@20|21@20|26@10|13@30|32@40|31@40"},main:{itv:[600],pwr:[9,11,13],shl:[580],rng:[350,365,380],spd:[360]},builtin:{bs:1},comment:"-"}
 
-{id:2,name:"エスカゴットBD",cost:460,capa:730,hp:280,str:5,tec:15,wlk:6,fly:8,tgh:13,sub:{pwr:[9,9,14],shl:[420],rng:350,spd:290,itv:1000},wbid:4,cartridge:{hpup:22,lv1:"5*5@20|62*2@30|7@20|10@20|8@15|18@20|20@15|23@25|29@15|30@20|21@20|26@10|13@30|32@40|31@40"},joint:{bs:0},builtin:{bs:1}}
+{id:2,name:"エスカゴットBD",cost:460,capa:730,hp:280,str:5,tec:15,wlk:6,fly:8,tgh:13,sub:{pwr:[9,9,14],shl:[420],rng:350,spd:240,itv:1000},wbid:4,cartridge:{hpup:22,lv1:"5*5@20|62*2@30|7@20|10@20|8@15|18@20|20@15|23@25|29@15|30@20|21@20|26@10|13@30|32@40|31@40"},joint:{bs:0},builtin:{bs:1}}
 
 {id:27,name:"ガデロガBD",joint:{hd:2,bs:0},cartridge:{hpup:14,lv1:"4*6@20|7@20|10@20|8@15|17@20|20@15|11@20|53@10|29@15|23@25|26@10|13@30|32@40|31@40"},cost:445,hp:290,capa:870,str:3,tec:12,wlk:13,fly:5,tgh:10,wbid:3}
 
