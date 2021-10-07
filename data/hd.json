@@ -390,7 +390,7 @@
 {id:328,name:"ワニガメンティスHD",type:"lacs",size:"M",cost:40,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
 
 {id:323,name:"A・ミラルHD",type:"l",size:"M",cost:115,hp:20,tec:3,wlk:2,fly:-1,tgh:1,main:{tec:100,pwr:3,shl:1200,rng:250,spd:440,itv:200},tunable:{mwp:1}}
-{id:410,name:"A・ミラルHD2",type:"l",size:"M",cost:80,hp:20,tec:2,wlk:1,fly:1,tgh:1,main:{tec:100,pwr:6,shl:440,rng:225,spd:440,itv:260},tunable:{mwp:1}}
+{id:4100,name:"A・ミラルHD2",type:"l",size:"M",cost:80,hp:20,tec:2,wlk:1,fly:1,tgh:1,main:{tec:100,pwr:6,shl:440,rng:225,spd:440,itv:260},tunable:{mwp:1}}
 {id:283,name:"K・ノンナHD",type:"lacs",size:"M",cost:35,hp:20,str:-1,tec:2,fly:2,tgh:2}
 {id:306,name:"RAMソルジェッターHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:2,tgh:2}
 
