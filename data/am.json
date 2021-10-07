@@ -121,6 +121,9 @@
 {id:304,name:"レプシロンAM",type:"a",size:"S",cost:35,hp:20,str:1,tec:2,wlk:1,fly:2,tgh:-1}
 {id:1781,name:"ワンダーズAM2",type:"s",cost:85,hp:20,tec:2,wlk:1,tgh:1,main:{pwr:7,shl:300,rng:250,spd:250,itv:300},tunable:{mwp:1},joint:{wp:1}}
 
+{id:178108,name:"ワンダーズAM4",type:"ls",cost:35,hp:20,tec:3,wlk:1,fly:2,tgh:-1,main:{pwr:13,shl:180,rng:225,spd:440,itv:320},tunable:{mwp:1},joint:{wp:1}}
+
+
 {id:194,name:"A・ミラルAM",type:"lacs",size:"S",cost:35,hp:20,tec:1,wlk:1,fly:1,tgh:2}
 {id:105,name:"A.L.E.クリムローゼAM",cost:35,hp:20,str:1,tec:3,wlk:-1,tgh:2}
 {id:106,name:"A.L.E.ウィンベルAM",cost:75,hp:20,tec:3,wlk:1,fly:-1,tgh:2,main:{pwr:5,shl:300,rng:250,spd:480,itv:300},tunable:{mwp:1},comment:"-",type:"s"}
