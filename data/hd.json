@@ -63,7 +63,7 @@
 {id:254,name:"ワンダーズHD",sub:{pwr:13,shl:420,rng:275,spd:290,itv:1000},type:"s",cost:135,hp:20,tec:2,wlk:2,fly:1}
 
 {id:305,name:"ワンダーズHD3",sub:{pwr:30,shl:150,rng:250,spd:250,itv:1000},type:"s",cost:75,hp:20,tec:2,fly:2,tgh:1,comment:"ぺぺHD"}
-{id:311,name:"ワンダーズHD4",sub:{pwr:0,shl:5,rng:0,spd:0,itv:1000},type:"s",cost:75,hp:135,str:1,tec:2,wlk:1,fly:2,tgh:-1,comment:"パタHD"}
+{id:311,name:"ワンダーズHD4",sub:{pwr:0,shl:5,rng:0,spd:0,itv:1000},type:"s",cost:75,hp:20,str:1,tec:2,wlk:1,fly:2,tgh:-1,comment:"パタHD"}
 
 {id:35,name:"F･リュールHD",type:"lacs",size:"S",cost:35,hp:20,tec:1,fly:3,tgh:1}
 
