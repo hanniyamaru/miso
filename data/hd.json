@@ -249,6 +249,7 @@
 
 
 {id:195,name:"テオライネHD",cost:35,hp:20,str:1,tec:-1,wlk:1,fly:2,tgh:2}
+{id:195107,name:"テオライネHD3",cost:35,hp:20,str:2,wlk:1,tgh:2}
 
 {id:192,name:"ディースモークHD",cost:40,hp:25,str:2,tec:1,wlk:1,fly:2,tgh:-1}
 {id:21,name:"テツジンガーHD",cost:35,hp:20,str:1,wlk:1,tgh:3}
