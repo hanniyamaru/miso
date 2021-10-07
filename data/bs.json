@@ -257,6 +257,9 @@
 
 
 {id:90,name:"テオライネBS",type:"c",cost:35,hp:20,tec:2,wlk:-1,fly:3,tgh:1}
+{id:90107,name:"テオライネBS2",type:"c",cost:35,hp:20,tec:2,wlk:1,fly:3,tgh:-1}
+
+
 {id:14,name:"デジトロイドBS",type:"s",cost:40,hp:25,tec:2,fly:3}
 
 {id:3,name:"テツジンガーBS",type:"l",cost:35,hp:20,str:2,wlk:1,fly:2}
