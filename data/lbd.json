@@ -6,7 +6,7 @@
 
 
 {id:119,name:"リルBD",cartridge:{lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|11@20|16@20|21@20|13@30|34@15|32@50|31@40",hpup:14},fixedParts:{hd:{name:"リルHD",sub:{pwr:30,shl:0,rng:150,spd:350,itv:1000,str:100},tunable:{pwp:1},cost:90,hp:25,str:1,wlk:3,fly:1},lg:{name:"リルLG",cost:45,hp:25,str:1,wlk:4,fly:1},am:[{name:"リルAM",sub:{pwr:32,shl:3,rng:70,spd:80,itv:500,str:100},tunable:{pwp:1},joint:{wp:1},fixedParts:{wp:[{name:"フレイムカートリッジ",main:{str:100,pwr:10,shl:50,rng:0,spd:10,itv:1000},cost:30,tunable:{mwp:1}},]},cost:150,hp:25,str:3,wlk:1,tgh:1},{name:"リルAM2",joint:{wp:1},fixedParts:{wp:[{name:"スパイスカートリッジ",main:{str:100,pwr:10,shl:120,rng:200,spd:500,itv:300},cost:30,tunable:{mwp:1}},]},cost:40,hp:25,str:2,tec:1,wlk:1,tgh:1}]},cost:445,capa:900,hp:225,str:14,tec:4,wlk:16,fly:9,tgh:5,wbid:1}
-
+{id:1219,name:"2リルBD",joint:{wp:1},cartridge:{lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|11@20|16@20|21@20|13@30|34@15|32@50|31@40",hpup:14},fixedParts:{hd:{name:"リルHD",sub:{pwr:30,shl:0,rng:150,spd:350,itv:1000,str:100},tunable:{pwp:1},cost:90,hp:25,str:1,wlk:3,fly:1},wp:["W1"],lg:{name:"リルLG",cost:45,hp:25,str:1,wlk:4,fly:1},am:[{name:"リルAM",sub:{pwr:32,shl:3,rng:70,spd:80,itv:500,str:100},tunable:{pwp:1},joint:{wp:1},fixedParts:{wp:[{name:"フレイムカートリッジ",main:{str:100,pwr:10,shl:50,rng:0,spd:10,itv:1000},cost:30,tunable:{mwp:1}},]},cost:150,hp:25,str:3,wlk:1,tgh:1},{name:"リルAM2",joint:{wp:1},fixedParts:{wp:[{name:"スパイスカートリッジ",main:{str:100,pwr:10,shl:120,rng:200,spd:500,itv:300},cost:30,tunable:{mwp:1}},]},cost:40,hp:25,str:2,tec:1,wlk:1,tgh:1}]},cost:445,capa:900,hp:225,str:14,tec:4,wlk:16,fly:9,tgh:5,wbid:1}
 
 
 
