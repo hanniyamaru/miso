@@ -162,6 +162,12 @@
 
 {id:185,name:"A・ミラルBS（コンバージョン無し）",sub:{shl:60,rng:100,spd:150,itv:1000},type:"lc",size:"S",cost:65,hp:20,str:-1,tec:2,wlk:1,fly:3,fixedParts:[],tunable:{pwp:0}}
 
+{id:186000,name:"A・ミラルBS2",type:"lc",size:"S",cost:35,hp:20,str:-1,tec:3,fly:2,tgh:1,joint:{wp:1},fixedParts:{wp:{name:"A・ミラルBS2@",type:"lc",size:"S",cost:160,tunable:{pwp:0,mwp:1},main:{tec:100,pwr:7,shl:660,rng:275,spd:280,itv:900},sub:{tec:100,pwr:13,shl:150,rng:225,spd:360,itv:1000}}}}
+
+{id:186,name:"A・ミラルBS2（コンバージョン無し）",type:"lc",size:"S",cost:35,hp:20,str:-1,tec:3,fly:2,tgh:1,fixedParts:[]}
+
+
+
 
 {id:89,name:"A.L.E.ウィンベルBS",cost:40,hp:25,str:-1,wlk:1,fly:3,tgh:2,type:"s"}
 {id:93,name:"A.L.E.ジークンロンBS",cost:40,hp:25,str:2,wlk:1,fly:2,type:"l"}
