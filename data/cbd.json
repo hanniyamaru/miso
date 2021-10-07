@@ -99,13 +99,10 @@
 {id:14,name:"ゲンブラBD",cartridge:{hpup:14,lv1:"4*5@20|61*2@30|7@20|10@20|8@15|17@20|18@20|20@15|23@25|28@30|30@20|21@20|26@10|13@30|32@40|31@40"},auraStat:{main:{pwr:[15,17,19],shl:[120],rng:[350,365,380],spd:[520,545,570],itv:[300],tec:100},str:4,tec:15,wlk:8,fly:6,tgh:15},auraSystem:1,cost:485,capa:870,hp:255,str:4,tec:15,wlk:8,fly:6,tgh:15,wbid:17}
 
 {id:48,name:"テオライネBD",joint:{bs:0},cartridge:{hpup:14,lv1:"4*6@20|7@20|10@20|8@15|17@20|18@20|19@20|20@15|23@25|25@25|21@20|26@10|13@30|32@40|31@40"},cost:515,capa:870,hp:255,str:4,tec:15,wlk:11,fly:8,tgh:10,wbid:4,sub:{tec:100,pwr:22,shl:0,rng:300,spd:500,itv:1000},joint:{wp:1,bs:0},fixedParts:{wp:["W1"]},comment:"BD@cost70合算"}
+{id:48107,name:"テオライネBD3",joint:{bs:0},cartridge:{hpup:14,lv1:"4*5@20|61*2@30|7@20|10@20|8@15|18@20|19@20|20@15|23@25|25@25|21@20|26@10|13@30|32@40|31@40"},cost:515,capa:870,hp:255,str:4,tec:16,wlk:10,fly:9,tgh:9,wbid:4,main:{tec:100,pwr:6,shl:1350,rng:350,spd:240,itv:900},joint:{wp:1,bs:0},fixedParts:{wp:["W1"]},comment:"BD@cost70合算"}
 
 
 
-{id:29,name:"ホプリテスBD",cartridge:{hpup:18,lv1:"85*5@20|61*2@30|7@20|10@20|8@15|18@20|19@20|20@15|23@25|30@20|21@20|26@10|13@30|32@40|31@40"},fixedParts:{am:{name:"ホプリテスAM2",sub:{shl:0,rng:10,itv:1000},tunable:{pwp:0,mwp:0},cost:85,hp:20,str:-1,tec:3,tgh:3,size:"M",type:"c",joint:{wp:0}}},cost:405,capa:800,hp:245,str:4,tec:10,wlk:13,fly:9,tgh:9,wbid:3,comment:"1度の攻撃で受けるバリアへの最大与ダメージ30"}
-
-{id:35,name:"ランドスBD",cartridge:{lv1:"4*6@20|7@20|10@20|8@15|17@20|18@20|19@20|20@15|23@25|30@20|15@30|26@10|21@20|13@30|32@40|31@40",hpup:14},cost:445,capa:870,hp:255,str:6,tec:13,wlk:13,fly:9,tgh:7,comment:"-",wbid:3}
-{id:43,name:"ブラディスターBD",cartridge:{hpup:14,lv1:"4*6@20|7@20|10@20|8@15|17@20|18@20|19@20|20@15|23@25|30@20|21@20|26@10|13@30|32@40|31@40"},type:"c",size:"M",cost:445,capa:905,hp:255,str:3,tec:11,wlk:10,fly:8,tgh:8,sub:{shl:0,rng:0,spd:0,itv:1000},comment:"BD@cost20合算　ビット性能値固定 ゲージ35秒"}
 
 
 
@@ -120,11 +117,16 @@
 
 {id:28,name:"ビクトールBD2",cartridge:{lv1:"85*6@20|7@20|10@20|8@15|17@20|18@20|19@20|20@15|23@25|30@20|25@25|26@10|13@30|32@40|31@40",hpup:18},sub:{shl:[20],rng:[10,10,10],spd:[10,10,10],itv:[1000]},cost:435,capa:800,hp:245,str:5,tec:12,wlk:7,fly:6,tgh:15,wbid:3}
 {id:1,name:"ビクトリーBD3",cost:420,capa:655,hp:215,str:5,tec:12,wlk:8,fly:7,tgh:8,main:{pwr:[14,15,16],shl:[520],rng:[350,365,380],spd:[400,420,440],itv:700},wbid:12,cartridge:{hpup:25,lv1:"95*5@20|62*2@30|7@20|10@20|8@15|17@20|18@20|20@15|23@25|30@20|21@20|26@10|13@30|32@40|31@40"}}
+
+{id:43,name:"ブラディスターBD",cartridge:{hpup:14,lv1:"4*6@20|7@20|10@20|8@15|17@20|18@20|19@20|20@15|23@25|30@20|21@20|26@10|13@30|32@40|31@40"},type:"c",size:"M",cost:445,capa:905,hp:255,str:3,tec:11,wlk:10,fly:8,tgh:8,sub:{shl:0,rng:0,spd:0,itv:1000},comment:"BD@cost20合算　ビット性能値固定 ゲージ35秒"}
+
 {id:44,name:"ブリンクBD",cartridge:{hpup:14,lv1:"4*6@20|7@20|10@20|8@15|17@20|18@20|19@20|20@15|23@25|30@20|25@25|26@10|13@30|32@40|31@40"},type:"c",size:"M",cost:445,capa:870,hp:255,str:5,tec:15,wlk:11,fly:10,tgh:10}
 
 {id:3,name:"ホバリオンBD",cost:465,capa:730,hp:230,str:3,tec:13,wlk:12,fly:7,tgh:7,main:{pwr:[26,28,30],shl:[240,240,240],rng:[350,365,380],spd:[290,305,320],itv:700},wbid:4,cartridge:{hpup:22,lv1:"5*5@20|62*2@30|7@20|10@20|8@15|17@20|18@20|20@15|23@25|30@20|21@20|26@10|13@30|32@40|31@40"}}
 
+{id:29,name:"ホプリテスBD",cartridge:{hpup:18,lv1:"85*5@20|61*2@30|7@20|10@20|8@15|18@20|19@20|20@15|23@25|30@20|21@20|26@10|13@30|32@40|31@40"},fixedParts:{am:{name:"ホプリテスAM2",sub:{shl:0,rng:10,itv:1000},tunable:{pwp:0,mwp:0},cost:85,hp:20,str:-1,tec:3,tgh:3,size:"M",type:"c",joint:{wp:0}}},cost:405,capa:800,hp:245,str:4,tec:10,wlk:13,fly:9,tgh:9,wbid:3,comment:"1度の攻撃で受けるバリアへの最大与ダメージ30"}
 
+{id:35,name:"ランドスBD",cartridge:{lv1:"4*6@20|7@20|10@20|8@15|17@20|18@20|19@20|20@15|23@25|30@20|15@30|26@10|21@20|13@30|32@40|31@40",hpup:14},cost:445,capa:870,hp:255,str:6,tec:13,wlk:13,fly:9,tgh:7,comment:"-",wbid:3}
 
 
 
