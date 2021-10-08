@@ -246,7 +246,8 @@
 
 
 {id:133,name:"ダルタニスAM2",sub:{str:100,pwr:32,rng:75,spd:150,itv:1500},tunable:{pwp:1},joint:{wp:0},type:"l",cost:155,hp:20,str:2,tec:-1,wlk:3,tgh:1,comment:"シールド耐久値不明"}
-{id:305,name:"ダルタニスAM3",cost:155,hp:20,str:2,tec:-1,wlk:2,tgh:2,tunable:{mwp:1,pwp:1},main:{sr:100,pwr:11,shl:280,rng:225,spd:400,itv:300},sub:{pwr:28,shl:0,rng:120,spd:350,itv:1000},comment:"シールド耐久値不明"}
+{id:305,name:"ダルタニスAM3",cost:155,hp:20,str:2,tec:-1,wlk:2,tgh:2,tunable:{mwp:1,pwp:1},joint:{wp:0},main:{sr:100,pwr:11,shl:280,rng:225,spd:400,itv:300},sub:{pwr:28,shl:0,rng:120,spd:350,itv:1000},comment:"シールド耐久値不明"}
+
 
 {id:109,name:"テオライネAM",main:{pwr:7,shl:780,rng:330,spd:270,itv:580},joint:{wp:0},cost:85,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,tunable:{mwp:1},type:"c"}
 {id:109107,name:"テオライネAM3",main:{pwr:11,shl:500,rng:330,spd:400,itv:300},joint:{wp:0},cost:105,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,tunable:{mwp:1},type:"c"}
