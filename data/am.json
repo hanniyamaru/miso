@@ -259,7 +259,7 @@
 {id:40,name:"ソルジェッターAM",cost:35,hp:20,str:2,fly:2,tgh:1}
 
 {id:177,name:"ソルブレンサーAM",type:"lacs",size:"M",cost:40,hp:25,str:2,tec:-1,wlk:2,tgh:2,joint:{wp:3},comment:"ブレイブアーツ省略"}
-
+{id:147,name:"ソルフロストAM",main:{tec:100,pwr:5,shl:420,rng:275,spd:350,itv:700},tunable:{mwp:1},joint:{am:1},fixedParts:{am:{name:"ソルフロストAM@",size:"M",type:"a",slot:0,joint:{wp:0}}},type:"a",size:"M",cost:75,hp:20,str:-1,tec:3,fly:1,tgh:2,comment:"AM@破損未検証"}
 
 {id:133,name:"ダルタニスAM2",sub:{str:100,pwr:32,rng:75,spd:150,itv:1500},tunable:{pwp:1},joint:{wp:0},type:"l",cost:155,hp:20,str:2,tec:-1,wlk:3,tgh:1,comment:"シールド耐久値不明"}
 {id:305,name:"ダルタニスAM3",cost:155,hp:20,str:2,tec:-1,wlk:2,tgh:2,tunable:{mwp:1,pwp:1},joint:{wp:0},main:{str:100,pwr:11,shl:280,rng:225,spd:400,itv:300},sub:{str:100,pwr:28,shl:0,rng:120,spd:350,itv:1000},comment:"シールド耐久値不明"}
