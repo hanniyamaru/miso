@@ -121,6 +121,11 @@
 
 {id:56,name:"フォンメイBS2",type:"a",cost:30,hp:15,wlk:1,fly:2,tgh:1}
 {id:29,name:"ブリックゲイルBS",type:"a",cost:60,hp:25,wlk:1,fly:4,sub:{shl:50,rng:0,spd:150,itv:1000},comment:"BLUE"}
+{id:30,name:"ブリックゲイルBS2",type:"a",cost:60,hp:25,wlk:1,fly:4,sub:{shl:50,rng:0,spd:150,itv:1000},comment:"RED"}
+
+
+
+
 {id:140,name:"ブルーメBS",type:"s",size:"S",cost:40,hp:25,tec:1,wlk:1,fly:3}
 
 {id:1,name:"フログランダーBS",type:"l",cost:35,hp:20,str:1,tec:1,fly:3}
