@@ -346,6 +346,7 @@
 
 
 {id:43,name:"アルバトレオスLG",cost:50,hp:30,str:1,tec:1,wlk:3,fly:2,tgh:-1}
+{id:50,name:"アルバトレオスLG2",cost:50,hp:30,str:-1,tec:1,wlk:3,fly:1,tgh:2}
 
 {id:98,name:"アルマダLG",fixedParts:{wp:{name:"アマルダLG@",main:{pwr:14,shl:180,rng:275,spd:400,itv:600},type:"a",slot:0}},type:"a",size:"L",cost:125,hp:70,str:-1,tec:1,wlk:3,fly:2,joint:{wp:1}}
 {id:72,name:"アントリオンLG",type:"lc",cost:45,hp:60,tec:1,wlk:3,fly:-1,tgh:2}
