@@ -485,6 +485,9 @@
 
 
 {group:"UniＬＬサイズ",prefixID:"LL",commonStat:{size:"LL"},nextID:3}
+
+{id:149,name:"ギャランバルドBS2",type:"l",cost:110,hp:25,str:1,wlk:-1,fly:2,tgh:3,tunable:{pwp:1},size:"LL",comment:"シールド耐久値不明",sub:{pwr:0,shl:0,rng:150,spd:300,itv:2000}}
+
 {id:95,name:"コルディプスBS",main:{tec:100,pwr:10,shl:500,rng:330,spd:280,itv:800},cost:85,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,size:"LL",type:"c",tunable:{mwp:1}}
 
 {id:1,name:"シェイデンBS",type:"a",cost:125,hp:25,fly:5,sub:{pwr:1,shl:1,rng:200,spd:110,itv:2000}}
