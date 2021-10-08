@@ -370,7 +370,7 @@
 
 {id:111,name:"ウォーダスAM2",cost:35,hp:20,str:2,tec:-1,wlk:1,fly:2,tgh:1}
 {id:104,name:"ヴォルフライエAM",cost:40,hp:25,tec:3,fly:1,wlk:1}
-
+{id:104108,name:"ヴォルフライエAM2",main:{tec:100,pwr:7,shl:700,rng:275,spd:520,itv:1000},tunable:{mwp:1},cost:110,hp:25,str:-1,tec:3,fly:1,wlk:2}
 
 {id:108,name:"カタロスAM",type:"a",cost:40,hp:25,tec:3,fly:1,tgh:1,comment:"-"}
 {id:3,name:"ガナハウンドAM",type:"l",cost:135,hp:25,str:3,tec:-1,wlk:1,tgh:2,sub:{str:100,pwr:32,rng:70,spd:85,itv:500},tunable:{pwp:1}}
