@@ -232,7 +232,7 @@
 {id:246,name:"スチールバーンHD",cost:40,hp:25,str:1,wlk:2,fly:-1,tgh:3}
 {id:1,name:"スチールライダーHD",cost:40,hp:25,str:1,wlk:2,tgh:2}
 {id:535,name:"スチールライダーHD2",cost:40,hp:25,tec:2,wlk:2,fly:-1,tgh:2}
-{id:336,name:"スポア･マッシュHD",size:"M",cost:35,hp:20,tec:2,fly:1,tgh:2}
+{id:336,name:"スポア・マッシュHD",size:"M",cost:35,hp:20,tec:2,fly:1,tgh:2}
 
 
 {id:105,name:"セイロンHD",type:"a",cost:80,hp:25,str:-1,tec:3,fly:2,tgh:1,main:{pwr:26,shl:140,rng:275,spd:440,itv:800},tunable:{mwp:1},comment:"AURA機構省略"}
