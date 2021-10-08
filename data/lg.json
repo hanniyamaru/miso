@@ -68,6 +68,8 @@
 
 
 {id:29,name:"ビルダームLG",cost:45,hp:25,str:1,tec:1,wlk:2,tgh:1}
+
+{id:81,name:"ファルクラムLG",cost:40,hp:20,str:2,tec:1,wlk:3,tgh:-1}
 {id:300,name:"フェアリスLG",cost:45,hp:25,str:-1,wlk:3,fly:2,tgh:1}
 {id:109,name:"フォースドライブLG",type:"lacs",size:"S",cost:45,hp:25,str:1,tec:-1,wlk:3,fly:2}
 
