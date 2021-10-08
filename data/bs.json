@@ -257,7 +257,11 @@
 
 {id:445,name:"シャドウキネシスBS",main:{pwr:5,shl:900,rng:275,spd:400,itv:1000},tunable:{mwp:1},type:"a",size:"M",cost:160,hp:20,str:-1,tec:2,fly:3,tgh:1,joint:{bs:1},comment:"シャドウキネシスBS＠のみ接続可能"}
 {id:446,name:"シャドウキネシスBS@",sub:{tec:100,pwr:0,shl:0,rng:275,spd:10,itv:1000},cost:20,size:"M",type:"a"}
+
+{id:87,name:"ズィークBS",type:"c",cost:35,hp:20,tec:1,wlk:-1,fly:3,tgh:2}
 {id:12,name:"スコルタンBS",type:"s",cost:35,hp:20,tec:2,fly:3}
+
+
 {id:48,name:"スゼクBS",cost:120,hp:25,str:2,wlk:-1,fly:4,type:"a",main:{str:100,pwr:5,shl:460,rng:275,spd:350,itv:900},sub:{pwr:26,rng:90,spd:200,itv:1000,str:100},tunable:{mwp:1,pwp:1},comment:"AURA機構省略"}
 {id:47,name:"セイロンBS",cost:40,hp:25,str:1,tec:1,fly:3,type:"a",comment:"AURA機構省略"}
 
