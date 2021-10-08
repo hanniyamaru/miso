@@ -212,6 +212,9 @@
 {id:115,name:"シャドウキネシスLG",cost:45,hp:25,str:2,tec:1,wlk:2,fly:-1,tgh:2,size:"M",type:"lacs"}
 {id:101,name:"シンビジウムLG2",cost:40,hp:25,tec:2,wlk:3,fly:1}
 
+{id:75,name:"ズィークLG",cost:45,hp:25,str:1,wlk:3,tgh:2}
+
+
 {id:7,name:"スコルタンLG",cost:45,hp:25,str:1,tec:1,wlk:3}
 {id:48,name:"スゼクLG",comment:"AURA機構",auraStat:{tec:2,wlk:2,fly:1,tgh:1},tec:2,wlk:2,fly:1,tgh:1,cost:45,hp:25}
 
