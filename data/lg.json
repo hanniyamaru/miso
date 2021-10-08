@@ -217,7 +217,7 @@
 
 {id:7,name:"スコルタンLG",cost:45,hp:25,str:1,tec:1,wlk:3}
 {id:48,name:"スゼクLG",comment:"AURA機構",auraStat:{tec:2,wlk:2,fly:1,tgh:1},tec:2,wlk:2,fly:1,tgh:1,cost:45,hp:25}
-{id:125109,name:"スポアマッシュLG",type:"lacs",size:"M",cost:45,hp:25,str:2,tec:1,wlk:2,fly:1}
+{id:125109,name:"スポア・マッシュLG",type:"lacs",size:"M",cost:45,hp:25,str:2,tec:1,wlk:2,fly:1}
 
 
 {id:47,name:"セイロンLG",auraStat:{sub:{pwr:30,rng:70,spd:85,itv:500,str:100},str:-1,tec:2,wlk:3,fly:2},str:-1,tec:2,wlk:3,fly:2,cost:95,hp:30,comment:"AURA機構"}
