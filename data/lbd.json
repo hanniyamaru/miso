@@ -152,6 +152,8 @@
 
 {id:542,name:"ソルブレンサーBD",main:{tec:100,pwr:[0],shl:50,rng:0,spd:10,itv:1000},cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|29@15|21@20|16@20|13@30|32@50|31@40"},cost:465,capa:870,hp:255,str:13,tec:5,wlk:13,fly:7,tgh:10}
 
+{id:32,name:"ダルタニスBD",cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|16@20|21@20|15@15|22@30|13@30|32@50|31@40"},cost:465,capa:905,hp:255,str:10,tec:3,wlk:12,fly:7,tgh:8,comment:"シールド耐久値不明"}
+
 {id:27,name:"でかペペンBD",cost:660,capa:765,hp:305,str:26,tec:8,wlk:26,fly:10,tgh:19,sub:{str:100,pwr:[28],rng:63,spd:77,itv:1500},wbid:14,cartridge:{hpup:30,lv1:"3*5@20|60*2@30|7@20|9@20|10@15|17@15|18@15||20@15|23@25|29@15|15@15|14@20|13@30|32@50|31@40"},joint:{hdac:1,fcac:1,hd:0,bs:0,am:0},builtin:{bs:1,lg:1}}
 
 {id:540,name:"でかマニモBD",cost:525,capa:765,hp:305,str:22,tec:9,wlk:26,fly:10,tgh:14,wbid:14,cartridge:{hpup:30,lv1:"3*5@20|60*2@30|7@20|9@20|10@15|17@15|18@15||20@15|23@25|29@15|15@15|14@20|13@30|32@50|31@40"},joint:{hdac:1,fcac:1,hd:0,bs:0,am:0,wp:1},builtin:{bs:1,lg:1},fixedParts:{wp:{name:"でかマニモBD@",sub:{str:100,pwr:[30],rng:56,spd:68,itv:1500},tunable:{pwp:1},cost:100,slot:3}}}
