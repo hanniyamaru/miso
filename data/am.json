@@ -377,6 +377,10 @@
 
 {id:4,name:"ギガトンオーAM",cost:40,hp:25,str:2,tec:2,tgh:1}
 {id:94,name:"ギャスターAM2",main:{pwr:24,shl:240,rng:330,spd:270,itv:600},tunable:{mwp:1},type:"c",cost:135,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
+
+
+{id:91,name:"ギャランバルドAM2",sub:{str:100,pwr:37,shl:30,rng:70,spd:85,itv:500},tunable:{pwp:1},joint:{wp:0},cost:145,hp:25,str:4,tec:-1,wlk:2,type:"l",size:"L"}
+
 {id:166,name:"ギャランバルドAM3",type:"l",size:"L",cost:40,hp:25,str:2,tec:1,tgh:2}
 {id:148,name:"ギャランバルドAM4",main:{shl:50,spd:10,itv:1000},sub:{str:100,pwr:32,shl:40,rng:100,spd:300,itv:2000},tunable:{mwp:1,pwp:1},type:"l",size:"L",cost:200,hp:25,str:4,tec:-1,tgh:2,joint:{wp:0}}
 
@@ -536,6 +540,7 @@
 {id:1402,name:"ガデロガAM2",main:{tec:100,pwr:10,shl:760,rng:90,spd:480,itv:100},tunable:{mwp:1},type:"c",cost:125,hp:25,tec:2,wlk:2,fly:-1,tgh:2,joint:{wp:0}}
 {id:19,name:"ガデロガAM3",main:{tec:100,pwr:13,shl:800,rng:280,spd:480,itv:100},tunable:{mwp:1},type:"c",cost:155,hp:25,str:-1,tec:3,tgh:3,joint:{wp:0}}
 {id:2,name:"ギガトンオーAM2",type:"c",cost:200,hp:25,str:-1,tec:4,fly:-1,tgh:3,main:{pwr:37,shl:220,rng:330,spd:360,itv:800},sub:{pwr:30,shl:90,rng:350,spd:240,itv:1000},tunable:{mwp:1},joint:{wp:0}}
+{id:17,name:"ギャランバルドAM",main:{shl:50,spd:10,itv:1000},sub:{pwr:20,shl:30,rng:120,spd:250,itv:1000,str:100},tunable:{mwp:1,pwp:1},cost:120,hp:25,str:1,tec:-1,wlk:1,tgh:4,type:"l",joint:{wp:0}}
 
 {id:26,name:"サイクロテスAM4",sub:{str:100,pwr:28,rng:75,spd:200,itv:3000},tunable:{pwp:1},type:"l",size:"L",cost:120,hp:28,str:4,tec:-1,wlk:1,tgh:1,joint:{wp:0}}
 {id:20,name:"ザリドAM",sub:{pwr:30,rng:70,spd:85,itv:1000,str:100},type:"l",cost:110,hp:25,str:3,tec:-1,wlk:1,tgh:2,tunable:{pwp:1}}
