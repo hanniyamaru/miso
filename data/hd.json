@@ -268,7 +268,7 @@
 {id:236,name:"ドラゴネイルHD",cost:40,hp:25,str:2,fly:1,tgh:2}
 {id:260,name:"ドラゴネイルHD2",cost:40,hp:25,str:2,tec:-1,wlk:2,fly:1,tgh:1}
 
-{id:244,name:"ナイトジャーHD",cost:40,hp:25,str:2,wlk:2,fly:-2,tgh:3,comment:"未更新"}
+{id:244,name:"ナイトジャーHD",cost:40,hp:25,str:2,wlk:1,fly:-1,tgh:3}
 {id:295,name:"ナイトジャーHD2",type:"lacs",size:"M",cost:40,hp:25,str:3,tgh:2}
 
 
