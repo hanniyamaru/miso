@@ -499,7 +499,7 @@
 
 {id:14,name:"ビッグマンテスAM",cost:35,hp:20,str:2,tec:1,tgh:2}
 
-{id:25109,name:"フラッシュボマーAM",main:{tec:100,pwr:11,shl:570,rng:350,spd:480,itv:340},tunable:{mwp:0},size:"L",size:"L",cost:95,hp:20,str:-1,tec:3,wlk:1,tgh:2,comment:["AM@cost60複合","武器チューン不可","爆風50％"]}
+{id:25109,name:"フラッシュボマーAM",main:{tec:100,pwr:11,shl:570,rng:350,spd:480,itv:340},tunable:{mwp:0},type:"c",size:"L",cost:95,hp:20,str:-1,tec:3,wlk:1,tgh:2,comment:["AM@cost60複合","武器チューン不可","爆風50％"]}
 
 {id:25,name:"フラッシュボマーAM(コンバージョン無し)",joint:{wp:2},size:"L",cost:35,hp:20,str:-1,tec:3,wlk:1,tgh:2}
 
