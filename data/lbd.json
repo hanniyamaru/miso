@@ -242,6 +242,7 @@
 
 {id:25,name:"シノ･イクスロードBD",cartridge:{lv1:"75*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|16@20|29@15|21@20|15@15|13@30|32@50|31@40",hpup:10},fixedParts:{hd:{name:"シノ・イクスロードHD",cost:40,hp:25,str:1,tec:1,wlk:1,tgh:2,slot:3}},cost:490,capa:945,hp:305,str:7,tec:7,wlk:16,fly:9,tgh:12,wbid:5}
 {id:2502,name:"シノ･イクスロードBD3",sub:{pwr:28,shl:[30],rng:150,spd:[300],itv:[2000],str:100},cartridge:{lv1:"75*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|16@20|29@15|21@20|15@15||13@30|32@50|31@40",hpup:10},fixedParts:{hd:{name:"シノ・イクスロードHD3",slot:3,cost:40,hp:25,str:1,tec:1,wlk:1,tgh:2}},cost:520,capa:945,hp:305,str:13,tec:3,wlk:13,fly:8,tgh:14,wbid:5}
+{id:59,name:"ジェネラルドBD",cost:445,capa:870,hp:290,str:12,tec:5,wlk:13,fly:7,tgh:11,size:"L",type:"l",cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|16@30|29@15|15@15|25@25|13@30|32@50|31@40"}}
 
 {id:19,name:"スケアガントBD",cartridge:{lv1:"75*6@20|7@20|9@20|10@15|17@15|20@15|23@25|",lv6:"16@20||15@15|30@20|26@20",lv9:"13@30|32@50|31@40",hpup:10},cost:490,hp:305,str:11,tec:3,wlk:12,fly:7,tgh:18,fixedParts:{am:{sub:{shl:0,rng:0,itv:1000},joint:{wp:2},fixedParts:{wp:[{name:"スケアナイフ＆ボム",sub:{str:100,pwr:32,rng:70,spd:85,itv:500},tunable:{pwp:1},type:"l",size:"M",cost:90},{name:"スケアドラムガン",main:{str:100,pwr:6,shl:1100,rng:225,spd:440,itv:300},cost:80,tunable:{mwp:1}}]},name:"スケアガントAM",cost:60,hp:25,str:3,tec:2}},capa:945}
 
