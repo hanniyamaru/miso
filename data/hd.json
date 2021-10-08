@@ -58,7 +58,7 @@
 
 {id:27,name:"ヤクシャHD",cost:35,hp:20,str:2,tec:-1,wlk:1,fly:2,tgh:1}
 
-
+{id:31,name:"レイミナスHD",type:"lacs",size:"S",cost:35,hp:20,str:1,tec:2,wlk:-1,fly:3}
 
 {id:254,name:"ワンダーズHD",sub:{pwr:13,shl:420,rng:275,spd:290,itv:1000},type:"s",cost:135,hp:20,tec:2,wlk:2,fly:1}
 
