@@ -70,6 +70,8 @@
 {id:181,name:"トリスティンAM(コンバージョン無し)",type:"lacs",size:"S",cost:35,hp:20,tec:1,fly:1,tgh:3,joint:{wp:2}}
 {id:182,name:"トリスティンAM2(コンバージョン無し)",joint:{wp:2},type:"lacs",size:"S",cost:35,hp:20,str:-1,tec:3,wlk:2,tgh:1}
 
+{id:125,name:"ナイトジャーAM",cost:35,hp:20,str:2,tec:1,wlk:1,fly:-1,tgh:2}
+
 {id:1251,name:"ナイトジャーAM2",cost:35,hp:20,str:3,tec:-1,wlk:2,tgh:1,fixedParts:{wp:{name:"ヴォルケンランス",sub:{str:100,pwr:32,shl:0,rng:90,spd:180,itv:2000},tunable:{pwp:1},type:"l",size:"S",cost:160,slot:3}}}
 {id:1252,name:"ナイトジャーAM3",cost:35,hp:20,str:1,wlk:1,tgh:3,fixedParts:{wp:{name:"ヴォルケンシールド",main:{str:100,pwr:14,shl:100,rng:225,spd:320,itv:500},sub:{str:100,pwr:28,rng:100,spd:250,itv:1000},tunable:{pwp:1,mwp:1},type:"l",size:"S",cost:70,slot:3}}}
 
