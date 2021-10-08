@@ -259,6 +259,9 @@
 {id:446,name:"シャドウキネシスBS@",sub:{tec:100,pwr:0,shl:0,rng:275,spd:10,itv:1000},cost:20,size:"M",type:"a"}
 
 {id:87,name:"ズィークBS",type:"c",cost:35,hp:20,tec:1,wlk:-1,fly:3,tgh:2}
+
+{id:119,name:"スカラベスBS",main:{pwr:22,shl:320,rng:330,spd:520,itv:1000,tec:100},type:"c",size:"M",cost:165,hp:20,str:-1,tec:2,fly:3,tgh:1,tunable:{mwp:1}}
+
 {id:12,name:"スコルタンBS",type:"s",cost:35,hp:20,tec:2,fly:3}
 
 
