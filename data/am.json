@@ -232,6 +232,9 @@
 {id:33,name:"シノ･イクスロードAM",cost:40,hp:20,str:2,tec:1,wlk:1,tgh:1}
 {id:34,name:"シノ･イクスロードAM2",type:"l",cost:80,hp:25,str:2,tec:-1,wlk:2,tgh:2,sub:{str:100,pwr:24,rng:91,spd:110,itv:500},tunable:{pwp:1}}
 
+{id:304,name:"ジェネシオンAM",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1}
+{id:197,name:"ジェネシオンAM2",main:{tec:100,pwr:44,shl:150,rng:275,spd:480,itv:1000},tunable:{mwp:1},type:"a",size:"M",cost:195,hp:20,str:-1,tec:3,fly:2,tgh:1,joint:{wp:0}}
+
 {id:196,name:"シャドウキネシスAM",type:"lacs",size:"M",cost:40,hp:25,tec:1,wlk:2,tgh:2}
 {id:144,name:"シンビジウムAM2",main:{pwr:10,shl:240,rng:275,spd:290,itv:900},type:"a",size:"M",cost:65,hp:20,tec:3,fly:1,tgh:1,tunable:{mwp:1}}
 
