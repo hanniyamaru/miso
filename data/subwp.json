@@ -12,7 +12,7 @@
 
 {id:4,name:"キャンバスシールド",size:"S",cost:40}
 {id:15,name:"クリスタライトシールド",size:"S",cost:35}
-
+{id:2108,name:"ナイトシールド",type:"l",size:"S",cost:50,main:{str:100,pwr:12,rng:200,spd:480,itv:300},comment:"STR依存"}
 
 {group:"Uniソード系",prefixID:"SW",commonStat:{tunable:{pwp:1}},nextID:27}
 
