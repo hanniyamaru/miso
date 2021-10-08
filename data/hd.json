@@ -246,6 +246,7 @@
 
 
 {id:321,name:"ソルブレンサーHD",type:"lacs",size:"M",cost:40,hp:25,str:1,tec:-1,wlk:2,fly:1,tgh:2}
+{id:281,name:"ソルフロストHD",type:"lacs",size:"M",cost:40,hp:25,str:1,tec:1,wlk:1,fly:3,tgh:-1}
 
 {id:176,name:"ソルボルカノウィングHD",cost:40,hp:25,str:3,tec:-1,fly:2,tgh:1}
 
