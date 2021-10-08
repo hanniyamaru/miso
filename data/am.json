@@ -420,10 +420,9 @@
 {id:154,name:"ジェネラルドAM",size:"L",type:"l",cost:35,hp:20,str:2,wlk:1,fly:-1,tgh:3,joint:{wp:2},fixedParts:{wp:{name:"ジェネラルシールド",cost:40,slot:0}},type:"l",comment:"シールド耐久値不明"}
 {id:154109,name:"ジェネラルドAM(コンバージョン無し)",size:"L",type:"l",cost:35,hp:20,str:2,wlk:1,fly:-1,tgh:3,joint:{wp:2}}
 
+{id:155109,name:"ジェネラルドAM2",size:"L",type:"l",cost:35,hp:20,str:3,tec:-1,wlk:2,tgh:1,joint:{wp:1},fixedParts:{wp:{name:"ジェネラルブレード",main:{str:100,pwr:19,shl:180,rng:225,spd:440,itv:600},sub:{str:100,pwr:32,shl:0,rng:77,spd:94,itv:1000},tunable:{mwp:1,pwp:1},cost:200,slot:3}},size:"L",type:"l",comment:"ジェネラルブレードのみ装備可能"}
 
-{id:155109,name:"ジェネラルドAM2",size:"L",type:"l",cost:35,hp:20,str:3,tec:-1,wlk:2,tgh:1,joint:{wp:2},fixedParts:{wp:{name:"ジェネラルブレード",main:{str:100,pwr:19,shl:180,rng:225,spd:440,itv:600},sub:{str:100,pwr:32,shl:0,rng:77,spd:94,itv:1000},tunable:{mwp:1,pwp:1},cost:200,slot:3}},size:"L",type:"l",comment:"-"}
-
-{id:156109,name:"ジェネラルドAM2(コンバージョン無し)",size:"L",type:"l",cost:35,hp:20,str:3,tec:-1,wlk:2,tgh:1,joint:{wp:2}}
+{id:156109,name:"ジェネラルドAM2(コンバージョン無し)",size:"L",type:"l",cost:35,hp:20,str:3,tec:-1,wlk:2,tgh:1,joint:{wp:1},comment:"ジェネラルブレードのみ装備可能"}
 
 {id:43,name:"ジオグラシスAM2",cost:35,hp:20,str:2,tec:2,wlk:-1,tgh:2,comment:"F型AM"}
 {id:61,name:"ジオグラシスAM4",cost:85,hp:20,tec:3,wlk:-1,fly:2,tgh:1,type:"a",main:{tec:100,pwr:10,shl:350,rng:275,spd:290,itv:1000},tunable:{mwp:1}}
