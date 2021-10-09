@@ -32,7 +32,7 @@
 {id:1001,name:"リッパーズサイス",type:"la",size:"M",cost:160,sub:{str:100,pwr:32,rng:70,spd:85,itv:1000},tunable:{pwp:1}}
 {id:1002,name:"オミナスサイス",type:"las",size:"M",cost:200,sub:{str:100,pwr:34,rng:70,spd:85,itv:1000},tunable:{pwp:1}}
 {id:1003,name:"ミスティサイス",type:"l",size:"S",cost:100,sub:{str:100,pwr:32,rng:70,spd:10,itv:500},tunable:{pwp:1}}
-
+{id:100109,name:"ジャックサイス",type:"lacs",size:"M",cost:40,sub:{str:100,pwr:32,rng:31,spd:44,itv:1000},tunable:{pwp:1}}
 
 
 {id:16,name:"ビームブレード",type:"a",size:"M",cost:70,sub:{str:100,pwr:28,rng:70,spd:85,itv:500}}
