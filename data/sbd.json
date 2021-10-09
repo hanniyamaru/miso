@@ -120,7 +120,7 @@
 
 {id:632,name:"キンギョBD3",main:{shl:240,rng:70,spd:20,itv:700},sub:{str:100,pwr:25,rng:120,spd:200,itv:3000},builtin:{bs:1},cartridge:{hpup:35,lv1:"75*6@25|17@20|18@20|19@20|20@20|23@25|22@30|29@10|53@10|21@20|28@20|14@10|13@20|32@30|31@40"},fixedParts:{lg:{name:"キンギョLG3",cost:40,hp:20,str:1,tec:1,wlk:2,tgh:1,size:"L",type:"s"}},cost:565,capa:695,hp:270,str:13,tec:13,wlk:21,fly:19,tgh:9,wbid:10,comment:["回復量10","金魚ちゃんL"],joint:{hd:0,bs:0,am:0,wp:1,hdac:1,fcac:1}}
 {id:633,name:"キンギョBD4",main:{shl:240,rng:70,spd:20,itv:700},sub:{str:100,pwr:25,rng:120,spd:200,itv:3000},builtin:{bs:1},cartridge:{hpup:30,lv1:"3*6@2|17@20|18@20|19@20|20@20|23@25|22@30|29@10|53@10|21@20|28@20|14@10|13@20|32@30|31@40"},fixedParts:{lg:{name:"キンギョLG4",cost:45,hp:25,str:1,tec:1,wlk:2,tgh:1,size:"L",type:"s"}},cost:625,capa:765,hp:305,str:17,tec:17,wlk:17,fly:15,tgh:15,wbid:10,comment:["回復量10","でか金魚ちゃん"],joint:{hd:0,bs:0,am:0,wp:1,hdac:1,fcac:1}}
-
+{id:427109,name:"ゴーストBD",cost:590,capa:730,hp:290,str:15,tec:11,wlk:29,fly:20,tgh:13,sub:{str:100,pwr:[25],rng:[120],spd:[200],itv:3000},wbid:10,cartridge:{hpup:35,lv1:"75*6@20|17@20|18@20|19@20|20@20|22@30|29@10|21@20|25@25|23@25|16@20|15@30|13@20|32@30|31@40"},joint:{hdac:1,fcac:1,hd:0,bs:1,am:0},builtin:{bs:1,lg:1}}
 
 {id:13,name:"タイタンコイルBD",sub:{shl:0,rng:10,itv:1000},cartridge:{lv1:"75*5@20|60*2@30|17@20|18@20|19@20|20@20|23@25|29@10|15@30|14@10|28@20|26@20|13@20|32@30|31@40",hpup:10},cost:590,capa:945,hp:305,str:9,tec:12,wlk:9,fly:8,tgh:13}
 {id:11,name:"ディースモークBD",cost:425,hp:275,str:5,tec:7,wlk:10,fly:14,tgh:9,capa:800,sub:{shl:[25],rng:0,spd:0,itv:1000},cartridge:{hpup:18,lv1:"85*6@20|17@20|18@20|20@20|23@25|19@20|21@20|12@20|25@25|29@10|14@10|26@20|13@20|32@30|31@40"}}
