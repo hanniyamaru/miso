@@ -1,4 +1,4 @@
-{group:"Uniハンドガン系",prefixID:"HG",commonStat:{tunable:{mwp:1}},nextID:60}
+{group:"ハンドガン系",prefixID:"HG",commonStat:{tunable:{mwp:1}},nextID:60}
 
 
 
@@ -25,6 +25,16 @@
 {id:91,name:"eアサルトピアースガン",main:{tec:100,pwr:20,shl:140,rng:280,spd:360,itv:300},type:"l",size:"M",cost:140,tec:1,tgh:1}
 {id:17,name:"ビートルガン",type:"l",size:"M",cost:100,main:{pwr:19,shl:330,rng:225,spd:440,itv:500}}
 {id:500,name:"ヘラクビートルガン",type:"l",size:"M",cost:160,main:{pwr:23,shl:340,rng:225,spd:440,itv:500}}
+{id:43,name:"シュリケンガン",type:"ls",size:"S",cost:80,main:{pwr:7,shl:680,rng:175,spd:400,itv:160}}
+{id:44,name:"ダイシュリケンガン",type:"l",size:"M",cost:110,main:{pwr:12,shl:480,rng:175,spd:400,itv:220}}
+{id:503,name:"ブレイドガン",main:{tec:100,pwr:10,shl:460,rng:250,spd:320,itv:300},tunable:{mwp:1},type:"l",size:"M",cost:150}
+{id:108,name:"シールドガン",main:{tec:100,pwr:17,shl:430,rng:225,spd:400,itv:340},tunable:{mwp:1},type:"l",size:"M",cost:180}
+
+{id:504,name:"ベイオネット",size:"S",cost:130,main:{pwr:15,shl:360,rng:225,spd:440,itv:340},sub:{tec:100,pwr:32,rng:70,spd:85,itv:1000},tunable:{pwp:1}}
+{id:505,name:"M-9ベイオネット",size:"M",cost:145,main:{pwr:12,shl:600,rng:250,spd:480,itv:140},sub:{tec:100,pwr:32,rng:70,spd:85,itv:1000},tunable:{pwp:1}}
+
+
+{group:"ビームガン系",prefixID:"HG",commonStat:{tunable:{mwp:1}},nextID:60}
 
 {id:71,name:"AURAライトニングガン",main:{pwr:15,shl:240,rng:250,spd:440,itv:700},auraStat:{main:{pwr:18,shl:240,rng:250,spd:440,itv:700}},type:"a",size:"S",cost:70}
 {id:501,name:"スワロービームガン",main:{tec:100,pwr:12,shl:320,rng:275,spd:440,itv:540},tunable:{mwp:1},type:"a",size:"M",cost:80}
@@ -46,17 +56,10 @@
 {id:39,name:"パラライズガン",type:"s",size:"S",cost:140,main:{pwr:24,shl:300,rng:275,spd:360,itv:600}}
 {id:89,name:"ライトニングキャノン",main:{pwr:18,shl:560,rng:275,spd:440,itv:300},type:"a",size:"L",cost:150}
 {id:502,name:"サンダーシューター",main:{pwr:13,tec:100,shl:580,rng:275,spd:440,itv:300},tunable:{mwp:1},cost:140,type:"a",size:"M"}
-{id:43,name:"シュリケンガン",type:"ls",size:"S",cost:80,main:{pwr:7,shl:680,rng:175,spd:400,itv:160}}
-{id:44,name:"ダイシュリケンガン",type:"l",size:"M",cost:110,main:{pwr:12,shl:480,rng:175,spd:400,itv:220}}
-{id:503,name:"ブレイドガン",main:{tec:100,pwr:10,shl:460,rng:250,spd:320,itv:300},tunable:{mwp:1},type:"l",size:"M",cost:150}
-{id:108,name:"シールドガン",main:{tec:100,pwr:17,shl:430,rng:225,spd:400,itv:340},tunable:{mwp:1},type:"l",size:"M",cost:180}
-
-{id:504,name:"ベイオネット",size:"S",cost:130,main:{pwr:15,shl:360,rng:225,spd:440,itv:340},sub:{tec:100,pwr:32,rng:70,spd:85,itv:1000},tunable:{pwp:1}}
-{id:505,name:"M-9ベイオネット",size:"M",cost:145,main:{pwr:12,shl:600,rng:250,spd:480,itv:140},sub:{tec:100,pwr:32,rng:70,spd:85,itv:1000},tunable:{pwp:1}}
 
 
 
-{group:"Uniマシンガン系",prefixID:"MG",commonStat:{tunable:{mwp:1}},nextID:21}
+{group:"マシンガン系",prefixID:"MG",commonStat:{tunable:{mwp:1}},nextID:21}
 {id:1,name:"ハンドマシンガン",size:"M",cost:50,main:{pwr:5,shl:920,rng:160,spd:480,itv:140}}
 {id:3,name:"ナノマシンガン",size:"SS",cost:30,main:{pwr:4,shl:880,rng:160,spd:480,itv:140}}
 {id:2,name:"サブマシンガン",type:"lcs",size:"M",cost:70,main:{pwr:6,shl:960,rng:160,spd:480,itv:140}}
@@ -80,7 +83,7 @@
 
 
 
-{group:"Uniライフル系",prefixID:"LF",commonStat:{tunable:{mwp:1}},nextID:24}
+{group:"ライフル系",prefixID:"LF",commonStat:{tunable:{mwp:1}},nextID:24}
 
 {id:1,name:"マスケット",type:"lcs",size:"S",cost:30,main:{pwr:7,shl:240,rng:330,spd:440,itv:700}}
 {id:2,name:"フリントマスケット",type:"lcs",size:"M",cost:50,main:{pwr:7,shl:330,rng:330,spd:440,itv:500}}
@@ -96,6 +99,7 @@
 {id:17,name:"ネガトロンライフル",type:"a",size:"L",cost:180,main:{pwr:37,shl:190,rng:275,spd:520,itv:900}}
 {id:37,name:"ヴォルグライフル",main:{tec:100,pwr:22,shl:360,rng:330,spd:480,itv:500},tunable:{mwp:1},type:"c",size:"M",cost:160}
 
+{group:"ブレイカー系",prefixID:"HG",commonStat:{tunable:{mwp:1}},nextID:60}
 {id:11,name:"サーキットブレイカー",type:"cs",size:"SS",cost:45,main:{pwr:14,shl:200,rng:330,spd:480,itv:540}}
 {id:12,name:"アーマーブレイカー",type:"c",size:"M",cost:60,main:{pwr:38,shl:80,rng:330,spd:480,itv:1000}}
 {id:13,name:"デバイスブレイカー",type:"c",size:"M",cost:90,main:{pwr:33,shl:150,rng:330,spd:480,itv:1000}}
@@ -104,7 +108,7 @@
 {id:26,name:"ガトリングブレイカー",main:{pwr:13,shl:1000,rng:350,spd:480,itv:200},size:"L",type:"c",cost:210}
 {id:27,name:"ピアースブレイカー",main:{pwr:38,shl:140,rng:350,spd:480,itv:1000},size:"M",type:"c",cost:170,comment:"貫通+HIT毎に爆風発生"}
 
-{group:"Uniシューター系",prefixID:"ST",commonStat:{tunable:{mwp:1}},nextID:1}
+{group:"シューター系",prefixID:"ST",commonStat:{tunable:{mwp:1}},nextID:1}
 
 {id:46,name:"クロスシューター",type:"las",size:"S",cost:60,main:{pwr:14,shl:430,rng:250,spd:440,itv:400}}
 {id:48,name:"パワーシューター",type:"la",size:"M",cost:140,main:{pwr:36,shl:230,rng:250,spd:400,itv:760}}
@@ -115,7 +119,7 @@
 
 
 
-{group:"Uniレールガン系",prefixID:"RG",commonStat:{tunable:{mwp:1}},nextID:1}
+{group:"レールガン系",prefixID:"RG",commonStat:{tunable:{mwp:1}},nextID:1}
 
 {id:390,name:"Sレールガン",main:{pwr:42,shl:90,rng:250,spd:520,itv:500},type:"ls",size:"M",cost:110}
 {id:391,name:"Sブラストレールガン",main:{pwr:31,shl:210,rng:250,spd:480,itv:600},type:"l",size:"M",cost:160}
@@ -131,7 +135,7 @@
 
 
 
-{group:"Uniバズーカ系",prefixID:"BZ",commonStat:{tunable:{mwp:1}},nextID:32}
+{group:"バズーカ系",prefixID:"BZ",commonStat:{tunable:{mwp:1}},nextID:32}
 {id:3,name:"マイクロバズーカ",type:"cs",size:"SS",cost:40,main:{pwr:13,shl:340,rng:330,spd:520,itv:400}}
 {id:4,name:"ミニバズーカ",size:"S",cost:60,main:{pwr:14,shl:420,rng:330,spd:480,itv:400},type:"cs"}
 {id:1,name:"ハンドバズーカ",type:"cs",size:"M",cost:80,main:{pwr:20,shl:330,rng:330,spd:440,itv:500}}
@@ -164,7 +168,7 @@
 {id:56,name:"ビームポンプバズーカ",main:{pwr:23,shl:240,rng:275,spd:360,itv:760},type:"a",size:"M",cost:100}
 
 
-{group:"Uniミサイル系",prefixID:"MS",commonStat:{tunable:{mwp:1}},nextID:333}
+{group:"ミサイル系",prefixID:"MS",commonStat:{tunable:{mwp:1}},nextID:333}
 {id:22,name:"V-2ウェイミサイル",type:"c",size:"L",cost:160,main:{pwr:17,shl:330,rng:330,spd:440,itv:1000}}
 {id:760,name:"バーティカルミサイル",main:{pwr:14,shl:240,rng:330,spd:350,itv:500},type:"c",size:"M",cost:100}
 
@@ -184,6 +188,8 @@
 {id:33,name:"セプタプルランチャー",main:{pwr:6,shl:1260,rng:330,spd:250,itv:900},cost:170,size:"LL",type:"c"}
 
 {id:76,name:"アクセルミサイルガン",main:{pwr:10,shl:480,rng:330,spd:290,itv:300},type:"c",size:"M",cost:160}
+{id:588,name:"タケノコランチャー",main:{pwr:20,shl:160,rng:330,spd:240,itv:800},type:"c",size:"M",cost:60}
+
 {id:586,name:"6連ミサイルランチャー",main:{pwr:15,shl:300,rng:330,spd:290,itv:500},type:"c",size:"M",cost:160}
 {id:587,name:"ジャックオーランチャー",main:{pwr:8,shl:920,rng:330,spd:330,itv:140},type:"c",size:"M",cost:130}
 
@@ -206,7 +212,7 @@
 
 
 
-{group:"Uniショットガン系",prefixID:"ST",commonStat:{tunable:{mwp:1}},nextID:14}
+{group:"ショットガン系",prefixID:"ST",commonStat:{tunable:{mwp:1}},nextID:14}
 {id:18,name:"マグネショットガン",main:{pwr:5,shl:1190,rng:330,spd:290,itv:900},size:"M",type:"c",cost:140,wlk:1}
 
 {id:1,name:"ショットガン",size:"M",cost:50,main:{pwr:6,shl:1090,rng:130,spd:260,itv:500},auraStat:{comment:["距離減衰・実弾系ショットガン・カスタムショットガン","武器表記威力が命中距離によって割合で減少し、その後にTEC計算される","威力50%~100%"]}}
@@ -225,7 +231,7 @@
 
 
 
-{group:"Uni照射系",prefixID:"LS",commonStat:{tunable:{mwp:1}},nextID:1}
+{group:"照射系",prefixID:"LS",commonStat:{tunable:{mwp:1}},nextID:1}
 {id:1,name:"グラスバーナー",type:"lcs",size:"S",cost:40,main:{pwr:5,shl:760,rng:120,spd:480,itv:100}}
 {id:2,name:"バーナー",type:"lcs",size:"M",cost:85,main:{pwr:8,shl:780,rng:120,spd:480,itv:100}}
 {id:3,name:"ロングバーナー",type:"cs",size:"M",cost:150,main:{pwr:9,shl:840,rng:160,spd:480,itv:100}}
@@ -241,7 +247,7 @@
 
 
 
-{group:"UniPSYガン系",prefixID:"PSY",commonStat:{tunable:{mwp:1}},nextID:1}
+{group:"PSYガン系",prefixID:"PSY",commonStat:{tunable:{mwp:1}},nextID:1}
 
 {id:41,name:"マグネガン",type:"cs",size:"S",cost:60,main:{pwr:12,shl:270,rng:330,spd:290,itv:700}}
 {id:42,name:"フェノムマグネガン",type:"cs",size:"S",cost:110,main:{pwr:19,shl:270,rng:330,spd:290,itv:700}}
@@ -278,7 +284,7 @@
 {id:6558109,name:"ゴーストシューター",main:{tec:100,pwr:6,shl:540,rng:250,spd:150,itv:300},tunable:{mwp:1},size:"M",type:"s",cost:100,comment:"ライトスロウ効果"}
 {id:1109,name:"パンプキンガン",size:"M",cost:15,main:{pwr:6,shl:500,rng:225,spd:570,itv:300}}
 
-{group:"Uni mainコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
+{group:"mainコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 
 {id:503,name:"アクアショット",main:{pwr:19,shl:340,rng:250,spd:400,itv:500},type:"l",size:"S",cost:70,comment:"イオンAM2専用コンバージョンパーツ",tunable:{mwp:1}}
 {id:119,name:"インパクトアロー",main:{pwr:22,shl:230,rng:225,spd:480,itv:600},type:"l",size:"M",cost:30,comment:"ロビンハンターAM専用コンバージョンパーツ",slot:0}
