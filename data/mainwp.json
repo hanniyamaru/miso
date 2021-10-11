@@ -34,7 +34,7 @@
 {id:505,name:"M-9ベイオネット",size:"M",cost:145,main:{pwr:12,shl:600,rng:250,spd:480,itv:140},sub:{tec:100,pwr:32,rng:70,spd:85,itv:1000},tunable:{pwp:1}}
 
 
-{group:"ビームガン系",prefixID:"HG",commonStat:{tunable:{mwp:1}},nextID:60}
+{group:"ビームガン系",prefixID:"BG",commonStat:{tunable:{mwp:1}},nextID:60}
 
 {id:71,name:"AURAライトニングガン",main:{pwr:15,shl:240,rng:250,spd:440,itv:700},auraStat:{main:{pwr:18,shl:240,rng:250,spd:440,itv:700}},type:"a",size:"S",cost:70}
 {id:501,name:"スワロービームガン",main:{tec:100,pwr:12,shl:320,rng:275,spd:440,itv:540},tunable:{mwp:1},type:"a",size:"M",cost:80}
@@ -99,7 +99,7 @@
 {id:17,name:"ネガトロンライフル",type:"a",size:"L",cost:180,main:{pwr:37,shl:190,rng:275,spd:520,itv:900}}
 {id:37,name:"ヴォルグライフル",main:{tec:100,pwr:22,shl:360,rng:330,spd:480,itv:500},tunable:{mwp:1},type:"c",size:"M",cost:160}
 
-{group:"ブレイカー系",prefixID:"HG",commonStat:{tunable:{mwp:1}},nextID:60}
+{group:"ブレイカー系",prefixID:"BK",commonStat:{tunable:{mwp:1}},nextID:60}
 {id:11,name:"サーキットブレイカー",type:"cs",size:"SS",cost:45,main:{pwr:14,shl:200,rng:330,spd:480,itv:540}}
 {id:12,name:"アーマーブレイカー",type:"c",size:"M",cost:60,main:{pwr:38,shl:80,rng:330,spd:480,itv:1000}}
 {id:13,name:"デバイスブレイカー",type:"c",size:"M",cost:90,main:{pwr:33,shl:150,rng:330,spd:480,itv:1000}}
@@ -201,7 +201,7 @@
 
 
 
-
+{group:"グレネード系",prefixID:"GN",commonStat:{tunable:{mwp:1}},nextID:32}
 
 {id:14,name:"リトルグレネード",type:"cs",size:"M",cost:40,main:{pwr:9,shl:340,rng:300,spd:400,itv:500}}
 {id:15,name:"グレネード",type:"c",size:"L",cost:90,main:{pwr:25,shl:190,rng:300,spd:400,itv:700}}
