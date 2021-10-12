@@ -69,7 +69,7 @@
 {id:61,name:"サイコフォーミュラBS",type:"c",cost:40,hp:25,tec:1,fly:3,tgh:1}
 {id:17,name:"サイコフォーミュラBS2",type:"c",cost:35,hp:20,str:1,tec:2,fly:3,tgh:-1}
 
-{id:6,name:"ジークンαBS",type:"l",cost:40,hp:25,str:2,tec:-1,fly:3,tgh:1}
+{id:6,name:"ジークンロンαBS",type:"l",cost:40,hp:25,str:2,tec:-1,fly:3,tgh:1,comment:"ジークンαBS"}
 
 {id:77,name:"シルビアBS",type:"l",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:2,tgh:2}
 {id:105,name:"シルビアBS2",type:"l",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:3,tgh:1}
