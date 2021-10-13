@@ -120,6 +120,9 @@
 {id:1030,name:"フォースドライブBS",type:"l",size:"M",cost:40,hp:25,tec:-1,wlk:1,fly:3,tgh:2}
 
 {id:56,name:"フォンメイBS2",type:"a",cost:30,hp:15,wlk:1,fly:2,tgh:1}
+
+{id:94,name:"ホネボンBS",type:"l",cost:20,hp:10,str:1,fly:2,tgh:-1,comment:"未更新"}
+
 {id:29,name:"ブリックゲイルBS",type:"a",cost:60,hp:25,wlk:1,fly:4,sub:{shl:50,rng:0,spd:150,itv:1000},comment:"BLUE"}
 {id:30,name:"ブリックゲイルBS2",type:"a",cost:60,hp:25,wlk:1,fly:4,sub:{shl:50,rng:0,spd:150,itv:1000},comment:"RED"}
 
