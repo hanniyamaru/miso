@@ -82,8 +82,7 @@
 
 {id:41,name:"じーくんふーBD",cost:470,capa:635,hp:225,str:12,tec:9,wlk:13,fly:6,tgh:10,main:{pwr:0,shl:[80],rng:300,spd:[300],itv:[500]},sub:{shl:[20],rng:43,spd:63,itv:[1000]},wbid:1,cartridge:{hpup:25,lv1:"95*6@25|17@20|18@20|19@20|20@20|22@30|29@10|21@20|25@25|23@25|16@20|15@30|13@20|32@30|31@40"},fixedParts:{hd:{name:"じーくんふーHD",cost:35,hp:20,str:2,tec:1,wlk:2,fly:-1,tgh:1},wp:["W1","W1","W1","W1"],lg:{name:"じーくんふーLG",cost:40,hp:20,str:1,wlk:3,fly:-1,tgh:2,sub:{str:100,pwr:5,rng:43,spd:63,itv:2500},tunable:{pwp:1}},bs:"B3"},joint:{am:0,wp:5},comment:["ロングレンジ陣","回復量41"]}
 
-{id:46,name:"ぺぽBD",joint:{wp:5,am:0},fixedParts:{hd:{name:"ぺぽHD",cost:35,hp:20,str:1,tec:1,fly:1,tgh:2},bs:{name:"デモンBS8",cost:35,hp:20,str:1,tec:1,fly:3},lg:{name:"ぺぽLG",sub:{pwr:10,rng:43,spd:63,itv:2500},cost:40,hp:20,wlk:3,fly:1,tgh:1},wp:[{name:"リッカーステッキ",sub:{tec:100,pwr:15,rng:25,spd:40,itv:1000},tunable:{pwp:1},type:"s",size:"S",cost:30},{[{name:"メモリ・スロット"},{name:"メモリ・スロット"},{name:"ぺぽBD@",main:{tec:100,pwr:4,shl:300,rng:250,spd:320,itv:600},cost:40,tunable:{mwp:1}}}]},comment:"-",joint:{wp:1,hd:0,lg:0,bs:0,am:0,hdac:0,fcac:0},main:{pwr:0,shl:[80],rng:300,spd:[300],itv:[500]},sub:{shl:[20],rng:43,spd:63,itv:[1000]},cartridge:{lv1:"3*6@25|6*2@30|7@20|9@30|10@30|8@30",lv6:"106@40|29@10|28@20|19@20|33@40|17@20|13@20",lv9:"31@40|107@50"},cost:490,capa:670,hp:225,str:4,tec:11,wlk:12,fly:6,tgh:9,wbid:5}
-
+{id:46,name:"ぺぽBD",cost:470,capa:635,hp:225,str:12,tec:9,wlk:13,fly:6,tgh:10,main:{pwr:0,shl:[80],rng:300,spd:[300],itv:[500]},sub:{shl:[20],rng:43,spd:63,itv:[1000]},wbid:1,cartridge:{hpup:25,lv1:"95*6@25|17@20|18@20|19@20|20@20|22@30|29@10|21@20|25@25|23@25|16@20|15@30|13@20|32@30|31@40"},fixedParts:{hd:{name:"ぺぽHD",cost:35,hp:20,str:2,tec:1,wlk:2,fly:-1,tgh:1},wp:["W53","W54","W1","W1"],lg:{name:"ぺぽLG",cost:40,hp:20,str:1,wlk:3,fly:-1,tgh:2,sub:{str:100,pwr:5,rng:43,spd:63,itv:2500},tunable:{pwp:1}},bs:"B3"},joint:{am:0,wp:5},comment:["ロングレンジ陣","回復量41"]}
 
 
 
