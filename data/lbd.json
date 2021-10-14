@@ -4,9 +4,7 @@
 
 {group:"Ｓ陸　近日更新分",prefixID:"LS",commonStat:{size:"S",type:"l"},nextID:35}
 
-{id:4611,name:"ぺぽBD",joint:{wp:2,am:0},fixedParts:{hd:{name:"ぺぽHD",cost:30,hp:15,str:1,tec:1,fly:1,tgh:2},bs:{name:"デモンBS8",cost:30,hp:20,tec:1,fly:3},lg:{name:"ぺぽLG",sub:{pwr:1,rng:43,spd:63,itv:2500},cost:35,hp:20,wlk:3,fly:1,tgh:1},wp:[{name:"プチリッカーステッキ",sub:{tec:100,pwr:8,rng:25,spd:40,itv:600},tunable:{pwp:1}},{name:"ペポBD＠",main:{pwr:[5,7,9,11,13],shl:[250,270,290,340,400],rng:210,spd:310,itv:440,tec:100},sub:{pwr:[7,9,11,13,15],shl:[100,120,140,170,200],rng:250,spd:200,itv:1500,tec:100},joint:{wp:1,hd:0,lg:0,bs:0,am:0,hdac:0,fcac:0}}]},main:{pwr:3,shl:[300,320,340,360,380],rng:205,spd:[155,165,175,185,205],itv:[1000,1000,1000,940,900]},sub:{shl:[10,12,15,20,20],rng:43,spd:63,itv:[30000,30000,30000,28000,25000]},cartridge:{lv1:"3*6@25|6*2@30|7@20|9@30|10@30|8@30",lv6:"106@40|29@10|28@20|19@20|33@40|17@20|13@20",lv9:"31@40|107@50"},cost:435,capa:570,hp:185,str:6,tec:5,wlk:12,fly:4,tgh:7,wbid:5}
 
-{id:10011,name:"ぺぽBD2",joint:{wp:1,am:0},fixedParts:{hd:{name:"ぺぽHD",cost:30,hp:15,str:1,tec:1,fly:1,tgh:2,type:"s",size:"S"},bs:{name:"デモンBS8",cost:30,hp:20,tec:1,fly:3},lg:{name:"ぺぽLG2",sub:{pwr:1,rng:43,spd:63,itv:2500},cost:35,hp:20,wlk:3,fly:1,type:"s",size:"S",tgh:1}},main:{pwr:3,shl:[300,320,340,360,380],rng:205,spd:[155,165,175,185,205],itv:[1000,1000,1000,940,900]},sub:{shl:[10,12,15,20,20],rng:43,spd:63,itv:[30000,30000,30000,28000,25000]},cartridge:{lv1:"3*6@25|6*2@30|7@20|9@30|10@30|8@30",lv6:"106@40|29@10|28@20|19@20|33@40|17@20|13@20",lv9:"31@40|107@50"},cost:435,capa:570,hp:185,str:6,tec:5,wlk:12,fly:4,tgh:7,wbid:5,type:"s",size:"S"}
 
 {id:6,name:"ホネボンBD",cost:135,capa:320,hp:105,str:6,tec:6,wlk:6,fly:6,tgh:7,wbid:6,cartridge:{hpup:23,lv1:"4*8@25|7@20|9@20|10@15|17@15",lv6:"20@15|18@15|15@15|23@25|14@20|",lv9:"30@20|28@30|27@10"}}
 
