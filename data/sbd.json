@@ -82,8 +82,7 @@
 
 {id:41,name:"じーくんふーBD",cost:470,capa:635,hp:225,str:12,tec:9,wlk:13,fly:6,tgh:10,main:{pwr:0,shl:[80],rng:300,spd:[300],itv:[500]},sub:{shl:[20],rng:43,spd:63,itv:[1000]},wbid:1,cartridge:{hpup:25,lv1:"95*6@25|17@20|18@20|19@20|20@20|22@30|29@10|21@20|25@25|23@25|16@20|15@30|13@20|32@30|31@40"},fixedParts:{hd:{name:"じーくんふーHD",cost:35,hp:20,str:2,tec:1,wlk:2,fly:-1,tgh:1},wp:["W1","W1","W1","W1"],lg:{name:"じーくんふーLG",cost:40,hp:20,str:1,wlk:3,fly:-1,tgh:2,sub:{str:100,pwr:5,rng:43,spd:63,itv:2500},tunable:{pwp:1}},bs:"B3"},joint:{am:0,wp:5},comment:["ロングレンジ陣","回復量41"]}
 
-{id:46,name:"ぺぽBD",cost:470,capa:635,hp:225,str:12,tec:9,wlk:13,fly:6,tgh:10,main:{pwr:0,shl:[80],rng:300,spd:[300],itv:[500]},sub:{shl:[20],rng:43,spd:63,itv:[1000]},wbid:1,cartridge:{hpup:25,lv1:"95*6@25|17@20|18@20|19@20|20@20|22@30|29@10|21@20|25@25|23@25|16@20|15@30|13@20|32@30|31@40"},fixedParts:{hd:{name:"ぺぽHD",cost:35,hp:20,str:2,tec:1,wlk:2,fly:-1,tgh:1},wp:["W53","W54","W1","W1"],lg:{name:"ぺぽLG",cost:40,hp:20,str:1,wlk:3,fly:-1,tgh:2,sub:{str:100,pwr:5,rng:43,spd:63,itv:2500},tunable:{pwp:1}},bs:"B3"},joint:{am:0,wp:5},comment:["ロングレンジ陣","回復量41"]}
-
+{id:46,name:"ぺぽBD",cost:490,capa:670,hp:225,str:4,tec:11,wlk:12,fly:6,tgh:19,main:{pwr:0,shl:[80],rng:300,spd:[300],itv:[500]},sub:{shl:[20],rng:43,spd:63,itv:[1000]},wbid:0,cartridge:{hpup:25,lv1:"95*6@25|17@20|18@20|19@20|20@20|22@30|29@10|21@20|25@25|23@25|14@10|28@20|13@20|32@30|31@40"},fixedParts:{hd:{name:"ぺぽHD",cost:35,hp:20,str:1,tec:1,fly:1,tgh:2},wp:["W53","W54","W1","W1"],lg:{name:"ぺぽLG",cost:40,hp:20,wlk:3,fly:1,tgh:1,sub:{tec:100,pwr:10,rng:43,spd:63,itv:2500},tunable:{pwp:1}},bs:"B3"},joint:{am:0,wp:5},comment:["ロングレンジ陣","回復量41"]}
 
 
 
