@@ -129,7 +129,7 @@
 {id:35,name:"フウジンケン",sub:{str:100,pwr:30,rng:70,spd:85,itv:1000},tunable:{pwp:1},type:"a",size:"M",cost:120}
 {id:200,name:"虎咆拳",sub:{str:100,pwr:30,shl:0,rng:100,spd:350,itv:1500},type:"l",size:"M",cost:100,tunable:{pwp:1}}
 
-{id:1121019,name:"レイジングギガドリル",main:{str:100,pwr:20,shl:50,rng:200,spd:300,itv:500},sub:{str:100,pwr:28,rng:100,spd:250,itv:3000},tunable:{mwp:1,pwp:1},cost:150,comment:["sub貫通","ナイトギア箱"]}
+{id:1121019,name:"レイジングギガドリル",main:{str:100,pwr:20,shl:50,rng:200,spd:300,itv:500},sub:{str:100,pwr:28,rng:100,spd:250,itv:3000},tunable:{mwp:1,pwp:1},size:"L",cost:150,comment:["sub貫通","ナイトギア箱"]}
 
 {id:291019,name:"ヴァリアブルセイバー",sub:{pwr:29,shl:200,rng:70,spd:85,itv:2000},auraStat:{sub:{pwr:32,rng:70,spd:85,itv:2000}},type:"a",size:"M",cost:80,comment:["格闘属性ダメージ","ブースト回復（小）","ナイトギア箱"]}
 
