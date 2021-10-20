@@ -290,7 +290,7 @@
 
 {id:113,name:"ダルタニスBS",type:"l",cost:55,hp:20,str:-1,wlk:2,fly:2,tgh:2,comment:"シールド耐久値不明"}
 
-{id:11020,name:"ディメンションFBS",main:{pwr:3,shl:1600,rng:275,spd:350,itv:140},sub:{pwr:5,shl:550,rng:275,spd:350,itv:140},tunable:{mwp:0,pwp:0},type:"a",size:"M",cost:200,hp:25,str:-1,tec:2,fly:3,tgh:1,comment:["BS@・@2cost160複合","武器チューン不可"]}
+{id:11020,name:"ナイトギアRF BS（ディメンションFBS）",main:{pwr:3,shl:1600,rng:275,spd:350,itv:140},sub:{pwr:5,shl:550,rng:275,spd:350,itv:140},tunable:{mwp:0,pwp:0},type:"a",size:"M",cost:200,hp:25,str:-1,tec:2,fly:3,tgh:1,comment:["BS@・@2cost160複合","武器チューン不可","名称変更"]}
 
 {id:90,name:"テオライネBS",type:"c",cost:35,hp:20,tec:2,wlk:-1,fly:3,tgh:1}
 {id:90107,name:"テオライネBS2",type:"c",cost:35,hp:20,tec:2,wlk:1,fly:3,tgh:-1}
