@@ -285,6 +285,15 @@
 {id:89,name:"トニトルスAM",main:{pwr:14,shl:300,rng:275,spd:440,itv:500},tunable:{mwp:1},joint:{wp:0},auraStat:{main:{pwr:14,shl:300,rng:275,spd:440,itv:500}},type:"a",cost:110,hp:25,tec:3,wlk:-1,fly:1,tgh:2,comment:"※変形はAURAで対応"}
 {id:90,name:"トニトルスAM2",sub:{tec:100,pwr:30,rng:70,spd:85,itv:500},auraStat:{sub:{tec:100,pwr:27,rng:120,spd:200,itv:1000}},type:"a",cost:110,hp:25,str:-1,tec:2,fly:2,tgh:2,comment:["※変形はAURAで対応","射出物にバリア効果有り"],tunable:{pwp:1},joint:{wp:0}}
 
+{id:11020,name:"ナイトギアRF AM",type:"a",size:"M",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1}
+
+{id:11021,name:"ナイトギアPF AM",type:"a",size:"M",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1}
+
+
+
+
+
+
 {id:146,name:"ハイガクゥーンAM",sub:{tec:100,pwr:27,rng:70,spd:85,itv:500},tunable:{pwp:1},type:"lc",size:"M",cost:75,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
 {id:95,name:"ハイバリオンAM",joint:{wp:2},type:"c",cost:100,hp:25,tec:2,wlk:1,fly:1,tgh:2,fixedParts:{wp:{name:"ハイバリオンAM@",sub:{pwr:20,shl:130,rng:350,spd:290,itv:1000,tec:100},slot:0}}}
 
@@ -486,7 +495,10 @@
 
 {id:290,name:"ドラッケンAM",cost:40,hp:25,str:3,wlk:1,fly:-1,tgh:2}
 
+{id:11022,name:"ナイトギアHF AM",main:{tec:100,pwr:6,shl:840,rng:330,spd:480,itv:740},type:"c",size:"L",cost:85,hp:25,str:-1,tec:3,wlk:1,tgh:2,tunable:{mwp:0},comment:["バトルシップ・DNAM複合","武器チューン不可"]}
+{id:11023,name:"ナイトギアHF AM2",main:{tec:100,pwr:6,shl:780,rng:330,spd:480,itv:1000},type:"c",size:"L",cost:85,hp:25,str:-1,tec:3,wlk:1,tgh:2,tunable:{mwp:0},comment:["バトルシップ・DNAM2複合","武器チューン不可"]}
 
+{id:11024,name:"ナイトギアHF AM（コンバージョン無し）",type:"c",size:"L",cost:40,hp:25,str:-1,tec:3,wlk:1,tgh:2}
 
 
 
