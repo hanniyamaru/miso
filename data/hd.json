@@ -39,6 +39,7 @@
 
 {id:186,name:"ナッツ･ボムリスHD",cost:35,hp:20,str:2,tec:-1,wlk:2,tgh:2}
 
+{id:11021,name:"バットべーHD",cost:30,hp:15,str:1,tec:1,wlk:1,fly:1}
 
 {id:22,name:"ビルダームHD",cost:40,hp:25,str:1,tec:2,wlk:1,tgh:1}
 
