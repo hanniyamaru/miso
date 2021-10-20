@@ -213,6 +213,7 @@
 
 {id:167,name:"シノーリスHD",cost:35,hp:20,str:1,tec:2,wlk:2,fly:1,tgh:-1}
 {id:274,name:"シノーリスHD2",main:{tec:100,pwr:10,shl:320,rng:330,spd:440,itv:500},tunable:{mwp:1},cost:75,hp:20,tec:1,wlk:1,fly:1,tgh:2,size:"M",type:"lc"}
+{id:11019,name:"ジャックオーHD",type:"lacs",size:"M",cost:40,hp:25,str:2,tec:2,tgh:1}
 
 {id:309,name:"シャドウキネシスHD",cost:40,hp:25,tec:3,wlk:1,fly:1}
 {id:54,name:"シュトルバンガーHD",cost:40,hp:25,str:2,tec:-1,fly:1,tgh:3}
