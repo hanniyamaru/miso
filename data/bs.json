@@ -532,6 +532,8 @@
 
 {id:5,name:"ヘカトケレスBS",type:"c",cost:125,hp:20,tec:2,wlk:-1,fly:3,tgh:1,main:{tec:100,pwr:11,shl:700,rng:330,spd:290,itv:1000},tunable:{mwp:1},size:"LL",comment:"壁越しロックオン可能"}
 
+{id:11020,name:"ナイトギアHF BS(バトルシップDNABS)",main:{pwr:5,shl:1080,rng:330,spd:330,itv:200},sub:{tec:100,pwr:6,shl:480,rng:350,spd:260,itv:1000},tunable:{pwp:0,mwp:0},cost:220,hp:25,str:-1,tec:3,wlk:1,fly:2,type:"c",size:"LL",comment:["武器チューン不可","名称変更"]}
+
 
 
 {group:"ジョイント",prefixID:"J",commonStat:{jointPart:1},nextID:10}
