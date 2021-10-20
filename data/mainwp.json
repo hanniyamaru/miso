@@ -359,6 +359,6 @@
 
 {group:"アムリム コンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:73,name:"アムリムBS@",main:{pwr:8,shl:630,rng:275,spd:380,itv:580,tec:100},tunable:{mwp:1},type:"a",size:"S",cost:70,comment:"アムリムBS専用コンバージョンパーツ"}
-
+{id:721,name:"プチブラッドシューター",main:{pwr:3,shl:180,rng:200,spd:360,itv:300},tunable:{mwp:1},type:"s",size:"SS",comment:"あむりむ専用コンバーションパーツ",cost:40}
 {id:72,name:"ブラッドシューター",main:{pwr:14,shl:560,rng:275,spd:360,itv:300},tunable:{mwp:1},type:"la",size:"S",comment:"アムリムAM2専用コンバーションパーツ",cost:100}
 {id:1,name:"ラキアコフィン",type:"a",size:"S",slot:0,sub:{pwr:0,shl:0,rng:300,spd:0,itv:1000},comment:"アムリムLG専用コンバージョンパーツ"}
