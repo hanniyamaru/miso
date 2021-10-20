@@ -495,8 +495,8 @@
 
 {id:290,name:"ドラッケンAM",cost:40,hp:25,str:3,wlk:1,fly:-1,tgh:2}
 
-{id:11022,name:"ナイトギアHF AM",main:{tec:100,pwr:6,shl:840,rng:330,spd:480,itv:740},type:"c",size:"L",cost:85,hp:25,str:-1,tec:3,wlk:1,tgh:2,tunable:{mwp:0},comment:["バトルシップ・DNAM複合","武器チューン不可"]}
-{id:11023,name:"ナイトギアHF AM2",main:{tec:100,pwr:6,shl:780,rng:330,spd:480,itv:1000},type:"c",size:"L",cost:85,hp:25,str:-1,tec:3,wlk:1,tgh:2,tunable:{mwp:0},comment:["バトルシップ・DNAM2複合","武器チューン不可"]}
+{id:11022,name:"ナイトギアHF AM",main:{tec:100,pwr:6,shl:840,rng:330,spd:480,itv:740},type:"c",size:"L",cost:85,hp:25,str:-1,tec:3,wlk:1,tgh:2,tunable:{mwp:0},comment:["バトルシップ・DNAMcost45複合","武器チューン不可"]}
+{id:11023,name:"ナイトギアHF AM2",main:{tec:100,pwr:6,shl:780,rng:330,spd:480,itv:1000},type:"c",size:"L",cost:85,hp:25,str:-1,tec:3,wlk:1,tgh:2,tunable:{mwp:0},comment:["バトルシップ・DNAM2cost45複合","武器チューン不可","名称変更"]}
 
 {id:11024,name:"ナイトギアHF AM（コンバージョン無し）",type:"c",size:"L",cost:40,hp:25,str:-1,tec:3,wlk:1,tgh:2}
 
