@@ -161,7 +161,7 @@
 {id:48,name:"ブロウバズーカ",main:{pwr:17,shl:340,rng:300,spd:440,itv:500},cost:100,size:"M",type:"c"}
 {id:36,name:"スプレッドバズーカ",type:"c",size:"LL",cost:150,main:{pwr:14,shl:770,rng:210,spd:360,itv:800}}
 {id:100,name:"バアルバズーカR",type:"c",size:"M",cost:120,main:{pwr:24,shl:200,rng:330,spd:400,itv:500}}
-{id:11020,name:"パンプキンバズーカ",type:"c",size:"S",cost:120,main:{pwr:23,shl:360,rng:330,spd:360,itv:500}}
+{id:11020,name:"パンプキンロッド",type:"c",size:"S",cost:120,main:{pwr:23,shl:360,rng:330,spd:360,itv:500}}
 
 {id:131011,name:"アームストロング",type:"c",size:"M",cost:220,main:{pwr:12,shl:1200,rng:330,spd:400,itv:140}}
 
