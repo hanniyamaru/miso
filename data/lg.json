@@ -112,7 +112,7 @@
 
 {id:103,name:"K・ノンナLG",type:"c",size:"S",cost:40,hp:20,wlk:2,fly:2,tgh:1}
 
-
+{id:121,name:"P・モーナLG",size:"S",cost:40,hp:20,tec:3,wlk:2,fly:-1,tgh:1}
 
 
 
