@@ -186,6 +186,8 @@
 
 {id:7,name:"トイボックスBD",cost:590,capa:980,hp:305,str:2,tec:16,wlk:7,fly:5,tgh:13,sub:{pwr:[35],shl:[130],rng:[350],spd:290,itv:2000},cartridge:{hpup:10,lv1:"75*5@20|60*2@30|7@20|10@20|8@15|20@15|28@30|15@30|29@15|30@20|21@20|26@10|13@30|32@40|31@40"}}
 
+{id:11020,name:"ナイトギアHF BD",cost:490,capa:980,hp:305,str:3,tec:13,wlk:5,fly:5,tgh:17,wbid:4,cartridge:{hpup:10,lv1:"75*6@20|7@20|10@20|8@15|20@15|23@25|29@15|11@20|26@10|25@25|21@20|15@30|13@30|32@40|31@40"}}
+
 {id:557,name:"ニパ子デストラクトBD",sub:{pwr:[2,4,6],shl:[750],rng:350,spd:320,itv:1000},cartridge:{hpup:14,lv1:"4*5@20|61*2@30|7@20|10@20|8@15|17@20|18@20|20@15|23@25|30@20|21@20|25@25|13@30|32@40|31@40"},fixedParts:{hd:{name:"ニパ子デストラクトHD",cost:40,hp:25,str:1,tec:2,tgh:2},am:[{name:"ニパ子デストラクトAM",main:{pwr:5,shl:1500,rng:330,spd:480,itv:200},tunable:{pwp:0,mwp:1},joint:{wp:0},cost:100,hp:25,str:1,tec:2,tgh:2},{name:"ニパ子デストラクトAM",main:{pwr:5,shl:1500,rng:330,spd:480,itv:200},tunable:{pwp:0,mwp:1},joint:{wp:0},cost:100,hp:25,str:1,tec:2,tgh:2}],bs:{name:"ニパ子デストラクトBS",cost:40,hp:20,tec:1,wlk:1,fly:2,tgh:1},lg:{name:"ニパ子デストラクトLG",cost:45,hp:40,str:1,tec:1,wlk:2,tgh:2}},type:"c",cost:545,capa:870,hp:290,str:5,tec:14,wlk:8,fly:6,tgh:15,wbid:3,}
 
 {id:45,name:"フラッシュボマーBD",main:{tec:100,pwr:[18,20,22],shl:[450],rng:[350,365,380],spd:[240,250,260],itv:1600},cartridge:{hpup:10,lv1:"75*5@20|60*2@30|7@20|10@20|8@15|18@20|19@20|20@15|23@25|26@10|30@20|21@20|13@30|32@40|31@40"},type:"c",size:"L",cost:560,capa:945,hp:305,str:5,tec:14,wlk:12,fly:9,tgh:11,wbid:3}
