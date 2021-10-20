@@ -240,6 +240,11 @@
 
 {id:61,name:"トニトルスLG",sub:{shl:60,rng:100,spd:120,itv:1000},tunable:{pwp:0},auraStat:{sub:{shl:60,rng:100,spd:120,itv:1000}},type:"a",cost:75,hp:25,wlk:2,fly:2,tgh:2,comment:"※変形はAURAで対応"}
 
+{id:11020,name:"ナイトギアRF LG",type:"a",size:"M",cost:45,hp:25,str:2,wlk:2,fly:1,tgh:1}
+
+{id:11021,name:"ナイトギアPF BS",main:{tec:100,pwr:10,shl:660,rng:275,spd:270,itv:300},sub:{tec:100,pwr:28,shl:30,rng:120,spd:220,itv:500},tunable:{mwp:0,pwp:0},type:"a",size:"M",cost:195,hp:25,str:-1,tec:1,wlk:3,fly:2,tgh:1,comment:["ブラストマニューバcost150複合","武器チューン不可"]}
+
+
 
 {id:102,name:"ハイガクゥーンLG",type:"lacs",size:"M",cost:45,hp:25,str:-1,tec:1,wlk:3,fly:2,tgh:1}
 
@@ -429,6 +434,7 @@
 
 {id:290,name:"ドラッケンLG",cost:45,hp:25,str:2,wlk:3,tgh:1}
 
+{id:11023,name:"ナイトギアHF LG",type:"c",size:"L",cost:50,hp:45,str:1,wlk:2,fly:1,tgh:2}
 
 
 {id:790,name:"ハクメンスクナLG",sub:{shl:40,rng:0,spd:150,itv:1000},type:"a",cost:105,hp:50,wlk:2,fly:3,tgh:1}
