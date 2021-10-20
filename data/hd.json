@@ -278,6 +278,12 @@
 {id:236,name:"ドラゴネイルHD",cost:40,hp:25,str:2,fly:1,tgh:2}
 {id:260,name:"ドラゴネイルHD2",cost:40,hp:25,str:2,tec:-1,wlk:2,fly:1,tgh:1}
 
+{id:11020,name:"ナイトギアRF HD",type:"a",size:"M",cost:40,hp:25,str:-1,tec:2,wlk:2,fly:2}
+{id:11021,name:"ナイトギアPF HD",type:"a",size:"M",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2}
+
+
+
+
 {id:244,name:"ナイトジャーHD",cost:40,hp:25,str:2,wlk:1,fly:-1,tgh:3}
 {id:295,name:"ナイトジャーHD2",type:"lacs",size:"M",cost:40,hp:25,str:3,tgh:2}
 
@@ -444,6 +450,7 @@
 {id:143,name:"デストラクトMAXHD",cost:40,hp:25,str:-1,tec:2,fly:1,tgh:3}
 
 {id:290,name:"ドラッケンHD",cost:35,hp:20,str:2,tec:-1,wlk:1,fly:1,tgh:2}
+{id:11022,name:"ナイトギアHF HD",type:"c",size:"L",cost:40,hp:25,tec:2,wlk:1,tgh:2}
 
 {id:790,name:"ハクメンスクナHD",cost:40,hp:25,str:2,wlk:1,tgh:2}
 {id:9,name:"ヘルトカイゼルHD",type:"c",size:"L",cost:35,hp:20,tec:-1,wlk:2,fly:2,tgh:2}
