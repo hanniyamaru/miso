@@ -463,6 +463,9 @@
 {id:293,name:"ヤマトオグナHD",cost:35,hp:20,str:2,tec:-1,wlk:2,tgh:2}
 
 
+{group:"ジョイント",prefixID:"J",commonStat:{jointPart:1},nextID:4}
+
+{id:3,name:"スロット1HDJ",size:"M",cost:0,hp:0,slot:1,comment:"-"}
 
 
 
