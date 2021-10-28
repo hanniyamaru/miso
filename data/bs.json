@@ -543,6 +543,9 @@
 
 {group:"ジョイント",prefixID:"J",commonStat:{jointPart:1},nextID:10}
 
+{id:201,name:"スロット1BSJ",size:"M",cost:0,hp:0,slot:1}
+
+
 {id:1,name:"ポールフラッグBSJ",size:"M",cost:15,hp:10,slot:1,comment:"-"}
 {id:2,name:"ロングフラッグBSJ",size:"M",cost:15,hp:10,slot:1,comment:"-"}
 
