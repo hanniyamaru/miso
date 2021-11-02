@@ -425,6 +425,9 @@
 {id:60,name:"クシュルブBS",type:"l",cost:35,hp:20,str:-1,tec:1,fly:3,tgh:2}
 
 {id:86,name:"クリスタスBS",main:{tec:100,pwr:14,shl:220,rng:275,spd:360,itv:1000},tunable:{mwp:1},type:"a",size:"L",cost:105,hp:20,str:-1,tec:2,fly:3,tgh:1}
+{id:99,name:"クルージスBS",type:"a",size:"L",cost:30,hp:15,tec:1,fly:2,tgh:1}
+
+
 {id:30,name:"クロコダガーBS",type:"l",cost:40,hp:25,str:1,tec:-1,wlk:2,fly:2,tgh:1}
 {id:4,name:"コスモカイザーBS",type:"l",cost:35,hp:20,str:1,tec:-1,wlk:1,fly:3,tgh:1}
 {id:4050,name:"コスモカイザーBS2",type:"l",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:3}
