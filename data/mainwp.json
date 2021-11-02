@@ -349,7 +349,7 @@
 
 {id:118,name:"ホーミングアロー",main:{pwr:13,shl:180,rng:250,spd:320,itv:800},cost:50,type:"l",size:"M",comment:"ロビンハンターAM専用コンバージョンパーツ",slot:0}
 
-{id:109,name:"リーゼ・ガトリング",main:{pwr:4,shl:1600,rng:350,spd:480,itv:200},cost:45,type:"c",size:"S",comment:"リーゼル・ツヴァイク BD専用コンバージョンパーツ"}
+{id:109,name:"リーゼ・ガトリング",main:{pwr:4,shl:1600,rng:350,spd:480,itv:200},cost:45,slot:0,type:"c",size:"S",comment:"リーゼル・ツヴァイク BD専用コンバージョンパーツ"}
 
 {id:83,name:"ロギナス",main:{pwr:32,shl:280,rng:330,spd:440,itv:700},tunable:{mwp:1},type:"c",size:"S",cost:100,comment:"クロエAM専用コンバージョンパーツ"}
 
