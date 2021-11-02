@@ -1,4 +1,5 @@
-﻿
+{group:"HDAC",prefixID:"S",nextID:1}
+{id:1,name:"メモリ・スロット",size:"M",type:"lacs",slot:3,comment:["-"],comment:["-"]}
 
 {group:"HD",prefixID:"H",nextID:3}
 {id:1,name:"シエスHD"}
