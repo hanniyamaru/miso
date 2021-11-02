@@ -107,6 +107,7 @@
 {id:76,name:"A.L.E.クリムローゼLG",joint:{bs:2},fixedParts:{bs:[{name:"A.L.EクリムローゼBS",size:"M",type:"a",builtin:{bs:1},slot:0},{name:"A.L.EクリムローゼBS",type:"a",size:"M",slot:0,builtin:{bs:1}}]},type:"a",size:"S",cost:85,hp:50,str:1,tec:2,fly:4,tgh:3}
 
 {id:97,name:"A.L.E.ラズフラムLG",type:"lacs",size:"S",cost:45,hp:25,str:-1,tec:1,wlk:4,tgh:1,joint:{bs:1}}
+{id:123,name:"G・リモアLG",sub:{shl:30,spd:150,itv:500},type:"c",size:"S",cost:75,hp:25,tec:1,wlk:3,tgh:2}
 
 {id:108,name:"F･リュールLG",type:"lacs",size:"S",cost:40,hp:20,tec:1,wlk:2,fly:2}
 
