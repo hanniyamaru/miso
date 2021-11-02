@@ -4,7 +4,7 @@
 
 {group:"Ｓ陸　近日更新分",prefixID:"LS",commonStat:{size:"S",type:"l"},nextID:35}
 
-
+{id:132,name:"ハンナ・フリッツBD",cartridge:{lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|12@20|25@25|21@20|13@30|34@15|32@50|31@40",hpup:14},fixedParts:{hd:{name:"ハンナ・フリッツHD",cost:40,hp:25,str:2,fly:2,tgh:1},lg:{name:"ハンナ・フリッツLG",cost:45,hp:25,str:1,wlk:3,tgh:2},am:[{name:"ハンナ・フリッツAM",cost:40,hp:25,str:2,wlk:1,fly:1,tgh:1},{joint:{wp:2},name:"ハンナ・フリッツAM",cost:40,hp:25,str:2,wlk:1,fly:1,tgh:1}],bs:{name:"ハンナ・フリッツBD@",joint:{bs:1},type:"l",size:"S"}},type:"l",cost:445,capa:900,hp:225,str:13,tec:5,wlk:15,fly:6,tgh:9,size:"S",joint:{wp:1}}
 
 {id:6,name:"ホネボンBD",cost:135,capa:320,hp:105,str:6,tec:6,wlk:6,fly:6,tgh:7,wbid:6,cartridge:{hpup:23,lv1:"4*8@25|7@20|9@20|10@15|17@15",lv6:"20@15|18@15|15@15|23@25|14@20|",lv9:"30@20|28@30|27@10"}}
 
