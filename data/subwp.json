@@ -7,7 +7,7 @@
 
 {group:"Uniシールド系",prefixID:"SL",nextID:4}
 {id:1,name:"バックラー",size:"SS",cost:40}
-{id:2,name:"バイパーシールド",size:"L",cost:40}
+{id:2,name:"バイパーシールド",size:"L",cost:40,comment:["耐久値100","2021/11/2"]}
 {id:3,name:"スパイクシールド",type:"l",size:"LL",cost:90,sub:{str:100,pwr:28,rng:120,spd:400,itv:500},tunable:{pwp:1}}
 
 {id:4,name:"キャンバスシールド",size:"S",cost:40}
