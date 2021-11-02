@@ -190,6 +190,9 @@
 
 {id:90,name:"A.L.E.リリレインBS",cost:40,hp:25,str:-1,wlk:1,fly:3,tgh:2,type:"c",comment:"-"}
 
+{id:227,name:"G・リモアBS",type:"c",size:"S",cost:35,hp:20,tec:2,fly:3}
+
+
 {id:112,name:"K・ノンナBS",type:"c",size:"S",cost:35,hp:20,str:-1,tec:3,fly:3,joint:{wp:1},fixedParts:{wp:{name:"K・ノンナBS@",main:{pwr:15,shl:450,rng:350,spd:500,itv:400},sub:{pwr:28,shl:100,rng:350,spd:500,itv:3000},tunable:{mwp:1,pwp:0},type:"c",size:"S",cost:160,comment:"-"}}}
 
 
