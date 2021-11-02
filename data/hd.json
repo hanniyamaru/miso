@@ -166,6 +166,9 @@
 {id:216,name:"クシュルブHD",cost:35,hp:20,str:2,tec:-1,fly:2,tgh:2}
 
 {id:273,name:"クリスタスHD",type:"lacs",size:"M",cost:35,hp:20,str:-1,tec:1,wlk:2,fly:2,tgh:1}
+{id:12,name:"クルージスHD",type:"lacs",size:"M",cost:35,hp:20,str:-1,tec:2,wlk:1,tgh:3}
+
+
 {id:48,name:"クレストセイントHD",cost:40,hp:25,str:1,tec:2,wlk:1,fly:1}
 {id:19,name:"クロスラプターHD",cost:40,hp:25,str:-1,tec:2,fly:2,tgh:2}
 {id:20,name:"クロスラプターHD2",cost:40,hp:25,str:2,tec:-1,fly:2,tgh:2}
