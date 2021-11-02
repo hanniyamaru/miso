@@ -422,6 +422,8 @@
 {id:62,name:"ダゴミュールLG",cost:45,hp:25,wlk:4,fly:-1,tgh:2}
 
 {id:63,name:"ディースモークLG",cost:45,hp:25,wlk:3,fly:-1,tgh:3}
+{id:71,name:"ティルージュLG",tunable:{pwp:1},joint:{bs:1},fixedParts:{bs:{name:"ティルージュBS@",sub:{spd:150,itv:500},slot:0}},cost:50,hp:60,tec:1,wlk:3,fly:1,tgh:1,auraStat:{sub:{pwr:30,rng:120,spd:250,itv:1000,tec:100}}}
+
 {id:11,name:"デストラクトLG",cost:45,hp:40,str:1,tec:1,wlk:2,tgh:2}
 {id:53,name:"デストラクトMAXLG",cost:50,hp:45,str:1,tec:1,wlk:2,fly:-1,tgh:3}
 
