@@ -417,6 +417,7 @@
 {id:148,name:"ギャランバルドAM4",main:{shl:50,spd:10,itv:1000},sub:{str:100,pwr:32,shl:40,rng:100,spd:300,itv:2000},tunable:{mwp:1,pwp:1},type:"l",size:"L",cost:200,hp:25,str:4,tec:-1,tgh:2,joint:{wp:0}}
 
 {id:98,name:"クシュルブAM",sub:{str:100,pwr:33,rng:35,spd:43,itv:2000},tunable:{pwp:1},type:"l",cost:90,hp:20,str:3,wlk:1,fly:2,tgh:-1}
+{id:168,name:"クルージスAM",main:{tec:100,pwr:16,shl:540,rng:275,spd:320,itv:600},tunable:{mwp:1},type:"a",size:"L",cost:105,hp:20,tec:3,wlk:-1,fly:2,tgh:1,joint:{wp:0}}
 {id:46,name:"クロコダガーAM",cost:35,hp:20,str:3,tec:1,tgh:1}
 
 
@@ -503,6 +504,8 @@
 {id:125,name:"ドラゴネイルAM2",sub:{pwr:30,shl:50,rng:75,spd:200,itv:2000,str:100},tunable:{pwp:1},cost:145,hp:25,str:3,tec:-1,fly:2,tgh:1,type:"l"}
 
 {id:290,name:"ドラッケンAM",cost:40,hp:25,str:3,wlk:1,fly:-1,tgh:2}
+{id:164,name:"トランソニックAM",main:{str:100,pwr:5,shl:340,rng:275,spd:320,itv:500},sub:{str:100,pwr:28,rng:70,spd:85,itv:500},tunable:{mwp:1,pwp:1},type:"a",size:"L",cost:135,hp:20,str:2,tec:-1,fly:3,tgh:1}
+
 
 {id:11022,name:"ナイトギアHF AM",main:{tec:100,pwr:6,shl:840,rng:330,spd:480,itv:740},type:"c",size:"L",cost:85,hp:25,str:-1,tec:3,wlk:1,tgh:2,tunable:{mwp:0},comment:["バトルシップ・DNAMcost45複合","武器チューン不可"]}
 {id:11023,name:"ナイトギアHF AM2",main:{tec:100,pwr:6,shl:780,rng:330,spd:480,itv:1000},type:"c",size:"L",cost:85,hp:25,str:-1,tec:3,wlk:1,tgh:2,tunable:{mwp:0},comment:["バトルシップ・DNAM2cost45複合","武器チューン不可","名称変更"]}
