@@ -113,6 +113,10 @@
 
 {id:33,name:"バタフレアBS",type:"a",cost:100,hp:25,str:-1,tec:2,wlk:1,fly:3,sub:{tec:100,pwr:26,rng:120,spd:10,itv:1000},tunable:{pwp:1}}
 
+{id:134,name:"ハンナ・フリッツBS",cost:35,hp:20,str:2,tec:-1,wlk:2,fly:2,type:"l"}
+
+
+
 {id:23,name:"ビルダームBS",type:"c",cost:140,hp:25,str:-1,tec:3,fly:2,tgh:1,main:{pwr:15,shl:280,rng:330,spd:380,itv:580},tunable:{mwp:1}}
 
 {id:99,name:"ファルクラムBS",type:"a",cost:35,hp:20,tec:2,fly:3}
