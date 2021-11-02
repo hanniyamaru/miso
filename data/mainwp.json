@@ -1,3 +1,8 @@
+{group:"代用品",prefixID:"SLOT",commonStat:{tunable:{mwp:1}},nextID:60}
+{id:1,name:"武器スロット",slot:3,joint:{hdac:0,fcac:1,hd:0},comment:"ゲーム内機体参照の上、任意の個数増設してください"}
+
+
+
 {group:"ハンドガン系",prefixID:"HG",commonStat:{tunable:{mwp:1}},nextID:60}
 
 
