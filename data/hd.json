@@ -87,6 +87,9 @@
 {id:91,name:"アームドビルダームHD",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
 
 {id:1000,name:"アクシオンHD",cost:40,hp:25,tec:1,wlk:1,tgh:3}
+{id:1102,name:"アクシオンHD2",cost:40,hp:25,str:1,wlk:1,tgh:3}
+
+
 {id:128,name:"アハトジーベンHD",cost:40,hp:25,tec:2,wlk:1,tgh:2}
 {id:149,name:"アハトジーベンHD2",cost:40,hp:25,tec:1,wlk:2,fly:1,tgh:1}
 
