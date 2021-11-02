@@ -382,6 +382,8 @@
 {id:70,name:"クシュルブLG",sub:{str:100,pwr:28,rng:84,spd:102,itv:1000},tunable:{pwp:1},type:"l",cost:145,hp:50,str:1,wlk:4,fly:-1,tgh:1}
 
 {id:321,name:"クリスタスLG",sub:{tec:100,pwr:2,shl:420,rng:275,spd:570,itv:1000},type:"a",size:"L",cost:75,hp:25,str:-1,tec:2,wlk:2,fly:2,tgh:1}
+{id:115,name:"クルージスLG",sub:{pwr:0,shl:40,rng:150,spd:150,itv:1000},builtin:{bs:1,lg:-1},joint:{bs:1},type:"a",size:"L",cost:65,hp:70,str:-1,wlk:2,fly:3,tgh:2,comment:"BS接続可"}
+
 {id:39,name:"クロコダガーLG",cost:45,hp:45,tec:-1,wlk:3,fly:2,tgh:1}
 
 
