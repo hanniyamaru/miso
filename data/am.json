@@ -295,7 +295,7 @@
 {id:90,name:"トニトルスAM2",sub:{tec:100,pwr:30,rng:70,spd:85,itv:500},auraStat:{sub:{tec:100,pwr:27,rng:120,spd:200,itv:1000}},type:"a",cost:110,hp:25,str:-1,tec:2,fly:2,tgh:2,comment:["※変形はAURAで対応","射出物にバリア効果有り"],tunable:{pwp:1},joint:{wp:0}}
 
 {id:300,name:"ドライブリッツAM",size:"M",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1}
-{id:301,name:"ドライブリッツAM2",size:"M",cost:135,hp:20,str:-1,tec:3,wlk:3,main:{pwr:19,shl:320,rng:330,spd:500,itv:500},type:"c",tunable:{mwp:1}}
+{id:301,name:"ドライブリッツAM2",size:"M",cost:135,hp:20,str:-1,tec:3,wlk:3,main:{pwr:19,shl:320,rng:330,spd:500,itv:500},type:"c",tunable:{mwp:1},joint:{wp:0}}
 
 
 
