@@ -62,7 +62,7 @@
 {id:15,name:"キャノンボールBS",type:"c",cost:35,hp:20,str:1,fly:3,tgh:1}
 {id:97,name:"キャノンボールHLBS",type:"c",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:3,tgh:1}
 
-{id:109,name:"グリストBS2",sub:{pwr:15,shl:300,rng:275,spd:350,itv:1000},type:"a",cost:135,hp:20,str:-1,tec:1,wlk:1,fly:3,tgh:1}
+
 {id:14,name:"クロスラプターBS",type:"a",cost:40,hp:25,str:1,wlk:1,fly:3}
 
 {id:72,name:"クロタクスBS",type:"l",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:3,tgh:1}
@@ -246,6 +246,7 @@
 {id:98,name:"ギャスターBS",type:"c",cost:40,hp:25,wlk:1,fly:3,tgh:2}
 {id:96,name:"ギャランバルドBS",type:"l",cost:45,hp:25,str:2,tec:-1,wlk:1,fly:3}
 
+{id:109,name:"グリストBS2",sub:{pwr:15,shl:300,rng:275,spd:350,itv:1000},type:"a",cost:135,hp:20,str:-1,tec:1,wlk:1,fly:3,tgh:1}
 
 
 {id:19,name:"クレストセイントBS",type:"a",cost:40,hp:25,str:-1,tec:1,fly:3,tgh:2}
