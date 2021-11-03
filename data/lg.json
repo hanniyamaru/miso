@@ -267,6 +267,7 @@
 
 {id:2,name:"ビクトリーLG",cost:40,hp:20,str:1,wlk:3,tgh:1}
 {id:50,name:"ビャッコウLG",auraStat:{str:1,wlk:4,tgh:1},str:1,wlk:4,tgh:1,cost:45,hp:25,comment:"AURA機構"}
+{id:59,name:"ビャッコウLG2",auraStat:{sub:{str:100,pwr:32,shl:0,rng:150,spd:350,itv:1000}},str:2,tec:-1,wlk:4,fly:1,cost:80,hp:25,comment:"AURA機構"}
 
 {id:3,name:"フィザリバンLG",cost:45,hp:25,str:1,tec:1,wlk:3}
 
