@@ -166,6 +166,9 @@
 {id:216,name:"クシュルブHD",cost:35,hp:20,str:2,tec:-1,fly:2,tgh:2}
 
 {id:273,name:"クリスタスHD",type:"lacs",size:"M",cost:35,hp:20,str:-1,tec:1,wlk:2,fly:2,tgh:1}
+{id:179,name:"グリストHD",type:"lacs",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1}
+
+
 {id:12,name:"クルージスHD",type:"lacs",size:"M",cost:35,hp:20,str:-1,tec:2,wlk:1,tgh:3}
 
 
