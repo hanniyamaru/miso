@@ -112,6 +112,7 @@
 {id:108,name:"ナターシャBS",type:"c",cost:40,hp:25,wlk:-1,fly:3,tgh:3}
 {id:86,name:"ナッツ･ボムリスBS",type:"s",cost:105,hp:20,str:-1,tec:2,fly:3,tgh:1,sub:{tec:100,pwr:20,shl:180,rng:275,spd:290,itv:2000}}
 
+{id:1831102,name:"ハードボンバーBS",main:{tec:100,pwr:8,shl:740,rng:330,spd:280,itv:1000},tunable:{mwp:1},type:"c",size:"S",cost:135,hp:20,str:-1,tec:3,fly:2,tgh:1}
 
 {id:33,name:"バタフレアBS",type:"a",cost:100,hp:25,str:-1,tec:2,wlk:1,fly:3,sub:{tec:100,pwr:26,rng:120,spd:10,itv:1000},tunable:{pwp:1}}
 
