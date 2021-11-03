@@ -284,6 +284,7 @@
 {id:71,name:"ドミクラウンHD2",cost:40,hp:25,tec:1,wlk:2,tgh:2}
 
 {id:7107,name:"ドミクラウンHD4",sub:{str:100,pwr:0,shl:5,rng:0,spd:0,itv:3000},cost:70,hp:25,str:2,tec:1,fly:-1,tgh:3}
+{id:341,name:"ドライブリッツHD",size:"M",cost:30,hp:15,tec:2,wlk:2,fly:-1,tgh:1}
 
 
 {id:236,name:"ドラゴネイルHD",cost:40,hp:25,str:2,fly:1,tgh:2}
