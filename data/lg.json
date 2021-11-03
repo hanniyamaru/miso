@@ -249,6 +249,7 @@
 {id:11021,name:"ナイトギアPF LG",main:{tec:100,pwr:10,shl:660,rng:275,spd:270,itv:300},sub:{tec:100,pwr:28,shl:30,rng:120,spd:220,itv:500},tunable:{mwp:0,pwp:0},type:"a",size:"M",cost:195,hp:25,str:-1,tec:1,wlk:3,fly:2,tgh:1,comment:["ブラストマニューバーFScost150複合","武器チューン不可"]}
 
 
+{id:3951103,name:"ハードボンバーLG",cost:45,hp:25,str:-1,tec:1,wlk:3,fly:1,tgh:2}
 
 {id:102,name:"ハイガクゥーンLG",type:"lacs",size:"M",cost:45,hp:25,str:-1,tec:1,wlk:3,fly:2,tgh:1}
 
