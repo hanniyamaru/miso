@@ -315,7 +315,7 @@
 
 {id:17,name:"ハイプリストルAM",cost:35,hp:20,tec:2,wlk:1,fly:1,tgh:1}
 {id:526,name:"ハイプリストルAM2",sub:{str:100,pwr:0,shl:230,rng:0,spd:0,itv:800},tunable:{pwp:0,mwp:0},type:"s",size:"M",cost:135,hp:20,wlk:2,fly:1,tgh:2,joint:{wp:0}}
-{id:171103,name:"ハイプリストルGAM",main:{shl:220,rng:300,spd:300,itv:800},cost:85,hp:20,str:2,tec:2,tgh:1,type:"s",comment:"回復量不明"}
+{id:171103,name:"ハイプリストルGAM",main:{shl:220,rng:300,spd:300,itv:800},tunable:{mwp:1},cost:85,hp:20,str:2,tec:2,tgh:1,type:"s",comment:"回復量不明"}
 
 {id:54,name:"バグジーケットAM",cost:40,hp:25,str:1,tec:2,wlk:2,fly:-1,tgh:1}
 {id:55,name:"バグジーケットAM2",type:"s",cost:95,hp:25,str:-1,tec:2,wlk:1,tgh:3,sub:{pwr:21,rng:100,spd:10,itv:500}}
