@@ -444,6 +444,7 @@
 {id:82,name:"ドラゴネイルLG",cost:45,hp:25,str:2,wlk:3,fly:-1,tgh:2}
 
 {id:290,name:"ドラッケンLG",cost:45,hp:25,str:2,wlk:3,tgh:1}
+{id:611103,name:"トランソニックLG",cost:45,hp:25,str:-1,tec:1,wlk:2,fly:2,tgh:2}
 
 {id:11023,name:"ナイトギアHF LG",type:"c",size:"L",cost:50,hp:45,str:1,wlk:2,fly:1,tgh:2}
 
