@@ -423,8 +423,8 @@
 {id:148,name:"ギャランバルドAM4",main:{shl:50,spd:10,itv:1000},sub:{str:100,pwr:32,shl:40,rng:100,spd:300,itv:2000},tunable:{mwp:1,pwp:1},type:"l",size:"L",cost:200,hp:25,str:4,tec:-1,tgh:2,joint:{wp:0}}
 
 {id:98,name:"クシュルブAM",sub:{str:100,pwr:33,rng:35,spd:43,itv:2000},tunable:{pwp:1},type:"l",cost:90,hp:20,str:3,wlk:1,fly:2,tgh:-1}
-{id:150,name:"クシュルブAM2",main:{str:100,pwr:5,shl:60,rng:200,spd:500,itv:300},sub:{pwr:26,shl:0,rng:70,spd:85,itv:1000},tunable:{pwp:1},type:"l",size:"L",cost:85,hp:20,str:4,tec:-1,wlk:1,tgh:1,comment:["AM@cost+10複合","MAINチューン不可"]}
-{id:1501102,name:"クシュルブAM2（コンバージョン無し）",sub:{pwr:26,shl:0,rng:70,spd:85,itv:1000},tunable:{pwp:1},type:"l",size:"L",cost:75,hp:20,str:4,tec:-1,wlk:1,tgh:1}
+{id:150,name:"クシュルブAM2",main:{str:100,pwr:5,shl:60,rng:200,spd:500,itv:300},sub:{str:100,pwr:26,shl:0,rng:70,spd:85,itv:1000},tunable:{pwp:1},type:"l",size:"L",cost:85,hp:20,str:4,tec:-1,wlk:1,tgh:1,comment:["AM@cost+10複合","MAINチューン不可"]}
+{id:1501102,name:"クシュルブAM2（コンバージョン無し）",sub:{str:100,pwr:26,shl:0,rng:70,spd:85,itv:1000},tunable:{pwp:1},type:"l",size:"L",cost:75,hp:20,str:4,tec:-1,wlk:1,tgh:1}
 
 {id:116,name:"グリストAM2",main:{pwr:7,shl:510,rng:275,spd:350,itv:900},tunable:{mwp:1},type:"a",cost:85,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1}
 {id:168,name:"クルージスAM",main:{tec:100,pwr:16,shl:540,rng:275,spd:320,itv:600},tunable:{mwp:1},type:"a",size:"L",cost:105,hp:20,tec:3,wlk:-1,fly:2,tgh:1,joint:{wp:0}}
