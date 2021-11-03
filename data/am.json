@@ -334,7 +334,8 @@
 
 {id:154,name:"ビクトリーAM",type:"lacs",size:"M",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1}
 {id:72,name:"ビャッコウAM",sub:{str:100,pwr:32,rng:70,spd:85,itv:500},auraStat:{sub:{str:100,pwr:32,rng:88,spd:106,itv:800},str:3,tec:-1,wlk:1,fly:1,tgh:1},type:"l",cost:140,hp:25,str:3,tec:-1,wlk:1,fly:1,tgh:1,comment:"AURA機構、シールド無視攻撃",tunable:{pwp:1}}
-{id:87,name:"ビャッコウAM2",auraStat:{main:{str:100,pwr:20,shl:50,rng:225,spd:480,itv:500},sub:{str:100,pwr:32,rng:77,spd:94,itv:500},str:3,tec:-1,wlk:2,fly:1},type:"l",cost:120,hp:25,str:3,tec:-1,wlk:2,fly:1,comment:"AURA機構",tunable:{pwp:1,mwp:1},main:{str:100,pwr:18,shl:480,rng:225,spd:400,itv:400}}
+{id:87,name:"ビャッコウAM2",auraStat:{main:{str:100,pwr:20,shl:50,rng:225,spd:480,itv:500},sub:{str:100,pwr:32,rng:77,spd:94,itv:500},str:3,tec:-1,wlk:2,fly:1},type:"l",cost:120,hp:25,str:3,tec:-1,wlk:2,fly:1,comment:"AURA機構",joint:{wp:0},tunable:{pwp:1,mwp:1},main:{str:100,pwr:18,shl:480,rng:225,spd:400,itv:400}}
+
 {id:22,name:"フィザリバンAM",cost:35,hp:20,str:2,wlk:1,tgh:2}
 
 
