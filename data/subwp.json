@@ -26,7 +26,7 @@
 
 {id:22,name:"メタルスレイヤー",type:"l",size:"M",cost:120,sub:{str:100,pwr:32,rng:77,spd:94,itv:500}}
 {id:24,name:"ドゥームスレイヤー",type:"l",size:"L",cost:150,sub:{str:100,pwr:34,rng:84,spd:102,itv:500}}
-{id:29,name:"ライトニングエッジ",sub:{pwr:32,rng:70,spd:85,itv:500},auraStat:{sub:{pwr:34,rng:77,spd:93,itv:500}},type:"l",size:"M",cost:100}
+{id:29,name:"ライトニングエッジ",sub:{str:100,pwr:32,rng:70,spd:85,itv:500},auraStat:{sub:{pwr:34,rng:77,spd:93,itv:500}},type:"l",size:"M",cost:100}
 {id:23,name:"影打・桜雷切",size:"S",cost:100,sub:{str:100,pwr:30,rng:81,spd:98,itv:500}}
 
 {id:1001,name:"リッパーズサイス",type:"la",size:"M",cost:160,sub:{str:100,pwr:32,rng:70,spd:85,itv:1000},tunable:{pwp:1}}
