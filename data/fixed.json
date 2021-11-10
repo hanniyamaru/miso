@@ -17,7 +17,7 @@
 {id:1,name:"セラフクリムローゼBS2",sub:{pwr:-1,shl:[1,2,3],rng:-9,spd:-9,itv:-1},slot:0}
 {id:2,name:"セラフクリムローゼBS3",sub:{pwr:-1,shl:[1,2,3],rng:-9,spd:-9,itv:-1}}
 {id:3,name:"デモンBS",cost:35,hp:20,str:1,tec:1,fly:3}
-
+{id:4,name:"はんなBD@"}
 
 
 {group:"AM",prefixID:"A",nextID:14}
