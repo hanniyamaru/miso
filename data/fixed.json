@@ -57,7 +57,7 @@
 
 {id:60,name:"プチリーゼガトリング",main:{pwr:2,shl:600,rng:300,spd:480,itv:200},cost:20,slot:0,tunable:{mwp:1},type:"s",size:"S"}
 
-{id:61,name:"プチリーゼ・カノーネ",main:{pwr:1,shl:1,rng:300,spd:300,itv:1000},sub:{pwr:1,shl:0,rng:10,spd:50,itv:1000},type:"s",size:"S",cost:0}
+{id:61,name:"プチリーゼ・カノーネ",main:{pwr:1,shl:1,rng:300,spd:300,itv:1000},sub:{pwr:1,shl:0,rng:10,spd:50,itv:1000},type:"s",size:"S",cost:0,tunable:{mwp:1}}
 
 
 
