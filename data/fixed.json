@@ -53,7 +53,9 @@
 {id:56,name:"プチシュピッツ・アイゼン",main:{pwr:7,shl:30,rng:150,spd:500,itv:1000,str:100},sub:{str:100,pwr:27,rng:70,spd:85,itv:1000},type:"s",size:"S",cost:40,comment:"-",tunable:{mwp:1,pwp:1}}
 {id:57,name:"プチハンドゲヴィア",main:{pwr:4,shl:270,rng:150,spd:320,itv:300,str:100},type:"s",size:"S",cost:20,comment:"-",tunable:{mwp:1}}
 {id:58,name:"プチツヴァイ・カノーネ",sub:{pwr:5,shl:0,rng:100,spd:200,itv:1000},type:"s",size:"S",cost:0,comment:"-",tunable:{pwp:1}}
-
+{id:59,name:"プチリーゼランチャー",main:{pwr:2,shl:200,rng:300,spd:340,itv:1000},joint:{wp:1},cost:10,tunable:{mwp:1},type:"c",size:"S"}
+{id:60,name:"プチリーゼガトリング",main:{pwr:2,shl:600,rng:300,spd:480,itv:200},cost:20,slot:0,tunable:{mwp:1},type:"s",size:"S"}
+{id:61,name:"プチリーゼ・カノーネ",main:{pwr:1,shl:1,rng:300,spd:300,itv:1000},sub:{pwr:1,shl:0,rng:10,spd:50,itv:1000},type:"s",size:"S",cost:0}
 
 
 
