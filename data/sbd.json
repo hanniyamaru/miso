@@ -92,8 +92,7 @@
 
 {id:1110,name:"はんなBD",cost:470,capa:670,hp:225,str:12,tec:5,wlk:12,fly:4,tgh:9,main:{pwr:0,shl:[80],rng:300,spd:[300],itv:[500]},sub:{shl:[20],rng:43,spd:63,itv:[1000]},wbid:0,cartridge:{hpup:25,lv1:"95*6@25|17@20|18@20|19@20|20@20|22@30|29@10|21@20|25@25|23@25|16@20|15@30|13@20|32@30|31@40"},fixedParts:{hd:{name:"はんなHD",cost:35,hp:20,str:2,wlk:1,tgh:2},wp:["W57","W56","W58"],lg:{name:"はんなLG",cost:40,hp:20,str:2,wlk:3},bs:["B3","B4"]},joint:{am:0,bs:2,wp:4},comment:["ハイショ陣","回復量41"]}
 
-{id:1111,name:"りーぜるBD",main:{pwr:0,shl:[80],rng:300,spd:[300],itv:[500]},sub:{shl:[20],rng:43,spd:63,itv:[1000]},wbid:0,type:"s",size:"S",cost:470,capa:900,hp:225,str:4,tec:14,wlk:8,fly:7,tgh:9,fixedParts:{hd:{name:"りーぜるHD",cost:35,hp:20,tec:1,wlk:2,fly:1,tgh:1},lg:{name:"りーぜるLG",cost:40,hp:20,tec:1,wlk:3,tgh:1},bs:["B3","B5"],wp:["W59","W60","W59","W60","W61"]},cartridge:{hpup:25,lv1:"95*6@25|17@20|18@20|19@20|20@20|22@30|29@10|21@20|25@25|23@25|30@20|26@20|13@20|32@30|31@40"},joint:{am:0,bs:2,wp:6},comment:["ロングレンジ陣","回復量41"]}
-
+{id:1111,name:"りーぜるBD",main:{pwr:0,shl:[80],rng:300,spd:[300],itv:[500]},sub:{shl:[20],rng:43,spd:63,itv:[1000]},wbid:0,type:"s",size:"S",cost:470,capa:670,hp:225,str:4,tec:14,wlk:8,fly:7,tgh:9,fixedParts:{hd:{name:"りーぜるHD",cost:35,hp:20,tec:1,wlk:2,fly:1,tgh:1},lg:{name:"りーぜるLG",cost:40,hp:20,tec:1,wlk:3,tgh:1},bs:["B3","B5"],wp:["W59","W60","W59","W60","W61"]},cartridge:{hpup:25,lv1:"95*6@25|17@20|18@20|19@20|20@20|22@30|29@10|21@20|25@25|23@25|30@20|26@20|13@20|32@30|31@40"},joint:{am:0,bs:2,wp:6},comment:["ロングレンジ陣","回復量41"]}
 
 
 
