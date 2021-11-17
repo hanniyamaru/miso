@@ -630,7 +630,7 @@
 {id:1,name:"マイティバインAM3",type:"l",cost:155,hp:25,str:4,wlk:2,fly:-1,main:{str:100,pwr:9,shl:780,rng:150,spd:400,itv:500},sub:{str:100,pwr:38,shl:30,rng:70,spd:85,itv:500},tunable:{mwp:1,pwp:1},joint:{wp:0},comment:"-"}
 {id:16,name:"マシンドレットAM",sub:{str:100,pwr:31,rng:120,spd:250,itv:1000},tunable:{pwp:1},joint:{wp:0},type:"l",cost:150,hp:25,str:3,tec:-1,wlk:1,fly:-1,tgh:3}
 {id:222,name:"ランサーロットAM2",type:"l",cost:90,hp:25,wlk:2,fly:1,tgh:2,sub:{str:100,rng:100,spd:50,itv:500},tunable:{pwp:1},joint:{wp:0},comment:["無印、盾","盾耐久190","2021/11/2"]}
-{id:6,name:"レッドスクィラAM2",type:"l",cost:170,hp:25,str:4,tec:-1,tgh:2,sub:{str:100,pwr:34,rng:75,spd:150,itv:2000},tunable:{pwp:1},joint:{wp:0},wlk:1}
+{id:6,name:"レッドスクィラAM2",type:"l",cost:170,hp:25,str:4,tec:-1,tgh:2,sub:{str:100,pwr:34,rng:75,spd:150,itv:2000},tunable:{pwp:1},joint:{wp:0}}
 
 
 
