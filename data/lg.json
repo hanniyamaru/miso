@@ -491,6 +491,9 @@
 
 
 {id:17,name:"ランサーロットLG",cost:50,hp:50,str:1,tec:1,wlk:4}
+{id:22,name:"レッドスクィラLG",cost:45,hp:50,str:1,tec:-1,wlk:3,fly:1,tgh:2}
+
+
 {id:60,name:"ロトンレムレスLG",cost:45,hp:25,str:2,tec:2,wlk:2,fly:-1}
 
 
