@@ -375,7 +375,7 @@
 {id:111,name:"ツヴァイ・カノーネ",sub:{str:100,pwr:10,shl:30,rng:150,spd:250,itv:1000},type:"l",size:"S",cost:30,slot:0,comment:"ハンナ・フリッツ専用コンバージョンパーツ"}
 
 {group:"ノーラ・シュナイトコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
-{id:1117,name:"シュテーレン・ゲヴェーア",main:{tec:100,pwr:17,shl:540,rng:250,spd:400,itv:340},type:"l",size:"S",comment:["-","-"]}
+{id:1117,name:"シュテーレン・ゲヴェーア",main:{tec:100,pwr:17,shl:540,rng:250,spd:400,itv:340},type:"l",size:"S",cost:70,comment:["-","-"]}
 {id:142,name:"ノーラ・シュナイトBD@",tunable:{mwp:1},slot:0,type:"l",size:"S",cost:30,comment:"ノーラ・シュナイト専用コンバージョンパーツ",main:{pwr:5,shl:90,rng:200,spd:300,itv:500}}
 
 
