@@ -15,7 +15,7 @@
 {id:6,name:"ダブルマグ",type:"l",size:"M",cost:140,main:{pwr:14,shl:440,rng:225,spd:480,itv:460}}
 {id:7,name:"カスタムマグ",type:"lc",size:"M",cost:150,main:{pwr:27,shl:400,rng:225,spd:440,itv:460}}
 {id:8,name:"シングルガン",type:"lcs",size:"M",cost:35,main:{pwr:14,shl:260,rng:250,spd:570,itv:400}}
-{id:9,name:"アクセルガン",type:"lcs",size:"M",cost:100,main:{pwr:20,shl:400,rng:250,spd:570,itv:460}}
+{id:9,name:"アクセルガン",type:"lcs",size:"M",cost:100,main:{pwr:20,shl:400,rng:250,spd:570,itv:400}}
 {id:10,name:"ピースメーカー",type:"l",size:"M",cost:130,main:{pwr:16,shl:600,rng:250,spd:570,itv:280}}
 {id:11,name:"ミリタリーガン",size:"S",cost:60,main:{pwr:12,shl:300,rng:225,spd:400,itv:240}}
 {id:12,name:"ドラムガン",type:"l",size:"M",cost:90,main:{pwr:15,shl:260,rng:225,spd:400,itv:240}}
@@ -25,7 +25,7 @@
 {id:67,name:"エスティスマグ",main:{pwr:23,shl:380,rng:225,spd:440,itv:500},size:"M",type:"l",cost:180}
 {id:66,name:"ピアースガン",main:{pwr:19,shl:640,rng:250,spd:400,itv:340},type:"l",cost:120,size:"M"}
 {id:23,name:"LLバルクマグ",type:"l",size:"LL",cost:200,main:{pwr:32,shl:440,rng:225,spd:440,itv:500}}
-{id:57,name:"LLバルクアクセル",main:{pwr:29,shl:360,rng:250,spd:570,itv:500,tec:100},size:"LL",type:"lc",cost:180}
+{id:57,name:"LLバルクアクセル",main:{pwr:29,shl:360,rng:250,spd:570,itv:500,tec:100},size:"LL",type:"l",cost:180}
 {id:110,name:"セイバーライフル",main:{tec:100,pwr:25,shl:280,rng:250,spd:440,itv:640},tunable:{mwp:1},type:"l",size:"M",cost:170,comment:"ゼロセイバーNEXT初期装備"}
 {id:91,name:"eアサルトピアースガン",main:{tec:100,pwr:20,shl:140,rng:280,spd:360,itv:300},type:"l",size:"M",cost:140,tec:1,tgh:1}
 {id:17,name:"ビートルガン",type:"l",size:"M",cost:100,main:{pwr:19,shl:330,rng:225,spd:440,itv:500}}
@@ -35,8 +35,8 @@
 {id:503,name:"ブレイドガン",main:{tec:100,pwr:10,shl:460,rng:250,spd:320,itv:300},tunable:{mwp:1},type:"l",size:"M",cost:150}
 {id:108,name:"シールドガン",main:{tec:100,pwr:17,shl:430,rng:225,spd:400,itv:340},tunable:{mwp:1},type:"l",size:"M",cost:180}
 
-{id:504,name:"ベイオネット",size:"S",cost:130,main:{pwr:15,shl:360,rng:225,spd:440,itv:340},sub:{tec:100,pwr:32,rng:70,spd:85,itv:1000},tunable:{pwp:1}}
-{id:505,name:"M-9ベイオネット",size:"M",cost:145,main:{pwr:12,shl:600,rng:250,spd:480,itv:140},sub:{tec:100,pwr:32,rng:70,spd:85,itv:1000},tunable:{pwp:1}}
+{id:504,name:"ベイオネット",size:"S",cost:130,main:{pwr:15,shl:360,rng:225,spd:440,itv:340},sub:{tec:100,pwr:32,rng:70,spd:85,itv:1000},tunable:{mwp:1,pwp:1}}
+{id:505,name:"M-9ベイオネット",size:"M",cost:145,main:{pwr:12,shl:600,rng:250,spd:480,itv:140},sub:{tec:100,pwr:32,rng:70,spd:85,itv:1000},tunable:{mwp:1,pwp:1}}
 
 
 {group:"ビームガン系",prefixID:"BG",commonStat:{tunable:{mwp:1}},nextID:60}
@@ -51,7 +51,7 @@
 {id:31,name:"リミットプラズマガン",type:"a",size:"M",cost:110,main:{pwr:19,shl:460,rng:275,spd:440,itv:380}}
 {id:32,name:"プラズマガン",type:"a",size:"M",cost:170,main:{pwr:27,shl:350,rng:275,spd:440,itv:500}}
 
-{id:72,name:"ガンマライトニングガン",main:{pwr:34,shl:210,rng:275,spd:440,itv:780},type:"a",size:"M",cost:130}
+{id:72,name:"ガンマライトニングガン",main:{pwr:34,shl:240,rng:275,spd:440,itv:780},type:"a",size:"M",cost:130}
 {id:33,name:"カーブガン",type:"as",size:"S",cost:50,main:{pwr:8,shl:600,rng:275,spd:480,itv:300}}
 {id:34,name:"スイングガン",type:"a",size:"M",cost:90,main:{pwr:9,shl:760,rng:275,spd:480,itv:260}}
 
@@ -77,7 +77,7 @@
 {id:17,name:"デルタバルカン",type:"l",size:"LL",cost:180,main:{pwr:10,shl:1670,rng:90,spd:400,itv:200}}
 {id:24,name:"コンパクトガトリング",type:"lc",size:"M",cost:110,main:{pwr:10,shl:1080,rng:225,spd:400,itv:140}}
 {id:18,name:"バスターガトリング",type:"l",size:"L",cost:170,main:{pwr:13,shl:1100,rng:225,spd:400,itv:140}}
-{id:19,name:"ヒュージガトリング",type:"l",size:"LL",cost:180,main:{pwr:11,shl:1560,rng:250,spd:440,itv:140}}
+{id:19,name:"ヒュージガトリング",type:"l",size:"LL",cost:180,main:{pwr:11,shl:1560,rng:250,spd:400,itv:140}}
 {id:22,name:"eダブルガトリング",type:"lc",size:"LL",cost:210,main:{pwr:5,shl:2840,rng:225,spd:380,itv:140}}
 {id:26,name:"LLバルクガトリング",main:{pwr:15,shl:1200,rng:225,spd:400,itv:140},type:"l",size:"LL",cost:220}
 {id:8,name:"ビームマシンガン",type:"as",size:"S",cost:90,main:{pwr:9,shl:580,rng:200,spd:480,itv:140}}
@@ -95,11 +95,11 @@
 {id:4,name:"イージーライフル",type:"lcs",size:"S",cost:70,main:{pwr:12,shl:250,rng:330,spd:440,itv:660}}
 {id:3,name:"ライフル",type:"lcs",size:"M",cost:100,main:{pwr:17,shl:250,rng:330,spd:440,itv:700}}
 {id:5,name:"アサルトライフル",type:"lc",size:"M",cost:130,main:{pwr:14,shl:630,rng:275,spd:480,itv:140}}
-{id:8,name:"レイドライフル",type:"lc",size:"M",cost:160,main:{pwr:16,shl:660,rng:250,spd:480,itv:140}}
+{id:8,name:"レイドライフル",type:"lc",size:"M",cost:160,main:{pwr:16,shl:660,rng:275,spd:480,itv:140}}
 {id:7,name:"スカウトライフル",type:"lc",size:"M",cost:140,main:{pwr:20,shl:470,rng:275,spd:480,itv:340}}
-{id:10,name:"ペイロードライフル",type:"c",size:"L",cost:200,main:{pwr:42,shl:150,rng:350,spd:520,itv:1000}}
+{id:10,name:"ペイロードライフル",type:"c",size:"LL",cost:200,main:{pwr:42,shl:150,rng:350,spd:520,itv:1000}}
 {id:32,name:"ストライカーライフル",main:{pwr:8,shl:820,rng:250,spd:400,itv:140},cost:155,type:"l",size:"M"}
-{id:16,name:"ビームライフル",type:"as",size:"M",cost:70,main:{pwr:24,shl:140,rng:275,spd:520,itv:800}}
+{id:16,name:"ビームライフル",type:"as",size:"M",cost:70,main:{pwr:25,shl:170,rng:275,spd:520,itv:800}}
 {id:18,name:"オートビームライフル",type:"a",size:"M",cost:120,main:{pwr:14,shl:450,rng:275,spd:520,itv:200}}
 {id:17,name:"ネガトロンライフル",type:"a",size:"L",cost:180,main:{pwr:37,shl:190,rng:275,spd:520,itv:900}}
 {id:11020,name:"マニューバーライフル",type:"a",size:"M",cost:60,main:{pwr:24,shl:180,rng:275,spd:480,itv:660}}
@@ -130,7 +130,7 @@
 
 {id:390,name:"Sレールガン",main:{pwr:42,shl:90,rng:250,spd:520,itv:500},type:"ls",size:"M",cost:110}
 {id:391,name:"Sブラストレールガン",main:{pwr:31,shl:210,rng:250,spd:480,itv:600},type:"l",size:"M",cost:160}
-{id:147,name:"Bブラストレールガン",main:{tec:100,pwr:20,shl:320,rng:275,spd:480,itv:340},cost:170,slot:3,type:"a",size:"M",comment:"-"}
+{id:147,name:"Bブラストレールガン",main:{tec:100,pwr:20,shl:320,rng:275,spd:480,itv:340},cost:170,type:"a",size:"M",comment:"-"}
 {id:20,name:"レールガン",type:"c",size:"M",cost:110,main:{pwr:34,shl:150,rng:330,spd:520,itv:500}}
 {id:21,name:"クルエルレールガン",type:"c",size:"M",cost:140,main:{pwr:20,shl:260,rng:330,spd:520,itv:300}}
 {id:24,name:"ブラストレールガン",main:{pwr:36,tec:100,shl:140,rng:330,spd:520,itv:500},type:"c",size:"M",cost:140}
@@ -149,7 +149,7 @@
 {id:5,name:"バズーカ",type:"c",size:"L",cost:100,main:{pwr:26,shl:290,rng:330,spd:400,itv:600}}
 {id:7,name:"ダブルバズーカ",type:"c",size:"L",cost:100,main:{pwr:14,shl:320,rng:330,spd:400,itv:600}}
 {id:8,name:"ミドルバズーカ",type:"c",size:"L",cost:120,main:{pwr:32,shl:250,rng:330,spd:400,itv:700}}
-{id:10,name:"ラージバズーカ",type:"cs",size:"LL",cost:160,main:{pwr:43,shl:220,rng:330,spd:400,itv:900}}
+{id:10,name:"ラージバズーカ",type:"cs",size:"LL",cost:160,main:{pwr:43,shl:220,rng:330,spd:360,itv:900}}
 {id:11,name:"タイタンバズーカ",type:"c",size:"LL",cost:200,main:{pwr:52,shl:200,rng:300,spd:360,itv:1000}}
 {id:70,name:"ミニブラストバズーカ",main:{pwr:21,shl:280,rng:330,spd:400,itv:640},type:"c",size:"S",cost:60}
 {id:6,name:"ブラストバズーカ",type:"c",size:"M",cost:105,main:{pwr:29,shl:260,rng:330,spd:360,itv:700}}
@@ -194,7 +194,7 @@
 {id:581,name:"マイクロミサイルガン",main:{pwr:8,shl:130,rng:330,spd:290,itv:800},type:"c",size:"SS",cost:80}
 {id:58,name:"バーストミサイルガン",main:{pwr:10,shl:180,rng:330,spd:290,itv:900},type:"c",size:"M",cost:130}
 {id:49,name:"スクラムランチャー",main:{pwr:24,shl:200,rng:330,spd:290,itv:800},type:"c",size:"L",cost:140}
-{id:81,name:"ミサイルクラスター",main:{tec:100,pwr:8,shl:210,rng:330,spd:290,itv:1200},tunable:{mwp:1,pwp:0},type:"c",size:"M",cost:160}
+{id:81,name:"ミサイルクラスター",main:{tec:100,pwr:8,shl:210,rng:330,spd:290,itv:1200},tunable:{mwp:1},type:"c",size:"M",cost:160}
 {id:585,name:"ブラストミサイルガン",main:{pwr:20,shl:280,rng:330,spd:290,itv:800},type:"c",size:"M",cost:160}
 {id:33,name:"セプタプルランチャー",main:{pwr:6,shl:1260,rng:330,spd:250,itv:900},cost:170,size:"LL",type:"c"}
 
@@ -226,7 +226,7 @@
 {group:"ショットガン系",prefixID:"ST",commonStat:{tunable:{mwp:1}},nextID:14}
 {id:18,name:"マグネショットガン",main:{pwr:5,shl:1190,rng:330,spd:290,itv:900},size:"M",type:"c",cost:140,wlk:1}
 
-{id:1,name:"ショットガン",size:"M",cost:50,main:{pwr:6,shl:1090,rng:130,spd:260,itv:500},auraStat:{comment:["距離減衰・実弾系ショットガン・カスタムショットガン","武器表記威力が命中距離によって割合で減少し、その後にTEC計算される","威力50%~100%"]}}
+{id:1,name:"ショットガン",size:"M",cost:50,main:{pwr:6,shl:1090,rng:150,spd:400,itv:560},auraStat:{comment:["距離減衰・実弾系ショットガン・カスタムショットガン","武器表記威力が命中距離によって割合で減少し、その後にTEC計算される","威力50%~100%"]}}
 {id:2,name:"カスタムショットガン",size:"L",cost:70,main:{pwr:6,shl:1090,rng:150,spd:400,itv:560}}
 {id:3,name:"スイーパーショットガン",type:"lc",size:"L",cost:90,main:{pwr:9,shl:840,rng:150,spd:400,itv:720}}
 {id:21,name:"アドバンスショットガン",main:{tec:100,pwr:7,shl:720,rng:225,spd:400,itv:500},tunable:{mwp:1},type:"l",size:"M",cost:160}
