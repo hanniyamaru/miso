@@ -618,8 +618,8 @@
 {id:3,name:"ソア・ラAM2",type:"a",cost:190,hp:25,str:-1,tec:3,fly:1,tgh:2,main:{pwr:33,shl:190,rng:275,spd:440,itv:600},tunable:{mwp:1},joint:{wp:0}}
 
 {id:4,name:"ダイダリオンAM2",type:"l",cost:205,hp:25,str:4,tec:-1,fly:-1,tgh:3,sub:{str:100,pwr:34,rng:70,spd:85,itv:1000},tunable:{pwp:1},joint:{wp:0}}
-{id:1201,name:"トルクマイティバインAM",type:"l",size:"LL",cost:155,hp:25,str:2,tec:-1,wlk:2,tgh:2,main:{str:100,pwr:20,shl:30,rng:200,spd:500,itv:500},sub:{str:100,pwr:36,shl:30,rng:70,spd:85,itv:2000},tunable:{mwp:1,pwp:1},joint:{wp:0},comment:["シールド耐久値50","2021/12/1"]}
-{id:1202,name:"トルクマイティバインAM2",sub:{str:100,pwr:34,shl:30,rng:80,spd:300,itv:1000},tunable:{pwp:1},type:"l",size:"LL",cost:115,hp:25,str:2,tec:-1,wlk:2,tgh:2,comment:["シールド耐久値50","2021/12/1"]}
+{id:1201,name:"トルク・マイティバインAM",type:"l",size:"LL",cost:155,hp:25,str:2,tec:-1,wlk:2,tgh:2,main:{str:100,pwr:20,shl:30,rng:200,spd:500,itv:500},sub:{str:100,pwr:36,shl:30,rng:70,spd:85,itv:2000},tunable:{mwp:1,pwp:1},joint:{wp:0},comment:["シールド耐久値50","2021/12/1"]}
+{id:1202,name:"トルク・マイティバインAM2",sub:{str:100,pwr:34,shl:30,rng:80,spd:300,itv:1000},tunable:{pwp:1},type:"l",size:"LL",cost:115,hp:25,str:2,tec:-1,wlk:2,tgh:2,comment:["シールド耐久値50","2021/12/1"]}
 {id:15,name:"ビッグマンテスAM2",type:"a",cost:135,hp:20,str:-1,tec:3,tgh:3,main:{pwr:7,shl:1000,rng:275,spd:350,itv:900},tunable:{mwp:1},joint:{wp:0}}
 {id:11,name:"ブリガバロンAM",cost:40,hp:25,str:2,tec:-1,wlk:1,tgh:3}
 {id:12,name:"ブリガバロンLAM2",cost:40,hp:25,str:2,tec:-1,wlk:1,tgh:3,fixedParts:{wp:{name:"ブリガントシールド",sub:{shl:10,rng:0,spd:0,itv:1000},cost:30,tunable:{pwp:0}}},type:"l",comment:"ブリガバロン専用コンバージョンパーツ"}
