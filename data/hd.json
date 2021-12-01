@@ -476,7 +476,7 @@
 {id:143,name:"デストラクトMAXHD",cost:40,hp:25,str:-1,tec:2,fly:1,tgh:3}
 
 {id:290,name:"ドラッケンHD",cost:35,hp:20,str:2,tec:-1,wlk:1,fly:1,tgh:2}
-{id:1201,name:"トルク・マイティバインHD",cost:70,hp:25,str:2,tec:1,wlk:1,fly:1,main:{pwr:0,shl:50,rng:0,spd:10,itv:1000},tunable:{mwp:1},comment:"シールド効果"}
+{id:1201,name:"トルク・マイティバインHD",cost:70,hp:25,str:2,tec:1,wlk:1,fly:1,main:{pwr:0,shl:50,rng:0,spd:10,itv:1000},type:"l",tunable:{mwp:1},comment:"シールド効果"}
 
 
 {id:11022,name:"ナイトギアHF HD",type:"c",size:"L",cost:40,hp:25,tec:2,wlk:1,tgh:2}
