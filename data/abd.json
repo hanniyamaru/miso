@@ -152,7 +152,7 @@
 {id:17,name:"セイロンBD",cost:445,capa:870,hp:255,str:5,tec:14,wlk:7,fly:14,tgh:8,wbid:17,cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|19@15|23@25|22@30|28@30|52@20|30@20|21@20|26@20|13@30|32@50|31@40"},comment:"AURAシステムを搭載。",auraSystem:1}
 {id:35,name:"セバーレイスタッグBD",cost:490,capa:945,hp:270,str:4,tec:16,wlk:7,fly:14,tgh:10,wbid:1,cartridge:{hpup:10,lv1:"75*6@15|7@30|9@15|8@20|19@15|21@20|23@25|22@30|52@20|15@20|30@20|13@30|32@50|31@40|26@20"}}
 
-{id:1203,name:"ゼファーBD",cost:445,capa:870,hp:255,str:6,tec:16,wlk:7,fly:14,tgh:7,wbid:0,cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|19@15|23@25|22@30|21@20|52@20|15@20|25@25|13@30|32@50|31@40"},fixedParts:{am:{name:"ゼファーAM2",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,size:"M",type:"a",comment:"部位破壊不能",fixedParts:{wp:{name:"ハイブリッドシールド",cost:50,sub:{rng:10,spd:0,itv:1000}}}}}}
+{id:1203,name:"ゼファーBD",cost:445,capa:870,hp:255,str:6,tec:14,wlk:7,fly:14,tgh:7,wbid:0,cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|19@15|23@25|22@30|21@20|52@20|15@20|25@25|13@30|32@50|31@40"},fixedParts:{am:{name:"ゼファーAM2",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,size:"M",type:"a",comment:"部位破壊不能",fixedParts:{wp:{name:"ハイブリッドシールド",cost:50,sub:{rng:10,spd:0,itv:1000}}}}}}
 
 {id:8,name:"ソルジェッターBD",cost:405,capa:800,hp:245,str:8,tec:8,wlk:7,fly:15,tgh:7,cartridge:{hpup:18,lv1:"85*6@20|7@30|9@15|8@20|19@15|21@20|23@25|22@30|52@20|28@30|26@20|15@20|13@30|32@50|31@40"}}
 {id:42,name:"ソルフロストBD",main:{tec:100,pwr:1,shl:[90],rng:30,spd:[400],itv:[1000]},cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|18@30|19@15|52@20|21@20|23@25|26@20|22@30|15@20|13@30|32@50|31@40"},type:"a",size:"M",cost:475,capa:870,hp:255,str:6,tec:12,wlk:6,fly:13,tgh:11,wbid:1,comment:["-"]}
