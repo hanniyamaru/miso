@@ -224,6 +224,9 @@
 {id:47,name:"セイロンLG",auraStat:{sub:{pwr:30,rng:70,spd:85,itv:500,str:100},str:-1,tec:2,wlk:3,fly:2},str:-1,tec:2,wlk:3,fly:2,cost:95,hp:30,comment:"AURA機構"}
 
 {id:87,name:"セバーレイスタッグLG",cost:45,hp:25,tec:2,wlk:3,tgh:1}
+{id:1203,name:"ゼファーLG",cost:45,hp:25,str:-1,tec:1,wlk:3,fly:2,tgh:1}
+
+
 {id:26,name:"セラフクリムローゼαLG",type:"a",cost:135,hp:50,str:1,tec:2,wlk:3,fly:4,size:"M",type:"a",sub:{tec:100,pwr:22,shl:100,rng:275,spd:350,itv:1000},comment:"-",tunable:{pwp:0},builtin:{bs:1}}
 
 
