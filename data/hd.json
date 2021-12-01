@@ -252,6 +252,7 @@
 
 {id:105,name:"セイロンHD",type:"a",cost:80,hp:25,str:-1,tec:3,fly:2,tgh:1,main:{pwr:27,shl:140,rng:275,spd:440,itv:640},tunable:{mwp:1},comment:"AURA機構省略"}
 {id:226,name:"セバーレイスタッグHD",main:{pwr:6,shl:900,rng:275,spd:350,itv:1000},type:"a",cost:180,hp:25,str:-1,tec:3,fly:1,tgh:2,tunable:{mwp:1}}
+{id:1203,name:"ゼファーHD",main:{pwr:2,shl:1340,rng:275,spd:400,itv:200},tunable:{mwp:1},type:"a",cost:75,hp:20,tec:1,fly:2,tgh:2,comment:"ブーストゲージ回復効果"}
 
 {id:59,name:"ゼロファイターHD",cost:35,hp:20,tec:2,wlk:2,tgh:1}
 {id:137,name:"ゼロファイターNEXTHD",cost:40,hp:25,str:2,wlk:2,fly:1}
