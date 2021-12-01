@@ -492,7 +492,7 @@
 {id:73,name:"ドラゴネイルBS",type:"l",cost:40,hp:25,str:2,tec:1,wlk:1,fly:2,tgh:-1}
 
 {id:290,name:"ドラッケンBS",type:"l",cost:40,hp:25,str:1,tec:-1,fly:3,tgh:2}
-{id:1201,name:"トルクマイティバインBS",type:"l",cost:40,hp:25,str:1,fly:2,tgh:2}
+{id:1201,name:"トルク・マイティバインBS",type:"l",cost:40,hp:25,str:1,fly:2,tgh:2}
 
 
 
