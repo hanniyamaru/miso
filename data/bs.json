@@ -128,7 +128,7 @@
 
 
 {id:99,name:"ファルクラムBS",type:"a",cost:35,hp:20,tec:2,fly:3}
-
+{id:66,name:"フィアBS",type:"c",cost:40,hp:25,tec:1,wlk:2,fly:2}
 {id:1030,name:"フォースドライブBS",type:"l",size:"M",cost:40,hp:25,tec:-1,wlk:1,fly:3,tgh:2}
 
 {id:56,name:"フォンメイBS2",type:"a",cost:30,hp:15,wlk:1,fly:2,tgh:1}
