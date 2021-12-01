@@ -369,14 +369,20 @@
 {id:72,name:"ブラッドシューター",main:{pwr:14,shl:560,rng:275,spd:360,itv:300},tunable:{mwp:1},type:"la",size:"S",comment:"アムリムAM2専用コンバーションパーツ",cost:100}
 {id:1,name:"ラキアコフィン",type:"a",size:"S",slot:0,sub:{pwr:0,shl:0,rng:300,spd:0,itv:1000},comment:"アムリムLG専用コンバージョンパーツ"}
 
+{group:"ジゼル・ノワールコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
+{id:167,name:"スティグマシールド",main:{shl:50,spd:10,itv:1000},type:"l",size:"S",cost:20,comment:"ジゼル･ノワールAM専用コンバージョンパーツ",slot:0}
+{id:154,name:"セルメントノワール",sub:{pwr:32,rng:70,spd:85,itv:1000,str:100},tunable:{pwp:1},type:"l",size:"S",cost:190,comment:"ジゼル･ノワールAM2専用コンバージョンパーツ"}
+
+{group:"ノーラ・シュナイトコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
+{id:1117,name:"シュテーレン・ゲヴェーア",main:{tec:100,pwr:17,shl:540,rng:250,spd:400,itv:340},type:"l",size:"S",cost:70,comment:["-","-"]}
+{id:142,name:"ノーラ・シュナイトBD@",tunable:{mwp:1},slot:0,type:"l",size:"S",cost:30,comment:"ノーラ・シュナイト専用コンバージョンパーツ",main:{pwr:5,shl:90,rng:200,spd:300,itv:500}}
+
+
 {group:"ハンナ・フリッツ コンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:108,name:"シュピッツ・アイゼン",main:{pwr:20,shl:50,rng:200,spd:570,itv:500,str:100},sub:{str:100,pwr:34,rng:70,spd:85,itv:1000},type:"l",size:"S",cost:130,comment:"ハンナ・フリッツ専用コンバージョンパーツ",tunable:{mwp:1,pwp:1}}
 {id:107,name:"ハンドゲヴィア",main:{pwr:13,shl:540,rng:225,spd:400,itv:300,str:100},type:"l",size:"S",cost:60,comment:"ハンナ・フリッツ専用コンバージョンパーツ",tunable:{mwp:1}}
 {id:111,name:"ツヴァイ・カノーネ",sub:{str:100,pwr:10,shl:30,rng:150,spd:250,itv:1000},type:"l",size:"S",cost:30,slot:0,comment:"ハンナ・フリッツ専用コンバージョンパーツ"}
 
-{group:"ノーラ・シュナイトコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
-{id:1117,name:"シュテーレン・ゲヴェーア",main:{tec:100,pwr:17,shl:540,rng:250,spd:400,itv:340},type:"l",size:"S",cost:70,comment:["-","-"]}
-{id:142,name:"ノーラ・シュナイトBD@",tunable:{mwp:1},slot:0,type:"l",size:"S",cost:30,comment:"ノーラ・シュナイト専用コンバージョンパーツ",main:{pwr:5,shl:90,rng:200,spd:300,itv:500}}
 
 
 
