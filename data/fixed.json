@@ -40,7 +40,7 @@
 
 {id:2,name:"桃魂",size:"S",type:"l",cost:60,sub:{str:100,pwr:30,shl:0,rng:150,spd:300,itv:1000},tunable:{pwp:1}}
 
-{id:3,name:"桃魂＠",size:"S",type:"l",cost:45,slot:0,main:{shl:5,rng:300,spd:10,itv:1000}}
+{id:3,name:"桃魂＠",size:"S",type:"l",cost:45,slot:0,main:{shl:5,rng:300,spd:10,itv:1000},comment:["銭エフェクト1つあたり、HP50までのダメージを防ぎ、10回までの攻撃を防ぐように変更","銭エフェクトが発生している間、ソードアタック効果が発生するように変更。※ソードアタック：格闘属性のダメージが15%上昇"]}
 
 {id:41,name:"宝具・双機珠",main:{pwr:10,shl:880,rng:250,spd:400,itv:500,tec:100},sub:{pwr:34,rng:70,spd:85,itv:500,tec:100},tunable:{mwp:1,pwp:1},cost:140,comment:["-","-"]}
 {id:51,name:"月輪【新月】",type:"l",cost:20,slot:0,comment:"月讀ミコト専用コンバージョンパーツ"}
