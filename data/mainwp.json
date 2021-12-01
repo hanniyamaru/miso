@@ -371,7 +371,7 @@
 
 {group:"ジゼル・ノワールコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:167,name:"スティグマシールド",main:{shl:50,spd:10,itv:1000},type:"l",size:"S",cost:20,comment:"ジゼル･ノワールAM専用コンバージョンパーツ",slot:0}
-{id:154,name:"セルメントノワール",sub:{pwr:32,rng:70,spd:85,itv:1000,str:100},tunable:{pwp:1},type:"l",size:"S",cost:190,comment:"ジゼル･ノワールAM2専用コンバージョンパーツ"}
+{id:154,name:"セルメントノワール",sub:{pwr:32,rng:70,spd:85,itv:1000,str:100},type:"l",size:"S",cost:190,comment:"ジゼル･ノワールAM2専用コンバージョンパーツ"}
 
 {group:"ノーラ・シュナイトコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:1117,name:"シュテーレン・ゲヴェーア",main:{tec:100,pwr:17,shl:540,rng:250,spd:400,itv:340},type:"l",size:"S",cost:70,comment:["-","-"]}
