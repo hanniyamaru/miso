@@ -269,7 +269,7 @@
 {id:67,name:"セイロンAM",cost:40,hp:25,str:2,tec:1,fly:1,tgh:1}
 
 {id:122,name:"セバーレイスタッグAM",cost:40,hp:25,str:-1,tec:2,fly:2,tgh:2}
-
+{id:1203,name:"ゼファーAM",type:"a",size:"M",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1}
 {id:40,name:"ソルジェッターAM",cost:35,hp:20,str:2,fly:2,tgh:1}
 
 {id:177,name:"ソルブレンサーAM",type:"lacs",size:"M",cost:40,hp:25,str:2,tec:-1,wlk:2,tgh:2,joint:{wp:3},comment:"ブレイブアーツ省略"}
