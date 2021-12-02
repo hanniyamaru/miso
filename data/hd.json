@@ -38,6 +38,7 @@
 
 
 {id:186,name:"ナッツ･ボムリスHD",cost:35,hp:20,str:2,tec:-1,wlk:2,tgh:2}
+{id:30,name:"ノヴァディカロスHD",cost:35,hp:20,str:-1,tec:3,wlk:2,fly:1,size:"M"}
 
 {id:11021,name:"バットべーHD",cost:30,hp:15,str:1,tec:1,wlk:1,fly:1}
 
