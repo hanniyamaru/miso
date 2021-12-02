@@ -394,6 +394,7 @@
 {id:191,name:"ワニガメンティスBS",sub:{tec:100,pwr:24,rng:300,spd:500,itv:1000},type:"c",size:"M",cost:140,hp:25,str:-1,tec:2,wlk:1,fly:2,tgh:1,comment:"-",tunable:{mwp:0,pwp:0}}
 
 {id:168,name:"F･リュールBS",sub:{tec:100,pwr:16,shl:150,rng:275,spd:300,itv:1000},joint:{bs:1},fixedParts:{bs:{name:"F･リュールBS@",main:{tec:100,pwr:3,shl:1000,rng:275,spd:400,itv:300},tunable:{mwp:0},type:"a",size:"M",slot:0}},cost:125,hp:20,str:-1,tec:3,fly:3,type:"a",size:"M",comment:"BS@cost40合算"}
+{id:1203,name:"M・アーチBS",type:"a",cost:35,hp:20,str:1,tec:1,fly:3}
 
 {id:162,name:"RAMソルジェッターBS",type:"a",size:"M",cost:40,hp:20,tec:2,wlk:1,fly:2}
 
