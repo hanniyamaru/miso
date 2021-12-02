@@ -27,7 +27,7 @@
 {id:303,name:"オボロマルAM",main:{pwr:11,shl:540,rng:275,spd:280,itv:500},type:"a",cost:85,hp:20,str:-1,tec:2,fly:2,tgh:2,tunable:{mwp:0,pwp:0},size:"S",comment:["AM@cost50複合","mainチューン不可"]}
 
 {id:5,name:"カメンティスAM",cost:35,hp:20,tec:1,wlk:2,tgh:2}
-{id:98,name:"キールメスAM2",main:{pwr:12,shl:300,rng:330,spd:240,itv:900},type:"c",cost:80,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,tunable:{mwp:1}}
+{id:11205,name:"キールメスAM2",main:{pwr:12,shl:300,rng:330,spd:240,itv:900},type:"c",cost:80,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,tunable:{mwp:1}}
 {id:6,name:"クリムローゼαAM",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1}
 {id:7,name:"クリムローゼαAM2",type:"a",cost:105,hp:20,str:3,fly:1,tgh:1,sub:{str:100,pwr:30,rng:70,spd:85,itv:500},tunable:{pwp:1},joint:{wp:0}}
 {id:10,name:"クロスラプターAM",type:"a",cost:35,hp:20,str:-1,tec:1,fly:3,tgh:2}
