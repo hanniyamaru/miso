@@ -475,6 +475,8 @@
 {id:4,name:"ダイダリオンHD",cost:40,hp:25,str:1,wlk:1,tgh:3}
 
 {id:7,name:"ダゴミュールHD",cost:40,hp:25,str:1,tec:1,wlk:2,tgh:1}
+
+{id:18,name:"ティタロテスHD",cost:30,hp:15,tec:2,wlk:1,fly:-1,tgh:2}
 {id:25,name:"デストラクトHD",cost:40,hp:25,str:1,tec:2,tgh:2}
 {id:143,name:"デストラクトMAXHD",cost:40,hp:25,str:-1,tec:2,fly:1,tgh:3}
 
