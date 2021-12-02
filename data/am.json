@@ -303,6 +303,7 @@
 
 {id:11021,name:"ナイトギアPF AM",type:"a",size:"M",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1}
 
+{id:11202,name:"ノヴァディカロスAM",main:{tec:100,pwr:9,shl:600,rng:275,spd:320,itv:900},tunable:{mwp:1},type:"a",size:"M",cost:95,hp:20,str:-1,tec:3,wlk:1,fly:2}
 
 
 
