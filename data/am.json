@@ -80,6 +80,7 @@
 
 {id:56,name:"バタフレアAM",cost:35,hp:20,str:2,tec:2,wlk:-1,fly:1,tgh:1}
 {id:91,name:"バルーダAM",main:{pwr:7,shl:510,rng:275,spd:390,itv:200},sub:{tec:100,pwr:30,shl:50,rng:84,spd:102,itv:500},cost:140,hp:20,tec:2,fly:1,tgh:2,type:"a",size:"S",joint:{wp:0},tunable:{mwp:1,pwp:1},comment:["メイン弾に誘導有り","-"]}
+{id:51,name:"ビックガジェットAM2",cost:75,hp:20,str:2,wlk:1,fly:1,tgh:1,sub:{str:100,pwr:14,rng:90,spd:10,itv:1000},type:"s",tunable:{pwp:1}}
 
 {id:29,name:"ビルダームAM",cost:35,hp:20,str:1,tec:1,wlk:2,tgh:1}
 
