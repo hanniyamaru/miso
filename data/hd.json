@@ -115,6 +115,8 @@
 
 {id:288,name:"ヴァリアントHD",type:"lacs",size:"M",cost:35,hp:20,str:1,tec:2,fly:2}
 {id:327,name:"ウィザメルHD",size:"M",cost:35,hp:20,tec:2,wlk:2,fly:2,tgh:-1}
+{id:189,name:"ヴィシュラHD",cost:40,hp:25,str:2,tec:-1,wlk:1,tgh:3}
+
 {id:293,name:"ウィンドリンクスHD",cost:40,hp:20,str:1,tec:-1,fly:2,tgh:3}
 
 {id:206,name:"ウォーダスHD",cost:40,hp:25,str:3,wlk:-1,tgh:3}
