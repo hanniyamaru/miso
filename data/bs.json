@@ -65,6 +65,7 @@
 
 {id:118,name:"オルフェノスBS",type:"s",cost:40,hp:25,tec:1,wlk:2,fly:3,tgh:-1}
 {id:2,name:"カメンティスBS",type:"l",cost:35,hp:20,tec:1,wlk:1,fly:2,tgh:1}
+{id:68,name:"キールメスBS",type:"c",cost:35,hp:20,str:1,tec:1,wlk:-1,fly:3,tgh:1}
 
 {id:15,name:"キャノンボールBS",type:"c",cost:35,hp:20,str:1,fly:3,tgh:1}
 {id:97,name:"キャノンボールHLBS",type:"c",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:3,tgh:1}
