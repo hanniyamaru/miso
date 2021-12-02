@@ -327,7 +327,7 @@
 {id:3,name:"テツジンガーBS",type:"l",cost:35,hp:20,str:2,wlk:1,fly:2}
 
 {id:221,name:"ドライブリッツBS",type:"c",cost:105,hp:20,str:-1,tec:2,wlk:2,fly:2,sub:{tec:100,pwr:10,shl:300,rng:350,spd:320,itv:1000}}
-
+{id:11202,name:"ノヴァディカロスBS",sub:{shl:20,spd:150,itv:1000},type:"a",size:"M",cost:55,hp:20,wlk:-1,fly:4,tgh:2}
 
 {id:131,name:"ハイガクゥーンBS",main:{pwr:7,shl:300,rng:330,spd:290,itv:880},sub:{pwr:17,shl:140,rng:350,spd:300,itv:1000},tunable:{pwp:0,mwp:0},cost:140,hp:25,str:-1,tec:2,fly:3,tgh:1,type:"c",size:"M",comment:["BS@省略・武器チューン不可"]}
 
