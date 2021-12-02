@@ -1,4 +1,4 @@
-{group:"代用品",prefixID:"SLOT",commonStat:{tunable:{mwp:1}},nextID:60}
+{group:"代用品",prefixID:"SLOT",commonStat:{tunable:{mwp:0}},nextID:60}
 {id:1,name:"BSスロット",slot:3,joint:{hdac:0,fcac:0,hd:0},comment:"ゲーム内機体参照の上、任意の個数増設してください"}
 
 
