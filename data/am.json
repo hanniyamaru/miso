@@ -474,6 +474,7 @@
 
 {id:50,name:"スケアガントAM2",cost:40,hp:25,str:2,tec:1,wlk:2,fly:1,tgh:-1}
 {id:51,name:"スケアガントAM4",cost:40,hp:25,str:-1,tec:2,wlk:2,tgh:2}
+{id:67,name:"スケアガントAM6",cost:40,hp:25,str:2,tec:-1,wlk:2,tgh:2}
 
 {id:118,name:"スチールバーンAM",main:{pwr:5,shl:600,rng:250,spd:480,itv:240},sub:{pwr:21,rng:120,spd:200,itv:500,tec:100},tunable:{mwp:1,pwp:1},type:"a",cost:130,hp:25,str:-1,tec:3,fly:2,tgh:1,comment:"-"}
 {id:119,name:"スチールバーンAM2",sub:{pwr:16,shl:140,rng:320,spd:230,itv:1000},type:"a",cost:80,hp:25,str:2,tec:2,wlk:-1,fly:1,tgh:1,comment:"未更新"}
