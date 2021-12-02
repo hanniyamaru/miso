@@ -483,7 +483,7 @@
 {id:52,name:"ディースモークBS",type:"s",cost:40,hp:25,tec:-1,wlk:2,fly:2,tgh:2}
 
 {id:89,name:"ディースモークBS2",main:{tec:100,pwr:7,shl:400,rng:275,spd:290,itv:800},sub:{shl:25,rng:10,spd:10,itv:1000,str:100},tunable:{pwp:1,mwp:1},type:"s",size:"L",cost:140,hp:25,str:-1,tec:1,wlk:1,fly:3,tgh:1}
-
+{id:1204,name:"ティタロテスBS",type:"c",cost:70,hp:15,str:-1,tec:2,fly:2,tgh:1,tunable:{mwp:1},main:{pwr:14,shl:260,rng:330,spd:240,itv:1400},tunable:{mwp:1}}
 {id:15,name:"デストラクトBS",type:"c",cost:40,hp:25,tec:1,wlk:1,fly:2,tgh:1}
 {id:41,name:"デストラクトMAXBS",type:"c",cost:40,hp:25,tec:1,fly:2,tgh:2}
 
