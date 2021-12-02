@@ -1,3 +1,7 @@
+{group:"代用品",prefixID:"SLOT",commonStat:{tunable:{mwp:1}},nextID:60}
+{id:1,name:"BSスロット",slot:3,joint:{hdac:0,fcac:0,hd:0},comment:"ゲーム内機体参照の上、任意の個数増設してください"}
+
+
 {group:"特殊・汎用BS",prefixID:"EXT",commonStat:{size:"M"},nextID:1}
 {id:93,name:"ジェットアクセルBS",sub:{pwr:0,shl:0,rng:100,spd:200,itv:1000},tunable:{pwp:0,mwp:0},cost:60,hp:25,wlk:1,fly:3,tgh:1,comment:"-"}
 {id:133,name:"ジェットウィングBS",sub:{str:100,shl:20,rng:100,spd:200,itv:2000},type:"lacs",size:"M",cost:60,hp:25,tec:1,wlk:1,fly:3,comment:"-"}
