@@ -350,10 +350,12 @@
 {id:121,name:"バンガードHD2",cost:40,hp:25,tec:1,fly:1,tgh:3}
 {id:131,name:"バンガードHD3",cost:40,hp:25,str:2,tec:-1,wlk:1,tgh:3}
 {id:72,name:"ビートランダーHD",type:"l",cost:140,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2,sub:{str:100,pwr:32,spd:250,itv:4500},tunable:{pwp:1}}
+
 {id:161,name:"ビクトールHD",cost:40,hp:25,tec:2,wlk:-1,fly:1,tgh:3}
 {id:198,name:"ビクトールHD2",cost:40,hp:25,tec:2,wlk:-1,fly:1,tgh:3}
 
 {id:3,name:"ビクトリーHD",cost:35,hp:20,tec:2,wlk:2,tgh:1}
+{id:65,name:"ビックガジェットHD2",type:"as",cost:95,hp:20,tec:2,fly:2,tgh:1,main:{pwr:8,shl:600,rng:165,spd:480,itv:100},tunable:{mwp:1}}
 
 {id:18,name:"ビッグマンテスHD",cost:40,hp:25,str:1,tec:1,fly:1,tgh:2}
 {id:534,name:"ビッグマンテスHD2",cost:40,hp:25,tec:2,fly:2,tgh:1}
