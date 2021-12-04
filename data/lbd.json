@@ -4,7 +4,7 @@
 
 {group:"Ｓ陸　近日更新分",prefixID:"LS",commonStat:{size:"S",type:"l"},nextID:35}
 
-{id:12051,name:"ゼロセイバーRKBD",sub:{shl:[30],rng:[120],spd:[250],itv:1000},cartridge:{hpup:20,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|25@25|26@20|13@30|34@15|32@50|31@40"},type:"l",size:"S",wbid:5,cost:770,capa:810,hp:430,str:10,tec:10,wlk:40,fly:1,tgh:10,fixedParts:{hd:{name:"ゼロセイバーRKHD",slot:0},bs:{name:"ゼロセイバーRKBS",slot:0},lg:{name:"ゼロセイバーRKLG",slot:0},am:[{name:"ゼロセイバーRKAM",slot:0},{name:"ゼロセイバーRKAM",slot:0}]},comment:"専用メモリーはアクセ枠の物を使用してください"}
+{id:12051,name:"ゼロセイバーRKBD",sub:{shl:[30],rng:[120],spd:[250],itv:1000},cartridge:{hpup:20,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|25@25|26@20|13@30|34@15|32@50|31@40"},type:"l",size:"S",wbid:5,cost:770,capa:810,hp:430,str:10,tec:10,wlk:40,fly:1,tgh:10,fixedParts:{hd:{name:"ゼロセイバーRKHD",slot:0},bs:{name:"ゼロセイバーRKBS",slot:0},lg:{name:"ゼロセイバーRKLG",slot:0},am:[{name:"ゼロセイバーRKAM",slot:0},{name:"ゼロセイバーRKAM",slot:0}]},comment:["専用メモリーはアクセ枠の物を使用してください","実機にアクセサリー枠はありません"]}
 
 {id:150,name:"ジゼル･ノワールBD",sub:{itv:1000},builtin:{bs:1},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|21@20|16@20|15@15|13@30|34@15|32@50|31@40"},fixedParts:{hd:{name:"ジゼル･ノワールHD",cost:40,hp:25,str:1,wlk:2,tgh:2},lg:{name:"ジゼル･ノワールLG",cost:45,hp:25,str:1,wlk:3,tgh:2},am:[{name:"ジゼル･ノワールAM2",sub:{pwr:28,rng:120,spd:220,itv:1000,str:100},joint:{wp:2},cost:40,hp:25,str:2,tec:1,fly:1,tgh:1,tunable:{pwp:1}},{name:"ジゼル･ノワールAM",joint:{wp:2},cost:40,hp:25,str:2,tec:1,fly:1,tgh:1,main:{str:100,pwr:20,shl:50,rng:200,spd:570,itv:500},comment:"-"}]},type:"l",size:"S",cost:515,capa:900,hp:250,str:15,tec:2,wlk:19,fly:9,tgh:8,wbid:5,comment:["シビアリデュースリペア","アイテム以外のリペア効果によるHP回復量を90％減らす。HPを150回復することでも解除可能。"]}
 
