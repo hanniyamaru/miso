@@ -41,7 +41,7 @@
 {id:17,name:"ソニックブレード",type:"a",size:"M",cost:100,sub:{str:100,pwr:30,rng:70,spd:85,itv:500}}
 {id:18,name:"ディバインブレード",type:"a",size:"M",cost:160,sub:{str:100,pwr:30,rng:70,spd:85,itv:500}}
 {id:21,name:"スラッシュブレード",type:"a",size:"M",cost:160,sub:{str:100,pwr:28,rng:70,spd:85,itv:500}}
-{id:34,name:"クリムエッジ",sub:{tec:100,pwr:28,tec:100,rng:70,spd:85,itv:1000},tunable:{pwp:1},type:"a",size:"S",cost:100}
+{id:34,name:"クリムエッジ",sub:{tec:100,pwr:28,tec:100,rng:70,spd:85,itv:1000},tunable:{pwp:1},type:"a",size:"S",cost:100,comment:["刀身と衝撃波で参照TECが別々の複合武器","刀身威力28","衝撃波威力7"]}
 
 
 {group:"Uniナイフ系",prefixID:"KN",commonStat:{tunable:{pwp:1}},nextID:8}
