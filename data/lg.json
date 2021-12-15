@@ -466,7 +466,7 @@
 {id:20,name:"パルサーディオLG",cost:50,hp:60,tec:1,wlk:2,fly:1,tgh:2}
 
 {id:6,name:"バルテオンLG",cost:50,hp:80,str:-1,tec:1,wlk:2,fly:2,tgh:2}
-{id:57,name:"ビクトールLG",cost:45,hp:25,str:-1,tec:2,wlk:3,tgh:1}
+{id:57,name:"ビクトールLG",cost:45,hp:25,str:-1,tec:3,wlk:3,tgh:1}
 
 {id:13,name:"ビッグマンテスLG",cost:50,hp:70,tec:1,wlk:3,fly:1,tgh:1}
 {id:320,name:"ビッグマンテスLG2",sub:{shl:100,rng:0,spd:60,itv:1000},tunable:{pwp:0},type:"a",size:"L",cost:90,hp:70,tec:1,wlk:3,fly:2}
