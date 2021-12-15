@@ -564,7 +564,7 @@
 
 
 
-{id:30,name:"ボイルデックAM",type:"c",cost:95,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,main:{pwr:7,shl:1050,rng:330,spd:440,itv:140},tunable:{mwp:1},joint:{wp:0}}
+{id:30,name:"ボイルデックAM",type:"c",cost:95,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,main:{pwr:10,shl:720,rng:330,spd:440,itv:140},tunable:{mwp:1},joint:{wp:0}}
 {id:31,name:"ボイルデックAM2",type:"c",cost:95,hp:20,str:-1,tec:1,wlk:2,tgh:3,main:{pwr:9,shl:400,rng:160,spd:480,itv:100},tunable:{mwp:1}}
 
 
