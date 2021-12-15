@@ -293,7 +293,7 @@
 {id:12,name:"スコルタンBS",type:"s",cost:35,hp:20,tec:2,fly:3}
 
 
-{id:48,name:"スゼクBS",cost:120,hp:25,str:2,wlk:-1,fly:4,type:"a",main:{str:100,pwr:5,shl:460,rng:275,spd:350,itv:900},sub:{pwr:26,rng:90,spd:200,itv:1000,str:100},tunable:{mwp:1,pwp:1},comment:"AURA機構省略"}
+{id:48,name:"スゼクBS",cost:150,hp:25,str:2,wlk:-1,fly:4,type:"a",main:{str:100,pwr:8,shl:160,rng:275,spd:350,itv:900},sub:{pwr:31,rng:90,spd:200,itv:1000,str:100},tunable:{mwp:1,pwp:1},comment:"AURA機構省略"}
 
 {id:20211014,name:"スペキュラムスラスターBS",main:{pwr:7,shl:500,rng:275,spd:220,itv:800},sub:{tec:100,pwr:25,shl:0,rng:100,spd:200,itv:1000},tunable:{mwp:0,pwp:0},type:"a",size:"M",cost:115,hp:20,tec:2,fly:4,comment:["BS@cost80複合","武器チューン不可"]}
 {id:20211126,name:"スペキュラムスラスターBS（コンバージョン無し）",size:"M",cost:35,hp:20,tec:2,fly:4}
