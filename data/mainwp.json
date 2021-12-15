@@ -82,8 +82,8 @@
 {id:26,name:"LLバルクガトリング",main:{pwr:15,shl:1200,rng:225,spd:400,itv:140},type:"l",size:"LL",cost:220}
 {id:8,name:"ビームマシンガン",type:"as",size:"S",cost:90,main:{pwr:9,shl:580,rng:200,spd:480,itv:140}}
 {id:9,name:"ダブルビームマシンガン",type:"a",size:"S",cost:130,main:{pwr:6,shl:1170,rng:200,spd:480,itv:140}}
-{id:21,name:"ビームガトリング",main:{pwr:7,shl:1020,rng:250,spd:440,itv:140},type:"a",size:"LL",cost:140}
-{id:29,name:"ダブルビームガトリング",main:{pwr:6,shl:1620,rng:250,spd:440,itv:140},tunable:{mwp:1},size:"LL",type:"a",cost:200}
+{id:21,name:"ビームガトリング",main:{pwr:9,shl:1020,rng:250,spd:480,itv:140},type:"a",size:"LL",cost:140}
+{id:29,name:"ダブルビームガトリング",main:{pwr:6,shl:2400,rng:250,spd:480,itv:140},tunable:{mwp:1},size:"LL",type:"a",cost:200}
 {id:33,name:"ヒートガトリング",main:{tec:100,pwr:10,shl:1200,rng:330,spd:440,itv:140},size:"M",cost:160,type:"c"}
 
 
@@ -112,7 +112,7 @@
 {id:13,name:"デバイスブレイカー",type:"c",size:"M",cost:90,main:{pwr:33,shl:150,rng:330,spd:480,itv:1000}}
 {id:14,name:"コアブレイカー",type:"c",size:"M",cost:140,main:{pwr:39,shl:150,rng:350,spd:480,itv:1000}}
 {id:15,name:"ストラクトブレイカー",type:"c",size:"L",cost:200,main:{pwr:50,shl:120,rng:350,spd:480,itv:1000}}
-{id:26,name:"ガトリングブレイカー",main:{pwr:13,shl:1000,rng:350,spd:480,itv:200},size:"L",type:"c",cost:210}
+{id:26,name:"ガトリングブレイカー",main:{pwr:14,shl:1400,rng:350,spd:480,itv:200},size:"L",type:"c",cost:210}
 {id:27,name:"ピアースブレイカー",main:{pwr:38,shl:140,rng:350,spd:480,itv:1000},size:"M",type:"c",cost:170,comment:"貫通+HIT毎に爆風発生"}
 
 {group:"シューター系",prefixID:"ST",commonStat:{tunable:{mwp:1}},nextID:1}
