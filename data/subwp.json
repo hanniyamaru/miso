@@ -87,7 +87,7 @@
 {id:6,name:"ジェットハンマー",type:"l",size:"L",cost:130,sub:{str:100,pwr:39,shl:30,rng:70,spd:85,itv:1600}}
 
 {id:14,name:"ジャックオーハンマー",sub:{pwr:25,rng:130,spd:70,itv:1000,str:100},cost:130,size:"L",type:"l",tunable:{pwp:1}}
-
+{id:1222,name:"Xmasベルハンマー",main:{pwr:20,shl:50,rng:200,spd:500,itv:500,str:100},sub:{pwr:31,rng:49,spd:60,itv:1000,str:100},cost:70,size:"M",tunable:{mwp:1,pwp:1}}
 
 
 {group:"Uniダガー系",prefixID:"DG",nextID:6}
