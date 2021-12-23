@@ -296,7 +296,7 @@
 {id:20211013,name:"コフィンバットガン",main:{tec:100,pwr:20,shl:300,rng:225,spd:360,itv:400},tunable:{mwp:1},size:"M",type:"l",cost:100,comment:"-"}
 
 {id:1109,name:"パンプキンガン",size:"M",cost:15,main:{pwr:6,shl:500,rng:225,spd:570,itv:300}}
-
+{id:20211224,name:"オーナメントシューター",main:{tec:100,pwr:10,shl:600,rng:250,spd:400,itv:300},tunable:{mwp:1},size:"M",cost:70,comment:["実弾属性、爆風なし","飛距離1000以上？"]}
 {id:20211031,name:"グラヴィトンカノンα",main:{pwr:17,shl:650,rng:250,spd:480,itv:100},tunable:{mwp:0},joint:{wp:1},fixedParts:{wp:[{main:{pwr:9,shl:600,rng:275,spd:480,itv:900},name:"グラヴィトンカノン@2",slot:0,comment:["BEAM RIFLE","ライフル弾・追撃弾は同威力"]}]},type:"a",cost:180,size:"M",comment:["LASER","武器チューン不可"]}
 
 
