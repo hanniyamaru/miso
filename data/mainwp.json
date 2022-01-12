@@ -27,7 +27,7 @@
 {id:23,name:"LLバルクマグ",type:"l",size:"LL",cost:200,main:{pwr:32,shl:440,rng:225,spd:440,itv:500}}
 {id:57,name:"LLバルクアクセル",main:{pwr:29,shl:360,rng:250,spd:570,itv:500,tec:100},size:"LL",type:"l",cost:180}
 {id:110,name:"セイバーライフル",main:{tec:100,pwr:25,shl:280,rng:250,spd:440,itv:640},tunable:{mwp:1},type:"l",size:"M",cost:170,comment:"ゼロセイバーNEXT初期装備"}
-{id:91,name:"eアサルトピアースガン",main:{tec:100,pwr:20,shl:140,rng:280,spd:360,itv:300},type:"l",size:"M",cost:140,tec:1,tgh:1}
+
 {id:17,name:"ビートルガン",type:"l",size:"M",cost:100,main:{pwr:19,shl:330,rng:225,spd:440,itv:500}}
 {id:500,name:"ヘラクビートルガン",type:"l",size:"M",cost:160,main:{pwr:23,shl:340,rng:225,spd:440,itv:500}}
 {id:43,name:"シュリケンガン",type:"ls",size:"S",cost:80,main:{pwr:7,shl:680,rng:175,spd:400,itv:160}}
@@ -169,7 +169,7 @@
 {id:11020,name:"パンプキンロッド",type:"c",size:"S",cost:120,main:{pwr:23,shl:360,rng:330,spd:360,itv:500}}
 {id:11222,name:"Xmasスノーバズーカ",size:"L",cost:50,main:{pwr:15,shl:300,rng:250,spd:400,itv:500},comment:["実弾属性爆風","爆風30％？"]}
 {id:131011,name:"アームストロング",type:"c",size:"M",cost:220,main:{pwr:12,shl:1200,rng:330,spd:400,itv:140}}
-
+{id:2022114,name:"ギガンテックキャノン",type:"c",size:"LL",cost:200,main:{pwr:50,shl:200,rng:350,spd:320,itv:1400}}
 
 
 {id:2911,name:"メガビームガン",type:"a",size:"L",cost:110,main:{pwr:33,shl:150,rng:275,spd:400,itv:1000}}
@@ -177,6 +177,7 @@
 {id:68,name:"チャージビームキャノン",main:{pwr:32,shl:150,rng:275,spd:440,itv:1000},type:"a",size:"L",cost:120}
 {id:29,name:"スターダストキャノン",type:"a",size:"LL",cost:130,main:{pwr:38,shl:240,rng:275,spd:400,itv:900}}
 {id:56,name:"ビームポンプバズーカ",main:{pwr:23,shl:240,rng:275,spd:360,itv:760},type:"a",size:"M",cost:100}
+{id:2022112,name:"ビームボムランチャー",main:{pwr:30,shl:360,rng:100,spd:300,itv:1000},type:"a",size:"M",cost:80}
 
 
 {group:"ミサイル系",prefixID:"MS",commonStat:{tunable:{mwp:1}},nextID:333}
