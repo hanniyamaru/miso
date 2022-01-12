@@ -237,7 +237,7 @@
 
 {id:1362,name:"ギャラクシーコマンドAM2（コンバージョンなし）",main:{pwr:19,shl:600,rng:300,spd:400,itv:300},tunable:{mwp:1},auraStat:{main:{pwr:30,shl:300,rng:350,spd:440,itv:500}},type:"c",cost:165,hp:20,str:-1,tec:4,wlk:1,tgh:1}
 
-{id:136,name:"クリスタスAM",main:{pwr:5,shl:720,rng:275,spd:400,itv:600},type:"a",size:"L",cost:115,hp:20,tec:3,wlk:1,fly:1,tunable:{mwp:1},comment:"AM2と同性能"}
+
 {id:9,name:"クレストセイントAM",cost:40,hp:25,str:2,wlk:1,fly:2}
 
 {id:71,name:"ゲンブラAM",type:"c",cost:60,hp:25,tec:2,wlk:1,tgh:2,main:{pwr:12,shl:130,rng:330,spd:290,itv:440},sub:{pwr:13,shl:160,rng:350,spd:290,itv:1000},tunable:{mwp:1,pwp:1},joint:{wp:1},comment:"AURA機構省略"}
@@ -435,6 +435,7 @@
 {id:98,name:"クシュルブAM",sub:{str:100,pwr:33,rng:35,spd:43,itv:2000},tunable:{pwp:1},type:"l",cost:90,hp:20,str:3,wlk:1,fly:2,tgh:-1}
 {id:150,name:"クシュルブAM2",main:{str:100,pwr:5,shl:60,rng:200,spd:500,itv:300},sub:{str:100,pwr:26,shl:0,rng:70,spd:85,itv:1000},tunable:{pwp:1},type:"l",size:"L",cost:85,hp:20,str:4,tec:-1,wlk:1,tgh:1,comment:["AM@cost+10複合","MAINチューン不可"]}
 {id:1501102,name:"クシュルブAM2（コンバージョン無し）",sub:{str:100,pwr:26,shl:0,rng:70,spd:85,itv:1000},tunable:{pwp:1},type:"l",size:"L",cost:75,hp:20,str:4,tec:-1,wlk:1,tgh:1}
+{id:136,name:"クリスタスAM",main:{pwr:5,shl:720,rng:275,spd:400,itv:600},type:"a",size:"L",cost:115,hp:20,tec:3,wlk:1,fly:1,tunable:{mwp:1},comment:"AM2と同性能"}
 
 {id:116,name:"グリストAM2",main:{pwr:7,shl:510,rng:275,spd:350,itv:900},tunable:{mwp:1},type:"a",cost:85,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1}
 {id:168,name:"クルージスAM",main:{tec:100,pwr:16,shl:540,rng:275,spd:320,itv:600},tunable:{mwp:1},type:"a",size:"L",cost:105,hp:20,tec:3,wlk:-1,fly:2,tgh:1,joint:{wp:0}}
