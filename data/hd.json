@@ -54,7 +54,7 @@
 
 
 {id:7,name:"ポーンジャーHD",cost:35,hp:20,str:2,wlk:1,tgh:2}
-{id:25,name:"ポーンジャーHD2",cost:35,hp:20,str:3,wlk:1,tgh:1}
+{id:25,name:"ポーンジャーHD2",cost:35,hp:20,str:3,wlk:1,tgh:1,comment:"ブリッツポーンジャー"}
 
 
 
