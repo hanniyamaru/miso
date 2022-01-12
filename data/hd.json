@@ -48,10 +48,13 @@
 
 {id:300,name:"フェアリスHD",cost:40,hp:25,str:1,tec:2,wlk:1,fly:2,tgh:-1}
 {id:17,name:"ホネボンHD",cost:25,hp:15,tec:1,tgh:2,comment:"未更新"}
+
+
 {id:304,name:"ブルーメHD",sub:{str:100,shl:20,rng:43,spd:63,itv:1000},type:"s",size:"S",cost:70,hp:25,wlk:2,fly:1,tgh:2}
 
 
 {id:7,name:"ポーンジャーHD",cost:35,hp:20,str:2,wlk:1,tgh:2}
+{id:25,name:"ポーンジャーHD2",cost:35,hp:20,str:3,wlk:1,tgh:1}
 
 
 
@@ -166,6 +169,7 @@
 
 {id:210,name:"ギャスターHD",main:{pwr:30,shl:160,rng:330,spd:360,itv:1000},tunable:{mwp:1},type:"c",cost:135,hp:20,str:-1,tec:2,wlk:2,fly:1,tgh:1}
 {id:207,name:"キャノンボールHLHD",cost:40,hp:25,tec:2,wlk:2,fly:-1,tgh:2}
+{id:252,name:"ギャラクシーコマンドHD",cost:40,hp:25,str:-1,tec:2,wlk:2,tgh:2}
 {id:204,name:"ギャランバルドHD",cost:40,hp:25,tec:1,wlk:1,tgh:3}
 {id:204108,name:"ギャランバルドHD2",cost:40,hp:25,str:2,tec:-1,wlk:2,fly:1,tgh:1}
 
@@ -343,6 +347,7 @@
 {id:256,name:"バフデバスターHD",cost:45,hp:25,str:1,tec:-1,wlk:2,tgh:3}
 
 {id:2,name:"パラボロイドHD",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
+{id:258,name:"ハリーアクセルHD",cost:35,hp:20,str:-1,tec:1,wlk:1,fly:2,tgh:2}
 {id:162,name:"バルーダHD",main:{pwr:10,shl:540,rng:275,spd:350,itv:300},cost:40,hp:25,str:1,tec:2,tgh:2,tunable:{mwp:1}}
 
 {id:46,name:"パルサーディオHD",cost:40,hp:25,tec:3,wlk:1,tgh:1}
