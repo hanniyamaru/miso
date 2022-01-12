@@ -350,7 +350,7 @@
 
 {id:156,name:"ペペンガンナーズ",main:{tec:100,pwr:9,shl:600,rng:330,spd:350,itv:500},tunable:{mwp:1},type:"c",size:"M",cost:100,comment:"UNIで誘導弾に変更"}
 {id:1561,name:"ペペンツインガン",main:{pwr:8,shl:700,rng:330,spd:220,itv:360},tunable:{mwp:1},type:"c",size:"S",cost:70}
-
+{id:2022115,name:"ペロケット",main:{pwr:24,shl:520,rng:330,spd:400,itv:500,tec:100},cost:160,type:"c",size:"S",comment:"モニカ・ゴールドAM専用コンバージョンパーツ"}
 
 
 {id:118,name:"ホーミングアロー",main:{pwr:13,shl:180,rng:250,spd:320,itv:800},cost:50,type:"l",size:"M",comment:"ロビンハンターAM専用コンバージョンパーツ",slot:0}
