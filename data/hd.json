@@ -322,6 +322,8 @@
 {id:295,name:"ナイトジャーHD2",type:"lacs",size:"M",cost:40,hp:25,str:3,tgh:2}
 
 {id:2701103,name:"ハードボンバーHD",type:"lacs",size:"M",cost:35,hp:20,str:1,tec:1,wlk:2,fly:-1,tgh:2}
+{id:2022114,name:"パーポHD",cost:35,hp:20,str:-1,tec:1,wlk:3,fly:1,tgh:1}
+
 {id:272,name:"ハイガクゥーンHD",type:"lacs",size:"M",cost:40,hp:25,str:2,tec:1,wlk:2,fly:1,tgh:-1}
 
 {id:165,name:"ハイバリオンHD",cost:40,hp:25,str:2,tec:3,fly:1,tgh:-1}
