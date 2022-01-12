@@ -1,6 +1,6 @@
 {group:"UniＳサイズ",prefixID:"S",commonStat:{size:"S"},nextID:66}
 
-
+{id:136,name:"ギャラクシーコマンドAM2",main:{pwr:19,shl:600,rng:300,spd:400,itv:300},tunable:{mwp:1},auraStat:{main:{pwr:30,shl:300,rng:350,spd:440,itv:500}},type:"c",cost:165,hp:20,str:-1,tec:4,wlk:1,tgh:1,fixedParts:{wp:{name:"バクルス",main:{shl:80,rng:300,spd:300,itv:500},tunable:{mwp:0},auraStat:{main:{pwr:30,shl:300,rng:350,spd:440,itv:500}},cost:70,slot:0}}}
 
 {id:24,name:"タラントリックAM",cost:35,hp:20,str:1,tec:1,wlk:2,tgh:1}
 
