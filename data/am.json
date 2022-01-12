@@ -533,7 +533,7 @@
 {id:11024,name:"ナイトギアHF AM（コンバージョン無し）",type:"c",size:"L",cost:40,hp:25,str:-1,tec:3,wlk:1,tgh:2}
 
 
-
+{id:2022114,name:"パーポAM",size:"L",cost:35,hp:20,str:2,wlk:2,fly:-1,tgh:2}
 {id:790,name:"ハクメンスクナAM",cost:40,hp:25,str:1,tec:1,fly:2,tgh:1}
 
 
