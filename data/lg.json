@@ -19,7 +19,7 @@
 {id:95,name:"オルフェノスLG",cost:45,hp:25,str:1,tec:1,wlk:3}
 
 {id:5,name:"カメンティスLG",cost:40,hp:20,str:2,wlk:2,tgh:1}
-
+{id:95,name:"ガルネリンプLG",sub:{pwr:38,shl:30,rng:70,spd:85,itv:2000,str:100},tunable:{pwp:1},type:"l",cost:95,hp:25,str:2,tec:-1,wlk:3,tgh:2}
 {id:67,name:"キールメスLG2",type:"c",cost:60,hp:20,tec:1,wlk:2,fly:2,sub:{shl:30,rng:0,spd:280,itv:1000}}
 {id:4,name:"キャノンボールLG",cost:40,hp:20,tec:1,wlk:3,fly:-1,tgh:2}
 {id:79,name:"キャノンボールHLLG",cost:45,hp:25,tec:2,wlk:2,fly:-1,tgh:2}
