@@ -1,6 +1,5 @@
 {group:"UniＳサイズ",prefixID:"S",commonStat:{size:"S"},nextID:66}
 
-
 {id:24,name:"タラントリックAM",cost:35,hp:20,str:1,tec:1,wlk:2,tgh:1}
 
 
@@ -233,8 +232,8 @@
 
 {id:115,name:"ギャスターAM",cost:35,hp:20,str:2,wlk:2,fly:1}
 {id:135,name:"ギャラクシーコマンドAM",cost:35,hp:20,str:1,tec:2,fly:-1,tgh:3}
-{id:136,name:"ギャラクシーコマンドAM2",main:{pwr:19,shl:600,rng:300,spd:400,itv:300},tunable:{mwp:1},auraStat:{main:{pwr:30,shl:300,rng:350,spd:440,itv:500}},type:"c",cost:165,hp:20,str:-1,tec:4,wlk:1,tgh:1,fixedParts:{wp:{name:"ギャラクシーコマンドAM2@",main:{pwr:35,shl:220,rng:330,spd:400,itv:800},tunable:{mwp:1},auraStat:{main:{pwr:25,shl:240,rng:380,spd:220,itv:600}},cost:80}}}
 
+{id:136,name:"ギャラクシーコマンドAM2",main:{pwr:19,shl:600,rng:300,spd:400,itv:300},comment:"ピアースガン",tunable:{mwp:1},auraStat:{main:{pwr:30,shl:300,rng:350,spd:440,itv:500},comment:"レールガン"},type:"c",cost:165,hp:20,str:-1,tec:4,wlk:1,tgh:1,fixedParts:{wp:{name:"ギャラクシーコマンドAM2@",main:{pwr:35,shl:220,rng:330,spd:400,itv:800},comment:"バズーカ",tunable:{mwp:1},auraStat:{main:{pwr:25,shl:240,rng:380,spd:220,itv:600},comment:"ミサイル"},cost:80}}}
 {id:1362,name:"ギャラクシーコマンドAM2（コンバージョンなし）",main:{pwr:19,shl:600,rng:300,spd:400,itv:300},joint:{wp:0},tunable:{mwp:1},auraStat:{main:{pwr:30,shl:300,rng:350,spd:440,itv:500}},type:"c",cost:165,hp:20,str:-1,tec:4,wlk:1,tgh:1}
 
 {id:9,name:"クレストセイントAM",cost:40,hp:25,str:2,wlk:1,fly:2}
