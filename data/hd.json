@@ -153,6 +153,8 @@
 
 {id:14,name:"ガナハウンドHD",cost:40,hp:20,str:1,tec:2,wlk:1,fly:1}
 {id:187,name:"ガルスチールHD",cost:40,hp:25,str:2,fly:2,tgh:1}
+{id:255,name:"ガルネリンプHD",cost:40,hp:25,str:-1,tec:2,fly:2,tgh:2}
+
 {id:68,name:"ガルラバードHD",cost:40,hp:25,str:1,tec:2,fly:2}
 
 {id:79,name:"ガンアームズHD",cost:40,hp:20,tec:1,wlk:2,tgh:2}
