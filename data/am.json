@@ -637,7 +637,7 @@
 
 
 {id:160,name:"ペルセシウスAM2",size:"LL",cost:80,hp:25,str:1,tec:1,tgh:3,comment:"盾耐久値70 2021 2/12"}
-
+{id:2022115,name:"ブレイズバロンAM5",sub:{pwr:33,shl:5,rng:70,spd:85,itv:1000,str:100},type:"l",cost:200,hp:25,str:4,tec:-1,wlk:1,tgh:1,tunable:{pwp:1},joint:{wp:0},comment:"大剣"}
 
 {id:1,name:"マイティバインAM3",type:"l",cost:155,hp:25,str:4,wlk:2,fly:-1,main:{str:100,pwr:9,shl:780,rng:150,spd:400,itv:500},sub:{str:100,pwr:38,shl:30,rng:70,spd:85,itv:500},tunable:{mwp:1,pwp:1},joint:{wp:0},comment:"-"}
 {id:16,name:"マシンドレットAM",sub:{str:100,pwr:31,rng:120,spd:250,itv:1000},tunable:{pwp:1},joint:{wp:0},type:"l",cost:150,hp:25,str:3,tec:-1,wlk:1,fly:-1,tgh:3}
