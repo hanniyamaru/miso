@@ -255,7 +255,7 @@
 {id:11,name:"プロトンレーザー",type:"a",size:"L",cost:140,main:{pwr:12,shl:750,rng:225,spd:480,itv:100}}
 {id:10,name:"パワードレーザー",type:"a",size:"L",cost:110,main:{pwr:17,shl:430,rng:225,spd:480,itv:100}}
 {id:12,name:"レーザーライフル",type:"a",size:"M",cost:130,main:{pwr:11,shl:420,rng:275,spd:480,itv:100}}
-
+{id:2022113,name:"ハドロンシューター",type:"lc",size:"M",cost:160,main:{pwr:12,shl:1180,rng:180,spd:480,itv:100}}
 
 
 
