@@ -173,6 +173,8 @@
 
 
 {id:10,name:"ラズフラムαBS",type:"l",cost:110,hp:25,str:-1,tec:2,wlk:2,fly:2,sub:{tec:100,pwr:28,rng:120,spd:250,itv:1000},tunable:{pwp:1}}
+{id:2022113,name:"ラフィールBS",cost:35,hp:20,str:2,tec:-1,wlk:2,fly:2}
+
 {id:136,name:"リーゼルBS",cost:35,hp:20,tec:2,fly:3,type:"c",size:"S"}
 {id:110,name:"リフィBS",main:{shl:80,rng:80,spd:300,itv:500},tunable:{mwp:1},type:"s",cost:110,hp:25,str:-1,wlk:1,fly:3,tgh:2}
 {id:120,name:"リルBS",type:"l",cost:45,hp:25,str:2,wlk:-1,fly:3,tgh:1}
