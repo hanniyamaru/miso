@@ -390,7 +390,9 @@
 {id:107,name:"ハンドゲヴィア",main:{pwr:13,shl:540,rng:225,spd:400,itv:300,str:100},type:"l",size:"S",cost:60,comment:"ハンナ・フリッツ専用コンバージョンパーツ",tunable:{mwp:1}}
 {id:111,name:"ツヴァイ・カノーネ",sub:{str:100,pwr:10,shl:30,rng:150,spd:250,itv:1000},type:"l",size:"S",cost:30,slot:0,comment:"ハンナ・フリッツ専用コンバージョンパーツ"}
 
-
+{group:"ラフィールコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
+{id:170,name:"ミニッツレイピア",main:{shl:50,spd:10,itv:1000},sub:{pwr:32,rng:84,spd:102,itv:500,str:100},tunable:{pwp:1},type:"l",size:"S",cost:120}
+{id:171,name:"アワーダガー",main:{pwr:20,shl:50,rng:200,spd:570,itv:500,str:100},sub:{pwr:0,shl:0,rng:150,spd:350,itv:1000,str:100},type:"l",size:"S",cost:80,slot:0}
 
 
 
