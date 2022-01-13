@@ -5,6 +5,7 @@
 {group:"Ｓ陸　近日更新分",prefixID:"LS",commonStat:{size:"S",type:"l"},nextID:35}
 
 
+{id:212,name:"シシナBD",type:"l",size:"S",cost:465,capa:885,hp:225,str:6,tec:7,wlk:14,fly:7,tgh:6,wbid:0,cartridge:{lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|25@25|14@20|28@30|13@30|32@50|31@40",hpup:14},sub:{shl:30,rng:100,spd:150,itv:1000}}
 
 
 {id:158,name:"ラフィールBD",cartridge:{lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|15@15|12@20|13@30|34@15|32@50|31@40",hpup:14},fixedParts:{hd:{name:"ラフィールHD",cost:40,type:"l",size:"S",hp:25,str:2,tec:1,wlk:1,fly:1},lg:{name:"ラフィールLG",cost:45,hp:25,str:1,wlk:3,fly:1,tgh:1,type:"l",size:"S"},am:[{name:"ラフィールAM",cost:40,hp:25,str:2,wlk:1,tgh:2,type:"l",size:"S",joint:{wp:2}},{name:"ラフィールAM",joint:{wp:2},cost:40,hp:25,str:2,wlk:1,tgh:2}]},type:"l",size:"S",cost:445,hp:225,capa:900,str:12,tec:3,wlk:15,fly:8,tgh:10}
