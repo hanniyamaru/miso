@@ -4,8 +4,7 @@
 
 {group:"Ｓ陸　近日更新分",prefixID:"LS",commonStat:{size:"S",type:"l"},nextID:35}
 
-{id:53,name:"リーシャBD",builtin:{bs:1},joint:{bs:0,hdac:2},cartridge:{hpup:14,lv1:"4*6@25|17@20|18@20|19@20|20@20|23@25|22@30|15@30|16@20|30@20|21@20|13@20|27@10|32@30|31@40"},fixedParts:{hdac:["S1","S1"],hd:{name:"リーシャHD",cost:40,hp:25,str:1,tec:2,wlk:1,fly:-1,tgh:2},lg:{name:"リーシャLG",cost:45,hp:25,str:1,wlk:3,fly:2},am:[{name:"リーシャAM",main:{shl:10,rng:300,spd:300,itv:1000},tunable:{mwp:1},fixedParts:{wp:[{name:"アイラAM@",tunable:{pwp:1},sub:{str:100,pwr:35,rng:200,spd:250,itv:1000},cost:60}]},auraStat:{str:2,wlk:1,tgh:2},cost:140,hp:25,str:2,wlk:1,tgh:2},{joint:{wp:2},fixedParts:{wp:[{name:"アイラAM@",main:{pwr:0,shl:50,rng:0,spd:10,itv:1000},tunable:{mwp:1},cost:20},{name:"アイシクルショット",main:{str:100,pwr:10,shl:720,rng:250,spd:400,itv:240},cost:50,tunable:{mwp:1}}]},name:"アイラAM",cost:40,hp:25,str:2,wlk:1,tgh:2}]},cost:445,capa:900,hp:225,str:13,tec:5,wlk:15,fly:7,tgh:8,wbid:0}
-
+{id:53,name:"リーシャBD",builtin:{bs:1},joint:{bs:0,hdac:2},cartridge:{hpup:14,lv1:"4*6@25|17@20|18@20|19@20|20@20|23@25|22@30|15@30|16@20|30@20|21@20|13@20|27@10|32@30|31@40"},fixedParts:{hdac:["S1","S1"],hd:{name:"リーシャHD",cost:40,hp:25,str:1,tec:2,wlk:1,fly:-1,tgh:2},lg:{name:"リーシャLG",cost:45,hp:25,str:1,wlk:3,fly:2},am:[{name:"リーシャAM",main:{shl:10,rng:300,spd:300,itv:1000},tunable:{mwp:1},fixedParts:{wp:[{name:"マグナスクルス",tunable:{mwp:1,pwp:1},main:{tec:100,pwr:6,shl:240,rng:275,spd:280,itv:1000},sub:{tec:100,pwr:32,rng:90,spd:85,itv:1000},cost:170}]},cost:80,hp:25,str:-1,tec:3,wlk2,tgh:1},{joint:{wp:2},fixedParts:{wp:[{name:"アイラAM@",main:{pwr:0,shl:50,rng:0,spd:10,itv:1000},tunable:{mwp:1},cost:20},{name:"アイシクルショット",main:{str:100,pwr:10,shl:720,rng:250,spd:400,itv:240},cost:50,tunable:{mwp:1}}]},name:"アイラAM",cost:40,hp:25,str:2,wlk:1,tgh:2}]},cost:445,capa:900,hp:225,str:13,tec:5,wlk:15,fly:7,tgh:8,wbid:0}
 
 
 
