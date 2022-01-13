@@ -33,6 +33,7 @@
 
 
 {id:20,name:"ジークンロンαLG",type:"l",cost:145,hp:25,str:2,tec:-1,wlk:3,tgh:1,sub:{str:100,pwr:30,rng:98,spd:119,itv:500},tunable:{pwp:1}}
+{id:124,name:"シシナLG",type:"lacs",size:"S",cost:45,hp:25,str:1,tec:1,wlk:3,tgh:1}
 
 
 {id:18,name:"シャインバスターLG",cost:45,hp:25,str:1,tec:1,wlk:3,tgh:1}
