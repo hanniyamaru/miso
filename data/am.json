@@ -224,7 +224,7 @@
 {id:159,name:"ガゥディアンAM",joint:{wp:2},cost:35,hp:20,str:-1,tec:2,wlk:2,fly:1,tgh:1}
 {id:1226,name:"カドゥーマツAM",cost:85,hp:20,tec:3,fly:1,tgh:1,main:{pwr:8,shl:800,rng:225,spd:400,itv:200},tunable:{mwp:1},joint:{wp:0}}
 
-{id:138,name:"ガルネリンプAM",main:{str:100,pwr:10,shl:600,rng:320,spd:250,itv:300},sub:{str:100,pwr:32,rng:70,spd:85,itv:1000},tunable:{mwp:1,pwp:1},joint:{wp:0},type:"l",cost:185,hp:20,str:3,tec:-1,wlk:1,tgh:2}
+{id:138,name:"ガルネリンプAM",main:{str:100,pwr:10,shl:600,rng:250,spd:320,itv:300},sub:{str:100,pwr:32,rng:70,spd:85,itv:1000},tunable:{mwp:1,pwp:1},joint:{wp:0},type:"l",cost:185,hp:20,str:3,tec:-1,wlk:1,tgh:2}
 {id:139,name:"ガルネリンプAM2",cost:35,hp:20,str:-1,tec:2,wlk:2,tgh:2}
 {id:46,name:"ガルラバードAM",type:"a",cost:90,hp:25,str:-1,tec:2,fly:2,tgh:2,main:{pwr:5,shl:620,rng:275,spd:390,itv:160},tunable:{mwp:1},joint:{wp:0}}
 {id:52,name:"ガンアームズAM",type:"lc",cost:60,hp:20,tec:3,fly:2,main:{pwr:10,shl:220,rng:225,spd:400,itv:240},tunable:{mwp:1}}
