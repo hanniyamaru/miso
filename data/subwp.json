@@ -109,7 +109,7 @@
 
 {id:1,name:"ブランクスタッフ",size:"S",cost:40,sub:{str:100,pwr:28,rng:77,spd:94,itv:500},tunable:{pwp:1}}
 {id:2,name:"ホムラスタッフ",size:"M",cost:90,sub:{pwr:25,shl:180,rng:250,spd:290,itv:1000}}
-{id:3,name:"カムイスタッフ",size:"M",cost:160,sub:{str:100,pwr:32,rng:91,spd:110,itv:500},tunable:{pwp:1}}
+{id:3,name:"カムイスタッフ",size:"M",cost:160,sub:{str:100,pwr:32,rng:91,spd:110,itv:500},tunable:{pwp:1},comment:"デモンブレード共通"}
 
 
 {id:3000,name:"ハクメンスクナアニマ",size:"M",cost:150,type:"l",sub:{str:100,pwr:34,rng:70,spd:85,itv:500},tunable:{pwp:1}}
