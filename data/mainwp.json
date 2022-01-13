@@ -305,7 +305,7 @@
 
 {id:503,name:"アクアショット",main:{pwr:19,shl:340,rng:250,spd:400,itv:500},type:"l",size:"S",cost:70,comment:"イオンAM2専用コンバージョンパーツ",tunable:{mwp:1}}
 {id:119,name:"インパクトアロー",main:{pwr:22,shl:230,rng:225,spd:480,itv:600},type:"l",size:"M",cost:30,comment:"ロビンハンターAM専用コンバージョンパーツ",slot:0}
-{id:95,name:"オートチャージカセット",main:{pwr:28,shl:60,rng:300,spd:480,itv:500},type:"a",size:"S",cost:30,slot:0,comment:"ステラ・カラカル専用コンバージョンパーツ　アウロラキャノン省略"}
+
 {id:152,name:"オフダシューター",main:{pwr:10,shl:1050,rng:250,spd:400,itv:600},tunable:{mwp:1},type:"ls",size:"M",cost:70}
 {id:67,name:"エアリーデ・ビットα",main:{pwr:[4,5,6],shl:[840],rng:275,spd:440,itv:900},size:"S",type:"a",slot:0,cost:70,comment:"ビットホルダー専用コンバージョンパーツ"}
 {id:68,name:"エアリーデ・ビットβ",main:{pwr:[6,7,8],shl:[920],rng:275,spd:400,itv:380},size:"S",type:"a",slot:0,cost:100,comment:"ビットホルダー専用コンバージョンパーツ"}
@@ -337,8 +337,6 @@
 {id:502,name:"パワーアロー",main:{pwr:28,shl:230,rng:225,spd:480,itv:700},type:"l",size:"M",cost:30,comment:"ロビンハンターAM専用コンバージョンパーツ",slot:0}
 {id:96,name:"ビームクリスタル",main:{pwr:11,shl:500,rng:275,spd:440,itv:700},tunable:{mwp:1},type:"a",size:"S",cost:70,comment:"フラクタリスガール専用コンバージョンパーツ"}
 
-
-{id:94,name:"ビームショットカセット",main:{pwr:18,shl:420,rng:275,spd:440,itv:300},type:"a",size:"S",cost:70,comment:"ステラ・カラカル専用コンバージョンパーツ　アウロラキャノン省略",tunable:{mwp:1}}
 
 {id:501,name:"ブラディスターAM@",main:{pwr:17,shl:50,rng:250,spd:400,itv:500},size:"M",type:"c",cost:25,slot:0,comment:["非ロックでの飛距離が表記程度","ロックオン武器の射程で飛距離が変わる"]}
 {id:121,name:"フレアテール",main:{tec:100,pwr:7,shl:660,rng:275,spd:300,itv:500},tunable:{mwp:1,pwp:0},type:"a",size:"M",cost:60,fixedParts:{wp:{name:"フレアテール@1",sub:{pwr:1,shl:60,rng:0,spd:200,itv:1000},tunable:{pwp:0,mwp:0},cost:50,type:"a",size:"M",slot:0}},joint:{wp:1}}
@@ -373,6 +371,12 @@
 {group:"ジゼル・ノワールコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:167,name:"スティグマシールド",main:{shl:50,spd:10,itv:1000},type:"l",size:"S",cost:20,comment:"ジゼル･ノワールAM専用コンバージョンパーツ",slot:0}
 {id:154,name:"セルメントノワール",sub:{pwr:32,rng:70,spd:85,itv:1000,str:100},tunable:{mwp:0,pwp:1},type:"l",size:"S",cost:190,comment:"ジゼル･ノワールAM2専用コンバージョンパーツ"}
+
+{group:"ステラ・カラカルコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
+{id:95,name:"オートチャージカセット",main:{pwr:28,shl:60,rng:300,spd:480,itv:500},type:"a",size:"S",cost:30,slot:0,comment:"ステラ・カラカル専用コンバージョンパーツ　アウロラキャノン省略"}
+{id:9402,name:"チャージディレイカセット",main:{pwr:30,shl:80,rng:275,spd:480,itv:500},type:"a",size:"S",cost:30,comment:"ステラ・カラカル専用コンバージョンパーツ　アウロラキャノンⅡ省略",tunable:{mwp:1}}
+{id:94,name:"ビームショットカセット",main:{pwr:18,shl:420,rng:275,spd:440,itv:300},type:"a",size:"S",cost:70,comment:"ステラ・カラカル専用コンバージョンパーツ　アウロラキャノン省略",tunable:{mwp:1}}
+{id:9401,name:"ビームミサイルカセット",main:{pwr:15,shl:480,rng:275,spd:300,itv:500},type:"a",size:"S",cost:70,comment:"ステラ・カラカル専用コンバージョンパーツ　アウロラキャノンⅡ省略",tunable:{mwp:1}}
 
 {group:"セリュー・ブランシュコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:151,name:"ディアブルカシェ",sub:{pwr:11,shl:300,rng:350,spd:280,itv:1000},type:"c",size:"S",cost:50,slot:0,comment:["セリュー・ブランシェ専用","ブクリエカノン固定パーツ","-"]}
