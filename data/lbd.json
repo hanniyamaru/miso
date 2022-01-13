@@ -4,7 +4,6 @@
 
 {group:"Ｓ陸　近日更新分",prefixID:"LS",commonStat:{size:"S",type:"l"},nextID:35}
 
-{id:53,name:"リーシャBD",builtin:{bs:1},joint:{bs:0,hdac:2},cartridge:{hpup:14,lv1:"4*6@25|17@20|18@20|19@20|20@20|23@25|22@30|15@30|16@20|30@20|21@20|13@20|27@10|32@30|31@40"},fixedParts:{hdac:["S1","S1"],hd:{name:"リーシャHD",cost:40,hp:25,str:1,tec:2,wlk:1,fly:-1,tgh:2},lg:{name:"リーシャLG",cost:45,hp:25,str:1,wlk:3,fly:2},am:[{name:"リーシャAM",,main:{pwr:0,shl:10,rng:300,spd:300,itv:1000,tec:100},tunable:{mwp:1},joint:{wp:1},fixedParts:{wp:[{name:"マグナスクルス",main:{pwr:6,shl:240,rng:275,spd:280,itv:1000,tec:100},sub:{tec:100,pwr:32,rng:90,spd:85,itv:1000},tunable:{mwp:1,pwp:1},cost:170}},]},cost:80,hp:25,str:-1,tec:3,wlk2,tgh:1,comment:"アモゥベイニック"},{name:"リーシャAM2",joint:{wp:1},fixedParts:{wp:[{name:"リーシャの愛読書",sub:{tec:100,pwr:50,rng:300,spd:400,itv:1000},cost:10},]},cost:40,hp:25,str:-1,tec:3,wlk:2,tgh:1}]},cost:485,capa:900,hp:250,str:4,tec:15,wlk:11,fly:13,tgh:10,wbid:0}
 
 {id:12051,name:"ゼロセイバーRKBD",sub:{shl:[30],rng:[120],spd:[250],itv:1000},cartridge:{hpup:20,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|25@25|26@20|13@30|34@15|32@50|31@40"},type:"l",size:"S",wbid:5,cost:770,capa:810,hp:430,str:10,tec:10,wlk:40,fly:1,tgh:10,fixedParts:{hd:{name:"ゼロセイバーRKHD",slot:0},bs:{name:"ゼロセイバーRKBS",slot:0},lg:{name:"ゼロセイバーRKLG",slot:0},am:[{name:"ゼロセイバーRKAM",slot:0},{name:"ゼロセイバーRKAM",slot:0}]},comment:["専用メモリーはアクセ枠の物を使用してください","実機にアクセサリー枠はありません"]}
 
