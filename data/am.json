@@ -610,6 +610,8 @@
 {id:147,name:"ロッソアスピーデAM2",type:"lacs",size:"L",cost:40,hp:25,tec:2,wlk:-1,fly:2,tgh:2}
 {id:789,name:"ロトンレムレスAM",cost:35,hp:20,str:1,tec:-1,wlk:1,fly:1,tgh:3}
 
+{id:2022113,name:"C・バルロッサAM",main:{pwr:11,shl:480,rng:275,spd:400,itv:300},tunable:{mwp:1},type:"a",cost:85,hp:20,str:-1,tec:3,fly:2,tgh:1}
+
 
 
 
