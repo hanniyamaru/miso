@@ -512,7 +512,7 @@
 
 {id:60,name:"ロトンレムレスLG",cost:45,hp:25,str:2,tec:2,wlk:2,fly:-1}
 
-
+{id:2022113,name:"バルロッサLG",sub:{pwr:26,shl:130,rng:70,spd:85,itv:1000,str:100},tunable:{pwp:1},type:"a",cost:165,hp:50,str:2,tec:-1,wlk:2,fly:2,tgh:1}
 
 
 
