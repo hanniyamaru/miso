@@ -374,7 +374,7 @@
 
 
 
-{id:2022113,name:"ファルクスHD2",main:{str:100,pwr:20,shl:50,rng:200,spd:570,itv:500},tunable:{mwp:1},type:"l",cost:65,hp:20,str:2,tec:-1,wlk:2,fly:1,tgh:1}
+{id:20221131,name:"ファルクスHD2",main:{str:100,pwr:20,shl:50,rng:200,spd:570,itv:500},tunable:{mwp:1},type:"l",cost:65,hp:20,str:2,tec:-1,wlk:2,fly:1,tgh:1}
 
 {id:212,name:"ファルクラムHD",cost:35,hp:20,str:2,wlk:-1,fly:2,tgh:2}
 
