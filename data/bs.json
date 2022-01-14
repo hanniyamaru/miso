@@ -524,6 +524,7 @@
 
 
 {id:10,name:"ビッグマンテスBS",type:"a",cost:40,hp:25,tec:1,fly:2,tgh:2}
+{id:42,name:"ファルクスBS",type:"l",cost:35,hp:20,str:1,wlk:1,fly:3}
 
 {id:96,name:"フラッシュボマーBS",type:"c",size:"L",cost:35,hp:20,tec:2,fly:2,tgh:1}
 
