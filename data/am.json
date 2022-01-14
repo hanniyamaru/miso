@@ -543,9 +543,9 @@
 {id:2022114,name:"パーポAM",size:"L",cost:35,hp:20,str:2,wlk:2,fly:-1,tgh:2}
 {id:790,name:"ハクメンスクナAM",cost:40,hp:25,str:1,tec:1,fly:2,tgh:1}
 
-{id:171,name:"ハディロスAM",type:"l",size:"L",cost:30,hp:15,str:1,tec:1,wlk:1,fly:1,tgh:1}
+{id:171,name:"ハディロスAM",type:"l",size:"L",cost:30,hp:15,tec:1,wlk:1,fly:1,tgh:1}
 {id:172,name:"ハディロスAM2",joint:{wp:0},type:"l",size:"L",cost:145,hp:20,str:4,tec:-1,wlk:1,tgh:1,sub:{str:100,pwr:25,rng:70,spd:85,itv:1500},tunable:{pwp:1}}
-{id:122,name:"バフデバスターAM",sub:{pwr:22,rng:150,spd:10,itv:1000,str:100},tunable:{pwp:1},cost:60,hp:20,str:1,fly:1,tgh:3,type:""}
+{id:122,name:"バフデバスターAM",sub:{pwr:22,rng:150,spd:10,itv:1000,str:100},tunable:{pwp:1},cost:60,hp:20,str:1,fly:1,tgh:3,type:"s"}
 
 
 {id:13,name:"パルサーディオAM",cost:40,hp:25,str:2,wlk:1,tgh:2}
