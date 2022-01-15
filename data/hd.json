@@ -443,6 +443,7 @@
 {id:320,name:"メトラHD2",cost:35,hp:20,str:1,tec:1,fly:1,tgh:2,size:"M"}
 {id:95,name:"モールニードスHD",cost:40,hp:25,wlk:2,fly:2,tgh:1}
 
+{id:294,name:"ユングヴィHD",type:"lacs",cost:35,hp:20,str:2,wlk:-1,fly:1,tgh:3}
 
 
 {id:536,name:"ライオスHD",cost:35,hp:20,str:1,tec:1,wlk:1,fly:1,tgh:1}
