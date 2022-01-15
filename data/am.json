@@ -322,6 +322,8 @@
 {id:185,name:"ハードボンバーAM2",type:"lc",size:"S",cost:75,hp:20,wlk:1,fly:1,tgh:3,sub:{rng:100,spd:50,itv:500},joint:{wp:0},comment:["シールド耐久値100","2021/11/2"]}
 
 {id:146,name:"ハイガクゥーンAM",sub:{tec:100,pwr:27,rng:70,spd:85,itv:500},tunable:{pwp:1},type:"lc",size:"M",cost:75,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
+{id:168,name:"ハイガクゥーンAM2",main:{tec:100,pwr:7,shl:850,rng:330,spd:280,itv:900},tunable:{mwp:1},type:"c",size:"M",cost:115,hp:15,str:-1,tec:3,wlk:1,fly:1}
+
 {id:95,name:"ハイバリオンAM",joint:{wp:2},type:"c",cost:100,hp:25,tec:2,wlk:1,fly:1,tgh:2,fixedParts:{wp:{name:"ハイバリオンAM@",sub:{pwr:20,shl:130,rng:350,spd:290,itv:1000,tec:100},slot:0}}}
 
 
