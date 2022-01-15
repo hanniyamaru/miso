@@ -33,7 +33,7 @@
 
 {id:98,name:"オルフェノスBD",joint:{am:1},cartridge:{lv1:"85*6@25|17@20|20@20|23@25|22@30|25@25|16@20|29@10|14@10|28@20|18@20|19@20|13@20|32@30|31@40",hpup:18},fixedParts:{am:{joint:{wp:1},fixedParts:{wp:{name:"ハープ",joint:{wp:2},type:"s",size:"S"}},name:"オルフェノスAM",cost:70,hp:40,str:2,tec:2,wlk:4,fly:4,tgh:-2,type:"s",size:"S"}},type:"s",size:"S",cost:405,capa:780,hp:210,str:7,tec:8,wlk:10,fly:8,tgh:12}
 {id:63,name:"キンギョBD",main:{shl:240,rng:70,spd:20,itv:700},sub:{str:100,pwr:25,rng:120,spd:200,itv:3000},builtin:{bs:1},cartridge:{hpup:35,lv1:"75*6@25|17@20|18@20|19@20|20@20|23@25|22@30|29@10|53@10|21@20|28@20|14@10|13@20|32@30|31@40"},fixedParts:{lg:{name:"キンギョLG",cost:40,hp:20,str:1,tec:1,wlk:2,tgh:1,size:"S",type:"s"}},cost:565,capa:675,hp:220,str:13,tec:13,wlk:21,fly:19,tgh:9,wbid:10,comment:["回復量10","金魚ちゃんS"],joint:{hd:0,bs:0,am:0,wp:1,hdac:1,fcac:1}}
-
+{id:48,name:"ジェミニオンBD",sub:{pwr:46,shl:[50],rng:[250],spd:80,itv:[1000]},builtin:{bs:1},joint:{bs:0,hdac:1},cost:410,hp:200,str:6,tec:6,wlk:12,fly:11,tgh:6,capa:640,wbid:1,cartridge:{hpup:18,lv1:"85*5@25|61*2@35|17@20|18@20|19@20|20@20|12@20|23@25|25@25|28@20|21@20|30@20|13@20|32@30|31@40"},fixedParts:{hdac:["S1"]},comment:"内蔵強化値不明"}
 
 {id:4,name:"シャインバスターBD",cost:445,capa:850,hp:225,str:10,tec:10,wlk:7,fly:7,tgh:14,cartridge:{hpup:14,lv1:"4*6@25|17@20|18@20|19@20|20@20|22@30|14@10|28@20|33@40|23@25|21@20|26@20|13@20|32@30|31@40"}}
 
