@@ -393,7 +393,7 @@
 {id:2,name:"ミカドマックスBS",type:"l",cost:40,hp:25,str:2,fly:2,tgh:1}
 {id:7,name:"メカジェッターBS",type:"a",cost:35,hp:20,tec:1,fly:3,tgh:1}
 {id:66,name:"メディージャーBS",type:"s",cost:40,hp:25,str:1,fly:3,tgh:1}
-
+{id:130,name:"ユングヴィBS",main:{pwr:11,shl:460,rng:275,spd:280,itv:780},tunable:{mwp:0},cost:115,hp:20,str:-1,tec:2,wlk:1,fly:3,type:"a",size:"M",comment:["BS@省略・武器チューン不可"]}
 {id:444,name:"ライオスBS",type:"l",cost:40,hp:25,str:1,fly:3,tgh:1}
 
 {id:143,name:"ラムダイバーBS",sub:{shl:10,itv:500},type:"a",size:"M",cost:70,hp:25,fly:4,tgh:1,comment:["使用すると落下が低速になり、スウェーのような空中ダッシュアクションが使えるようになる。","。"]}
