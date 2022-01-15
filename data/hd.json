@@ -225,6 +225,8 @@
 {id:35,name:"シェイデンHD",cost:40,hp:25,str:1,tec:1,wlk:1,tgh:2}
 {id:122,name:"シェイデンHD2",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:2,tgh:1}
 {id:299,name:"シェイデンHD3",type:"lacs",size:"M",cost:40,hp:25,str:-1,wlk:2,fly:2,tgh:2}
+{id:147,name:"ジェミニオンHD",cost:35,hp:20,str:2,tec:-1,wlk:2,fly:2}
+
 {id:406,name:"ジェネシオンHD",cost:35,hp:20,str:1,tec:1,wlk:-1,fly:3,tgh:1}
 {id:271,name:"ジェネラルドHD",cost:35,hp:20,str:1,tec:1,wlk:2,fly:1}
 
