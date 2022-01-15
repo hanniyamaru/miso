@@ -557,7 +557,7 @@
 {id:72,name:"ビクトールAM",main:{pwr:28,shl:200,rng:330,spd:520,itv:500},tunable:{mwp:1},type:"c",cost:185,hp:20,str:-1,tec:3,wlk:1,fly:2,joint:{wp:0}}
 {id:71,name:"ビクトールAM2",cost:35,hp:20,tec:2,wlk:2,fly:2,tgh:-1}
 {id:74,name:"ビクトールAM3",main:{tec:100,pwr:32,shl:220,rng:330,spd:360,itv:800},tunable:{mwp:1},type:"c",cost:185,hp:20,str:-1,tec:3,fly:1,tgh:2,joint:{wp:0}}
-
+{id:89,name:"ビクトールAM4",main:{pwr:15,shl:840,rng:330,spd:480,itv:140},tunable:{mwp:1},type:"c",cost:165,hp:20,str:-1,tec:4,tgh:2,joint:{wp:0}}
 {id:14,name:"ビッグマンテスAM",cost:35,hp:20,str:2,tec:1,tgh:2}
 
 
