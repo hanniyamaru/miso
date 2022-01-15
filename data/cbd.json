@@ -115,7 +115,7 @@
 {id:37,name:"スカラベスBD",cartridge:{hpup:18,lv1:"85*6@20|7@20|10@20|8@15|18@20|19@20|20@15|23@25|22@30|21@20|25@25|15@30|13@30|32@40|31@40"},type:"c",size:"M",cost:405,capa:800,hp:245,str:4,tec:13,wlk:12,fly:8,tgh:8,wbid:3}
 
 {id:2022113,name:"スキロンBD",cost:445,capa:905,hp:255,str:3,tec:12,wlk:9,fly:9,tgh:7,wbid:4,cartridge:{hpup:14,lv1:"4*6@20|7@20|10@20|8@15|18@20|19@20|20@15|23@25|26@10|30@20|21@20|25@25|13@30|32@40|31@40"},fixedParts:{lg:{name:"スキロンLG",cost:135,hp:25,str:1,tec:2,wlk:2,tgh:1,sub:{tec:100,pwr:30,shl:5,rng:10,spd:0,itv:1000},comment:"LG@cost90複合",tunable:{pwp:0}}}}
- {id:11,name:"ダグドライバーBD",cartridge:{lv1:"4*6@20|7@20|10@20|8@15|18@20|19@20|20@15|23@25|26@10|28@30|21@20|14@20|13@30|32@40|31@40",hpup:14},cost:445,capa:870,hp:255,str:7,tec:13,wlk:11,fly:7,tgh:10,wbid:4}
+ {id:11,name:"ダグドライバーBD",cartridge:{lv1:"4*6@20|7@20|10@20|8@15|18@20|19@20|20@15|23@25|26@10|28@30|21@20|14@20|13@30|31@40|32@40",hpup:14},cost:445,capa:870,hp:255,str:7,tec:13,wlk:11,fly:7,tgh:10,wbid:4}
 {id:48,name:"テオライネBD",joint:{bs:0},cartridge:{hpup:14,lv1:"4*6@20|7@20|10@20|8@15|17@20|18@20|19@20|20@15|23@25|25@25|21@20|26@10|13@30|32@40|31@40"},cost:515,capa:870,hp:255,str:4,tec:15,wlk:11,fly:8,tgh:10,wbid:4,sub:{tec:100,pwr:22,shl:0,rng:300,spd:500,itv:1000},joint:{wp:1,bs:0},fixedParts:{wp:["W1"]},comment:"BD@cost70合算"}
 {id:48107,name:"テオライネBD3",joint:{bs:0},cartridge:{hpup:14,lv1:"4*5@20|61*2@30|7@20|10@20|8@15|18@20|19@20|20@15|23@25|25@25|21@20|26@10|13@30|32@40|31@40"},cost:515,capa:870,hp:255,str:4,tec:16,wlk:10,fly:9,tgh:9,wbid:4,main:{tec:100,pwr:6,shl:1350,rng:350,spd:240,itv:900},joint:{wp:1,bs:0},fixedParts:{wp:["W1"]},comment:"BD@cost70合算"}
 
