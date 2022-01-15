@@ -38,6 +38,10 @@
 {id:76,name:"サイコフォーミュラAM4",main:{pwr:21,shl:310,rng:330,spd:220,itv:560},type:"c",cost:125,hp:20,str:-1,tec:3,fly:2,tgh:1,tunable:{mwp:1},joint:{wp:0}}
 
 {id:18,name:"ジークンロンαAM",cost:35,hp:20,str:1,tec:1,wlk:2,tgh:1,comment:"ジークンαAM"}
+{id:80,name:"ジェミニオンAM",cost:35,hp:20,str:-1,tec:1,wlk:2,fly:2,tgh:1}
+{id:85,name:"ジェミニオンAM2",main:{pwr:14,shl:600,rng:250,spd:480,itv:140},joint:{wp:0},type:"s",size:"SS",cost:165,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1}
+
+
 {id:305,name:"シシナAM",type:"l",size:"S",cost:155,hp:20,str:-1,tec:3,wlk:2,tgh:1,joint:{wp:0},main:{pwr:19,shl:630,rng:250,spd:440,itv:140,tec:100},tunable:{mwp:1}}
 {id:306,name:"シシナAM2",type:"l",size:"S",cost:145,hp:20,str:3,tec:-1,wlk:2,tgh:1,joint:{wp:0},main:{pwr:20,shl:50,rng:200,spd:570,itv:500,str:100},sub:{pwr:30,shl:50,rng:90,spd:150,itv:1000,str:100},tunable:{mwp:1,pwp:1}}
 
