@@ -291,6 +291,8 @@
 
 {id:112,name:"ダイモンHD",cost:40,hp:25,str:2,tec:-1,wlk:2,fly:1,tgh:1}
 {id:113,name:"ダイモンHD2",cost:40,hp:25,str:-1,tec:2,wlk:2,fly:1,tgh:1}
+{id:116,name:"ダグドライバーHD",sub:{str:100,pwr:28,rng:70,spd:85,itv:1000},tunable:{pwp:1},type:"lc",cost:75,hp:20,str:2,tec:-1,wlk:1,fly:1,tgh:2}
+
 {id:335,name:"ダルタニスHD2",cost:35,hp:20,str:2,tec:-1,wlk:3,fly:1}
 
 {id:195,name:"テオライネHD",cost:35,hp:20,str:1,tec:-1,wlk:1,fly:2,tgh:2}
