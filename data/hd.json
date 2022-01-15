@@ -458,7 +458,7 @@
 
 {id:284,name:"ランパーニルHD",main:{str:100,pwr:5,shl:600,rng:225,spd:400,itv:300},cost:65,hp:20,str:2,tec:-1,wlk:1,fly:1,tgh:2,size:"M",tunable:{mwp:1},type:"ls"}
 
-{id:2022114,name:"リバースサンダーHD",type:"lacs",cost:35,hp:20,tec:2,fly:2,tgh:1}
+{id:20221141,name:"リバースサンダーHD",type:"lacs",cost:35,hp:20,tec:2,fly:2,tgh:1}
 {id:249,name:"リフィHD",cost:40,hp:25,str:-1,tec:1,wlk:2,fly:2,tgh:1}
 
 
