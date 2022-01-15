@@ -321,7 +321,7 @@
 
 {id:107,name:"ラムダイバーLG",type:"lacs",cost:45,hp:25,tec:2,wlk:3,fly:1,tgh:-1,size:"M",fly:1,tgh:-1}
 {id:91,name:"ランドスLG",cost:45,hp:30,tec:2,wlk:4,fly:-1,tgh:1}
-
+{id:126,name:"リバースサンダーLG",sub:{shl:30,itv:1000},type:"c",size:"M",cost:75,hp:25,str:-1,tec:1,wlk:2,fly:3,tgh:1}
 {id:9,name:"リリレインαLG",cost:45,hp:25,tec:1,wlk:2,fly:1,tgh:1}
 
 {id:72,name:"ルクスLG",cost:45,hp:25,str:1,wlk:2,fly:2,tgh:1}
