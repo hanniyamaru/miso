@@ -400,6 +400,8 @@
 
 {id:5,name:"ランサーロットBS",type:"l",cost:40,hp:25,wlk:1,fly:3,tgh:1}
 {id:110,name:"ランドスBS",sub:{pwr:7,shl:500,rng:350,spd:290,itv:1000},cost:120,hp:25,str:-1,tec:2,wlk:2,fly:2,type:"c"}
+{id:202214,name:"リバースサンダーBS",sub:{pwr:11,shl:360,rng:350,spd:280,itv:1000},tunable:{pwp:0},cost:115,hp:30,str:-1,tec:2,wlk:2,fly:2,type:"c",size:"M"}
+
 
 {id:83,name:"ルクスBS",cost:40,hp:25,str:1,tec:1,fly:4,tgh:-1,type:"a"}
 {id:667,name:"ルッカ・デーコBS",type:"l",size:"M",cost:40,hp:25,str:1,tec:1,wlk:1,fly:3,tgh:-1}
