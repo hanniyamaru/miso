@@ -2,29 +2,28 @@
 {id:1,name:"BSスロット",slot:3,joint:{hdac:0,fcac:0,hd:0},comment:"ゲーム内機体参照の上、任意の個数増設してください"}
 
 
-{group:"特殊・汎用BS",prefixID:"EXT",commonStat:{size:"M"},nextID:1}
+{group:"特殊・汎用・交換系BS",prefixID:"EXT",commonStat:{size:"M"},nextID:1}
+{id:139,name:"アクアジェットBS",sub:{shl:0,rng:150,spd:350,itv:1000},cost:60,hp:25,str:1,wlk:2,fly:2}
 {id:93,name:"ジェットアクセルBS",sub:{pwr:0,shl:0,rng:100,spd:200,itv:1000},tunable:{pwp:0,mwp:0},cost:60,hp:25,wlk:1,fly:3,tgh:1,comment:"-"}
 {id:133,name:"ジェットウィングBS",sub:{str:100,shl:20,rng:100,spd:200,itv:2000},type:"lacs",size:"M",cost:60,hp:25,tec:1,wlk:1,fly:3,comment:"-"}
 {id:94,name:"スウィフトジェットBSα",sub:{shl:30,rng:100,spd:150,itv:1000},tunable:{pwp:0},cost:60,hp:25,tec:1,wlk:1,fly:3}
 {id:95,name:"スウィフトジェットBSβ",sub:{shl:30,rng:100,spd:150,itv:1000},tunable:{pwp:0},cost:60,hp:25,str:1,wlk:1,fly:3}
 {id:101,name:"ブレイブドライブBS",sub:{shl:0,rng:150,spd:350,itv:1000},cost:60,hp:25,str:1,wlk:2,fly:2}
-{id:139,name:"アクアジェットBS",sub:{shl:0,rng:150,spd:350,itv:1000},cost:60,hp:25,str:1,wlk:2,fly:2}
 {id:79,name:"リグニションBS",type:"a",cost:70,hp:25,fly:4,tgh:1,sub:{pwr:1,shl:100,rng:10,spd:150,itv:1000},comment:"BSゲージ回復効果"}
 
-{id:82,name:"ソルボルカノウィングBS",sub:{pwr:20,shl:0,rng:100,spd:120,itv:1000},cost:60,hp:25,wlk:1,fly:3,tgh:1,comment:"-"}
-{id:45,name:"ボルカニクスBS",cost:35,hp:20,wlk:2,fly:3}
-{id:40,name:"テントリオンBS",size:"S",cost:35,hp:20,tec:1,wlk:-1,fly:3,tgh:2}
-{id:22,name:"エースブレイバーBS",size:"S",cost:40,hp:25,wlk:1,fly:3,tgh:1}
-{id:111,name:"アビス・ジークンフーBS",size:"S",cost:35,hp:20,str:3,tec:-1,fly:2,tgh:1}
-{id:112,name:"クロエBS",size:"S",cost:35,hp:20,str:-1,tec:3,fly:2,tgh:1}
 
-{id:122,name:"サイバーステップロゴBSα",cost:30,hp:15,tec:1,fly:3}
-{id:124,name:"サイバーステップロゴBSβ",cost:30,hp:15,wlk:1,fly:3}
-{id:125,name:"サイバーステップロゴBSγ",cost:30,hp:15,str:1,fly:3}
+{id:122,name:"サイバーステップロゴBSα",cost:30,hp:15,tec:1,fly:3,comment:"ユニオンコイン景品"}
+{id:124,name:"サイバーステップロゴBSβ",cost:30,hp:15,wlk:1,fly:3,comment:"ユニオンコイン景品"}
+{id:125,name:"サイバーステップロゴBSγ",cost:30,hp:15,str:1,fly:3,comment:"ユニオンコイン景品"}
 {id:461,name:"赤ランドセルBS",type:"lacs",cost:35,hp:20,wlk:1,fly:3,tgh:1,comment:["エンジェルコイン景品"]}
 {id:1210,name:"リュックリムBS",size:"M",type:"lacs",cost:35,hp:20,tec:1,wlk:1,fly:3,comment:["エンジェルコイン景品"]}
 {id:121,name:"リュックリリBS",size:"M",type:"lacs",cost:35,hp:20,tec:1,fly:3,tgh:1,comment:["エンジェルコイン景品"]}
-{id:1213,name:"トレバフラッグBS",size:"M",type:"lacs",cost:30,hp:15,wlk:2,fly:2,comment:["イベントフラッグ系BS共通"]}
+{id:1213,name:"トレバフラッグBS",size:"M",type:"lacs",cost:30,hp:15,wlk:2,fly:2,comment:["イベントフラッグ系BS共通","NPCトレバ"]}
+{id:1214,name:"イルミネートXmasBSα",size:"M",type:"lacs",cost:35,hp:20,tec:1,wlk:1,fly:3,comment:["Xmasキューブ","シルバー"]}
+{id:1215,name:"イルミネートXmasBSβ",size:"M",type:"lacs",cost:35,hp:20,str:1,wlk:1,fly:3,comment:["Xmasキューブ","ゴールド"]}
+{id:1216,name:"ウィッシュプレートBS",sub:{itv:1000},size:"M",type:"lacs",cost:35,hp:20,wlk:1,fly:3,tgh:1,comment:["NYキューブ2022"]}
+{id:1217,name:"ラフィールレイピアBS",size:"M",type:"lacs",cost:35,hp:20,str:1,wlk:1,fly:3,comment:["NPCラフィール"]}
+
 
 {id:1211,name:"スターエッジBS",size:"M",type:"lacs",cost:35,hp:20,wlk:2,fly:2,tgh:1,comment:["各種コイン景品"]}
 {id:1212,name:"ダブルスターエッジBS",size:"M",type:"lacs",cost:35,hp:20,wlk:1,fly:3,tgh:1,comment:["各種コイン景品"]}
@@ -53,11 +52,14 @@
 {id:37,name:"アームドビルダームBS2",type:"c",cost:65,hp:20,tec:2,wlk:-1,fly:2,tgh:2,main:{pwr:10,shl:450,rng:330,spd:190,itv:820},tunable:{mwp:1}}
 
 {id:510,name:"アイシーBS",type:"c",cost:40,hp:25,tec:1,wlk:1,fly:3}
+{id:111,name:"アビス・ジークンフーBS",size:"S",cost:35,hp:20,str:3,tec:-1,fly:2,tgh:1}
+
 {id:102,name:"アルテリスBS",type:"l",cost:40,hp:25,tec:-1,wlk:1,fly:3,tgh:2}
 
 {id:160,name:"アレスターBS",type:"s",cost:40,hp:25,str:1,wlk:2,fly:2,size:"S"}
 
 {id:55,name:"イオンαBS",type:"l",cost:40,hp:25,tec:2,wlk:1,fly:2}
+{id:22,name:"エースブレイバーBS",size:"S",cost:40,hp:25,wlk:1,fly:3,tgh:1}
 
 {id:113,name:"エアリーデBS",sub:{shl:50,rng:100,spd:120,itv:1000},type:"a",cost:65,hp:20,tec:2,wlk:-1,fly:4}
 {id:31,name:"オウカBS",type:"l",cost:40,hp:20,str:1,tec:-1,wlk:1,fly:3,tgh:1}
@@ -70,6 +72,7 @@
 {id:15,name:"キャノンボールBS",type:"c",cost:35,hp:20,str:1,fly:3,tgh:1}
 {id:97,name:"キャノンボールHLBS",type:"c",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:3,tgh:1}
 
+{id:112,name:"クロエBS",size:"S",cost:35,hp:20,str:-1,tec:3,fly:2,tgh:1}
 
 {id:14,name:"クロスラプターBS",type:"a",cost:40,hp:25,str:1,wlk:1,fly:3}
 
@@ -111,6 +114,7 @@
 {id:18,name:"タラントリックBS",type:"s",cost:35,hp:20,wlk:1,fly:3,tgh:1}
 {id:19,name:"ダルマスターBS",type:"s",cost:35,hp:20,str:1,fly:3,tgh:1}
 {id:24,name:"ディカロスBS",type:"a",cost:40,hp:25,tec:1,fly:4}
+{id:40,name:"テントリオンBS",size:"S",cost:35,hp:20,tec:1,wlk:-1,fly:3,tgh:2}
 
 {id:81,name:"デストラクトガールBS",type:"c",cost:40,hp:20,fly:2,tgh:3}
 {id:57,name:"トノサマランダーBS",type:"l",cost:40,hp:25,wlk:1,fly:3,tgh:1}
@@ -323,6 +327,7 @@
 
 {id:180,name:"ソルブレンサーBS",type:"l",size:"M",cost:40,hp:25,str:1,tec:1,wlk:1,fly:2}
 {id:136,name:"ソルフロストBS",size:"M",type:"a",cost:35,hp:20,str:-1,wlk:2,fly:3,tgh:1}
+{id:82,name:"ソルボルカノウィングBS",sub:{pwr:20,shl:0,rng:100,spd:120,itv:1000},cost:60,hp:25,wlk:1,fly:3,tgh:1,comment:"MISSIONコイン景品"}
 
 {id:49,name:"ダグドライバーBS",type:"c",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:3}
 {id:113,name:"ダルタニスBS",type:"l",cost:55,hp:20,str:-1,wlk:2,fly:2,tgh:2,comment:"シールド耐久値不明"}
@@ -385,6 +390,7 @@
 {id:10,name:"ホバリオンBS",type:"c",cost:40,hp:25,tec:1,fly:3,tgh:1}
 {id:29,name:"ホバリオン・マグナBS",type:"c",cost:40,hp:25,tec:2,fly:3}
 {id:91,name:"ホプリテスBS",type:"c",cost:40,hp:25,tec:2,wlk:-1,fly:3,tgh:1}
+{id:45,name:"ボルカニクスBS",cost:35,hp:20,wlk:2,fly:3,comment:"MISSIONコイン景品"}
 
 {id:22,name:"マリルマーチαBS",type:"c",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:3,tgh:1}
 {id:123,name:"マンティサイスBS",type:"l",size:"M",cost:40,hp:20,str:1,tec:1,wlk:1,fly:3,tgh:-1}
