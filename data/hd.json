@@ -23,6 +23,7 @@
 {id:15,name:"シャインバスターHD",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2}
 
 {id:11,name:"シャインバトラーHD",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2}
+{id:29,name:"スイフトHD",type:"lacs",size:"S",cost:35,hp:20,tec:2,wlk:2,fly:1}
 
 
 {id:12,name:"ゼロセイバーHD",cost:40,hp:25,str:2,tec:2,tgh:1}
