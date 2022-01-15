@@ -218,10 +218,10 @@
 {id:227,name:"G・リモアBS",type:"c",size:"S",cost:35,hp:20,tec:2,fly:3}
 
 
-{id:112,name:"K・ノンナBS",type:"c",size:"S",cost:35,hp:20,str:-1,tec:3,fly:3,joint:{wp:1},fixedParts:{wp:{name:"K・ノンナBS@",main:{pwr:15,shl:450,rng:350,spd:500,itv:400},sub:{pwr:28,shl:100,rng:350,spd:500,itv:3000},tunable:{mwp:1,pwp:0},type:"c",size:"S",cost:160,comment:"-"}}}
+{id:1129,name:"K・ノンナBS",type:"c",size:"S",cost:35,hp:20,str:-1,tec:3,fly:3,joint:{wp:1},fixedParts:{wp:{name:"K・ノンナBS@",main:{pwr:15,shl:450,rng:350,spd:500,itv:400},sub:{pwr:28,shl:100,rng:350,spd:500,itv:3000},tunable:{mwp:1,pwp:0},type:"c",size:"S",cost:160,comment:"-"}}}
 
 
-{id:135,name:"K・ノンナBS（コンバージョン無し）",type:"c",size:"S",cost:35,hp:20,str:-1,tec:3,fly:3,comment:"K・ノンナBS＠のみ接続可能"}
+{id:1359,name:"K・ノンナBS（コンバージョン無し）",type:"c",size:"S",cost:35,hp:20,str:-1,tec:3,fly:3,comment:"K・ノンナBS＠のみ接続可能"}
 
 {id:204,name:"P・モーナBS",sub:{str:100,pwr:25,shl:30,rng:0,spd:0,itv:1000},type:"c",size:"S",cost:60,hp:20,str:-1,tec:2,fly:2,tgh:2,comment:"実装時現在STR依存表記"}
 
@@ -356,7 +356,7 @@
 
 
 {id:13,name:"パラボロイドBS",type:"s",cost:35,hp:20,str:1,tec:1,fly:3}
-{id:82,name:"ハリーアクセルBS",type:"a",cost:35,hp:20,str:-1,tec:1,fly:3,tgh:2}
+{id:8299,name:"ハリーアクセルBS",type:"a",cost:35,hp:20,str:-1,tec:1,fly:3,tgh:2}
 
 {id:6,name:"バルテオンBS",type:"a",cost:40,hp:25,str:-1,tec:1,fly:3,tgh:2}
 
