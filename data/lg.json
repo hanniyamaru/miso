@@ -77,6 +77,8 @@
 {id:109,name:"フォースドライブLG",type:"lacs",size:"S",cost:45,hp:25,str:1,tec:-1,wlk:3,fly:2}
 
 {id:36,name:"ブリックゲイルLG",cost:45,hp:25,tec:2,wlk:2,fly:2,comment:"BLUE・RED"}
+{id:56,name:"ブリックゲイルLG2",cost:45,hp:25,str:-1,tec:1,wlk:3,fly:2,tgh:1,comment:"BLACK"}
+
 {id:101,name:"ブルーメLG",sub:{str:100,pwr:28,shl:30,rng:80,spd:70,itv:1000},type:"s",size:"S",cost:95,hp:25,str:2,tec:-1,wlk:3,tgh:1,tunable:{pwp:1},builtin:{bs:1}}
 
 {id:1,name:"フログランダーLG",cost:40,hp:20,tec:1,wlk:3,fly:1}
