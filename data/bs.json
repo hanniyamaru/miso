@@ -148,7 +148,7 @@
 
 {id:29,name:"ブリックゲイルBS",type:"a",cost:60,hp:25,wlk:1,fly:4,sub:{shl:50,rng:0,spd:150,itv:1000},comment:"BLUE"}
 {id:30,name:"ブリックゲイルBS2",type:"a",cost:60,hp:25,wlk:1,fly:4,sub:{shl:50,rng:0,spd:150,itv:1000},comment:"RED"}
-
+{id:52,name:"ブリックゲイルBS3",type:"a",cost:60,hp:25,str:-1,tec:2,fly:3,tgh:1,sub:{shl:50,rng:0,spd:150,itv:1000},comment:"BLACK"}
 
 
 
