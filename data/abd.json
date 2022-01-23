@@ -217,7 +217,7 @@
 {id:45,name:"クリスタスBD",sub:{shl:0,rng:100,spd:120,itv:1000},cartridge:{hpup:10,lv1:"75*6@20|7@30|9@15|8@20|19@15|18@30|52@20|23@25|22@30|21@20|26@20|15@20|13@30|32@50|31@40"},type:"a",size:"L",cost:500,capa:945,hp:305,str:6,tec:14,wlk:6,fly:13,tgh:12,wbid:1,comment:"-"}
 {id:37,name:"グリストBD2",cartridge:{lv1:"85*6@20|7@30|9@15|8@20|18@30|19@15|23@25|22@30|52@20|26@20|15@20|21@20|13@30|32@50|31@40",hpup:18},cost:405,capa:800,hp:275,str:5,tec:11,wlk:7,fly:12,tgh:10}
 
-{id:57,name:"クルージスBD",main:{tec:100,pwr:23,shl:240,rng:275,spd:400,itv:700},builtin:{bs:1},joint:{wp:1,bs:0,hdac:1},fixedParts:{wp:{name:"クルージスBD@",main:{tec:100,pwr:4,shl:800,rng:275,spd:400,itv:300},slot:0},hdac:["S1"]},type:"a",size:"L",cost:590,capa:945,hp:305,str:6,tec:14,wlk:7,fly:13,tgh:11,cartridge:{hpup:10,lv1:"75*5@20|60*2@30|7@30|9@15|8@20|18@30|19@15|52@20|26@20|21@20|23@25|22@30|13@30|32@50|31@40"},comment:["BD@cost+50複合","内蔵強化値不明"]}
+{id:57,name:"クルージスBD",main:{tec:100,pwr:[23,24,25],shl:240,rng:[275],spd:[400,420,440],itv:700},builtin:{bs:1},joint:{wp:1,bs:0,hdac:1},fixedParts:{wp:{name:"クルージスBD@",main:{tec:100,pwr:[5,6,7],shl:920,rng:[275,285,300],spd:400,itv:300},slot:0},hdac:["S1"]},type:"a",size:"L",cost:590,capa:945,hp:305,str:6,tec:14,wlk:7,fly:13,tgh:11,cartridge:{hpup:10,lv1:"75*5@20|60*2@30|7@30|9@15|8@20|18@30|19@15|52@20|26@20|21@20|23@25|22@30|13@30|32@50|31@40"},comment:["BD@cost+50複合","-"]}
 
 
 
