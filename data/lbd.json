@@ -4,7 +4,7 @@
 
 {group:"Ｓ陸　近日更新分",prefixID:"LS",commonStat:{size:"S",type:"l"},nextID:35}
 
-
+{id:168,name:"メルクーリオBD",sub:{pwr:25,shl:0,rng:120,spd:250,itv:1000,str:100},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|16@20|15@15|21@20|13@30|34@15|32@50|31@40"},fixedParts:{hd:{name:"メルクーリオHD",cost:40,hp:25,str:2,wlk:1,tgh:2},lg:{name:"メルクーリオLG",cost:45,hp:25,str:1,wlk:3,fly:1,tgh:1},am:[{name:"メルクーリオAM",cost:40,hp:25,str:1,wlk:1,fly:1,tgh:2},{name:"メルクーリオAM2",cost:40,hp:25,str:1,wlk:1,fly:1,tgh:2,joint:{wp:2}}],wp:{name:"メルクーリオBD@",type:"l",size:"S",slot:0,joint:{wp:1,bs:0,hd:0,lg:0,am:0,hdac:0,fcac:0}}},type:"l",size:"S",cost:530,capa:900,hp:245,str:17,tec:4,wlk:15,fly:10,tgh:7,builtin:{bs:1},joint:{wp:1}}
 
 {id:165,name:"テレーゼBD",comment:"-",joint:{hdac:2,wp:1},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|70@15|25@25|22@30|13@30|34@15|32@50|31@40"},fixedParts:{hdac:["S1","S1"],hd:{name:"テレーゼHD",cost:40,hp:25,tec:1,wlk:1,fly:2,tgh:1},lg:{name:"テレーゼLG",cost:45,hp:25,tec:2,wlk:3,tgh:1},am:[{name:"テレーゼAM",fixedParts:{wp:{name:"ヘレポリスボウ",main:{pwr:21,shl:540,rng:250,spd:400,itv:340},tunable:{mwp:1},fixedParts:{wp:{name:"ヘレポリスボウ＠",main:{pwr:21,shl:15,rng:300,spd:440,itv:300},sub:{shl:20,itv:1000},cost:30,slot:0,comment:"サブでリロード"}},cost:150,joint:{wp:1}}},cost:40,hp:25,tec:2,wlk:2,tgh:1},{name:"テレーゼAM2",fixedParts:{wp:{name:"ウィルソンボム",sub:{pwr:30,shl:30,rng:250,spd:150,itv:1000},slot:0,cost:50,comment:"特殊スタン"}},cost:40,hp:25,tec:2,wlk:2,tgh:1}],wp:{name:"ブリスガンドエンブレム"},bs:{name:"テレーゼBD@",comment:"BS省略",slot:0}},cost:480,hp:245,capa:900,str:4,tec:16,wlk:12,fly:11,tgh:10,type:"l",size:"S",wbid:3}
 
