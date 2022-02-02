@@ -126,6 +126,7 @@
 
 {id:108,name:"ナターシャBS",type:"c",cost:40,hp:25,wlk:-1,fly:3,tgh:3}
 {id:86,name:"ナッツ･ボムリスBS",type:"s",cost:105,hp:20,str:-1,tec:2,fly:3,tgh:1,sub:{tec:100,pwr:20,shl:180,rng:275,spd:290,itv:2000}}
+{id:175,name:"ネーベルBS",cost:35,hp:20,str:-1,tec:1,fly:4,tgh:1}
 
 {id:152,name:"ノーラ・シュナイトBS",type:"l",size:"S",cost:35,hp:20,tec:1,fly:2,tgh:2}
 
