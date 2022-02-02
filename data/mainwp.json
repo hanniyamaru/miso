@@ -406,7 +406,7 @@
 {id:2022113,name:"ファイヤーブレス",type:"c",size:"S",cost:50,main:{tec:100,pwr:35,shl:100,rng:350,spd:400,itv:1000},slot:0}
 
 {group:"ネーベルコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
-{id:20222022,name:"ドンナーマスケット",type:"a",size:"S",cost:30,main:{tec:100,pwr:25,shl:50,rng:275,spd:400,itv:1000},comment:["ドンナーマスケット＠省略","武器チューン不可"]}
+{id:20222022,name:"ドンナーマスケット",type:"a",size:"S",cost:30,main:{tec:100,pwr:25,shl:50,rng:275,spd:400,itv:1000},tunable:{mwp:0},comment:["本体省略","武器チューン不可"]}
 {id:20222023,name:"ブリッツBマシンガン",main:{tec:100,pwr:14,shl:720,rng:275,spd:440,itv:240},joint:{wp:1},fixedParts:{wp:{name:"コネクトブラスト",main:{pwr:20,shl:430,rng:350,spd:400,itv:500},slot:0}},type:"a",size:"S",cost:120,comment:"-"}
 
 
