@@ -5,6 +5,9 @@
 {group:"Ｓ陸　近日更新分",prefixID:"LS",commonStat:{size:"S",type:"l"},nextID:35}
 
 
+
+{id:165,name:"テレーゼBD",comment:"-",joint:{hdac:2,wp:3},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|60@15|25@25|23@30|13@30|34@15|32@50|31@40"},fixedParts:{hdac:["S1","S1"],hd:{name:"テレーゼHD",cost:40,hp:25,tec:1,wlk:1,fly:2,tgh:1},lg:{name:"テレーゼLG",cost:45,hp:25,tec:2,wlk:3,tgh:1},am:[{name:"テレーゼAM",fixedParts:{wp:{name:"ヘレポリスボウ",main:{pwr:21,shl:540,rng:250,spd:400,itv:340},tunable:{mwp:1},fixedParts:{wp:{name:"ヘレポリスボウ＠",main:{pwr:21,shl:15,rng:300,spd:440,itv:300},sub:{shl:20,itv:1000},cost:30,slot:0,comment:"サブでリロード"}},cost:150,joint:{wp:1}}},cost:40,hp:25,tec:2,wlk:2,tgh:1},{name:"テレーゼAM2",fixedParts:{wp:{name:"ウィルソンボム",sub:{pwr:30,shl:30,rng:250,spd:150,itv:1000},slot:0,cost:50,comment:"特殊スタン"}},cost:40,hp:25,tec:2,wlk:2,tgh:1}],wp:{name:"ブリスガンドエンブレム"},bs:{name:"テレーゼBD@",comment:"BS省略",slot:0}},cost:480,hp:245,capa:900,str:4,tec:16,wlk:12,fly:11,tgh:10,type:"l",size:"S",wbid:3}
+
 {id:212,name:"シシナBD",type:"l",size:"S",cost:465,capa:885,hp:225,str:6,tec:7,wlk:14,fly:7,tgh:6,wbid:0,cartridge:{lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|25@25|14@20|28@30|13@30|32@50|31@40",hpup:14},sub:{shl:30,rng:100,spd:150,itv:1000}}
 
 
