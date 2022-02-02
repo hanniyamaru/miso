@@ -324,7 +324,7 @@
 {id:25,name:"スパイクシューター",main:{str:100,pwr:[5],shl:[700],rng:225,spd:400,itv:140},sub:{str:100,pwr:6,rng:250,spd:500,itv:1000},comment:"クルール・グラッド専用コンバージョンパーツ",type:"l",size:"S",cost:60,slot:3}
 
 
-{id:62,name:"シヴァリーキャノン",main:{pwr:17,shl:350,rng:330,spd:290,itv:600},joint:{wp:1},fixedParts:{wp:{name:"シヴァリーキャノン",main:{pwr:40,shl:30,rng:300,spd:400,itv:500},slot:0}},type:"c",size:"S",cost:160,comment:"ナターシャAM専用コンバージョンパーツ cost合算"}
+
 {id:99,name:"ゼブルサイガン",main:{pwr:10,shl:540,rng:330,spd:220,itv:300},tunable:{mwp:1},type:"c",size:"S",cost:60}
 
 
