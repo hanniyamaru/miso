@@ -622,7 +622,6 @@
 {id:146,name:"ロッソアスピーデAM",main:{tec:100,pwr:4,shl:600,rng:275,spd:400,itv:300},tunable:{mwp:1},type:"a",size:"L",cost:70,hp:25,str:-1,tec:3,fly:3,comment:"ロッソアスピーデBD専用",joint:{wp:0}}
 {id:147,name:"ロッソアスピーデAM2",type:"lacs",size:"L",cost:40,hp:25,tec:2,wlk:-1,fly:2,tgh:2}
 {id:20222031,name:"ロッソアスピーデAM3",main:{tec:100,pwr:11,shl:500,rng:275,spd:280,itv:460},tunable:{mwp:1},type:"a",size:"L",cost:130,hp:25,tec:3,fly:1,tgh:1,comment:"飛行ゲージ回復効果+強化時奪取効果",joint:{wp:0}}}
-{id:20222032,name:"ロッソアスピーデAM4",type:"lacs",size:"L",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1}
 
 
 {id:789,name:"ロトンレムレスAM",cost:35,hp:20,str:1,tec:-1,wlk:1,fly:1,tgh:3}
