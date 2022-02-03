@@ -429,7 +429,7 @@
 
 
 {id:29,name:"ジーウェインLG",cost:50,hp:40,str:1,tec:1,wlk:3,tgh:1}
-
+{id:97,name:"ジーウェイン・アーヴLG",size:"L",cost:45,hp:50,wlk:2,fly:2,tgh:2}
 {id:14,name:"シェイデンLG",cost:45,hp:45,str:1,tec:2,wlk:2,tgh:1}
 {id:46,name:"シェイデンLG2",cost:45,hp:45,str:-1,tec:2,wlk:2,fly:2,tgh:1}
 {id:65109,name:"ジェネラルドLG",cost:45,hp:25,str:1,tec:-1,wlk:4,tgh:2}
