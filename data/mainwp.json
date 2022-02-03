@@ -131,6 +131,8 @@
 {id:390,name:"Sレールガン",main:{pwr:42,shl:90,rng:250,spd:520,itv:500},type:"ls",size:"M",cost:110}
 {id:391,name:"Sブラストレールガン",main:{pwr:31,shl:210,rng:250,spd:480,itv:600},type:"l",size:"M",cost:160}
 {id:147,name:"Bブラストレールガン",main:{tec:100,pwr:20,shl:320,rng:275,spd:480,itv:340},cost:170,type:"a",size:"M",comment:"-"}
+{id:20222038,name:"Bクワッドレールガン",main:{tec:100,pwr:10,shl:760,rng:275,spd:480,itv:800},cost:160,type:"a",size:"M",comment:"マッハナイト・エース付属品"}
+
 {id:20,name:"レールガン",type:"c",size:"M",cost:110,main:{pwr:34,shl:150,rng:330,spd:520,itv:500}}
 {id:21,name:"クルエルレールガン",type:"c",size:"M",cost:140,main:{pwr:20,shl:260,rng:330,spd:520,itv:300}}
 {id:24,name:"ブラストレールガン",main:{pwr:36,tec:100,shl:140,rng:330,spd:520,itv:500},type:"c",size:"M",cost:140}
