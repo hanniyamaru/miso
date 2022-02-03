@@ -398,7 +398,7 @@
 {id:319,name:"フラッシュボマーHD",cost:35,hp:20,str:-1,tec:2,fly:1,tgh:3,size:"M"}
 
 {id:393,name:"ブラディスターHD",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1}
-
+{id:331,name:"ブラディスターHD2",type:"lacs",size:"M",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
 {id:170,name:"フラップジャックHD",main:{tec:100,pwr:6,shl:900,rng:275,spd:350,itv:720},tunable:{mwp:1},auraStat:{main:{tec:100,pwr:6,shl:900,rng:275,spd:350,itv:240},tec:2,wlk:-1,fly:2,tgh:2},type:"a",cost:100,hp:25,tec:2,wlk:-1,fly:2,tgh:2}
 {id:164,name:"ブリガバロンHD",cost:30,hp:15,str:1,tec:2,wlk:1,fly:-1,tgh:1}
 
