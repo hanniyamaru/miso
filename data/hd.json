@@ -139,6 +139,8 @@
 
 {id:40,name:"エスカゴットHD",type:"c",cost:75,hp:25,tec:2,wlk:2,tgh:1,main:{pwr:3,shl:1600,rng:160,spd:480,itv:140},tunable:{mwp:1}}
 {id:188,name:"エスティスHD",cost:40,hp:25,str:1,tec:3,wlk:-1,fly:1,tgh:1}
+{id:322,name:"エスティスHD2",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
+
 {id:238,name:"オーガヒルHD",cost:40,hp:25,tec:1,wlk:2,fly:1,tgh:1}
 {id:539,name:"オボロマルHD",type:"lacs",size:"M",cost:35,hp:20,str:3,tec:1,wlk:1,fly:1,tgh:-1}
 {id:259,name:"オルフェノスHD",cost:40,hp:25,str:2,tec:1,wlk:-1,fly:2,tgh:1}
