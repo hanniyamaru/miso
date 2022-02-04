@@ -1,10 +1,10 @@
 {group:"追従格闘",prefixID:"FP",nextID:11}
-{id:1,name:"スパイクビットD",type:"ls"}
+{id:1,name:"スパイクビットD",type:"ls",comment:"ミッションコイン景品5/50"}
 {id:2,name:"3ウェイビットD",type:"ls"}
 {id:3,name:"ソードビット"}
 {id:4,name:"スレイヤービット",cost:0}
 {id:5,name:"スレイヤービットD",type:"ls",cost:0}
-{id:6,name:"アクスビットD",type:"ls"}
+{id:6,name:"アクスビットD",type:"ls",comment:"ミッションコイン景品5/50"}
 {id:7,name:"ランスビットD",type:"ls"}
 {id:8,name:"ソードアクスビット",type:"ls"}
 {id:9,name:"ペペンビット",cost:0}
@@ -37,8 +37,9 @@
 {id:22,name:"クイーン・ガーネット",type:"lacs"}
 {id:23,name:"おじゃまペペン",comment:"ペペンガール専用ビット",type:"c"}
 {id:24,name:"ジャミングディスク"}
+{id:25,name:"ピアースガンビット",comment:"ミッションコイン景品5/50"}
 {group:"設置射撃",prefixID:"SS",nextID:4}
-{id:1,name:"トーチカユニット",type:"lcs",cost:0}
+{id:1,name:"トーチカユニット",type:"lcs",cost:0,comment:"ミッションコイン景品5/50"}
 {id:2,name:"ファランクスユニット",cost:0}
 {id:3,name:"スナイプユニット",cost:0}
 {id:4,name:"スタチューユニット"}
