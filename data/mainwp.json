@@ -78,7 +78,7 @@
 {id:24,name:"コンパクトガトリング",type:"lc",size:"M",cost:110,main:{pwr:10,shl:1080,rng:225,spd:400,itv:140}}
 {id:18,name:"バスターガトリング",type:"l",size:"L",cost:170,main:{pwr:13,shl:1100,rng:225,spd:400,itv:140}}
 {id:19,name:"ヒュージガトリング",type:"l",size:"LL",cost:180,main:{pwr:11,shl:1560,rng:250,spd:400,itv:140}}
-{id:22,name:"eダブルガトリング",type:"lc",size:"LL",cost:210,main:{pwr:5,shl:2840,rng:225,spd:380,itv:140}}
+
 {id:26,name:"LLバルクガトリング",main:{pwr:15,shl:1200,rng:225,spd:400,itv:140},type:"l",size:"LL",cost:220}
 {id:8,name:"ビームマシンガン",type:"as",size:"S",cost:90,main:{pwr:9,shl:580,rng:200,spd:480,itv:140}}
 {id:9,name:"ダブルビームマシンガン",type:"a",size:"S",cost:130,main:{pwr:6,shl:1170,rng:200,spd:480,itv:140}}
@@ -117,8 +117,8 @@
 
 {group:"シューター系",prefixID:"ST",commonStat:{tunable:{mwp:1}},nextID:1}
 
-{id:46,name:"クロスシューター",type:"las",size:"S",cost:60,main:{pwr:14,shl:430,rng:250,spd:440,itv:400}}
-{id:48,name:"パワーシューター",type:"la",size:"M",cost:140,main:{pwr:36,shl:230,rng:250,spd:400,itv:760}}
+{id:46,name:"クロスシューター",type:"lacs",size:"S",cost:60,main:{pwr:14,shl:430,rng:250,spd:440,itv:400}}
+{id:48,name:"パワーシューター",type:"l",size:"M",cost:140,main:{pwr:36,shl:230,rng:250,spd:400,itv:760}}
 {id:49,name:"バリスタシューター",size:"M",cost:180,main:{pwr:29,shl:310,rng:250,spd:400,itv:540},type:"la"}
 {id:153,name:"クエンチシューター",main:{pwr:17,shl:500,rng:225,spd:440,itv:340},type:"l",size:"M",cost:160}
 {id:73,name:"トリプルシューター",main:{pwr:10,shl:660,rng:250,spd:320,itv:800},type:"l",size:"M",cost:150}
@@ -353,9 +353,9 @@
 
 
 
-{id:156,name:"ペペンガンナーズ",main:{tec:100,pwr:9,shl:600,rng:330,spd:350,itv:500},tunable:{mwp:1},type:"c",size:"M",cost:100,comment:"UNIで誘導弾に変更"}
-{id:1561,name:"ペペンツインガン",main:{pwr:8,shl:700,rng:330,spd:220,itv:360},tunable:{mwp:1},type:"c",size:"S",cost:70}
-{id:2022115,name:"ペロケット",main:{pwr:24,shl:520,rng:330,spd:400,itv:500,tec:100},cost:160,type:"c",size:"S",comment:"モニカ・ゴールドAM専用コンバージョンパーツ"}
+{id:156,name:"ペペンガンナーズ",main:{tec:100,pwr:9,shl:750,rng:350,spd:350,itv:500},tunable:{mwp:1},type:"c",size:"M",cost:100,comment:"UNIで誘導弾に変更"}
+{id:1561,name:"ペペンツインガン",main:{pwr:8,shl:980,rng:330,spd:220,itv:360},tunable:{mwp:1},type:"c",size:"S",cost:70,comment:"爆風70％"}
+{id:2022115,name:"ペロケット",main:{pwr:23,shl:520,rng:330,spd:400,itv:500,tec:100},cost:160,type:"c",size:"S",comment:"モニカ・ゴールドAM専用コンバージョンパーツ"}
 
 
 {id:118,name:"ホーミングアロー",main:{pwr:13,shl:180,rng:250,spd:320,itv:800},cost:50,type:"l",size:"M",comment:"ロビンハンターAM専用コンバージョンパーツ",slot:0}
@@ -380,9 +380,9 @@
 {id:154,name:"セルメントノワール",sub:{pwr:32,rng:70,spd:85,itv:1000,str:100},tunable:{mwp:0,pwp:1},type:"l",size:"S",cost:190,comment:"ジゼル･ノワールAM2専用コンバージョンパーツ"}
 
 {group:"ステラ・カラカルコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
-{id:95,name:"オートチャージカセット",main:{pwr:28,shl:60,rng:300,spd:480,itv:500},type:"a",size:"S",cost:30,slot:0,comment:"ステラ・カラカル専用コンバージョンパーツ　アウロラキャノン省略"}
+{id:95,name:"オートチャージカセット",main:{pwr:32,shl:100,rng:300,spd:480,itv:500},type:"a",size:"S",cost:30,slot:0,comment:"ステラ・カラカル専用コンバージョンパーツ　アウロラキャノン省略"}
 {id:9402,name:"チャージディレイカセット",main:{pwr:30,shl:80,rng:275,spd:480,itv:500},type:"a",size:"S",cost:30,slot:0,comment:"ステラ・カラカル専用コンバージョンパーツ　アウロラキャノンⅡ省略",tunable:{mwp:1}}
-{id:94,name:"ビームショットカセット",main:{pwr:18,shl:420,rng:275,spd:440,itv:300},type:"a",size:"S",cost:70,comment:"ステラ・カラカル専用コンバージョンパーツ　アウロラキャノン省略",tunable:{mwp:1}}
+{id:94,name:"ビームショットカセット",main:{pwr:18,shl:510,rng:275,spd:440,itv:300},type:"a",size:"S",cost:70,comment:"ステラ・カラカル専用コンバージョンパーツ　アウロラキャノン省略",tunable:{mwp:1}}
 {id:9401,name:"ビームミサイルカセット",main:{pwr:15,shl:480,rng:275,spd:300,itv:500},type:"a",size:"S",cost:70,comment:"ステラ・カラカル専用コンバージョンパーツ　アウロラキャノンⅡ省略",tunable:{mwp:1}}
 
 {group:"セリュー・ブランシュコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
