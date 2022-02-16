@@ -152,7 +152,7 @@
 
 {id:56,name:"フォンメイBS2",type:"a",cost:30,hp:15,wlk:1,fly:2,tgh:1}
 
-{id:94,name:"ホネボンBS",type:"l",cost:20,hp:10,str:1,fly:2,tgh:-1,comment:"未更新"}
+{id:94,name:"ホネボンBS",type:"l",cost:35,hp:20,str:2,wlk:1,fly:3,tgh:-1,comment:"2022/2/16更新"}
 
 {id:29,name:"ブリックゲイルBS",type:"a",cost:60,hp:25,wlk:1,fly:4,sub:{shl:50,rng:0,spd:150,itv:1000},comment:"BLUE"}
 {id:30,name:"ブリックゲイルBS2",type:"a",cost:60,hp:25,wlk:1,fly:4,sub:{shl:50,rng:0,spd:150,itv:1000},comment:"RED"}
