@@ -89,7 +89,7 @@
 {id:6,name:"ポーンジャーLG",cost:40,hp:20,wlk:3,tgh:2}
 {id:57,name:"ポーンジャーLG2",cost:40,hp:20,str:1,wlk:2,tgh:2,comment:"ブリッツポーンジャー"}
 
-{id:24,name:"ホネボンLG",cost:30,hp:20,str:2,wlk:2}
+{id:24,name:"ホネボンLG",cost:40,hp:20,str:2,wlk:3,comment:"2022/2/16更新"}
 
 {id:31,name:"ミスティホロウαLG",cost:45,hp:25,str:1,wlk:3,fly:1}
 {id:25,name:"ミッサイドLG",cost:45,hp:25,str:2,tec:-1,wlk:3,tgh:1}
