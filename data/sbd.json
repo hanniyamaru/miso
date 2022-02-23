@@ -162,7 +162,7 @@
 
 
 
-{group:"UniＬ補",prefixID:"SL",commonStat:{size:"L",type:"s"},nextID:7}
+{group:"Ｌ補",prefixID:"SL",commonStat:{size:"L",type:"s"},nextID:7}
 
 
 {id:632,name:"キンギョBD3",main:{shl:240,rng:70,spd:20,itv:700},sub:{str:100,pwr:25,rng:120,spd:200,itv:3000},builtin:{bs:1},cartridge:{hpup:35,lv1:"75*6@25|17@20|18@20|19@20|20@20|23@25|22@30|29@10|53@10|21@20|28@20|14@10|13@20|32@30|31@40"},fixedParts:{lg:{name:"キンギョLG3",cost:40,hp:20,str:1,tec:1,wlk:2,tgh:1,size:"L",type:"s"}},cost:565,capa:695,hp:270,str:13,tec:13,wlk:21,fly:19,tgh:9,wbid:10,comment:["回復量10","金魚ちゃんL"],joint:{hd:0,bs:0,am:0,wp:1,hdac:1,fcac:1}}
