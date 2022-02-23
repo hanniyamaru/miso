@@ -1,5 +1,5 @@
 {group:"HDAC",prefixID:"S",nextID:1}
-{id:1,name:"メモリ･スロット",size:"M",type:"lacs",slot:3,comment:["-"],comment:["-"]}
+{id:1,name:"メモリ･スロット",size:"M",type:"lacs",slot:3,comment:["実機との個数に差がないか確認を推奨"]}
 
 {group:"HD",prefixID:"H",nextID:3}
 {id:1,name:"シエスHD"}
