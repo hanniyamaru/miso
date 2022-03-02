@@ -98,7 +98,7 @@
 {id:180,name:"スイフトBS2",tunable:{mwp:0,pwp:0},type:"a",size:"S",cost:85,hp:20,str:-1,tec:3,fly:3,sub:{tec:100,pwr:22,shl:90,rng:275,spd:300,itv:1000}}
 {id:45,name:"スクイドルガールαBS",type:"s",cost:40,hp:25,str:2,tec:1,wlk:-1,fly:3}
 {id:129,name:"ステラBS",cost:40,hp:25,tec:3,wlk:1,fly:2,tgh:-1,type:"a"}
-
+{id:182,name:"セイバーエリザロッテBS",cost:40,hp:25,str:3,tec:-1,wlk:1,fly:2,type:"l",size:"S"}
 {id:162,name:"セリューBS",size:"S",cost:35,hp:20,str:-1,tec:2,fly:3,tgh:1}
 
 {id:7,name:"ゼロセイバーBS",type:"l",cost:40,hp:25,str:1,tec:1,wlk:1,fly:2}
