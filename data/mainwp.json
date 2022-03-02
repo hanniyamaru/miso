@@ -375,6 +375,13 @@
 {id:72,name:"ブラッドシューター",main:{pwr:14,shl:560,rng:275,spd:360,itv:300},tunable:{mwp:1},type:"la",size:"S",comment:"アムリムAM2専用コンバーションパーツ",cost:100}
 {id:1,name:"ラキアコフィン",type:"a",size:"S",slot:0,sub:{pwr:0,shl:0,rng:300,spd:0,itv:1000},comment:"アムリムLG専用コンバージョンパーツ"}
 
+{group:"アンリエールコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
+
+{id:202203022,name:"ガーディアンルーク",type:"a",size:"S",cost:60,main:{tec:100,pwr:10,shl:700,rng:275,spd:330,itv:300},slot:3,comment:["アンリエール専用コンバージョン"]}
+
+{id:202203023,name:"メガルークキャノン",type:"a",size:"S",cost:30,main:{tec:100,pwr:35,shl:100,rng:300,spd:440,itv:1000},slot:0,comment:["アンリエール専用コンバージョン"]}
+
+
 {group:"エレオノールコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:202203021,name:"ガーディアンビショップ",main:{pwr:7,shl:450,rng:300,spd:260,itv:1200,tec:100},sub:{pwr:8,shl:1020,rng:350,spd:320,itv:1000,tec:100},cost:190,comment:"エレオノール専用コンバージョン",type:"c",size:"S",tunable:{mwp:1}}
 
