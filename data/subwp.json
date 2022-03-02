@@ -1,5 +1,5 @@
 {group:"代用品",prefixID:"SLOT",commonStat:{tunable:{mwp:0}},nextID:60}
-{id:1,name:"武器スロット...",slot:3,joint:{hdac:0,fcac:0,hd:0},comment:"ゲーム内機体参照の上、任意の個数増設してください"}
+{id:1,name:"武器スロット",slot:3,joint:{hdac:0,fcac:0,hd:0},comment:"ゲーム内機体参照の上、任意の個数増設してください"}
 
 {group:"cost10　ステ+1",prefixID:"SONO",nextID:10000}
 {id:1,name:"STR+1",size:"M",cost:10,str:1}
