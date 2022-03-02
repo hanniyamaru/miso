@@ -341,6 +341,7 @@
 {id:125,name:"ワニガメンティスLG",type:"lacs",size:"M",cost:45,hp:25,str:-1,tec:1,wlk:3,fly:1,tgh:2}
 
 {id:114,name:"RAMソルジェッターLG",cost:105,hp:25,str:2,tec:-1,wlk:2,fly:2,tgh:1,size:"M",type:"a",sub:{str:100,pwr:26,rng:120,spd:250,itv:1000},comment:"-",tunable:{pwp:1}}
+{id:202203023,name:"S・アクティナGLG",cost:45,hp:25,str:-1,tec:1,wlk:3,fly:2,tgh:1}
 
 
 
