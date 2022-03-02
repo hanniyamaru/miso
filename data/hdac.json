@@ -374,33 +374,3 @@
 
 {group:"以下読み込み不具合解消のため削除予定",nextID:9911}
 
-{id:301,name:"STR+1 HP+5 Capa+5 (HD)",str:1,hp:5,capa:5,slot:1}
-{id:302,name:"TEC+1 HP+5 Capa+5 (HD)",tec:1,hp:5,capa:5,slot:1}
-{id:303,name:"WLK+1 HP+5 Capa+5 (HD)",wlk:1,hp:5,capa:5,slot:1}
-{id:304,name:"FLY+1 HP+5 Capa+5 (HD)",fly:1,hp:5,capa:5,slot:1}
-{id:305,name:"TGH+1 HP+5 Capa+5 (HD)",tgh:1,hp:5,capa:5,slot:1}
-
-{id:401,name:"STR+1 HP+10 (HD)",str:1,hp:10,slot:1}
-{id:402,name:"TEC+1 HP+10 (HD)",tec:1,hp:10,slot:1}
-{id:403,name:"WLK+1 HP+10 (HD)",wlk:1,hp:10,slot:1}
-{id:404,name:"FLY+1 HP+10 (HD)",fly:1,hp:10,slot:1}
-{id:405,name:"TGH+1 HP+10 (HD)",tgh:1,hp:10,slot:1}
-
-{id:406,name:"STR+2 (HD)",str:2,slot:1}
-{id:407,name:"TEC+2 (HD)",tec:2,slot:1}
-{id:408,name:"WLK+2 (HD)",wlk:2,slot:1}
-{id:409,name:"FLY+2 (HD)",fly:2,slot:1}
-{id:410,name:"TGH+2 (HD)",tgh:2,slot:1}
-
-{id:701,name:"STR+1 TEC+1 (HD) ",str:1,tec:1,slot:1}
-{id:702,name:"STR+1 WLK+1 (HD) ",str:1,wlk:1,slot:1}
-{id:703,name:"STR+1 FLY+1 (HD) ",str:1,fly:1,slot:1}
-{id:704,name:"STR+1 TGH+1 (HD) ",str:1,tgh:1,slot:1}
-{id:705,name:"TEC+1 WLK+1 (HD) ",tec:1,wlk:1,slot:1}
-{id:706,name:"TEC+1 FLY+1 (HD) ",tec:1,fly:1,slot:1}
-{id:707,name:"TEC+1 TGH+1 (HD) ",tec:1,tgh:1,slot:1}
-{id:708,name:"WLK+1 FLY+1 (HD) ",wlk:1,fly:1,slot:1}
-{id:709,name:"WLK+1 TGH+1 (HD) ",wlk:1,tgh:1,slot:1}
-{id:710,name:"FLY+1 TGH+1 (HD) ",fly:1,tgh:1,slot:1}
-{id:399,name:"スロット ",slot:3,joint:{hdac:1,fcac:0,hd:0},comment:"スロット・メモリは、これで増設してください"}
-{id:1399,name:"スロット・メモリ",slot:3,joint:{hdac:1,fcac:0,hd:0},comment:"ゲーム内機体参照の上、任意の個数増設してください"}
