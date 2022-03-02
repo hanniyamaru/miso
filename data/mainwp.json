@@ -322,7 +322,6 @@
 
 {id:148,name:"カイゼルゲヴィッター",main:{pwr:10,shl:390,rng:300,spd:480,itv:300},sub:{str:100,pwr:20,shl:0,rng:75,spd:200,itv:1000},tunable:{mwp:1,pwp:1},type:"c",size:"L",comment:"ヘルトカイゼルAM専用コンバージョンパーツ",cost:70}
 {id:97,name:"クリスタルウォール",main:{pwr:2,shl:1740,rng:275,spd:340,itv:200},tunable:{mwp:1},comment:["フラクタリスガール専用コンバージョンパーツ","変形省略"],type:"a",size:"M",cost:90}
-{id:64,name:"グロームロッド",main:{pwr:9,shl:540,rng:275,spd:440,itv:300,tec:100},sub:{pwr:26,shl:40,spd:150,itv:1000,tec:100},type:"a",size:"M",cost:100,comment:"マルカAM専用コンバージョンパーツ、変形省略、爆風比率1：9　",tunable:{mwp:1}}
 
 {id:25,name:"スパイクシューター",main:{str:100,pwr:[5],shl:[700],rng:225,spd:400,itv:140},sub:{str:100,pwr:6,rng:250,spd:500,itv:1000},comment:"クルール・グラッド専用コンバージョンパーツ",type:"l",size:"S",cost:60,slot:3}
 
@@ -432,6 +431,11 @@
 {id:20222024,name:"フィン・マスケット",type:"c",size:"S",cost:80,main:{tec:100,pwr:24,shl:350,rng:350,spd:440,itv:600},comment:"コレッティAM専用コンバージョンパーツ"}
 {id:20222025,name:"フィンキャノンSS",main:{pwr:5,shl:210,rng:330,spd:280,itv:900},sub:{tec:100,pwr:30,rng:0,spd:100,itv:1000},type:"c",size:"S",cost:70,comment:["MISSILE・STEP","コレッティBD専用コンバージョンパーツ"],tunable:{mwp:1,pwp:0}}
 {id:20222026,name:"フィンキャノンHE",main:{pwr:17,shl:540,rng:330,spd:400,itv:700},sub:{tec:100,pwr:10,shl:320,rng:350,spd:280,itv:1000},type:"c",size:"S",cost:80,comment:["CANON・MISSILE","コレッティBD専用コンバージョンパーツ"],tunable:{mwp:1,pwp:0}}
+
+{group:"マルカコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
+{id:64,name:"グロームロッド",main:{pwr:9,shl:540,rng:275,spd:440,itv:300,tec:100},sub:{pwr:26,shl:40,spd:150,itv:1000,tec:100},type:"a",size:"M",cost:100,comment:"マルカAM専用コンバージョンパーツ、変形省略、爆風比率1：9　",tunable:{mwp:1}}
+{id:6401,name:"ゲイルロッド",main:{pwr:24,shl:340,rng:275,spd:400,itv:500,tec:100},sub:{pwr:10,shl:60,spd:150,itv:1000,tec:100},type:"a",size:"M",cost:120,comment:"マルカAM専用コンバージョンパーツ",tunable:{mwp:1}}
+
 
 {group:"メルクーリオコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:175,name:"ニードルスター",main:{pwr:20,shl:50,rng:200,spd:500,itv:500,str:100},sub:{pwr:32,rng:56,spd:68,itv:1500,str:100},cost:130,comment:"メルクーリオAM2専用コンバージョン",type:"l",size:"S",tunable:{mwp:1,pwp:1}}
