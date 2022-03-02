@@ -43,7 +43,7 @@
 
 {id:71,name:"AURAライトニングガン",main:{pwr:15,shl:240,rng:250,spd:440,itv:700},auraStat:{main:{pwr:18,shl:240,rng:250,spd:440,itv:700}},type:"a",size:"S",cost:70}
 {id:501,name:"スワロービームガン",main:{tec:100,pwr:12,shl:320,rng:275,spd:440,itv:540},tunable:{mwp:1},type:"a",size:"M",cost:80}
-{id:502,name:"ポリウスビームガン",main:{tec:100,pwr:15,shl:360,rng:275,spd:320,itv:500},tunable:{mwp:1},type:"a",size:"M",cost:110,comment:"ピエッタ・ST初期装備"}
+{id:202203021,name:"ポリウスビームガン",main:{tec:100,pwr:15,shl:360,rng:275,spd:320,itv:500},tunable:{mwp:1},type:"a",size:"M",cost:110,comment:"ピエッタ・ST初期装備"}
 {id:105,name:"クリスタルビームガン",size:"M",cost:110,main:{pwr:28,shl:280,rng:275,spd:440,itv:600,tec:100},type:"a",comment:"-"}
 {id:24,name:"ビームガン",size:"S",cost:30,main:{pwr:10,shl:420,rng:275,spd:500,itv:440}}
 {id:27,name:"ワイドビームガン",type:"as",size:"S",cost:50,main:{pwr:16,shl:300,rng:275,spd:460,itv:600}}
