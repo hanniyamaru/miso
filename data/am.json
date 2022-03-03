@@ -282,6 +282,7 @@
 {id:11,name:"スコルタンAM",cost:35,hp:20,str:1,tec:2,wlk:1,tgh:1}
 {id:523,name:"スコルタンAM2",cost:35,hp:20,str:2,wlk:1,tgh:2}
 {id:68,name:"スゼクAM",cost:40,hp:25,str:2,tec:1,wlk:1,tgh:1}
+{id:169,name:"スパーダAM",type:"l",cost:130,hp:20,str:2,tec:-1,wlk:2,tgh:2,main:{pwr:0,shl:25,rng:0,spd:10,itv:1000},sub:{str:100,pwr:31,shl:0,rng:70,spd:85,itv:1000},comment:"※AURA機構",tunable:{mwp:1,pwp:1},auraStat:{main:{pwr:0,shl:30,rng:0,spd:10,itv:1000},sub:{str:100,pwr:34,shl:0,rng:77,spd:94,itv:1000}}}
 
 {id:198,name:"スポア・マッシュAM",main:{tec:100,pwr:6,shl:500,rng:250,spd:400,itv:300},type:"s",size:"M",cost:45,hp:20,tec:3,tgh:2,tunable:{mwp:1},joint:{wp:0}}
 
