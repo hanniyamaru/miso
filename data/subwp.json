@@ -188,6 +188,7 @@
 
 {id:44,name:"ライザーブレス",size:"M",type:"l",cost:210,comment:"アストライザー専用コンバージョンパーツ",sub:{itv:500},slot:0}
 
+{id:168,name:"スパーダBD@",sub:{pwr:30,shl:0,rng:100,spd:150,itv:2000,str:100},auraStat:{sub:{pwr:30,shl:0,rng:100,spd:150,itv:2000,str:100}},comment:"スパーダBD専用コンバージョンパーツ",slot:0,cost:20,type:"l",size:"M"
 
 
 
