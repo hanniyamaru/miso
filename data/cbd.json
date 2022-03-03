@@ -215,6 +215,7 @@
 
 {id:37,name:"プレデトバイツBD",main:{pwr:[13,13,14],shl:[700,730,760],rng:[300,340,380],spd:[360,395,430],itv:600},sub:{pwr:[24],shl:[30],rng:100,spd:200,itv:1000},cartridge:{hpup:14,lv1:"4*5@20|61*2@30|7@20|10@20|8@15|17@20|18@20|20@15|23@25|29@15|21@20|26@10|13@30|32@40|31@40"},cost:535,capa:870,hp:290,str:4,tec:13,wlk:10,fly:9,tgh:12,wbid:3,comment:"-"}
 {id:44,name:"プレデトバイツBD2",main:{pwr:[9],shl:[1000],rng:350,spd:400,itv:200},cartridge:{hpup:14,lv1:"4*5@20|61*2@30|7@20|10@20|8@15|17@20|18@20|20@15|23@25|29@15|21@20|26@10|13@30|32@40|31@40"},cost:485,capa:870,hp:290,str:4,tec:16,wlk:8,fly:7,tgh:13,wbid:3,comment:"内蔵強化値不明",fixedParts:{wp:{main:{pwr:10,shl:720,rng:330,spd:280,itv:500},name:"プレデトバイツBD2@",type:"c",size:"L",cost:70,slot:0}},type:"c",size:"L",joint:{wp:1}}
+{id:35,name:"プロトスBD",main:{pwr:[12],shl:[600],rng:350,spd:440,itv:600},cartridge:{hpup:14,lv1:"4*5@20|61*2@30|7@20|10@20|8@15|18@20|19@20|20@15|23@25|25@25|21@20|26@10|13@30|32@40|31@40"},cost:495,capa:870,hp:290,str:5,tec:14,wlk:9,fly:7,tgh:13,wbid:4,comment:"内蔵強化値不明"}
 
 {id:41,name:"ヘカトケレスBD",main:{tec:100,pwr:6,shl:[390],rng:350,spd:370,itv:400},cartridge:{hpup:10,lv1:"75*5@20|60*2@30|7@20|10@20|8@15|17@20|18@20|19@20|20@15|30@20|23@25|26@10|21@20|13@30|32@40|31@40"},type:"c",size:"L",cost:510,capa:980,hp:305,str:3,tec:15,wlk:8,fly:12,tgh:5,wbid:4}
 
