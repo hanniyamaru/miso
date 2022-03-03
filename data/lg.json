@@ -71,7 +71,7 @@
 
 {id:39,name:"バタフレアLG",cost:45,hp:25,tec:-1,wlk:3,fly:1,tgh:2}
 {id:70,name:"バルーダLG",sub:{tec:100,pwr:34,rng:120,spd:250,itv:1000},cost:45,hp:25,str:1,tec:2,wlk:2,tgh:1,tunable:{pwp:1}}
-{id:202203021,name:"ピエッタLG",sub:{pwr:0,shl:40,rng:100,spd:160,itv:1000},type:"lacs",size:"S",cost:90,hp:20,tec:1,wlk:2,fly:2}
+{id:202203021,name:"ピエッタLG",sub:{pwr:0,shl:40,rng:100,spd:160,itv:1000},type:"a",size:"S",cost:90,hp:20,tec:1,wlk:2,fly:2}
 {id:35,name:"ビックガジェットLG2",cost:45,hp:25,tec:1,wlk:2,fly:2,tgh:1}
 {id:29,name:"ビルダームLG",cost:45,hp:25,str:1,tec:1,wlk:2,tgh:1}
 
