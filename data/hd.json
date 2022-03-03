@@ -488,7 +488,7 @@
 {id:50,name:"レッドスクィラHD",cost:35,hp:20,str:2,tec:2,wlk:1}
 
 {id:541,name:"レプシロンHD",type:"lacs",size:"M",cost:35,hp:20,tec:1,wlk:-1,fly:2,tgh:3}
-
+{id:53902,name:"レプシロンHD2",type:"a",main:{tec:100,pwr:5,shl:720,rng:200,spd:400,itv:140},tunable:{mwp:1},size:"M",cost:115,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1}
 {id:292,name:"ロッソアスピーデHD",cost:40,hp:25,str:-1,tec:1,wlk:2,fly:1,tgh:2,size:"M",type:"lacs"}
 {id:20222031,name:"ロッソアスピーデHD2",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2,size:"M",type:"lacs"}
 
