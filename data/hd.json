@@ -404,7 +404,7 @@
 {id:331,name:"ブラディスターHD2",type:"lacs",size:"M",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
 {id:170,name:"フラップジャックHD",main:{tec:100,pwr:6,shl:900,rng:275,spd:350,itv:720},tunable:{mwp:1},auraStat:{main:{tec:100,pwr:6,shl:900,rng:275,spd:350,itv:240},tec:2,wlk:-1,fly:2,tgh:2},type:"a",cost:100,hp:25,tec:2,wlk:-1,fly:2,tgh:2}
 {id:164,name:"ブリガバロンHD",cost:30,hp:15,str:1,tec:2,wlk:1,fly:-1,tgh:1}
-{id:202203031,name:"ブリスガンド・ポーンHD",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:1,comment:["ブリスガンド・ポーンHD2共通","混沌コイン景品"]}
+{id:202203031,name:"ブリスガンド・ポーンHD",cost:40,hp:25,str:1,tec:2,wlk:1,fly:1,tgh:-1,comment:["ブリスガンド・ポーンHD2共通","混沌コイン景品"]}
 {id:77,name:"ブリックゲイルHD",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:2,tgh:1,comment:"BLUE"}
 {id:78,name:"ブリックゲイルHD2",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:2,tgh:1,comment:"RED"}
 {id:126,name:"ブリックゲイルHD3",cost:40,hp:25,str:1,tec:-1,fly:3,tgh:2,comment:"BLACK"}
