@@ -20,7 +20,7 @@
 {group:"Uniソード系",prefixID:"SW",commonStat:{tunable:{pwp:1}},nextID:27}
 
 {id:1,name:"ショートソード",size:"M",cost:40,sub:{str:100,pwr:28,rng:77,spd:94,itv:500}}
-{id:4,name:"※ロングソード",size:"M",cost:70,sub:{str:100,pwr:30,rng:77,spd:94,itv:500},comment:["以下同数値の共通武器","チョコレートブレード（L）"]}
+{id:4,name:"※ロングソード",size:"M",cost:70,sub:{str:100,pwr:30,rng:77,spd:94,itv:500},comment:["以下同数値の共通武器","チョコレートブレード（L）","シザーソード"]}
 {id:5,name:"ウッデンソード",size:"M",cost:70,sub:{str:100,pwr:28,rng:70,spd:85,itv:600}}
 {id:6,name:"ブロードソード",type:"ls",size:"M",cost:100,sub:{str:100,pwr:32,rng:77,spd:94,itv:500}}
 {id:10,name:"グレートソード",type:"l",size:"L",cost:120,sub:{str:100,pwr:33,rng:77,spd:94,itv:500}}
