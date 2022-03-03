@@ -552,7 +552,7 @@
 {id:7,name:"ブレイズバロンBS",type:"l",cost:45,hp:25,str:2,tec:1,fly:3,tgh:-1}
 
 {id:70,name:"プレデトバイツBS",type:"c",cost:40,hp:25,str:1,tec:1,tgh:3}
-
+{id:65,name:"プロトスBS",type:"c",cost:50,hp:15,str:-1,fly:2,tgh:2,comment:"盾耐久28？"}
 {id:38,name:"ベクターBS",type:"a",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:3}
 
 
