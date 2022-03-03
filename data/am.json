@@ -592,7 +592,7 @@
 {id:112,name:"プレデトバイツAM",main:{pwr:8,shl:290,rng:330,spd:290,itv:800},type:"c",cost:80,hp:25,str:-1,tec:3,wlk:1,tgh:2,tunable:{mwp:1}}
 {id:155,name:"プレデトバイツAM2",main:{pwr:10,shl:330,rng:330,spd:280,itv:600},type:"c",cost:65,hp:20,str:-1,tec:2,wlk:2,fly:1,tgh:1,tunable:{mwp:1},joint:{wp:2},fixedParts:{wp:{name:"プレデトバイツAM2@",main:{pwr:13,shl:360,rng:350,spd:500,itv:500},cost:30,slot:0}}}
 {id:15501,name:"プレデトバイツAM2（コンバージョン無し）",main:{pwr:10,shl:330,rng:330,spd:280,itv:600},type:"c",cost:65,hp:20,str:-1,tec:2,wlk:2,fly:1,tgh:1,tunable:{mwp:1}}
-{id:107,name:"プロトスAM",main:{pwr:9,shl:420,rng:330,spd:280,itv:840},sub:{pwr:20,shl:150,rng:350,spd:280,itv:1000,tec:100},tunable:{mwp:1},joint:{wp:0},type:"c",cost:120,hp:15,str:-1,tec:2,fly:1,tgh:2}
+{id:107,name:"プロトスAM",main:{pwr:9,shl:420,rng:330,spd:280,itv:840},sub:{pwr:20,shl:150,rng:350,spd:280,itv:1000,tec:100},tunable:{mwp:1},joint:{wp:0},type:"c",cost:120,hp:15,str:-1,tec:2,fly:1,tgh:2,comment:"盾耐久40"}
 
 {id:129,name:"ヘカトケレスAM",cost:115,hp:20,str:-1,tec:3,wlk:1,tgh:2,size:"L",type:"c",main:{tec:100,pwr:14,shl:360,rng:330,spd:370,itv:800},tunable:{mwp:1}}
 {id:140,name:"ヘカトケレスAM2",main:{tec:100,pwr:26,shl:210,rng:300,spd:320,itv:800},tunable:{mwp:1},type:"c",size:"L",cost:115,hp:20,str:-1,tec:4,fly:1,tgh:1,joint:{wp:0}}
