@@ -433,7 +433,7 @@
 {id:20222026,name:"フィンキャノンHE",main:{pwr:17,shl:540,rng:330,spd:400,itv:700},sub:{tec:100,pwr:10,shl:320,rng:350,spd:280,itv:1000},type:"c",size:"S",cost:80,comment:["CANON・MISSILE","コレッティBD専用コンバージョンパーツ"],tunable:{mwp:1,pwp:0}}
 
 {group:"マルカコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
-{id:64,name:"グロームロッド",main:{pwr:9,shl:540,rng:275,spd:440,itv:300,tec:100},sub:{pwr:26,shl:40,spd:150,itv:1000,tec:100},type:"a",size:"M",cost:100,comment:"マルカAM専用コンバージョンパーツ、変形省略、爆風比率1：9　",tunable:{mwp:1}}
+{id:64,name:"グロームロッド",main:{pwr:9,shl:540,rng:275,spd:440,itv:300,tec:100},sub:{pwr:26,shl:60,spd:150,itv:1000,tec:100},type:"a",size:"M",cost:100,comment:"マルカAM専用コンバージョンパーツ、変形省略、爆風比率1：9　",tunable:{mwp:1}}
 {id:6401,name:"ゲイルロッド",main:{pwr:24,shl:340,rng:275,spd:400,itv:500,tec:100},sub:{pwr:10,shl:60,spd:150,itv:1000,tec:100},type:"a",size:"M",cost:120,comment:"マルカAM専用コンバージョンパーツ",tunable:{mwp:1}}
 
 
