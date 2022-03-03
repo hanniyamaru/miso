@@ -420,7 +420,7 @@
 {id:51,name:"ブレイズバロンHD",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2}
 {id:52,name:"ブレイズバロンHD2",cost:40,hp:25,str:-1,tec:3,wlk:1,tgh:2}
 {id:232,name:"プレデトバイツHD",cost:40,hp:20,str:1,tec:2,tgh:2}
-
+{id:2322,name:"プレデトバイツHD2",cost:35,hp:20,tec:3,wlk:1,fly:-1,tgh:2}
 
 {id:266,name:"ヘカトケレスHD",size:"M",type:"lacs",cost:35,hp:20,str:2,tec:1,wlk:1,fly:-1,tgh:2}
 
