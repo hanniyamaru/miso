@@ -30,7 +30,7 @@
 
 {id:17,name:"ビートルガン",type:"l",size:"M",cost:100,main:{pwr:19,shl:330,rng:225,spd:440,itv:500}}
 {id:500,name:"ヘラクビートルガン",type:"l",size:"M",cost:160,main:{pwr:23,shl:340,rng:225,spd:440,itv:500}}
-{id:202203031,name:"ヘレポリスシューター",main:{tec:100,pwr:21,shl:400,rng:250,spd:400,itv:500},tunable:{mwp:1},type:"l",size:"M",cost:110}
+{id:2032,name:"ヘレポリスシューター",main:{tec:100,pwr:21,shl:400,rng:250,spd:400,itv:500},type:"l",size:"M",cost:110}
 
 
 {id:43,name:"シュリケンガン",type:"ls",size:"S",cost:80,main:{pwr:7,shl:680,rng:175,spd:400,itv:160}}
