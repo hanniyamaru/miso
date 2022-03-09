@@ -210,7 +210,7 @@
 
 {id:586,name:"6連ミサイルランチャー",main:{pwr:15,shl:300,rng:330,spd:290,itv:500},type:"c",size:"M",cost:160}
 {id:587,name:"ジャックオーランチャー",main:{pwr:8,shl:920,rng:330,spd:330,itv:140},type:"c",size:"L",cost:130}
-{id:91,name:"ショコラパラソル",main:{pwr:13,tec:100,rng:250,spd:320,shl:250,itv:700},cost:80,type:"lacs",size:"M",tgh:-1}
+{id:91,name:"ショコラパラソル",main:{pwr:13,tec:100,rng:250,spd:320,shl:250,itv:700},cost:80,type:"lacs",size:"M",tgh:-1,comment:"実弾属性爆風"}
 
 {id:78,name:"ラピッドパルスミサイル",main:{pwr:11,shl:350,rng:275,spd:350,itv:320},tunable:{mwp:1},type:"a",size:"M",cost:110,comment:"爆風比率50％"}
 {id:38,name:"ビームランチャー",main:{tec:100,pwr:27,shl:180,rng:275,spd:280,itv:1000},size:"L",type:"a",cost:100}
