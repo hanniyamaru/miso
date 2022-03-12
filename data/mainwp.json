@@ -287,7 +287,7 @@
 
 {id:6552,name:"ベルゼイラフアニマ",main:{tec:100,pwr:21,shl:880,rng:330,spd:330,itv:500},tunable:{mwp:1},size:"M",type:"c",cost:200,comment:"β時の表記威力8"}
 
-{id:6553,name:"ゲルニアロッド",main:{tec:100,pwr:32,shl:160,rng:300,spd:440,itv:900},tunable:{mwp:1},size:"M",type:"c",cost:100}
+{id:6553,name:"ゲルニアロッド",main:{tec:100,pwr:32,shl:160,rng:300,spd:440,itv:900},tunable:{mwp:1},size:"M",type:"c",cost:100,comment:"一斉射撃不可"}
 
 {id:6554,name:"龍天撃",main:{str:100,pwr:13,shl:240,rng:225,spd:400,itv:500},tunable:{mwp:1},size:"M",type:"l",cost:100}
 
