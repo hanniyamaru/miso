@@ -38,7 +38,7 @@
 {id:30,name:"ゲイルサイス",sub:{pwr:26,rng:70,spd:85,itv:1000,str:100},tunable:{pwp:1},cost:160,type:"la",size:"M",comment:"空戦装備時性能変化"}
 
 {id:100109,name:"ジャックサイス",type:"lacs",size:"M",cost:40,sub:{str:100,pwr:32,rng:31,spd:44,itv:1000},tunable:{pwp:1}}
-
+{id:20223012,name:"ウォウドゥンセイヴ",type:"l",size:"LL",cost:200,sub:{str:100,pwr:30,rng:70,spd:85,itv:1000},tunable:{pwp:1},comment:["ナイトギアディスク報酬"]}
 
 {id:16,name:"ビームブレード",type:"a",size:"M",cost:70,sub:{str:100,pwr:28,rng:70,spd:85,itv:500}}
 {id:17,name:"ソニックブレード",type:"a",size:"M",cost:100,sub:{str:100,pwr:30,rng:70,spd:85,itv:500}}
