@@ -34,7 +34,7 @@
 {id:1709,name:"WLK+1.TGH+1.(FC).",wlk:1,tgh:1,slot:1}
 {id:1710,name:"FLY+1.TGH+1.(FC).",fly:1,tgh:1,slot:1}
 
-{id:1711,name:"HP+5.Capa+10.(FC)",hp:5,capa:10,slot:1}
+
 {id:1712,name:"Capa+10.(FC)",capa:10,slot:1}
 
 {id:56,name:"金魚",capa:5,hp:5,wlk:1,slot:1,comment:["「HEAL SONG」 1回の使用につきHP10回復","給弾可能"],sub:{shl:10,itv:500},tunable:{pwp:0}}
