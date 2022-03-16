@@ -335,6 +335,7 @@
 {id:180,name:"ソルブレンサーBS",type:"l",size:"M",cost:40,hp:25,str:1,tec:1,wlk:1,fly:2}
 {id:136,name:"ソルフロストBS",size:"M",type:"a",cost:35,hp:20,str:-1,wlk:2,fly:3,tgh:1}
 {id:82,name:"ソルボルカノウィングBS",sub:{pwr:20,shl:0,rng:100,spd:120,itv:1000},cost:60,hp:25,wlk:1,fly:3,tgh:1,comment:"MISSIONコイン景品"}
+{id:20220316,name:"ダークレヴナントBS",type:"l",cost:40,hp:25,str:2,tec:-1,fly:3,tgh:1}
 
 {id:49,name:"ダグドライバーBS",type:"c",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:3}
 {id:113,name:"ダルタニスBS",type:"l",cost:55,hp:20,str:-1,wlk:2,fly:2,tgh:2,comment:"シールド耐久値35"}
