@@ -34,6 +34,8 @@
 
 {id:16,name:"ソードウィングHD",type:"a",cost:100,hp:20,str:-1,tec:3,fly:2,tgh:1,main:{pwr:7,shl:600,rng:200,spd:480,itv:140},tunable:{mwp:1}}
 
+{id:20220316,name:"ダークレヴナントHD",type:"l",size:"S",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:1,tgh:3}
+
 
 {id:23,name:"ディカロスHD",cost:40,hp:25,str:1,wlk:2,fly:1,tgh:1}
 {id:36,name:"トリスティンHD",size:"S",cost:30,hp:15,tec:2,tgh:2}
