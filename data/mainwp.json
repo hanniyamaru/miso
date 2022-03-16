@@ -408,7 +408,7 @@
 
 {group:"ダークレヴナントコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:202203161,name:"レヴナントシールド",size:"M",cost:20,main:{tec:100,pwr:0,shl:50,rng:0,spd:10,itv:1000},type:"l",slot:0,tunable:{mwp:1,pwp:0},comment:"ダークレヴナントAM専用コンバージョンパーツ"}
-{id:20220316,name:"レヴナントソード",size:"M",cost:120,sub:{str:100,pwr:32,rng:75,spd:85,itv:1000},type:"l",comment:"ダークレヴナントAM専用コンバージョンパーツ"}
+{id:20220316,name:"レヴナントソード",size:"M",cost:120,sub:{str:100,pwr:32,rng:75,spd:85,itv:1000},type:"l",tunable:{mwp:0,pwp:1},comment:"ダークレヴナントAM専用コンバージョンパーツ"}
 {id:202203162,name:"レヴナントダート",size:"M",cost:30,main:{str:100,pwr:15,shl:50,rng:200,spd:500,itv:1000},type:"l",slot:3,tunable:{pwp:0},comment:"ダークレヴナントAM専用コンバージョンパーツ"}
 
 
