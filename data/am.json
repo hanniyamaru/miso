@@ -297,7 +297,7 @@
 {id:177,name:"ソルブレンサーAM",type:"lacs",size:"M",cost:40,hp:25,str:2,tec:-1,wlk:2,tgh:2,joint:{wp:3},comment:"ブレイブアーツ省略"}
 {id:147,name:"ソルフロストAM",main:{tec:100,pwr:5,shl:420,rng:275,spd:350,itv:700},tunable:{mwp:1},joint:{am:1},fixedParts:{am:{name:"ソルフロストAM@",size:"M",type:"a",slot:0,joint:{wp:0}}},type:"a",size:"M",cost:75,hp:20,str:-1,tec:3,fly:1,tgh:2,comment:"AM@破損未検証"}
 
-{id:20220316,name:"ダークレヴナントAM",cost:45,hp:20,str:2,tec:-1,wlk:2,tgh:2,slot:0,joint:{wp:2},comment:"部位破壊不能",type:"l"}
+{id:20220316,name:"ダークレヴナントAM",cost:45,hp:20,str:2,tec:-1,wlk:2,tgh:2,slot:0,joint:{wp:3},comment:"部位破壊不能",type:"l"}
 {id:69,name:"ダグドライバーAM",type:"c",cost:135,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,main:{pwr:12,shl:450,rng:330,spd:240,itv:880},sub:{tec:100,pwr:25,rng:100,spd:180,itv:880},tunable:{mwp:1,pwp:1},joint:{wp:0}}
 
 {id:133,name:"ダルタニスAM2",sub:{str:100,pwr:32,rng:75,spd:150,itv:1500},tunable:{pwp:1},joint:{wp:0},type:"l",cost:155,hp:20,str:2,tec:-1,wlk:3,tgh:1,comment:"シールド耐久値不明"}
