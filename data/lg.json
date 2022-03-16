@@ -254,6 +254,8 @@
 
 {id:122,name:"ソルブレンサーLG",type:"lacs",size:"M",cost:45,hp:25,str:2,wlk:3,fly:2,tgh:-1}
 {id:103,name:"ソルフロストLG",sub:{shl:50,rng:0,spd:180,itv:1000},tunable:{pwp:0},type:"a",size:"M",cost:65,hp:25,str:-1,tec:1,wlk:2,fly:2,tgh:2}
+
+{id:20220316,name:"ダークレヴナントLG",type:"l",cost:45,hp:45,str:2,tec:-1,wlk:3,fly:1,tgh:1}
 {id:51,name:"ダグドライバーLG",cost:45,hp:25,tec:2,wlk:3,fly:-1,tgh:2}
 {id:93,name:"ダルタニスLG",cost:40,hp:20,str:1,tec:1,wlk:3,fly:1,tgh:-1}
 
