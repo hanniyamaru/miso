@@ -309,6 +309,12 @@
 {id:20211031,name:"グラヴィトンカノンα",main:{pwr:17,shl:650,rng:250,spd:480,itv:100},tunable:{mwp:0},joint:{wp:1},fixedParts:{wp:[{main:{pwr:9,shl:600,rng:275,spd:480,itv:900},name:"グラヴィトンカノン@2",slot:0,comment:["BEAM RIFLE","ライフル弾・追撃弾は同威力"]}]},type:"a",cost:180,size:"M",comment:["LASER","武器チューン不可"]}
 {id:202203163,name:"バフォグリーズガン",main:{tec:100,pwr:13,shl:660,rng:275,spd:400,itv:300},size:"M",type:"a",cost:85,comment:["混沌コイン景品","ビーム爆風50％"]}
 
+{id:202204142,name:"バイオロンボウ",size:"M",cost:120,type:"s",main:{tec:100,pwr:16,shl:330,rng:250,spd:250,itv:500},sub:{tec:100,pwr:20,shl:0,rng:0,spd:150,itv:1000},tunable:{mwp:1,pwp:0},comment:["アリーナコイン景品","バイオロン初期装備"]}
+
+
+
+
+
 {group:"mainコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 
 {id:503,name:"アクアショット",main:{pwr:19,shl:340,rng:250,spd:400,itv:500},type:"l",size:"S",cost:70,comment:"イオンAM2専用コンバージョンパーツ",tunable:{mwp:1}}
