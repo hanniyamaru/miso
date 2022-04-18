@@ -108,7 +108,7 @@
 
 
 
-{group:"その他",prefixID:"SO",nextID:17}
+{group:"その他（順不同）",prefixID:"SO",nextID:17}
 
 {id:1,name:"ブランクスタッフ",size:"S",cost:40,sub:{str:100,pwr:28,rng:77,spd:94,itv:500},tunable:{pwp:1}}
 {id:2,name:"ホムラスタッフ",size:"M",cost:90,sub:{pwr:25,shl:180,rng:250,spd:290,itv:1000}}
@@ -144,6 +144,10 @@
 {id:20220414,name:"セイント・クロス",size:"M",cost:160,type:"a",sub:{tec:100,pwr:13,shl:500,rng:275,spd:320,itv:1000},tunable:{pwp:0},comment:["アリーナコイン景品","アルヴィーテ初期装備","BSゲージ回復"]}
 
 {id:202204141,name:"ヤエガキ",size:"M",cost:40,type:"c",sub:{tec:100,pwr:32,shl:0,rng:70,spd:85,itv:500},tunable:{pwp:1},comment:["アリーナコイン景品","ツチガタ初期装備"]}
+
+{id:16,name:"インパクトナックル",size:"M",cost:100,type:"l",sub:{str:100,pwr:30,shl:0,rng:70,spd:30,itv:1000},tunable:{pwp:1},comment:["アリーナコイン景品"]}
+
+
 
 
 
