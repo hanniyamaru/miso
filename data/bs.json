@@ -264,6 +264,7 @@
 
 {id:118,name:"ヴォルテスBS",type:"a",size:"M",cost:40,hp:25,wlk:2,fly:3}
 {id:187,name:"ウミガメンティスBS",sub:{tec:100,pwr:5,shl:400,rng:250,spd:350,itv:1000},tunable:{pwp:0,mwp:0},type:"a",size:"M",cost:65,hp:25,tec:1,fly:2,tgh:2}
+{id:70,name:"ウルフガイBS",tunable:{pwp:1},sub:{str:100,pwr:28,rng:100,spd:80,itv:1000},type:"l",cost:40,hp:25,str:1,tec:-1,wlk:2,fly:3,comment:["変形省略","アリーナコイン景品"]}
 
 {id:88,name:"エスティスBS",type:"l",cost:40,hp:25,tec:2,wlk:2,fly:2,tgh:-1}
 
