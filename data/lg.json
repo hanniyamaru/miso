@@ -61,7 +61,7 @@
 {id:9,name:"ダルマスターLG",cost:40,hp:20,str:1,wlk:3,tgh:1}
 
 {id:30,name:"ディカロスLG",type:"a",cost:45,hp:25,str:1,tec:1,wlk:2,fly:1}
-{id:32,name:"テスラドンナαLG",type:"a",size:"S",cost:75,hp:25,tec:-1,tec:2,wlk:2,fly:2,tgh:1,sub:{tec:100,pwr:20,shl:60,rng:100,spd:120,itv:1000},tunable:{pwp:1}}
+{id:32,name:"テスラドンナαLG",type:"a",size:"S",cost:75,hp:25,str:-1,tec:-1,tec:2,wlk:2,fly:2,tgh:1,sub:{tec:100,pwr:20,shl:60,rng:100,spd:120,itv:1000},tunable:{pwp:1}}
 
 
 {id:46,name:"テントリオンLG",cost:40,hp:20,str:2,tec:1,wlk:2,fly:-1,tgh:1}
