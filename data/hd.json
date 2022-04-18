@@ -531,6 +531,7 @@
 {id:4,name:"ダイダリオンHD",cost:40,hp:25,str:1,wlk:1,tgh:3}
 
 {id:7,name:"ダゴミュールHD",cost:40,hp:25,str:1,tec:1,wlk:2,tgh:1}
+{id:202204141,name:"ツチガタHD",main:{pwr:12,shl:480,rng:330,spd:320,itv:800,tec:100},tunable:{mwp:1},type:"c",size:"L",cost:105,hp:20,str:-1,tec:3,wlk:1,tgh:2,comment:["アリーナコイン景品"]}
 
 {id:1204,name:"ティタロテスHD",cost:30,hp:15,tec:2,wlk:1,fly:-1,tgh:2}
 {id:25,name:"デストラクトHD",cost:40,hp:25,str:1,tec:2,tgh:2}
