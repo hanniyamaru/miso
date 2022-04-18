@@ -535,6 +535,7 @@
 {id:82,name:"ダゴミュールAM",cost:65,hp:20,str:-1,tec:2,wlk:2,tgh:2,sub:{tec:100,pwr:22,rng:98,spd:119,itv:500},tunable:{pwp:1},joint:{wp:0}}
 {id:120,name:"ダゴミュールAM2",main:{pwr:13,shl:180,rng:330,spd:250,itv:1000},tunable:{mwp:1},type:"lc",cost:65,hp:20,tec:3,wlk:1,fly:1}
 
+{id:202204141,name:"ツチガタAM",size:"L",cost:35,hp:20,tec:2,tgh:3,comment:["アリーナコイン景品"]}
 
 {id:85,name:"ディースモークAM",type:"s",cost:105,hp:20,tec:2,tgh:3,tunable:{mwp:1},main:{pwr:6,shl:480,rng:250,spd:325,itv:400}}
 {id:151,name:"ディースモークAM2",cost:65,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,size:"L",joint:{am:1},fixedParts:{am:{name:"ディースモークAM2@",slot:0,joint:{wp:0}}}}
