@@ -6,8 +6,6 @@
 
 
 
-{id:16,name:"ヘビージャガーアームBD",cartridge:{hpup:18,lv1:"85*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|21@20|28@30|12@20|13@30|32@50|31@40"},cost:405,hp:245,capa:800,str:10,tec:6,wlk:12,fly:8,tgh:9,wbid:7}
-
 
 {id:88,name:"コニーシェリフαBD",cost:515,capa:850,hp:225,str:5,tec:15,wlk:14,fly:7,tgh:7,cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|25@25|26@20|71@50|13@30|32@50|31@40"},sub:{pwr:[32],rng:75,spd:150,itv:1000,tec:100},fixedParts:{hdac:["S1"],hd:{name:"コニーシェリフαHD",sub:{pwr:25,shl:30,rng:0,spd:0,itv:1000,tec:100},tunable:{pwp:0},cost:60,hp:25,str:-1,tec:1,wlk:2,fly:1,tgh:2},am:[{name:"コニーシェリフαAM",fixedParts:{wp:{name:"PEACE",main:{pwr:15,shl:630,rng:250,spd:400,itv:300},cost:60,tunable:{mwp:1,pwp:0}}},cost:35,hp:20,tec:2,wlk:1,fly:1,tgh:1,comment:"部位破壊不能"},{name:"コニーシェリフαAM2",fixedParts:{wp:{name:"LOVE",main:{pwr:15,shl:630,rng:250,spd:400,itv:300},cost:60,tunable:{mwp:1,pwp:0}}},cost:35,hp:20,tec:2,wlk:1,fly:1,tgh:1,comment:"部位破壊不能"}]},joint:{hdac:1},comment:["ロボガラポン"]}
 
@@ -249,6 +247,8 @@
 {id:13,name:"ビャッコウBD",cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|28@30|16@20|21@20|29@15|13@30|32@50|31@40"},cost:445,capa:870,hp:255,str:11,tec:5,wlk:15,fly:7,tgh:10,wbid:17,auraSystem:1}
 
 {id:1,name:"フィザリバンBD",cost:360,capa:710,hp:230,str:11,tec:4,wlk:11,fly:7,tgh:9,wbid:9,cartridge:{hpup:22,lv1:"5*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|11@20|29@15|15@15|14@20|13@30|32@50|31@40"}}
+
+{id:16,name:"ヘビージャガーアームBD",cartridge:{hpup:18,lv1:"85*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|21@20|28@30|12@20|13@30|32@50|31@40"},cost:405,hp:245,capa:800,str:10,tec:6,wlk:12,fly:8,tgh:9,wbid:7}
 
 {id:30,name:"ヘラクビートランダーBD",cartridge:{hpup:10,lv1:"75*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|29@15|21@20|16@20|13@30|32@50|31@40"},cost:490,capa:945,hp:270,str:14,tec:4,wlk:10,fly:8,tgh:15,size:"M",type:"l"}
 
