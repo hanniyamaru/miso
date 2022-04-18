@@ -135,6 +135,7 @@
 
 
 {id:375,name:"ウミガメンティスHD",cost:40,hp:20,tec:1,fly:2,tgh:2}
+{id:158,name:"ウルフガイHD",sub:{pwr:30,rng:100,spd:180,itv:1000,str:100},tunable:{pwp:1},cost:40,hp:25,str:1,tec:-1,wlk:3,fly:1,tgh:1,comment:["変形省略","アリーナコイン景品"]}
 
 
 {id:200,name:"ウルメリーHD",cost:35,hp:20,tec:1,wlk:1,fly:1,tgh:2}
