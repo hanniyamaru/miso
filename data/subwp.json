@@ -143,6 +143,8 @@
 {id:202203161,name:"バフォグリーズクロー",main:{pwr:17,shl:390,rng:330,spd:280,itv:500,tec:100},sub:{tec:100,pwr:32,shl:0,rng:70,spd:85,itv:1000},type:"c",size:"M",cost:160,comment:"混沌コイン景品",tunable:{pwp:1,mwp:1}}
 {id:20220414,name:"セイント・クロス",size:"M",cost:160,type:"a",sub:{tec:100,pwr:13,shl:500,rng:275,spd:320,itv:1000},tunable:{pwp:0},comment:["アリーナコイン景品","アルヴィーテ初期装備","BSゲージ回復"]}
 
+{id:202204141,name:"ヤエガキ",size:"M",cost:40,type:"c",sub:{tec:100,pwr:32,shl:0,rng:70,spd:85,itv:500},tunable:{pwp:1},comment:["アリーナコイン景品","ツチガタ初期装備"]}
+
 
 
 
