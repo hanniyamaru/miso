@@ -197,7 +197,7 @@
 
 {id:39,name:"シュトルバンガーBD3",cost:510,capa:980,hp:305,str:4,tec:13,wlk:10,fly:7,tgh:9,wbid:4,cartridge:{hpup:10,lv1:"75*6@20|7@20|10@20|8@15|17@20|18@20|20@15|23@25|25@25|30@20|21@20|26@10|13@30|32@40|31@40"},sub:{pwr:[30],shl:[30],rng:[100],spd:[320],itv:[1000],tec:100},type:"c",size:"L",comment:"壱式"}
 {id:30,name:"ダゴミュールBD",cartridge:{hpup:18,lv1:"85*6@20|7@20|10@20|8@15|17@20|18@20|19@20|20@15|23@25|30@20|15@30|26@10|13@30|32@40|31@40"},wbid:4,cost:405,capa:800,hp:275,str:5,tec:13,wlk:9,fly:7,tgh:11}
-{id:202204141,name:"ツチガタBD",cost:540,capa:800,hp:295,str:4,tec:13,wlk:9,fly:11,tgh:13,main:{pwr:[12],shl:[1000],rng:[280],spd:[480],itv:100},type:"c",size:"L",wbid:4,cartridge:{hpup:18,lv1:"85*5@20|61*2@30|7@20|10@20|8@15|18@20|19@20|20@15|23@25|30@20|21@20|25@25|13@30|32@40|31@40"},comment:["内蔵強化値不明","アリーナコイン景品"],joint:{hdac:1,bs:0},builtin:{bs:1},fixedParts:{hdac:["S1"]}}
+{id:202204141,name:"ツチガタBD",cost:540,capa:800,hp:295,str:4,tec:13,wlk:9,fly:11,tgh:13,main:{pwr:[12],shl:[1000],rng:[280],spd:[480],itv:100},type:"c",size:"L",wbid:4,cartridge:{hpup:18,lv1:"85*5@20|61*2@30|7@20|10@20|8@15|18@20|19@20|20@15|23@25|30@20|21@20|25@25|13@30|31@40|32@40"},comment:["内蔵強化値不明","アリーナコイン景品"],joint:{hdac:1,bs:0},builtin:{bs:1},fixedParts:{hdac:["S1"]}}
 
 
 {id:52,name:"ティタロテスBD",cost:490,capa:980,hp:305,str:4,tec:13,wlk:9,fly:8,tgh:9,main:{pwr:9,shl:560,rng:350,spd:400,itv:600},cartridge:{hpup:10,lv1:"75*5@20|60*2@30|7@20|10@20|8@15|19@20|20@15|23@25|26@10|29@15|21@20|30@20|13@30|31@40|32@40"},comment:"内蔵強化値不明"}
