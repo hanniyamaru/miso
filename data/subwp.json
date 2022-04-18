@@ -69,6 +69,9 @@
 {id:19,name:"ナイトランス",sub:{str:100,pwr:28,rng:150,spd:80,itv:1000},type:"l",size:"S",cost:130}
 {id:1202,name:"バリオスランス",main:{tec:100,pwr:13,shl:390,rng:275,spd:400,itv:300},sub:{tec:100,pwr:30,shl:130,rng:120,spd:220,itv:2000},tunable:{mwp:1,pwp:1},cost:200,type:"a",size:"M"}
 {id:17,name:"アモーレランス",sub:{pwr:27,str:100,rng:100,spd:200,itv:2000},tunable:{pwp:1},cost:130,size:"M"}
+{id:202204143,name:"ジャンパーハルバード",size:"M",cost:60,type:"a",sub:{str:100,pwr:23,shl:0,rng:120,spd:200,itv:500},tunable:{pwp:1},comment:["アリーナコイン景品"]}
+
+
 
 {group:"Uniアクス系",prefixID:"AX",nextID:10}
 {id:1,name:"ハンドアクス",type:"lcs",size:"S",cost:40,sub:{str:100,pwr:30,rng:56,spd:68,itv:1000},tunable:{pwp:1}}
