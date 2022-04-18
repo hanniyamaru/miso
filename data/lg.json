@@ -181,6 +181,7 @@
 
 
 {id:392,name:"ウミガメンティスLG",type:"a",size:"M",cost:45,hp:25,str:2,tec:1,wlk:3,fly:1,tgh:-1}
+{id:62,name:"ウルフガイLG",cost:45,hp:25,str:2,tec:1,wlk:3,fly:-1,tgh:1,comment:["アリーナコイン景品"]}
 
 
 {id:76,name:"エスティスLG",type:"l",cost:45,hp:25,str:-1,tec:2,wlk:3,fly:1,tgh:1}
