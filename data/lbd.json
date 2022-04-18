@@ -5,6 +5,10 @@
 {group:"Ｓ陸　近日更新分",prefixID:"LS",commonStat:{size:"S",type:"l"},nextID:35}
 
 
+
+{id:16,name:"ヘビージャガーアームBD",cartridge:{hpup:18,lv1:"85*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|21@20|28@30|12@20|13@30|32@50|31@40"},cost:405,hp:245,capa:800,str:10,tec:6,wlk:12,fly:8,tgh:9,wbid:7}
+
+
 {id:88,name:"コニーシェリフαBD",cost:515,capa:850,hp:225,str:5,tec:15,wlk:14,fly:7,tgh:7,cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|25@25|26@20|71@50|13@30|32@50|31@40"},sub:{pwr:[32],rng:75,spd:150,itv:1000,tec:100},fixedParts:{hdac:["S1"],hd:{name:"コニーシェリフαHD",sub:{pwr:25,shl:30,rng:0,spd:0,itv:1000,tec:100},tunable:{pwp:0},cost:60,hp:25,str:-1,tec:1,wlk:2,fly:1,tgh:2},am:[{name:"コニーシェリフαAM",fixedParts:{wp:{name:"PEACE",main:{pwr:15,shl:630,rng:250,spd:400,itv:300},cost:60,tunable:{mwp:1,pwp:0}}},cost:35,hp:20,tec:2,wlk:1,fly:1,tgh:1,comment:"部位破壊不能"},{name:"コニーシェリフαAM2",fixedParts:{wp:{name:"LOVE",main:{pwr:15,shl:630,rng:250,spd:400,itv:300},cost:60,tunable:{mwp:1,pwp:0}}},cost:35,hp:20,tec:2,wlk:1,fly:1,tgh:1,comment:"部位破壊不能"}]},joint:{hdac:1},comment:["ロボガラポン"]}
 
 
@@ -291,6 +295,7 @@
 {id:47,name:"クシュルブBD2",cartridge:{lv1:"85*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|16@20|29@15|15@15|14@20|13@30|32@50|31@40",hpup:18},cost:445,capa:800,hp:275,str:11,tec:5,wlk:14,fly:8,tgh:7,wbid:5}
 
 {id:18,name:"クロコダガーBD",cost:545,capa:800,hp:300,str:16,tec:3,wlk:14,fly:6,tgh:11,sub:{str:100,pwr:[32,32,33],rng:[70,77,84],spd:[100,110,120],itv:2000},wbid:6,cartridge:{hpup:18,lv1:"85*5@20|61*2@30|7@20|9@20|10@15|17@15|20@15|53@10|11@20|23@25|16@20|18@15|13@30|32@50|31@40"},joint:{hdac:1,fcac:1,hd:0}}
+{id:4,name:"ケンタクロスBD",cost:490,capa:945,hp:305,str:10,tec:6,wlk:16,fly:7,tgh:12,wbid:8,cartridge:{hpup:10,lv1:"75*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|14@20|25@25|25@25|16@20|12@20|13@30|32@50|31@40"},comment:["ロボガラポン"]}
 
 {id:5,name:"コスモカイザーBD",cost:480,capa:870,hp:290,str:10,tec:7,wlk:12,fly:8,tgh:11,main:{pwr:[6,7,8],shl:[560],rng:225,spd:440,itv:200},wbid:2,cartridge:{hpup:14,lv1:"4*5@20|61*2@30|7@20|9@20|10@15|17@15|18@15||20@15|23@25|16@20|28@30|26@20|13@30|32@50|31@40"},comment:"メインはSTR TECの高い方に依存する"}
 {id:26,name:"コスモカイザーBD2",main:{tec:100,pwr:[5,6,7],shl:2000,rng:225,spd:[440],itv:140},cartridge:{hpup:14,lv1:"4*5@20|61*2@30|7@20|9@20|10@15|17@15|18@15||20@15|23@25|16@20|28@30|25@25|13@30|32@50|31@40"},cost:545,capa:870,hp:290,str:4,tec:13,wlk:12,fly:7,tgh:12}
