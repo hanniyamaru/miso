@@ -25,7 +25,8 @@
 
 
 {id:11,name:"セラフクリムローゼαBD",sub:{tec:100,pwr:24,shl:50,rng:75,spd:85,itv:1000},cartridge:{lv1:"85*6@25|7@30|9@15|8@20|19@15|21@20|23@25|22@30|52@20|15@20|30@20|31@40|13@30|32@50|26@20",hpup:18},fixedParts:{hd:{name:"セラフクリムローゼαHD",cost:40,hp:25,tec:3,fly:1,tgh:1},bs:{name:"セラフクリムローゼαBS",sub:{pwr:-1,shl:15,rng:-9,spd:-9,itv:-1},cost:30}},cost:435,capa:780,hp:210,str:2,tec:11,wlk:7,fly:18,tgh:7,wbid:1}
-{id:17,name:"テスラドンナαBD",size:"S",cost:480,capa:850,hp:245,str:4,tec:15,wlk:8,fly:18,tgh:8,wbid:1,cartridge:{hpup:14,lv1:"4*6@25|7@30|9@15|8@20|18@30|19@15|23@25|22@30|52@20|26@20|25@25|21@20|13@30|32@50|31@40"},fixedParts:{hdac:["S1"],hd:"テスラドンナαHD",cost:40,hp:25,str:1,tec:2,wlk:1,fly:1},builtin:{bs:1},joint:{hdac:1,bs:0}}
+{id:17,name:"テスラドンナαBD",cartridge:{lv1:"4*6@25|7@30|9@15|8@20|18@30|19@15|23@25|22@30|52@20|26@20|25@25|21@20|13@30|32@50|31@40",hpup:14},joint:{bs:0,wp:1},fixedParts:{wp:["W1"],hd:{name:"テスラドンナαHD",cost:40,hp:25,str:1,tec:2,wlk:1,fly:1,slot:3}},cost:480,capa:850,hp:245,str:4,tec:15,wlk:8,fly:18,tgh:8,wbid:1,builtin:{bs:1}}
+
 
 {id:99,name:"ネーベルBD",sub:{shl:75,rng:0,spd:150,itv:1000},joint:{wp:1},cartridge:{hpup:14,lv1:"4*6@25|7@30|9@15|8@20|18@30|19@15|23@25|22@30|52@20|25@25|21@20|13@30|39@15|32@50|31@40"},fixedParts:{hd:{name:"ネーベルHD",cost:40,hp:25,tec:1,wlk:1,fly:1,tgh:2},lg:{name:"ネーベルLG",sub:{pwr:11,shl:300,rng:275,spd:320,itv:1000},cost:95,hp:25,str:-1,tec:2,wlk:2,fly:2,tgh:1,comment:"ブースト回復効果"},am:[{name:"ネーベルAM",cost:40,hp:25,tec:3,fly:1,tgh:1,comment:"部位破壊不能"},{name:"ネーベルAM2",cost:40,hp:25,tec:3,fly:1,tgh:1,comment:"部位破壊不能"}],wp:{name:"ブリスガンドエンブレム"}},type:"a",size:"S",cost:475,capa:900,hp:225,str:4,tec:14,wlk:7,fly:15,tgh:8,wbid:74}
 
