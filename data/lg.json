@@ -323,7 +323,7 @@
 
 {id:43,name:"ブリッツェルトLG",cost:45,hp:25,str:2,wlk:3,fly:1,tgh:-1}
 {id:44,name:"ブリッツェルトLG2",cost:45,hp:25,tec:2,wlk:3,fly:-1,tgh:1}
-{id:20220417,name:"ヘリンガルMK-2LG",size:"M",cost:45,hp:25,str:-1,tec:2,fly:3,fly:1,tgh:1,comment:["ロボガラポン"]}
+{id:20220417,name:"ヘリンガルMK-2LG",size:"M",cost:45,hp:25,str:-1,tec:2,wlk:3,fly:1,tgh:1,comment:["ロボガラポン"]}
 
 {id:394,name:"ブリンクLG",cost:45,hp:25,tec:2,wlk:3,fly:1}
 
