@@ -346,6 +346,7 @@
 
 {id:99,name:"ゼブルサイガン",main:{pwr:10,shl:540,rng:330,spd:220,itv:300},tunable:{mwp:1},type:"c",size:"S",cost:60}
 
+{id:202204175,name:"マグネガン",main:{tec:100,pwr:9,shl:480,rng:300,spd:280,itv:500},type:"c",size:"S",cost:50,comment:"フィオナBD専用コンバージョンパーツ",tunable:{mwp:1}}
 
 {id:1591,name:"マニモウィング@",main:{str:100,pwr:3,shl:800,rng:300,spd:400,itv:440},type:"a",size:"M",comment:"マニモウィング専用コンバーションパーツ",cost:40}
 {id:74,name:"メロディコードα",main:{pwr:9,shl:380,rng:250,spd:400,itv:500},sub:{pwr:11,shl:240,rng:250,spd:320,itv:1000},type:"s",size:"S",cost:65,comment:"ハープにのみ接続可能。"}
@@ -376,6 +377,7 @@
 
 
 {id:118,name:"ホーミングアロー",main:{pwr:13,shl:180,rng:250,spd:320,itv:800},cost:50,type:"l",size:"M",comment:"ロビンハンターAM専用コンバージョンパーツ",slot:0}
+{id:202204174,name:"マシンガン",main:{str:100,pwr:11,shl:720,rng:225,spd:440,itv:260},type:"l",size:"S",cost:50,comment:"ルナスタシアBD専用コンバージョンパーツ",tunable:{mwp:1}}
 
 {id:109,name:"リーゼ・ガトリング",main:{pwr:4,shl:1600,rng:350,spd:480,itv:200},cost:45,slot:0,type:"c",size:"S",comment:"リーゼル・ツヴァイク BD専用コンバージョンパーツ"}
 
@@ -404,6 +406,11 @@
 
 {id:20220302,name:"ガーディアンナイト",type:"c",size:"S",cost:30,sub:{tec:100,pwr:30,shl:30,rng:0,spd:100,itv:1000},tunable:{mwp:0},slot:3,comment:["エレオノール専用コンバージョン"]}
 
+{group:"コレッティコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
+{id:20222024,name:"フィン・マスケット",type:"c",size:"S",cost:80,main:{tec:100,pwr:24,shl:350,rng:350,spd:440,itv:600},comment:"コレッティAM専用コンバージョンパーツ"}
+{id:20222025,name:"フィンキャノンSS",main:{pwr:5,shl:210,rng:330,spd:280,itv:900},sub:{tec:100,pwr:30,rng:0,spd:100,itv:1000},type:"c",size:"S",cost:70,comment:["MISSILE・STEP","コレッティBD専用コンバージョンパーツ"],tunable:{mwp:1,pwp:0}}
+{id:20222026,name:"フィンキャノンHE",main:{pwr:17,shl:540,rng:330,spd:400,itv:700},sub:{tec:100,pwr:10,shl:320,rng:350,spd:280,itv:1000},type:"c",size:"S",cost:80,comment:["CANON・MISSILE","コレッティBD専用コンバージョンパーツ"],tunable:{mwp:1,pwp:0}}
+
 
 {group:"ジゼル・ノワールコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:167,name:"スティグマシールド",main:{shl:50,spd:10,itv:1000},type:"l",size:"S",cost:20,comment:"ジゼル･ノワールAM専用コンバージョンパーツ",slot:0}
@@ -430,7 +437,15 @@
 
 {id:202204172,name:"テンポールBD@3",type:"c",size:"L",cost:70,main:{tec:100,pwr:9,shl:560,rng:350,spd:280,itv:660},slot:0,joint:{wp:1},comment:["MISSILE","接続武器はゲーム内で確認して合わせてください","テンポール専用コンバージョンパーツ"]}
 
+{group:"ナターシャコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
+{id:62,name:"シヴァリーキャノン",main:{pwr:18,shl:400,rng:330,spd:290,itv:600},joint:{wp:1},fixedParts:{wp:{name:"シヴァリーキャノン",main:{pwr:40,shl:30,rng:330,spd:400,itv:500},slot:0}},type:"c",size:"S",cost:160,comment:"ナターシャAM専用コンバージョンパーツ cost合算"}
+{id:6211,name:"シヴァリーキャノンⅡ",main:{pwr:10,shl:730,rng:330,spd:320,itv:300},joint:{wp:1},fixedParts:{wp:{name:"シヴァリーキャノンⅡ",main:{pwr:32,shl:40,rng:330,spd:400,itv:1000},slot:0}},type:"c",size:"S",cost:160,comment:["ナターシャAM専用コンバージョンパーツ","cost+50合算"]}
+{id:7211,name:"シヴァリーガード",sub:{pwr:30,itv:500},type:"c",size:"S",cost:50,comment:["ナターシャAM2専用コンバージョンパーツ","1度の攻撃で受けるバリアへの最大与ダメージ13"]}
+{id:17911,name:"シヴァリーガードⅡ",sub:{pwr:0,rng:10,itv:500},type:"c",size:"S",cost:50,comment:"ナターシャAM2専用コンバージョンパーツ",joint:{wp:1},fixedParts:{wp:{name:"シヴァリーガードⅡ＠",sub:{pwr:30,shl:0,rng:10,spd:170,itv:1000},type:"c",size:"S",slot:0,cost:20}}}
 
+{group:"ネーベルコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
+{id:20222022,name:"ドンナーマスケット",type:"a",size:"S",cost:30,main:{tec:100,pwr:25,shl:50,rng:275,spd:400,itv:1000},tunable:{mwp:0},comment:["本体省略","武器チューン不可"]}
+{id:20222023,name:"ブリッツBマシンガン",main:{tec:100,pwr:14,shl:720,rng:275,spd:440,itv:240},joint:{wp:1},fixedParts:{wp:{name:"コネクトブラスト",main:{pwr:20,shl:430,rng:350,spd:400,itv:500},slot:0}},type:"a",size:"S",cost:120,comment:"-"}
 
 {group:"ノーラ・シュナイトコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:1117,name:"シュテーレン・ゲヴェーア",main:{tec:100,pwr:17,shl:540,rng:250,spd:400,itv:340},type:"l",size:"S",cost:70,comment:["-","-"]}
@@ -442,40 +457,34 @@
 {id:107,name:"ハンドゲヴィア",main:{pwr:13,shl:540,rng:225,spd:400,itv:300,str:100},type:"l",size:"S",cost:60,comment:"ハンナ・フリッツ専用コンバージョンパーツ",tunable:{mwp:1}}
 {id:111,name:"ツヴァイ・カノーネ",sub:{str:100,pwr:10,shl:30,rng:150,spd:250,itv:1000},type:"l",size:"S",cost:30,slot:0,comment:"ハンナ・フリッツ専用コンバージョンパーツ"}
 
-{group:"ラフィールコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
-{id:170,name:"ミニッツレイピア",main:{shl:50,spd:10,itv:1000},sub:{pwr:32,rng:84,spd:102,itv:500,str:100},tunable:{pwp:1},type:"l",size:"S",cost:120}
-{id:171,name:"アワーダガー",main:{pwr:20,shl:50,rng:200,spd:570,itv:500,str:100},sub:{pwr:0,shl:0,rng:150,spd:350,itv:1000,str:100},type:"l",size:"S",cost:80,slot:0}
 
 {group:"フィーリアコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:45,name:"ドラグーンソード",sub:{tec:100,pwr:18,shl:300,rng:350,spd:280,itv:1000},type:"c",size:"S",comment:"フィーリア専用コンバーションパーツ",cost:90,slot:0,joint:{wp:1}}
 {id:46,name:"ドラグーンソード@",type:"c",size:"S",comment:"ドラグーンソードコンバーションパーツ",cost:90,main:{tec:100,pwr:28,shl:400,rng:330,spd:440,itv:700},tunable:{mwp:1}}
 {id:2022113,name:"ファイヤーブレス",type:"c",size:"S",cost:50,main:{tec:100,pwr:35,shl:100,rng:350,spd:400,itv:1000},slot:0}
 
-{group:"ネーベルコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
-{id:20222022,name:"ドンナーマスケット",type:"a",size:"S",cost:30,main:{tec:100,pwr:25,shl:50,rng:275,spd:400,itv:1000},tunable:{mwp:0},comment:["本体省略","武器チューン不可"]}
-{id:20222023,name:"ブリッツBマシンガン",main:{tec:100,pwr:14,shl:720,rng:275,spd:440,itv:240},joint:{wp:1},fixedParts:{wp:{name:"コネクトブラスト",main:{pwr:20,shl:430,rng:350,spd:400,itv:500},slot:0}},type:"a",size:"S",cost:120,comment:"-"}
 
-{group:"コレッティコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
-{id:20222024,name:"フィン・マスケット",type:"c",size:"S",cost:80,main:{tec:100,pwr:24,shl:350,rng:350,spd:440,itv:600},comment:"コレッティAM専用コンバージョンパーツ"}
-{id:20222025,name:"フィンキャノンSS",main:{pwr:5,shl:210,rng:330,spd:280,itv:900},sub:{tec:100,pwr:30,rng:0,spd:100,itv:1000},type:"c",size:"S",cost:70,comment:["MISSILE・STEP","コレッティBD専用コンバージョンパーツ"],tunable:{mwp:1,pwp:0}}
-{id:20222026,name:"フィンキャノンHE",main:{pwr:17,shl:540,rng:330,spd:400,itv:700},sub:{tec:100,pwr:10,shl:320,rng:350,spd:280,itv:1000},type:"c",size:"S",cost:80,comment:["CANON・MISSILE","コレッティBD専用コンバージョンパーツ"],tunable:{mwp:1,pwp:0}}
 
 {group:"マルカコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:64,name:"グロームロッド",main:{pwr:9,shl:540,rng:275,spd:440,itv:300,tec:100},sub:{pwr:26,shl:60,spd:150,itv:1000,tec:100},type:"a",size:"M",cost:100,comment:"マルカAM専用コンバージョンパーツ、変形省略、爆風比率1：9　",tunable:{mwp:1}}
 {id:6401,name:"ゲイルロッド",main:{pwr:24,shl:340,rng:275,spd:400,itv:500,tec:100},sub:{pwr:10,shl:60,spd:150,itv:1000,tec:100},type:"a",size:"M",cost:120,comment:"マルカAM専用コンバージョンパーツ",tunable:{mwp:1}}
+
+{group:"マトイコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
+
+{id:202204176,name:"アクシオンガンビット",main:{str:100,pwr:13,shl:600,rng:250,spd:570,itv:300},type:"l",size:"S",cost:50,comment:"マトイBD専用コンバージョンパーツ",tunable:{mwp:1}}
+
+{id:202204177,name:"アクシオンソードビット",sub:{str:100,pwr:30,shl:0,rng:150,spd:500,itv:1000},type:"l",size:"S",cost:30,comment:"マトイBD専用コンバージョンパーツ"}
 
 
 {group:"メルクーリオコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:175,name:"ニードルスター",main:{pwr:20,shl:50,rng:200,spd:500,itv:500,str:100},sub:{pwr:32,rng:56,spd:68,itv:1500,str:100},cost:130,comment:"メルクーリオAM2専用コンバージョン",type:"l",size:"S",tunable:{mwp:1,pwp:1}}
 {id:20222027,name:"ポラリス",type:"l",size:"S",cost:50,main:{str:100,pwr:20,shl:30,rng:200,spd:280,itv:1000},slot:0,comment:["メルクーリオBD@専用コンバージョン"]}
 
-{group:"ナターシャコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
-{id:62,name:"シヴァリーキャノン",main:{pwr:18,shl:400,rng:330,spd:290,itv:600},joint:{wp:1},fixedParts:{wp:{name:"シヴァリーキャノン",main:{pwr:40,shl:30,rng:330,spd:400,itv:500},slot:0}},type:"c",size:"S",cost:160,comment:"ナターシャAM専用コンバージョンパーツ cost合算"}
-{id:6211,name:"シヴァリーキャノンⅡ",main:{pwr:10,shl:730,rng:330,spd:320,itv:300},joint:{wp:1},fixedParts:{wp:{name:"シヴァリーキャノンⅡ",main:{pwr:32,shl:40,rng:330,spd:400,itv:1000},slot:0}},type:"c",size:"S",cost:160,comment:["ナターシャAM専用コンバージョンパーツ","cost+50合算"]}
-{id:7211,name:"シヴァリーガード",sub:{pwr:30,itv:500},type:"c",size:"S",cost:50,comment:["ナターシャAM2専用コンバージョンパーツ","1度の攻撃で受けるバリアへの最大与ダメージ13"]}
-{id:17911,name:"シヴァリーガードⅡ",sub:{pwr:0,rng:10,itv:500},type:"c",size:"S",cost:50,comment:"ナターシャAM2専用コンバージョンパーツ",joint:{wp:1},fixedParts:{wp:{name:"シヴァリーガードⅡ＠",sub:{pwr:30,shl:0,rng:10,spd:170,itv:1000},type:"c",size:"S",slot:0,cost:20}}}
 
 
+{group:"ラフィールコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
+{id:170,name:"ミニッツレイピア",main:{shl:50,spd:10,itv:1000},sub:{pwr:32,rng:84,spd:102,itv:500,str:100},tunable:{pwp:1},type:"l",size:"S",cost:120}
+{id:171,name:"アワーダガー",main:{pwr:20,shl:50,rng:200,spd:570,itv:500,str:100},sub:{pwr:0,shl:0,rng:150,spd:350,itv:1000,str:100},type:"l",size:"S",cost:80,slot:0}
 
 
 
