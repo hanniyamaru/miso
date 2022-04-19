@@ -424,9 +424,9 @@
 {id:202203162,name:"レヴナントダート",size:"M",cost:30,main:{str:100,pwr:15,shl:50,rng:200,spd:500,itv:1000},type:"l",slot:3,tunable:{pwp:0},comment:"ダークレヴナントAM専用コンバージョンパーツ"}
 
 {group:"テンポールコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
-{id:202204171,name:"テンポールBD@2",type:"c",size:"L",cost:70,main:{tec:100,pwr:12,shl:520,rng:350,spd:440,itv:700},joint:{wp:1},comment:["BURST SHOTGUN","接続武器はゲーム内で確認して合わせてください","テンポール専用コンバージョンパーツ"]}
+{id:202204171,name:"テンポールBD@2",type:"c",size:"L",cost:70,main:{tec:100,pwr:12,shl:520,rng:350,spd:440,itv:700},slot:0,joint:{wp:1},comment:["BURST SHOTGUN","接続武器はゲーム内で確認して合わせてください","テンポール専用コンバージョンパーツ"]}
 
-{id:202204172,name:"テンポールBD@3",type:"c",size:"L",cost:70,main:{tec:100,pwr:9,shl:560,rng:350,spd:280,itv:660},joint:{wp:1},comment:["MISSILE","接続武器はゲーム内で確認して合わせてください","テンポール専用コンバージョンパーツ"]}
+{id:202204172,name:"テンポールBD@3",type:"c",size:"L",cost:70,main:{tec:100,pwr:9,shl:560,rng:350,spd:280,itv:660},slot:0,joint:{wp:1},comment:["MISSILE","接続武器はゲーム内で確認して合わせてください","テンポール専用コンバージョンパーツ"]}
 
 
 
