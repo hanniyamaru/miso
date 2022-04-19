@@ -119,6 +119,7 @@
 {id:35,name:"ミスティホロウαAM",cost:35,hp:20,str:2,wlk:2,fly:1}
 {id:36,name:"ミスティホロウαAM2",type:"l",cost:105,hp:20,str:3,wlk:2,fly:-1,tgh:1,sub:{str:100,pwr:32,rng:70,spd:10,itv:500},tunable:{pwp:1},joint:{wp:0}}
 
+{id:165,name:"メディカレストAM",size:"S",cost:35,hp:20,str:-1,tec:1,wlk:2,tgh:3}
 
 {id:110,name:"メトラAM",main:{pwr:7,shl:500,rng:275,spd:350,itv:360},type:"a",cost:75,hp:20,tec:3,wlk:-1,fly:2,tgh:2,tunable:{mwp:1,pwp:0},size:"S"}
 {id:132,name:"メトラAM2",main:{pwr:5,shl:720,rng:275,spd:520,itv:320},type:"a",cost:85,hp:20,str:-1,tec:3,wlk:1,fly:2,tunable:{mwp:1}}
@@ -384,6 +385,9 @@
 {id:172,name:"ブラディスターAM",type:"c",size:"M",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1,joint:{wp:2}}
 {id:194,name:"ブラディスターAM2",type:"c",size:"M",cost:35,hp:20,str:1,tec:2,wlk:1,fly:1,joint:{wp:2}}
 {id:100,name:"フラップジャックAM",fixedParts:{wp:{main:{pwr:20,tec:100,shl:340,rng:275,spd:440,itv:1120},name:"フラップジャックAM@",type:"a",slot:0,cost:40,comment:"AM@部位破壊不能",auraStat:{main:{tec:100,pwr:20,shl:340,rng:300,spd:500,itv:500}}}},auraStat:{str:-1,tec:2,fly:3,tgh:1},type:"a",cost:35,hp:20,str:-1,tec:2,fly:3,tgh:1}
+{id:114,name:"フラップジャックAM2",main:{pwr:11,shl:390,rng:275,spd:350,itv:480},auraStat:{main:{pwr:11,shl:390,rng:300,spd:380,itv:480},sub:{tec:100,pwr:28,rng:77,spd:94,itv:1500},str:-1,tec:3,fly:1,tgh:2},type:"a",size:"M",cost:85,hp:20,str:-1,tec:3,fly:1,tgh:2,joint:{wp:0},comment:["AM2@cost+50合算","武器チューン不可"]}
+
+
 {id:62,name:"ブリッツェルトAM",cost:35,hp:20,tec:2,fly:1,tgh:2}
 {id:63,name:"ブリッツェルトAM2",cost:35,hp:20,str:2,fly:2,tgh:1}
 
@@ -483,6 +487,7 @@
 {id:46,name:"クロコダガーAM",cost:35,hp:20,str:3,tec:1,tgh:1}
 {id:5,name:"ケンタクロスAM",cost:35,hp:20,str:2,wlk:1,tgh:2,comment:["ロボガラポン"]}
 
+{id:182,name:"ゴクソツキAM",size:"L",cost:35,hp:20,str:2,tec:-1,wlk:2,tgh:2}
 
 {id:6,name:"コスモカイザーAM",cost:40,hp:25,str:3,tec:1,tgh:1}
 {id:6050,name:"コスモカイザーAM2",cost:90,hp:20,str:-1,tec:2,wlk:2,tgh:2,sub:{tec:100,pwr:27,shl:30,rng:120,spd:250,itv:500}}
@@ -609,6 +614,9 @@
 {id:25109,name:"フラッシュボマーAM",main:{tec:100,pwr:11,shl:570,rng:350,spd:480,itv:340},tunable:{mwp:0},type:"c",size:"L",cost:95,hp:20,str:-1,tec:3,wlk:1,tgh:2,comment:["AM@cost60複合","武器チューン不可","爆風50％"]}
 
 {id:25,name:"フラッシュボマーAM(コンバージョン無し)",joint:{wp:2},size:"L",cost:35,hp:20,str:-1,tec:3,wlk:1,tgh:2}
+{id:202204181,name:"フラッシュボマーAM2",main:{tec:100,pwr:11,shl:570,rng:350,spd:480,itv:340},tunable:{mwp:0},type:"c",size:"L",cost:95,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:2,comment:["AM@cost60複合","武器チューン不可","-"]}
+
+{id:2022041811,name:"フラッシュボマーAM2(コンバージョン無し)",joint:{wp:2},size:"L",cost:35,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:2}
 
 {id:26,name:"ブレイズバロンAM",cost:40,hp:25,str:2,tec:2,wlk:1,fly:1,tgh:-1}
 {id:27,name:"ブレイズバロンAM2",type:"l",cost:180,hp:25,str:3,tec:-1,wlk:1,tgh:2,sub:{str:100,pwr:32,rng:70,spd:85,itv:600},tunable:{pwp:1},joint:{wp:0},comment:"炎上中+50％ダメージ"}
@@ -658,6 +666,8 @@
 {id:1010,name:"ルペットAM",type:"lacs",size:"L",comment:"性能変更に伴いAM3と分離",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2}
 {id:1011,name:"ルペットAM3",type:"lacs",size:"L",comment:"性能変更に伴いAMと分離",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2}
 {id:251117,name:"レッドスクィラAM",type:"l",cost:105,hp:20,str:3,tec:-1,wlk:1,tgh:2,sub:{str:100,pwr:30,rng:84,spd:102,itv:1000},tunable:{pwp:1}}
+
+{id:20220418,name:"レッドスクィラDRIVEAM",type:"l",size:"L",cost:110,hp:25,str:3,tec:-1,tgh:3,sub:{str:100,pwr:30,rng:70,spd:185,itv:1000},tunable:{pwp:1}}
 
 {id:146,name:"ロッソアスピーデAM",main:{tec:100,pwr:4,shl:600,rng:275,spd:400,itv:300},tunable:{mwp:1},type:"a",size:"L",cost:70,hp:25,str:-1,tec:3,fly:3,comment:"ロッソアスピーデBD専用",joint:{wp:0}}
 {id:147,name:"ロッソアスピーデAM2",type:"lacs",size:"L",cost:40,hp:25,tec:2,wlk:-1,fly:2,tgh:2}
