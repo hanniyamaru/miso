@@ -41,7 +41,7 @@
 {id:100109,name:"ジャックサイス",type:"lacs",size:"M",cost:40,sub:{str:100,pwr:32,rng:31,spd:44,itv:1000},tunable:{pwp:1}}
 {id:20223012,name:"ウォウドゥンセイヴ",type:"l",size:"LL",cost:200,sub:{str:100,pwr:30,rng:70,spd:85,itv:1000},tunable:{pwp:1},comment:["ナイトギアディスク報酬"]}
 
-{id:205,name:"牛魔刀",sub:{pwr:36,rng:53,spd:77,itv:1800,str:100},tunable:{pwp:1},type:"l",size:"L",cost:120,comment:"ゴクソツキ初期装備"}
+{id:205,name:"牛魔刀",sub:{pwr:36,rng:63,spd:77,itv:1800,str:100},tunable:{pwp:1},type:"l",size:"L",cost:120,comment:"ゴクソツキ初期装備"}
 
 
 
