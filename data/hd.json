@@ -539,7 +539,7 @@
 {group:"Ｌサイズ",prefixID:"L",commonStat:{size:"L"},nextID:6}
 {id:1,name:"アクイーアHD",cost:35,hp:20,str:1,tec:1,wlk:2,fly:1}
 {id:2,name:"アクイーアHD2",cost:35,hp:20,tec:1,wlk:1,fly:1,tgh:2}
-{id:6,name:"アクイーア・エアーズHD",cost:30,hp:20,tec:2,fly:2,tgh:1,str:-1,wlk:1,size:"L",comment:["ロボガラポン"]}
+{id:6,name:"アクイーア・エアーズHD",cost:35,hp:20,str:-1,tec:2,fly:2,tgh:1,wlk:1,size:"L",comment:["ロボガラポン"]}
 
 
 
