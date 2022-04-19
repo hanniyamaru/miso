@@ -180,6 +180,9 @@
 
 {id:3,name:"ポーンジャーBS",type:"l",cost:35,hp:20,str:1,wlk:1,fly:3}
 {id:43,name:"マイティバインガールBS",cost:40,hp:25,wlk:1,fly:2,tgh:2,type:"l"}
+
+{id:202204173,name:"マトイBS",type:"l",size:"S",cost:35,hp:20,str:1,tec:-1,wlk:1,fly:3,tgh:1}
+
 {id:21,name:"ミッサイドBS",type:"c",cost:40,hp:25,tec:2,fly:3}
 
 {id:25,name:"ミスティホロウαBS",type:"l",cost:40,hp:25,str:1,wlk:2,fly:2}
