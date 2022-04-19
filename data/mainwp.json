@@ -352,6 +352,10 @@
 {id:502,name:"パワーアロー",main:{pwr:28,shl:230,rng:225,spd:480,itv:700},type:"l",size:"M",cost:30,comment:"ロビンハンターAM専用コンバージョンパーツ",slot:0}
 {id:96,name:"ビームクリスタル",main:{pwr:11,shl:500,rng:275,spd:440,itv:700},tunable:{mwp:1},type:"a",size:"S",cost:70,comment:"フラクタリスガール専用コンバージョンパーツ"}
 
+{id:2022041812,name:"フラッシュボマーAM@",main:{tec:100,pwr:11,shl:570,rng:350,spd:480,itv:340},tunable:{mwp:0},type:"c",size:"L",cost:60,comment:"フラッシュボマーAM専用コンバージョンパーツ",tunable:{mwp:0},slot:0}
+
+{id:2022041813,name:"フラッシュボマーAM@2",main:{tec:100,pwr:13,shl:390,rng:350,spd:290,itv:440},tunable:{mwp:0},type:"c",size:"L",cost:60,comment:"フラッシュボマーAM専用コンバージョンパーツ",tunable:{mwp:0},slot:0}
+
 
 {id:501,name:"ブラディスターAM@",main:{pwr:17,shl:50,rng:250,spd:400,itv:500},size:"M",type:"c",cost:25,slot:0,comment:["非ロックでの飛距離が表記程度","ロックオン武器の射程で飛距離が変わる"]}
 {id:5011,name:"ブラディスターAM2@",main:{pwr:9,shl:420,rng:350,spd:440,itv:960},size:"M",type:"c",cost:30,slot:0}
