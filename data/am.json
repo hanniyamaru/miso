@@ -119,7 +119,7 @@
 {id:35,name:"ミスティホロウαAM",cost:35,hp:20,str:2,wlk:2,fly:1}
 {id:36,name:"ミスティホロウαAM2",type:"l",cost:105,hp:20,str:3,wlk:2,fly:-1,tgh:1,sub:{str:100,pwr:32,rng:70,spd:10,itv:500},tunable:{pwp:1},joint:{wp:0}}
 
-{id:165,name:"メディカレストAM",size:"S",cost:35,hp:20,str:-1,tec:1,wlk:2,tgh:3}
+{id:1651,name:"メディカレストAM",size:"S",cost:35,hp:20,str:-1,tec:1,wlk:2,tgh:3}
 
 {id:110,name:"メトラAM",main:{pwr:7,shl:500,rng:275,spd:350,itv:360},type:"a",cost:75,hp:20,tec:3,wlk:-1,fly:2,tgh:2,tunable:{mwp:1,pwp:0},size:"S"}
 {id:132,name:"メトラAM2",main:{pwr:5,shl:720,rng:275,spd:520,itv:320},type:"a",cost:85,hp:20,str:-1,tec:3,wlk:1,fly:2,tunable:{mwp:1}}
