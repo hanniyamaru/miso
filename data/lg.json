@@ -397,7 +397,6 @@
 {id:68,name:"アーティラスLG",sub:{pwr:23,rng:120,spd:250,itv:1000,tec:100},tunable:{pwp:1},cost:90,hp:25,str:-1,tec:3,wlk:3,tgh:1,type:"c",comment:"-"}
 
 {id:21,name:"アクイーアLG",type:"a",cost:50,hp:60,tec:1,wlk:2,fly:1,tgh:1,joint:{bs:1}}
-{id:52,name:"アクイーア・エアーズLG",sub:{pwr:25,shl:50,rng:275,spd:300,itv:1000,tec:100},size:"LL",type:"a",cost:90,hp:60,str:-1,tec:2,wlk:3,tgh:2,joint:{bs:1},comment:["ロボガラポン"]}
 
 
 {id:47,name:"アハトジーベンLG",cost:45,hp:70,tec:1,wlk:5,fly:-2,tgh:1}
@@ -568,6 +567,9 @@
 
 
 {group:"UniLLサイズ",prefixID:"LL",commonStat:{size:"L"},nextID:999}
+{id:52,name:"アクイーア・エアーズLG",sub:{pwr:25,shl:60,rng:275,spd:300,itv:1000,tec:100},size:"LL",type:"a",cost:90,hp:60,str:-1,tec:2,wlk:3,tgh:2,joint:{bs:1},comment:["ロボガラポン"]}
+
+
 {id:9,name:"イルグリプスLG",builtin:{bs:1},joint:{bs:1},type:"a",cost:45,hp:50,str:-1,tec:2,wlk:2,fly:2,tgh:1}
 {id:6,name:"ガデロガLG",joint:{bs:1},cost:45,hp:65,str:-1,tec:-1,wlk:4,fly:1,tgh:3}
 {id:11,name:"ガデロガLG2",joint:{bs:1},cost:55,hp:65,tec:1,wlk:4,fly:-1,tgh:2,sub:{tec:100,pwr:24,rng:100,spd:150,itv:2000},tunable:{pwp:1},type:"c",comment:"-"}
