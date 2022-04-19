@@ -299,6 +299,7 @@
 
 {id:18,name:"クロコダガーBD",cost:545,capa:800,hp:300,str:16,tec:3,wlk:14,fly:6,tgh:11,sub:{str:100,pwr:[32,32,33],rng:[70,77,84],spd:[100,110,120],itv:2000},wbid:6,cartridge:{hpup:18,lv1:"85*5@20|61*2@30|7@20|9@20|10@15|17@15|20@15|53@10|11@20|23@25|16@20|18@15|13@30|32@50|31@40"},joint:{hdac:1,fcac:1,hd:0}}
 {id:4,name:"ケンタクロスBD",cost:490,capa:945,hp:305,str:10,tec:6,wlk:16,fly:7,tgh:12,wbid:8,cartridge:{hpup:10,lv1:"75*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|14@20|25@25|16@20|12@20|13@30|32@50|31@40"},comment:["ロボガラポン"]}
+{id:61,name:"ゴクソツキBD",main:{str:100,pwr:6,shl:1200,rng:225,spd:400,itv:300},sub:{str:100,pwr:25,shl:0,rng:150,spd:250,itv:1000},size:"L",type:"l",cost:565,capa:870,hp:290,str:11,tec:6,wlk:13,fly:6,tgh:12,cartridge:{hpup:14,lv1:"4*5@20|61*2@30|7@20|9@20|10@15|17@15|18@15|20@15|23@25|25@25|21@20|14@20|13@30|32@50|31@40"}}
 
 {id:5,name:"コスモカイザーBD",cost:480,capa:870,hp:290,str:10,tec:7,wlk:12,fly:8,tgh:11,main:{pwr:[6,7,8],shl:[560],rng:225,spd:440,itv:200},wbid:2,cartridge:{hpup:14,lv1:"4*5@20|61*2@30|7@20|9@20|10@15|17@15|18@15||20@15|23@25|16@20|28@30|26@20|13@30|32@50|31@40"},comment:"メインはSTR TECの高い方に依存する"}
 {id:26,name:"コスモカイザーBD2",main:{tec:100,pwr:[5,6,7],shl:2000,rng:225,spd:[440],itv:140},cartridge:{hpup:14,lv1:"4*5@20|61*2@30|7@20|9@20|10@15|17@15|18@15||20@15|23@25|16@20|28@30|25@25|13@30|32@50|31@40"},cost:545,capa:870,hp:290,str:4,tec:13,wlk:12,fly:7,tgh:12}
@@ -371,6 +372,8 @@
 
 {id:50,name:"ランパーニルBD",main:{str:100,pwr:20,shl:50,rng:200,spd:570,itv:500},cartridge:{hpup:10,lv1:"75*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|16@20|25@25|22@30|29@15|13@30|32@50|31@40"},type:"l",size:"L",cost:540,capa:980,hp:305,str:11,tec:5,wlk:11,fly:5,tgh:11,comment:"シールド有り、耐久値不明",wbid:6}
 {id:8,name:"レッドスクィラBD",cost:500,capa:870,hp:310,str:12,tec:5,wlk:15,fly:10,tgh:11,sub:{shl:[0],rng:120,spd:[200],itv:[1000]},wbid:5,cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|15@15|16@20|12@20|29@15|13@30|32@50|31@40"},builtin:{bs:1},joint:{bs:0,hdac:1},fixedParts:{hdac:["S1"]}}
+
+{id:20220418,name:"レッドスクィラDRIVEBD",cost:545,capa:945,hp:325,str:15,tec:5,wlk:12,fly:9,tgh:15,sub:{shl:[0],rng:120,spd:[250],itv:[2000]},wbid:5,cartridge:{hpup:10,lv1:"75*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|16@20|15@15|13@30|30@20|32@50|31@40"}}
 
 
 {id:33,name:"ワイルドビークBD",sub:{itv:2000},joint:{hd:0,hdac:1,fcac:1},cartridge:{hpup:18,lv1:"85*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|16@20|21@20|26@20|13@30|32@50|31@40"},fixedParts:{lg:{name:"ワイルドビークLG",sub:{shl:50,rng:80,spd:180,itv:1000},cost:75,hp:45,wlk:4,tgh:1,size:"L",type:"l"},am:[{name:"ワイルドビークAM",cost:95,hp:25,tec:2,wlk:1,tgh:2,main:{tec:100,pwr:9,shl:1080,rng:225,spd:440,itv:140},tunable:{mwp:1},type:"l",size:"L",joint:{wp:0}},{name:"ワイルドビークAM",cost:95,hp:25,tec:2,wlk:1,tgh:2,main:{tec:100,pwr:9,shl:1080,rng:225,spd:440,itv:140},tunable:{mwp:1},joint:{wp:0}}]},cost:475,capa:800,hp:300,str:3,tec:12,wlk:18,fly:8,tgh:9,size:"L",type:"l"}
