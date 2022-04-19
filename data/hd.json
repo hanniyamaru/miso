@@ -64,6 +64,8 @@
 
 {id:18,name:"ミッサイドHD",cost:40,hp:25,tec:2,wlk:1,tgh:2}
 
+{id:46,name:"メディカレストHD",type:"lacs",size:"S",cost:35,hp:20,str:1,wlk:2,tgh:2}
+
 {id:8,name:"モグニードHD",cost:35,hp:20,str:1,wlk:2,fly:1,tgh:1}
 
 {id:27,name:"ヤクシャHD",cost:35,hp:20,str:2,tec:-1,wlk:1,fly:2,tgh:1}
@@ -415,6 +417,7 @@
 
 {id:319,name:"フラッシュボマーHD",cost:35,hp:20,str:-1,tec:2,fly:1,tgh:3,size:"M"}
 
+{id:202204181,name:"フラッシュボマーHD2",cost:35,hp:20,str:3,tec:-1,tgh:3,size:"M"}
 {id:393,name:"ブラディスターHD",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1}
 {id:331,name:"ブラディスターHD2",type:"lacs",size:"M",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
 {id:170,name:"フラップジャックHD",main:{tec:100,pwr:6,shl:900,rng:275,spd:350,itv:720},tunable:{mwp:1},auraStat:{main:{tec:100,pwr:6,shl:900,rng:275,spd:350,itv:240},tec:2,wlk:-1,fly:2,tgh:2},type:"a",cost:100,hp:25,tec:2,wlk:-1,fly:2,tgh:2}
@@ -510,6 +513,7 @@
 {id:73,name:"レイスタッグHD",type:"a",cost:110,hp:25,str:-1,tec:2,wlk:2,fly:2,main:{pwr:4,shl:780,rng:275,spd:315,itv:1000},tunable:{mwp:1}}
 {id:50,name:"レッドスクィラHD",cost:35,hp:20,str:2,tec:2,wlk:1}
 
+{id:20220418,name:"レッドスクィラDRIVEHD",cost:40,hp:25,str:2,wlk:1,fly:-1,tgh:3,size:"M"}
 {id:541,name:"レプシロンHD",type:"lacs",size:"M",cost:35,hp:20,tec:1,wlk:-1,fly:2,tgh:3}
 {id:54102,name:"レプシロンHD2",type:"a",main:{tec:100,pwr:5,shl:720,rng:200,spd:400,itv:140},tunable:{mwp:1},size:"M",cost:115,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1}
 {id:292,name:"ロッソアスピーデHD",cost:40,hp:25,str:-1,tec:1,wlk:2,fly:1,tgh:2,size:"M",type:"lacs"}
@@ -542,6 +546,8 @@
 {id:6,name:"アクイーア・エアーズHD",cost:35,hp:20,str:-1,tec:2,fly:2,tgh:1,wlk:1,size:"L",comment:["ロボガラポン"]}
 
 
+
+{id:16,name:"ゴクソツキHD",size:"L",cost:35,hp:20,str:3,tec:-1,fly:1,tgh:2}
 
 {id:291,name:"コルディプスHD",cost:35,hp:20,tec:2,wlk:1,fly:1,tgh:1}
 
