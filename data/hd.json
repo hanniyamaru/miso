@@ -18,7 +18,6 @@
 
 {id:3,name:"キャノンボールHD",cost:35,hp:20,tec:2,wlk:1,tgh:2}
 
-{id:88,name:"キュレーネLG",size:"S",cost:45,hp:25,str:-1,tec:1,wlk:3,fly:1,tgh:2}
 
 
 {id:9,name:"ゴースレイダーHD",cost:40,hp:25,str:1,tec:2,fly:1,tgh:1}
