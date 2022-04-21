@@ -16,6 +16,7 @@
 {id:4,name:"キャンバスシールド",size:"S",cost:40}
 {id:15,name:"クリスタライトシールド",size:"S",cost:35}
 {id:2108,name:"ナイトシールド",type:"l",size:"S",cost:50,main:{str:100,pwr:12,shl:150,rng:200,spd:480,itv:300},tunable:{mwp:1},comment:"STR依存"}
+{id:17,name:"ブリッツシールド",main:{spd:10,itv:1000,shl:50},sub:{pwr:27,rng:70,spd:85,itv:1000,str:100},type:"l",size:"S",cost:70,tunable:{mwp:1,pwp:1},comment:"B・ポーンジャーAr初期装備"}
 
 {group:"Uniソード系",prefixID:"SW",commonStat:{tunable:{pwp:1}},nextID:27}
 
@@ -42,6 +43,8 @@
 {id:20223012,name:"ウォウドゥンセイヴ",type:"l",size:"LL",cost:200,sub:{str:100,pwr:30,rng:70,spd:85,itv:1000},tunable:{pwp:1},comment:["ナイトギアディスク報酬"]}
 
 {id:205,name:"牛魔刀",sub:{pwr:36,rng:63,spd:77,itv:1800,str:100},tunable:{pwp:1},type:"l",size:"L",cost:120,comment:"ゴクソツキ初期装備"}
+
+{id:44,name:"ブリッツカットラス",sub:{str:100,pwr:32,shl:30,rng:77,spd:94,itv:1000},type:"l",size:"M",cost:120,comment:"B・ポーンジャーAr初期装備"}
 
 
 
