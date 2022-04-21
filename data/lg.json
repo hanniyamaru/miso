@@ -23,6 +23,7 @@
 {id:67,name:"キールメスLG2",type:"c",cost:60,hp:20,tec:1,wlk:2,fly:2,sub:{shl:30,rng:0,spd:280,itv:1000}}
 {id:4,name:"キャノンボールLG",cost:40,hp:20,tec:1,wlk:3,fly:-1,tgh:2}
 {id:79,name:"キャノンボールHLLG",cost:45,hp:25,tec:2,wlk:2,fly:-1,tgh:2}
+{id:88,name:"キュレーネLG",size:"S",cost:45,hp:25,str:-1,tec:1,wlk:3,fly:1,tgh:2}
 
 {id:16,name:"クロスラプターLG",cost:45,hp:25,tec:1,wlk:3,fly:1,tgh:1}
 
