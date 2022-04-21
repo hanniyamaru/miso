@@ -133,7 +133,7 @@
 {id:3004,name:"デゴアックス",size:"L",cost:160,type:"a",sub:{str:100,pwr:28,rng:100,spd:180,itv:1000},tunable:{pwp:1}}
 
 {id:1009,name:"SBトリックミサイル",sub:{tec:100,pwr:9,shl:270,rng:275,spd:280,itv:1000},type:"a",size:"M",cost:60}
-{id:1008,name:"クリスタルパイルバンカー",sub:{tec:100,pwr:28,rng:100,spd:200,itv:1000},type:"l",size:"L",cost:70,tunable:{pwp:1},comment:"実弾属性"}
+{id:1008,name:"クリスタルパイルバンカー",sub:{tec:100,pwr:34,rng:100,spd:150,itv:1000},type:"l",size:"L",cost:70,tunable:{pwp:1},comment:"実弾属性"}
 
 {id:18,name:"ゲソウィップ",sub:{str:100,pwr:26,rng:70,spd:85,itv:500},type:"s",size:"S",cost:80,tunable:{pwp:1}}
 
@@ -186,7 +186,7 @@
 {id:112,name:"チェーンブレード",main:{tec:100,shl:50,spd:10,itv:1000},sub:{str:100,pwr:32,rng:77,spd:102,itv:500},tunable:{mwp:1,pwp:1},cost:130,comment:"キリカ専用コンバージョンパーツ"}
 {id:113,name:"チェーンブレードの鞘",main:{tec:100,shl:-1,spd:150,itv:1000},sub:{str:100,pwr:32,shl:0,rng:120,spd:250,itv:1000},tunable:{pwp:0,mwp:0},cost:60,slot:0,comment:"キリカ専用コンバージョンパーツ"}
 
-{id:100,name:"クリーガーシルト",main:{shl:50,spd:10,itv:1000},sub:{str:100,pwr:30,rng:70,spd:85,itv:500},comment:["コロナAM専用コンバージョンパーツ1","メルト効果時間4秒"],comment:"コロナAM専用コンバージョンパーツ",cost:120,size:"S",type:"l",tunable:{mwp:1,pwp:1},fixedParts:{wp:{name:"クリーガーシルト＠",sub:{str:100,pwr:28,rng:120,spd:250,itv:2500},cost:50,slot:0,type:"l",size:"S"}},joint:{wp:1}}
+{id:100,name:"クリーガーシルト",main:{shl:50,spd:10,itv:1000},sub:{str:100,pwr:32,rng:70,spd:85,itv:500},comment:["コロナAM専用コンバージョンパーツ1","メルト効果時間4秒"],comment:"コロナAM専用コンバージョンパーツ",cost:120,size:"S",type:"l",tunable:{mwp:1,pwp:1},fixedParts:{wp:{name:"クリーガーシルト＠",sub:{str:100,pwr:30,rng:120,spd:200,itv:1000},cost:50,slot:0,type:"l",size:"S"}},joint:{wp:1}}
 
 {id:97,name:"ラビリンアクス",main:{pwr:14,shl:600,rng:350,spd:330,itv:340,tec:100},sub:{tec:100,pwr:30,shl:120,rng:350,spd:290,itv:1000},type:"c",size:"S",cost:225,comment:"ミルル・ミゥ専用コンバージョンパーツ",tunable:{pwp:0,mwp:1}}
 
