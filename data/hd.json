@@ -74,7 +74,11 @@
 
 {id:254,name:"ワンダーズHD",sub:{pwr:13,shl:420,rng:275,spd:290,itv:1000},type:"s",cost:135,hp:20,tec:2,wlk:2,fly:1}
 
-{id:305,name:"ワンダーズHD3",sub:{pwr:30,shl:150,rng:250,spd:250,itv:1000},type:"s",cost:75,hp:20,tec:2,fly:2,tgh:1,comment:"ぺぺHD"}
+
+{id:305,name:"ワンダーズHD2",sub:{pwr:30,shl:150,rng:250,spd:250,itv:1000},type:"s",cost:75,hp:20,tec:2,fly:2,tgh:1,comment:"ぺぺHD"}
+
+{id:316,name:"ワンダーズHD3",main:{tec:100,pwr:18,shl:250,rng:275,spd:500,itv:700},sub:{tec:100,pwr:1,shl:10,rng:60,spd:70,itv:1000},tunable:{mwp:1,pwp:0},cost:105,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,type:"s",size:"S",comment:"ドラHD"}
+
 {id:311,name:"ワンダーズHD4",sub:{pwr:0,shl:5,rng:0,spd:0,itv:1000},type:"s",cost:135,hp:20,str:1,tec:2,wlk:1,fly:2,tgh:-1,comment:["パタHD","回復量20","1度の召喚で攻撃命中時11回？まで回復"]}
 
 {id:35,name:"F･リュールHD",type:"lacs",size:"S",cost:35,hp:20,tec:1,fly:3,tgh:1}
@@ -146,6 +150,7 @@
 {id:200,name:"ウルメリーHD",cost:35,hp:20,tec:1,wlk:1,fly:1,tgh:2}
 
 
+
 {id:40,name:"エスカゴットHD",type:"c",cost:75,hp:25,tec:2,wlk:2,tgh:1,main:{pwr:3,shl:1600,rng:160,spd:480,itv:140},tunable:{mwp:1}}
 {id:188,name:"エスティスHD",cost:40,hp:25,str:1,tec:3,wlk:-1,fly:1,tgh:1}
 {id:322,name:"エスティスHD2",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
@@ -184,6 +189,8 @@
 {id:252,name:"ギャラクシーコマンドHD",cost:40,hp:25,str:-1,tec:2,wlk:2,tgh:2}
 {id:204,name:"ギャランバルドHD",cost:40,hp:25,tec:1,wlk:1,tgh:3}
 {id:204108,name:"ギャランバルドHD2",cost:40,hp:25,str:2,tec:-1,wlk:2,fly:1,tgh:1}
+
+{id:237,name:"キュレーネHD",main:{pwr:11,shl:320,rng:275,spd:300,itv:600},tunable:{mwp:1},type:"as",size:"M",cost:85,hp:20,tec:2,wlk:1,fly:1,tgh:1}
 
 
 
@@ -272,6 +279,9 @@
 
 {id:183,name:"ズィークHD",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
 {id:262,name:"スカラベスHD",sub:{str:100,pwr:20,shl:0,itv:1000},type:"c",size:"M",cost:60,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
+{id:326,name:"スカラベスHD2",size:"M",cost:35,hp:20,str:-1,tec:1,wlk:1,fly:2,tgh:2}
+
+
 {id:2022113,name:"スキロンHD",cost:35,hp:20,str:1,wlk:1,fly:1,tgh:2}
 {id:57,name:"スクイドルHD",size:"M",cost:35,hp:20,str:2,tec:2,tgh:1,comment:["ロボガラポン"]}
 
@@ -535,6 +545,8 @@
 {id:306,name:"RAMソルジェッターHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:2,tgh:2}
 {id:202203023,name:"S・アクティナGHD",cost:35,hp:20,str:2,wlk:2,fly:-1,tgh:2}
 
+
+{id:197,name:"V･ウンケンHD",size:"M",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
 
 
 
