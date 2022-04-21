@@ -585,7 +585,7 @@
 {id:38,name:"ドミクラウンAM2",cost:40,hp:25,tec:2,fly:1,tgh:2}
 {id:39,name:"ドミクラウンAM3",type:"l",cost:240,hp:25,str:2,tec:-1,wlk:2,fly:1,tgh:1,main:{str:100,pwr:8,shl:800,rng:250,spd:400,itv:880},sub:{str:100,pwr:28,rng:70,spd:85,itv:500},tunable:{mwp:1,pwp:1},joint:{wp:0}}
 {id:68,name:"ドミクラウンAM4",cost:35,hp:20,str:2,tec:1,wlk:1,fly:1,comment:"Quoit"}
-{id:69,name:"ドミクラウンAM5",main:{pwr:10,shl:1000,rng:250,spd:320,itv:800,str:100},sub:{pwr:26,shl:0,rng:70,spd:85,itv:1000,str:100},cost:240,hp:25,str:3,tec:-1,wlk:3,type:"l",joint:{wp:0},tunable:{pwp:1,mwp:1},comment:"Quoit"}
+{id:69,name:"ドミクラウンAM5",main:{pwr:9,shl:1000,rng:250,spd:320,itv:800,str:100},sub:{pwr:26,shl:0,rng:70,spd:85,itv:1000,str:100},cost:240,hp:25,str:3,tec:-1,wlk:3,type:"l",joint:{wp:0},tunable:{pwp:1,mwp:1},comment:"Quoit"}
 
 {id:3108,name:"ドミクラウンAM6",cost:40,hp:25,str:2,wlk:1,tgh:2}
 {id:3107,name:"ドミクラウンAM7",type:"l",cost:200,hp:25,str:3,tec:-1,wlk:3,main:{str:100,pwr:8,shl:750,rng:225,spd:200,itv:600},sub:{str:100,pwr:25,rng:0,spd:150,itv:1000},tunable:{mwp:1,pwp:1},joint:{wp:0}}
