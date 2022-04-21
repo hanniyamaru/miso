@@ -211,5 +211,8 @@
 {id:168,name:"スパーダBD@",sub:{pwr:30,shl:0,rng:100,spd:150,itv:2000,str:100},auraStat:{sub:{pwr:30,shl:0,rng:100,spd:150,itv:2000,str:100}},comment:"スパーダBD専用コンバージョンパーツ",slot:0,cost:20,type:"l",size:"M"}
 
 
+{id:186,name:"スカラベスBS2@",sub:{pwr:1,shl:30,rng:0,spd:200,itv:1000,str:100},cost:30,slot:0,size:"M",type:"c",comment:"スカラベスBS2専用コンバージョンパーツ"}
+
+
 
 
