@@ -26,6 +26,9 @@
 
 {id:5,name:"カメンティスAM",cost:35,hp:20,tec:1,wlk:2,tgh:2}
 {id:11205,name:"キールメスAM2",main:{pwr:12,shl:300,rng:330,spd:240,itv:900},type:"c",cost:80,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,tunable:{mwp:1}}
+
+
+{id:124,name:"キュレーネAM",size:"S",cost:35,hp:20,str:-1,tec:1,wlk:1,fly:2,tgh:2}
 {id:6,name:"クリムローゼαAM",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1}
 {id:7,name:"クリムローゼαAM2",type:"a",cost:105,hp:20,str:3,fly:1,tgh:1,sub:{str:100,pwr:30,rng:70,spd:85,itv:500},tunable:{pwp:1},joint:{wp:0}}
 {id:10,name:"クロスラプターAM",type:"a",cost:35,hp:20,str:-1,tec:1,fly:3,tgh:2}
@@ -35,6 +38,9 @@
 
 {id:13,name:"サイコフォーミュラAM",type:"cs",cost:120,hp:25,tec:2,wlk:1,fly:1,tgh:1,main:{pwr:10,shl:500,rng:330,spd:290,itv:740},tunable:{mwp:1},joint:{wp:0}}
 {id:14,name:"サイコフォーミュラAM2",type:"c",cost:90,hp:25,tec:3,fly:1,tgh:1,main:{pwr:10,shl:460,rng:330,spd:290,itv:740},tunable:{mwp:1},joint:{wp:0}}
+{id:67,name:"サイコフォーミュラAM3",main:{pwr:9,shl:810,rng:330,spd:290,itv:200},type:"c",size:"S",cost:100,hp:25,str:-1,tec:3,wlk:1,fly:1,tgh:1,tunable:{mwp:1},joint:{wp:0},comment:"サイコフォーミュラ破"}
+
+
 {id:76,name:"サイコフォーミュラAM4",main:{pwr:21,shl:310,rng:330,spd:220,itv:560},type:"c",cost:125,hp:20,str:-1,tec:3,fly:2,tgh:1,tunable:{mwp:1},joint:{wp:0}}
 
 {id:18,name:"ジークンロンαAM",cost:35,hp:20,str:1,tec:1,wlk:2,tgh:1,comment:"ジークンαAM"}
@@ -111,6 +117,10 @@
 {id:1751,name:"ペペンガールAM（コンバージョン有り）",fixedParts:{wp:{name:"ペペンツインガン",main:{pwr:8,shl:700,rng:330,spd:220,itv:360},type:"c",size:"S",cost:70}},type:"c",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1,comment:"-"}
 
 {id:33,name:"ポーンジャーAM",cost:35,hp:20,str:1,tec:1,wlk:1,tgh:2}
+{id:178,name:"ポーンジャーAM3",type:"lacs",size:"S",cost:35,hp:20,str:1,tec:-1,wlk:1,fly:2,tgh:2,comment:"B・ポーンジャーAr"}
+
+
+
 {id:32,name:"ホネボンAM",cost:35,hp:20,tec:2,wlk:1,fly:1,tgh:1,comment:"2022/2/16更新"}
 
 {id:34,name:"マッハナイトAM",cost:35,hp:20,tec:2,fly:2,tgh:1}
@@ -144,6 +154,7 @@
 
 {id:304,name:"レプシロンAM",type:"a",size:"S",cost:35,hp:20,str:1,tec:2,wlk:1,fly:2,tgh:-1}
 {id:1781,name:"ワンダーズAM2",type:"s",cost:85,hp:20,tec:2,wlk:1,tgh:1,main:{pwr:7,shl:300,rng:275,spd:250,itv:300},tunable:{mwp:1},joint:{wp:1},comment:"ワンダーズ・ぺぺ"}
+{id:185,name:"ワンダーズAM3",cost:75,hp:20,tec:3,wlk:1,fly:1,main:{tec:100,pwr:10,shl:240,rng:275,spd:290,itv:900},size:"S",type:"s",comment:["PSYGUN","ブースタートラブル付与","ワンダーズ・ドラ"]}
 
 {id:178108,name:"ワンダーズAM4",type:"ls",cost:35,hp:20,tec:3,wlk:1,fly:2,tgh:-1,main:{pwr:13,shl:180,rng:225,spd:440,itv:320},tunable:{mwp:1},joint:{wp:1},comment:"ワンダーズ・パタ"}
 
@@ -226,6 +237,7 @@
 {id:187,name:"ウミガメンティスAM",main:{pwr:16,shl:140,rng:275,spd:350,itv:780},type:"a",size:"M",cost:80,hp:25,str:-1,tec:2,fly:2,tgh:2,tunable:{mwp:1}}
 {id:91,name:"ウルフガイAM",sub:{pwr:28,rng:70,spd:30,itv:1000,str:100},tunable:{pwp:1},type:"l",cost:110,hp:25,str:2,wlk:1,fly:1,tgh:1,comment:["※変形により武器消失","アリーナコイン景品"]}
 
+{id:20220421,name:"V･ウンケンAM",cost:35,hp:20,str:2,tec:-1,wlk:1,fly:1,tgh:2}
 
 {id:3,name:"エスカゴットAM",type:"c",cost:70,hp:20,tec:2,wlk:1,tgh:2,main:{pwr:16,shl:280,rng:330,spd:400,itv:500},tunable:{mwp:1},joint:{wp:0}}
 
