@@ -345,10 +345,12 @@
 {id:202204173,name:"スタンホーミングビーム",main:{str:100,pwr:5,shl:100,rng:275,spd:320,itv:500},type:"a",size:"S",cost:35,comment:"クレアモルテBD専用コンバージョンパーツ",tunable:{mwp:1}}
 
 
-{id:99,name:"ゼブルサイガン",main:{pwr:10,shl:540,rng:330,spd:220,itv:300},tunable:{mwp:1},type:"c",size:"S",cost:60}
 
 
-{id:98,name:"バアルバズーカ",tunable:{mwp:1},cost:90,type:"c",size:"S",main:{pwr:19,shl:420,rng:330,spd:400,itv:400}}
+
+{id:20220523,name:"タイラントデストラクトBD@",main:{tec:100,pwr:12,shl:540,rng:350,spd:290,itv:800},tunable:{mwp:0},slot:0,type:"c",size:"L",cost:120,comment:["タイラントデストラクト専用コンバージョンパーツ","内蔵強化値不明"]}
+
+{id:202205231,name:"タイラントデストラクトBD@2",sub:{tec:100,pwr:9,shl:400,rng:350,spd:290,itv:1000},tunable:{mwp:0},slot:0,type:"c",size:"L",cost:120,comment:["タイラントデストラクト専用コンバージョンパーツ","内蔵強化値不明"]}
 
 {id:502,name:"パワーアロー",main:{pwr:28,shl:230,rng:225,spd:480,itv:700},type:"l",size:"M",cost:30,comment:"ロビンハンターAM専用コンバージョンパーツ",slot:0}
 {id:96,name:"ビームクリスタル",main:{pwr:11,shl:500,rng:275,spd:440,itv:700},tunable:{mwp:1},type:"a",size:"S",cost:70,comment:"フラクタリスガール専用コンバージョンパーツ"}
@@ -388,7 +390,7 @@
 
 
 {id:109,name:"リーゼ・ガトリング",main:{pwr:4,shl:1600,rng:350,spd:480,itv:200},cost:45,slot:0,type:"c",size:"S",comment:"リーゼル・ツヴァイク BD専用コンバージョンパーツ"}
-
+{id:20220522,name:"ラッシュガントレット",size:"M",type:"a",cost:80,comment:["ヘル・ヴィクトル専用コンバージョンパーツ","左右の表記省略"]}
 {id:83,name:"ロギナス",main:{pwr:32,shl:280,rng:330,spd:440,itv:700},tunable:{mwp:1},type:"c",size:"S",cost:100,comment:"クロエAM専用コンバージョンパーツ"}
 
 
@@ -413,6 +415,14 @@
 {id:202203021,name:"ガーディアンビショップ",main:{pwr:7,shl:450,rng:300,spd:260,itv:1200,tec:100},sub:{pwr:8,shl:1020,rng:350,spd:320,itv:1000,tec:100},cost:190,comment:"エレオノール専用コンバージョン",type:"c",size:"S",tunable:{mwp:1}}
 
 {id:20220302,name:"ガーディアンナイト",type:"c",size:"S",cost:30,sub:{tec:100,pwr:30,shl:30,rng:0,spd:100,itv:1000},tunable:{mwp:0},slot:3,comment:["エレオノール専用コンバージョン"]}
+
+{group:"ガシマガールコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
+{id:189,name:"ガシマハウザー",sub:{tec:100,pwr:26,shl:90,rng:300,spd:200,itv:1000},tunable:{pwp:0},type:"c",size:"S",cost:20,comment:"ガシマガール専用コンバージョンパーツ"}
+
+{id:202205222,name:"ガシマブレイカー",main:{tec:100,pwr:20,shl:440,rng:350,spd:440,itv:900},tunable:{mwp:1},type:"c",size:"S",cost:80,comment:"ガシマガール専用コンバージョンパーツ"}
+
+{id:202205221,name:"ガシマミサイル",main:{tec:100,pwr:12,shl:640,rng:330,spd:260,itv:300},tunable:{mwp:1},type:"c",size:"S",cost:100,comment:"ガシマガール専用コンバージョンパーツ"}
+
 
 {group:"コレッティコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:20222024,name:"フィン・マスケット",type:"c",size:"S",cost:80,main:{tec:100,pwr:24,shl:350,rng:350,spd:440,itv:600},comment:"コレッティAM専用コンバージョンパーツ"}
@@ -472,6 +482,10 @@
 {id:2022113,name:"ファイヤーブレス",type:"c",size:"S",cost:50,main:{tec:100,pwr:35,shl:100,rng:350,spd:400,itv:1000},slot:0}
 
 
+{group:"ベルゼイラフガールコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
+{id:99,name:"ゼブルサイガン",main:{pwr:10,shl:540,rng:330,spd:220,itv:300},tunable:{mwp:1},type:"c",size:"S",cost:60}
+
+{id:98,name:"バアルバズーカ",tunable:{mwp:1},cost:90,type:"c",size:"S",main:{pwr:19,shl:420,rng:330,spd:400,itv:400}}
 
 {group:"マルカコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:64,name:"グロームロッド",main:{pwr:9,shl:540,rng:275,spd:440,itv:300,tec:100},sub:{pwr:26,shl:60,spd:150,itv:1000,tec:100},type:"a",size:"M",cost:100,comment:"マルカAM専用コンバージョンパーツ、変形省略、爆風比率1：9　",tunable:{mwp:1}}
