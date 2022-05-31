@@ -19,6 +19,7 @@
 {id:3,name:"キャノンボールHD",cost:35,hp:20,tec:2,wlk:1,tgh:2}
 
 
+{id:20220523,name:"クローリアHD",size:"S",cost:35,hp:20,str:2,tec:-1,wlk:2,tgh:2}
 
 {id:9,name:"ゴースレイダーHD",cost:40,hp:25,str:1,tec:2,fly:1,tgh:1}
 
@@ -74,6 +75,8 @@
 
 {id:27,name:"ヤクシャHD",cost:35,hp:20,str:2,tec:-1,wlk:1,fly:2,tgh:1}
 {id:279,name:"ユネッサHD",type:"lacs",size:"M",cost:35,hp:20,str:-1,tec:1,wlk:2,tgh:3}
+
+{id:20220426,name:"ラビスリープHD",size:"S",cost:35,hp:20,str:2,tec:1,wlk:1,fly:1,comment:"イースターイベント景品"}
 {id:31,name:"レイミナスHD",type:"lacs",size:"S",cost:35,hp:20,str:1,tec:2,wlk:-1,fly:3}
 
 {id:254,name:"ワンダーズHD",sub:{pwr:13,shl:420,rng:275,spd:290,itv:1000},type:"s",cost:135,hp:20,tec:2,wlk:2,fly:1}
@@ -110,6 +113,7 @@
 {id:1000,name:"アクシオンHD",cost:40,hp:25,tec:1,wlk:1,tgh:3}
 {id:1102,name:"アクシオンHD2",cost:40,hp:25,str:1,wlk:1,tgh:3}
 
+{id:86,name:"アクセルセイバーHD",size:"M",cost:35,hp:20,str:1,tec:1,wlk:1,fly:2}
 
 {id:128,name:"アハトジーベンHD",cost:40,hp:25,tec:2,wlk:1,tgh:2}
 {id:149,name:"アハトジーベンHD2",cost:40,hp:25,tec:1,wlk:2,fly:1,tgh:1}
@@ -159,6 +163,8 @@
 {id:188,name:"エスティスHD",cost:40,hp:25,str:1,tec:3,wlk:-1,fly:1,tgh:1}
 {id:322,name:"エスティスHD2",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
 
+{id:153,name:"エルメ・サリーHD",type:"as",size:"M",cost:105,hp:20,str:-1,tec:2,wlk:2,fly:2,main:{tec:100,pwr:6,shl:800,rng:275,spd:280,itv:400},tunable:{mwp:1},comment:"-"}
+
 {id:238,name:"オーガヒルHD",cost:40,hp:25,tec:1,wlk:2,fly:1,tgh:1}
 {id:539,name:"オボロマルHD",type:"lacs",size:"M",cost:35,hp:20,str:3,tec:1,wlk:1,fly:1,tgh:-1}
 {id:259,name:"オルフェノスHD",cost:40,hp:25,str:2,tec:1,wlk:-1,fly:2,tgh:1}
@@ -197,7 +203,7 @@
 {id:237,name:"キュレーネHD",main:{pwr:11,shl:320,rng:275,spd:300,itv:600},tunable:{mwp:1},type:"as",size:"M",cost:85,hp:20,tec:2,wlk:1,fly:1,tgh:1}
 
 
-
+{id:172,name:"クアドラHD",main:{pwr:6,shl:2660,rng:330,spd:480,itv:200},tunable:{mwp:1},type:"c",size:"M",cost:135,hp:20,str:-1,tec:3,wlk:1,tgh:2}
 {id:216,name:"クシュルブHD",cost:35,hp:20,str:2,tec:-1,fly:2,tgh:2}
 {id:296,name:"クシュルブHD2",type:"lacs",size:"M",cost:35,hp:20,str:2,tgh:3}
 
@@ -331,6 +337,8 @@
 
 {id:112,name:"ダイモンHD",cost:40,hp:25,str:2,tec:-1,wlk:2,fly:1,tgh:1}
 {id:113,name:"ダイモンHD2",cost:40,hp:25,str:-1,tec:2,wlk:2,fly:1,tgh:1}
+{id:20220524,name:"タイラントデストラクトHD",size:"M",cost:40,hp:25,tec:3,wlk:-1,fly:1,tgh:2,comment:"-"}
+
 {id:116,name:"ダグドライバーHD",sub:{str:100,pwr:28,rng:70,spd:85,itv:1000},tunable:{pwp:1},type:"lc",cost:75,hp:20,str:2,tec:-1,wlk:1,fly:1,tgh:2}
 
 {id:335,name:"ダルタニスHD2",cost:35,hp:20,str:2,tec:-1,wlk:3,fly:1}
@@ -384,6 +392,8 @@
 {id:82,name:"バグジーケットHD",cost:40,hp:20,str:-1,tec:3,wlk:1,fly:2}
 {id:83,name:"バグジーケットHD2",cost:40,hp:20,str:2,tec:-1,wlk:3,fly:1}
 {id:63,name:"パシファールHD",cost:40,hp:20,str:1,tec:2,wlk:2}
+{id:202205241,name:"パシファールHD2",size:"M",cost:40,hp:25,tec:2,wlk:-1,fly:2,tgh:2,comment:"-"}
+
 {id:87,name:"バタフレアHD",cost:40,hp:25,str:1,wlk:2,fly:1,tgh:1}
 
 
@@ -467,7 +477,7 @@
 {id:20220417,name:"ヘリンガルMK-2HD",size:"M",cost:35,hp:20,str:-1,tec:1,fly:3,tgh:2,comment:["ロボガラポン"]}
 
 {id:302,name:"ペルセシウスHD",cost:40,hp:25,tec:2,wlk:-1,fly:3,tgh:1,size:"M"}
-
+{id:202205242,name:"ペルセシウスHD2",cost:40,hp:25,tec:3,wlk:-1,fly:2,tgh:1,size:"M"}
 
 {id:17,name:"ホバリオンHD",cost:30,hp:15,str:1,tec:2,tgh:1}
 {id:61,name:"ホバリオン・マグナHD",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1}
@@ -505,6 +515,8 @@
 {id:294,name:"ユングヴィHD",type:"lacs",cost:35,hp:20,str:2,wlk:-1,fly:1,tgh:3}
 
 
+
+{id:13,name:"ライオウゼンHD",cost:40,hp:25,str:3,tec:-1,wlk:1,tgh:2,size:"M"}
 {id:536,name:"ライオスHD",cost:35,hp:20,str:1,tec:1,wlk:1,fly:1,tgh:1}
 {id:180,name:"ラグナバレットHD",cost:40,hp:25,str:-1,tec:3,wlk:1,fly:1,tgh:1}
 
@@ -530,12 +542,17 @@
 {id:20220418,name:"レッドスクィラDRIVEHD",cost:40,hp:25,str:2,wlk:1,fly:-1,tgh:3,size:"M"}
 {id:541,name:"レプシロンHD",type:"lacs",size:"M",cost:35,hp:20,tec:1,wlk:-1,fly:2,tgh:3}
 {id:54102,name:"レプシロンHD2",type:"a",main:{tec:100,pwr:5,shl:720,rng:200,spd:400,itv:140},tunable:{mwp:1},size:"M",cost:115,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1}
+
+{id:202205243,name:"ロイヤルビーゾルHD",size:"M",cost:35,hp:20,str:1,tec:1,wlk:1,fly:2,comment:"-"}
 {id:292,name:"ロッソアスピーデHD",cost:40,hp:25,str:-1,tec:1,wlk:2,fly:1,tgh:2,size:"M",type:"lacs"}
 {id:20222031,name:"ロッソアスピーデHD2",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2,size:"M",type:"lacs"}
 
 {id:181,name:"ロトンレムレスHD",cost:40,hp:25,str:1,tec:2,wlk:2,fly:1,tgh:-1}
 
 {id:286,name:"ロビンハンターHD",size:"M",cost:35,hp:20,str:1,tec:3,wlk:1,fly:-1,tgh:1}
+{id:58,name:"ロブガイズHD",cost:35,hp:20,str:1,wlk:1,fly:1,tgh:2,size:"M"}
+
+
 {id:328,name:"ワニガメンティスHD",type:"lacs",size:"M",cost:40,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
 
 {id:323,name:"A・ミラルHD",type:"l",size:"M",cost:115,hp:20,tec:3,wlk:2,fly:-1,tgh:1,main:{tec:100,pwr:3,shl:1200,rng:250,spd:440,itv:200},tunable:{mwp:1}}
