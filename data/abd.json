@@ -108,6 +108,8 @@
 
 {id:20002,name:"レプシロンBD2",main:{tec:100,pwr:18,shl:370,rng:275,spd:440,itv:1000},sub:{shl:[50],rng:0,spd:150,itv:1000},cartridge:{lv1:"85*5@25|61*2@35|7@30|9@15|8@20|19@15|23@25|22@30|52@20|25@25|21@20|30@20|13@30|32@50|31@40",hpup:18},type:"a",size:"S",cost:540,capa:780,hp:230,str:5,tec:17,wlk:7,fly:14,tgh:7,wbid:1,builtin:{bs:1},joint:{hdac:1,bs:0},fixedParts:{hdac:["S1"]},comment:["BD@cost20複合","内蔵強化不明"]}
 
+{id:202205243,name:"ロイヤルビーゾルBD",size:"S",cost:405,capa:780,hp:210,str:5,tec:12,wlk:7,fly:14,tgh:7,wbid:1,cartridge:{hpup:18,lv1:"85*6@25|7@30|9@15|8@20|18@30|19@15|23@25|22@30|52@20|26@20|25@25|21@20|13@30|32@50|31@40"}}
+
 
 {id:97,name:"F･リュールBD",cartridge:{hpup:18,lv1:"85*6@25|7@30|9@15|8@20|19@15|52@20|21@20|23@25|22@30|25@25|30@20|26@20|13@30|32@50|31@40"},type:"a",size:"S",cost:405,capa:815,hp:210,str:4,tec:9,wlk:6,fly:12,tgh:6,comment:"-"}
 
@@ -121,12 +123,17 @@
 
 {group:"Ｍ空ヒューマノイド",prefixID:"AM",commonStat:{size:"M",type:"a"},nextID:19}
 
+
+{id:11,name:"アドネBD",sub:{str:100,pwr:[0],shl:[60],rng:0,spd:150,itv:1000},cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|19@15|23@25|22@30|52@20|21@20|25@25|26@20|13@30|39@15|32@50|31@40"},fixedParts:{hd:{name:"アドネHD",cost:40,hp:25,tec:3,fly:2},lg:{name:"アドネLG",main:{tec:100,pwr:20,shl:450,rng:275,spd:480,itv:600},sub:{tec:100,pwr:28,shl:400,rng:77,spd:94,itv:1000},tunable:{mwp:1,pwp:1},cost:165,hp:25,tec:1,wlk:2,fly:2,tgh:1,joint:{bs:1}}},cost:465,capa:920,hp:255,str:5,tec:12,wlk:9,fly:15,tgh:7,wbid:1,auraSystem:0,builtin:{bs:1},comment:["フラウ・アドネ","変形省略"]}
+
+
 {id:44,name:"イスチナ・バレットBD",joint:{bs:2,wp:2},fixedParts:{wp:["W1","W1"],hd:{name:"イスチナ・バレットHD",cost:40,hp:25,str:1,tec:2,fly:2},lg:{name:"イスチナ・バレットLG",cost:45,hp:25,tec:1,wlk:2,tgh:3,type:"a",size:"M",joint:{wp:1}},am:[{joint:{wp:0},name:"イスチナ・バレットLAM",cost:40,hp:25,tec:2,fly:2,tgh:1,type:"a",size:"S"},{joint:{wp:2},name:"イスチナ・バレットRAM",cost:40,hp:25,tec:2,fly:2,tgh:1,type:"a",size:"S"}],bs:{name:"イスチナ・バレットBS2",type:"a",size:"S",slot:0}},type:"a",size:"M",cost:445,capa:920,hp:255,str:3,tec:16,wlk:7,fly:12,tgh:10,wbid:1,cartridge:{lv1:"4*6@20|7@30|9@15|8@20|19@15|23@25|22@30|21@20|52@20|25@25|31@40|13@30|39@15|32@50|30@20",hpup:14}}
 {id:6,name:"イヅナカムイαBD",cost:505,capa:870,hp:255,str:6,tec:10,wlk:7,fly:17,tgh:8,sub:{pwr:0,shl:[50],rng:100,spd:160,itv:1000},wbid:1,cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|19@15|23@25|22@30|21@20|52@20|15@20|30@20|26@20|13@30|32@50|31@40"},fixedParts:{hd:"H3"}}
 
 {id:7,name:"イヅナカムイαBD2",cost:505,capa:870,hp:255,str:6,tec:10,wlk:7,fly:17,tgh:8,sub:{pwr:0,shl:[50],rng:100,spd:160,itv:1000},wbid:1,cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|19@15|23@25|22@30|21@20|52@20|15@20|30@20|26@20|13@30|32@50|31@40"},fixedParts:{hd:"H4"}}
 {id:26,name:"イヅナカムイαBD3",cost:505,capa:905,hp:255,str:5,tec:9,wlk:6,fly:13,tgh:7,sub:{pwr:0,shl:[50],rng:100,spd:160,itv:1000},wbid:1,cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|19@15|23@25|22@30|21@20|52@20|15@20|30@20|26@20|13@30|32@50|31@40"},fixedParts:{hd:"H5"}}
 
+{id:12,name:"ヴィクトルBD",main:{str:100,pwr:[15],shl:[100],rng:250,spd:500,itv:500},sub:{str:100,pwr:[30],shl:[0],rng:200,spd:350,itv:1000},cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|19@15|23@25|22@30|52@20|51@30|18@30|21@20|13@30|39@15|32@50|31@40"},fixedParts:{hd:{name:"ヴィクトルHD",cost:40,hp:25,str:3,fly:2},lg:{name:"ヴィクトルLG",sub:{pwr:28,shl:300,rng:77,spd:94,itv:1000,str:100},tunable:{mwp:1,pwp:1},auraStat:{main:{tec:100,pwr:0,shl:100,rng:0,spd:10,itv:1000},sub:{pwr:32,shl:300,rng:77,spd:94,itv:1000,str:100}},cost:115,hp:25,str:2,tec:-1,wlk:2,fly:2,tgh:1,joint:{bs:1}},am:[{name:"ヴィクトルAM",cost:40,hp:25,str:4,wlk:-1,fly:1,tgh:1},{name:"ヴィクトルAM",cost:40,hp:25,str:4,wlk:-1,fly:1,tgh:1}]},cost:445,capa:920,hp:255,str:12,tec:5,wlk:9,fly:12,tgh:10,wbid:1,auraSystem:1,builtin:{bs:1},comment:["ヘル・ヴィクトル","強化はauraで反映"]}
 
 
 
@@ -185,6 +192,9 @@
 
 
 {id:9,name:"パシファールBD",cost:445,capa:870,hp:255,str:5,tec:12,wlk:4,fly:15,tgh:12,wbid:1,cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|19@15|21@20|23@25|22@30|52@20|30@20|14@20|26@20|13@30|32@50|31@40"}}
+{id:202205241,name:"パシファールBD2",sub:{shl:30,rng:0,spd:100,itv:1000},cartridge:{hpup:14,lv1:"75*6@20|7@30|9@15|8@20|19@15|23@25|22@30|21@20|52@20|26@20|29@20|25@25|13@30|32@50|31@40"},cost:530,capa:945,hp:270,str:3,tec:16,wlk:5,fly:16,tgh:11,type:"a",size:"M",comment:"-"}
+
+
 {id:38,name:"ハリーアクセルBD",main:{pwr:[18,20,22],shl:[350],rng:[275,285,300],spd:[440,460,480],itv:700},sub:{shl:0,spd:180,itv:3000},joint:{wp:1},cartridge:{hpup:14,lv1:"4*5@20|61*2@30|7@30|9@15|8@20|19@15|22@30|23@25|52@20|26@20|21@20|30@20|13@30|32@50|31@40"},fixedParts:{wp:{name:"ハリーアクセルBD@",main:{pwr:8,shl:660,rng:275,spd:280,itv:740},tunable:{mwp:1,pwp:0},type:"a",slot:3,cost:40},lg:{name:"ハリーアクセルLG",sub:{shl:60,spd:180,itv:1000},tunable:{pwp:0},builtin:{lg:1},cost:75,type:"lacs",hp:25,str:-1,wlk:3,fly:1,tgh:3}},auraStat:{main:{pwr:[8,9,10],shl:[1320],rng:[275,285,300],spd:[440,460,480],itv:300}},type:"a",size:"M",cost:575,capa:870,hp:255,str:3,tec:14,wlk:7,fly:15,tgh:9,wbid:1,auraSystem:1}
 {id:27,name:"フラップジャックBD",sub:{shl:0,spd:150,itv:500},builtin:{bs:1},joint:{bs:0},cartridge:{lv1:"4*6@20|7@30|9@15|8@20|19@15|20@30|23@25|22@30|52@20|15@20|30@20|21@20|13@30|32@50|31@40",hpup:14},str:4,tec:14,wlk:9,fly:17,tgh:9,capa:905,cost:485,hp:280,auraSystem:1,auraStat:{str:4,tec:14,wlk:9,fly:17,tgh:9,comment:"TRANSFORM装備時cost+50"},joint:{wp:1,bs:0},builtin:{bs:1}}
 
