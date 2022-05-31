@@ -149,7 +149,7 @@
 {id:115,name:"ヤクシャAM",cost:35,hp:20,str:2,tec:1,wlk:-1,fly:2,tgh:1}
 {id:153,name:"ユネッサAM",main:{pwr:16,shl:300,rng:275,spd:240,itv:700,tec:100},tunable:{mwp:1},cost:95,hp:20,tec:2,wlk:1,fly:1,tgh:1,size:"SS",type:"s",joint:{wp:0}}
 {id:41,name:"ラズフラムαAM",cost:35,hp:20,str:1,tec:1,wlk:1,tgh:2}
-
+{id:20220426,name:"ラビスリープAM",size:"S",cost:35,hp:20,str:1,wlk:2,fly:1,tgh:1,comment:"イースターイベント景品"}
 {id:155,name:"リーゼルAM",size:"S",cost:35,hp:20,str:-1,tec:2,wlk:2,fly:1,tgh:1,comment:"AM2と同性能"}
 
 {id:126,name:"リフィAM",cost:35,hp:20,str:1,tec:1,wlk:2,fly:1}
