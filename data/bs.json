@@ -64,16 +64,24 @@
 {id:22,name:"エースブレイバーBS",size:"S",cost:40,hp:25,wlk:1,fly:3,tgh:1}
 
 {id:113,name:"エアリーデBS",sub:{shl:50,rng:100,spd:120,itv:1000},type:"a",cost:65,hp:20,tec:2,wlk:-1,fly:4}
+
+{id:68,name:"エルメ・サリーBS",type:"s",size:"S",cost:35,hp:20,str:1,wlk:1,fly:3}
+
+
 {id:31,name:"オウカBS",type:"l",cost:40,hp:20,str:1,tec:-1,wlk:1,fly:3,tgh:1}
 {id:512,name:"オボロマルBS",type:"a",cost:35,hp:20,str:2,tec:2,wlk:-1,fly:2}
 
 {id:118,name:"オルフェノスBS",type:"s",cost:40,hp:25,tec:1,wlk:2,fly:3,tgh:-1}
+
+
+{id:194,name:"ガシマガールBS",type:"c",size:"S",cost:35,hp:20,str:-1,tec:2,fly:3,tgh:1}
+{id:196,name:"ガナハウンドガールBS",type:"l",size:"S",cost:35,hp:20,str:2,tec:-1,fly:2,tgh:2}
 {id:2,name:"カメンティスBS",type:"l",cost:35,hp:20,tec:1,wlk:1,fly:2,tgh:1}
 {id:68,name:"キールメスBS",type:"c",cost:35,hp:20,str:1,tec:1,wlk:-1,fly:3,tgh:1}
 
 {id:15,name:"キャノンボールBS",type:"c",cost:35,hp:20,str:1,fly:3,tgh:1}
 {id:97,name:"キャノンボールHLBS",type:"c",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:3,tgh:1}
-
+{id:20220523,name:"クローリアBS",size:"S",type:"l",cost:35,hp:20,str:1,tec:-1,wlk:1,fly:3,tgh:1}
 {id:112,name:"クロエBS",size:"S",cost:35,hp:20,str:-1,tec:3,fly:2,tgh:1}
 
 {id:14,name:"クロスラプターBS",type:"a",cost:40,hp:25,str:1,wlk:1,fly:3}
@@ -102,6 +110,8 @@
 {id:45,name:"スクイドルガールαBS",type:"s",cost:40,hp:25,str:2,tec:1,wlk:-1,fly:3}
 {id:129,name:"ステラBS",cost:40,hp:25,tec:3,wlk:1,fly:2,tgh:-1,type:"a"}
 {id:173,name:"スパーダBS",type:"l",cost:35,hp:20,tec:2,wlk:-1,fly:2,tgh:2}
+
+{id:179,name:"セイクリッドシルビアBS",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:3,size:"S",type:"l"}
 {id:182,name:"セイバーエリザロッテBS",cost:40,hp:25,str:3,tec:-1,wlk:1,fly:2,type:"l",size:"S"}
 {id:162,name:"セリューBS",size:"S",cost:35,hp:20,str:-1,tec:2,fly:3,tgh:1}
 
@@ -203,7 +213,7 @@
 
 {id:78,name:"メルフィBS",cost:40,hp:25,str:1,tec:2,wlk:-1,fly:3,type:"s"}
 {id:137,name:"ユネッサBS",cost:35,hp:20,tec:-1,wlk:1,fly:3,tgh:2,type:"s",size:"S"}
-
+{id:20220426,name:"ラビスリープBS",type:"l",size:"S",cost:35,hp:20,str:1,wlk:1,fly:3,comment:"イースターイベント景品"}
 {id:10,name:"ラズフラムαBS",type:"l",cost:110,hp:25,str:-1,tec:2,wlk:2,fly:2,sub:{tec:100,pwr:28,rng:120,spd:250,itv:1000},tunable:{pwp:1}}
 {id:2022113,name:"ラフィールBS",type:"l",cost:35,hp:20,str:2,tec:-1,wlk:2,fly:2}
 
@@ -260,6 +270,10 @@
 {id:99,name:"アーティラスBS",type:"c",cost:40,hp:25,tec:1,wlk:1,fly:3}
 {id:62,name:"アイラBS",type:"l",cost:35,hp:20,str:1,tec:-1,wlk:1,fly:3,tgh:1}
 {id:1000,name:"アクシオンBS",type:"l",cost:45,hp:25,tec:2,wlk:1,fly:3,tgh:-1}
+{id:38,name:"アクセルセイバーBS",type:"l",size:"M",cost:35,hp:20,wlk:2,fly:3}
+
+{id:40,name:"アドネBS",size:"M",cost:35,hp:20,tec:1,wlk:1,fly:3}
+
 {id:56,name:"アハトジーベンBS",type:"c",cost:40,hp:25,str:2,tec:1,wlk:1,fly:2,tgh:-1}
 
 {id:34,name:"アマテウスBS",type:"c",cost:40,hp:25,str:1,tec:2,wlk:-1,fly:3}
@@ -274,6 +288,8 @@
 {id:158,name:"インサネクトBS",cost:35,hp:20,str:2,wlk:1,fly:3,tgh:-1,type:"a",size:"M"}
 
 {id:144,name:"ヴァリアントBS",main:{tec:100,pwr:9,shl:480,rng:275,spd:350,itv:340},tunable:{mwp:1},type:"a",size:"M",cost:35,hp:20,str:-1,tec:2,fly:3,tgh:1}
+
+{id:39,name:"ヴィクトルBS",size:"M",type:"a",cost:35,hp:20,str:1,tec:-1,wlk:1,fly:3,tgh:1}
 {id:175,name:"ウィザメルBS",sub:{pwr:1,shl:35,rng:150,spd:180,itv:1000},cost:65,hp:20,tec:2,wlk:1,fly:3,tgh:-1,type:"a",size:"M"}
 {id:89,name:"ヴィシュラBS",type:"l",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:2,tgh:2}
 
@@ -298,7 +314,7 @@
 {id:98,name:"ギャスターBS",type:"c",cost:40,hp:25,wlk:1,fly:3,tgh:2}
 {id:114,name:"ギャラクシーコマンドBS",type:"c",cost:35,hp:20,str:-1,tec:1,wlk:1,fly:3,tgh:1}
 {id:96,name:"ギャランバルドBS",type:"l",cost:45,hp:25,str:2,tec:-1,wlk:1,fly:3}
-
+{id:78,name:"クアドラBS",type:"c",size:"M",cost:35,hp:20,tec:1,wlk:1,fly:2,tgh:1}
 {id:109113,name:"グリストBS2",sub:{pwr:15,shl:300,rng:275,spd:350,itv:1000},type:"a",cost:135,hp:20,str:-1,tec:1,wlk:1,fly:3,tgh:1}
 
 
@@ -382,6 +398,7 @@
 
 {id:77,name:"バグジーケットBS",type:"s",cost:140,hp:25,tec:1,wlk:-1,fly:3,tgh:2,sub:{pwr:20,shl:90,rng:275,spd:250,itv:1000}}
 {id:30,name:"パシファールBS",type:"a",cost:40,hp:25,str:1,tec:1,fly:3}
+{id:202205241,name:"パシファールBS2",size:"M",type:"a",cost:40,hp:25,tec:1,wlk:1,fly:3}
 
 
 {id:13,name:"パラボロイドBS",type:"s",cost:35,hp:20,str:1,tec:1,fly:3}
@@ -453,6 +470,7 @@
 
 {id:103,name:"ルペットBS",type:"l",cost:40,hp:20,str:-1,tec:1,wlk:1,fly:3,tgh:1}
 {id:33,name:"レイスタッグBS",type:"a",cost:40,hp:25,str:2,tec:2,wlk:-1,fly:3,tgh:-1}
+{id:202205242,name:"ロイヤルビーゾルBS",type:"a",size:"M",cost:65,hp:20,tec:1,wlk:1,fly:4,tgh:-1,sub:{shl:60,rng:0,spd:0,itv:1000},comment:"-"}
 
 {id:141,name:"ロビンハンターBS",sub:{pwr:10,shl:20,rng:100,spd:340,itv:1000},cost:50,hp:20,str:-1,tec:2,wlk:1,fly:3,size:"M",type:"l"}
 
@@ -554,6 +572,7 @@
 {id:8,name:"ダイダリオンBS",type:"l",cost:40,hp:25,str:1,tec:1,fly:2,tgh:1}
 
 {id:36,name:"ダイモンBS",type:"l",cost:40,hp:25,str:1,wlk:1,fly:3}
+{id:20220524,name:"タイラントデストラクトBS",type:"c",size:"L",cost:40,hp:25,tec:1,fly:3,tgh:1,comment:"-"}
 
 {id:51,name:"ダゴミュールBS",type:"c",cost:120,hp:25,str:-1,tec:3,fly:3,joint:{bs:1},fixedParts:{bs:{name:"ダゴミュールBS@",main:{pwr:11,shl:400,rng:300,spd:360,itv:800},tunable:{mwp:1},slot:0},comment:"BS@cost80合算"}}
 {id:78,name:"ダゴミュールBS2",joint:{bs:2},fixedParts:{bs:[{main:{pwr:23,shl:120,rng:330,spd:350,itv:800},name:"ダゴミュールBS2@1",slot:0,comment:"ミサイル"},{name:"ダゴミュールBS2@2",main:{pwr:10,shl:300,rng:380,spd:500,itv:300},slot:0,comment:"バズーカ"}]},type:"c",cost:160,hp:25,str:-1,tec:3,fly:2,tgh:1,comment:"@パーツ合計cost120合算"}
@@ -608,13 +627,15 @@
 {id:50,name:"メディックボールBS",type:"s",cost:40,hp:25,tec:1,fly:3,tgh:1}
 
 {id:401,name:"ヤマトオグナBS",type:"l",cost:35,hp:20,tec:1,wlk:1,fly:3}
-
+{id:100,name:"ライオウゼンBS",type:"l",size:"L",cost:40,hp:25,str:2,tec:-1,fly:3,tgh:1}
 {id:47,name:"ラグナバレットBS",type:"c",cost:40,hp:25,fly:4,tgh:1}
 
 {id:58,name:"ラクラボロスBS",type:"s",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:3}
 
 {id:88,name:"ランパーニルBS",type:"l",size:"L",cost:35,hp:20,str:-1,tec:1,wlk:1,fly:3,tgh:1}
 {id:48,name:"ロトンレムレスBS",type:"s",cost:40,hp:25,str:-1,tec:1,fly:2,tgh:3}
+
+{id:9,name:"ロブガイズBS",type:"l",size:"L",cost:35,hp:20,str:1,tec:1,fly:2,tgh:1}
 
 {id:46,name:"ワイルドビークBS",type:"l",cost:40,hp:25,tec:1,wlk:1,fly:3}
 
