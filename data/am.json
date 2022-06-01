@@ -309,6 +309,8 @@
 
 {id:11019,name:"ジャックオーAM",type:"lacs",size:"M",cost:35,hp:20,wlk:2,fly:2,tgh:1}
 {id:2022203,name:"シャドウフロウAM",type:"l",cost:165,hp:20,str:-1,tec:3,wlk:2,tgh:1,main:{pwr:23,shl:360,rng:225,spd:400,itv:500},sub:{pwr:16,shl:180,rng:250,spd:320,itv:1000},tunable:{mwp:1,pwp:0},joint:{wp:1}}
+
+{id:117,name:"シンビジウムAM",main:{pwr:15,shl:210,rng:275,spd:290,itv:900},tunable:{mwp:1},type:"a",cost:65,hp:20,tec:2,fly:2,tgh:1}
 {id:144,name:"シンビジウムAM2",main:{pwr:10,shl:240,rng:275,spd:290,itv:900},type:"a",size:"M",cost:65,hp:20,tec:3,fly:1,tgh:1,tunable:{mwp:1}}
 
 {id:105,name:"ズィークAM",cost:35,hp:20,str:-1,tec:2,fly:1,tgh:3}
