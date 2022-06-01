@@ -32,6 +32,7 @@
 {group:"Ｓ補ロボ",prefixID:"SS",commonStat:{size:"S",type:"s"},nextID:21}
 
 {id:118,name:"アレスターBD",cartridge:{hpup:18,lv1:"85*6@25|17@20|19@20|20@20|23@25|18@20|14@10|28@20|15@30|29@10|16@20|26@20|13@20|32@30|31@40"},type:"s",size:"S",cost:405,capa:780,hp:210,str:9,tec:8,wlk:10,fly:9,tgh:9}
+{id:9,name:"エルメ・サリーBD",type:"s",size:"M",cost:445,capa:850,hp:225,str:10,tec:9,wlk:13,fly:9,tgh:7,wbid:1,cartridge:{hpup:14,lv1:"4*6@25|17@20|18@20|19@20|20@20|23@25|22@30|28@20|14@10|21@20|15@15|29@10|13@20|32@30|31@40"}}
 
 
 {id:98,name:"オルフェノスBD",joint:{am:1},cartridge:{lv1:"85*6@25|17@20|20@20|23@25|22@30|25@25|16@20|29@10|14@10|28@20|18@20|19@20|13@20|32@30|31@40",hpup:18},fixedParts:{am:{joint:{wp:1},fixedParts:{wp:{name:"ハープ",joint:{wp:2},type:"s",size:"S"}},name:"オルフェノスAM",cost:70,hp:40,str:2,tec:2,wlk:4,fly:4,tgh:-2,type:"s",size:"S"}},type:"s",size:"S",cost:405,capa:780,hp:210,str:7,tec:8,wlk:10,fly:8,tgh:12}
@@ -140,7 +141,6 @@
 
 {group:"Ｍ補",prefixID:"SM",commonStat:{size:"M",type:"s"},nextID:8}
 
-{id:9,name:"エルメ・サリーBD",type:"s",size:"M",cost:445,capa:850,hp:225,str:10,tec:9,wlk:13,fly:9,tgh:7,wbid:1,cartridge:{hpup:14,lv1:"4*6@25|17@20|18@20|19@20|20@20|23@25|22@30|28@20|14@10|21@20|15@15|29@10|13@20|32@30|31@40"}}
 
 {id:48,name:"ガゥディアンBD",type:"s",size:"M",cost:445,capa:870,hp:255,str:7,tec:11,wlk:14,fly:8,tgh:8,cartridge:{hpup:14,lv1:"4*6@20|17@20|18@20|19@20|20@20|23@25|22@30|21@20|16@20|15@30|29@10|26@20|13@20|32@30|31@40"}}
 
