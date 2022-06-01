@@ -348,7 +348,7 @@
 
 
 
-{id:20220523,name:"タイラントデストラクトBD@",main:{tec:100,pwr:12,shl:540,rng:350,spd:290,itv:800},tunable:{mwp:0},slot:0,type:"c",size:"L",cost:120,comment:["タイラントデストラクト専用コンバージョンパーツ","内蔵強化値不明"]}
+{id:20220523,name:"タイラントデストラクトBD@",main:{tec:100,pwr:13,shl:540,rng:350,spd:290,itv:800},tunable:{mwp:0},slot:0,type:"c",size:"L",cost:120,comment:["タイラントデストラクト専用コンバージョンパーツ","内蔵強化値不明"]}
 
 {id:202205231,name:"タイラントデストラクトBD@2",sub:{tec:100,pwr:9,shl:400,rng:350,spd:290,itv:1000},tunable:{mwp:0},slot:0,type:"c",size:"L",cost:120,comment:["タイラントデストラクト専用コンバージョンパーツ","内蔵強化値不明"]}
 
