@@ -214,5 +214,6 @@
 {id:186,name:"スカラベスBS2@",sub:{pwr:1,shl:30,rng:0,spd:200,itv:1000,str:100},cost:30,slot:0,size:"M",type:"c",comment:"スカラベスBS2専用コンバージョンパーツ"}
 
 
-
-
+{group:"ピナ・ルベリーコンバージョン",prefixID:"SOx",commonStat:{tunable:{pwp:1}},nextID:17}
+{id:123,name:"ドリルパワー",sub:{pwr:32,rng:77,spd:94,itv:1000,str:100},tunable:{pwp:1},type:"l",size:"S",cost:140,comment:"ピナ･ルベリーBD専用コンバージョンパーツ"}
+{id:124,name:"ピナテール",fixedParts:{wp:{name:"ディグドリル",main:{pwr:25,shl:50,rng:200,spd:500,itv:1000},sub:{pwr:18,shl:50,rng:200,spd:300,itv:500,str:100},type:"l",size:"M",slot:0}},type:"l",size:"M",cost:100,slot:0,comment:"ピナ･ルベリーLG専用コンバージョンパーツ",joint:{wp:1},sub:{str:100}}
