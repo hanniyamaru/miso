@@ -5,6 +5,7 @@
 
 {id:60,name:"アームドビルダームAM2",type:"c",cost:115,hp:20,str:-1,tec:3,wlk:1,fly:2,sub:{tec:100,pwr:14,shl:270,rng:330,spd:380,itv:1000}}
 {id:302,name:"アイシーAM",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1}
+{id:20220601,name:"アスフィAM",cost:35,hp:20,tec:2,wlk:1,fly:2,,type:"c",size:"S"}
 
 {id:54,name:"アドネAM",type:"a",size:"S",cost:80,hp:25,str:-1,tec:3,fly:1,tgh:2,main:{pwr:11,shl:360,rng:275,spd:350,itv:400},sub:{tec:100,pwr:10,rng:275,spd:350,itv:1000},tunable:{mwp:1},comment:["変形省略","専用変形時のみ部位破壊不能"]}
 
@@ -770,7 +771,7 @@
 
 
 
-{group:"UNIジョイント",prefixID:"J",commonStat:{jointPart:1},nextID:8}
+{group:"ジョイント",prefixID:"J",commonStat:{jointPart:1},nextID:8}
 {id:35,name:"スロット1AMJ",slot:1,size:"M"}
 
 {id:2,name:"アシュラAMJ",type:"lac",size:"M",cost:40,hp:-30,tec:-2,wlk:-1,joint:{am:2},slot:1}
@@ -785,6 +786,9 @@
 {id:41,name:"シュトルバンガーAMJ",main:{pwr:10,shl:240,rng:300,spd:400,itv:800,tec:100},type:"c",size:"L",cost:30,slot:1,tunable:{mwp:1}}
 {id:53,name:"ティタロテスAMJ",type:"c",size:"L",cost:20,tunable:{mwp:1},slot:1,main:{pwr:17,shl:120,rng:300,spd:220,itv:600}}
 {id:27,name:"ティルージュAMJ",main:{pwr:6,shl:500,rng:275,spd:320,itv:340},tunable:{mwp:1},type:"a",size:"M",cost:40,slot:1}
+
+
+{id:20220601,name:"ドライバーキャノンAMJ",main:{pwr:10,shl:600,rng:330,spd:280,itv:340},tunable:{mwp:1},type:"c",size:"S",cost:75,slot:1,comment:"アスフィ付属"}
 {id:19,name:"ドローガンAMJ",main:{tec:100,pwr:6,shl:200,rng:250,spd:480,itv:500},tunable:{mwp:1},type:"s",size:"M",cost:60,str:1,tec:1,tgh:-1,slot:1}
 
 {id:16,name:"バーストミサイルAMJ",type:"c",size:"M",cost:80,slot:1,main:{pwr:12,shl:140,rng:330,spd:290,itv:1200},tunable:{mwp:1},comment:"イルミス付属AMJ"}
