@@ -10,7 +10,7 @@
 
 
 
-
+{id:136,name:"ピナ・ルベリーBD",cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|15@15|21@20|13@30|34@15|32@50|31@40"},type:"l",size:"S",cost:445,capa:900,hp:225,str:13,tec:3,wlk:18,fly:8,tgh:6,comment:"-",fixedParts:{hd:{name:"ピナ・ルベリーHD",cost:40,hp:25,str:1,tec:1,wlk:1,fly:2,type:"l",size:"S"},lg:{name:"ピナ・ルベリーLG",joint:{wp:1},cost:45,hp:25,str:1,wlk:3,tgh:2,type:"l",size:"S"},am:[{name:"ピナ・ルベリーAM",main:{str:100,pwr:12,shl:50,rng:200,spd:570,itv:500},cost:40,hp:25,str:3,wlk:1,tgh:1,type:"l",size:"S",tunable:{mwp:1}},{name:"ピナ・ルベリーAM",main:{str:100,pwr:12,shl:50,rng:200,spd:570,itv:500},cost:40,hp:25,str:3,wlk:1,tgh:1,type:"l",size:"S",tunable:{mwp:1}}]},joint:{wp:1},wbid:61}
 
 
 {id:185,name:"ガナハウンドガールBD",sub:{str:100,pwr:30,shl:30,rng:120,spd:250,itv:1000},joint:{wp:1,hdac:2},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|16@20|12@20|13@30|34@15|32@50|31@40"},fixedParts:{hdac:["S1","S1"],hd:{name:"ガナハウンドガールHD",size:"S",cost:40,hp:25,str:2,wlk:1,fly:1,tgh:1},lg:{name:"ガナハウンドガールLG",cost:45,hp:25,str:1,wlk:4,tgh:1,size:"S"},am:[{main:{str:100,pwr:20,shl:50,rng:200,spd:570,itv:500},sub:{str:100,pwr:34,rng:70,spd:85,itv:500},tunable:{pwp:1,mwp:1},joint:{wp:0},name:"ガナハウンドガールAM",cost:170,hp:25,str:3,wlk:1,tgh:1,size:"S"},{main:{shl:50,spd:10,itv:1000},name:"ガナハウンドガールAM2",cost:60,hp:25,str:3,wlk:1,tgh:1,size:"S",joint:{wp:0}}],wp:{name:"シエスエンブレム"}},cost:515,capa:900,hp:225,str:13,tec:4,wlk:15,fly:8,tgh:8,type:"l",size:"S"}
