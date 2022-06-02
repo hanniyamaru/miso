@@ -263,6 +263,7 @@
 
 {id:204,name:"P・モーナBS",sub:{str:100,pwr:25,shl:30,rng:0,spd:0,itv:1000},type:"c",size:"S",cost:60,hp:20,str:-1,tec:2,fly:2,tgh:2,comment:"実装時現在STR依存表記"}
 
+{id:20220603,name:"S・イレーヌBS",type:"a",size:"S",cost:40,hp:25,str:1,wlk:1,fly:3}
 
 
 
