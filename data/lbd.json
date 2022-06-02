@@ -8,6 +8,7 @@
 
 
 
+{id:20220603,name:"マシロBD",sub:{pwr:30,shl:30,rng:120,spd:200,itv:1000,tec:100},builtin:{bs:1},joint:{wp:1},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|16@20|21@20|14@20|13@30|34@15|32@50|31@40"},fixedParts:{hd:{name:"マシロHD",cost:40,hp:25,str:1,tec:1,wlk:2,fly:1,type:"l",size:"S"},lg:{name:"マシロLG",cost:45,hp:25,str:1,wlk:3,tgh:2,type:"l",size:"S"},am:[{name:"マシロAM",cost:40,hp:25,str:3,tgh:2,type:"l",size:"S"},{name:"マシロAM",cost:40,hp:25,str:3,tgh:2,type:"l",size:"S"}]},type:"l",size:"S",cost:530,capa:900,hp:245,str:15,tec:3,wlk:16,fly:11,tgh:8}
 
 
 {id:136,name:"ピナ・ルベリーBD",cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|15@15|21@20|13@30|34@15|32@50|31@40"},type:"l",size:"S",cost:445,capa:900,hp:225,str:13,tec:3,wlk:18,fly:8,tgh:6,comment:"-",fixedParts:{hd:{name:"ピナ・ルベリーHD",cost:40,hp:25,str:1,tec:1,wlk:1,fly:2,type:"l",size:"S"},lg:{name:"ピナ・ルベリーLG",joint:{wp:1},cost:45,hp:25,str:1,wlk:3,tgh:2,type:"l",size:"S"},am:[{name:"ピナ・ルベリーAM",main:{str:100,pwr:12,shl:50,rng:200,spd:570,itv:500},cost:40,hp:25,str:3,wlk:1,tgh:1,type:"l",size:"S",tunable:{mwp:1}},{name:"ピナ・ルベリーAM",main:{str:100,pwr:12,shl:50,rng:200,spd:570,itv:500},cost:40,hp:25,str:3,wlk:1,tgh:1,type:"l",size:"S",tunable:{mwp:1}}]},joint:{wp:1},wbid:61}
