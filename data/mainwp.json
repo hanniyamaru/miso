@@ -487,15 +487,20 @@
 
 {id:98,name:"バアルバズーカ",tunable:{mwp:1},cost:90,type:"c",size:"S",main:{pwr:19,shl:420,rng:330,spd:400,itv:400}}
 
-{group:"マルカコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
-{id:64,name:"グロームロッド",main:{pwr:9,shl:540,rng:275,spd:440,itv:300,tec:100},sub:{pwr:26,shl:60,spd:150,itv:1000,tec:100},type:"a",size:"M",cost:100,comment:"マルカAM専用コンバージョンパーツ、変形省略、爆風比率1：9　",tunable:{mwp:1}}
-{id:6401,name:"ゲイルロッド",main:{pwr:24,shl:340,rng:275,spd:400,itv:500,tec:100},sub:{pwr:10,shl:60,spd:150,itv:1000,tec:100},type:"a",size:"M",cost:120,comment:"マルカAM専用コンバージョンパーツ",tunable:{mwp:1}}
+
+{group:"マシロコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
+{id:20220603,name:"もふもふケープ",main:{str:100,pwr:20,shl:50,rng:200,spd:500,itv:1000},type:"l",size:"S",cost:50,comment:"マシロBD専用コンバージョンパーツ",tunable:{mwp:0,pwp:0},slot:0,joint:{wp:1}}
+{id:2022060301,name:"スノベア",main:{str:100,pwr:15,shl:50,rng:200,spd:570,itv:500},sub:{str:100,pwr:32,shl:0,rng:77,spd:94,itv:1000},type:"l",size:"S",cost:130,comment:"もふもふケープ専用コンバージョンパーツ",tunable:{mwp:1,pwp:1}}
+
 
 {group:"マトイコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 
 {id:202204176,name:"アクシオンガンビット",main:{str:100,pwr:13,shl:600,rng:250,spd:570,itv:300},type:"l",size:"S",cost:50,comment:"マトイBD専用コンバージョンパーツ",tunable:{mwp:1}}
 {id:202204177,name:"アクシオンソードビット",sub:{str:100,pwr:30,shl:0,rng:150,spd:500,itv:1000},type:"l",size:"S",cost:30,tunable:{mwp:0,pwp:1},comment:"マトイBD専用コンバージョンパーツ"}
 
+{group:"マルカコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
+{id:64,name:"グロームロッド",main:{pwr:9,shl:540,rng:275,spd:440,itv:300,tec:100},sub:{pwr:26,shl:60,spd:150,itv:1000,tec:100},type:"a",size:"M",cost:100,comment:"マルカAM専用コンバージョンパーツ、変形省略、爆風比率1：9　",tunable:{mwp:1}}
+{id:6401,name:"ゲイルロッド",main:{pwr:24,shl:340,rng:275,spd:400,itv:500,tec:100},sub:{pwr:10,shl:60,spd:150,itv:1000,tec:100},type:"a",size:"M",cost:120,comment:"マルカAM専用コンバージョンパーツ",tunable:{mwp:1}}
 
 {group:"ミナリアコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:20220602,name:"ウェザーアンブレラ",sub:{pwr:10,shl:100,rng:10,spd:320,itv:1000,tec:100},type:"a",size:"S",cost:60,comment:"ミナリアAM2専用コンバージョンパーツ",tunable:{mwp:0,pwp:0},slot:0,joint:{wp:1}}
