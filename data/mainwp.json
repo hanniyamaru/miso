@@ -498,9 +498,9 @@
 
 
 {group:"ミナリアコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
-{id:20220602,name:"ウェザーアンブレラ",sub:{pwr:10,shl:100,rng:10,spd:320,itv:1000,tec:100},type:"a",size:"S",cost:60,comment:"ミナリアAM2専用コンバージョンパーツ",tunable:{mwp:0,pwp:0},slot:0}
+{id:20220602,name:"ウェザーアンブレラ",sub:{pwr:10,shl:100,rng:10,spd:320,itv:1000,tec:100},type:"a",size:"S",cost:60,comment:"ミナリアAM2専用コンバージョンパーツ",tunable:{mwp:0,pwp:0},slot:0,joint:{wp:1}}
 {id:202206021,name:"ウェザーアンブレラ@",main:{pwr:5,shl:1110,rng:275,spd:280,itv:1000,tec:100},sub:{pwr:0,shl:0,rng:10,spd:110,itv:1000,tec:100},type:"a",size:"S",cost:80,comment:"ウェザーアンブレラ専用コンバージョンパーツ",tunable:{mwp:1,pwp:0}}
-{id:202206022,name:"デンデンカムPro",main:{pwr:11,shl:620,rng:275,spd:350,itv:300},tunable:{mwp:1},type:"a",size:"S",cost:9,comment:"ミナリアBD専用コンバージョンパーツ"}
+{id:202206022,name:"デンデンカムPro",main:{pwr:11,shl:620,rng:275,spd:350,itv:300},tunable:{mwp:1},type:"a",size:"S",cost:90,comment:"ミナリアBD専用コンバージョンパーツ"}
 
 {group:"メルクーリオコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:175,name:"ニードルスター",main:{pwr:20,shl:50,rng:200,spd:500,itv:500,str:100},sub:{pwr:32,rng:56,spd:68,itv:1500,str:100},cost:130,comment:"メルクーリオAM2専用コンバージョン",type:"l",size:"S",tunable:{mwp:1,pwp:1}}
