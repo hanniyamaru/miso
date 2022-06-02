@@ -5,7 +5,7 @@
 
 {id:60,name:"アームドビルダームAM2",type:"c",cost:115,hp:20,str:-1,tec:3,wlk:1,fly:2,sub:{tec:100,pwr:14,shl:270,rng:330,spd:380,itv:1000}}
 {id:302,name:"アイシーAM",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1}
-{id:20220601,name:"アスフィAM",cost:35,hp:20,tec:2,wlk:1,fly:2,,type:"c",size:"S"}
+{id:20220601,name:"アスフィAM",cost:35,hp:20,tec:2,wlk:1,fly:2,type:"c",size:"S"}
 
 {id:54,name:"アドネAM",type:"a",size:"S",cost:80,hp:25,str:-1,tec:3,fly:1,tgh:2,main:{pwr:11,shl:360,rng:275,spd:350,itv:400},sub:{tec:100,pwr:10,rng:275,spd:350,itv:1000},tunable:{mwp:1},comment:["変形省略","専用変形時のみ部位破壊不能"]}
 
