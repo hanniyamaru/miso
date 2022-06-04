@@ -1,6 +1,7 @@
 {group:"UniＳサイズ",prefixID:"S",commonStat:{size:"S"},nextID:48}
 
 
+{id:67,name:"アーテ・メイドLG",cost:75,hp:25,str:2,wlk:3,tgh:1,sub:{pwr:25,rng:70,spd:85,itv:1000,str:100},type:"lcs",size:"S",comment:"-"}
 {id:59,name:"アームドビルダームLG",cost:45,hp:25,str:1,tec:1,wlk:3,fly:2,tgh:-1}
 
 {id:302,name:"アイシーLG",cost:45,hp:25,tec:2,wlk:3,fly:2,tgh:-1}
@@ -70,6 +71,9 @@
 
 
 {id:46,name:"テントリオンLG",cost:40,hp:20,str:2,tec:1,wlk:2,fly:-1,tgh:1}
+
+{id:202206042,name:"トイ・カーンLG",type:"acs",size:"S",cost:45,hp:25,str:-1,tec:2,wlk:3,fly:2}
+
 {id:58,name:"トノサマランダーLG",cost:45,hp:25,tec:-1,wlk:3,fly:2,tgh:1}
 {id:309,name:"トリスティンLG",type:"lacs",size:"S",cost:40,hp:20,tec:2,wlk:2,tgh:1}
 
@@ -182,6 +186,8 @@
 
 {id:1000,name:"アクシオンLG",cost:45,hp:25,str:1,tec:1,wlk:3,fly:2,tgh:-1}
 {id:38,name:"アクセルセイバーLG2",type:"l",size:"M",cost:205,hp:25,str:2,tec:-1,wlk:4,tgh:1,sub:{str:100,pwr:26,rng:94,spd:77,itv:2000},tunable:{pwp:1}}
+{id:73,name:"アサルトオックスM2LG",size:"M",cost:45,hp:25,str:-1,tec:2,wlk:2,fly:1,tgh:2}
+
 {id:36,name:"アマテウスLG",cost:45,hp:25,tec:2,wlk:2,tgh:2}
 {id:20220414,name:"アルヴィーテLG",size:"M",cost:45,hp:25,str:-1,tec:1,wlk:3,fly:1,tgh:2,comment:["アリーナコイン景品"]}
 
@@ -221,6 +227,8 @@
 {id:94,name:"ギャラクシーコマンドLG",cost:45,hp:25,str:-1,tec:1,wlk:3,fly:1,tgh:2}
 
 {id:70,name:"クアドラLG",size:"M",cost:45,hp:25,wlk:4,tgh:2}
+
+{id:119,name:"クリスホーンLG",sub:{tec:100,pwr:11,shl:180,rng:220,spd:400,itv:1000},type:"l",size:"M",cost:75,hp:25,str:-1,tec:2,wlk:2,tgh:2}
 {id:17,name:"クリムローゼαLG",type:"a",cost:85,hp:50,str:1,tec:2,wlk:3,fly:3,tgh:1,builtin:{bs:1},comment:"BS内蔵"}
 
 {id:22,name:"クレストセイントLG",cost:45,hp:30,wlk:3,fly:1,tgh:2}
@@ -292,6 +300,7 @@
 {id:10,name:"テツジンガーLG",cost:45,hp:25,str:1,wlk:3,fly:-1,tgh:2}
 {id:202204171,name:"テンポールLG",size:"M",cost:45,hp:25,str:1,tec:1,wlk:4,fly:-1,tgh:1,comment:["ロボガラポン"]}
 
+
 {id:61,name:"トニトルスLG",sub:{shl:60,rng:100,spd:120,itv:1000},tunable:{pwp:0},auraStat:{sub:{shl:60,rng:100,spd:120,itv:1000}},type:"a",cost:75,hp:25,wlk:2,fly:2,tgh:2,comment:"※変形はAURAで対応"}
 
 {id:132,name:"ドライブリッツLG",size:"M",type:"c",cost:45,hp:25,tec:2,wlk:3,fly:2,tgh:-1}
@@ -300,7 +309,7 @@
 {id:11020,name:"ナイトギアRF LG",type:"a",size:"M",cost:45,hp:25,str:2,wlk:2,fly:1,tgh:1}
 
 {id:11021,name:"ナイトギアPF LG",main:{tec:100,pwr:10,shl:660,rng:275,spd:270,itv:300},sub:{tec:100,pwr:28,shl:30,rng:120,spd:220,itv:500},tunable:{mwp:0,pwp:0},type:"a",size:"M",cost:195,hp:25,str:-1,tec:1,wlk:3,fly:2,tgh:1,comment:["ブラストマニューバーFScost150複合","武器チューン不可"]}
-
+{id:20220604,name:"ナイトフィアーLG",size:"M",cost:45,hp:25,str:3,wlk:2,fly:-1,tgh:2}
 
 {id:3951103,name:"ハードボンバーLG",cost:45,hp:25,str:-1,tec:1,wlk:3,fly:1,tgh:2}
 {id:2022114,name:"パーポLG",cost:45,hp:25,str:-1,tec:2,wlk:3,tgh:2}
@@ -557,7 +566,7 @@
 
 
 {id:25,name:"ボイルデックLG",cost:45,hp:25,str:2,wlk:3,fly:1}
-
+{id:44,name:"ポセダインLG",sub:{pwr:0,shl:60,rng:0,spd:150,itv:1000},type:"a",size:"L",cost:75,hp:60,tec:1,wlk:3,fly:2}
 
 {id:19,name:"マイティバインLG",type:"l",cost:90,hp:65,str:1,wlk:3,fly:-1,tgh:3}
 
@@ -599,6 +608,8 @@
 
 
 {id:9,name:"イルグリプスLG",builtin:{bs:1},joint:{bs:1},type:"a",cost:45,hp:50,str:-1,tec:2,wlk:2,fly:2,tgh:1}
+
+{id:202206041,name:"エスカゴッデスLG",cost:45,hp:70,wlk:3,fly:2,tgh:1,size:"LL",builtin:{bs:1},comment:"BS機能？"}
 {id:6,name:"ガデロガLG",joint:{bs:1},cost:45,hp:65,str:-1,tec:-1,wlk:4,fly:1,tgh:3}
 {id:11,name:"ガデロガLG2",joint:{bs:1},cost:55,hp:65,tec:1,wlk:4,fly:-1,tgh:2,sub:{tec:100,pwr:24,rng:100,spd:150,itv:2000},tunable:{pwp:1},type:"c",comment:"-"}
 {id:15,name:"サイクロテスLG2",sub:{str:100,pwr:30,rng:100,spd:250,itv:3000},tunable:{pwp:1},type:"l",size:"LL",cost:160,hp:75,str:2,wlk:2,fly:-1,tgh:3}
