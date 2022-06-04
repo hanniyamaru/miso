@@ -49,6 +49,7 @@
 
 {group:"UniＳサイズ",prefixID:"S",commonStat:{size:"S"},nextID:42}
 
+{id:69,name:"アーテ・メイドBS",type:"s",cost:35,hp:20,tec:1,wlk:1,fly:3}
 {id:37,name:"アームドビルダームBS2",type:"c",cost:65,hp:20,tec:2,wlk:-1,fly:2,tgh:2,main:{pwr:10,shl:450,rng:330,spd:190,itv:820},tunable:{mwp:1}}
 
 {id:510,name:"アイシーBS",type:"c",cost:40,hp:25,tec:1,wlk:1,fly:3}
@@ -136,6 +137,8 @@
 {id:40,name:"テントリオンBS",size:"S",cost:35,hp:20,tec:1,wlk:-1,fly:3,tgh:2}
 
 {id:81,name:"デストラクトガールBS",type:"c",cost:40,hp:20,fly:2,tgh:3}
+
+{id:202206042,name:"トイ・カーンBS",type:"c",size:"S",cost:35,hp:20,tec:2,fly:2,tgh:1}
 {id:57,name:"トノサマランダーBS",type:"l",cost:40,hp:25,wlk:1,fly:3,tgh:1}
 {id:169,name:"トリスティンBS",type:"c",size:"S",cost:30,hp:15,tec:1,fly:2,tgh:1}
 
@@ -181,6 +184,8 @@
 {id:30,name:"ブリックゲイルBS2",type:"a",cost:60,hp:25,wlk:1,fly:4,sub:{shl:50,rng:0,spd:150,itv:1000},comment:"RED"}
 {id:52,name:"ブリックゲイルBS3",type:"a",cost:60,hp:25,str:-1,tec:2,fly:3,tgh:1,sub:{shl:50,rng:0,spd:150,itv:1000},comment:"BLACK"}
 
+
+{id:92,name:"ブリックゲイルBS5",cost:60,hp:25,str:1,tec:-1,wlk:1,fly:3,tgh:1,sub:{shl:50,rng:0,spd:150,itv:1000},type:"a",comment:"TOPAZ"}
 
 
 {id:140,name:"ブルーメBS",type:"s",size:"S",cost:40,hp:25,tec:1,wlk:1,fly:3}
@@ -229,6 +234,7 @@
 
 
 {id:145,name:"レイミナスBS",main:{pwr:13,shl:540,rng:350,spd:480,itv:700},type:"c",cost:165,hp:20,str:-1,tec:2,fly:3,tgh:1,comment:["BS@省略・武器チューン不可"]}
+
 {id:53,name:"レジナ・ウィンベルαBS",type:"s",cost:30,hp:15,str:1,fly:2,tgh:1}
 {id:54,name:"レジナ・ウィンベルαBS2",cost:30,hp:15,wlk:1,fly:3}
 {id:513,name:"レプシロンBS",main:{tec:100,pwr:12,shl:580,rng:275,spd:320,itv:900},tunable:{mwp:1},cost:135,hp:20,tec:2,fly:4,tgh:-1,type:"a",size:"S"}
@@ -277,6 +283,7 @@
 {id:1000,name:"アクシオンBS",type:"l",cost:45,hp:25,tec:2,wlk:1,fly:3,tgh:-1}
 {id:38,name:"アクセルセイバーBS",type:"l",size:"M",cost:35,hp:20,wlk:2,fly:3}
 
+{id:84,name:"アサルトオックスM2BS",type:"l",size:"M",cost:35,hp:20,str:2,tec:-1,fly:2,tgh:1}
 {id:40,name:"アドネBS",size:"M",cost:35,hp:20,tec:1,wlk:1,fly:3}
 
 {id:56,name:"アハトジーベンBS",type:"c",cost:40,hp:25,str:2,tec:1,wlk:1,fly:2,tgh:-1}
@@ -322,6 +329,7 @@
 {id:78,name:"クアドラBS",type:"c",size:"M",cost:35,hp:20,tec:1,wlk:1,fly:2,tgh:1}
 {id:109113,name:"グリストBS2",sub:{pwr:15,shl:300,rng:275,spd:350,itv:1000},type:"a",cost:135,hp:20,str:-1,tec:1,wlk:1,fly:3,tgh:1}
 
+{id:174,name:"クリスホーンBS",type:"l",size:"M",cost:30,hp:15,tec:1,fly:2,tgh:1}
 
 {id:19,name:"クレストセイントBS",type:"a",cost:40,hp:25,str:-1,tec:1,fly:3,tgh:2}
 {id:51,name:"ゲンブラBS",type:"c",cost:40,hp:25,str:1,tec:1,wlk:-1,fly:2,tgh:2}
@@ -392,6 +400,10 @@
 {id:202204171,name:"テンポールBS",type:"c",size:"M",cost:35,hp:20,str:-1,tec:1,fly:3,tgh:2,comment:["ロボガラポン"]}
 
 {id:221,name:"ドライブリッツBS",type:"c",cost:105,hp:20,str:-1,tec:2,wlk:2,fly:2,sub:{tec:100,pwr:10,shl:300,rng:350,spd:320,itv:1000}}
+
+
+{id:20220604,name:"ナイトフィアーBS",size:"M",type:"l",cost:40,hp:25,str:1,wlk:1,fly:2,tgh:1}
+
 {id:11202,name:"ノヴァディカロスBS",sub:{shl:20,spd:150,itv:1000},type:"a",size:"M",cost:55,hp:20,wlk:-1,fly:4,tgh:2}
 {id:2022114,name:"パーポBS",type:"s",cost:135,hp:20,wlk:1,fly:3,tgh:1,sub:{str:100,pwr:0,shl:20,rng:0,spd:0,itv:13000},comment:["回復量81","回復可能数3人"]}
 {id:202204142,name:"バイオロンBS",type:"s",size:"M",cost:35,hp:20,str:-1,tec:2,fly:3,tgh:1,comment:["アリーナコイン景品"]}
@@ -475,6 +487,9 @@
 
 {id:103,name:"ルペットBS",type:"l",cost:40,hp:20,str:-1,tec:1,wlk:1,fly:3,tgh:1}
 {id:33,name:"レイスタッグBS",type:"a",cost:40,hp:25,str:2,tec:2,wlk:-1,fly:3,tgh:-1}
+{id:176,name:"レイミナスBS2",main:{pwr:30,shl:150,rng:300,spd:400,itv:1000},tunable:{mwp:1},type:"c",size:"M",cost:135,hp:20,str:-1,tec:3,fly:2,tgh:1}
+
+
 {id:202205242,name:"ロイヤルビーゾルBS",type:"a",size:"M",cost:65,hp:20,tec:1,wlk:1,fly:4,tgh:-1,sub:{shl:60,rng:0,spd:0,itv:1000},comment:"-"}
 
 {id:141,name:"ロビンハンターBS",sub:{pwr:10,shl:20,rng:100,spd:340,itv:1000},cost:50,hp:20,str:-1,tec:2,wlk:1,fly:3,size:"M",type:"l"}
@@ -622,7 +637,7 @@
 
 
 {id:19,name:"ボイルデックBS",type:"c",cost:40,hp:25,tec:1,fly:2,tgh:2}
-
+{id:35,name:"ポセダインBS",type:"a",size:"L",cost:35,hp:20,str:1,tec:-1,wlk:1,fly:3,tgh:1}
 {id:6,name:"マイティバインBS",type:"l",cost:40,hp:25,str:1,tec:-1,fly:3,tgh:2}
 {id:49,name:"マシンドレットBS",type:"l",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:2,tgh:2}
 
