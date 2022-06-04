@@ -227,6 +227,8 @@
 {id:9,name:"アクセルセイバーBD2",cost:485,capa:870,hp:230,str:7,tec:8,wlk:15,fly:6,tgh:9,wbid:5,cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|25@25|26@20|16@20|13@30|32@50|31@40"},joint:{hd:2},size:"M"}
 
 {id:54,name:"アクシオンBD",cost:520,capa:945,hp:270,str:7,tec:12,wlk:13,fly:10,tgh:9,sub:{shl:[60],rng:[100],spd:[150],itv:500},wbid:0,cartridge:{hpup:10,lv1:"75*6@20|7@20|9@20|10@15|17@15|18@15|20@15||23@25|22@30|21@20",lv6:"26@20|13@30",lv9:"50@30|32@50|31@40"}}
+{id:21,name:"アサルトオックスM2BD",joint:{hd:0,hdac:2,fcac:1},cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|16@20|26@20|14@20|13@30|32@50|31@40"},fixedParts:{hdac:["S1"]},type:"l",size:"M",cost:480,capa:870,hp:275,str:9,tec:9,wlk:15,fly:7,tgh:13}
+
 {id:99,name:"アストライザーBD",cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|16@20|21@20|13@30|34@15|32@50|31@40"},fixedParts:{wp:["W1"],hd:{name:"アストライザーHD",cost:40,hp:25,str:1,tec:2,wlk:1,fly:1},lg:{name:"アストライザーLG",sub:{pwr:40,rng:120,spd:85,itv:1000,str:100},cost:45,hp:25,str:2,wlk:2,tgh:2,tunable:{pwp:0}},am:[{name:"アストライザーAM",main:{str:100,pwr:8,shl:200,rng:200,spd:570,itv:500},tunable:{mwp:1},cost:40,hp:25,wlk:1,fly:2,tgh:2,joint:{wp:1}},{name:"アストライザーAM2",main:{pwr:0,shl:50,rng:0,spd:10,itv:1000,tec:100},sub:{pwr:32,rng:90,spd:110,itv:500,str:100},tunable:{mwp:1,pwp:1},cost:40,hp:25,wlk:1,fly:2,tgh:2,joint:{wp:2},comment:"ライザーブレスのみ装備可能"}]},cost:485,capa:920,hp:275,str:20,tec:4,wlk:13,fly:6,tgh:10,joint:{wp:1},wbid:6,builtin:{bs:1},comment:"MODE CHANGE省略"}
 {id:33,name:"アビス・ジークンフーBD",sub:{str:100,pwr:30,shl:0,rng:150,spd:250,itv:1000},cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|16@20|15@15|13@30|34@15|32@50|31@40"},fixedParts:{wp:["W1","W1","W1"],hd:{name:"アビス・ジークンフーHD",cost:40,hp:25,wlk:1,fly:2,tgh:2},lg:{name:"アビス・ジークンフーLG",cost:45,hp:25,str:2,wlk:3,tgh:1},am:[{name:"アビス・ジークンフーAM2",main:{str:100,pwr:15,shl:30,rng:200,spd:570,itv:1000},tunable:{mwp:1},cost:70,hp:25,str:1,wlk:2,tgh:2,joint:{wp:0}},{name:"アビス・ジークンフーAM",main:{pwr:0,shl:50,rng:0,spd:10,itv:1000,tec:100},sub:{pwr:30,rng:75,spd:150,itv:500,str:100},tunable:{mwp:1,pwp:1},cost:170,hp:25,str:3,wlk:1,tgh:1,joint:{wp:0}}]},cost:495,capa:920,hp:255,str:15,tec:4,wlk:15,fly:5,tgh:9,joint:{wp:3},wbid:6,builtin:{bs:1},comment:"MODE CHANGE省略"}
 {id:23,name:"ヴィシュラBD",main:{shl:[0],itv:500},joint:{am:1,hdac:1},cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|16@20|29@15|21@20|13@30|32@50|31@40"},fixedParts:{hdac:["S1"],am:{name:"ヴィシュラAM",joint:{wp:2},fixedParts:{wp:[{name:"宝塔影縫い",sub:{str:100,pwr:32,rng:70,spd:85,itv:500},tunable:{pwp:1},cost:130},{name:"宝塔煉獄",sub:{str:100,pwr:30,shl:0,rng:120,spd:300,itv:1000},tunable:{pwp:0},cost:50}]},cost:80,hp:50,str:6,tec:-2,wlk:3,tgh:3}},cost:445,capa:870,hp:255,str:12,tec:3,wlk:16,fly:10,tgh:7,wbid:6}
@@ -240,7 +242,7 @@
 
 {id:543,name:"ガンドリルBD",cartridge:{hpup:18,lv1:"85*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|16@20|25@25|12@20|29@15|13@30|32@50|31@40"},main:{str:100,pwr:[7],shl:500,rng:225,spd:280,itv:200},joint:{wp:4,am:0},fixedParts:{wp:["W1","W1","W1","W1"]},type:"l",size:"M",cost:545,capa:800,hp:285,str:17,tec:3,wlk:14,fly:6,tgh:15}
 
-
+{id:50,name:"クリスホーンBD",cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|28@30|23@30|26@20|21@20|13@30|32@50|31@40"},auraSystem:1,type:"l",size:"M",cost:445,hp:255,capa:870,str:5,tec:12,wlk:14,fly:8,tgh:9,wbid:73}
 
 
 {id:39,name:"ゴートランBD",cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|16@20|25@25|15@15|29@15|13@30|32@50|31@40"},type:"l",size:"M",cost:445,capa:870,hp:255,str:13,tec:10,wlk:12,fly:7,tgh:6}
@@ -264,7 +266,7 @@
 
 {id:3,name:"テツジンガーBD",cost:365,capa:730,hp:230,str:11,tec:4,wlk:10,fly:7,tgh:10,wbid:2,cartridge:{hpup:22,lv1:"5*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|16@20|22@30|15@15|29@20|13@30|32@50|31@40"}}
 
-
+{id:20220604,name:"ナイトフィアーBD",type:"l",size:"M",cost:445,capa:870,hp:255,str:10,tec:8,wlk:12,fly:7,tgh:11,cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|16@20|14@20|25@25|30@20|13@30|32@50|31@40"}}
 
 
 
