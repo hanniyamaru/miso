@@ -2,8 +2,8 @@
 
 {id:24,name:"タラントリックAM",cost:35,hp:20,str:1,tec:1,wlk:2,tgh:1}
 
-{id:202206044,name:"アーテ・メイドLAM",cost:105,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,main:{pwr:14,shl:480,rng:275,spd:400,itv:220},tunable:{mwp:1},joint:{wp:0},comment:"ビーム属性"}
-{id:88,name:"アーテ・メイドRAM",cost:105,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,main:{pwr:18,shl:480,rng:275,spd:400,itv:400},tunable:{mwp:1},joint:{wp:0},comment:"実弾属性"}
+{id:202206044,name:"アーテ・メイドAML",cost:105,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,main:{pwr:14,shl:480,rng:275,spd:400,itv:220},tunable:{mwp:1},joint:{wp:0},comment:"ビーム属性"}
+{id:88,name:"アーテ・メイドAMR",cost:105,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,main:{pwr:18,shl:480,rng:275,spd:400,itv:400},tunable:{mwp:1},joint:{wp:0},comment:"実弾属性"}
 
 {id:60,name:"アームドビルダームAM2",type:"c",cost:115,hp:20,str:-1,tec:3,wlk:1,fly:2,sub:{tec:100,pwr:14,shl:270,rng:330,spd:380,itv:1000}}
 {id:302,name:"アイシーAM",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1}
