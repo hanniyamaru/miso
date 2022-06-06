@@ -164,7 +164,7 @@
 
 {id:202203021,name:"ピエッタBS",tunable:{mwp:0,pwp:0},type:"a",size:"S",cost:95,hp:20,str:-1,tec:2,fly:3,tgh:1,main:{tec:100,pwr:5,shl:1120,rng:275,spd:280,itv:1300},comment:["BS@省略","武器チューン不可"]}
 {id:28,name:"ビックガジェットBS2",type:"s",cost:75,hp:20,str:-1,tec:2,fly:3,tgh:1,main:{pwr:4,shl:1160,rng:275,spd:280,itv:300},tunable:{mwp:1}}
-{id:148,name:"ピナ･ルベリーBS",type:"l",size:"S",cost:35,hp:20,str:1,fly:2,tgh:2}
+{id:148,name:"ピナ・ルベリーBS",type:"l",size:"S",cost:35,hp:20,str:1,fly:2,tgh:2}
 
 
 
