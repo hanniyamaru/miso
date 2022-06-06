@@ -228,7 +228,7 @@
 
 {id:70,name:"クアドラLG",size:"M",cost:45,hp:25,wlk:4,tgh:2}
 
-{id:119,name:"クリスホーンLG",sub:{tec:100,pwr:11,shl:180,rng:220,spd:400,itv:1000},type:"l",size:"M",cost:75,hp:25,str:-1,tec:2,wlk:2,tgh:2}
+{id:119,name:"クリスホーンLG",sub:{tec:100,pwr:11,shl:180,rng:220,spd:400,itv:1000},type:"l",size:"M",cost:75,hp:25,str:-1,tec:2,wlk:3,tgh:2}
 {id:17,name:"クリムローゼαLG",type:"a",cost:85,hp:50,str:1,tec:2,wlk:3,fly:3,tgh:1,builtin:{bs:1},comment:"BS内蔵"}
 
 {id:22,name:"クレストセイントLG",cost:45,hp:30,wlk:3,fly:1,tgh:2}
