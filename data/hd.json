@@ -277,7 +277,6 @@
 {id:406,name:"ジェネシオンHD",cost:35,hp:20,str:1,tec:1,wlk:-1,fly:3,tgh:1}
 {id:271,name:"ジェネラルドHD",cost:35,hp:20,str:1,tec:1,wlk:2,fly:1}
 
-
 {id:60,name:"ジオグラシスHD",cost:40,hp:25,str:2,tec:1,fly:1,tgh:1}
 {id:93,name:"ジオグラシスHD2",cost:40,hp:25,str:2,tec:1,wlk:2,fly:1,tgh:-1}
 
@@ -286,6 +285,9 @@
 
 {id:167,name:"シノーリスHD",cost:35,hp:20,str:1,tec:2,wlk:2,fly:1,tgh:-1}
 {id:274,name:"シノーリスHD2",main:{tec:100,pwr:10,shl:320,rng:330,spd:440,itv:500},tunable:{mwp:1},cost:75,hp:20,tec:1,wlk:1,fly:1,tgh:2,size:"M",type:"lc"}
+
+{id:92,name:"シャーヘッドHD",cost:35,hp:20,str:1,tec:-1,wlk:2,fly:1,tgh:2}
+
 {id:11019,name:"ジャックオーHD",type:"lacs",size:"M",cost:40,hp:25,str:2,tec:2,tgh:1}
 
 {id:309,name:"シャドウキネシスHD",cost:40,hp:25,tec:3,wlk:1,fly:1}
@@ -568,6 +570,7 @@
 {id:58,name:"ロブガイズHD",cost:35,hp:20,str:1,wlk:1,fly:1,tgh:2,size:"M"}
 
 
+{id:20220619,name:"ワイルドフィザリバンHD",main:{pwr:19,shl:510,rng:225,spd:440,itv:340},tunable:{mwp:1},type:"l",cost:135,hp:20,str:-1,tec:3,wlk:2,fly:1}
 {id:328,name:"ワニガメンティスHD",type:"lacs",size:"M",cost:40,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
 
 {id:323,name:"A・ミラルHD",type:"l",size:"M",cost:115,hp:20,tec:3,wlk:2,fly:-1,tgh:1,main:{tec:100,pwr:3,shl:1200,rng:250,spd:440,itv:200},tunable:{mwp:1}}
