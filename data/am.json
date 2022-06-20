@@ -589,7 +589,7 @@
 {id:119,name:"スチールバーンAM2",sub:{pwr:16,shl:140,rng:320,spd:230,itv:1000},type:"a",cost:80,hp:25,str:2,tec:2,wlk:-1,fly:1,tgh:1,comment:"未更新"}
 {id:139,name:"スチールバーンAM3",main:{pwr:9,shl:540,rng:275,spd:350,itv:300},tunable:{mwp:1},type:"a",size:"L",cost:120,hp:25,str:-1,tec:3,fly:1,tgh:2}
 {id:9,name:"スチールライダーAM",cost:35,hp:20,str:2,tec:1,wlk:1,tgh:1}
-{id:531,name:"スチールライダーAM2",type:"l",cost:135,hp:20,str:-1,tec:3,wlk:1,tgh:2,main:{tec:100,pwr:5,shl:1400,rng:225,spd:400,itv:180},tunable:{mwp:1}}
+{id:531,name:"スチールライダーAM2",type:"l",cost:135,hp:20,str:-1,tec:3,wlk:1,tgh:2,main:{tec:100,pwr:5,shl:1400,rng:225,spd:400,itv:180},tunable:{mwp:1},joint:{wp:0}}
 
 {id:75,name:"ゼロブレイカーAM",cost:35,hp:20,str:3,tec:-1,wlk:1,tgh:2}
 {id:76,name:"ゼロブレイカーAM2",main:{tec:100,pwr:27,shl:220,rng:275,spd:480,itv:400},type:"lc",tunable:{mwp:1,pwp:0},cost:155,hp:20,str:-1,tec:3,wlk:1,tgh:2}
