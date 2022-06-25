@@ -355,6 +355,10 @@
 {id:502,name:"パワーアロー",main:{pwr:28,shl:230,rng:225,spd:480,itv:700},type:"l",size:"M",cost:30,comment:"ロビンハンターAM専用コンバージョンパーツ",slot:0}
 {id:96,name:"ビームクリスタル",main:{pwr:11,shl:500,rng:275,spd:440,itv:700},tunable:{mwp:1},type:"a",size:"S",cost:70,comment:"フラクタリスガール専用コンバージョンパーツ"}
 
+{id:20220623,name:"プチもふもふケープ",main:{str:100,pwr:10,shl:30,rng:150,spd:400,itv:1000},cost:40,type:"s",size:"SS",comment:"ましろ専用コンバージョンパーツ",slot:3}
+
+
+
 {id:2022041812,name:"フラッシュボマーAM@",main:{tec:100,pwr:11,shl:570,rng:350,spd:480,itv:340},tunable:{mwp:0},type:"c",size:"L",cost:60,comment:"フラッシュボマーAM専用コンバージョンパーツ",tunable:{mwp:0},slot:0}
 
 {id:2022041813,name:"フラッシュボマーAM@2",main:{tec:100,pwr:13,shl:390,rng:350,spd:290,itv:440},tunable:{mwp:0},type:"c",size:"L",cost:60,comment:"フラッシュボマーAM専用コンバージョンパーツ",tunable:{mwp:0},slot:0}
@@ -390,7 +394,7 @@
 
 
 {id:109,name:"リーゼ・ガトリング",main:{pwr:4,shl:1600,rng:350,spd:480,itv:200},cost:45,slot:0,type:"c",size:"S",comment:"リーゼル・ツヴァイク BD専用コンバージョンパーツ"}
-{id:20220522,name:"ラッシュガントレット",size:"M",type:"a",cost:80,comment:["ヘル・ヴィクトル専用コンバージョンパーツ","左右の表記省略"]}
+{id:20220522,name:"ラッシュガントレット",size:"M",type:"a",cost:80,tunable:{mwp:0,pwp:0},comment:["ヘル・ヴィクトル専用コンバージョンパーツ","左右の表記省略"]}
 {id:83,name:"ロギナス",main:{pwr:32,shl:280,rng:330,spd:440,itv:700},tunable:{mwp:1},type:"c",size:"S",cost:100,comment:"クロエAM専用コンバージョンパーツ"}
 
 
