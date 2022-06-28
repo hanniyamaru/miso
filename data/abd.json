@@ -186,8 +186,7 @@
 {id:8,name:"ソルジェッターBD",cost:405,capa:800,hp:245,str:8,tec:8,wlk:7,fly:15,tgh:7,cartridge:{hpup:18,lv1:"85*6@20|7@30|9@15|8@20|19@15|21@20|23@25|22@30|52@20|28@30|26@20|15@20|13@30|32@50|31@40"}}
 {id:42,name:"ソルフロストBD",main:{tec:100,pwr:1,shl:[90],rng:30,spd:[400],itv:[1000]},cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|18@30|19@15|52@20|21@20|23@25|26@20|22@30|15@20|13@30|32@50|31@40"},type:"a",size:"M",cost:475,capa:870,hp:255,str:6,tec:12,wlk:6,fly:13,tgh:11,wbid:1,comment:["-"]}
 
-{id:24,name:"トニトルスBD",comment:"変形はAURAで対応",main:{pwr:[5,6,7],shl:[600],rng:275,spd:350,itv:220},builtin:{bs:1},joint:{bs:0},cartridge:{hpup:14,lv1:"4*6@20|61*2@30|7@30|9@15|8@20|19@15|23@25|22@30|30@20|21@20|26@20|13@30|32@50|31@40"},cost:535,capa:870,hp:275,str:4,tec:14,wlk:6,fly:19,tgh:10,wbid:1,auraSystem:1}
-
+{id:24,name:"トニトルスBD",comment:"変形はAURAで対応",main:{pwr:[5,6,7],shl:[600],rng:275,spd:350,itv:220},auraStat:{main:{itv:500}},builtin:{bs:1},joint:{bs:0},cartridge:{hpup:14,lv1:"4*5@20|61*2@30|7@30|9@15|8@20|19@15|23@25|22@30|30@20|21@20|26@20|13@30|32@50|31@40"},cost:535,capa:870,hp:275,str:4,tec:14,wlk:6,fly:19,tgh:10,wbid:1,auraSystem:1}
 {id:521020,name:"ナイトギアRF BD",sub:{str:100,pwr:0,shl:40,rng:60,spd:150,itv:500},cartridge:{hpup:10,lv1:"75*6@20|7@30|9@15|8@20|52@20|19@15|23@25|22@30|21@20|30@20|26@20|25@25|13@30|32@50|31@40"},type:"a",size:"M",builtin:{bs:1},cost:510,capa:945,hp:270,str:4,tec:13,wlk:6,fly:18,tgh:10}
 
 {id:521021,name:"ナイトギアPF BD",sub:{str:100,pwr:0,shl:60,rng:60,spd:150,itv:500},cartridge:{hpup:10,lv1:"75*6@20|7@30|9@15|8@20|52@20|19@15|23@25|22@30|21@20|30@20|26@20|15@20|13@30|32@50|31@40"},type:"a",size:"M",builtin:{bs:1},cost:520,capa:945,hp:270,str:4,tec:14,wlk:6,fly:16,tgh:11}
