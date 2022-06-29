@@ -22,7 +22,7 @@
 {id:13,name:"インクリーズドラムガン",type:"l",size:"M",cost:130,main:{pwr:12,shl:530,rng:225,spd:400,itv:240}}
 {id:14,name:"モーターガン",type:"l",size:"M",cost:180,main:{pwr:11,shl:760,rng:225,spd:440,itv:140}}
 {id:15,name:"ブーストガン",type:"l",size:"M",cost:160,main:{pwr:13,shl:560,rng:250,spd:570,itv:200}}
-{id:67,name:"エスティスマグ",main:{pwr:23,shl:380,rng:225,spd:440,itv:500},size:"M",type:"l",cost:180}
+{id:67,name:"エスティスマグ",main:{pwr:29,shl:380,rng:225,spd:440,itv:500},size:"M",type:"l",cost:180}
 {id:66,name:"ピアースガン",main:{pwr:19,shl:640,rng:250,spd:400,itv:340},type:"l",cost:120,size:"M"}
 {id:23,name:"LLバルクマグ",type:"l",size:"LL",cost:200,main:{pwr:32,shl:440,rng:225,spd:440,itv:500}}
 {id:57,name:"LLバルクアクセル",main:{pwr:29,shl:360,rng:250,spd:570,itv:500,tec:100},size:"LL",type:"l",cost:180}
