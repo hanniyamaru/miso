@@ -17,7 +17,7 @@
 {id:15,name:"クリスタライトシールド",size:"S",cost:35}
 {id:2108,name:"ナイトシールド",type:"l",size:"S",cost:50,main:{str:100,pwr:12,shl:150,rng:200,spd:480,itv:300},tunable:{mwp:1},comment:"STR依存"}
 {id:17,name:"ブリッツシールド",main:{spd:10,itv:1000,shl:50},sub:{pwr:27,rng:70,spd:85,itv:1000,str:100},type:"l",size:"S",cost:70,tunable:{mwp:1,pwp:1},comment:"B・ポーンジャーAr初期装備"}
-
+{id:202206030,name:"ユニオンシールド各種",main:{str:100,pwr:0,shl:50,rng:0,spd:10,itv:1000},tunable:{mwp:1,pwp:0},type:"lac",size:"M",cost:30,comment:["BRD:空戦のみ・ブースト回復効果","DOS:陸戦のみ・クリムゾンベール効果","WIZ:砲戦のみ"]}
 {group:"Uniソード系",prefixID:"SW",commonStat:{tunable:{pwp:1}},nextID:27}
 
 {id:1,name:"ショートソード",size:"M",cost:40,sub:{str:100,pwr:28,rng:77,spd:94,itv:500}}
