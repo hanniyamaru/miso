@@ -209,6 +209,7 @@
 {id:21,name:"ミッサイドBS",type:"c",cost:40,hp:25,tec:2,fly:3}
 
 {id:25,name:"ミスティホロウαBS",type:"l",cost:40,hp:25,str:1,wlk:2,fly:2}
+{id:83,name:"ミヅハBS",cost:30,hp:15,wlk:1,fly:2,tgh:1,type:"s",comment:"Season7アリーナコイン景品"}
 
 {id:87,name:"メカジェッターガールBS",type:"a",cost:40,hp:20,str:1,wlk:1,fly:2,tgh:1}
 
