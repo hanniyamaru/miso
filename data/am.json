@@ -271,7 +271,7 @@
 {id:4,name:"ガシマAM",type:"c",cost:115,hp:25,tec:2,fly:1,tgh:2,main:{pwr:11,shl:460,rng:350,spd:400,itv:600},tunable:{mwp:1},joint:{wp:0}}
 {id:5,name:"ガシマAM2",type:"c",cost:140,hp:25,tec:2,wlk:1,tgh:2,main:{pwr:20,shl:360,rng:330,spd:290,itv:900},tunable:{mwp:1},joint:{wp:0}}
 {id:6,name:"ガシマAM3",type:"c",size:"M",cost:105,hp:25,str:-1,tec:3,wlk:1,fly:1,tgh:1,main:{pwr:13,shl:1060,rng:330,spd:400,itv:1000},tunable:{mwp:1},joint:{wp:0},comment:"SHOTGUN"}
-{id:7,name:"ガシマAM4",type:"c",size:"M",cost:145,hp:25,tec:3,tgh:2,main:{pwr:36,shl:250,rng:350,spd:300,itv:1000},tunable:{mwp:1},joint:{wp:0},comment:"GRENADE"}
+{id:7,name:"ガシマAM4",type:"c",size:"M",cost:145,hp:25,tec:3,tgh:2,main:{pwr:32,shl:250,rng:350,spd:300,itv:1000},tunable:{mwp:1},joint:{wp:0},comment:"GRENADE"}
 
 
 
@@ -290,7 +290,7 @@
 {id:136,name:"ギャラクシーコマンドAM2",main:{pwr:19,shl:600,rng:300,spd:400,itv:300},comment:"ピアースガン",tunable:{mwp:1},auraStat:{main:{pwr:30,shl:300,rng:350,spd:440,itv:500},comment:"レールガン"},type:"c",cost:165,hp:20,str:-1,tec:4,wlk:1,tgh:1,fixedParts:{wp:{name:"ギャラクシーコマンドAM2@",main:{pwr:35,shl:220,rng:330,spd:400,itv:800},comment:"バズーカ",tunable:{mwp:1},auraStat:{main:{pwr:25,shl:240,rng:380,spd:220,itv:600},comment:"ミサイル"},cost:80}}}
 {id:1362,name:"ギャラクシーコマンドAM2（コンバージョンなし）",main:{pwr:19,shl:600,rng:300,spd:400,itv:300},joint:{wp:0},tunable:{mwp:1},auraStat:{main:{pwr:30,shl:300,rng:350,spd:440,itv:500}},type:"c",cost:165,hp:20,str:-1,tec:4,wlk:1,tgh:1}
 
-{id:101,name:"クアドラAM",main:{tec:100,pwr:25,shl:260,rng:330,spd:400,itv:600},tunable:{mwp:1},cost:75,hp:20,tec:2,wlk:1,fly:1,tgh:1,joint:{wp:0},type:"c",size:"M"}
+{id:101,name:"クアドラAM",main:{tec:100,pwr:21,shl:260,rng:330,spd:400,itv:700},tunable:{mwp:1},cost:75,hp:20,tec:2,wlk:1,fly:1,tgh:1,joint:{wp:0},type:"c",size:"M"}
 {id:170,name:"クリスホーンAM",fixedParts:{am:{name:"クリスホーンAM@",slot:0,type:"l",joint:{wp:0}}},auraStat:{main:{pwr:15,shl:600,rng:250,spd:350,itv:500}},type:"l",cost:125,hp:20,str:-1,tec:3,wlk:2,fly:1,comment:"AURA機構",joint:{am:1},main:{pwr:10,shl:600,rng:250,spd:320,itv:400},tunable:{mwp:1},size:"M"}
 {id:9,name:"クレストセイントAM",cost:40,hp:25,str:2,wlk:1,fly:2}
 
