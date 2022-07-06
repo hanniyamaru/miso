@@ -29,6 +29,8 @@
 {id:1004,name:"ライトフリード",type:"l",size:"M",cost:120,sub:{str:100,pwr:33,rng:77,spd:94,itv:500},tunable:{pwp:1}}
 {id:11,name:"バイロンブレード",type:"l",size:"M",cost:130,sub:{str:100,pwr:32,rng:77,spd:94,itv:1000},comment:"ヘビージャガーアーム初期装備"}
 
+{id:26,name:"オールエッジ",type:"l",size:"S",cost:140,sub:{str:100,pwr:32,rng:100,spd:200,itv:2000}}
+
 {id:22,name:"メタルスレイヤー",type:"l",size:"M",cost:120,sub:{str:100,pwr:32,rng:77,spd:94,itv:500}}
 {id:24,name:"ドゥームスレイヤー",type:"l",size:"L",cost:150,sub:{str:100,pwr:34,rng:84,spd:102,itv:500}}
 {id:29,name:"ライトニングエッジ",sub:{str:100,pwr:32,rng:70,spd:85,itv:500},auraStat:{sub:{pwr:34,rng:77,spd:93,itv:500}},type:"l",size:"M",cost:100}
@@ -47,6 +49,7 @@
 {id:44,name:"ブリッツカットラス",sub:{str:100,pwr:32,shl:30,rng:77,spd:94,itv:1000},type:"l",size:"M",cost:120,comment:"B・ポーンジャーAr初期装備"}
 
 {id:48,name:"アレシスソード",main:{str:100,pwr:20,shl:50,rng:200,spd:570,itv:500},sub:{str:100,pwr:33,rng:70,spd:85,itv:1000},tunable:{pwp:1,mwp:1},auraStat:{main:{str:100,pwr:20,shl:50,rng:200,spd:570,itv:500},sub:{str:100,pwr:35,rng:77,spd:94,itv:1000}},cost:150,size:"L",type:"l"}
+
 
 
 {id:16,name:"ビームブレード",type:"a",size:"M",cost:70,sub:{str:100,pwr:28,rng:70,spd:85,itv:500}}
