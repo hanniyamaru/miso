@@ -162,7 +162,7 @@
 
 {id:16,name:"インパクトナックル",size:"M",cost:100,type:"l",sub:{str:100,pwr:30,shl:0,rng:70,spd:30,itv:1000},tunable:{pwp:1},comment:["アリーナコイン景品"]}
 
-
+{id:29,name:"カグラオウギ",sub:{tec:100,pwr:30,shl:150,rng:300,spd:240,itv:1000},tunable:{mwp:0,pwp:0},size:"S",type:"s",cost:85,comment:["ミヅハ初期装備","Season7アリーナコイン景品"]}
 
 
 
