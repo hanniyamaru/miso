@@ -324,22 +324,21 @@
 {id:503,name:"アクアショット",main:{pwr:19,shl:340,rng:250,spd:400,itv:500},type:"l",size:"S",cost:70,comment:"イオンAM2専用コンバージョンパーツ",tunable:{mwp:1}}
 {id:119,name:"インパクトアロー",main:{pwr:22,shl:230,rng:225,spd:480,itv:600},type:"l",size:"M",cost:30,comment:"ロビンハンターAM専用コンバージョンパーツ",slot:0}
 
-{id:152,name:"オフダシューター",main:{pwr:10,shl:1050,rng:250,spd:400,itv:600},tunable:{mwp:1},type:"ls",size:"M",cost:70}
-{id:26,name:"オルクトヴァッフェ",main:{pwr:28,shl:[260],rng:455,spd:500,itv:800},type:"c",size:"S",comment:"リンカー･リンクス専用コンバージョンパーツ",slot:0,cost:150,joint:{wp:1},fixedParts:{wp:{name:"マグネESPサイト",sub:{itv:1000},type:"c",size:"S",slot:0}}}
 
 
 
 {id:67,name:"エアリーデ・ビットα",main:{pwr:[4,5,6],shl:[840],rng:275,spd:440,itv:900},size:"S",type:"a",slot:0,cost:70,comment:"ビットホルダー専用コンバージョンパーツ"}
 {id:68,name:"エアリーデ・ビットβ",main:{pwr:[6,7,8],shl:[920],rng:275,spd:400,itv:380},size:"S",type:"a",slot:0,cost:100,comment:"ビットホルダー専用コンバージョンパーツ"}
 
-{id:122,name:"エクスピアシオン",sub:{itv:500},joint:{wp:2},type:"a",size:"L",slot:0}
-{id:123,name:"エクスピアシオン@1",main:{tec:100,pwr:26,shl:270,rng:450,spd:500,itv:800},type:"a",size:"M",cost:120,slot:0}
-{id:124,name:"エクスピアシオン@2",main:{tec:100,pwr:40,shl:60,rng:450,spd:420,itv:500},type:"a",size:"M",cost:0,slot:0}
+{id:152,name:"オフダシューター",main:{pwr:10,shl:1050,rng:250,spd:400,itv:600},tunable:{mwp:1},type:"ls",size:"M",cost:70}
+{id:26,name:"オルクトヴァッフェ",main:{pwr:28,shl:[260],rng:455,spd:500,itv:800},type:"c",size:"S",comment:"リンカー･リンクス専用コンバージョンパーツ",slot:0,cost:150,joint:{wp:1},fixedParts:{wp:{name:"マグネESPサイト",sub:{itv:1000},type:"c",size:"S",slot:0}}}
+
+
 
 
 {id:148,name:"カイゼルゲヴィッター",main:{pwr:10,shl:390,rng:300,spd:480,itv:300},sub:{str:100,pwr:20,shl:0,rng:75,spd:200,itv:1000},tunable:{mwp:1,pwp:1},type:"c",size:"L",comment:"ヘルトカイゼルAM専用コンバージョンパーツ",cost:70}
 {id:97,name:"クリスタルウォール",main:{pwr:2,shl:1740,rng:275,spd:340,itv:200},tunable:{mwp:1},comment:["フラクタリスガール専用コンバージョンパーツ","変形省略"],type:"a",size:"M",cost:90}
-
+{id:138,name:"機巧刀･迦具土",main:{tec:100,pwr:11,shl:750,rng:350,spd:280,itv:1000},tunable:{mwp:1},type:"c",size:"M",cost:130,comment:"ホムラ・イサミネ専用コンバージョン"}
 {id:25,name:"スパイクシューター",main:{str:100,pwr:[5],shl:[700],rng:225,spd:400,itv:140},sub:{str:100,pwr:6,rng:250,spd:500,itv:1000},comment:"クルール・グラッド専用コンバージョンパーツ",type:"l",size:"S",cost:60,slot:3}
 
 
@@ -369,7 +368,6 @@
 {id:5011,name:"ブラディスターAM2@",main:{pwr:9,shl:420,rng:350,spd:440,itv:960},size:"M",type:"c",cost:30,slot:0}
 
 
-{id:121,name:"フレアテール",main:{tec:100,pwr:7,shl:660,rng:275,spd:300,itv:500},tunable:{mwp:1,pwp:0},type:"a",size:"M",cost:60,fixedParts:{wp:{name:"フレアテール@1",sub:{pwr:1,shl:60,rng:0,spd:200,itv:1000},tunable:{pwp:0,mwp:0},cost:50,type:"a",size:"M",slot:0}},joint:{wp:1}}
 
 
 {id:500,name:"ブレイブアクス",main:{str:100,pwr:20,shl:50,rng:200,spd:570,itv:500},type:"l",size:"M",cost:30,comment:"ソルブレンサーAMにのみ装着可能",slot:0}
@@ -421,6 +419,14 @@
 {id:202203022,name:"ガーディアンルーク",type:"a",size:"S",cost:60,main:{tec:100,pwr:10,shl:700,rng:275,spd:330,itv:300},slot:3,comment:["アンリエール専用コンバージョン"]}
 
 {id:202203023,name:"メガルークキャノン",type:"a",size:"S",cost:30,main:{tec:100,pwr:35,shl:100,rng:300,spd:440,itv:1000},slot:0,comment:["アンリエール専用コンバージョン"]}
+
+{group:"イスチナ・バレットコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
+
+{id:122,name:"エクスピアシオン",sub:{itv:500},joint:{wp:2},type:"a",size:"L",slot:0}
+{id:123,name:"エクスピアシオン@1",main:{tec:100,pwr:26,shl:270,rng:450,spd:500,itv:800},type:"a",size:"M",cost:120,slot:0}
+{id:124,name:"エクスピアシオン@2",main:{tec:100,pwr:40,shl:60,rng:450,spd:420,itv:500},type:"a",size:"M",cost:0,slot:0}
+{id:121,name:"フレアテール",main:{tec:100,pwr:7,shl:660,rng:275,spd:300,itv:500},tunable:{mwp:1,pwp:0},type:"a",size:"M",cost:60,fixedParts:{wp:{name:"フレアテール@1",sub:{pwr:1,shl:60,rng:0,spd:200,itv:1000},tunable:{pwp:0,mwp:0},cost:50,type:"a",size:"M",slot:0}},joint:{wp:1}}
+
 
 
 {group:"エレオノールコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
