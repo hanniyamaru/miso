@@ -236,7 +236,7 @@
 
 {id:49,name:"アマテウスAM",cost:40,hp:25,tec:1,wlk:2,tgh:2}
 {id:50,name:"アマテウスAM2",type:"c",cost:100,hp:25,tec:3,wlk:1,fly:1,main:{pwr:22,shl:190,rng:330,spd:290,itv:300},tunable:{mwp:1},joint:{wp:0}}
-{id:202207073,name:"アマテウスAM3",main:{tec:100,pwr:14,shl:500,rng:330,spd:280,itv:380},sub:{tec:100,pwr:27,shl:30,rng:100,spd:300,itv:1000},type:"a",size:"M",cost:165,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,tunable:{mwp:1,pwp:1},joint:{wp:0},comment:["アマテウス・ヒメ"]}
+{id:202207073,name:"アマテウスAM3",main:{tec:100,pwr:14,shl:500,rng:330,spd:280,itv:380},sub:{tec:100,pwr:27,shl:30,rng:100,spd:300,itv:1000},type:"c",size:"M",cost:165,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,tunable:{mwp:1,pwp:1},joint:{wp:0},comment:["アマテウス・ヒメ"]}
 
 
 {id:20220414,name:"アルヴィーテAM",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1,comment:["アリーナコイン景品"]}
