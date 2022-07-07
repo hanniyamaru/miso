@@ -410,8 +410,10 @@
 {id:1,name:"ラキアコフィン",type:"a",size:"S",slot:0,sub:{pwr:0,shl:0,rng:300,spd:0,itv:1000},comment:"アムリムLG専用コンバージョンパーツ"}
 
 {group:"アレイシア・アールコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
-{id:161,name:"リコチェットガトリング",main:{tec:100,pwr:5,shl:1500,rng:250,spd:400,itv:240},cost:60,comment:"アレイシア・アール専用コンバージョンパーツ"}
+
+{id:146,name:"アウトサイダーのキー",sub:{rng:10,spd:10,itv:500},cost:75,slot:0,comment:"アレイシア・アール専用コンバージョンパーツ"}
 {id:160,name:"ライノキャノン",main:{tec:100,pwr:46,shl:100,rng:150,spd:400,itv:1000},cost:110,comment:"アレイシア・アール専用コンバージョンパーツ"}
+{id:161,name:"リコチェットガトリング",main:{tec:100,pwr:5,shl:1500,rng:250,spd:400,itv:240},cost:60,comment:"アレイシア・アール専用コンバージョンパーツ"}
 
 
 {group:"アンリエールコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
@@ -433,6 +435,10 @@
 
 {id:202205221,name:"ガシマミサイル",main:{tec:100,pwr:13,shl:720,rng:330,spd:260,itv:300},tunable:{mwp:1},type:"c",size:"S",cost:100,comment:"ガシマガール専用コンバージョンパーツ"}
 
+{group:"キャロ・バレンタインコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
+{id:147,name:"グローリィのキー",sub:{rng:10,spd:10,itv:500},cost:115,slot:0,type:"l",size:"S",comment:"キャロ･バレンタイン専用コンバージョンパーツ"}
+{id:165,name:"ソニッククロー",main:{pwr:23,shl:50,rng:200,spd:570,itv:500,tec:100},tunable:{mwp:1},type:"l",size:"S",cost:30,comment:"キャロ･バレンタイン専用コンバージョンパーツ"}
+{id:148,name:"ホイールタックル",sub:{tec:100,pwr:34,rng:100,spd:150,itv:1000},tunable:{pwp:1,mwp:0},type:"l",size:"S",cost:100}
 
 {group:"コレッティコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:20222024,name:"フィン・マスケット",type:"c",size:"S",cost:60,main:{tec:100,pwr:24,shl:350,rng:350,spd:440,itv:600},comment:"コレッティAM専用コンバージョンパーツ"}
