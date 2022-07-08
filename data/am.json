@@ -463,7 +463,9 @@
 {id:25,name:"ミカドマックスAM",type:"l",cost:35,hp:20,str:3,tec:-1,wlk:1,tgh:2}
 {id:26,name:"ミッサイドAM",type:"c",cost:135,hp:20,tec:3,wlk:1,tgh:1,main:{pwr:19,shl:240,rng:330,spd:400,itv:800},tunable:{mwp:1}}
 {id:27,name:"メカジェッターAM",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1}
+{id:104,name:"メカジェッターOMGAM",cost:115,hp:20,str:-1,tec:2,fly:3,tgh:1,type:"a",tunable:{mwp:1},size:"M",main:{tec:100,pwr:20,shl:250,rng:275,spd:280,itv:800}}
 
+{id:20220708,name:"メカジェッターOMGAM2",cost:155,hp:20,str:-1,fly:2,tgh:1,type:"a",size:"M",tunable:{mwp:1},main:{tec:100,pwr:30,shl:300,rng:275,spd:480,itv:640},joint:{wp:0}}
 {id:145,name:"ユングヴィAM",size:"M",cost:35,hp:20,str:1,tec:2,wlk:-1,fly:2,tgh:1}
 {id:179,name:"ユングヴィAM2",main:{tec:100,pwr:14,shl:840,rng:250,spd:480,itv:240},tunable:{mwp:1},type:"a",size:"M",cost:145,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,comment:"-",joint:{wp:0}}
 
