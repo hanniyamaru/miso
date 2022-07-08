@@ -290,7 +290,7 @@
 
 {id:115,name:"ギャスターAM",cost:35,hp:20,str:2,wlk:2,fly:1}
 {id:191,name:"キャプテンXAM2",cost:155,hp:20,str:3,tec:-1,wlk:2,fly:1,sub:{pwr:31,rng:77,spd:94,itv:1000},tunable:{mwp:0,pwp:1},type:"l",size:"M",joint:{wp:0}}
-{id:192,name:"キャプテンXAM3",cost:85,hp:20,str:2,wlk:1,fly:1,tgh:1,type:"ls",size:"S",main:{str:100,pwr:20,shl:50,rng:150,spd:320,itv:1000},joint:{wp:0},comment:"キャプテンX・テソロ"}
+{id:192,name:"キャプテンXAM3",cost:85,hp:20,str:2,wlk:1,fly:1,tgh:1,type:"ls",size:"S",main:{str:100,pwr:20,shl:50,rng:150,spd:320,itv:1000},tunable:{mwp:1,pwp:0},joint:{wp:0},comment:"キャプテンX・テソロ"}
 
 {id:135,name:"ギャラクシーコマンドAM",cost:35,hp:20,str:1,tec:2,fly:-1,tgh:3}
 
