@@ -694,6 +694,9 @@
 {id:129,name:"ヘカトケレスAM",cost:115,hp:20,str:-1,tec:3,wlk:1,tgh:2,size:"L",type:"c",main:{tec:100,pwr:14,shl:360,rng:330,spd:370,itv:800},tunable:{mwp:1}}
 {id:140,name:"ヘカトケレスAM2",main:{tec:100,pwr:26,shl:210,rng:300,spd:320,itv:800},tunable:{mwp:1},type:"c",size:"L",cost:115,hp:20,str:-1,tec:4,fly:1,tgh:1,joint:{wp:0}}
 {id:62,name:"ベクターAM",cost:35,hp:20,str:1,tec:-1,wlk:2,fly:1,tgh:2}
+
+
+{id:47,name:"ヘリアンザスAM",cost:35,hp:20,str:2,tec:2,wlk:1}
 {id:210,name:"ペルセシウスAM",main:{str:100,pwr:15,shl:30,rng:250,spd:570,itv:500},tunable:{mwp:1},type:"a",size:"M",cost:55,hp:25,str:3,tec:-1,fly:2,tgh:1}
 {id:161,name:"ペルセシウスAM3",main:{tec:100,pwr:34,shl:200,rng:275,spd:440,itv:1000},tunable:{mwp:1},type:"a",size:"L",cost:175,hp:20,str:-1,tec:3,fly:2,tgh:1,joint:{wp:0}}
 
