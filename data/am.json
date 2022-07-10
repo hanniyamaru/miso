@@ -124,7 +124,7 @@
 {id:53,name:"ブリックゲイルAM2",type:"a",cost:140,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,main:{pwr:8,shl:560,rng:250,spd:480,itv:140},tunable:{mwp:1},comment:"BEAM MACHINEGUN"}
 {id:51,name:"ブリックゲイルAM3",size:"M",type:"a",cost:175,hp:20,str:-1,tec:3,fly:2,tgh:1,main:{pwr:22,shl:230,rng:275,spd:520,itv:600},sub:{tec:100,pwr:30,rng:70,spd:85,itv:1000},tunable:{mwp:1,pwp:1},joint:{wp:0},comment:"BEAM RIFLE"}
 {id:70,name:"ブリックゲイルAM4",type:"a",cost:95,hp:20,tec:2,fly:2,tgh:1,main:{pwr:15,shl:280,rng:275,spd:380,itv:700},tunable:{mwp:1},comment:"AG-MISSILE"}
-{id:51,name:"ブリックゲイルAM5",type:"a",cost:205,hp:20,str:-1,tec:3,fly:2,tgh:1,main:{tec:100,pwr:30,shl:180,rng:275,spd:300,itv:100},sub:{tec:100,pwr:16,shl:140,rng:275,spd:400,itv:1000},tunable:{mwp:1,pwp:0},joint:{wp:0},comment:"SPINEL"}
+{id:202207093,name:"ブリックゲイルAM5",type:"a",cost:205,hp:20,str:-1,tec:3,fly:2,tgh:1,main:{tec:100,pwr:30,shl:180,rng:275,spd:300,itv:100},sub:{tec:100,pwr:16,shl:140,rng:275,spd:400,itv:1000},tunable:{mwp:1,pwp:0},joint:{wp:0},comment:"SPINEL"}
 {id:20220710,name:"ブリックゲイルAM6",cost:35,hp:20,str:2,fly:2,tgh:1,comment:"SPINEL"}
 {id:202206045,name:"ブリックゲイルAM7",main:{str:100,pwr:9,shl:420,rng:250,spd:440,itv:800},sub:{str:100,pwr:32,shl:0,rng:70,spd:85,itv:1000},tunable:{mwp:1,pwp:1},joint:{wp:0},type:"a",cost:120,hp:20,str:3,tec:-1,fly:1,tgh:2,comment:"TOPAZ"}
 {id:158,name:"ブルーメAM",type:"lacs",size:"S",cost:35,hp:20,str:1,tec:2,wlk:2,fly:1,tgh:-1}
