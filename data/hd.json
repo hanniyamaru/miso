@@ -482,7 +482,7 @@
 {id:77,name:"ブリックゲイルHD",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:2,tgh:1,comment:"BLUE"}
 {id:78,name:"ブリックゲイルHD2",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:2,tgh:1,comment:"RED"}
 {id:126,name:"ブリックゲイルHD3",cost:40,hp:25,str:1,tec:-1,fly:3,tgh:2,comment:"BLACK"}
-{id:193,name:"ブリックゲイルHD4",cost:45,hp:30,tec:1,fly:2,tgh:1,comment:"SPINEL"}
+{id:193,name:"ブリックゲイルHD4",cost:30,hp:15,tec:1,fly:2,tgh:1,comment:"SPINEL"}
 {id:194,name:"ブリックゲイルHD5",size:"M",cost:30,hp:15,str:1,fly:2,tgh:1,comment:"TOPAZ"}
 
 
