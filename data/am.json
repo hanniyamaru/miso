@@ -529,8 +529,8 @@
 {id:108,name:"カタロスAM",type:"a",cost:40,hp:25,tec:3,fly:1,tgh:1,comment:"-"}
 {id:3,name:"ガナハウンドAM",type:"l",cost:135,hp:25,str:3,tec:-1,wlk:1,tgh:2,sub:{str:100,pwr:32,rng:70,spd:85,itv:500},tunable:{pwp:1}}
 {id:80,name:"ガルスチールAM",auraStat:{str:1,tec:1,wlk:2,fly:2,tgh:-1},cost:35,hp:20,str:1,tec:1,wlk:2,fly:2,tgh:-1}
-{id:81,name:"ガルスチールAM2",main:{tec:100,pwr:8,shl:720,rng:330,spd:480,itv:180},tunable:{mwp:1},auraStat:{main:{tec:100,pwr:9,shl:720,rng:330,spd:480,itv:160},str:-1,tec:2,wlk:2,fly:2},cost:165,hp:20,str:-1,tec:2,wlk:2,fly:2,type:"c",size:"L"}
-{id:20220710,name:"ガルスチールAM3",main:{pwr:17,shl:360,rng:330,spd:290,itv:600},tunable:{mwp:1},auraStat:{main:{pwr:22,shl:360,rng:330,spd:290,itv:600}},type:"c",cost:115,hp:20,str:-1,tec:3,wlk:2,fly:2,tgh:-1,comment:["AURA機構","ガルスチール・ハウル"]}
+{id:81,name:"ガルスチールAM2",main:{tec:100,pwr:10,shl:1200,rng:350,spd:520,itv:180},tunable:{mwp:1},joint:{wp:0},auraStat:{main:{tec:100,pwr:10,shl:1200,rng:350,spd:520,itv:160},str:-1,tec:2,wlk:2,fly:2},cost:165,hp:20,str:-1,tec:2,wlk:2,fly:2,type:"c",size:"L",comment:["AURA機構"]}
+{id:20220710,name:"ガルスチールAM3",main:{pwr:17,shl:360,rng:330,spd:290,itv:600},tunable:{mwp:1},joint:{wp:0},auraStat:{main:{pwr:22,shl:360,rng:330,spd:290,itv:600}},type:"c",cost:115,hp:20,str:-1,tec:3,wlk:2,fly:2,tgh:-1,comment:["AURA機構","ガルスチール・ハウル"]}
 
 {id:4,name:"ギガトンオーAM",cost:40,hp:25,str:2,tec:2,tgh:1}
 {id:94,name:"ギャスターAM2",main:{pwr:24,shl:240,rng:330,spd:270,itv:600},tunable:{mwp:1},type:"c",cost:135,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
