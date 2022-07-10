@@ -263,6 +263,8 @@
 {id:43,name:"シノーリスBD2",joint:{wp:1},fixedParts:{wp:{name:"シノーリスBD2@",main:{pwr:[9,10,11],shl:[480],rng:250,spd:320,itv:300},type:"l",size:"M",slot:0,cost:100}},type:"l",size:"M",cost:490,capa:980,hp:270,str:5,tec:10,wlk:16,fly:6,tgh:6,cartridge:{hpup:10,lv1:"75*5@20|60*2@30|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|25@25|26@20|13@30|32@50|31@40"}}
 
 {id:11,name:"シャーヘッドBD",cost:465,capa:870,hp:255,str:8,tec:7,wlk:17,fly:9,tgh:7,wbid:5,cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|21@20|16@20|12@20|13@30|32@50|31@40"},fixedParts:{lg:{name:"シャーヘッドLG",cost:145,hp:40,str:2,tec:-1,wlk:4,fly:1,sub:{str:100,pwr:31,rng:77,spd:94,itv:1000},tunable:{pwp:1}}},comment:"エアランニングcost+20複合"}
+
+{id:31,name:"シャーヘッドBD2",cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|21@20|16@20|12@20|13@30|32@50|31@40"},fixedParts:{lg:{name:"シャーヘッドLG2",sub:{str:100,pwr:34,rng:70,spd:85,itv:1000},tunable:{pwp:1},cost:145,hp:40,str:3,tec:-1,wlk:3,tgh:1}},cost:465,capa:870,hp:255,str:10,tec:5,wlk:16,fly:8,tgh:9,wbid:5,comment:["エアランニング","シャーヘッドBW"]}
 {id:2022203,name:"シャドウフロウBD",cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|25@25|26@20|13@30|14@20|32@50|31@40"},cost:445,capa:905,hp:255,str:5,tec:6,wlk:12,fly:9,tgh:8,comment:["HDJ省略","ガマカゲ・格闘威力32・射撃威力34"]}
 
 {id:49,name:"スパーダBD",joint:{wp:1},cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|16@20|21@20|15@15|28@20|13@30|32@50|31@40"},auraStat:{str:13,tec:4,wlk:13,fly:8,tgh:10},type:"l",size:"M",cost:445,capa:870,hp:255,str:13,tec:4,wlk:13,fly:8,tgh:10,auraSystem:1,wbid:73}
