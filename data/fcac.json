@@ -32,9 +32,11 @@
 
 
 {id:1712,name:"Capa+10.(FC)",capa:10,slot:1}
-
+{id:20220729,name:"1周年記念キャノン",main:{tec:100,pwr:1,shl:200,rng:150,spd:200,itv:1000},tunable:{mwp:1}}
 {id:56,name:"金魚",capa:5,hp:5,wlk:1,slot:1,comment:["「HEAL SONG」 1回の使用につきHP10回復","給弾可能"],sub:{shl:10,itv:500},tunable:{pwp:0}}
 {id:57,name:"バリアブルマフラー",capa:5,hp:5,fly:1,slot:1,comment:"「WING GLIDER」 使用中落下速度が緩やかになる",sub:{shl:3,itv:500},tunable:{pwp:0},comment:"弾切れ後慣性切り等に利用可能"}
+
+
 
 {id:1601,name:"STR+1.HP+10.(FC)",str:1,hp:10,slot:1}
 {id:1602,name:"TEC+1.HP+10.(FC)",tec:1,hp:10,slot:1}
