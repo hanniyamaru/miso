@@ -17,11 +17,7 @@
 {id:1304,name:"FLY+1.HP+5.Capa+5.(HD)",fly:1,hp:5,capa:5,slot:1}
 {id:1305,name:"TGH+1.HP+5.Capa+5.(HD)",tgh:1,hp:5,capa:5,slot:1}
 
-{id:1401,name:"STR+1.HP+10.(HD)",str:1,hp:10,slot:1}
-{id:1402,name:"TEC+1.HP+10.(HD)",tec:1,hp:10,slot:1}
-{id:1403,name:"WLK+1.HP+10.(HD)",wlk:1,hp:10,slot:1}
-{id:1404,name:"FLY+1.HP+10.(HD)",fly:1,hp:10,slot:1}
-{id:1405,name:"TGH+1.HP+10.(HD)",tgh:1,hp:10,slot:1}
+
 
 {id:1406,name:"STR+2.(HD)",str:2,slot:1}
 {id:1407,name:"TEC+2.(HD)",tec:2,slot:1}
@@ -46,7 +42,11 @@
 {id:244,name:"シャークボーシ",capa:5,hp:5,wlk:1,slot:1,comment:["クイックスイム付与"],sub:{itv:500},tunable:{pwp:0}}
 
 
-
+{id:1401,name:"STR+1.HP+10.(HD)",str:1,hp:10,slot:1}
+{id:1402,name:"TEC+1.HP+10.(HD)",tec:1,hp:10,slot:1}
+{id:1403,name:"WLK+1.HP+10.(HD)",wlk:1,hp:10,slot:1}
+{id:1404,name:"FLY+1.HP+10.(HD)",fly:1,hp:10,slot:1}
+{id:1405,name:"TGH+1.HP+10.(HD)",tgh:1,hp:10,slot:1}
 
 {id:1306,name:"STR+1.HP+5(HD)",hp:5,str:1,slot:1}
 {id:1307,name:"TEC+1.HP+5(HD)",hp:5,tec:1,slot:1}
