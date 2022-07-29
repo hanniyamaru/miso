@@ -11,11 +11,7 @@
 {id:1504,name:"FLY+1.HP+5.capa+5.(FC)",fly:1,hp:5,capa:5,slot:1}
 {id:1505,name:"TGH+1.HP+5.capa+5.(FC)",tgh:1,hp:5,capa:5,slot:1}
 
-{id:1601,name:"STR+1.HP+10.(FC)",str:1,hp:10,slot:1}
-{id:1602,name:"TEC+1.HP+10.(FC)",tec:1,hp:10,slot:1}
-{id:1603,name:"WLK+1.HP+10.(FC)",wlk:1,hp:10,slot:1}
-{id:1604,name:"FLY+1.HP+10.(FC)",fly:1,hp:10,slot:1}
-{id:1605,name:"TGH+1.HP+10.(FC)",tgh:1,hp:10,slot:1}
+
 
 {id:1406,name:"STR+2.(FC)",str:2,slot:1}
 {id:1407,name:"TEC+2.(FC)",tec:2,slot:1}
@@ -39,6 +35,13 @@
 
 {id:56,name:"金魚",capa:5,hp:5,wlk:1,slot:1,comment:["「HEAL SONG」 1回の使用につきHP10回復","給弾可能"],sub:{shl:10,itv:500},tunable:{pwp:0}}
 {id:57,name:"バリアブルマフラー",capa:5,hp:5,fly:1,slot:1,comment:"「WING GLIDER」 使用中落下速度が緩やかになる",sub:{shl:3,itv:500},tunable:{pwp:0},comment:"弾切れ後慣性切り等に利用可能"}
+
+{id:1601,name:"STR+1.HP+10.(FC)",str:1,hp:10,slot:1}
+{id:1602,name:"TEC+1.HP+10.(FC)",tec:1,hp:10,slot:1}
+{id:1603,name:"WLK+1.HP+10.(FC)",wlk:1,hp:10,slot:1}
+{id:1604,name:"FLY+1.HP+10.(FC)",fly:1,hp:10,slot:1}
+{id:1605,name:"TGH+1.HP+10.(FC)",tgh:1,hp:10,slot:1}
+
 
 {id:1306,name:"STR+1.HP+5(FC)",hp:5,str:1,slot:1}
 {id:1307,name:"TEC+1.HP+5(FC)",hp:5,tec:1,slot:1}
