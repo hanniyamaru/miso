@@ -19,8 +19,8 @@
 {id:38,name:"オウカLG",type:"l",cost:45,hp:30,str:1,wlk:3,tgh:2,joint:{bs:1}}
 
 {id:95,name:"オルフェノスLG",cost:45,hp:25,str:1,tec:1,wlk:3}
-{id:20220728,name:"オレガーLG",size:"S",cost:45,hp:25,str:-1,tec:2,wlk:3,tgh:2,comment:"アルカンタスドロップ"}
-{id:202207281,name:"オレガーLG2",size:"S",cost:40,hp:25,str:1,wlk:3,fly:-1,tgh:2,comment:"アルカンタスドロップ"}
+{id:20220728,name:"オレガーLG",size:"S",type:"l",cost:45,hp:25,str:-1,tec:2,wlk:3,tgh:2,comment:"アルカンタスドロップ"}
+{id:202207281,name:"オレガーLG2",size:"S",type:"l",cost:40,hp:25,str:1,wlk:3,fly:-1,tgh:2,comment:"アルカンタスドロップ"}
 
 {id:5,name:"カメンティスLG",cost:40,hp:20,str:2,wlk:2,tgh:1}
 {id:2022114,name:"ガルネリンプLG",sub:{pwr:38,shl:30,rng:70,spd:85,itv:2000,str:100},tunable:{pwp:1},type:"l",cost:95,hp:25,str:2,tec:-1,wlk:3,tgh:2}
