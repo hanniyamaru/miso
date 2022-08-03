@@ -40,7 +40,7 @@
 
 {id:504,name:"ベイオネット",size:"S",cost:130,main:{pwr:15,shl:360,rng:225,spd:440,itv:340},sub:{tec:100,pwr:32,rng:70,spd:85,itv:1000},tunable:{mwp:1,pwp:1}}
 {id:505,name:"M-9ベイオネット",size:"M",cost:145,main:{pwr:12,shl:600,rng:250,spd:480,itv:140},sub:{tec:100,pwr:32,rng:70,spd:85,itv:1000},tunable:{mwp:1,pwp:1}}
-
+{id:20220803,name:"ベルグクラスターガン",main:{pwr:22,shl:310,rng:250,spd:400,itv:600},tunable:{mwp:1},type:"l",size:"M",cost:120}
 
 {group:"ビームガン系",prefixID:"BG",commonStat:{tunable:{mwp:1}},nextID:60}
 
