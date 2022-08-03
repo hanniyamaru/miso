@@ -536,6 +536,7 @@
 {id:20220710,name:"ガルスチールAM3",main:{pwr:17,shl:360,rng:330,spd:290,itv:600},tunable:{mwp:1},joint:{wp:0},auraStat:{main:{pwr:22,shl:360,rng:330,spd:290,itv:600}},type:"c",cost:115,hp:20,str:-1,tec:3,wlk:2,fly:2,tgh:-1,comment:["AURA機構","ガルスチール・ハウル"]}
 
 {id:4,name:"ギガトンオーAM",cost:40,hp:25,str:2,tec:2,tgh:1}
+{id:87,name:"ギガンベルグAM",cost:65,hp:20,tec:2,wlk:1,tgh:2,comment:"盾機能あり、耐久値不明"}
 {id:94,name:"ギャスターAM2",main:{pwr:24,shl:240,rng:330,spd:270,itv:600},tunable:{mwp:1},type:"c",cost:135,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
 
 
