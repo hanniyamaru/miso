@@ -39,7 +39,7 @@
 
 {group:"UniＳＳサイズ",prefixID:"SS",commonStat:{size:"SS"},nextID:8}
 {id:4,name:"ウィンベルαBS",type:"s",cost:40,hp:25,wlk:1,fly:3,tgh:1}
-
+{id:202208031,name:"パラセクター・アシスBS",type:"l",size:"SS",cost:115,hp:20,str:2,tec:-1,wlk:2,fly:2,main:{str:100,pwr:10,shl:300,rng:200,spd:485,itv:500},sub:{str:100,pwr:30,shl:0,rng:150,spd:90,itv:1000}}
 {id:23,name:"ビルダームBS",type:"c",cost:110,hp:25,str:-1,tec:3,fly:2,tgh:1,main:{pwr:15,shl:320,rng:330,spd:380,itv:580},tunable:{mwp:1}}
 
 {id:3,name:"リリレインαBS",type:"c",cost:40,hp:25,wlk:2,fly:2,tgh:1}
