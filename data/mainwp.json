@@ -351,7 +351,7 @@
 {id:20220523,name:"タイラントデストラクトBD@",main:{tec:100,pwr:13,shl:540,rng:350,spd:290,itv:800},tunable:{mwp:0},slot:0,type:"c",size:"L",cost:120,comment:["タイラントデストラクト専用コンバージョンパーツ","内蔵強化値不明"]}
 
 {id:202205231,name:"タイラントデストラクトBD@2",sub:{tec:100,pwr:9,shl:400,rng:350,spd:290,itv:1000},tunable:{mwp:0},slot:0,type:"c",size:"L",cost:120,comment:["タイラントデストラクト専用コンバージョンパーツ","内蔵強化値不明"]}
-
+{id:202208031,name:"パラセクター・アシスBD@",type:"l",cost:60,main:{str:100,pwr:25,shl:15,rng:0,spd:10,itv:700},slot:0}
 {id:502,name:"パワーアロー",main:{pwr:28,shl:230,rng:225,spd:480,itv:700},type:"l",size:"M",cost:30,comment:"ロビンハンターAM専用コンバージョンパーツ",slot:0}
 {id:96,name:"ビームクリスタル",main:{pwr:11,shl:500,rng:275,spd:440,itv:700},tunable:{mwp:1},type:"a",size:"S",cost:70,comment:"フラクタリスガール専用コンバージョンパーツ"}
 
