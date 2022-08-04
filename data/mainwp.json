@@ -542,7 +542,9 @@
 {id:171,name:"アワーダガー",main:{pwr:20,shl:50,rng:200,spd:570,itv:500,str:100},sub:{pwr:0,shl:0,rng:150,spd:350,itv:1000,str:100},type:"l",size:"S",cost:80,slot:0}
 
 
-
+{group:"ルーシェコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
+{id:20220803,name:"バトルフレームRα",main:{tec:100,pwr:7,shl:720,rng:300,spd:360,itv:1000},sub:{tec:100,pwr:16,shl:300,rng:300,spd:260,itv:1000},type:"s",size:"S",cost:140,comment:["ルーシェSwmBF用コンバージョンパーツ"]}
+{id:48,name:"バトルフレームRβ",main:{pwr:0,shl:20,rng:300,spd:300,itv:1000},type:"s",size:"S",cost:40,slot:0,comment:["実弾無効バリア","ルーシェSwmBF用コンバージョンパーツ"]}
 
 
 
