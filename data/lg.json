@@ -580,6 +580,7 @@
 {id:106,name:"ペルセシウスLG",sub:{shl:50,rng:100,spd:135,itv:1000},type:"a",size:"L",cost:70,hp:65,wlk:2,fly:2,tgh:2}
 
 {id:104,name:"ヘルトカイゼルLG",type:"c",size:"L",cost:45,hp:65,str:2,wlk:3,fly:-1,tgh:2}
+{id:119,name:"ヘルトカイゼルLG2",main:{tec:100,pwr:8,shl:600,rng:330,spd:280,itv:500},tunable:{mwp:1},cost:95,hp:65,str:-1,tec:3,wlk:2,tgh:2,type:"c",size:"L"}
 
 
 {id:25,name:"ボイルデックLG",cost:45,hp:25,str:2,wlk:3,fly:1}
