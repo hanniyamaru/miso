@@ -515,6 +515,8 @@
 {id:85,name:"スチールバーンLG",joint:{lg:1},fixedParts:{lg:{name:"スチールバーンLG@",joint:{bs:1},slot:0}},type:"a",cost:45,hp:40,str:-1,tec:1,wlk:2,fly:1,tgh:3}
 
 {id:7,name:"スチールライダーLG",cost:45,hp:45,tec:1,wlk:5,fly:-1}
+
+{id:34,name:"セタシオンLG",main:{pwr:8,shl:520,rng:275,spd:280,itv:800},tunable:{mwp:1},auraStat:{main:{pwr:26,shl:280,rng:275,spd:250,itv:800},sub:{pwr:20,rng:275,spd:300,itv:1000,tec:100}},type:"a",cost:115,hp:60,str:-1,tec:1,wlk:3,fly:2,tgh:1,comment:"※変形はAURAで対応"}
 {id:59,name:"ゼロブレイカーLG",cost:45,hp:30,tec:-1,wlk:4,fly:1,tgh:2}
 
 
@@ -564,6 +566,7 @@
 
 {id:13,name:"ビッグマンテスLG",cost:50,hp:70,tec:1,wlk:3,fly:1,tgh:1}
 {id:320,name:"ビッグマンテスLG2",sub:{shl:100,rng:0,spd:60,itv:1000},tunable:{pwp:0},type:"a",size:"L",cost:90,hp:70,tec:1,wlk:3,fly:2}
+
 {id:55,name:"ファルクスLG",cost:45,hp:35,str:1,tec:-1,wlk:2,fly:1,tgh:3}
 {id:110,name:"フラッシュボマーLG",size:"L",cost:45,hp:65,str:1,tec:1,wlk:3,tgh:1}
 
