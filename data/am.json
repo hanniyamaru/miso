@@ -51,9 +51,9 @@
 {id:13,name:"サイコフォーミュラAM",type:"cs",cost:120,hp:25,tec:2,wlk:1,fly:1,tgh:1,main:{pwr:10,shl:500,rng:330,spd:290,itv:740},tunable:{mwp:1},joint:{wp:0}}
 {id:14,name:"サイコフォーミュラAM2",type:"c",cost:90,hp:25,tec:3,fly:1,tgh:1,main:{pwr:10,shl:460,rng:330,spd:290,itv:740},tunable:{mwp:1},joint:{wp:0}}
 {id:67,name:"サイコフォーミュラAM3",main:{pwr:9,shl:810,rng:330,spd:290,itv:200},type:"c",size:"S",cost:100,hp:25,str:-1,tec:3,wlk:1,fly:1,tgh:1,tunable:{mwp:1},joint:{wp:0},comment:"サイコフォーミュラ破"}
-
-
 {id:76,name:"サイコフォーミュラAM4",main:{pwr:21,shl:310,rng:330,spd:220,itv:560},type:"c",cost:125,hp:20,str:-1,tec:3,fly:2,tgh:1,tunable:{mwp:1},joint:{wp:0}}
+{id:121,name:"サイコフォーミュラAM5",size:"S",cost:35,hp:20,str:1,wlk:2,fly:1,tgh:1,comment:"サイコフォーミュラ轟"}
+{id:122,name:"サイコフォーミュラAM6",main:{pwr:15,shl:640,rng:330,spd:280,itv:340},size:"S",type:"c",cost:165,hp:20,str:-1,tec:3,wlk:2,fly:1,joint:{wp:0},tunable:{mwp:1},comment:"サイコフォーミュラ轟"}
 
 {id:20220706,name:"サイバリオンAM",cost:30,hp:15,tec:2,wlk:1,tgh:1,comment:"Season7アリーナコイン景品"}
 {id:18,name:"ジークンロンαAM",cost:35,hp:20,str:1,tec:1,wlk:2,tgh:1,comment:"ジークンαAM"}
@@ -830,6 +830,7 @@
 {id:99,name:"クリスタルビットAMJ",tunable:{pwp:0,mwp:0},type:"a",size:"M",cost:40,slot:1,main:{tec:100,pwr:6,shl:350,rng:275,spd:350,itv:320}}
 {id:15,name:"コメットランチャーAMJ",type:"c",size:"M",cost:50,slot:1,main:{pwr:8,shl:440,rng:330,spd:320,itv:340},tunable:{mwp:1},comment:"イルミス付属AMJ"}
 
+{id:33,name:"サイコフォーミュラAMJ",main:{pwr:7,shl:560,rng:330,spd:300,itv:740},cost:40,slot:1,size:"S",type:"c",comment:"サイコフォーミュラ轟"}
 {id:41,name:"シュトルバンガーAMJ",main:{pwr:10,shl:240,rng:300,spd:400,itv:800,tec:100},type:"c",size:"L",cost:30,slot:1,tunable:{mwp:1}}
 {id:53,name:"ティタロテスAMJ",type:"c",size:"L",cost:20,tunable:{mwp:1},slot:1,main:{pwr:17,shl:120,rng:300,spd:220,itv:600}}
 {id:27,name:"ティルージュAMJ",main:{pwr:6,shl:500,rng:275,spd:320,itv:340},tunable:{mwp:1},type:"a",size:"M",cost:40,slot:1}
