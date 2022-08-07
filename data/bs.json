@@ -566,7 +566,7 @@
 {id:3,name:"ケンタクロスBS",type:"l",cost:35,hp:20,str:-1,tec:2,fly:3,tgh:1,comment:["ロボガラポン"]}
 
 
-
+{id:32,name:"コーテングBS",type:"a",cost:150,hp:20,str:-1,tec:2,fly:4,main:{tec:100,pwr:10,shl:560,rng:275,spd:280,itv:700},sub:{str:100,pwr:0,shl:60,rng:100,spd:120,itv:1000},tunable:{mwp:1}}
 {id:111,name:"ゴクソツキBS",size:"L",type:"l",cost:35,hp:20,str:2,wlk:1,fly:3,tgh:-1}
 {id:112,name:"ゴクソツキBS2",size:"L",type:"l",cost:35,hp:20,tec:1,fly:2,tgh:2}
 
