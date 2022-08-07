@@ -489,6 +489,7 @@
 
 {id:39,name:"クロコダガーLG",cost:45,hp:45,tec:-1,wlk:3,fly:2,tgh:1}
 {id:18,name:"ケンタクロスLG",type:"l",cost:135,hp:45,str:2,tec:-1,wlk:4,tgh:1,sub:{str:100,pwr:32,rng:70,spd:85,itv:2000},tunable:{pwp:1},comment:["ロボガラポン"]}
+{id:41,name:"コーテングLG",cost:45,hp:25,str:-1,tec:2,wlk:2,fly:2,tgh:1}
 
 {id:122,name:"ゴクソツキLG",size:"L",cost:45,hp:40,str:1,wlk:3,tgh:2}
 
