@@ -173,7 +173,7 @@
 
 {id:159,name:"レイミナスAM",type:"lacs",size:"S",cost:40,hp:25,str:-1,tec:2,wlk:2,fly:2}
 
-{id:304,name:"レプシロンAM",type:"a",size:"S",cost:35,hp:20,str:1,tec:2,wlk:1,fly:2,tgh:-1}
+{id:304,name:"レシプロンAM",type:"a",size:"S",cost:35,hp:20,str:1,tec:2,wlk:1,fly:2,tgh:-1}
 {id:1781,name:"ワンダーズAM2",type:"s",cost:85,hp:20,tec:2,wlk:1,tgh:1,main:{pwr:7,shl:300,rng:275,spd:250,itv:300},tunable:{mwp:1},joint:{wp:1},comment:"ワンダーズ・ぺぺ"}
 {id:185,name:"ワンダーズAM3",cost:75,hp:20,tec:3,wlk:1,fly:1,main:{tec:100,pwr:10,shl:240,rng:275,spd:290,itv:900},size:"S",type:"s",tunable:{mwp:1},comment:["PSYGUN","ブースタートラブル付与","ワンダーズ・ドラ"]}
 
