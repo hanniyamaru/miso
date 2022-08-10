@@ -240,7 +240,7 @@
 
 {id:53,name:"レジナ・ウィンベルαBS",type:"s",cost:30,hp:15,str:1,fly:2,tgh:1}
 {id:54,name:"レジナ・ウィンベルαBS2",cost:30,hp:15,wlk:1,fly:3}
-{id:513,name:"レプシロンBS",main:{tec:100,pwr:12,shl:580,rng:275,spd:320,itv:900},tunable:{mwp:1},cost:135,hp:20,tec:2,fly:4,tgh:-1,type:"a",size:"S"}
+{id:513,name:"レシプロンBS",main:{tec:100,pwr:12,shl:580,rng:275,spd:320,itv:900},tunable:{mwp:1},cost:135,hp:20,tec:2,fly:4,tgh:-1,type:"a",size:"S"}
 
 {id:101,name:"ヤクシャBS",main:{pwr:8,shl:540,rng:275,spd:320,itv:1000},tunable:{mwp:1},type:"a",cost:105,hp:20,str:-1,tec:3,fly:3}
 {id:509,name:"ワンダーズBS",type:"s",cost:40,hp:25,str:1,tec:1,wlk:1,fly:3,tgh:-1}
