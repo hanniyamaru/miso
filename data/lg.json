@@ -138,7 +138,7 @@
 
 {id:102,name:"レイミナスLG",type:"lacs",cost:45,hp:25,str:-1,tec:2,wlk:2,fly:2,tgh:1,size:"S"}
 
-{id:303,name:"レプシロンLG",cost:45,hp:25,tec:2,wlk:2,fly:2}
+{id:303,name:"レシプロンLG",cost:45,hp:25,tec:2,wlk:2,fly:2}
 {id:20220524,name:"ロイヤルビーゾルLG",size:"S",type:"a",cost:130,hp:25,str:-1,tec:3,wlk:2,fly:2,main:{pwr:16,shl:340,rng:275,spd:300,itv:600},tunable:{mwp:1}}
 {id:301,name:"ワンダーズLG",cost:45,hp:25,str:-1,tec:1,wlk:3,fly:1,tgh:2}
 
