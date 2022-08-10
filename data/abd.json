@@ -107,9 +107,9 @@
 
 
 {id:53,name:"ヤクシャBD",cartridge:{hpup:18,lv1:"85*6@25|7@30|9@15|8@20|18@30|19@15|23@25|22@30|52@20|28@30|21@20|26@20|13@30|32@50|31@40"},cost:405,capa:800,hp:210,str:8,tec:8,wlk:6,fly:16,tgh:7,wbid:1,comment:"-"}
-{id:200,name:"レプシロンBD",main:{tec:100,pwr:[12,13,14],shl:720,rng:[275,285,300],spd:[440,460,480],itv:200},sub:{shl:[20],rng:0,spd:150,itv:1000},cartridge:{lv1:"85*5@25|61*2@35|7@30|9@15|8@20|19@15|52@20|23@25|22@30|21@20|30@20|26@20|13@30|32@50|31@40",hpup:18},type:"a",size:"S",cost:495,capa:780,hp:210,str:5,tec:12,wlk:7,fly:13,tgh:8,wbid:1,comment:["BD@cost20複合"]}
+{id:200,name:"レシプロンBD",main:{tec:100,pwr:[12,13,14],shl:720,rng:[275,285,300],spd:[440,460,480],itv:200},sub:{shl:[20],rng:0,spd:150,itv:1000},cartridge:{lv1:"85*5@25|61*2@35|7@30|9@15|8@20|19@15|52@20|23@25|22@30|21@20|30@20|26@20|13@30|32@50|31@40",hpup:18},type:"a",size:"S",cost:495,capa:780,hp:210,str:5,tec:12,wlk:7,fly:13,tgh:8,wbid:1,comment:["BD@cost20複合"]}
 
-{id:20002,name:"レプシロンBD2",main:{tec:100,pwr:18,shl:370,rng:275,spd:440,itv:1000},sub:{shl:[50],rng:0,spd:150,itv:1000},cartridge:{lv1:"85*5@25|61*2@35|7@30|9@15|8@20|19@15|23@25|22@30|52@20|25@25|21@20|30@20|13@30|32@50|31@40",hpup:18},type:"a",size:"S",cost:540,capa:780,hp:230,str:5,tec:17,wlk:7,fly:14,tgh:7,wbid:1,builtin:{bs:1},joint:{hdac:1,bs:0},fixedParts:{hdac:["S1"]},comment:["BD@cost20複合","内蔵強化不明"]}
+{id:20002,name:"レシプロンBD2",main:{tec:100,pwr:18,shl:370,rng:275,spd:440,itv:1000},sub:{shl:[50],rng:0,spd:150,itv:1000},cartridge:{lv1:"85*5@25|61*2@35|7@30|9@15|8@20|19@15|23@25|22@30|52@20|25@25|21@20|30@20|13@30|32@50|31@40",hpup:18},type:"a",size:"S",cost:540,capa:780,hp:230,str:5,tec:17,wlk:7,fly:14,tgh:7,wbid:1,builtin:{bs:1},joint:{hdac:1,bs:0},fixedParts:{hdac:["S1"]},comment:["BD@cost20複合","内蔵強化不明"]}
 
 {id:202205243,name:"ロイヤルビーゾルBD",size:"S",cost:405,capa:780,hp:210,str:5,tec:12,wlk:7,fly:14,tgh:7,wbid:1,cartridge:{hpup:18,lv1:"85*6@25|7@30|9@15|8@20|18@30|19@15|23@25|22@30|52@20|26@20|25@25|21@20|13@30|32@50|31@40"}}
 
