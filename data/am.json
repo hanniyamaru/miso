@@ -837,7 +837,7 @@
 {id:53,name:"ティタロテスAMJ",type:"c",size:"L",cost:20,tunable:{mwp:1},slot:1,main:{pwr:17,shl:120,rng:300,spd:220,itv:600}}
 {id:27,name:"ティルージュAMJ",main:{pwr:6,shl:500,rng:275,spd:320,itv:340},tunable:{mwp:1},type:"a",size:"M",cost:40,slot:1}
 
-{id:20220813,name:"デンデンカムAMJ",main:{pwr:11,shl:400,rng:275,spd:320,itv:500},tunable:{mwp:1},type:"a",size:"S",cost:55,slot:1,comment:{"交換NPCミナリア","ビーム爆風10：1"}}
+{id:20220813,name:"デンデンカムAMJ",main:{pwr:11,shl:400,rng:275,spd:320,itv:500},tunable:{mwp:1},type:"a",size:"S",cost:55,slot:1,comment:["交換NPCミナリア","ビーム爆風10：1"]}
 
 {id:20220601,name:"ドライバーキャノンAMJ",main:{pwr:10,shl:600,rng:330,spd:280,itv:340},tunable:{mwp:1},type:"c",size:"S",cost:60,slot:1,comment:"アスフィ付属"}
 {id:19,name:"ドローガンAMJ",main:{tec:100,pwr:6,shl:200,rng:250,spd:480,itv:500},tunable:{mwp:1},type:"s",size:"M",cost:60,str:1,tec:1,tgh:-1,slot:1}
