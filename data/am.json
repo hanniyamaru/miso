@@ -574,7 +574,7 @@
 {id:135,name:"コンバットフリードAM4",sub:{pwr:20,shl:0,rng:100,spd:120,itv:2000},tunable:{pwp:1},type:"l",size:"L",cost:105,hp:20,str:1,wlk:2,fly:-1,tgh:3}
 {id:141,name:"コンバットフリードAM5",sub:{pwr:33,shl:0,rng:70,spd:85,itv:1000,str:100},tunable:{pwp:1},type:"l",size:"L",cost:155,hp:20,str:2,tec:-1,wlk:2,fly:1,tgh:1,joint:{wp:0}}
 
-{id:163,name:"サイクロテスAM3",type:"lacs",size:"L",cost:60,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2}
+{id:163,name:"サイクロテスAM3",type:"lacs",size:"L",cost:60,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2,comment:"盾耐久45？"}
 {id:73,name:"サイドロンAM",cost:55,hp:20,str:2,tec:-1,wlk:1,tgh:3,type:"l",comment:"シールド耐久値40 2021/ 2/12"}
 {id:153,name:"サイドロンAM2",cost:65,hp:20,type:"l",str:-1,tec:2,wlk:2,tgh:2,main:{shl:50,rng:0,spd:10,itv:1000,pwr:0},tunable:{mwp:1},comment:"-"}
 
