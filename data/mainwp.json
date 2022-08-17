@@ -17,9 +17,9 @@
 {id:8,name:"シングルガン",type:"lcs",size:"M",cost:35,main:{pwr:14,shl:260,rng:250,spd:570,itv:400}}
 {id:9,name:"アクセルガン",type:"lcs",size:"M",cost:100,main:{pwr:20,shl:400,rng:250,spd:570,itv:400}}
 {id:10,name:"ピースメーカー",type:"l",size:"M",cost:130,main:{pwr:16,shl:600,rng:250,spd:570,itv:280}}
-{id:11,name:"ミリタリーガン",size:"S",cost:60,main:{pwr:12,shl:300,rng:225,spd:400,itv:240}}
-{id:12,name:"ドラムガン",type:"l",size:"M",cost:90,main:{pwr:15,shl:260,rng:225,spd:400,itv:240}}
-{id:13,name:"インクリーズドラムガン",type:"l",size:"M",cost:130,main:{pwr:12,shl:530,rng:225,spd:400,itv:240}}
+{id:11,name:"ミリタリーガン",size:"S",cost:60,main:{pwr:12,shl:440,rng:200,spd:400,itv:240}}
+{id:12,name:"ドラムガン",type:"l",size:"M",cost:90,main:{pwr:15,shl:480,rng:200,spd:400,itv:240}}
+{id:13,name:"インクリーズドラムガン",type:"l",size:"M",cost:130,main:{pwr:13,shl:750,rng:200,spd:400,itv:240}}
 {id:14,name:"モーターガン",type:"l",size:"M",cost:180,main:{pwr:11,shl:760,rng:225,spd:440,itv:140}}
 {id:15,name:"ブーストガン",type:"l",size:"M",cost:160,main:{pwr:13,shl:560,rng:250,spd:570,itv:200}}
 {id:67,name:"エスティスマグ",main:{pwr:29,shl:380,rng:225,spd:440,itv:500},size:"M",type:"l",cost:180}
