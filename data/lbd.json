@@ -353,7 +353,7 @@
 
 
 
-{group:"UnＬ陸",prefixID:"LL",commonStat:{size:"L",type:"l"},nextID:11}
+{group:"Ｌ陸",prefixID:"LL",commonStat:{size:"L",type:"l"},nextID:11}
 {id:60,name:"アレシスBD",cartridge:{hpup:10,lv1:"75*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|28@30|25@25|15@15|16@20|13@30|32@50|31@40"},type:"l",size:"L",cost:490,capa:945,hp:305,str:10,tec:7,wlk:15,fly:8,tgh:11,auraSystem:1}
 {id:40,name:"ウォーダスBD",cartridge:{hpup:18,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|16@20|15@15|12@20|13@30|32@50|31@40"},cost:405,capa:800,hp:275,str:18,tec:4,wlk:7,fly:5,tgh:11,wbid:6}
 
