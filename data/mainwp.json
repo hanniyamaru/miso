@@ -409,9 +409,9 @@
 
 {group:"アレイシア・アールコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 
-{id:146,name:"アウトサイダーのキー",sub:{rng:10,spd:10,itv:500},cost:75,slot:0,comment:"アレイシア・アール専用コンバージョンパーツ"}
-{id:160,name:"ライノキャノン",main:{tec:100,pwr:46,shl:100,rng:150,spd:400,itv:1000},cost:110,comment:"アレイシア・アール専用コンバージョンパーツ"}
-{id:161,name:"リコチェットガトリング",main:{tec:100,pwr:5,shl:1500,rng:250,spd:400,itv:240},cost:60,comment:"アレイシア・アール専用コンバージョンパーツ"}
+{id:146,name:"アウトサイダーのキー",sub:{rng:10,spd:10,itv:500},cost:75,slot:0,type:"l",size:"S",comment:"アレイシア・アール専用コンバージョンパーツ"}
+{id:160,name:"ライノキャノン",main:{tec:100,pwr:46,shl:100,rng:150,spd:400,itv:1000},type:"l",size:"S",cost:110,comment:"アレイシア・アール専用コンバージョンパーツ"}
+{id:161,name:"リコチェットガトリング",main:{tec:100,pwr:5,shl:1500,rng:250,spd:400,itv:240},type:"l",size:"S",cost:60,comment:"アレイシア・アール専用コンバージョンパーツ"}
 
 
 {group:"アンリエールコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
