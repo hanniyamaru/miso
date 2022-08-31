@@ -224,6 +224,7 @@
 {id:307,name:"キャノンボールDRHD",size:"M",cost:35,hp:20,str:1,tec:1,wlk:2,tgh:1,comment:["ミッション景品"]}
 {id:207,name:"キャノンボールHLHD",cost:40,hp:25,tec:2,wlk:2,fly:-1,tgh:2}
 
+{id:20220831,name:"キャプテンXHD",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
 {id:329,name:"キャプテンXHD2",cost:35,hp:20,str:2,tec:1,wlk:2,comment:"キャプテンX・テソロ"}
 
 {id:252,name:"ギャラクシーコマンドHD",cost:40,hp:25,str:-1,tec:2,wlk:2,tgh:2}
