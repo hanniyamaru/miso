@@ -287,7 +287,7 @@
 {id:88,name:"チェーンドローガン",size:"S",cost:80,main:{pwr:5,shl:500,rng:250,spd:480,itv:200},type:"s"}
 {id:18,name:"スクイドルガン",main:{tec:100,pwr:4,shl:900,rng:90,spd:480,itv:100},tunable:{mwp:1,pwp:0},type:"s",size:"M",cost:50}
 {id:23,name:"スクイドルバズーカ",main:{tec:100,pwr:12,shl:220,rng:275,spd:290,itv:700},tunable:{mwp:1},size:"M",type:"s",cost:70}
-{id:6551,name:"フラクタリスアニマ",main:{tec:100,pwr:7,shl:800,rng:275,spd:400,itv:200},tunable:{mwp:1},size:"M",type:"a",cost:200,comment:["フォース系のチューンは子弾の威力が変化した場合のみキャノンの威力にも影響する","キャノン：威力11 爆風50％","ブースト回復効果"]}
+{id:6551,name:"フラクタリスアニマ",main:{tec:100,pwr:7,shl:800,rng:275,spd:400,itv:200},tunable:{mwp:1},size:"M",type:"a",cost:200,comment:["フォース系のチューンは子弾の威力が変化した場合のみキャノンの威力にも影響する","キャノン：威力？ 爆風50％","ブースト回復効果"]}
 
 {id:6552,name:"ベルゼイラフアニマ",main:{tec:100,pwr:23,shl:1050,rng:350,spd:400,itv:500},tunable:{mwp:1},size:"M",type:"c",cost:200,comment:["サイガン比率1：2","β時の表記威力8"]}
 
