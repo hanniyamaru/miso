@@ -511,7 +511,7 @@
 {id:1204,name:"M・アーチBS",type:"a",cost:35,hp:20,str:1,tec:1,fly:3}
 
 {id:162,name:"RAMソルジェッターBS",type:"a",size:"M",cost:40,hp:20,tec:2,wlk:1,fly:2}
-{id:232,name:"S・アクティナGBS",sub:{tec:100,pwr:0,shl:30,rng:0,spd:220,itv:1000},tunable:{pwp:0},type:"lacs",size:"M",cost:65,hp:20,tec:1,wlk:2,fly:3,tgh:-1,comment:["1段目:CT3秒 別武器へコンボ不可","2段目:CT5秒 別武器へコンボ可能"]}
+{id:232,name:"S・アクティナGBS",sub:{tec:100,pwr:0,shl:30,rng:0,spd:220,itv:1000},tunable:{pwp:0},type:"lacs",size:"M",cost:65,hp:20,tec:1,wlk:2,fly:3,tgh:-1,comment:["1段目:CT3秒 別武器へコンボ不可（空 補）","2段目:CT5秒 別武器へコンボ可能 （陸 砲）"]}
 
 
 
