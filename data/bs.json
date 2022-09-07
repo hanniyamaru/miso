@@ -451,8 +451,8 @@
 
 {id:11024,name:"風魔剣「天翔舞刃」（コンバージョン無し）BS",type:"lacs",size:"M",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1}
 
-{id:300,name:"フェアリスBS",type:"a",cost:60,hp:25,wlk:2,fly:3,comment:["コンバージョン有り"],sub:{str:100,pwr:0,shl:40,rng:0,spd:160,itv:1000},tunable:{pwp:1}}
-{id:301,name:"フェアリスBS1",type:"a",cost:40,hp:25,wlk:2,fly:3,comment:["コンバージョン無し"]}
+{id:300,name:"フェアリスBS",type:"a",cost:60,hp:25,wlk:2,fly:3,comment:["BS@cost+20複合"],sub:{str:100,pwr:0,shl:40,rng:0,spd:160,itv:1000},tunable:{pwp:1}}
+{id:301,name:"フェアリスBS（コンバージョン無し）",type:"a",cost:40,hp:25,wlk:2,fly:3,comment:["コンバージョン無し"]}
 {id:408,name:"ブラディスターBS",type:"c",cost:40,hp:20,str:1,wlk:2,fly:2}
 {id:202203031,name:"ブリスガンド・ポーンBS",type:"l",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:3,tgh:1,comment:["混沌コイン景品"]}
 
