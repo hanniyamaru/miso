@@ -396,7 +396,7 @@
 {id:20220522,name:"ラッシュガントレット",size:"M",type:"a",cost:80,tunable:{mwp:0,pwp:0},comment:["ヘル・ヴィクトル専用コンバージョンパーツ","左右の表記省略"]}
 {id:83,name:"ロギナス",main:{pwr:32,shl:280,rng:330,spd:440,itv:700},tunable:{mwp:1},type:"c",size:"S",cost:100,comment:"クロエAM専用コンバージョンパーツ"}
 
-
+{id:20220907,name:"ワンダーキーロッド",main:{pwr:5,shl:2000,rng:275,spd:320,itv:400},tunable:{mwp:1},joint:{wp:1},fixedParts:{wp:[{main:{pwr:32,shl:80,rng:275,spd:180,itv:1000},name:"チェシャキャノン",slot:0}]},type:"a",cost:150,size:"S",comment:["アリスAM専用コンバージョンパーツ"]}
 
 
 {id:105,name:"見習い手裏剣",main:{str:100,pwr:4,shl:800,rng:200,spd:400,itv:140},tunable:{mwp:1},type:"s",size:"S",cost:40,comment:"もみじBD専用コンバージョンパーツ"}
