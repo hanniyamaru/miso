@@ -5,7 +5,7 @@
 {group:"Ｓ陸　近日更新分",prefixID:"LS",commonStat:{size:"S",type:"l"},nextID:35}
 
 
-{id:20220909,name:"カットバルドBD",cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|16@20|25@25|28@30|21@20|13@30|32@50|31@40"},size:"L",cost:445,capa:870,hp:290,str:11,tec:5,wlk:16,fly:9,tgh:7,wbid:17,auraSystem:1}
+{id:20220909,name:"カットバルドBD",builtin:{bs:1},cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|16@20|25@25|28@30|21@20|13@30|32@50|31@40"},size:"L",cost:445,capa:870,hp:290,str:11,tec:5,wlk:16,fly:9,tgh:7,wbid:17,auraSystem:1}
 
 {id:112,name:"オウカSwmBFBD",builtin:{bs:1},joint:{wp:2},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|53@10|16@20|21@20|13@30|34@15|32@50|31@40"},fixedParts:{hd:{name:"オウカSwmBFHD",cost:40,hp:25,str:3,wlk:1,fly:1},lg:{name:"オウカSwmBFLG",cost:45,hp:25,str:2,tec:-1,wlk:3,tgh:2},am:[{joint:{wp:3},fixedParts:{wp:{name:"バトルフレームOα",slot:0}},name:"オウカSwmBFAM",cost:40,hp:25,str:2,wlk:2,tgh:1,slot:0},{name:"オウカSwmBFAM2",joint:{wp:3},fixedParts:{wp:[{name:"バトルフレームOα",slot:0}]},cost:40,hp:25,str:2,wlk:2,tgh:1}],wp:[{name:"バトルフレームOβ",main:{pwr:5,shl:240,rng:200,spd:570,itv:800},tunable:{mwp:1}},"バトルホイッスル"]},cost:480,capa:900,hp:245,str:13,tec:5,wlk:16,fly:10,tgh:9}
 
