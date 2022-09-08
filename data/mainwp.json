@@ -436,6 +436,13 @@
 
 {id:20220302,name:"ガーディアンナイト",type:"c",size:"S",cost:30,sub:{tec:100,pwr:30,shl:30,rng:0,spd:100,itv:1000},tunable:{mwp:0},slot:3,comment:["エレオノール専用コンバージョン"]}
 
+{group:"桜華SwmBFコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
+
+{id:20220908,name:"真打・乱桜雷切（R）",sub:{str:100,pwr:32,rng:84,spd:102,itv:1000},tunable:{mwp:0,pwp:1},type:"l",size:"S",cost:140,comment:"桜華SwmBFAM専用コンバージョンパーツ"}
+{id:202209081,name:"真打・乱桜雷切（L）",main:{shl:50,spd:10,itv:1000},sub:{pwr:32,shl:0,rng:120,spd:250,itv:1000,str:100},tunable:{mwp:1,pwp:0},type:"l",size:"S",cost:70,comment:"桜華SwmBFAM専用コンバージョンパーツ"}
+
+
+
 {group:"ガシマガールコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:189,name:"ガシマハウザー",sub:{tec:100,pwr:26,shl:90,rng:300,spd:200,itv:1000},tunable:{mwp:0},slot:0,type:"c",size:"S",cost:20,comment:"ガシマガール専用コンバージョンパーツ"}
 
