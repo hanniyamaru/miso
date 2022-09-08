@@ -671,7 +671,7 @@
 {id:47,name:"ラグナバレットBS",type:"c",cost:40,hp:25,fly:4,tgh:1}
 
 {id:58,name:"ラクラボロスBS",type:"s",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:3}
-
+{id:202209093,name:"ランサーロットBS2",type:"l",cost:35,hp:20,str:-1,tec:1,wlk:1,fly:3,tgh:1,comment:"ランサーロット・A"}
 {id:88,name:"ランパーニルBS",type:"l",size:"L",cost:35,hp:20,str:-1,tec:1,wlk:1,fly:3,tgh:1}
 {id:48,name:"ロトンレムレスBS",type:"s",cost:40,hp:25,str:-1,tec:1,fly:2,tgh:3}
 
