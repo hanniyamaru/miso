@@ -406,7 +406,7 @@
 {id:71,name:"ドミクラウンHD2",cost:40,hp:25,tec:1,wlk:2,tgh:2}
 {id:144,name:"ドミクラウンHD3",cost:40,hp:25,str:2,tec:-1,wlk:2,tgh:2,comment:"Quoit"}
 {id:7107,name:"ドミクラウンHD4",sub:{str:100,pwr:0,shl:5,rng:0,spd:0,itv:3000},cost:70,hp:25,str:2,tec:1,fly:-1,tgh:3}
-{id:202209098,name:"トライスターHD",size:"M",cost:35,hp:20,tec:1,wlk:1,fly:2,tgh:1}
+{id:2022090981,name:"トライスターHD",size:"M",cost:35,hp:20,tec:1,wlk:1,fly:2,tgh:1}
 
 {id:341,name:"ドライブリッツHD",size:"M",cost:30,hp:15,tec:2,wlk:2,fly:-1,tgh:1}
 
