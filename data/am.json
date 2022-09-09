@@ -244,6 +244,7 @@
 {id:103,name:"アサルトオックスM2AM",main:{tec:100,pwr:15,shl:520,rng:225,spd:320,itv:700},tunable:{mwp:1},type:"l",size:"M",cost:95,hp:25,str:-1,tec:3,wlk:1,tgh:2}
 {id:76,name:"アハトジーベンAM",main:{pwr:4,shl:900,rng:300,spd:360,itv:140},tunable:{mwp:1},type:"lc",cost:85,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,joint:{wp:0}}
 {id:84,name:"アハトジーベンAM2",main:{pwr:6,shl:680,rng:120,spd:480,itv:100},joint:{wp:0},type:"lc",cost:85,hp:20,str:-1,tec:3,wlk:2,tgh:1,tunable:{mwp:1}}
+{id:2022090991,name:"アハトジーベンAM3",main:{pwr:13,shl:390,rng:330,spd:260,itv:500},joint:{wp:0},type:"c",cost:70,hp:15,str:-1,tec:3,fly:1,tgh:1,tunable:{mwp:1},comment:["アハトジーベンEL","ANTIAIR MISSILE"]}
 
 {id:49,name:"アマテウスAM",cost:40,hp:25,tec:1,wlk:2,tgh:2}
 {id:50,name:"アマテウスAM2",type:"c",cost:100,hp:25,tec:3,wlk:1,fly:1,main:{pwr:22,shl:190,rng:330,spd:290,itv:300},tunable:{mwp:1},joint:{wp:0}}
