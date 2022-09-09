@@ -486,6 +486,7 @@
 {id:152,name:"ラムダイバーAM",type:"lacs",size:"M",cost:35,hp:20,str:-1,wlk:2,fly:2,tgh:2}
 {id:153,name:"ラムダイバーAM2",main:{pwr:25,shl:210,rng:275,spd:485,itv:700},tunable:{mwp:1},type:"a",size:"M",cost:135,hp:20,str:-1,tec:3,wlk:1,tgh:2,joint:{wp:0}}
 {id:128,name:"ランドスAM",main:{pwr:21,shl:160,rng:330,spd:570,itv:740},tunable:{mwp:1},type:"c",cost:90,hp:25,str:-1,tec:3,wlk:2,tgh:1}
+{id:143,name:"ランドスAM2",tunable:{mwp:1},type:"l",size:"M",cost:100,hp:15,str:-1,tec:2,wlk:2,main:{pwr:12,shl:540,rng:330,spd:440,itv:340,tec:100},comment:["ランドス・Q","メインウェポンのみ装着可能"]}
 
 {id:188,name:"リバースサンダーAM",size:"M",cost:35,hp:20,str:2,tec:-1,wlk:3,tgh:1}
 {id:113,name:"ルッカ・デーコAM",cost:40,hp:20,str:2,tec:2,wlk:1,fly:-1,tgh:1}
@@ -823,7 +824,7 @@
 {id:1,name:"マイティバインAM3",type:"l",cost:155,hp:25,str:4,wlk:2,fly:-1,main:{str:100,pwr:9,shl:780,rng:150,spd:400,itv:500},sub:{str:100,pwr:38,shl:30,rng:70,spd:85,itv:500},tunable:{mwp:1,pwp:1},joint:{wp:0},comment:"-"}
 {id:16,name:"マシンドレットAM",sub:{str:100,pwr:33,rng:120,spd:180,itv:1000},tunable:{pwp:1},joint:{wp:0},type:"l",cost:150,hp:25,str:3,tec:-1,wlk:1,fly:-1,tgh:3,comment:["コンボ可","2022/4/20"]}
 {id:222,name:"ランサーロットAM2",type:"l",cost:90,hp:25,wlk:2,fly:1,tgh:2,sub:{str:100,rng:100,spd:50,itv:500},tunable:{pwp:0},joint:{wp:0},comment:["無印、盾","盾耐久190","2021/11/2"]}
-{id:202209093,name:"ランサーロットAM7",type:"l",cost:90,hp:25,str:1,tec:1,wlk:1,fly:-1,tgh:3,sub:{str:100,rng:100,spd:50,itv:500},tunable:{pwp:0},joint:{wp:0},comment:["A、盾","盾耐久142？","実弾・爆風耐性50％"."2022/9/8"]}
+{id:202209093,name:"ランサーロットAM7",type:"l",cost:90,hp:25,str:1,tec:1,wlk:1,fly:-1,tgh:3,sub:{str:100,rng:100,spd:50,itv:500},tunable:{pwp:0},joint:{wp:0},comment:["A、盾","盾耐久142？","実弾・爆風耐性50％","2022/9/8"]}
 
 
 {id:6,name:"レッドスクィラAM2",type:"l",cost:170,hp:25,str:4,tec:-1,tgh:2,sub:{str:100,pwr:34,rng:75,spd:150,itv:2000},tunable:{pwp:1},joint:{wp:0}}
