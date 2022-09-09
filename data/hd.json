@@ -304,6 +304,7 @@
 
 {id:60,name:"ジオグラシスHD",cost:40,hp:25,str:2,tec:1,fly:1,tgh:1}
 {id:93,name:"ジオグラシスHD2",cost:40,hp:25,str:2,tec:1,wlk:2,fly:1,tgh:-1}
+{id:202209096,name:"ジオグラシスHD3",cost:35,hp:20,str:1,tec:2,wlk:1,tgh:1}
 
 
 {id:53,name:"シグマクロックHD",cost:40,hp:25,wlk:1,fly:1,tgh:3}
