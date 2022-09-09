@@ -49,7 +49,7 @@
 {id:64,name:"ジェミニオンLG",cost:45,hp:25,tec:2,wlk:3,tgh:1}
 {id:65,name:"ジェミニオンLG2",cost:45,hp:25,str:1,tec:2,wlk:3,fly:1,tgh:-1}
 {id:124,name:"シシナLG",type:"lacs",size:"S",cost:45,hp:25,str:1,tec:1,wlk:3,tgh:1}
-{id:202209094,name:"ジェッツLG",cost:35,hp:20,str:-1,tec:2,wlk:2,fly:2,tgh:1}
+{id:202209094,name:"ジェッツLG",cost:45,hp:25,str:1,tec:2,wlk:2,fly:2,fly:1}
 
 {id:18,name:"シャインバスターLG",cost:45,hp:25,str:1,tec:1,wlk:3,tgh:1}
 
