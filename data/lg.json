@@ -513,8 +513,9 @@
 {id:65109,name:"ジェネラルドLG",cost:45,hp:25,str:1,tec:-1,wlk:4,tgh:2}
 
 
-{id:28,name:"ジオグラシスLG",cost:45,hp:25,str:1,tec:1,wlk:4}
-{id:37,name:"ジオグラシスLG2",type:"a",cost:45,hp:25,tec:2,wlk:1,fly:3}
+{id:28,name:"ジオグラシスLG",cost:45,hp:25,str:1,tec:1,wlk:4,comment:"G型"}
+{id:37,name:"ジオグラシスLG2",type:"a",cost:45,hp:25,tec:2,wlk:1,fly:3,comment:"F型"}
+{id:202209096,name:"ジオグラシスLG3",cost:45,hp:25,str:2,wlk:3,fly:1}
 
 {id:26,name:"シュトルバンガーLG",cost:45,hp:45,tec:1,wlk:2,fly:1,tgh:2}
 {id:94,name:"シュトルバンガーLG2",cost:135,hp:50,str:-1,tec:2,wlk:3,tgh:2,sub:{tec:100,pwr:15,shl:30,rng:350,spd:290,itv:1000},type:"c",size:"L"}
