@@ -387,7 +387,7 @@
 {id:83,name:"デストラクトMAXAM",main:{pwr:10,shl:280,rng:330,spd:570,itv:200},cost:90,hp:25,str:-1,tec:3,wlk:1,tgh:2,type:"c",joint:{wp:0},tunable:{mwp:0}}
 
 
-{id:12,name:"テツジンガーAM",tunable:{pwp:1},type:"l",cost:105,hp:20,str:3,tec:-1,wlk:1,tgh:2,sub:{str:100,pwr:34,rng:70,spd:85,itv:500}}
+{id:12,name:"テツジンガーAM",tunable:{pwp:1},type:"l",cost:105,hp:20,str:3,tec:-1,wlk:1,tgh:2,sub:{str:100,pwr:34,rng:70,spd:85,itv:500},comment:"特殊コンボ中の連撃は投擲扱いでバリア・シールドに阻まれる"}
 {id:202204171,name:"テンポールAM",type:"c",size:"M",cost:75,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,main:{tec:100,pwr:9,shl:200,rng:330,spd:310,itv:900},tunable:{mwp:1},joint:{wp:0},comment:["ロボガラポン"]}
 
 
