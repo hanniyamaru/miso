@@ -61,7 +61,7 @@
 {id:202209094,name:"ジェッツAM",cost:35,hp:20,str:1,tec:2,wlk:-1,fly:2,tgh:1,comment:""}
 
 {id:80,name:"ジェミニオンAM",cost:35,hp:20,str:-1,tec:1,wlk:2,fly:2,tgh:1}
-{id:85,name:"ジェミニオンAM2",main:{pwr:14,shl:600,rng:250,spd:480,itv:140},joint:{wp:0},type:"s",size:"SS",cost:165,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,tunable:{mwp:1},comment:["自軍貫通","実弾属性","スロウターン2秒"]}
+{id:85,name:"ジェミニオンAM2",main:{pwr:14,shl:600,rng:250,spd:480,itv:140},joint:{wp:0},type:"s",size:"SS",cost:165,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,tunable:{mwp:1},comment:["自軍貫通　実弾属性","スロウターン2秒"]}
 {id:86,name:"ジェミニオンAM3",main:{pwr:8,shl:770,rng:180,spd:400,itv:660},joint:{wp:0},tunable:{mwp:1},type:"as",size:"SS",cost:70,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,comment:["チャージ1秒","距離減衰無し"]}
 
 {id:305,name:"シシナAM",type:"l",size:"S",cost:155,hp:20,str:-1,tec:3,wlk:2,tgh:1,joint:{wp:0},main:{pwr:19,shl:630,rng:250,spd:440,itv:140,tec:100},tunable:{mwp:1},comment:"実弾爆風30％"}
