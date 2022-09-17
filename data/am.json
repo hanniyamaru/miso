@@ -228,8 +228,8 @@
 
 {id:85,name:"メディージャーAM",cost:35,hp:20,tec:1,wlk:2,tgh:2}
 {id:86,name:"メディージャーAM2",cost:35,hp:20,tec:1,wlk:2,tgh:2,comment:["リペア弾","回復量60"],fixedParts:{wp:{name:"バクルス",main:{shl:80,rng:300,spd:300,itv:500},tunable:{mwp:0},cost:70,slot:0}},type:"s"}
-{id:1560,name:"メディージャーAM3",cost:35,hp:20,tec:1,wlk:2,tgh:2,comment:"ハイショ陣　回復量65",fixedParts:{wp:{name:"リベル",sub:{shl:12,rng:0,spd:0,itv:20000},tunable:{mwp:0},cost:70,slot:0}},type:"s"}
-{id:156,name:"メディージャーAM4",type:"s",size:"M",cost:35,hp:20,tec:1,wlk:2,tgh:2,comment:"シェルサプ杖",fixedParts:{wp:{name:"アスクレピオス",main:{shl:80,rng:300,spd:300,itv:500},type:"s",size:"M",cost:40,slot:0}}}
+{id:1560,name:"メディージャーAM3",cost:35,hp:20,tec:1,wlk:2,tgh:2,comment:["ハイショ陣","回復量65"],fixedParts:{wp:{name:"リベル",sub:{shl:12,rng:0,spd:0,itv:20000},tunable:{mwp:0},cost:70,slot:0}},type:"s"}
+{id:156,name:"メディージャーAM4",type:"s",size:"M",cost:35,hp:20,tec:1,wlk:2,tgh:2,comment:["シェルサプ杖","回復量36"],fixedParts:{wp:{name:"アスクレピオス",main:{shl:80,rng:300,spd:300,itv:500},type:"s",size:"M",cost:40,slot:0}}}
 
 
 
@@ -421,7 +421,7 @@
 
 {id:17,name:"ハイプリストルAM",cost:35,hp:20,tec:2,wlk:1,fly:1,tgh:1}
 {id:526,name:"ハイプリストルAM2",sub:{str:100,pwr:0,shl:230,rng:0,spd:0,itv:800},tunable:{pwp:0,mwp:0},type:"s",size:"M",cost:135,hp:20,wlk:2,fly:1,tgh:2,joint:{wp:0},comment:"回復量7"}
-{id:171103,name:"ハイプリストルGAM",main:{shl:220,rng:300,spd:300,itv:800},tunable:{mwp:1},cost:85,hp:20,str:2,tec:2,tgh:1,type:"s",comment:"回復量不明"}
+{id:171103,name:"ハイプリストルGAM",main:{shl:220,rng:300,spd:300,itv:800},tunable:{mwp:1},cost:85,hp:20,str:2,tec:2,tgh:1,type:"s",comment:"回復量11"}
 
 {id:54,name:"バグジーケットAM",cost:40,hp:25,str:1,tec:2,wlk:2,fly:-1,tgh:1}
 {id:55,name:"バグジーケットAM2",type:"s",cost:95,hp:25,str:-1,tec:2,wlk:1,tgh:3,sub:{pwr:21,rng:100,spd:10,itv:500}}
