@@ -190,7 +190,7 @@
 
 {group:"Ｓ陸ロボ",prefixID:"LS",commonStat:{size:"S",type:"l"},nextID:35}
 
-{id:87,name:"アルテリスBD",joint:{hdac:["S1","S1"],am:1},cartridge:{lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|16@20|25@25|30@20|13@30|32@50|31@40",hpup:14},fixedParts:{am:{name:"アルテリスAM",main:{pwr:19,shl:160,rng:225,spd:440,itv:400},sub:{tec:100,pwr:30,rng:70,spd:85,itv:500},tunable:{mwp:1,pwp:1},fixedParts:{wp:{name:"アルテリスボウ",cost:70,main:{pwr:60,shl:100,rng:250,spd:400,itv:600},tunable:{mwp:1}}},type:"l",size:"S",cost:195,hp:40,str:-2,tec:4,wlk:4,tgh:4}},type:"l",size:"S",cost:445,capa:885,hp:225,str:3,tec:12,wlk:11,fly:7,tgh:7,wbid:6}
+{id:87,name:"アルテリスBD",joint:{hdac:2,am:1},cartridge:{lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|16@20|25@25|30@20|13@30|32@50|31@40",hpup:14},fixedParts:{hdac:["S1","S1"],am:{name:"アルテリスAM",main:{pwr:19,shl:160,rng:225,spd:440,itv:400},sub:{tec:100,pwr:30,rng:70,spd:85,itv:500},tunable:{mwp:1,pwp:1},fixedParts:{wp:{name:"アルテリスボウ",cost:70,main:{pwr:60,shl:100,rng:250,spd:400,itv:600},tunable:{mwp:1}}},type:"l",size:"S",cost:195,hp:40,str:-2,tec:4,wlk:4,tgh:4}},type:"l",size:"S",cost:445,capa:885,hp:225,str:3,tec:12,wlk:11,fly:7,tgh:7,wbid:6}
 {id:79,name:"ウルメリーBD",joint:{bs:0},cartridge:{hpup:25,lv1:"95*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|16@20|28@30|26@20|13@30|32@50|31@40"},type:"l",size:"S",cost:355,capa:635,hp:205,str:6,tec:10,wlk:11,fly:10,tgh:8,wbid:5,builtin:{bs:1}}
 {id:22,name:"エースブレイバーBD",cost:505,capa:780,hp:210,str:7,tec:9,wlk:15,fly:7,tgh:7,main:{pwr:[5],shl:[1200],rng:225,spd:440,itv:200},cartridge:{hpup:18,lv1:"85*5@25|61*2@35|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|25@25|28@30|13@30|32@50|31@40"}}
 
