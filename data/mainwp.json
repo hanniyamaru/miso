@@ -107,7 +107,6 @@
 {id:18,name:"オートビームライフル",type:"a",size:"M",cost:120,main:{pwr:14,shl:450,rng:275,spd:520,itv:200}}
 {id:17,name:"ネガトロンライフル",type:"a",size:"L",cost:180,main:{pwr:37,shl:190,rng:275,spd:520,itv:900}}
 {id:11020,name:"マニューバーライフル",type:"a",size:"M",cost:60,main:{pwr:24,shl:180,rng:275,spd:480,itv:660}}
-{id:20222021,name:"ガーディアンライフル",type:"a",size:"M",cost:80,main:{pwr:13,shl:400,rng:275,spd:280,itv:500}}
 {id:37,name:"ヴォルグライフル",main:{tec:100,pwr:22,shl:360,rng:330,spd:480,itv:500},tunable:{mwp:1},type:"c",size:"M",cost:160}
 {id:20220416,name:"スパイラルライフル",size:"M",cost:140,type:"c",main:{tec:100,pwr:14,shl:600,rng:330,spd:480,itv:600},tunable:{mwp:1},comment:["ロボガラポン景品","ビクトリーFB初期装備"]}
 
@@ -212,12 +211,13 @@
 
 {id:586,name:"6連ミサイルランチャー",main:{pwr:15,shl:300,rng:330,spd:290,itv:500},type:"c",size:"M",cost:160}
 {id:587,name:"ジャックオーランチャー",main:{pwr:8,shl:920,rng:330,spd:330,itv:140},type:"c",size:"L",cost:130}
-{id:91,name:"ショコラパラソル",main:{pwr:13,tec:100,rng:250,spd:320,shl:250,itv:700},cost:80,type:"lacs",size:"M",tgh:-1,comment:"実弾属性爆風"}
+{id:91,name:"ショコラパラソル",main:{pwr:13,tec:100,rng:250,spd:320,shl:250,itv:700},cost:80,type:"lacs",size:"M",tgh:-1,comment:"実弾属性爆風70％"}
 {id:202204143,name:"フレアスター",size:"M",cost:60,type:"c",main:{tec:100,pwr:12,shl:440,rng:330,spd:290,itv:400},tunable:{mwp:1},comment:["アリーナコイン景品"]}
 
 {id:78,name:"ラピッドパルスミサイル",main:{pwr:11,shl:350,rng:275,spd:350,itv:320},tunable:{mwp:1},type:"a",size:"M",cost:110,comment:"爆風比率50％"}
 {id:38,name:"ビームランチャー",main:{tec:100,pwr:27,shl:180,rng:275,spd:280,itv:1000},size:"L",type:"a",cost:100}
 
+{id:20222021,name:"ガーディアンライフル",type:"a",size:"M",cost:80,main:{pwr:13,shl:400,rng:275,spd:280,itv:500},comment:["NPCコレッティ","ビーム爆風70％"]}
 
 
 
