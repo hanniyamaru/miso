@@ -42,11 +42,11 @@
 {id:23,name:"影打・桜雷切",size:"S",cost:100,sub:{str:100,pwr:30,rng:81,spd:98,itv:500}}
 
 {id:1001,name:"リッパーズサイス",type:"la",size:"M",cost:160,sub:{str:100,pwr:32,rng:70,spd:85,itv:1000},tunable:{pwp:1}}
-{id:1002,name:"オミナスサイス",type:"las",size:"M",cost:200,sub:{str:100,pwr:34,rng:70,spd:85,itv:1000},tunable:{pwp:1}}
-{id:1003,name:"ミスティサイス",type:"l",size:"S",cost:100,sub:{str:100,pwr:32,rng:70,spd:10,itv:500},tunable:{pwp:1}}
-{id:30,name:"ゲイルサイス",sub:{pwr:26,rng:70,spd:85,itv:1000,str:100},tunable:{pwp:1},cost:160,type:"la",size:"M",comment:"空戦装備時性能変化"}
+{id:1002,name:"オミナスサイス",type:"las",size:"M",cost:200,sub:{str:100,pwr:34,rng:70,spd:85,itv:1000},tunable:{pwp:1},comment:"性能変化（補）"}
+{id:1003,name:"ミスティサイス",type:"l",size:"S",cost:100,sub:{str:100,pwr:32,rng:70,spd:10,itv:500},tunable:{pwp:1},comment:"ミッションコイン景品"}
+{id:30,name:"ゲイルサイス",sub:{pwr:26,rng:70,spd:85,itv:1000,str:100},tunable:{pwp:1},cost:160,type:"la",size:"M",comment:"性能変化（空）"}
 
-{id:100109,name:"ジャックサイス",type:"lacs",size:"M",cost:40,sub:{str:100,pwr:32,rng:31,spd:44,itv:1000},tunable:{pwp:1}}
+{id:100109,name:"ジャックサイス",type:"lacs",size:"M",cost:40,sub:{str:100,pwr:32,rng:31,spd:44,itv:1000},tunable:{pwp:1},comment:"イベント宙域箱（ヴァンピレ惑星）"}
 {id:20223012,name:"ウォウドゥンセイヴ",type:"l",size:"LL",cost:200,sub:{str:100,pwr:30,rng:70,spd:85,itv:1000},tunable:{pwp:1},comment:["ナイトギアディスク報酬"]}
 
 {id:205,name:"牛魔刀",sub:{pwr:36,rng:63,spd:77,itv:1800,str:100},tunable:{pwp:1},type:"l",size:"L",cost:120,comment:"ゴクソツキ初期装備"}
