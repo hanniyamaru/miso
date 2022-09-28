@@ -45,7 +45,7 @@
 {group:"ビームガン系",prefixID:"BG",commonStat:{tunable:{mwp:1}},nextID:60}
 
 {id:71,name:"AURAライトニングガン",main:{pwr:15,shl:240,rng:250,spd:440,itv:700},auraStat:{main:{pwr:18,shl:240,rng:250,spd:440,itv:700}},type:"a",size:"S",cost:70}
-{id:501,name:"スワロービームガン",main:{tec:100,pwr:12,shl:320,rng:275,spd:440,itv:540},tunable:{mwp:1},type:"a",size:"M",cost:80}
+{id:501,name:"スワロービームガン",main:{tec:100,pwr:12,shl:320,rng:275,spd:440,itv:540},tunable:{mwp:1},type:"a",size:"M",cost:80,comment:["ミッションコイン景品","ビーム爆風20％","爆風が2度発生する場合あり（要検証）"]}
 {id:202203021,name:"ポリウスビームガン",main:{tec:100,pwr:15,shl:360,rng:275,spd:320,itv:500},tunable:{mwp:1},type:"a",size:"M",cost:110,comment:"ピエッタ・ST初期装備"}
 {id:105,name:"クリスタルビームガン",size:"M",cost:110,main:{pwr:28,shl:280,rng:275,spd:440,itv:600,tec:100},type:"a",comment:"-"}
 {id:24,name:"ビームガン",size:"S",cost:30,main:{pwr:10,shl:420,rng:275,spd:500,itv:440}}
@@ -125,7 +125,7 @@
 {id:48,name:"パワーシューター",type:"l",size:"M",cost:140,main:{pwr:36,shl:230,rng:250,spd:400,itv:760}}
 {id:49,name:"バリスタシューター",size:"M",cost:180,main:{pwr:29,shl:310,rng:250,spd:400,itv:540},type:"la"}
 {id:153,name:"クエンチシューター",main:{pwr:17,shl:500,rng:225,spd:440,itv:340},type:"l",size:"M",cost:160}
-{id:73,name:"トリプルシューター",main:{pwr:10,shl:660,rng:250,spd:320,itv:800},type:"l",size:"M",cost:150}
+{id:73,name:"トリプルシューター",main:{pwr:10,shl:660,rng:250,spd:320,itv:800},type:"l",size:"M",cost:150,comment:"ミッションコイン景品"}
 {id:63,name:"ビームシューター",main:{pwr:26,shl:280,rng:275,spd:485,itv:600},type:"a",size:"M",cost:160}
 {id:2022209,name:"キューピッドシューター",type:"lacs",size:"M",cost:60,main:{pwr:14,shl:430,rng:250,spd:440,itv:400}}
 
@@ -189,7 +189,7 @@
 
 {group:"ミサイル系",prefixID:"MS",commonStat:{tunable:{mwp:1}},nextID:333}
 {id:22,name:"V-2ウェイミサイル",type:"c",size:"L",cost:160,main:{pwr:17,shl:330,rng:330,spd:440,itv:1000}}
-{id:760,name:"バーティカルミサイル",main:{pwr:14,shl:240,rng:330,spd:350,itv:500},type:"c",size:"M",cost:100}
+{id:760,name:"バーティカルミサイル",main:{pwr:14,shl:240,rng:330,spd:350,itv:500},type:"c",size:"M",cost:100,comment:"ミッションコイン景品"}
 
 {id:18,name:"コンパクトランチャー",type:"c",size:"S",cost:60,main:{pwr:13,shl:240,rng:330,spd:290,itv:600}}
 {id:20,name:"ロケットランチャー",type:"c",size:"M",cost:100,main:{pwr:19,shl:210,rng:330,spd:290,itv:800}}
@@ -234,7 +234,7 @@
 
 
 {group:"ショットガン系",prefixID:"ST",commonStat:{tunable:{mwp:1}},nextID:14}
-{id:18,name:"マグネショットガン",main:{pwr:5,shl:1190,rng:330,spd:290,itv:900},size:"M",type:"c",cost:140,wlk:1}
+{id:18,name:"マグネショットガン",main:{pwr:5,shl:1190,rng:330,spd:290,itv:900},size:"M",type:"c",cost:140,wlk:1,comment:"ミッションコイン景品"}
 
 {id:1,name:"ショットガン",size:"M",cost:50,main:{pwr:6,shl:1090,rng:150,spd:400,itv:560},auraStat:{comment:["距離減衰・実弾系ショットガン・カスタムショットガン","武器表記威力が命中距離によって割合で減少し、その後にTEC計算される","威力50%~100%"]}}
 {id:2,name:"カスタムショットガン",size:"L",cost:70,main:{pwr:6,shl:1090,rng:150,spd:400,itv:560}}
