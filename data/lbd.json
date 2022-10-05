@@ -5,63 +5,6 @@
 {group:"Ｓ陸　近日更新分",prefixID:"LS",commonStat:{size:"S",type:"l"},nextID:35}
 
 
-{id:20220909,name:"カットバルドBD",builtin:{bs:1},cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|16@20|25@25|28@30|21@20|13@30|32@50|31@40"},size:"L",cost:445,capa:870,hp:290,str:11,tec:5,wlk:16,fly:9,tgh:7,wbid:17,auraSystem:1}
-
-{id:112,name:"オウカSwmBFBD",builtin:{bs:1},joint:{wp:2},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|53@10|16@20|21@20|13@30|34@15|32@50|31@40"},fixedParts:{hd:{name:"オウカSwmBFHD",cost:40,hp:25,str:3,wlk:1,fly:1},lg:{name:"オウカSwmBFLG",cost:45,hp:25,str:2,tec:-1,wlk:3,tgh:2},am:[{joint:{wp:3},fixedParts:{wp:{name:"バトルフレームOα",slot:0}},name:"オウカSwmBFAM",cost:40,hp:25,str:2,wlk:2,tgh:1,slot:0},{name:"オウカSwmBFAM2",joint:{wp:3},fixedParts:{wp:[{name:"バトルフレームOα",slot:0}]},cost:40,hp:25,str:2,wlk:2,tgh:1}],wp:[{name:"バトルフレームOβ",main:{pwr:5,shl:240,rng:200,spd:570,itv:800},tunable:{mwp:1}},"バトルホイッスル"]},cost:480,capa:900,hp:245,str:13,tec:5,wlk:16,fly:10,tgh:9}
-
-{id:175,name:"メイジーBD",sub:{str:100,pwr:30,rng:150,spd:350,itv:1000},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|15@15|16@20|13@30|34@15|32@50|31@40"},fixedParts:{hdac:["S1","S1"],hd:{name:"メイジーHD",cost:40,hp:25,str:2,wlk:2,tgh:1},lg:[{name:"メイジーLG",cost:45,hp:25,str:2,wlk:3,fly:1}],wp:{name:"メイジーのスカート",slot:0},am:[{name:"メイジーAM2",tunable:{mwp:1},cost:70,hp:25,str:2,wlk:1,fly:1,tgh:1,main:{str:100,pwr:20,shl:50,rng:200,spd:570,itv:500},joint:{wp:0}},{main:{shl:30,spd:10,itv:1000},fixedParts:{wp:{name:"ハンマーバスケット",sub:{str:100,pwr:33,rng:77,spd:94,itv:1000},tunable:{pwp:1},cost:120,auraStat:{sub:{pwr:35,shl:0,rng:77,spd:94,itv:1000}},comment:"ディライブ入力時による攻撃で吹き飛んだ敵は障害物にぶつかると追加ダメージ"}},name:"メイジーAM",cost:60,hp:25,str:2,wlk:1,fly:1,tgh:1,joint:{wp:1},tunable:{mwp:1}}]},type:"l",size:"S",cost:505,capa:900,hp:225,str:12,tec:4,wlk:17,fly:5,tgh:10,wbid:76,joint:{hdac:2,wp:1},builtin:{bs:1},auraSystem:1}
-
-{id:202208031,name:"パラセクター・アシスBD",cost:445,capa:850,hp:225,str:14,tec:5,wlk:14,fly:9,tgh:6,size:"S",wbid:0,cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|30@20|16@20|29@15|13@30|31@40|32@50"},joint:{wp:1}}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      
-
-
-
-
-
 
 
 
@@ -91,6 +34,7 @@
 
 
 {id:29,name:"オウカBD",cost:445,capa:900,hp:225,str:13,tec:5,wlk:15,fly:9,tgh:6,cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|16@20|28@30|21@20|13@30|34@15|32@50|31@40"},joint:{am:3},fixedParts:{hd:{name:"オウカHD",cost:40,hp:25,str:1,wlk:2,tgh:2},am:[{name:"オウカAM",cost:40,hp:25,str:2,wlk:1,tgh:2,fixedParts:{wp:{name:"真打・桜雷切",cost:160,main:{str:100,pwr:16,shl:220,rng:225,spd:480,itv:500},sub:{str:100,pwr:32,rng:81,spd:98,itv:500},tunable:{mwp:1,pwp:1}}}},{name:"オウカAM2",cost:40,hp:25,str:2,wlk:1,tgh:2,fixedParts:{wp:"オウカAM@"}},{name:"桜雷切の鞘",cost:60,sub:{str:100,pwr:35,rng:120,spd:250,itv:1000},tunable:{pwp:1},slot:3,joint:{wp:0}}]},comment:["AM@のcost20は桜雷切に合算、シールド耐久値35 2021/2/10、AM破壊不能"]}
+{id:112,name:"オウカSwmBFBD",builtin:{bs:1},joint:{wp:2},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|53@10|16@20|21@20|13@30|34@15|32@50|31@40"},fixedParts:{hd:{name:"オウカSwmBFHD",cost:40,hp:25,str:3,wlk:1,fly:1},lg:{name:"オウカSwmBFLG",cost:45,hp:25,str:2,tec:-1,wlk:3,tgh:2},am:[{joint:{wp:3},fixedParts:{wp:{name:"バトルフレームOα",slot:0}},name:"オウカSwmBFAM",cost:40,hp:25,str:2,wlk:2,tgh:1,slot:0},{name:"オウカSwmBFAM2",joint:{wp:3},fixedParts:{wp:[{name:"バトルフレームOα",slot:0}]},cost:40,hp:25,str:2,wlk:2,tgh:1}],wp:[{name:"バトルフレームOβ",main:{pwr:5,shl:240,rng:200,spd:570,itv:800},tunable:{mwp:1}},"バトルホイッスル"]},cost:480,capa:900,hp:245,str:13,tec:5,wlk:16,fly:10,tgh:9}
 
 
 {id:124,name:"カエデBD",joint:{wp:3},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|27@10|12@20|13@30|34@15|32@50|31@40"},fixedParts:{wp:["W2","W3","W1"],hd:{name:"カエデHD",cost:40,hp:25,str:2,wlk:2,fly:1},lg:{name:"カエデLG",cost:45,hp:25,str:3,wlk:2,fly:1},am:[{name:"カエデAM",main:{shl:50,spd:10,itv:1000},tunable:{mwp:1},cost:60,hp:25,str:2,wlk:2,tgh:1,joint:{wp:1}},{name:"カエデAM2",cost:40,hp:25,str:2,wlk:2,tgh:1,joint:{wp:0}}]},type:"l",size:"S",cost:445,capa:900,hp:225,str:15,tec:5,wlk:12,fly:8,tgh:8,builtin:{bs:1}}
@@ -163,6 +107,9 @@
 
 
 {id:23,name:"ミスティホロウαBD",cost:465,capa:780,hp:210,str:11,tec:6,wlk:14,fly:8,tgh:6,sub:{str:100,pwr:[32],shl:[0],rng:80,spd:180,itv:1000},wbid:5,cartridge:{hpup:18,lv1:"85*5@25|61*2@35|7@20|9@20|10@15|17@15|18@15||20@15|23@25|16@20|15@15|26@20|13@30|32@50|31@40"},fixedParts:{hd:{name:"ミスティホロウαHD",cost:40,hp:25,str:2,tec:1,wlk:1,tgh:1,slot:3}},joint:{bs:1},comment:"BDサブ発動中格闘の被ダメージ上昇・ソードガード無効"}
+
+{id:175,name:"メイジーBD",sub:{str:100,pwr:30,rng:150,spd:350,itv:1000},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|15@15|16@20|13@30|34@15|32@50|31@40"},fixedParts:{hdac:["S1","S1"],hd:{name:"メイジーHD",cost:40,hp:25,str:2,wlk:2,tgh:1},lg:[{name:"メイジーLG",cost:45,hp:25,str:2,wlk:3,fly:1}],wp:{name:"メイジーのスカート",slot:0},am:[{name:"メイジーAM2",tunable:{mwp:1},cost:70,hp:25,str:2,wlk:1,fly:1,tgh:1,main:{str:100,pwr:20,shl:50,rng:200,spd:570,itv:500},joint:{wp:0}},{main:{shl:30,spd:10,itv:1000},fixedParts:{wp:{name:"ハンマーバスケット",sub:{str:100,pwr:33,rng:77,spd:94,itv:1000},tunable:{pwp:1},cost:120,auraStat:{sub:{pwr:35,shl:0,rng:77,spd:94,itv:1000}},comment:"ディライブ入力時による攻撃で吹き飛んだ敵は障害物にぶつかると追加ダメージ"}},name:"メイジーAM",cost:60,hp:25,str:2,wlk:1,fly:1,tgh:1,joint:{wp:1},tunable:{mwp:1}}]},type:"l",size:"S",cost:505,capa:900,hp:225,str:12,tec:4,wlk:17,fly:5,tgh:10,wbid:76,joint:{hdac:2,wp:1},builtin:{bs:1},auraSystem:1}
+
 {id:168,name:"メルクーリオBD",sub:{pwr:25,shl:0,rng:120,spd:250,itv:1000,str:100},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|16@20|15@15|21@20|13@30|34@15|32@50|31@40"},fixedParts:{hd:{name:"メルクーリオHD",cost:40,hp:25,str:2,wlk:1,tgh:2},lg:{name:"メルクーリオLG",cost:45,hp:25,str:1,wlk:3,fly:1,tgh:1},am:[{name:"メルクーリオAM",cost:40,hp:25,str:1,wlk:1,fly:1,tgh:2},{name:"メルクーリオAM2",cost:40,hp:25,str:1,wlk:1,fly:1,tgh:2,joint:{wp:2}}],wp:{name:"メルクーリオBD@",type:"l",size:"S",slot:0,joint:{wp:1,bs:0,hd:0,lg:0,am:0,hdac:0,fcac:0}}},type:"l",size:"S",cost:530,capa:900,hp:245,str:17,tec:4,wlk:15,fly:10,tgh:7,builtin:{bs:1},joint:{wp:1}}
 
 {id:72,name:"モミジBD",joint:{hdac:3},fixedParts:{hdac:["S1","S1","S1"],hd:{name:"モミジHD",cost:40,hp:25,str:2,tec:1,fly:1,tgh:1},lg:{name:"モミジLG",cost:75,hp:25,str:1,tec:-1,wlk:4,fly:1,tgh:1,sub:{str:100,pwr:30,shl:30,rng:60,spd:100,itv:1000},tunable:{pwp:1}},am:[{name:"モミジAM",joint:{wp:0},main:{pwr:5,shl:1200,rng:250,spd:400,itv:500,str:100},sub:{pwr:34,rng:77,spd:94,itv:1000,str:100},tunable:{mwp:1,pwp:1},cost:180,hp:25,str:2,wlk:2,tgh:1},{name:"モミジAM2",joint:{wp:0},main:{str:100,pwr:28,shl:150,rng:225,spd:400,itv:700},tunable:{mwp:1},cost:110,hp:25,str:2,wlk:2,tgh:1,comment:"緋焔豪華衝"}],bs:{name:"モミジBS",cost:40,hp:25,str:1,tec:1,wlk:2,fly:2}},cost:445,capa:900,hp:225,str:14,tec:4,wlk:16,fly:7,tgh:7,wbid:8,cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|56@15|57@15|58@15|20@15|23@25|22@30|21@20|13@30|34@15|32@50|31@40"}}
@@ -230,6 +177,7 @@
 {id:113,name:"ナイトジャーBD",cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|16@20|12@20|15@15|29@10|13@30|32@50|31@40"},cost:445,capa:885,hp:225,str:9,tec:4,wlk:9,fly:7,tgh:11,comment:"-"}
 
 
+{id:202208031,name:"パラセクター・アシスBD",cost:445,capa:850,hp:225,str:14,tec:5,wlk:14,fly:9,tgh:6,size:"S",wbid:0,cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|30@20|16@20|29@15|13@30|31@40|32@50"},joint:{wp:1}}
 
 
 {id:410,name:"フォースドライブBD",cartridge:{hpup:18,lv1:"85*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|28@30|15@15|16@20|13@30|32@50|31@40"},cost:405,capa:780,hp:210,str:12,tec:6,wlk:13,fly:7,tgh:7}
@@ -277,7 +225,7 @@
 {id:23,name:"ヴィシュラBD",main:{shl:[0],itv:500},joint:{am:1,hdac:1},cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|16@20|29@15|21@20|13@30|32@50|31@40"},fixedParts:{hdac:["S1"],am:{name:"ヴィシュラAM",joint:{wp:2},fixedParts:{wp:[{name:"宝塔影縫い",sub:{str:100,pwr:32,rng:70,spd:85,itv:500},tunable:{pwp:1},cost:130},{name:"宝塔煉獄",sub:{str:100,pwr:30,shl:0,rng:120,spd:300,itv:1000},tunable:{pwp:0},cost:50}]},cost:80,hp:50,str:6,tec:-2,wlk:3,tgh:3}},cost:445,capa:870,hp:255,str:12,tec:3,wlk:16,fly:10,tgh:7,wbid:6}
 {id:19,name:"ウルフガイBD",main:{str:100,pwr:[13,14,15],shl:[600],rng:[225,235,250],spd:[400,420,440],itv:300},auraStat:{main:{pwr:[13,14,15],shl:600,rng:[250,260,275],spd:[440,460,480],itv:300}},cartridge:{hpup:14,lv1:"4*5@20|61*2@30|7@20|9@20|10@15|17@15|18@15|20@15|23@25|25@25|21@20|16@20|13@30|32@50|31@40"},cost:515,capa:870,hp:255,str:12,tec:6,wlk:14,fly:6,tgh:10,comment:["アリーナコイン景品"],size:"M",auraSystem:1}
 
-
+{id:18,name:"エアロライダーBD",cartridge:{hpup:18,lv1:"85*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|25@25|26@20|16@20|13@30|32@50|31@40"},cost:405,capa:800,hp:245,str:5,tec:9,wlk:12,fly:8,tgh:11,wbid:5,size:"M",comment:["Season7アリーナコイン景品"]}
 {id:22,name:"エスティスBD",sub:{pwr:20,rng:0,spd:220,itv:1000,str:100},cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|20@15|18@15|23@25|22@30",lv6:"16@20|30@20|26@20",lv9:"13@30|32@50|31@40"},type:"l",size:"M",cost:475,capa:870,hp:255,str:5,tec:10,wlk:15,fly:10,tgh:8,wbid:2,comment:["効果時間10秒","CT約11秒"]}
 {id:55,name:"エスティスBD2",sub:{pwr:25,shl:30,rng:100,spd:200,itv:1000,tec:100},cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|25@25|26@20|21@20|13@30|32@50|31@40"},type:"l",size:"M",cost:485,capa:870,hp:255,str:4,tec:12,wlk:14,fly:9,tgh:9,wbid:2,comment:"CT7秒"}
 
@@ -372,6 +320,7 @@
 {id:60,name:"アレシスBD",cartridge:{hpup:10,lv1:"75*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|28@30|25@25|15@15|16@20|13@30|32@50|31@40"},type:"l",size:"L",cost:490,capa:945,hp:305,str:10,tec:7,wlk:15,fly:8,tgh:11,auraSystem:1}
 {id:40,name:"ウォーダスBD",cartridge:{hpup:18,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|16@20|15@15|12@20|13@30|32@50|31@40"},cost:405,capa:800,hp:275,str:18,tec:4,wlk:7,fly:5,tgh:11,wbid:6}
 
+{id:20220909,name:"カットバルドBD",builtin:{bs:1},cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|16@20|25@25|28@30|21@20|13@30|32@50|31@40"},size:"L",cost:445,capa:870,hp:290,str:11,tec:5,wlk:16,fly:9,tgh:7,wbid:17,auraSystem:1}
 
 {id:3,name:"ガナハウンドBD",cost:405,capa:800,hp:275,str:11,tec:4,wlk:13,fly:7,tgh:10,wbid:5,cartridge:{hpup:18,lv1:"85*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|",lv6:"16@20|21@20|15@15",lv9:"13@30|32@50|31@40"}}
 
