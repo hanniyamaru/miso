@@ -250,6 +250,8 @@
 {id:11,name:"オメガブラスター",type:"a",size:"LL",cost:200,main:{pwr:13,shl:900,rng:200,spd:440,itv:880}}
 
 {id:20220706,name:"バレージヒートガン",size:"M",type:"c",cost:120,main:{pwr:19,shl:630,rng:330,spd:400,itv:800}}
+{id:20221005,name:"イーグレットブラスター",type:"a",size:"M",cost:110,main:{pwr:9,shl:660,rng:275,spd:350,itv:800},comment:"Season7アリーナコイン景品"}
+{id:202210051,name:"ミサイルクラスターガン",size:"M",type:"c",cost:140,main:{pwr:12,shl:170,rng:330,spd:290,itv:800},comment:["Season7アリーナコイン景品","爆風70％？"]}
 
 
 
