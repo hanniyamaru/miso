@@ -1,4 +1,4 @@
-{group:"UniＳサイズ",prefixID:"S",commonStat:{size:"S"},nextID:48}
+{group:"Ｓサイズ",prefixID:"S",commonStat:{size:"S"},nextID:48}
 
 
 {id:20220605,name:"アーテ・メイドLG",cost:75,hp:25,str:2,wlk:3,tgh:1,sub:{pwr:25,rng:70,spd:85,itv:1000,str:100},type:"lcs",size:"S",comment:"-"}
@@ -122,8 +122,10 @@
 {id:24,name:"ホネボンLG",cost:40,hp:20,str:2,wlk:3,comment:"2022/2/16更新"}
 
 {id:31,name:"ミスティホロウαLG",cost:45,hp:25,str:1,wlk:3,fly:1}
-{id:84,name:"ミヅハLG",cost:40,hp:20,tec:1,wlk:2,fly:2,type:"s",comment:"Season7アリーナコイン景品"}
+{id:84,name:"ミヅハLG",cost:40,hp:20,tec:1,wlk:2,fly:2,type:"s",comment:"Season6アリーナコイン景品"}
 {id:25,name:"ミッサイドLG",cost:45,hp:25,str:2,tec:-1,wlk:3,tgh:1}
+
+{id:8,name:"メカルドLG",cost:45,hp:25,tec:1,wlk:3,fly:1,tgh:1,size:"S",comment:["Season7アリーナコイン景品"]}
 {id:115,name:"メディカレストLG",size:"S",cost:45,hp:25,tec:1,wlk:3,tgh:2}
 
 {id:78,name:"メトラLG",sub:{pwr:7,shl:600,rng:275,spd:350,itv:1000},tunable:{pwp:0},type:"a",cost:145,hp:25,str:-1,tec:3,wlk:2,fly:2}
@@ -146,7 +148,7 @@
 {id:301,name:"ワンダーズLG",cost:45,hp:25,str:-1,tec:1,wlk:3,fly:1,tgh:2}
 
 {id:113,name:"ワンダーズLG2",size:"S",cost:45,hp:25,str:-1,tec:2,wlk:2,fly:1,tgh:2,comment:"ワンダーズ・ドラ"}
-
+{id:20221006,name:"A・メイドBS",type:"s",cost:35,hp:20,str:-1,tec:1,wlk:2,fly:3,size:"SS",comment:["Season7アリーナコイン景品"]}
 {id:114,name:"A・ミラルLG",type:"lacs",size:"S",cost:45,hp:25,str:-1,tec:2,wlk:4,tgh:1}
 {id:76,name:"A.L.E.クリムローゼLG",joint:{bs:2},fixedParts:{bs:[{name:"A.L.EクリムローゼBS",size:"M",type:"a",builtin:{bs:1},slot:0},{name:"A.L.EクリムローゼBS",type:"a",size:"M",slot:0,builtin:{bs:1}}]},type:"a",size:"S",cost:85,hp:50,str:1,tec:2,fly:4,tgh:3}
 
@@ -443,7 +445,7 @@
 
 
 
-{group:"UniＬサイズ",prefixID:"L",commonStat:{size:"L"},nextID:44}
+{group:"Ｌサイズ",prefixID:"L",commonStat:{size:"L"},nextID:44}
 
 
 
@@ -592,7 +594,7 @@
 {id:100,name:"ヘカトケレスLG2",sub:{shl:30,rng:100,spd:260,itv:1000},tunable:{pwp:0},type:"c",size:"L",cost:70,hp:65,wlk:3,fly:1,tgh:2,builtin:{lg:-1}}
 {id:48,name:"ベクターLG",sub:{shl:60,rng:100,spd:160,itv:1000},type:"a",cost:85,hp:45,tec:2,wlk:3,fly:2,tgh:-1}
 {id:49,name:"ベクターLG2",sub:{shl:60,rng:100,spd:160,itv:1000},auraStat:{sub:{shl:60,rng:100,spd:160,itv:1000},str:-1,tec:1,wlk:3,fly:2,tgh:1},type:"a",cost:85,hp:45,str:-1,tec:1,wlk:3,fly:2,tgh:1}
-
+{id:20221006,name:"ヘビーフェルカスLG",cost:45,hp:25,str:1,wlk:2,fly:1,tgh:2,size:"L",comment:["Season7アリーナコイン景品"]}
 {id:40,name:"ヘリアンザスLG",type:"s",cost:45,hp:25,str:1,wlk:3,tgh:2}
 {id:106,name:"ペルセシウスLG",sub:{shl:50,rng:100,spd:135,itv:1000},type:"a",size:"L",cost:70,hp:65,wlk:2,fly:2,tgh:2}
 
@@ -642,7 +644,7 @@
 
 
 
-{group:"UniLLサイズ",prefixID:"LL",commonStat:{size:"L"},nextID:999}
+{group:"LLサイズ",prefixID:"LL",commonStat:{size:"L"},nextID:999}
 {id:52,name:"アクイーア・エアーズLG",sub:{pwr:25,shl:60,rng:275,spd:300,itv:1000,tec:100},size:"LL",type:"a",cost:90,hp:60,str:-1,tec:2,wlk:3,tgh:2,joint:{bs:1},comment:["ロボガラポン","ブースト回復効果・貫通弾","爆風に命中した相手毎にブースト回復効果を得られる"]}
 
 
