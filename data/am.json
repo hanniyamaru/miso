@@ -156,6 +156,8 @@
 {id:35,name:"ミスティホロウαAM",cost:35,hp:20,str:2,wlk:2,fly:1}
 {id:36,name:"ミスティホロウαAM2",type:"l",cost:105,hp:20,str:3,wlk:2,fly:-1,tgh:1,sub:{str:100,pwr:32,rng:70,spd:10,itv:500},tunable:{pwp:1},joint:{wp:0}}
 {id:116,name:"ミヅハAM",main:{pwr:9,shl:460,rng:300,spd:320,itv:500},type:"s",size:"S",cost:95,hp:15,str:1,tec:2,fly:1,tunable:{mwp:1},comment:["低確率レイトクロック効果","Season7アリーナコイン景品"]}
+
+{id:38,name:"メカルドAM",cost:30,hp:15,str:1,tec:1,tgh:2,size:"S",comment:["Season7アリーナコイン景品"]}
 {id:1651,name:"メディカレストAM",size:"S",cost:35,hp:20,str:-1,tec:1,wlk:2,tgh:3}
 
 {id:110,name:"メトラAM",main:{pwr:7,shl:500,rng:275,spd:350,itv:360},type:"a",cost:75,hp:20,tec:3,wlk:-1,fly:2,tgh:2,tunable:{mwp:1,pwp:0},size:"S"}
@@ -272,8 +274,9 @@
 {id:91,name:"ウルフガイAM",sub:{pwr:28,rng:70,spd:30,itv:1000,str:100},tunable:{pwp:1},type:"l",cost:110,hp:25,str:2,wlk:1,fly:1,tgh:1,comment:["※変形により武器消失","アリーナコイン景品"]}
 
 {id:65,name:"エアレイダーAM",cost:30,hp:15,tec:2,fly:1,tgh:1,comment:"Season7アリーナコイン景品"}
+{id:93,name:"エアロライダーAM",main:{tec:100,pwr:10,shl:560,rng:250,spd:300,itv:300},joint:{wp:0},type:"l",cost:105,hp:20,str:-1,tec:2,wlk:3,tgh:1,size:"M",tunable:{mwp:1},comment:["Season7アリーナコイン景品","実弾爆風30％"]}
 
-{id:202207061,name:"エスエルAM2",main:{pwr:26,shl:240,rng:300,spd:440,itv:700},type:"c",size:"M",cost:105,hp:20,str:-1,tec:2,wlk:2,tgh:2,tunable:{mwp:1},joint:{wp:0},comment:"Season7アリーナコイン景品"}
+{id:202207061,name:"エスエルAM2",main:{pwr:26,shl:240,rng:300,spd:440,itv:700},type:"c",size:"M",cost:105,hp:20,str:-1,tec:2,wlk:2,tgh:2,tunable:{mwp:1},joint:{wp:0},comment:"Season6アリーナコイン景品"}
 {id:3,name:"エスカゴットAM",type:"c",cost:70,hp:20,tec:2,wlk:1,tgh:2,main:{pwr:16,shl:280,rng:330,spd:400,itv:500},tunable:{mwp:1},joint:{wp:0}}
 
 {id:107,name:"エスティスAM",main:{tec:100,pwr:22,shl:400,rng:225,spd:440,itv:440},type:"l",cost:140,hp:25,tec:3,fly:-1,tgh:3,tunable:{mwp:1}}
@@ -721,7 +724,8 @@
 {id:129,name:"ヘカトケレスAM",cost:115,hp:20,str:-1,tec:3,wlk:1,tgh:2,size:"L",type:"c",main:{tec:100,pwr:14,shl:360,rng:330,spd:370,itv:800},tunable:{mwp:1}}
 {id:140,name:"ヘカトケレスAM2",main:{tec:100,pwr:26,shl:210,rng:300,spd:320,itv:800},tunable:{mwp:1},type:"c",size:"L",cost:115,hp:20,str:-1,tec:4,fly:1,tgh:1,joint:{wp:0}}
 {id:62,name:"ベクターAM",cost:35,hp:20,str:1,tec:-1,wlk:2,fly:1,tgh:2}
-
+{id:20221006,name:"ヘビーフェルカスAM",cost:35,hp:20,str:1,tec:1,fly:1,tgh:2,size:"L",comment:["Season7アリーナコイン景品"]}
+{id:202210061,name:"ヘビーフェルカスAM2",type:"a",cost:165,hp:20,str:3,tec:-1,fly:1,tgh:2,sub:{str:100,pwr:32,shl:200,rng:77,spd:94,itv:1000},tunable:{pwp:1},joint:{wp:0},size:"L",comment:["Season7アリーナコイン景品","ブースト回復効果"]}
 
 {id:47,name:"ヘリアンザスAM",cost:35,hp:20,str:2,tec:2,wlk:1}
 {id:210,name:"ペルセシウスAM",main:{str:100,pwr:15,shl:30,rng:250,spd:570,itv:500},tunable:{mwp:1},type:"a",size:"M",cost:55,hp:25,str:3,tec:-1,fly:2,tgh:1}
