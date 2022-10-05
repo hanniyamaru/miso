@@ -220,8 +220,10 @@
 
 {id:392,name:"ウミガメンティスLG",type:"a",size:"M",cost:45,hp:25,str:2,tec:1,wlk:3,fly:1,tgh:-1}
 {id:62,name:"ウルフガイLG",cost:45,hp:25,str:2,tec:1,wlk:3,fly:-1,tgh:1,comment:["アリーナコイン景品"]}
-{id:31,name:"エアレイダーLG",type:"a",cost:45,hp:25,tec:2,wlk:3,fly:1,type:"a",comment:"Season7アリーナコイン景品"}
-{id:202207061,name:"エスエルLG2",cost:45,hp:25,tec:2,wlk:3,fly:-1,tgh:2,comment:"Season7アリーナコイン景品"}
+
+{id:64,name:"エアロライダーLG",cost:40,hp:25,wlk:4,tgh:2,type:"lc",sub:{str:100,pwr:0,shl:30,rng:0,spd:200,itv:1000},comment:["Season7アリーナコイン景品","CT3秒"]}
+{id:31,name:"エアレイダーLG",type:"a",cost:45,hp:25,tec:2,wlk:3,fly:1,type:"a",comment:"Season6アリーナコイン景品"}
+{id:202207061,name:"エスエルLG2",cost:45,hp:25,tec:2,wlk:3,fly:-1,tgh:2,comment:"Season6アリーナコイン景品"}
 {id:76,name:"エスティスLG",type:"l",cost:45,hp:25,str:-1,tec:2,wlk:3,fly:1,tgh:1}
 {id:90,name:"オーガヒルLG",joint:{bs:1},cost:45,hp:25,str:-1,wlk:2,fly:2,tgh:3}
 {id:398,name:"オボロマルLG",cost:45,hp:25,str:2,tec:2,wlk:2,size:"M",type:"lacs"}
