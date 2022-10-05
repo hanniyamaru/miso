@@ -8,7 +8,7 @@
 {id:4,name:"FLY+1",size:"M",cost:10,fly:1}
 {id:5,name:"TGH+1",size:"M",cost:10,tgh:1}
 
-{group:"Uniシールド系",prefixID:"SL",nextID:4}
+{group:"シールド系",prefixID:"SL",nextID:4}
 {id:1,name:"バックラー",size:"SS",cost:40}
 {id:2,name:"バイパーシールド",size:"L",cost:40,comment:["耐久値100","2021/11/2"]}
 {id:3,name:"スパイクシールド",type:"l",size:"LL",cost:90,sub:{str:100,pwr:28,rng:120,spd:400,itv:500},tunable:{pwp:1}}
@@ -23,7 +23,7 @@
 {id:2022060301,name:"ユニオンシールドWIZ",main:{str:100,pwr:0,shl:50,rng:0,spd:10,itv:1000},tunable:{mwp:1,pwp:0},type:"c",size:"M",cost:30,comment:["WIZ:砲戦のみ"]}
 
 
-{group:"Uniソード系",prefixID:"SW",commonStat:{tunable:{pwp:1}},nextID:27}
+{group:"ソード系",prefixID:"SW",commonStat:{tunable:{pwp:1}},nextID:27}
 
 {id:1,name:"ショートソード",size:"M",cost:40,sub:{str:100,pwr:28,rng:77,spd:94,itv:500}}
 {id:4,name:"※ロングソード",size:"M",cost:70,sub:{str:100,pwr:30,rng:77,spd:94,itv:500},comment:["以下同数値の共通武器","チョコレートブレード（L）","シザーソード"]}
@@ -65,7 +65,7 @@
 {id:34,name:"クリムエッジ",sub:{tec:100,pwr:28,tec:100,rng:70,spd:85,itv:1000},tunable:{pwp:1},type:"a",size:"S",cost:100,comment:["刀身と衝撃波で参照威力・TECが別々の複合武器","両方をHITさせた場合は表記以上のダメージとなる","刀身威力28　衝撃波威力7"]}
 {id:43,name:"エンドガラティーン",sub:{pwr:31,rng:70,spd:85,itv:1600},auraStat:{sub:{pwr:34,rng:70,spd:85,itv:1600}},size:"L",cost:120,type:"a",comment:["威力はSTR・TECの高い方に依存","ブースト回復効果"]}
 
-{group:"Uniナイフ系",prefixID:"KN",commonStat:{tunable:{pwp:1}},nextID:8}
+{group:"ナイフ系",prefixID:"KN",commonStat:{tunable:{pwp:1}},nextID:8}
 {id:1,name:"カッター",size:"SS",cost:25,sub:{str:100,pwr:26,rng:105,spd:128,itv:500}}
 {id:2,name:"サバイバルナイフ",size:"S",cost:55,sub:{str:100,pwr:28,rng:105,spd:128,itv:500}}
 {id:4,name:"インテグラルナイフ",size:"M",cost:100,sub:{str:100,pwr:31,rng:105,spd:128,itv:500}}
@@ -74,7 +74,7 @@
 
 
 
-{group:"Uniランス系",prefixID:"LC",commonStat:{tunable:{pwp:1}},nextID:13}
+{group:"ランス系",prefixID:"LC",commonStat:{tunable:{pwp:1}},nextID:13}
 {id:21,name:"イビルハルバード",sub:{str:100,pwr:33,rng:91,spd:110,itv:500},tunable:{pwp:1},cost:180,type:"la",size:"M"}
 {id:9,name:"スピア",type:"ls",size:"M",cost:100,sub:{str:100,pwr:32,rng:84,spd:102,itv:1000}}
 {id:5,name:"ランス",type:"l",size:"M",cost:100,sub:{str:100,pwr:28,rng:100,spd:200,itv:2000}}
@@ -91,7 +91,7 @@
 
 
 
-{group:"Uniアクス系",prefixID:"AX",nextID:10}
+{group:"アクス系",prefixID:"AX",nextID:10}
 {id:1,name:"ハンドアクス",type:"lcs",size:"S",cost:40,sub:{str:100,pwr:30,rng:56,spd:68,itv:1000},tunable:{pwp:1}}
 {id:2,name:"バトルアクス",type:"ls",size:"M",cost:70,sub:{str:100,pwr:32,rng:56,spd:68,itv:1000},tunable:{pwp:1}}
 {id:3,name:"バイキングアクス",type:"l",size:"L",cost:100,sub:{str:100,pwr:34,rng:56,spd:68,itv:1000},tunable:{pwp:1}}
@@ -101,7 +101,7 @@
 {id:300,name:"ビームエッジアクス",sub:{tec:100,pwr:34,tec:100,rng:100,spd:180,itv:1000},tunable:{pwp:1},type:"a",size:"L",cost:100}
 {id:2022114,name:"オールドスライサー",sub:{str:100,pwr:25,rng:70,spd:85,itv:2000},tunable:{pwp:1},type:"l",size:"L",cost:160}
 
-{group:"Uniメイス系",prefixID:"MC",commonStat:{tunable:{pwp:1}},nextID:7}
+{group:"メイス系",prefixID:"MC",commonStat:{tunable:{pwp:1}},nextID:7}
 
 {id:7,name:"ダイモンメイス",sub:{str:100,pwr:34,rng:100,spd:85,itv:500},tunable:{pwp:1},type:"l",size:"LL",cost:155}
 
@@ -112,9 +112,10 @@
 
 {id:14,name:"ジャックオーハンマー",sub:{pwr:25,rng:130,spd:70,itv:1000,str:100},cost:130,size:"L",type:"l",tunable:{pwp:1}}
 {id:1222,name:"Xmasベルハンマー",main:{pwr:20,shl:50,rng:200,spd:500,itv:500,str:100},sub:{pwr:31,rng:49,spd:60,itv:1000,str:100},cost:70,size:"M",tunable:{mwp:1,pwp:1}}
+{id:20221005,name:"フレイムメイス",type:"l",size:"L",cost:150,sub:{str:100,pwr:35,shl:50,rng:70,spd:85,itv:1000},comment:"Season7アリーナコイン景品"}
 
 
-{group:"Uniダガー系",prefixID:"DG",nextID:6}
+{group:"ダガー系",prefixID:"DG",nextID:6}
 {id:1,name:"3ウェイダガー",type:"las",size:"S",cost:50,str:-1,tec:-1,sub:{str:100,pwr:25,rng:70,spd:180,itv:1400}}
 {id:2,name:"コンビネーションダガー",type:"la",size:"S",cost:120,sub:{str:100,pwr:24,rng:80,spd:180,itv:1000}}
 
@@ -173,7 +174,7 @@
 
 
 
-{group:"Uni subコンバージョン",prefixID:"SO",nextID:17}
+{group:"subコンバージョン",prefixID:"SO",nextID:17}
 {id:40,name:"グラッドチェーンソー",sub:{pwr:32,rng:[70],spd:[85],itv:500,str:100},type:"l",size:"S",slot:3,comment:"クルール・グラッド専用コンバージョンパーツ",cost:60,tunable:{mwp:0,pwp:1}}
 
 {id:1010,name:"プチ桜雷切",main:{str:100,pwr:15,shl:220,rng:225,spd:400,itv:500}
