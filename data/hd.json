@@ -447,7 +447,7 @@
 
 {id:66,name:"ハティガルムHD",cost:40,hp:25,str:2,tec:1,fly:2}
 {id:67,name:"ハティガルムHD2",cost:40,hp:25,str:2,wlk:2,tgh:1}
-{id:202210063,name:"ハティガルムHD3",cost:40,hp:25,str:-1,tec:3,wlk:1,tgh:2,comment:"ハティガルム・ヘル"}
+{id:202210063,name:"ハティガルムHD3",cost:40,hp:25,str:-1,tec:3,wlk:1,tgh:2,comment:["ハティガルム・ヘル","自軍貫通"]}
 {id:202210064,name:"ハティガルムHD4",main:{tec:100,pwr:20,shl:360,rng:225,spd:400,itv:500},tunable:{mwp:1},type:"l",size:"M",cost:75,hp:20,tec:2,wlk:2,tgh:1,comment:["ハティガルム・ヘル"]}
 
 {id:332,name:"ハディロスHD",type:"lacs",size:"M",cost:30,hp:15,str:1,tec:-1,wlk:1,fly:-1,tgh:3}
@@ -606,7 +606,7 @@
 {id:58,name:"ロブガイズHD",cost:35,hp:20,str:1,wlk:1,fly:1,tgh:2,size:"M"}
 
 
-{id:20220619,name:"ワイルドフィザリバンHD",main:{pwr:19,shl:510,rng:225,spd:440,itv:340},tunable:{mwp:1},type:"l",cost:135,hp:20,str:-1,tec:3,wlk:2,fly:1}
+{id:20220619,name:"ワイルドフィザリバンHD",main:{pwr:19,shl:510,rng:225,spd:440,itv:340},tunable:{mwp:1},type:"l",cost:135,hp:20,str:-1,tec:3,wlk:2,fly:1,comment:["ロボガラポン","自軍貫通"]}
 {id:328,name:"ワニガメンティスHD",type:"lacs",size:"M",cost:40,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
 
 {id:323,name:"A・ミラルHD",type:"l",size:"M",cost:115,hp:20,tec:3,wlk:2,fly:-1,tgh:1,main:{tec:100,pwr:3,shl:1200,rng:250,spd:440,itv:200},tunable:{mwp:1}}
