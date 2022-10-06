@@ -436,6 +436,7 @@
 
 {id:44,name:"ハティガルムAM",cost:70,hp:25,tec:2,wlk:2,tgh:1,main:{pwr:15,shl:180,rng:225,spd:570,itv:400},tunable:{mwp:1},joint:{wp:0}}
 {id:45,name:"ハティガルムAM2",cost:70,hp:25,tec:2,wlk:1,fly:1,tgh:1,main:{pwr:11,shl:480,rng:200,spd:400,itv:240},tunable:{mwp:1},joint:{wp:0}}
+{id:202210065,name:"ハティガルムAM3",cost:75,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,main:{tec:100,pwr:12,shl:540,rng:250,spd:480,itv:700},tunable:{mwp:1},joint:{wp:0},comment:"ハティガルム・ヘル"}
 
 {id:20,name:"パラボロイドAM",cost:35,hp:20,str:2,tec:1,wlk:1,tgh:1}
 
