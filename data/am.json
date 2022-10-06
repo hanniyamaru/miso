@@ -519,7 +519,7 @@
 
 
 
-{group:"UniＬサイズ",prefixID:"L",commonStat:{size:"L"},nextID:53}
+{group:"Ｌサイズ",prefixID:"L",commonStat:{size:"L"},nextID:53}
 
 
 
@@ -637,8 +637,8 @@
 {id:9,name:"スチールライダーAM",cost:35,hp:20,str:2,tec:1,wlk:1,tgh:1}
 {id:531,name:"スチールライダーAM2",type:"l",cost:135,hp:20,str:-1,tec:3,wlk:1,tgh:2,main:{tec:100,pwr:6,shl:1600,rng:200,spd:400,itv:180},tunable:{mwp:1},joint:{wp:0}}
 
-{id:202210062,name:"ゼタ・アーセナルAM2",type:"c",cost:85,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,main:{tec:100,pwr:10,shl:700,rng:330,spd:440,itv:260},tunable:{mwp:1},comment:["GATLING"]}
-{id:202210063,name:"ゼタ・アーセナルAM3",type:"c",cost:85,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,main:{tec:100,pwr:5,shl:1470,rng:330,spd:280,itv:900},tunable:{mwp:1},comment:["MISSILE"]}
+{id:202210062,name:"ゼタ・アーセナルAM2",type:"c",cost:85,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,main:{tec:100,pwr:10,shl:700,rng:330,spd:440,itv:260},joint:{wp:0},tunable:{mwp:1},comment:["GATLING"]}
+{id:202210063,name:"ゼタ・アーセナルAM3",type:"c",cost:85,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,main:{tec:100,pwr:5,shl:1470,rng:330,spd:280,itv:900},joint:{wp:0},tunable:{mwp:1},comment:["MISSILE"]}
 {id:40,name:"セタシオンAM",main:{pwr:18,shl:400,rng:275,spd:440,itv:400},tunable:{mwp:1},joint:{wp:0},auraStat:{main:{pwr:16,shl:340,rng:275,spd:480,itv:600}},type:"a",cost:95,hp:20,tec:2,fly:1,tgh:2,comment:"※変形はAURAで対応"}
 
 {id:75,name:"ゼロブレイカーAM",cost:35,hp:20,str:3,tec:-1,wlk:1,tgh:2}
