@@ -636,6 +636,7 @@
 {id:51,name:"ダゴミュールBS",type:"c",cost:120,hp:25,str:-1,tec:3,fly:3,joint:{bs:1},fixedParts:{bs:{name:"ダゴミュールBS@",main:{pwr:11,shl:400,rng:300,spd:360,itv:800},tunable:{mwp:1},slot:0},comment:"BS@cost80合算"}}
 {id:78,name:"ダゴミュールBS2",joint:{bs:2},fixedParts:{bs:[{main:{pwr:23,shl:120,rng:330,spd:350,itv:800},name:"ダゴミュールBS2@1",slot:0,comment:"ミサイル"},{name:"ダゴミュールBS2@2",main:{pwr:10,shl:300,rng:380,spd:500,itv:300},slot:0,comment:"バズーカ"}]},type:"c",cost:160,hp:25,str:-1,tec:3,fly:2,tgh:1,comment:"@パーツ合計cost120合算"}
 
+{id:202210071,name:"ツインタワードBS",size:"L",type:"c",cost:35,hp:20,str:1,tec:2,fly:2,comment:[""]}
 {id:52,name:"ディースモークBS",type:"s",cost:40,hp:25,tec:-1,wlk:2,fly:2,tgh:2}
 
 {id:89,name:"ディースモークBS2",main:{tec:100,pwr:7,shl:400,rng:275,spd:290,itv:800},sub:{shl:25,rng:10,spd:10,itv:1000,str:100},tunable:{pwp:1,mwp:1},type:"s",size:"L",cost:140,hp:25,str:-1,tec:1,wlk:1,fly:3,tgh:1}
