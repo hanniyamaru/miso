@@ -394,6 +394,8 @@
 
 
 {id:11,name:"ミカドマックスLG",cost:45,hp:25,tec:1,wlk:3,fly:1,tgh:1}
+{id:117,name:"ミラージュレイドLG",type:"lacs",size:"M",cost:45,hp:25,str:2,wlk:2,fly:1,tgh:1,comment:"AURA機構"}
+
 {id:15,name:"メカジェッターLG",cost:85,hp:25,str:2,tec:-1,wlk:2,fly:1,tgh:1,sub:{str:100,pwr:24,shl:60,rng:120,spd:220,itv:1000},type:"a",tunable:{pwp:1}}
 {id:74,name:"メカジェッターOMGLG",sub:{tec:100,pwr:28,shl:60,rng:120,spd:220,itv:1000},tunable:{pwp:1},type:"a",cost:75,hp:25,wlk:3,fly:2,tgh:1}
 
