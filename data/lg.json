@@ -555,6 +555,9 @@
 {id:202204141,name:"ツチガタLG",size:"L",cost:45,hp:25,tec:1,wlk:2,fly:2,tgh:1,comment:["アリーナコイン景品"]}
 
 {id:63,name:"ディースモークLG",cost:45,hp:25,wlk:3,fly:-1,tgh:3}
+{id:105,name:"ディースモークLG2",type:"s",size:"L",cost:45,hp:25,str:2,wlk:3,tgh:1}
+
+
 {id:71,name:"ティルージュLG",cost:50,hp:60,tec:1,wlk:3,fly:1,tgh:1,auraStat:{sub:{pwr:30,rng:120,spd:250,itv:1000,tec:100}},comment:"TRANSFORM省略"}
 
 {id:11,name:"デストラクトLG",cost:45,hp:40,str:1,tec:1,wlk:2,tgh:2}
