@@ -381,7 +381,6 @@
 {id:133,name:"ダルタニスAM2",sub:{str:100,pwr:32,rng:75,spd:150,itv:1500},tunable:{pwp:1},joint:{wp:0},type:"l",cost:155,hp:20,str:2,tec:-1,wlk:3,tgh:1,comment:"シールド耐久値不明"}
 {id:305,name:"ダルタニスAM3",cost:155,hp:20,str:2,tec:-1,wlk:2,tgh:2,tunable:{mwp:1,pwp:1},joint:{wp:0},main:{str:100,pwr:11,shl:280,rng:225,spd:400,itv:300},sub:{str:100,pwr:28,shl:0,rng:120,spd:350,itv:1000},comment:"シールド耐久値不明"}
 
-{id:202210071,name:"ツインタワードAM",sub:{pwr:22,shl:180,rng:350,spd:320,itv:1000,tec:100},type:"c",size:"L",cost:75,hp:20,str:-1,tec:2,wlk:2,fly:2,joint:{wp:0}}
 
 {id:109,name:"テオライネAM",main:{pwr:7,shl:780,rng:330,spd:270,itv:580},joint:{wp:0},cost:85,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,tunable:{mwp:1},type:"c"}
 {id:178,name:"テオライネAM2",main:{tec:100,pwr:18,shl:300,rng:330,spd:220,itv:720},tunable:{mwp:1},type:"c",size:"M",cost:115,hp:20,tec:2,wlk:1,tgh:2}
@@ -662,6 +661,8 @@
 {id:20220524,name:"タイラントデストラクトAM",type:"c",size:"L",cost:100,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2,tunable:{mwp:1},joint:{wp:0},main:{pwr:7,shl:1360,rng:330,spd:480,itv:560},comment:"-"}
 {id:82,name:"ダゴミュールAM",cost:65,hp:20,str:-1,tec:2,wlk:2,tgh:2,sub:{tec:100,pwr:22,rng:98,spd:119,itv:500},tunable:{pwp:1},type:"lc",size:"L",joint:{wp:0}}
 {id:120,name:"ダゴミュールAM2",main:{pwr:13,shl:180,rng:330,spd:250,itv:1000},tunable:{mwp:1},type:"lc",cost:65,hp:20,tec:3,wlk:1,fly:1}
+
+{id:202210071,name:"ツインタワードAM",sub:{pwr:22,shl:180,rng:350,spd:320,itv:1000,tec:100},type:"c",size:"L",cost:75,hp:20,str:-1,tec:2,wlk:2,fly:2,joint:{wp:0}}
 
 {id:202204141,name:"ツチガタAM",size:"L",cost:35,hp:20,tec:2,tgh:3,comment:["アリーナコイン景品"]}
 
