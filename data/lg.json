@@ -472,7 +472,7 @@
 {id:120,name:"アレシスLG",type:"l",size:"L",cost:65,hp:65,str:2,tec:-1,wlk:3,fly:1,tgh:1,sub:{pwr:0,rng:110,spd:200,itv:500}}
 
 {id:72,name:"アントリオンLG",type:"lc",cost:45,hp:60,tec:1,wlk:3,fly:-1,tgh:2}
-{id:88,name:"アントリオンLG2",sub:{str:100,pwr:20,shl:0,rng:100,spd:100,itv:1000},type:"lc",cost:95,hp:60,str:-1,wlk:4,fly:1,tgh:1}
+{id:88,name:"アントリオンLG2",sub:{tec:100,pwr:20,shl:0,rng:100,spd:100,itv:1000},type:"lc",cost:95,hp:60,str:-1,wlk:4,fly:1,tgh:1}
 
 {id:66,name:"ウォーダスLG",cost:45,hp:25,str:2,tec:1,wlk:3,fly:-1}
 
