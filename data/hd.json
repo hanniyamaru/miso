@@ -393,6 +393,9 @@
 {id:195107,name:"テオライネHD3",cost:35,hp:20,str:2,wlk:1,tgh:2}
 
 {id:192,name:"ディースモークHD",cost:40,hp:25,str:2,tec:1,wlk:1,fly:2,tgh:-1}
+{id:202210073,name:"ディースモークHD2",cost:40,hp:25,str:2,tec:1,wlk:1,fly:2,tgh:-1}
+
+
 {id:218,name:"ティルージュHD",cost:40,hp:25,str:-1,tec:3,fly:1,tgh:2}
 
 
