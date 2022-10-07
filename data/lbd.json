@@ -424,7 +424,7 @@
 {id:13,name:"ロブガイズBD",type:"l",size:"L",cost:445,capa:870,hp:290,str:13,tec:6,wlk:11,fly:6,tgh:12,cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|16@20|14@20|21@20|15@15|13@30|32@50|31@40"}}
 
 
-{id:33,name:"ワイルドビークBD",sub:{itv:2000},joint:{hd:0,hdac:1,fcac:1},cartridge:{hpup:18,lv1:"85*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|16@20|21@20|26@20|13@30|32@50|31@40"},fixedParts:{lg:{name:"ワイルドビークLG",sub:{shl:50,rng:80,spd:180,itv:1000},cost:75,hp:45,wlk:4,tgh:1,size:"L",type:"l"},am:[{name:"ワイルドビークAM",cost:95,hp:25,tec:2,wlk:1,tgh:2,main:{tec:100,pwr:9,shl:1080,rng:225,spd:440,itv:140},tunable:{mwp:1},type:"l",size:"L",joint:{wp:0}},{name:"ワイルドビークAM",cost:95,hp:25,tec:2,wlk:1,tgh:2,main:{tec:100,pwr:9,shl:1080,rng:225,spd:440,itv:140},tunable:{mwp:1},joint:{wp:0}}]},cost:475,capa:800,hp:300,str:3,tec:12,wlk:18,fly:8,tgh:9,size:"L",type:"l"}
+{id:33,name:"ワイルドビークBD",sub:{itv:2000},joint:{hd:0,hdac:4,fcac:1},cartridge:{hpup:18,lv1:"85*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|16@20|21@20|26@20|13@30|32@50|31@40"},fixedParts:{hdac:["S1","S1","S1"],lg:{name:"ワイルドビークLG",sub:{shl:50,rng:80,spd:180,itv:1000},cost:75,hp:45,wlk:4,tgh:1,size:"L",type:"l"},am:[{name:"ワイルドビークAM",cost:95,hp:25,tec:2,wlk:1,tgh:2,main:{tec:100,pwr:9,shl:1080,rng:225,spd:440,itv:140},tunable:{mwp:1},type:"l",size:"L",joint:{wp:0}},{name:"ワイルドビークAM",cost:95,hp:25,tec:2,wlk:1,tgh:2,main:{tec:100,pwr:9,shl:1080,rng:225,spd:440,itv:140},tunable:{mwp:1},joint:{wp:0}}]},cost:475,capa:800,hp:300,str:3,tec:12,wlk:18,fly:8,tgh:9,size:"L",type:"l"}
 
 
 
