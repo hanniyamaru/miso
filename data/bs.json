@@ -167,7 +167,7 @@
 {id:1831102,name:"ハードボンバーBS",main:{tec:100,pwr:8,shl:740,rng:330,spd:280,itv:1000},tunable:{mwp:1},type:"c",size:"S",cost:135,hp:20,str:-1,tec:3,fly:2,tgh:1}
 
 {id:33,name:"バタフレアBS",type:"a",cost:100,hp:25,str:-1,tec:2,wlk:1,fly:3,sub:{tec:100,pwr:26,rng:120,spd:10,itv:1000},tunable:{pwp:1}}
-
+{id:34,name:"バタフレアBS2",type:"a",cost:100,hp:30,str:2,tec:1,fly:3,sub:{tec:100,pwr:30,shl:40,rng:100,spd:200,itv:1000},tunable:{pwp:1},comment:"チューン可否不明"}
 {id:134,name:"ハンナ・フリッツBS",cost:35,hp:20,str:2,tec:-1,wlk:2,fly:2,type:"l"}
 
 {id:202203021,name:"ピエッタBS",tunable:{mwp:0,pwp:0},type:"a",size:"S",cost:95,hp:20,str:-1,tec:2,fly:3,tgh:1,main:{tec:100,pwr:5,shl:1120,rng:275,spd:280,itv:1300},comment:["BS@省略","武器チューン不可"]}
