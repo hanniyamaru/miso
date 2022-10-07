@@ -255,6 +255,7 @@
 
 
 {id:20220414,name:"アルヴィーテAM",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1,comment:["アリーナコイン景品"]}
+{id:166,name:"アントリオンAM4",cost:35,hp:20,str:1,tec:1,wlk:1,tgh:2,size:"M",comment:"アントリオンMoray"}
 
 {id:37,name:"イヅナカムイαAM",cost:40,hp:25,str:1,tec:2,wlk:-1,fly:2,tgh:1}
 {id:38,name:"イヅナカムイαAM2",cost:40,hp:25,str:2,tec:1,wlk:1,tgh:1}
