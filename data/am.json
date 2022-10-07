@@ -487,7 +487,7 @@
 
 {id:25,name:"ミカドマックスAM",type:"l",cost:35,hp:20,str:3,tec:-1,wlk:1,tgh:2}
 {id:26,name:"ミッサイドAM",type:"c",cost:135,hp:20,tec:3,wlk:1,tgh:1,main:{pwr:19,shl:240,rng:330,spd:400,itv:800},tunable:{mwp:1}}
-{id:167,name:"ミラージュレイドAM",sub:{str:100,pwr:28,shl:0,rng:70,spd:85,itv:1000},tunable:{pwp:1},auraStat:{sub:{str:100,pwr:30,shl:0,rng:77,spd:94,itv:1000}},cost:105,hp:20,str:2,tec:-1,wlk:1,fly:2,tgh:1,type:"a",size:"M",comment:["AURA機構"]}
+{id:167,name:"ミラージュレイドAM",sub:{str:100,pwr:28,shl:0,rng:70,spd:85,itv:1000},tunable:{pwp:1},auraStat:{sub:{str:100,pwr:30,shl:0,rng:77,spd:94,itv:1000}},cost:105,hp:20,str:2,tec:-1,wlk:1,fly:2,tgh:1,type:"a",size:"M",comment:["AURA機構","AM@省略"]}
 
 {id:27,name:"メカジェッターAM",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1}
 {id:104,name:"メカジェッターOMGAM",cost:115,hp:20,str:-1,tec:2,fly:3,tgh:1,type:"a",tunable:{mwp:1},size:"M",main:{tec:100,pwr:20,shl:250,rng:275,spd:280,itv:800}}
