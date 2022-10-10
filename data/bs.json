@@ -222,7 +222,7 @@
 {id:87,name:"メカジェッターガールBS",type:"a",cost:40,hp:20,str:1,wlk:1,fly:2,tgh:1}
 {id:16,name:"メカルドBS",type:"c",cost:30,hp:15,tec:1,fly:3,size:"S",comment:["Season7アリーナコイン景品"]}
 
-{id:153,name:"メディカレストBS",joint:{wp:1},main:{tec:100,pwr:20,shl:50,rng:200,spd:400,itv:500},sub:{tec:100,pwr:11,shl:270,rng:275,spd:320,itv:1000},fixedParts:{wp:{name:"メディカレストBS@",main:{pwr:1,shl:30,rng:300,spd:300,itv:500},sub:{pwr:0,shl:50,rng:300,spd:300,itv:1000},slot:0,comment:["メイン：スピードアップ11秒","サブ：オールガード6秒"]}},tunable:{mwp:1},type:"s",size:"S",cost:200,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,comment:["メイン：吹き飛ばし効果・実弾属性爆風70%","サブ：ジャムバレット効果2秒"]}
+{id:153,name:"メディカレストBS",joint:{wp:1},main:{tec:100,pwr:20,shl:50,rng:200,spd:400,itv:500},sub:{tec:100,pwr:11,shl:270,rng:275,spd:320,itv:1000},fixedParts:{wp:{name:"メディカレストBS@",main:{pwr:1,shl:30,rng:300,spd:300,itv:500},sub:{pwr:0,shl:50,rng:300,spd:300,itv:1000},slot:0,comment:["メイン：回復量75・スピードアップ11秒","サブ：オールガード6秒"]}},tunable:{mwp:1},type:"s",size:"S",cost:200,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,comment:["メイン：吹き飛ばし効果・実弾属性爆風70%","サブ：ジャムバレット効果2秒"]}
 
 
 {id:96,name:"メトラBS",type:"a",cost:35,hp:20,str:1,tec:-1,wlk:1,fly:4}
