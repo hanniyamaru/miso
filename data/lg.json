@@ -552,7 +552,7 @@
 {id:62,name:"ダゴミュールLG",cost:45,hp:25,wlk:4,fly:-1,tgh:2}
 
 {id:202210071,name:"ツインタワードLG",size:"L",cost:40,hp:40,tec:1,wlk:2,tgh:2,comment:[""]}
-{id:202204141,name:"ツチガタLG",size:"L",cost:45,hp:25,tec:1,wlk:2,fly:2,tgh:1,comment:["アリーナコイン景品"]}
+{id:202204141,name:"ツチガタLG",size:"L",cost:45,hp:25,tec:1,wlk:2,fly:2,tgh:1,comment:["アリーナコイン景品","BS内蔵"]}
 
 {id:63,name:"ディースモークLG",cost:45,hp:25,wlk:3,fly:-1,tgh:3}
 {id:105,name:"ディースモークLG2",type:"s",size:"L",cost:45,hp:25,str:2,wlk:3,tgh:1}
