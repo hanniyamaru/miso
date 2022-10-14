@@ -359,7 +359,7 @@
 
 
 {id:201,name:"ジェネシオンBS",type:"a",size:"M",cost:60,hp:20,wlk:-1,fly:4,tgh:2,sub:{pwr:0,shl:20,rng:0,spd:200,itv:1000}}
-{id:202207072,name:"ジェネシオンBS2",sub:{pwr:1,shl:35,rng:150,spd:120,itv:1000},type:"a",size:"M",cost:65,hp:20,wlk:1,fly:4,comment:["ジェネシオンSB"]}
+{id:202207072,name:"ジェネシオンBS2",sub:{pwr:1,shl:35,rng:150,spd:120,itv:1000},type:"a",size:"M",cost:65,hp:20,wlk:1,fly:4,comment:["ジェネシオンSB","1段目:CT6秒","2段目:CT12秒","ブースト回復効果"]}
 
 {id:26,name:"シグマクロックBS",type:"s",cost:40,hp:25,str:2,tec:1,fly:2}
 
