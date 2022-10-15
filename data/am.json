@@ -254,7 +254,7 @@
 {id:202207073,name:"アマテウスAM3",main:{tec:100,pwr:14,shl:500,rng:330,spd:280,itv:380},sub:{tec:100,pwr:27,shl:30,rng:100,spd:300,itv:1000},type:"c",size:"M",cost:165,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,tunable:{mwp:1,pwp:1},joint:{wp:0},comment:["アマテウス・ヒメ"]}
 
 
-{id:20220414,name:"アルヴィーテAM",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1,comment:["アリーナコイン景品"]}
+{id:20220414,name:"アルヴィーテAM",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1,comment:["Season6アリーナコイン景品"]}
 {id:166,name:"アントリオンAM4",cost:35,hp:20,str:1,tec:1,wlk:1,tgh:2,size:"M",comment:"アントリオンMoray"}
 
 {id:37,name:"イヅナカムイαAM",cost:40,hp:25,str:1,tec:2,wlk:-1,fly:2,tgh:1}
@@ -275,7 +275,7 @@
 {id:187,name:"ウミガメンティスAM",main:{pwr:16,shl:140,rng:275,spd:350,itv:780},type:"a",size:"M",cost:80,hp:25,str:-1,tec:2,fly:2,tgh:2,tunable:{mwp:1}}
 {id:91,name:"ウルフガイAM",sub:{pwr:28,rng:70,spd:30,itv:1000,str:100},tunable:{pwp:1},type:"l",cost:110,hp:25,str:2,wlk:1,fly:1,tgh:1,comment:["※変形により武器消失","アリーナコイン景品"]}
 
-{id:65,name:"エアレイダーAM",cost:30,hp:15,tec:2,fly:1,tgh:1,comment:"Season7アリーナコイン景品"}
+{id:65,name:"エアレイダーAM",cost:30,hp:15,tec:2,fly:1,tgh:1,comment:"Season6アリーナコイン景品"}
 {id:93,name:"エアロライダーAM",main:{tec:100,pwr:10,shl:560,rng:250,spd:300,itv:300},joint:{wp:0},type:"l",cost:105,hp:20,str:-1,tec:2,wlk:3,tgh:1,size:"M",tunable:{mwp:1},comment:["Season7アリーナコイン景品","実弾爆風30％"]}
 
 {id:202207061,name:"エスエルAM2",main:{pwr:26,shl:240,rng:300,spd:440,itv:700},type:"c",size:"M",cost:105,hp:20,str:-1,tec:2,wlk:2,tgh:2,tunable:{mwp:1},joint:{wp:0},comment:"Season6アリーナコイン景品"}
