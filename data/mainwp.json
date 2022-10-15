@@ -24,7 +24,7 @@
 {id:15,name:"ブーストガン",type:"l",size:"M",cost:160,main:{pwr:13,shl:560,rng:250,spd:570,itv:200}}
 {id:67,name:"エスティスマグ",main:{pwr:29,shl:380,rng:225,spd:440,itv:500},size:"M",type:"l",cost:180}
 {id:66,name:"ピアースガン",main:{pwr:19,shl:640,rng:250,spd:400,itv:340},type:"l",cost:120,size:"M"}
-{id:91,name:"アサルトピアースガン",main:{tec:100,pwr:16,shl:520,rng:250,spd:400,itv:300},type:"l",size:"M",cost:180,comment:"未実装"}
+{id:91,name:"アサルトピアースガン",main:{tec:100,pwr:16,shl:520,rng:250,spd:400,itv:300},type:"l",size:"M",cost:180,comment:"未実装:2022/10/12"}
 
 {id:23,name:"LLバルクマグ",type:"l",size:"LL",cost:200,main:{pwr:32,shl:440,rng:225,spd:440,itv:500}}
 {id:57,name:"LLバルクアクセル",main:{pwr:29,shl:360,rng:250,spd:570,itv:500,tec:100},size:"LL",type:"l",cost:180}
@@ -83,7 +83,7 @@
 {id:24,name:"コンパクトガトリング",type:"lc",size:"M",cost:110,main:{pwr:10,shl:1080,rng:225,spd:400,itv:140}}
 {id:18,name:"バスターガトリング",type:"l",size:"L",cost:170,main:{pwr:13,shl:1100,rng:225,spd:400,itv:140}}
 {id:19,name:"ヒュージガトリング",type:"l",size:"LL",cost:180,main:{pwr:11,shl:1560,rng:250,spd:400,itv:140}}
-{id:22,name:"ダブルガトリング",type:"l",size:"LL",cost:210,main:{pwr:7,shl:2840,rng:250,spd:400,itv:140},comment:"未実装"}
+{id:22,name:"ダブルガトリング",type:"l",size:"LL",cost:210,main:{pwr:7,shl:2840,rng:250,spd:400,itv:140},comment:"未実装:2022/10/12"}
 {id:26,name:"LLバルクガトリング",main:{pwr:15,shl:1200,rng:225,spd:400,itv:140},type:"l",size:"LL",cost:220}
 {id:8,name:"ビームマシンガン",type:"as",size:"S",cost:90,main:{pwr:9,shl:580,rng:200,spd:480,itv:140}}
 {id:9,name:"ダブルビームマシンガン",type:"a",size:"S",cost:130,main:{pwr:6,shl:1170,rng:200,spd:480,itv:140}}
