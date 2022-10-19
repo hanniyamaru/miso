@@ -27,15 +27,15 @@
 
 {id:1211,name:"スターエッジBS",size:"M",type:"lacs",cost:35,hp:20,wlk:2,fly:2,tgh:1,comment:["各種コイン景品"]}
 {id:1212,name:"ダブルスターエッジBS",size:"M",type:"lacs",cost:35,hp:20,wlk:1,fly:3,tgh:1,comment:["各種コイン景品"]}
-{id:10015,name:"エンシェントBS",cost:35,hp:20,wlk:1,fly:3,tgh:1,comment:"-"}
-{id:10053,name:"ケルビムウィングBS",cost:35,hp:20,wlk:1,fly:3,tgh:1,comment:"-"}
-{id:10059,name:"トリニティBS",cost:35,hp:20,tec:1,fly:3,tgh:1,comment:"-"}
-{id:10072,name:"セイントギアウィングBS",cost:35,hp:20,wlk:1,fly:3,tgh:1,comment:"-"}
-{id:10097,name:"ヴァルキリーシールドBS",cost:35,hp:20,wlk:2,fly:3,comment:"-"}
-{id:10172,name:"デュナミスウィングBS",cost:35,hp:20,str:2,fly:3,comment:"-"}
-{id:10173,name:"オネストウィングBSα",cost:35,hp:20,tec:1,fly:3,tgh:1,comment:"-"}
-{id:10174,name:"オネストウィングBSβ",cost:35,hp:20,str:1,fly:3,tgh:1,comment:"-"}
-{id:20220729,name:"ハナビランチャーBS",main:{tec:100,pwr:1,shl:200,rng:150,spd:200,itv:1000},tunable:{mwp:1},size:"M",cost:30,hp:15,wlk:2,fly:2}
+{id:10015,name:"エンシェントBS",cost:35,hp:20,wlk:1,fly:3,tgh:1,comment:"プラチナチケット"}
+{id:10053,name:"ケルビムウィングBS",cost:35,hp:20,wlk:1,fly:3,tgh:1,comment:"プラチナチケット"}
+{id:10059,name:"トリニティBS",cost:35,hp:20,tec:1,fly:3,tgh:1,comment:"プラチナチケット"}
+{id:10072,name:"セイントギアウィングBS",cost:35,hp:20,wlk:1,fly:3,tgh:1,comment:"プラチナチケット"}
+{id:10097,name:"ヴァルキリーシールドBS",cost:35,hp:20,wlk:2,fly:3,comment:"プラチナチケット"}
+{id:10172,name:"デュナミスウィングBS",cost:35,hp:20,str:2,fly:3,comment:"プラチナチケット"}
+{id:10173,name:"オネストウィングBSα",cost:35,hp:20,tec:1,fly:3,tgh:1,comment:"プラチナチケット"}
+{id:10174,name:"オネストウィングBSβ",cost:35,hp:20,str:1,fly:3,tgh:1,comment:"プラチナチケット"}
+{id:20220729,name:"ハナビランチャーBS",main:{tec:100,pwr:1,shl:200,rng:150,spd:200,itv:1000},tunable:{mwp:1},size:"M",cost:30,hp:15,wlk:2,fly:2,comment:"オータムキューブ"}
 
 {group:"ＳＳサイズ",prefixID:"SS",commonStat:{size:"SS"},nextID:8}
 {id:4,name:"ウィンベルαBS",type:"s",cost:40,hp:25,wlk:1,fly:3,tgh:1}
