@@ -229,10 +229,10 @@
 
 {group:"Ｍサイズ",prefixID:"M",commonStat:{size:"M"},nextID:69}
 
-{id:85,name:"メディージャーAM",cost:35,hp:20,tec:1,wlk:2,tgh:2}
-{id:86,name:"メディージャーAM2",cost:35,hp:20,tec:1,wlk:2,tgh:2,comment:["リペア弾","回復量60"],fixedParts:{wp:{name:"バクルス",main:{shl:80,rng:300,spd:300,itv:500},tunable:{mwp:0},cost:70,slot:0}},type:"s"}
-{id:1560,name:"メディージャーAM3",cost:35,hp:20,tec:1,wlk:2,tgh:2,comment:["ハイショ陣","回復量65"],fixedParts:{wp:{name:"リベル",sub:{shl:12,rng:0,spd:0,itv:20000},tunable:{mwp:0},cost:70,slot:0}},type:"s"}
-{id:156,name:"メディージャーAM4",type:"s",size:"M",cost:35,hp:20,tec:1,wlk:2,tgh:2,comment:["シェルサプ杖","回復量36"],fixedParts:{wp:{name:"アスクレピオス",main:{shl:80,rng:300,spd:300,itv:500},type:"s",size:"M",cost:40,slot:0}}}
+{id:85,name:"メディージャーAM",cost:35,hp:20,tec:1,wlk:2,tgh:2,comment:"ミッションコイン景品"}
+{id:86,name:"メディージャーAM2",cost:35,hp:20,tec:1,wlk:2,tgh:2,comment:["リペア弾","回復量60","ミッションコイン景品"],fixedParts:{wp:{name:"バクルス",main:{shl:80,rng:300,spd:300,itv:500},tunable:{mwp:0},cost:70,slot:0,comment:["リペア弾","回復量60"]}},type:"s"}
+{id:1560,name:"メディージャーAM3",cost:35,hp:20,tec:1,wlk:2,tgh:2,comment:["ハイショ陣","回復量65"],fixedParts:{wp:{name:"リベル",sub:{shl:12,rng:0,spd:0,itv:20000},tunable:{mwp:0},cost:70,slot:0,comment:["ハイショ陣","回復量65"]}},type:"s"}
+{id:156,name:"メディージャーAM4",type:"s",size:"M",cost:35,hp:20,tec:1,wlk:2,tgh:2,comment:["シェルサプ杖","回復量36"],fixedParts:{wp:{name:"アスクレピオス",main:{shl:80,rng:300,spd:300,itv:500},type:"s",size:"M",cost:40,slot:0,comment:["シェルサプ杖","回復量36"]}}}
 
 
 
