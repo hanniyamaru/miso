@@ -265,7 +265,7 @@
 
 {id:89,name:"A.L.E.ウィンベルBS",cost:40,hp:25,str:-1,wlk:1,fly:3,tgh:2,type:"s"}
 {id:93,name:"A.L.E.ジークンロンBS",cost:40,hp:25,str:2,wlk:1,fly:2,type:"l"}
-{id:125,name:"A.L.E.ラズフラムBS",sub:{pwr:20,shl:30,rng:150,spd:200,itv:500,tec:100},type:"l",size:"S",comment:"-",cost:70,hp:25,str:-1,tec:2,wlk:2,fly:2}
+{id:125,name:"A.L.E.ラズフラムBS",sub:{pwr:20,shl:30,rng:150,spd:200,itv:500,tec:100},type:"l",size:"S",comment:"A.L.EラズフラムLG専用コンバージョンパーツ",cost:70,hp:25,str:-1,tec:2,wlk:2,fly:2}
 
 {id:90,name:"A.L.E.リリレインBS",cost:40,hp:25,str:-1,wlk:1,fly:3,tgh:2,type:"c",comment:"-"}
 
