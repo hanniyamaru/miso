@@ -8,6 +8,11 @@
 {id:7,name:"グレートフォースα",cost:30,effect:{pwr:9,shl:-10},material:"9*1|23*7|28*13|35*6|37*2|11*5",comment:["50%","威力+9%、弾数-10%"]}
 {id:8,name:"グレートフォースβ",cost:30,effect:{pwr:9,rng:-10},material:"9*1|23*7|28*13|35*6|37*2|11*5",comment:["50%","威力+9%、射程-10%"]}
 {id:9,name:"グレートフォースγ",cost:30,effect:{pwr:9,spd:-10},material:"9*1|23*7|28*13|35*6|37*2|11*5",comment:["50%","威力+9%、弾速-10%"]}
+
+{id:20221029,name:"フォースモッドα+グレートフォース",cost:40,effect:{pwr:12},material:"",comment:["50%","威力+12%","検証用"]}
+{id:202210291,name:"フォースモッドβ+グレートフォース",cost:40,effect:{pwr:15},material:"",comment:["50%","威力+15%","検証用"]}
+
+
 {group:"リーチ系",prefixID:"LC",commonStat:{target:"mwp"}}
 {id:1,name:"リーチ",cost:5,effect:{rng:5},material:"7*1|26*4",comment:["50%","射程+5%"]}
 {id:2,name:"ハイリーチ",cost:15,effect:{rng:10},material:"8*1|24*5|26*10|13*4",comment:["50%","射程+10%"]}
@@ -45,21 +50,25 @@
 {group:"MAIN武器性能特殊効果系",prefixID:"MS",commonStat:{target:"mwp"}}
 {id:1,name:"パラライズ",cost:25,material:"10*1|27*31|32*10|35*7|37*2|15*3",comment:["50%","スタン係数50%上昇"]}
 
-{group:"グラップラー系",prefixID:"PP",commonStat:{target:"pwp"}}
+{group:"近接SUB武器性能系",prefixID:"PP",commonStat:{target:"pwp"}}
 {id:1,name:"グラップラー",cost:10,effect:{pwr:3},material:"7*1|27*4",comment:["50%","威力+3%"]}
 {id:1,name:"ハイグラップラー",cost:25,effect:{pwr:6},material:"8*1|27*10|23*5|12*4",comment:["50%","威力+6%"]}
 {id:2,name:"ハイグラップラーα",cost:20,effect:{pwr:6,spd:-7},material:"8*1|27*10|23*5|12*4",comment:["50%","威力+6%、速度-7%"]}
 {id:1,name:"グレートグラップラー",cost:40,effect:{pwr:9},material:"9*1|27*13|23*7|12*5|35*2|37*2",comment:["50%","威力+9%"]}
 {id:3,name:"グレートグラップラーα",cost:30,effect:{pwr:9,spd:-10},material:"9*1|27*13|23*7|12*5|35*2|37*2",comment:["50%","威力+9%、速度-10%"]}
 
-{group:"グラディエーター系",prefixID:"PP",commonStat:{target:"pwp"}}
+{id:20221029,name:"グラップラーモッドα+グレートグラップラー",cost:40,effect:{pwr:12},material:"",comment:["50%","威力+12%","検証用"]}
+{id:202210291,name:"グラップラーモッドβ+グレートグラップラー",cost:40,effect:{pwr:15},material:"",comment:["50%","威力+15%","検証用"]}
+
+
 {id:4,name:"グラディエーター",cost:20,effect:{rng:5,spd:5},material:"9*1|23*10|32*10|36*4|38*1|16*3",comment:["50%","射程+5%、速度+5%"]}
 {id:5,name:"ハイグラディエーター",cost:45,effect:{rng:10,spd:10},material:"10*1|23*20|32*20|36*10|38*3|16*4",comment:["50%","射程+10%、速度+10%"]}
+
 {group:"近接SUB武器特殊効果系",prefixID:"PS",commonStat:{target:"pwp"}}
-{id:1,name:"バーニング",cost:20,material:"10*1|29*31|32*10|15*3|35*7|37*2",comment:["50%","5%でバーニング効果","未実装"]}
-{id:2,name:"ライトスロウ",cost:20,material:"10*1|30*31|32*10|15*3|35*7|37*2",comment:["50%","5%でスロウ効果","未実装"]}
-{id:3,name:"ディスオーダー",cost:20,material:"10*1|28*31|32*10|15*3|35*7|37*2",comment:["50%","5%で集弾異常","未実装"]}
-{id:4,name:"シェルドレイン",cost:20,material:"10*1|26*31|32*10|15*3|35*7|37*2",comment:["50%","5%でシェルドレイン効果","未実装"]}
+{id:1,name:"バーニング",cost:20,material:"10*1|29*31|32*10|15*3|35*7|37*2",comment:["50%","5%でバーニング効果"]}
+{id:2,name:"ライトスロウ",cost:20,material:"10*1|30*31|32*10|15*3|35*7|37*2",comment:["50%","5%でスロウ効果"]}
+{id:3,name:"ディスオーダー",cost:20,material:"10*1|28*31|32*10|15*3|35*7|37*2",comment:["50%","5%で集弾異常"]}
+{id:4,name:"シェルドレイン",cost:20,material:"10*1|26*31|32*10|15*3|35*7|37*2",comment:["50%","5%でシェルドレイン効果"]}
 
 
 
@@ -130,17 +139,13 @@
 {id:8,name:"ハイビースト",cost:35,hp:20,str:2,tec:-1,material:"4*1|17*25|22*8|34*5||35*12|36*12|37*7|38*7|12*10|16*5",comment:"60%"}
 
 {id:9,name:"レンジャー",cost:15,hp:8,tec:1,material:"3*1|18*15|22*6|34*3|35*10|36*10|11*5",comment:"60%"}
-{id:10,name:"ハイレンジャー",cost:35,hp:20,tec:2,str:-1,material:"4*1|18*25|22*8|34*5||35*12|36*12|37*7|38*7|11*10|16*5",comment:"60%"}
+{id:10,name:"ハイレンジャー",cost:35,hp:20,tec:2,str:-1,material:"4*1|18*25|22*8|34*5|35*12|36*12|37*7|38*7|11*10|16*5",comment:"60%"}
 {id:11,name:"タンク",cost:15,hp:8,wlk:1,material:"3*1|19*15||22*6|34*3|35*10|36*10|14*5",comment:"60%"}
 {id:12,name:"ハイタンク",cost:35,hp:20,wlk:2,fly:-1,material:"4*1|19*15||22*8|34*5||35*12|36*12|37*7|38*7|14*10|16*5",comment:"60%"}
 
 {id:13,name:"イーグル",cost:15,hp:8,fly:1,material:"3*1|20*15||22*6|34*3|35*10|36*10|13*5",comment:"60%"}
 {id:14,name:"ハイイーグル",cost:35,hp:20,wlk:-1,fly:2,material:"4*1|20*15||22*8|34*5||35*12|36*12|37*7|38*7|13*10|16*5",comment:"60%"}
 {group:"特殊",prefixID:"SP"}
-
 {id:1,name:"エターナル",cost:5,target:"cpt hd am",material:"7*1|22*4",comment:["100%","適用パーツの部位破壊を防ぐ"],hp:0}
-
 {id:100,name:"ハイエターナル",cost:15,target:"cpt hd am",material:"10*1|33*12|16*19|22*15|34*8|35*20|36*20|37*10|38*10|16*5",comment:["60%","適用パーツの部位破壊を防ぐ"],hp:8}
-
-
 
