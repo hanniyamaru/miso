@@ -165,7 +165,7 @@
 
 
 {id:1831102,name:"ハードボンバーBS",main:{tec:100,pwr:8,shl:740,rng:330,spd:280,itv:1000},tunable:{mwp:1},type:"c",size:"S",cost:135,hp:20,str:-1,tec:3,fly:2,tgh:1}
-
+{id:20221025,name:"ハザードゼロBS",size:"S",cost:30,hp:15,str:2,wlk:1,fly:2,tgh:-1,comment:["イベント宙域","シュタインズキューブ"]}
 {id:33,name:"バタフレアBS",type:"a",cost:100,hp:25,str:-1,tec:2,wlk:1,fly:3,sub:{tec:100,pwr:26,rng:120,spd:10,itv:1000}}
 {id:34,name:"バタフレアBS2",type:"a",cost:90,hp:25,tec:1,fly:3,tgh:1,sub:{tec:100,pwr:30,shl:40,rng:100,spd:200,itv:1000},comment:["CT7秒"]}
 
