@@ -346,7 +346,7 @@
 
 
 {id:350,name:"バグジーケットLG",cost:45,hp:25,str:1,tec:2,wlk:3}
-
+{id:20221030,name:"ハザードビクトリーLG",size:"M",cost:40,hp:20,str:2,tec:1,wlk:3,tgh:-1,comment:["イベント宙域","シュタインズキューブ"]}
 {id:1,name:"パラボロイドLG",cost:40,hp:20,tec:1,wlk:3,fly:1}
 
 
