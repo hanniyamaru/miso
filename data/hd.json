@@ -670,6 +670,7 @@
 {id:11022,name:"ナイトギアHF HD",type:"c",size:"L",cost:40,hp:25,tec:2,wlk:1,tgh:2}
 
 {id:790,name:"ハクメンスクナHD",cost:40,hp:25,str:2,wlk:1,tgh:2}
+{id:20221025,name:"ハザードメガトンHD",size:"L",cost:30,hp:15,str:2,tec:1,wlk:-1,tgh:2,comment:["イベント宙域","シュタインズキューブ"]}
 
 {id:20221006,name:"ヘビーフェルカスHD",cost:35,hp:20,str:1,wlk:1,fly:1,tgh:2,size:"L",comment:["Season7アリーナコイン景品"]}
 {id:9,name:"ヘルトカイゼルHD",type:"c",size:"L",cost:35,hp:20,tec:-1,wlk:2,fly:2,tgh:2}
