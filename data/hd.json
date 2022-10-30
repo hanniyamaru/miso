@@ -53,7 +53,7 @@
 
 {id:186,name:"ナッツ･ボムリスHD",cost:35,hp:20,str:2,tec:-1,wlk:2,tgh:2}
 {id:30,name:"ノヴァディカロスHD",cost:35,hp:20,str:-1,tec:3,wlk:2,fly:1,size:"M"}
-
+{id:20221025,name:"ハザードゼロHD",size:"S",cost:30,hp:15,str:1,tec:2,wlk:2,tgh:-1,comment:["イベント宙域","シュタインズキューブ"]}
 {id:88,name:"バタフレアHD2",type:"as",cost:125,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,main:{tec:100,pwr:5,shl:840,rng:200,spd:480,itv:140},tunable:{mwp:1}}
 {id:11021,name:"バットべーHD",cost:30,hp:15,str:1,tec:1,wlk:1,fly:1}
 
