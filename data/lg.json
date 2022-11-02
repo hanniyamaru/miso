@@ -486,6 +486,8 @@
 {id:78,name:"カタロスLG",sub:{shl:30,itv:1000},type:"a",cost:75,hp:70,wlk:2,fly:2,tgh:2}
 
 {id:20220909,name:"カットバルドLG",sub:{str:100,pwr:30,shl:0,rng:120,spd:250,itv:1000},type:"l",cost:95,hp:35,str:2,wlk:4,fly:-1,tgh:1}
+{id:20221103,name:"ガトマーレLG",type:"l",size:"L",cost:115,hp:25,str:3,tec:-1,wlk:3,tgh:1,sub:{str:100,pwr:26,shl:0,rng:150,spd:300,itv:1000},tunable:{pwp:0},comment:""}
+
 {id:4,name:"ガナハウンドLG",cost:45,hp:50,str:1,wlk:3,tgh:2}
 
 {id:56,name:"ガルスチールLG",cost:45,hp:65,tec:1,wlk:4,fly:-1,tgh:1}
