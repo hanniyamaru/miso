@@ -662,6 +662,7 @@
 
 
 {id:9,name:"イルグリプスLG",builtin:{bs:1},joint:{bs:1},type:"a",cost:45,hp:50,str:-1,tec:2,wlk:2,fly:2,tgh:1}
+{id:202211031,name:"ヴェルズニールLG",type:"a",size:"LL",cost:90,hp:30,str:-1,tec:3,wlk:2,fly:2,tgh:2,sub:{str:100,pwr:0,shl:60,rng:0,spd:200,itv:1000},tunable:{pwp:0},comment:""}
 
 {id:202206041,name:"エスカゴッデスLG",cost:45,hp:70,wlk:3,fly:2,tgh:1,size:"LL",builtin:{bs:1},comment:"BS機能？"}
 {id:6,name:"ガデロガLG",joint:{bs:1},cost:45,hp:65,str:-1,tec:-1,wlk:4,fly:1,tgh:3}
