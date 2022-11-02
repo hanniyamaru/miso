@@ -42,6 +42,8 @@
 
 
 {id:11,name:"セラフクリムローゼαBD",sub:{tec:100,pwr:24,shl:50,rng:75,spd:85,itv:1000},cartridge:{lv1:"85*6@25|7@30|9@15|8@20|19@15|21@20|23@25|22@30|52@20|15@20|30@20|31@40|13@30|32@50|26@20",hpup:18},fixedParts:{hd:{name:"セラフクリムローゼαHD",cost:40,hp:25,tec:3,fly:1,tgh:1},bs:{name:"セラフクリムローゼαBS",sub:{pwr:-1,shl:15,rng:-9,spd:-9,itv:-1},cost:30}},cost:435,capa:780,hp:210,str:2,tec:11,wlk:7,fly:18,tgh:7,wbid:1}
+
+{id:108,name:"セリカ・ホークBD",sub:{shl:60,spd:160,itv:1000},joint:{wp:1},fixedParts:{hd:{name:"セリカ・ホークHD",cost:40,hp:25,str:1,tec:1,fly:2,tgh:1},lg:{name:"セリカ・ホークLG",sub:{tec:100,pwr:5,shl:110,rng:275,spd:320,itv:1000},tunable:{pwp:0},cost:95,hp:25,tec:1,wlk:3,fly:1,tgh:1},am:[{name:"セリカ・ホークAM",cost:40,hp:25,tec:2,wlk:1,tgh:2,joint:{wp:0}},{name:"セリカ・ホークAM2",joint:{wp:1},fixedParts:{wp:{name:"メテオールボーゲン",main:{tec:100,pwr:28,shl:200,rng:275,spd:350,itv:1000},tunable:{mwp:1},cost:130}},cost:40,hp:25,tec:2,wlk:1,tgh:2}],bs:{name:"セリカ・ホークBS",joint:{bs:1},cost:40,hp:25,str:1,wlk:1,fly:3}},type:"a",size:"S",cost:475,capa:900,hp:225,str:1,tec:19,wlk:4,fly:16,tgh:8,cartridge:{hpup:14,lv1:"4*6@25|7@30|9@15|8@20|19@15|23@25|22@30|25@25|52@30|30@20|21@20|13@30|39@15|32@50|31@40"}}
 {id:17,name:"テスラドンナαBD",cartridge:{lv1:"4*6@25|7@30|9@15|8@20|18@30|19@15|23@25|22@30|52@20|26@20|25@25|21@20|13@30|32@50|31@40",hpup:14},joint:{bs:0,wp:1},fixedParts:{wp:["W1"],hd:{name:"テスラドンナαHD",cost:40,hp:25,str:1,tec:2,wlk:1,fly:1,slot:3}},cost:480,capa:850,hp:245,str:4,tec:15,wlk:8,fly:18,tgh:8,wbid:1,builtin:{bs:1}}
 
 
