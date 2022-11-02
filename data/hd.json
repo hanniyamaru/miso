@@ -643,7 +643,7 @@
 {id:2,name:"アクイーアHD2",cost:35,hp:20,tec:1,wlk:1,fly:1,tgh:2}
 {id:6,name:"アクイーア・エアーズHD",cost:35,hp:20,str:-1,tec:2,fly:2,tgh:1,wlk:1,size:"L",comment:["ロボガラポン"]}
 
-
+{id:202211031,name:"ヴェルズニールHD",type:"a",size:"M",cost:105,hp:20,str:-1,tec:3,fly:2,tgh:1,main:{tec:100,pwr:18,shl:260,rng:275,spd:480,itv:700},tunable:{mwp:1},comment:""}
 {id:202206041,name:"エスカゴッデスHD",main:{tec:100,pwr:7,shl:900,rng:300,spd:400,itv:400},tunable:{mwp:1},type:"c",size:"L",cost:70,hp:15,tec:2,wlk:1,fly:1}
 
 {id:16,name:"ゴクソツキHD",size:"L",cost:35,hp:20,str:3,tec:-1,fly:1,tgh:2}
