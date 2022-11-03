@@ -381,7 +381,7 @@
 {id:20220417,name:"ヘリンガルMK-2LG",size:"M",cost:45,hp:25,str:-1,tec:2,wlk:3,fly:1,tgh:1,comment:["ロボガラポン"]}
 
 {id:394,name:"ブリンクLG",cost:45,hp:25,tec:2,wlk:3,fly:1}
-
+{id:202211035,name:"ホバーミィルLG",size:"M",cost:45,hp:25,str:-1,tec:1,wlk:2,fly:2,tgh:2}
 {id:14,name:"ホバリオンLG",cost:45,hp:30,str:-1,tec:1,wlk:3,fly:1,tgh:1}
 {id:33,name:"ホバリオン・マグナLG",cost:50,hp:35,str:-1,tec:1,wlk:2,fly:2,tgh:2}
 
