@@ -474,7 +474,7 @@
 
 {id:120,name:"ヘラクビートランダーAM",cost:40,hp:25,str:3,tec:-1,tgh:3}
 {id:20220417,name:"ヘリンガルMK-2AM",size:"M",cost:35,hp:20,str:1,tec:1,fly:1,tgh:2,comment:["ロボガラポン"]}
-
+{id:202211035,name:"ホバーミィルAM",size:"M",cost:35,hp:20,tec:3,wlk:1,fly:-1,tgh:2}
 {id:24,name:"ホバリオンAM",cost:35,hp:20,tec:2,wlk:1,fly:1,tgh:1}
 
 {id:42,name:"ホバリオン・マグナAM",cost:40,hp:25,tec:2,fly:1,tgh:2}
