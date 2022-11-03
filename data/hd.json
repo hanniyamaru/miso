@@ -538,6 +538,9 @@
 {id:302,name:"ペルセシウスHD",cost:40,hp:25,tec:2,wlk:-1,fly:3,tgh:1,size:"M"}
 {id:202205242,name:"ペルセシウスHD2",cost:40,hp:25,tec:3,wlk:-1,fly:2,tgh:1,size:"M"}
 {id:111,name:"ポセダインHD",size:"M",cost:35,hp:20,str:-1,tec:2,wlk:2,fly:1,tgh:1}
+
+{id:202211035,name:"ホバーミィルHD",size:"M",cost:35,hp:20,tec:1,wlk:2,tgh:2}
+
 {id:17,name:"ホバリオンHD",cost:30,hp:15,str:1,tec:2,tgh:1}
 {id:61,name:"ホバリオン・マグナHD",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1}
 
