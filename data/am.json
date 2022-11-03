@@ -160,7 +160,7 @@
 
 {id:38,name:"メカルドAM",cost:30,hp:15,str:1,tec:1,tgh:2,size:"S",comment:["Season7アリーナコイン景品"]}
 {id:1651,name:"メディカレストAM",size:"S",cost:35,hp:20,str:-1,tec:1,wlk:2,tgh:3}
-
+{id:20221103,name:"メディカレストAM2",size:"S",cost:55,hp:20,tec:1,wlk:1,tgh:3,comment:"シールド耐久値不明"}
 {id:110,name:"メトラAM",main:{pwr:7,shl:500,rng:275,spd:350,itv:360},type:"a",cost:75,hp:20,tec:3,wlk:-1,fly:2,tgh:2,tunable:{mwp:1,pwp:0},size:"S"}
 {id:132,name:"メトラAM2",main:{pwr:5,shl:720,rng:275,spd:520,itv:320},type:"a",cost:85,hp:20,str:-1,tec:3,wlk:1,fly:2,tunable:{mwp:1}}
 {id:58,name:"モールニードスAM",cost:35,hp:20,str:2,tec:2,fly:-1,tgh:2}
