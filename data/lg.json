@@ -513,6 +513,9 @@
 
 {id:9,name:"コスモカイザーLG",cost:45,hp:25,str:1,tec:1,wlk:3,tgh:1}
 {id:950,name:"コスモカイザーLG2",cost:45,hp:30,str:-1,tec:1,wlk:3,fly:1,tgh:2}
+{id:202211032,name:"コルディプスLG2",type:"c",size:"L",cost:65,hp:35,tec:2,wlk:3,tgh:1,sub:{str:100,pwr:0,shl:0,rng:0,spd:200,itv:1000},comment:""}
+
+
 {id:38,name:"コントラディクトLG",cost:50,hp:25,str:1,tec:-1,wlk:3,fly:1,tgh:2}
 {id:75,name:"コンバットフリードLG",type:"l",cost:45,hp:35,str:2,wlk:3,fly:-1,tgh:2}
 
