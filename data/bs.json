@@ -600,7 +600,7 @@
 {id:4,name:"コスモカイザーBS",type:"l",cost:35,hp:20,str:1,tec:-1,wlk:1,fly:3,tgh:1}
 {id:4050,name:"コスモカイザーBS2",type:"l",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:3}
 
-
+{id:202211032,name:"コルディプスBS2",type:"c",size:"L",cost:105,hp:20,str:-1,tec:3,fly:2,tgh:1,main:{tec:100,pwr:7,shl:760,rng:330,spd:280,itv:900},tunable:{mwp:1},comment:""}
 {id:29,name:"コントラディクトBS",type:"c",cost:35,hp:20,str:1,wlk:-1,fly:3,tgh:2}
 {id:64,name:"コンバットフリードBS",cost:35,hp:20,str:-1,tec:1,wlk:2,fly:3,type:"l"}
 
