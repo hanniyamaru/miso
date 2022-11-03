@@ -121,6 +121,7 @@
 
 
 {id:106,name:"ポーンジャーLG3",type:"lacs",size:"S",cost:45,hp:25,str:1,tec:1,wlk:2,tgh:2,comment:"B・ポーンジャーAr"}
+{id:202211034,name:"ポォウルLG",size:"S",cost:45,hp:25,str:1,tec:1,wlk:2,fly:2}
 
 {id:24,name:"ホネボンLG",cost:40,hp:20,str:2,wlk:3,comment:"2022/2/16更新"}
 
