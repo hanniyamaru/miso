@@ -438,6 +438,9 @@
 {id:55,name:"バグジーケットAM2",type:"s",cost:95,hp:25,str:-1,tec:2,wlk:1,tgh:3,sub:{pwr:21,rng:100,spd:10,itv:500}}
 {id:56,name:"バグジーケットAM3",type:"s",cost:95,hp:25,str:3,tec:-1,wlk:1,tgh:2,sub:{str:100,pwr:25,rng:70,spd:85,itv:500},tunable:{pwp:1}}
 
+{id:20221106,name:"ハザードビクトリーAM",type:"c",size:"M",cost:130,hp:15,str:-1,tec:3,wlk:1,fly:1,main:{pwr:22,shl:360,rng:300,spd:400,itv:500},tunable:{mwp:1},joint:{wp:0},comment:["イベント宙域","シュタインズキューブ"]}
+{id:202211061,name:"ハザードビクトリーAM2",size:"M",cost:45,hp:15,str:-2,tec:2,wlk:3,fly:3,tgh:-1,joint:{wp:0},comment:["イベント宙域","シュタインズキューブ"]}
+
 {id:43,name:"パシファールAM",type:"a",cost:90,hp:25,str:-1,tec:1,wlk:1,fly:1,tgh:3,main:{pwr:15,shl:360,rng:275,spd:500,itv:500},tunable:{mwp:0},comment:["AM@cost+50複合","武器チューン不可"]}
 {id:64,name:"パシファールAM2",type:"a",cost:120,hp:25,str:-1,tec:2,wlk:1,tgh:3,main:{pwr:11,shl:440,rng:275,spd:570,itv:300},tunable:{mwp:0},comment:["AM@cost+80複合","武器チューン不可"]}
 {id:202205241,name:"パシファールAM3",type:"a",size:"M",cost:115,hp:20,str:-1,tec:3,fly:1,tgh:2,main:{tec:100,pwr:7,shl:270,rng:275,spd:350,itv:700},tunable:{mwp:1}}
