@@ -95,7 +95,7 @@
 
 
 {id:98,name:"ノヴァディカロスLG",cost:45,hp:25,str:-1,tec:1,wlk:3,fly:2,tgh:1}
-
+{id:20221106,name:"ハザードゼロLG",size:"S",cost:40,hp:20,str:2,tec:1,wlk:2,fly:1,tgh:-1,comment:["イベント宙域","シュタインズキューブ"]}
 {id:39,name:"バタフレアLG",cost:45,hp:25,tec:-1,wlk:3,fly:1,tgh:2}
 
 
