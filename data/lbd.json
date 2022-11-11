@@ -311,8 +311,8 @@
 
 
 {id:541,name:"ライオスBD",cost:445,capa:870,hp:255,str:9,tec:9,wlk:14,fly:6,tgh:10,cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|16@20|28@30|14@20|13@30|32@50|31@40"}}
-{id:25,name:"ルッカ・デーコBD",cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|25@25|30@20|26@20|13@30|32@50|31@40"},cost:465,capa:870,hp:260,str:4,tec:10,wlk:16,fly:7,tgh:11,sub:{rng:250,spd:10,itv:1000},wbid:38}
-{id:47,name:"ルッカ・デーコBD2",cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|25@25|30@20|26@20|13@30|32@50|31@40"},cost:445,capa:870,hp:260,str:4,tec:11,wlk:15,fly:6,tgh:12,joint:{wp:1},fixedParts:{wp:{name:"ルッカ・デーコBD2@",sub:{rng:250,spd:10,itv:1000},cost:20,slot:0}},wbid:38,comment:["ルッカ・デーコTT"]}
+{id:25,name:"ルッカ・デーコBD",cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|25@25|30@20|26@20|13@30|32@50|31@40"},cost:465,capa:870,hp:260,str:4,tec:10,wlk:16,fly:7,tgh:11,sub:{rng:250,spd:10,itv:1000},wbid:38,comment:["BD@省略cost+20複合"]}
+{id:47,name:"ルッカ・デーコBD2",cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|25@25|30@20|26@20|13@30|32@50|31@40"},cost:465,capa:870,hp:260,str:4,tec:11,wlk:15,fly:6,tgh:12,sub:{rng:250,spd:10,itv:1000},wbid:38,comment:["ルッカ・デーコTT","BD@省略cost+20複合"]}
 
 {id:29,name:"ルペットBD",joint:{bs:0},fixedParts:{hd:{name:"ルペットHD",type:"l",size:"M",cost:40,str:1,tec:2,wlk:-1,fly:2,tgh:1,hp:25},lg:{name:"ルペットLG",builtin:{lg:1},joint:{bs:1},type:"l",size:"M",cost:45,str:1,tec:1,wlk:3,fly:1,hp:25}},type:"l",size:"M",cost:445,capa:870,hp:255,str:8,tec:11,wlk:14,fly:7,tgh:8,wbid:2,cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|16@20|28@30|26@20|13@30|32@50|31@40"}}
 
