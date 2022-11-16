@@ -212,7 +212,7 @@
 {id:202211033,name:"ガナハウンドHD2",size:"M",cost:30,hp:15,str:2,wlk:1,fly:-1,tgh:2,comment:"ガナハウンド覇"}
 
 {id:187,name:"ガルスチールHD",cost:40,hp:25,str:2,fly:2,tgh:1}
-{id:20220710,name:"ガルスチールHD2",cost:30,hp:20,tec:2,wlk:2,comment:["ガルスチール・ハウル"]}
+{id:20220710,name:"ガルスチールHD2",cost:30,hp:15,tec:2,wlk:2,comment:["ガルスチール・ハウル"]}
 
 {id:255,name:"ガルネリンプHD",cost:40,hp:25,str:-1,tec:2,fly:2,tgh:2}
 
