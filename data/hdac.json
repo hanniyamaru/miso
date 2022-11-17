@@ -41,6 +41,8 @@
 {id:1712,name:"Capa+10.(HD)",capa:10,slot:1}
 
 {id:244,name:"シャークボーシ",capa:5,hp:5,wlk:1,slot:1,comment:["クイックスイム付与"],sub:{itv:500},tunable:{pwp:0}}
+{id:20221117,name:"ヒーロークラウン",comment:["アワードコイン景品","Exp+5％"],capa:10,slot:1}
+
 {group:"　",nextID:45}
 
 {id:1401,name:"STR+1.HP+10.(HD)",str:1,hp:10,slot:1}
