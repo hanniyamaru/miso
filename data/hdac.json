@@ -17,7 +17,7 @@
 {id:1304,name:"FLY+1.HP+5.Capa+5.(HD)",fly:1,hp:5,capa:5,slot:1}
 {id:1305,name:"TGH+1.HP+5.Capa+5.(HD)",tgh:1,hp:5,capa:5,slot:1}
 
-
+{group:"+2",nextID:991}
 
 {id:1406,name:"STR+2.(HD)",str:2,slot:1}
 {id:1407,name:"TEC+2.(HD)",tec:2,slot:1}
