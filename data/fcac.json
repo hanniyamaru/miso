@@ -1,7 +1,7 @@
 {group:"代用品",nextID:98}
 {id:1500,name:"メモリ・スロット..",slot:3,joint:{hdac:0,fcac:1,hd:0},comment:"ゲーム内機体参照の上、任意の個数増設してください"}
 
-{group:"マスク",nextID:45}
+{group:"　",nextID:45}
 
 
 
@@ -12,13 +12,13 @@
 {id:1505,name:"TGH+1.HP+5.capa+5.(FC)",tgh:1,hp:5,capa:5,slot:1}
 
 
-{group:"",nextID:45}
+{group:"　",nextID:45}
 {id:1406,name:"STR+2.(FC)",str:2,slot:1}
 {id:1407,name:"TEC+2.(FC)",tec:2,slot:1}
 {id:1408,name:"WLK+2.(FC)",wlk:2,slot:1}
 {id:1409,name:"FLY+2.(FC)",fly:2,slot:1}
 {id:1410,name:"TGH+2.(FC)",tgh:2,slot:1}
-
+{group:"　",nextID:45}
 {id:1701,name:"STR+1.TEC+1.(FC).",str:1,tec:1,slot:1}
 {id:1702,name:"STR+1.WLK+1.(FC).",str:1,wlk:1,slot:1}
 {id:1703,name:"STR+1.FLY+1.(FC).",str:1,fly:1,slot:1}
@@ -29,7 +29,7 @@
 {id:1708,name:"WLK+1.FLY+1.(FC).",wlk:1,fly:1,slot:1}
 {id:1709,name:"WLK+1.TGH+1.(FC).",wlk:1,tgh:1,slot:1}
 {id:1710,name:"FLY+1.TGH+1.(FC).",fly:1,tgh:1,slot:1}
-
+{group:"　",nextID:45}
 
 {id:1712,name:"Capa+10.(FC)",capa:10,slot:1}
 {id:20220729,name:"1周年記念キャノン",main:{tec:100,pwr:1,shl:200,rng:150,spd:200,itv:1000},tunable:{mwp:1}}
@@ -37,20 +37,20 @@
 {id:57,name:"バリアブルマフラー",capa:5,hp:5,fly:1,slot:1,comment:"「WING GLIDER」 使用中落下速度が緩やかになる",sub:{shl:3,itv:500},tunable:{pwp:0},comment:"弾切れ後慣性切り等に利用可能"}
 
 
-
+{group:"　",nextID:45}
 {id:1601,name:"STR+1.HP+10.(FC)",str:1,hp:10,slot:1}
 {id:1602,name:"TEC+1.HP+10.(FC)",tec:1,hp:10,slot:1}
 {id:1603,name:"WLK+1.HP+10.(FC)",wlk:1,hp:10,slot:1}
 {id:1604,name:"FLY+1.HP+10.(FC)",fly:1,hp:10,slot:1}
 {id:1605,name:"TGH+1.HP+10.(FC)",tgh:1,hp:10,slot:1}
 
-
+{group:"　",nextID:45}
 {id:1306,name:"STR+1.HP+5(FC)",hp:5,str:1,slot:1}
 {id:1307,name:"TEC+1.HP+5(FC)",hp:5,tec:1,slot:1}
 {id:1308,name:"WLK+1.HP+5(FC)",hp:5,wlk:1,slot:1}
 {id:1309,name:"FLY+1.HP+5(FC)",hp:5,fly:1,slot:1}
 {id:1310,name:"TGH+1.HP+5(FC)",hp:5,tgh:1,slot:1}
-
+{group:"　",nextID:45}
 {id:1167,name:"STR+1.Capa+5(FC)",capa:5,str:1,slot:1}
 {id:1168,name:"TEC+1.Capa+5(FC)",capa:5,tec:1,slot:1}
 {id:1169,name:"WLK+1.Capa+5(FC)",capa:5,wlk:1,slot:1}
