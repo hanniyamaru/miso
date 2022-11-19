@@ -388,9 +388,6 @@
 {id:1591,name:"マニモウィング@",main:{str:100,pwr:6,shl:880,rng:300,spd:400,itv:440},type:"a",size:"M",comment:"マニモウィング専用コンバーションパーツ",cost:40}
 
 {id:20221102,name:"メテオールプファイル",size:"S",type:"a",cost:20,main:{tec:100,pwr:0,shl:15,rng:0,spd:10,itv:1000},comment:"セリカ・ホーク専用コンバージョンパーツ"}
-{id:74,name:"メロディコードα",main:{pwr:9,shl:380,rng:250,spd:400,itv:500},sub:{pwr:11,shl:240,rng:250,spd:320,itv:1000},type:"s",size:"S",cost:65,comment:"ハープにのみ接続可能。"}
-{id:76,name:"メロディコードβ",main:{shl:80,rng:300,spd:300,itv:500},sub:{shl:50,rng:300,spd:300,itv:1000},type:"s",size:"S",cost:100,comment:"ハープにのみ接続可能。"}
-{id:75,name:"メロディコードγ",main:{tec:100,pwr:6,shl:260,rng:250,spd:360,itv:600},sub:{tec:100,pwr:10,shl:120,rng:260,spd:300,itv:500},tunable:{mwp:1,pwp:0},type:"s",size:"S",cost:90,comment:"ハープにのみ接続可能"}
 {id:141,name:"モノケロスロッド",main:{pwr:38,shl:280,rng:330,spd:400,itv:800,tec:100},sub:{pwr:9,shl:300,rng:300,spd:280,itv:1000,tec:100},type:"c",size:"S",cost:170,comment:["ルミエラAM、ルミエラAM3専用コンバージョンパーツ","-"]}
 
 
@@ -444,6 +441,10 @@
 {id:20220908,name:"真打・乱桜雷切（R）",sub:{str:100,pwr:32,rng:84,spd:102,itv:1000},tunable:{mwp:0,pwp:1},type:"l",size:"S",cost:140,comment:"桜華SwmBFAM専用コンバージョンパーツ"}
 {id:202209081,name:"真打・乱桜雷切（L）",main:{shl:50,spd:10,itv:1000},sub:{pwr:32,shl:0,rng:120,spd:250,itv:1000,str:100},tunable:{mwp:1,pwp:0},type:"l",size:"S",cost:70,comment:"桜華SwmBFAM専用コンバージョンパーツ"}
 
+{group:"オルフェノスコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
+{id:74,name:"メロディコードα",main:{pwr:9,shl:380,rng:250,spd:400,itv:500},sub:{pwr:11,shl:240,rng:250,spd:320,itv:1000},type:"s",size:"S",cost:65,comment:"ハープにのみ接続可能"}
+{id:76,name:"メロディコードβ",main:{shl:80,rng:300,spd:300,itv:500},sub:{shl:50,rng:300,spd:300,itv:1000},type:"s",size:"S",cost:100,comment:["ハープにのみ接続可能","回復量51？"]}
+{id:75,name:"メロディコードγ",main:{tec:100,pwr:6,shl:260,rng:250,spd:360,itv:600},sub:{tec:100,pwr:10,shl:120,rng:260,spd:300,itv:500},tunable:{mwp:1,pwp:0},type:"s",size:"S",cost:90,comment:"ハープにのみ接続可能"}
 
 
 {group:"ガシマガールコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
