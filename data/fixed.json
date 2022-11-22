@@ -48,6 +48,10 @@
 
 {id:53,name:"プチリッカーステッキ",sub:{tec:100,pwr:15,rng:25,spd:40,itv:1000},tunable:{pwp:1},type:"s",size:"S",cost:30}
 {id:54,name:"ぺぽBD@",main:{tec:100,pwr:4,shl:300,rng:250,spd:320,itv:600},cost:40,tunable:{mwp:1}}
+
+{id:531,name:"でかリッカーステッキ",sub:{tec:100,pwr:15,rng:25,spd:40,itv:1000},tunable:{pwp:1},type:"s",size:"S",cost:30}
+{id:541,name:"でかぺぽBD@",main:{tec:100,pwr:4,shl:300,rng:250,spd:320,itv:600},cost:40,tunable:{mwp:1}}
+
 {id:55,name:"ねむりむBD@",main:{pwr:2,shl:200,rng:150,spd:440,itv:500},tunable:{mwp:1},cost:40}
 
 {id:56,name:"プチシュピッツ・アイゼン",main:{pwr:7,shl:30,rng:150,spd:500,itv:1000,str:100},sub:{str:100,pwr:27,rng:70,spd:85,itv:1000},type:"s",size:"S",cost:40,comment:"-",tunable:{mwp:1,pwp:1}}
