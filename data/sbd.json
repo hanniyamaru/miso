@@ -187,7 +187,7 @@
 {id:3,name:"ハイプリストルBD",cost:515,capa:800,hp:270,str:9,tec:9,wlk:11,fly:10,tgh:11,sub:{pwr:0,shl:[12],rng:[0],spd:[0],itv:[20000]},wbid:10,cartridge:{hpup:18,lv1:"85*6@20|17@20|18@20|19@20|20@20|23@25|14@10|28@20|33@40|21@20|29@10|25@25|13@20|32@30|31@40"},joint:{bs:0},builtin:{bs:1}}
 
 
-{id:14,name:"ハイプリストルGBD",sub:{shl:[12],itv:20000},cartridge:{hpup:14,lv1:"4*6@20|17@20|18@20|19@20|20@20|23@25|14@10|28@20|33@40|21@20|29@10|25@25|13@20|32@30|31@40"},fixedParts:{bs:{name:"ハイプリストルGBS",cost:35,hp:20,tec:2,fly:3}},cost:545,capa:870,hp:255,str:8,tec:8,wlk:12,fly:10,tgh:10,wbid:10,type:"s",size:"M",builtin:{bs:1}}
+{id:14,name:"ハイプリストルGBD",sub:{shl:[12],itv:20000},cartridge:{hpup:14,lv1:"4*6@20|17@20|18@20|19@20|20@20|23@25|14@10|28@20|33@40|21@20|29@10|25@25|13@20|32@30|31@40"},fixedParts:{bs:{name:"ハイプリストルGBS",cost:35,hp:20,tec:2,fly:3}},cost:545,capa:870,hp:255,str:8,tec:8,wlk:12,fly:10,tgh:10,wbid:10,type:"s",size:"M",builtin:{bs:1},comment:"9/s 15s"}
 {id:7,name:"バグジーケットBD",cost:445,capa:870,hp:255,str:8,tec:12,wlk:11,fly:5,tgh:12,wbid:1,cartridge:{hpup:14,lv1:"4*6@20|17@20|18@20|20@20|23@25|22@30|19@20|14@10|25@25|28@20|29@10|15@30|13@20|32@30|31@40"}}
 {id:1,name:"パラボロイドBD",cost:320,capa:655,hp:215,str:7,tec:7,wlk:10,fly:8,tgh:8,cartridge:{hpup:25,lv1:"95*6@20|17@20|18@20|19@20|20@20|23@25|22@30|29@10|21@20|33@40|14@10|28@20|13@20|32@30|31@40"}}
 
