@@ -11,6 +11,7 @@
 
 {id:20221029,name:"フォースモッドα+グレートフォース",cost:40,effect:{pwr:12},material:"",comment:["50%","威力+12%","検証用"]}
 {id:202210291,name:"フォースモッドβ+グレートフォース",cost:40,effect:{pwr:15},material:"",comment:["50%","威力+15%","検証用"]}
+{id:20221201,name:"モッド：威力-10%",cost:0,effect:{pwr:-10,spd:0},material:"",comment:["検証用","威力-10%"]}
 
 
 {group:"リーチ系",prefixID:"LC",commonStat:{target:"mwp"}}
