@@ -435,7 +435,7 @@
 {id:171103,name:"ハイプリストルGAM",main:{shl:220,rng:300,spd:300,itv:800},tunable:{mwp:1},cost:85,hp:20,str:2,tec:2,tgh:1,type:"s",comment:"回復量11"}
 
 {id:54,name:"バグジーケットAM",cost:40,hp:25,str:1,tec:2,wlk:2,fly:-1,tgh:1}
-{id:55,name:"バグジーケットAM2",type:"s",cost:95,hp:25,str:-1,tec:2,wlk:1,tgh:3,sub:{pwr:21,rng:100,spd:10,itv:500}}
+{id:55,name:"バグジーケットAM2",type:"s",cost:95,hp:25,str:-1,tec:2,wlk:1,tgh:3,sub:{pwr:21,rng:100,spd:10,itv:500},comment:["ショック2秒","バリア発生時間：約1秒","ロングレンジ時：4秒"]}
 {id:56,name:"バグジーケットAM3",type:"s",cost:95,hp:25,str:3,tec:-1,wlk:1,tgh:2,sub:{str:100,pwr:25,rng:70,spd:85,itv:500},tunable:{pwp:1}}
 
 {id:20221106,name:"ハザードビクトリーAM",type:"c",size:"M",cost:130,hp:15,str:-1,tec:3,wlk:1,fly:1,main:{pwr:22,shl:360,rng:300,spd:400,itv:500},tunable:{mwp:1},joint:{wp:0},comment:["イベント宙域","シュタインズキューブ"]}
