@@ -415,17 +415,18 @@
 
 
 {group:"アンリエールコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
-
 {id:202203022,name:"ガーディアンルーク",type:"a",size:"S",cost:60,main:{tec:100,pwr:10,shl:700,rng:275,spd:330,itv:300},slot:3,comment:["アンリエール専用コンバージョン"]}
-
 {id:202203023,name:"メガルークキャノン",type:"a",size:"S",cost:30,main:{tec:100,pwr:35,shl:100,rng:300,spd:440,itv:1000},slot:0,comment:["アンリエール専用コンバージョン"]}
 
 {group:"イスチナ・バレットコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
-
 {id:122,name:"エクスピアシオン",sub:{itv:500},joint:{wp:2},type:"a",size:"L",slot:0}
 {id:123,name:"エクスピアシオン@1",main:{tec:100,pwr:26,shl:270,rng:450,spd:500,itv:800},type:"a",size:"M",cost:120,slot:0}
 {id:124,name:"エクスピアシオン@2",main:{tec:100,pwr:40,shl:60,rng:450,spd:420,itv:500},type:"a",size:"M",cost:0,slot:0}
 {id:121,name:"フレアテール",main:{tec:100,pwr:7,shl:660,rng:275,spd:300,itv:500},tunable:{mwp:1,pwp:0},type:"a",size:"M",cost:60,fixedParts:{wp:{name:"フレアテール@1",sub:{pwr:1,shl:60,rng:0,spd:200,itv:1000},tunable:{pwp:0,mwp:0},cost:50,type:"a",size:"M",slot:0}},joint:{wp:1}}
+
+{group:"イヴコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
+{id:20221208,name:"E.V.E.Archetyep※1",main:{tec:100,pwr:30,shl:100,rng:275,spd:360,itv:1000},type:"a",size:"S",cost:100,comment:["RUIN CANNON","イヴAM専用コンバージョンパーツ"]}
+{id:202212081,name:"E.V.E.Archetyep※2",main:{tec:100,pwr:28,shl:420,rng:275,spd:440,itv:500},type:"a",size:"S",cost:130,comment:["E.V.E.SHOT","イヴAM2専用コンバージョンパーツ"]}
 
 {group:"イルミスコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:49,name:"バトルフレームIα",main:{pwr:7,shl:960,rng:275,spd:280,itv:400},type:"a",size:"S",cost:70,comment:"イルミスSwmBF用コンバージョンパーツ"}
@@ -433,7 +434,6 @@
 
 {group:"エレオノールコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:202203021,name:"ガーディアンビショップ",main:{pwr:7,shl:450,rng:300,spd:260,itv:1200,tec:100},sub:{pwr:8,shl:1020,rng:350,spd:320,itv:1000,tec:100},cost:190,comment:"エレオノール専用コンバージョン",type:"c",size:"S",tunable:{mwp:1}}
-
 {id:20220302,name:"ガーディアンナイト",type:"c",size:"S",cost:30,sub:{tec:100,pwr:30,shl:30,rng:0,spd:100,itv:1000},tunable:{mwp:0},slot:3,comment:["エレオノール専用コンバージョン"]}
 
 {group:"桜華SwmBFコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
