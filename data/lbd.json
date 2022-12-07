@@ -4,7 +4,7 @@
 
 {group:"Ｓ陸　近日更新分",prefixID:"LS",commonStat:{size:"S",type:"l"},nextID:35}
 
-{id:20221208,name:"ジェイスBD",builtin:{bs:1},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|15@15|21@20|13@30|34@15|32@50|31@40"},fixedParts:{hd:{name:"ジェイスHD",cost:40,hp:25,str:1,wlk:1,fly:1,tgh:2},lg:{name:"ジェイスLG",cost:45,hp:25,wlk:4,fly:1,tgh:1},am:[{main:{str:100,pwr:30,shl:10,rng:220,spd:500,itv:1000},tunable:{mwp:1},joint:{wp:1},name:"ジェイスAM2",cost:40,hp:25,str:3,wlk:1,tgh:1},{name:"ジェイスAM",cost:40,hp:25,str:3,wlk:1,tgh:1}]},cost:510,capa:900,hp:245,str:14,tec:4,wlk:14,fly:10,tgh:11,wbid:0,comment:"変形省略"}
+{id:20221208,name:"ジェイスBD",builtin:{bs:1},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|15@15|21@20|13@30|34@15|32@50|31@40"},fixedParts:{hd:{name:"ジェイスHD",cost:40,hp:25,str:1,wlk:1,fly:1,tgh:2},lg:{name:"ジェイスLG",cost:45,hp:25,wlk:4,fly:1,tgh:1},am:[{main:{str:100,pwr:30,shl:10,rng:220,spd:500,itv:1000},tunable:{mwp:1},joint:{wp:2},name:"ジェイスAM2",cost:40,hp:25,str:3,wlk:1,tgh:1},{name:"ジェイスAM",cost:40,hp:25,str:3,wlk:1,tgh:1}]},cost:510,capa:900,hp:245,str:14,tec:4,wlk:14,fly:10,tgh:11,wbid:0,comment:"変形省略"}
 
 
 
