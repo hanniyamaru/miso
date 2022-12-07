@@ -334,7 +334,7 @@
 {id:67,name:"エアリーデ・ビットα",main:{pwr:[4,5,6],shl:[840],rng:275,spd:440,itv:900},size:"S",type:"a",slot:0,cost:70,comment:"ビットホルダー専用コンバージョンパーツ"}
 {id:68,name:"エアリーデ・ビットβ",main:{pwr:[6,7,8],shl:[920],rng:275,spd:400,itv:380},size:"S",type:"a",slot:0,cost:100,comment:"ビットホルダー専用コンバージョンパーツ"}
 
-{id:152,name:"オフダシューター",main:{pwr:10,shl:1050,rng:250,spd:400,itv:600},tunable:{mwp:1},type:"ls",size:"M",cost:70,comment:"ガゥディアンAM専用コンバージョンパーツ"}
+{id:152,name:"オフダシューター",main:{pwr:10,shl:1050,rng:275,spd:440,itv:600},tunable:{mwp:1},type:"ls",size:"M",cost:70,comment:"ガゥディアンAM専用コンバージョンパーツ"}
 {id:26,name:"オルクトヴァッフェ",main:{pwr:[28,29,30],shl:[260,280,300],rng:455,spd:500,itv:800},type:"c",size:"S",comment:["リンカー･リンクス専用コンバージョンパーツ",""],slot:0,cost:150,joint:{wp:1},fixedParts:{wp:{name:"マグネESPサイト",sub:{itv:1000},type:"c",size:"S",slot:0}}}
 
 
