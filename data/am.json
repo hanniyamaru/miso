@@ -208,7 +208,7 @@
 {id:3041102,name:"G・リモアAM",type:"c",size:"SS",cost:95,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,main:{pwr:14,shl:250,rng:330,spd:280,itv:600,tec:100},tunable:{mwp:1}}
 
 {id:163,name:"K・ノンナAM",size:"S",cost:35,hp:20,tec:2,wlk:2,fly:1}
-{id:172,name:"K・ノンナAM2",size:"S",cost:35,hp:20,tec:2,wlk:1,tgh:2}
+{id:172,name:"K・ノンナAM2",size:"S",cost:35,hp:20,tec:2,wlk:1,tgh:2,comment:"K・ノンナPS"}
 {id:203,name:"M・アーチAM",main:{pwr:3,shl:660,rng:275,spd:280,itv:900},type:"a",size:"S",cost:65,hp:20,tec:2,fly:2,tgh:1,tunable:{mwp:1}}
 {id:11027,name:"P・モーナAM",cost:35,hp:20,str:1,tec:-1,wlk:2,fly:2,tgh:1}
 {id:20220603,name:"S・イレーヌAM",main:{str:100,pwr:8,shl:100,rng:250,spd:500,itv:600},sub:{str:100,pwr:28,rng:150,spd:200,itv:1000},tunable:{pwp:1,mwp:1},type:"a",size:"S",cost:95,hp:25,str:3,tec:-1,fly:2,tgh:1,comment:"-",joint:{wp:0}}
