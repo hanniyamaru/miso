@@ -204,6 +204,8 @@
 
 
 {id:49,name:"シャドウキネシスBD",sub:{shl:60,rng:0,spd:180,itv:1000},cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|19@15|18@30|52@20|23@25|22@30|21@20|26@20|25@25|13@30|32@50|31@40"},cost:475,capa:870,hp:260,str:5,tec:11,wlk:5,fly:17,tgh:10,type:"a",size:"M",comment:"ビット性能値固定"}
+{id:202212082,name:"シャドウキネシスBD2",sub:{shl:60,rng:0,spd:180,itv:1000},cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|19@15|18@30|52@20|23@25|22@30|21@20|26@20|25@25|13@30|32@50|31@40"},cost:475,capa:905,hp:255,str:5,tec:10,wlk:5,fly:12,tgh:8,type:"a",size:"M",comment:"ビット性能値固定","MGN"}
+
 {id:33,name:"シンビジウムBD",cartridge:{lv1:"4*6@20|7@30|9@15|8@20|19@15|52@20|21@20|23@25|22@30|15@20|20@30|26@20|13@30|32@50|31@40",hpup:14},fixedParts:{bs:{name:"シンビジウムBS",sub:{pwr:32,rng:0,spd:250,itv:1000,tec:100},tunable:{pwp:1},cost:160,hp:25,tec:2,fly:3}},cost:445,capa:870,hp:255,str:5,tec:13,wlk:6,fly:16,tgh:8,wbid:1}
 
 {id:18,name:"スゼクBD",cost:445,capa:870,hp:255,str:13,tec:5,wlk:7,fly:14,tgh:9,wbid:17,cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|19@15|23@25|22@30|28@30|52@20|11@20|21@20|15@20|13@30|32@50|31@40"},comment:"AURAシステムを搭載。",auraSystem:1}
