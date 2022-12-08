@@ -324,6 +324,8 @@
 {id:11019,name:"ジャックオーHD",type:"lacs",size:"M",cost:40,hp:25,str:2,tec:2,tgh:1}
 
 {id:309,name:"シャドウキネシスHD",cost:40,hp:25,tec:3,wlk:1,fly:1}
+{id:202212081,name:"シャドウキネシスHD2",cost:40,hp:25,tec:2,fly:2,tgh:1}
+
 {id:2022203,name:"シャドウフロウHD",type:"lacs",cost:35,hp:20,str:2,wlk:1,fly:1,tgh:1}
 
 
