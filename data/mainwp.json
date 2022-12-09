@@ -428,7 +428,7 @@
 
 {group:"イヴコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:20221208,name:"E.V.E.Archetyep※1",main:{tec:100,pwr:30,shl:100,rng:275,spd:360,itv:1000},type:"a",size:"S",cost:100,comment:["RUIN CANNON","イヴAM専用コンバージョンパーツ"]}
-{id:202212081,name:"E.V.E.Archetyep※2",main:{tec:100,pwr:28,shl:420,rng:275,spd:440,itv:500},type:"a",size:"S",cost:130,comment:["E.V.E.SHOT","イヴAM2専用コンバージョンパーツ"]}
+{id:202212081,name:"E.V.E.Archetyep※2",main:{tec:100,pwr:28,shl:420,rng:275,spd:440,itv:500},type:"a",size:"S",cost:130,comment:["E.V.E.SHOT","ビーム爆風100％","イヴAM2専用コンバージョンパーツ"]}
 
 {group:"イルミスコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:49,name:"バトルフレームIα",main:{pwr:7,shl:960,rng:275,spd:280,itv:400},type:"a",size:"S",cost:70,comment:"イルミスSwmBF用コンバージョンパーツ"}
