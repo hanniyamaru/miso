@@ -548,6 +548,8 @@
 
 
 {id:95,name:"アーティラスAM",cost:40,hp:25,str:1,tec:1,wlk:1,fly:-1,tgh:3}
+{id:124,name:"アーティラスAM2",cost:95,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2,main:{pwr:22,shl:190,rng:330,spd:400,itv:900},tunable:{mwp:1},type:"c",size:"L",comment:"表記威力は分裂前のもの"}
+
 {id:1,name:"アクイーアAM",cost:35,hp:20,str:2,tec:1,fly:1,tgh:1}
 {id:66,name:"アクイーア・エアーズAM",cost:35,hp:20,tec:2,wlk:-1,fly:2,tgh:2,size:"L",comment:["ロボガラポン"]}
 
@@ -555,6 +557,8 @@
 
 {id:52,name:"アルバトレオスAM",tec:2,wlk:1,tgh:2,cost:70,hp:25,sub:{tec:100,pwr:26,rng:100,spd:250,itv:500},tunable:{pwp:1},type:"lc",joint:{wp:0}}
 {id:137,name:"アルマダAM",main:{tec:100,pwr:13,shl:500,rng:275,spd:255,itv:360},type:"a",size:"L",cost:100,hp:25,tec:3,wlk:-1,fly:1,tgh:2,tunable:{mwp:1},joint:{wp:0},comment:"ビーム爆風70％"}
+{id:143,name:"アルマダAM2",main:{tec:100,pwr:12,shl:520,rng:275,spd:320,itv:340},type:"a",size:"L",cost:120,hp:25,str:-1,tec:2,wlk:1,fly:2,tgh:1,tunable:{mwp:1},joint:{wp:0}}
+
 {id:20220606,name:"アレシスAM",type:"l",size:"L",cost:40,hp:25,str:2,wlk:1,fly:1,tgh:1}
 {id:173,name:"アレシスAM2",joint:{wp:2},fixedParts:{wp:{name:"アレシスシールド",main:{shl:15,spd:10,itv:1000},type:"l",size:"L",slot:0}},type:"l",size:"L",cost:60,hp:25,str:2,tec:1,tgh:2}
 
