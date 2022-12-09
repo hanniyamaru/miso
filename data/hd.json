@@ -194,6 +194,7 @@
 {id:539,name:"オボロマルHD",type:"lacs",size:"M",cost:35,hp:20,str:3,tec:1,wlk:1,fly:1,tgh:-1}
 {id:259,name:"オルフェノスHD",cost:40,hp:25,str:2,tec:1,wlk:-1,fly:2,tgh:1}
 
+{id:298,name:"ガゥディアンHD",cost:35,hp:20,str:-1,tec:1,wlk:2,fly:1,tgh:2,type:"lacs",size:"M"}
 {id:301,name:"ガゥディアンHD2",cost:35,hp:20,str:2,tec:-1,wlk:3,tgh:1,type:"lacs",size:"M"}
 {id:23,name:"ガシマHD",cost:40,hp:25,str:1,tec:2,wlk:1,fly:1}
 {id:24,name:"ガシマHD2",cost:40,hp:25,tec:2,wlk:2,tgh:1}
