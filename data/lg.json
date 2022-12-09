@@ -460,8 +460,8 @@
 
 
 
-{id:68,name:"アーティラスLG",sub:{pwr:23,rng:120,spd:250,itv:1000,tec:100},tunable:{pwp:1},cost:90,hp:30,str:-1,tec:3,wlk:3,tgh:1,type:"c",comment:"-"}
-
+{id:68,name:"アーティラスLG",sub:{pwr:23,rng:120,spd:250,itv:1000,tec:100},tunable:{pwp:1},cost:90,hp:30,str:-1,tec:3,wlk:3,tgh:1,type:"c",comment:""}
+{id:91,name:"アーティラスLG2",size:"L",type:"c",sub:{tec:100,pwr:5,shl:240,rng:300,spd:340,itv:1000},cost:80,hp:30,str:-1,tec:3,wlk:2,tgh:2,comment:""}
 {id:21,name:"アクイーアLG",type:"a",cost:50,hp:60,tec:1,wlk:2,fly:2,tgh:1,joint:{bs:1}}
 
 
@@ -472,7 +472,10 @@
 {id:43,name:"アルバトレオスLG",cost:50,hp:30,str:1,tec:1,wlk:3,fly:2,tgh:-1}
 {id:50,name:"アルバトレオスLG2",cost:50,hp:30,str:-1,tec:1,wlk:3,fly:1,tgh:2}
 
-{id:98,name:"アルマダLG",fixedParts:{wp:{name:"アマルダLG@",main:{pwr:14,shl:180,rng:275,spd:400,itv:600},type:"a",slot:0}},type:"a",size:"L",cost:125,hp:70,str:-1,tec:2,wlk:3,fly:2,joint:{wp:1}}
+
+{id:98,name:"アルマダLG",main:{pwr:14,shl:180,rng:275,spd:400,itv:600},type:"a",size:"L",cost:125,hp:70,str:-1,tec:2,wlk:3,fly:2,joint:{wp:1},comment:["BS@複合","武器チューン不可"]}
+{id:20221209,name:"アルマダLG2",sub:{tec:100,pwr:5,shl:200,rng:275,spd:320,itv:1000},type:"a",size:"L",cost:75,hp:70,str:-1,tec:1,wlk:2,fly:2,tgh:2,comment:["LG@複合","アルマダ・オセアーノ"]}
+
 {id:120,name:"アレシスLG",type:"l",size:"L",cost:65,hp:65,str:2,tec:-1,wlk:3,fly:1,tgh:1,sub:{pwr:0,rng:110,spd:200,itv:500}}
 
 {id:72,name:"アントリオンLG",type:"lc",cost:45,hp:60,tec:1,wlk:3,fly:-1,tgh:2}
