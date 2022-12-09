@@ -82,6 +82,8 @@
 {id:118,name:"オルフェノスBS",type:"s",cost:40,hp:25,tec:1,wlk:2,fly:3,tgh:-1}
 {id:20220728,name:"オレガーBS",size:"S",type:"l",cost:35,hp:20,str:2,tec:1,fly:2,comment:"アルカンタスドロップ"}
 
+{id:50,name:"カゲタマBS",type:"l",cost:35,hp:20,str:1,tec:2,fly:3,tgh:-1}
+
 {id:194,name:"ガシマガールBS",type:"c",size:"S",cost:35,hp:20,str:-1,tec:2,fly:3,tgh:1}
 {id:196,name:"ガナハウンドガールBS",type:"l",size:"S",cost:35,hp:20,str:2,tec:-1,fly:2,tgh:2}
 {id:2,name:"カメンティスBS",type:"l",cost:35,hp:20,tec:1,wlk:1,fly:2,tgh:1}
