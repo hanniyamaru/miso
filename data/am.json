@@ -33,6 +33,8 @@
 {id:20220728,name:"オレガーAM",size:"S",cost:35,hp:20,str:2,tec:1,wlk:2,fly:-1,tgh:1,comment:"アルカンタスドロップ"}
 {id:202207281,name:"オレガーAM2",size:"S",cost:35,hp:20,str:1,tec:1,wlk:2,fly:1,comment:"アルカンタスドロップ"}
 
+{id:69,name:"カゲタマAM",cost:35,hp:20,str:1,tec:1,wlk:2,tgh:1}
+
 {id:5,name:"カメンティスAM",cost:35,hp:20,tec:1,wlk:2,tgh:2}
 {id:11205,name:"キールメスAM2",main:{pwr:12,shl:300,rng:330,spd:240,itv:900},type:"c",cost:80,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,tunable:{mwp:1}}
 
