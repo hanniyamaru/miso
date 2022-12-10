@@ -391,6 +391,7 @@
 
 {id:20220316,name:"ダークレヴナントAM",cost:45,hp:20,str:2,tec:-1,wlk:2,tgh:2,slot:0,joint:{wp:3},comment:"部位破壊不能",type:"l"}
 {id:69,name:"ダグドライバーAM",type:"c",cost:135,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,main:{pwr:12,shl:450,rng:330,spd:240,itv:880},sub:{tec:100,pwr:25,rng:100,spd:180,itv:880},tunable:{mwp:1,pwp:1},joint:{wp:0}}
+{id:61,name:"ダテマックスAM",cost:35,hp:20,str:3,tec:-1,tgh:3}
 
 {id:133,name:"ダルタニスAM2",sub:{str:100,pwr:32,rng:75,spd:150,itv:1500},tunable:{pwp:1},joint:{wp:0},type:"l",cost:155,hp:20,str:2,tec:-1,wlk:3,tgh:1,comment:"シールド耐久値不明"}
 {id:305,name:"ダルタニスAM3",cost:155,hp:20,str:2,tec:-1,wlk:2,tgh:2,tunable:{mwp:1,pwp:1},joint:{wp:0},main:{str:100,pwr:11,shl:280,rng:225,spd:400,itv:300},sub:{str:100,pwr:28,shl:0,rng:120,spd:350,itv:1000},comment:"シールド耐久値不明"}
