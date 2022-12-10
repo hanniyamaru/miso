@@ -3,6 +3,8 @@
 
 {id:202206044,name:"アーテ・メイドAML",type:"s",cost:105,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,main:{pwr:14,shl:480,rng:275,spd:400,itv:220},tunable:{mwp:1},joint:{wp:0},comment:"ビーム属性"}
 {id:88,name:"アーテ・メイドAMR",type:"s",cost:105,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,main:{pwr:18,shl:480,rng:275,spd:400,itv:400},tunable:{mwp:1},joint:{wp:0},comment:"実弾属性"}
+{id:104,name:"アーテ・メイドRAM2",main:{tec:100,pwr:10,shl:840,rng:275,spd:400,itv:700},sub:{tec:100,pwr:13,shl:210,rng:275,spd:400,itv:1000},tunable:{mwp:1,pwp:0},type:"s",size:"S",cost:120,hp:20,str:-1,tec:3,wlk:2,fly:1,joint:{wp:0},comment:["実弾属性","アーテ・メイドフリル"]}
+{id:202212102,name:"アーテ・メイドLAM2",main:{tec:100,pwr:7,shl:840,rng:275,spd:400,itv:700},sub:{tec:100,pwr:9,shl:210,rng:275,spd:400,itv:1000},tunable:{mwp:1,pwp:0},type:"s",size:"S",cost:120,hp:20,str:-1,tec:3,wlk:2,fly:1,joint:{wp:0},comment:["ビーム属性","アーテ・メイドフリル"]}
 
 {id:60,name:"アームドビルダームAM2",type:"c",cost:115,hp:20,str:-1,tec:3,wlk:1,fly:2,sub:{tec:100,pwr:14,shl:270,rng:330,spd:380,itv:1000}}
 {id:302,name:"アイシーAM",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1}
@@ -330,6 +332,8 @@
 {id:1362,name:"ギャラクシーコマンドAM2（コンバージョンなし）",main:{pwr:19,shl:600,rng:300,spd:400,itv:300},joint:{wp:0},tunable:{mwp:1},auraStat:{main:{pwr:30,shl:300,rng:350,spd:440,itv:500}},type:"c",cost:165,hp:20,str:-1,tec:4,wlk:1,tgh:1}
 
 {id:101,name:"クアドラAM",main:{tec:100,pwr:21,shl:260,rng:330,spd:400,itv:700},tunable:{mwp:1},cost:75,hp:20,tec:2,wlk:1,fly:1,tgh:1,joint:{wp:0},type:"c",size:"M"}
+{id:111,name:"クアドラAM2",main:{pwr:7,shl:1000,rng:330,spd:400,itv:180},tunable:{mwp:1},joint:{wp:0},type:"c",cost:75,hp:20,tec:2,wlk:1,fly:1,tgh:1,comment:"クアドラ・ロンド"}
+
 {id:170,name:"クリスホーンAM",fixedParts:{am:{name:"クリスホーンAM@",slot:0,type:"l",joint:{wp:0}}},auraStat:{main:{pwr:15,shl:600,rng:250,spd:350,itv:500}},type:"l",cost:125,hp:20,str:-1,tec:3,wlk:2,fly:1,comment:"AURA機構",joint:{am:1},main:{pwr:10,shl:600,rng:250,spd:320,itv:400},tunable:{mwp:1},size:"M"}
 {id:9,name:"クレストセイントAM",cost:40,hp:25,str:2,wlk:1,fly:2}
 
