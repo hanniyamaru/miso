@@ -253,7 +253,7 @@
 {id:94,name:"ギャラクシーコマンドLG",cost:45,hp:25,str:-1,tec:1,wlk:3,fly:1,tgh:2}
 
 {id:70,name:"クアドラLG",size:"M",cost:45,hp:25,wlk:4,tgh:2}
-
+{id:80,name:"クアドラLG2",cost:45,hp:25,tec:2,wlk:4,fly:-1,tgh:1,comment:"クアドラ・ロンド"}
 {id:119,name:"クリスホーンLG",sub:{tec:100,pwr:11,shl:180,rng:220,spd:400,itv:1000},type:"l",size:"M",cost:75,hp:25,str:-1,tec:2,wlk:3,tgh:2}
 {id:17,name:"クリムローゼαLG",type:"a",cost:85,hp:50,str:1,tec:2,wlk:3,fly:3,tgh:1,builtin:{bs:1},comment:"BS内蔵"}
 
