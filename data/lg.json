@@ -320,6 +320,9 @@
 
 {id:20220316,name:"ダークレヴナントLG",type:"l",cost:45,hp:45,str:2,tec:-1,wlk:3,fly:1,tgh:1}
 {id:51,name:"ダグドライバーLG",cost:45,hp:25,tec:2,wlk:3,fly:-1,tgh:2}
+{id:42,name:"ダテマックスLG",cost:45,hp:25,str:2,tec:-1,wlk:3,tgh:2}
+
+
 {id:93,name:"ダルタニスLG",cost:40,hp:20,str:1,tec:1,wlk:3,fly:1,tgh:-1}
 
 {id:78,name:"テオライネLG",joint:{bs:1},type:"c",cost:45,hp:25,str:-1,tec:2,wlk:2,fly:2,tgh:1}
@@ -601,6 +604,8 @@
 {id:20,name:"パルサーディオLG",cost:50,hp:60,tec:1,wlk:2,fly:1,tgh:2}
 
 {id:6,name:"バルテオンLG",cost:50,hp:80,str:-1,tec:1,wlk:2,fly:2,tgh:2}
+{id:20221210,name:"バルテオンLG2",size:"L",type:"a",sub:{tec:100,pwr:20,shl:240,rng:275,spd:280,itv:1000},cost:150,hp:80,str:-1,tec:3,wlk:2,fly:1,tgh:2,comment:"バルテオンBV"}
+
 {id:57,name:"ビクトールLG",cost:45,hp:25,str:-1,tec:3,wlk:3,tgh:1}
 
 {id:13,name:"ビッグマンテスLG",cost:50,hp:70,tec:1,wlk:3,fly:1,tgh:1}
