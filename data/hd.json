@@ -394,6 +394,7 @@
 {id:20220524,name:"タイラントデストラクトHD",size:"M",cost:40,hp:25,tec:3,wlk:-1,fly:1,tgh:2,comment:"-"}
 
 {id:116,name:"ダグドライバーHD",sub:{str:100,pwr:28,rng:70,spd:85,itv:1000},tunable:{pwp:1},type:"lc",cost:75,hp:20,str:2,tec:-1,wlk:1,fly:1,tgh:2}
+{id:97,name:"ダテマックスHD",cost:40,hp:25,str:2,wlk:1,fly:-1,tgh:3}
 
 {id:335,name:"ダルタニスHD2",cost:35,hp:20,str:2,tec:-1,wlk:3,fly:1}
 
