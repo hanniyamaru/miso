@@ -350,6 +350,9 @@
 {id:114,name:"ギャラクシーコマンドBS",type:"c",cost:35,hp:20,str:-1,tec:1,wlk:1,fly:3,tgh:1}
 {id:96,name:"ギャランバルドBS",type:"l",cost:45,hp:25,str:2,tec:-1,wlk:1,fly:3}
 {id:78,name:"クアドラBS",type:"c",size:"M",cost:35,hp:20,tec:1,wlk:1,fly:2,tgh:1}
+{id:202212102,name:"クアドラBS2",type:"c",cost:35,hp:20,wlk:1,fly:2,tgh:2,comment:"クアドラ・ロンド"}
+
+
 {id:109113,name:"グリストBS2",sub:{pwr:15,shl:300,rng:275,spd:350,itv:1000},type:"a",cost:135,hp:20,str:-1,tec:1,wlk:1,fly:3,tgh:1}
 
 {id:174,name:"クリスホーンBS",type:"l",size:"M",cost:30,hp:15,tec:1,fly:2,tgh:1}
