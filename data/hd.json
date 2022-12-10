@@ -124,6 +124,7 @@
 {id:214,name:"アーティラスHD",cost:40,hp:25,str:1,tec:2,wlk:1,fly:2,tgh:-1}
 
 {id:154,name:"アーテ・メイドHD",cost:35,hp:20,str:2,wlk:2,tgh:1}
+{id:202212102,name:"アーテ・メイドHD2",cost:35,hp:20,tec:1,wlk:2,fly:1,tgh:1,comment:"アーテ・メイドフリル"}
 
 {id:91,name:"アームドビルダームHD",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
 
