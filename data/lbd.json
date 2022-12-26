@@ -1,4 +1,5 @@
 {group:"2021秋季以前の機体はメモリ・スロットを追加していないためアクセ欄にあるメモリ・スロットを任意の個数追加してご使用ください。",prefixID:"LS",commonStat:{size:"S"},type:"l",nextID:35}
+{group:"＠パーツは一部省略しています。",prefixID:"LS",commonStat:{size:"S"},type:"l",nextID:35}
 
 
 {group:"Ｓ陸　近日更新分",prefixID:"LS",commonStat:{size:"S",type:"l"},nextID:35}
