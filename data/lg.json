@@ -364,6 +364,7 @@
 
 {id:2,name:"ビクトリーLG",cost:40,hp:20,str:1,wlk:3,tgh:1}
 {id:55,name:"ビクトリーFBLG",cost:45,hp:25,tec:2,wlk:3,tgh:1,comment:["ロボガラポン"]}
+{id:20221227,name:"ビッグベルLG",sub:{pwr:0,shl:0,rng:10,spd:0,itv:1000},type:"lacs",size:"M",cost:45,hp:25,wlk:2,fly:2,tgh:2,comment:"NYキューブ2023"}
 
 
 {id:50,name:"ビャッコウLG",auraStat:{str:1,wlk:4,tgh:1},str:1,wlk:4,tgh:1,cost:45,hp:25,comment:"AURA機構"}
