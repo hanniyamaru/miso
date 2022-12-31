@@ -6,7 +6,7 @@
 
 {id:39,name:"カゲタマBD",cost:405,capa:780,hp:210,str:7,tec:10,wlk:14,fly:7,tgh:7,wbid:5,fixedParts:{wp:[{name:"カゲタマBD@",sub:{pwr:[30],shl:[0],rng:10,spd:60,itv:1000},cost:20,slot:0,comment:["UTSUSEMI","STR・TECの高い方に依存"]},{name:"カゲタマBD@2",sub:{shl:[30],rng:0,spd:180,itv:1000},tunable:{pwp:0},cost:30,slot:0}]},cartridge:{hpup:18,lv1:"85*6@25|7@20|9@20|10@15|18@15|20@15|23@25|22@30|77@15|25@25|26@20|30@20|13@30|32@50|31@40"},joint:{wp:2}}
 
-{id:20221208,name:"ジェイスBD",sub:{str:100,pwr:[30],shl:[5],rng:[120],spd:250,itv:1000},builtin:{bs:1},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|15@15|21@20|13@30|34@15|32@50|31@40"},fixedParts:{hd:{name:"ジェイスHD",cost:40,hp:25,str:1,wlk:1,fly:1,tgh:2},lg:{name:"ジェイスLG",cost:45,hp:25,wlk:4,fly:1,tgh:1},am:[{main:{str:100,pwr:30,shl:10,rng:220,spd:500,itv:1000},tunable:{mwp:1},joint:{wp:2},name:"ジェイスAM2",cost:40,hp:25,str:3,wlk:1,tgh:1},{name:"ジェイスAM",cost:40,hp:25,str:3,wlk:1,tgh:1}]},cost:510,capa:900,hp:245,str:14,tec:4,wlk:14,fly:10,tgh:11,wbid:0,comment:["WBゲージ回復：20秒","変形省略"]}
+{id:20221208,name:"ジェイスBD",sub:{str:100,pwr:[30],shl:[5],rng:[120],spd:250,itv:1000},builtin:{bs:1},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|15@15|21@20|13@30|34@15|32@50|31@40"},fixedParts:{hd:{name:"ジェイスHD",cost:40,hp:25,str:1,wlk:1,fly:1,tgh:2},lg:{name:"ジェイスLG",cost:45,hp:25,wlk:4,fly:1,tgh:1},am:[{main:{str:100,pwr:30,shl:10,rng:220,spd:500,itv:1000},tunable:{mwp:1},joint:{wp:2},name:"ジェイスAM2",cost:40,hp:25,str:3,wlk:1,tgh:1,comment:["凍結弾：効果2秒：CT3秒：10発","ショック弾：効果3秒：CT3秒：10発","バリア弾：効果3秒：CT8秒：3発"]},{name:"ジェイスAM",cost:40,hp:25,str:3,wlk:1,tgh:1}]},cost:510,capa:900,hp:245,str:14,tec:4,wlk:14,fly:10,tgh:11,wbid:0,comment:["WBゲージ回復：20秒","変形省略"]}
 
 
 
