@@ -270,7 +270,6 @@
 
 {id:89,name:"A.L.E.ウィンベルBS",cost:40,hp:25,str:-1,wlk:1,fly:3,tgh:2,type:"s"}
 {id:93,name:"A.L.E.ジークンロンBS",cost:40,hp:25,str:2,wlk:1,fly:2,type:"l"}
-{id:125,name:"A.L.E.ラズフラムBS",sub:{pwr:20,shl:30,rng:150,spd:200,itv:500,tec:100},type:"l",size:"S",comment:"A.L.EラズフラムLG専用コンバージョンパーツ",cost:70,hp:25,str:-1,tec:2,wlk:2,fly:2}
 
 {id:90,name:"A.L.E.リリレインBS",cost:40,hp:25,str:-1,wlk:1,fly:3,tgh:2,type:"c",comment:"-"}
 
@@ -780,3 +779,4 @@
 {id:159,name:"マニモウィング",sub:{shl:60,spd:160,itv:1000},builtin:{bs:-1},joint:{wp:1},type:"a",size:"M",cost:70,hp:25,str:1,fly:2,tgh:2,slot:0}
 
 {id:197,name:"フェルメBS",sub:{tec:100,pwr:22,shl:150,rng:200,spd:250,itv:1000},type:"l",size:"S",cost:55,hp:20,str:-1,tec:2,wlk:1,fly:3,comment:["フェルメBD専用コンバージョンパーツ"]}
+{id:125,name:"A.L.E.ラズフラムBS",sub:{pwr:20,shl:30,rng:150,spd:200,itv:500,tec:100},type:"l",size:"S",comment:"A.L.EラズフラムLG専用コンバージョンパーツ",cost:70,hp:25,str:-1,tec:2,wlk:2,fly:2}
