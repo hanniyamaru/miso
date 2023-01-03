@@ -903,7 +903,7 @@
 {id:15,name:"コメットランチャーAMJ",type:"c",size:"M",cost:50,slot:1,main:{pwr:8,shl:440,rng:330,spd:320,itv:340},tunable:{mwp:1},comment:"イルミス付属AMJ"}
 
 {id:33,name:"サイコフォーミュラAMJ",main:{pwr:7,shl:560,rng:330,spd:300,itv:740},cost:40,slot:1,size:"S",type:"c",tunable:{mwp:1},comment:"サイコフォーミュラ轟"}
-{id:41,name:"シュトルバンガーAMJ",main:{pwr:10,shl:240,rng:300,spd:400,itv:800,tec:100},type:"c",size:"L",cost:30,slot:1,tunable:{mwp:1}}
+{id:41,name:"シュトルバンガーAMJ",main:{pwr:10,shl:240,rng:300,spd:400,itv:800,tec:100},type:"c",size:"L",cost:30,slot:1,tunable:{mwp:1},comment:"爆風90％？"}
 {id:53,name:"ティタロテスAMJ",type:"c",size:"L",cost:20,tunable:{mwp:1},slot:1,main:{pwr:17,shl:120,rng:300,spd:220,itv:600}}
 {id:27,name:"ティルージュAMJ",main:{pwr:6,shl:500,rng:275,spd:320,itv:340},tunable:{mwp:1},type:"a",size:"M",cost:40,slot:1}
 
