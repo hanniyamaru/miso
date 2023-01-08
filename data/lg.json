@@ -672,7 +672,7 @@
 
 
 
-{group:"LLサイズ",prefixID:"LL",commonStat:{size:"L"},nextID:999}
+{group:"LLサイズ",prefixID:"LL",commonStat:{size:"LL"},nextID:999}
 {id:52,name:"アクイーア・エアーズLG",sub:{pwr:25,shl:60,rng:275,spd:300,itv:1000,tec:100},size:"LL",type:"a",cost:90,hp:60,str:-1,tec:2,wlk:3,tgh:2,joint:{bs:1},comment:["ロボガラポン","ブースト回復効果・貫通弾","爆風に命中した相手毎にブースト回復効果を得られる"]}
 
 
