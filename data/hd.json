@@ -506,7 +506,7 @@
 
 {id:212,name:"ファルクラムHD",cost:35,hp:20,str:2,wlk:-1,fly:2,tgh:2}
 
-{id:39,name:"フィザリバンHD",type:"l",cost:105,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,main:{pwr:20,shl:210,rng:225,spd:440,itv:800},tunable:{mwp:1},comment:"実弾属性爆風"}
+{id:39,name:"フィザリバンHD",type:"l",cost:105,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,main:{pwr:20,shl:210,rng:225,spd:440,itv:800},tunable:{mwp:1},comment:["実弾属性爆風80％？","バーニング3秒"]}
 
 {id:289,name:"フォースドライブHD",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2,type:"lacs",size:"M"}
 
