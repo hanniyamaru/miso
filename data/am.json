@@ -523,7 +523,7 @@
 {id:152,name:"ラムダイバーAM",type:"lacs",size:"M",cost:35,hp:20,str:-1,wlk:2,fly:2,tgh:2}
 {id:153,name:"ラムダイバーAM2",main:{pwr:25,shl:210,rng:275,spd:485,itv:700},tunable:{mwp:1},type:"a",size:"M",cost:135,hp:20,str:-1,tec:3,wlk:1,tgh:2,joint:{wp:0}}
 {id:128,name:"ランドスAM",main:{pwr:21,shl:160,rng:330,spd:570,itv:740},tunable:{mwp:1},type:"c",cost:90,hp:25,str:-1,tec:3,wlk:2,tgh:1}
-{id:143,name:"ランドスAM2",tunable:{mwp:1},type:"l",size:"M",cost:100,hp:15,str:-1,tec:3,wlk:2,main:{pwr:12,shl:540,rng:330,spd:440,itv:340,tec:100},comment:["ランドス・Q","メインウェポンのみ装着可能"]}
+{id:143,name:"ランドスAM2",tunable:{mwp:1},type:"c",size:"M",cost:100,hp:15,str:-1,tec:3,wlk:2,main:{pwr:12,shl:540,rng:330,spd:440,itv:340,tec:100},comment:["ランドス・Q","メインウェポンのみ装着可能"]}
 
 {id:188,name:"リバースサンダーAM",size:"M",cost:35,hp:20,str:2,tec:-1,wlk:3,tgh:1}
 {id:113,name:"ルッカ・デーコAM",cost:40,hp:25,str:2,tec:2,wlk:1,fly:-1,tgh:1}
