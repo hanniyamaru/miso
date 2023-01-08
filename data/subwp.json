@@ -111,12 +111,12 @@
 {id:6,name:"ジェットハンマー",type:"l",size:"L",cost:130,sub:{str:100,pwr:39,shl:30,rng:70,spd:85,itv:1600}}
 
 {id:14,name:"ジャックオーハンマー",sub:{pwr:25,rng:130,spd:70,itv:1000,str:100},cost:130,size:"L",type:"l",tunable:{pwp:1}}
-{id:1222,name:"Xmasベルハンマー",main:{pwr:20,shl:50,rng:200,spd:500,itv:500,str:100},sub:{pwr:31,rng:49,spd:60,itv:1000,str:100},cost:70,size:"M",tunable:{mwp:1,pwp:1}}
+{id:1222,name:"Xmasベルハンマー",main:{pwr:20,shl:50,rng:200,spd:500,itv:500,str:100},sub:{pwr:31,rng:49,spd:60,itv:1000,str:100},cost:70,size:"M",tunable:{mwp:1,pwp:1},comment:["メイン：格闘属性","文字2"]}
 {id:20221005,name:"フレイムメイス",type:"l",size:"L",cost:150,sub:{str:100,pwr:35,shl:50,rng:70,spd:85,itv:1000},comment:"Season7アリーナコイン景品"}
 
 
 {group:"ダガー系",prefixID:"DG",nextID:6}
-{id:1,name:"3ウェイダガー",type:"las",size:"S",cost:50,str:-1,tec:-1,sub:{str:100,pwr:25,rng:70,spd:180,itv:1400}}
+{id:1,name:"3ウェイダガー",type:"las",size:"S",cost:50,str:-1,tec:-1,sub:{str:100,pwr:25,rng:70,spd:180,itv:1400},comment:"未実装"}
 {id:2,name:"コンビネーションダガー",type:"la",size:"S",cost:120,sub:{str:100,pwr:24,rng:80,spd:180,itv:1000}}
 
 
