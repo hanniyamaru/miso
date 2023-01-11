@@ -559,7 +559,7 @@
 {id:66,name:"アクイーア・エアーズAM",cost:35,hp:20,tec:2,wlk:-1,fly:2,tgh:2,size:"L",comment:["ロボガラポン"]}
 
 {id:202301122,name:"アストロトルーパーAM",size:"L",cost:65,hp:20,str:1,tec:1,wlk:2,tgh:1}
-{id:2023011221,name:"アストロトルーパーAM2",type:"l",size:"L",cost:155,hp:20,str:-1,tec:3,wlk:2,tgh:1,main:{tec:100,pwr:16,shl:600,rng:250,spd:300,itv:400},tunable:{mwp:1},comment:["",""]}
+{id:2023011221,name:"アストロトルーパーAM2",type:"l",size:"L",cost:155,hp:20,str:-1,tec:3,wlk:2,tgh:1,main:{tec:100,pwr:16,shl:600,rng:250,spd:300,itv:400},joint:{wp:0},tunable:{mwp:1},comment:["",""]}
 
 {id:52,name:"アルバトレオスAM",tec:2,wlk:1,tgh:2,cost:70,hp:25,sub:{tec:100,pwr:26,rng:100,spd:250,itv:500},tunable:{pwp:1},type:"lc",joint:{wp:0}}
 {id:137,name:"アルマダAM",main:{tec:100,pwr:13,shl:500,rng:275,spd:255,itv:360},type:"a",size:"L",cost:100,hp:25,tec:3,wlk:-1,fly:1,tgh:2,tunable:{mwp:1},joint:{wp:0},comment:"ビーム爆風70％"}
