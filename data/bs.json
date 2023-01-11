@@ -547,7 +547,7 @@
 {id:191,name:"ワニガメンティスBS",sub:{tec:100,pwr:24,rng:300,spd:500,itv:1000},type:"c",size:"M",cost:140,hp:25,str:-1,tec:2,wlk:1,fly:2,tgh:1,comment:"-",tunable:{mwp:0,pwp:0}}
 
 {id:168,name:"F･リュールBS",sub:{tec:100,pwr:16,shl:150,rng:275,spd:300,itv:1000},joint:{bs:1},fixedParts:{bs:{name:"F･リュールBS@",main:{tec:100,pwr:3,shl:1000,rng:275,spd:400,itv:300},tunable:{mwp:0},type:"a",size:"M",slot:0}},cost:125,hp:20,str:-1,tec:3,fly:3,type:"a",size:"M",comment:"BS@cost40合算"}
-{id:184,name:"F･リュールBS2",sub:{pwr:0,shl:30,rng:0,spd:200,itv:1000},type:"a",size:"M",cost:65,hp:20,str:-1,tec:1,fly:4,tgh:1,fixedParts:{bs:{sub:{pwr:0,shl:30,rng:0,spd:180,itv:1000},name:"F･リュールBS2@",type:"a",size:"M",slot:0}},comment:"F・リュールGP"}
+{id:184,name:"F･リュールBS2",sub:{pwr:0,shl:30,rng:0,spd:200,itv:1000},type:"a",size:"M",cost:65,hp:20,str:-1,tec:1,fly:4,tgh:1,fixedParts:{bs:{sub:{pwr:0,shl:30,rng:0,spd:180,itv:1000},name:"F･リュールBS2@",type:"a",size:"M",slot:0}},joint:{bs:1},comment:"F・リュールGP"}
 
 {id:1204,name:"M・アーチBS",type:"a",cost:35,hp:20,str:1,tec:1,fly:3}
 
