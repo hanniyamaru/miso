@@ -164,7 +164,7 @@
 {id:123,name:"G・リモアLG",sub:{shl:30,spd:150,itv:500},type:"c",size:"S",cost:75,hp:25,tec:1,wlk:3,tgh:2}
 
 {id:108,name:"F･リュールLG",type:"lacs",size:"S",cost:40,hp:20,tec:1,wlk:2,fly:2}
-
+{id:202301123,name:"F･リュールLG2",type:"lacs",size:"S",cost:40,hp:20,tec:1,wlk:2,fly:2,tgh:-1,comment:"F・リュールGP"}
 {id:103,name:"K・ノンナLG",size:"S",cost:40,hp:20,wlk:2,fly:2,tgh:1}
 {id:1203,name:"M・アーチLG",type:"a",cost:90,hp:20,str:-1,tec:2,wlk:2,fly:1,tgh:1,sub:{tec:100,pwr:18,shl:120,rng:275,spd:320,itv:1000}}
 
