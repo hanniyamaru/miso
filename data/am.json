@@ -207,7 +207,7 @@
 {id:147,name:"A.L.E.ラズフラムAM2",main:{pwr:9,shl:600,rng:225,spd:440,itv:200},type:"l",size:"S",cost:105,hp:20,tec:3,wlk:1,fly:-1,tgh:2,tunable:{mwp:1},joint:{wp:0}}
 
 {id:180,name:"F･リュールAM",size:"S",cost:35,hp:20,tec:2,fly:2,tgh:1}
-{id:192,name:"F･リュールAM3",main:{tec:100,pwr:16,shl:660,rng:275,spd:400,itv:300},tunable:{mwp:1},type:"a",size:"S",cost:135,hp:20,str:-1,tec:3,fly:2,tgh:1,joint:{wp:0},comment:"ビーム爆風50％"}
+{id:192,name:"F･リュールAM3",main:{tec:100,pwr:17,shl:660,rng:275,spd:440,itv:300},tunable:{mwp:1},type:"a",size:"S",cost:135,hp:20,str:-1,tec:3,fly:2,tgh:1,joint:{wp:0},comment:"ビーム爆風50％"}
 
 {id:3041102,name:"G・リモアAM",type:"c",size:"SS",cost:95,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,main:{pwr:14,shl:250,rng:330,spd:280,itv:600,tec:100},tunable:{mwp:1}}
 
