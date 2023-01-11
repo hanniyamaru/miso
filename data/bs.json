@@ -622,7 +622,7 @@
 
 {id:37,name:"サイクロテスBS",type:"l",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:2,tgh:2}
 {id:18,name:"サジタルマクシスBS",type:"c",cost:40,hp:25,str:2,fly:3}
-
+{id:202301123,name:"サジタルマクシス・CBS",type:"c",size:"L",cost:40,hp:25,tec:1,wlk:1,fly:3}
 {id:69,name:"ザリドBS",type:"l",cost:40,hp:25,tec:2,wlk:-1,fly:3,tgh:1}
 {id:23,name:"ジーウェインBS",type:"a",cost:40,hp:25,tec:2,wlk:-1,fly:3,tgh:1}
 {id:85,name:"ジーウェイン・アーヴBS",type:"a",size:"L",cost:35,hp:20,fly:3,tgh:2}
