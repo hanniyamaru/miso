@@ -536,6 +536,8 @@
 
 {id:51,name:"ブレイズバロンHD",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2}
 {id:52,name:"ブレイズバロンHD2",cost:40,hp:25,str:-1,tec:3,wlk:1,tgh:2}
+{id:130,name:"ブレイズバロンHD3",cost:70,hp:25,tec:2,wlk:2,fly:-1,tgh:2,sub:{tec:100,pwr:30,rng:250,spd:320,itv:1000},type:"l",comment:"MM"}
+
 {id:232,name:"プレデトバイツHD",cost:40,hp:20,str:1,tec:2,tgh:2}
 {id:2322,name:"プレデトバイツHD2",cost:35,hp:20,tec:3,wlk:1,fly:-1,tgh:2}
 {id:222,name:"プロトスHD",cost:35,hp:20,tec:3,wlk:1,tgh:1}
