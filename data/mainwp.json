@@ -255,7 +255,7 @@
 {id:20220706,name:"バレージヒートガン",size:"M",type:"c",cost:120,main:{pwr:19,shl:630,rng:330,spd:400,itv:800},comment:["爆風100％",""]}
 {id:20221005,name:"イーグレットブラスター",type:"a",size:"M",cost:110,main:{pwr:9,shl:660,rng:275,spd:350,itv:800},comment:"Season7アリーナコイン景品"}
 {id:202210051,name:"ミサイルクラスターガン",size:"M",type:"c",cost:140,main:{pwr:12,shl:170,rng:330,spd:290,itv:800},comment:["Season7アリーナコイン景品","爆風70％？"]}
-
+{id:20230113,name:"ヒナワ",main:{tec:100,pwr:7,shl:960,rng:150,spd:400,itv:660},tunable:{mwp:1},type:"l",size:"S",cost:120,comment:"シャドウマスター初期装備"}
 
 
 {group:"照射系",prefixID:"LS",commonStat:{tunable:{mwp:1}},nextID:1}
