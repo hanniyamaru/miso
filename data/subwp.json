@@ -172,6 +172,7 @@
 
 {id:29,name:"カグラオウギ",sub:{tec:100,pwr:30,shl:150,rng:300,spd:240,itv:1000},tunable:{mwp:0,pwp:0},size:"S",type:"s",cost:85,comment:["ミヅハ初期装備","Season7アリーナコイン景品"]}
 
+{id:20230113,name:"コダチ",sub:{str:100,pwr:32,rng:10,spd:10,itv:1000},type:"l",size:"S",cost:40,tunable:{pwp:1},comment:"シャドウマスター初期装備"}
 
 
 
