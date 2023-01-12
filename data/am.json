@@ -78,7 +78,7 @@
 {id:20221007,name:"セルピリスAM",cost:35,hp:20,str:1,wlk:2,tgh:2,size:"S",comment:["非アクティブ装備の非表示機能あり"]}
 {id:19,name:"ゼロセイバーAM",cost:35,hp:20,str:2,tec:1,wlk:1,fly:1}
 {id:21,name:"ゼロセイバーAM2",cost:35,hp:20,tec:3,wlk:1,fly:1}
-{id:303,name:"ゼロセイバーAM3",cost:40,hp:25,str:2,tec:1,wlk:1,tgh:1,comment:"FP"}
+{id:202301124,name:"ゼロセイバーAM3",cost:40,hp:25,str:2,tec:1,wlk:1,tgh:1,comment:"FP"}
 
 {id:179,name:"ゼロセイバーNEXTAM",type:"lacs",size:"S",cost:40,hp:25,str:1,wlk:2,tgh:2}
 {id:165,name:"ゼロナイトAM",type:"lacs",cost:35,hp:20,str:3,wlk:-1,fly:2,tgh:1}
