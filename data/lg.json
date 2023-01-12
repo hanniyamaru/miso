@@ -28,7 +28,7 @@
 {id:4,name:"キャノンボールLG",cost:40,hp:20,tec:1,wlk:3,fly:-1,tgh:2}
 {id:79,name:"キャノンボールHLLG",cost:45,hp:25,tec:2,wlk:2,fly:-1,tgh:2}
 {id:88,name:"キュレーネLG",size:"S",cost:45,hp:25,str:-1,tec:1,wlk:3,fly:1,tgh:2}
-
+{id:119,name:"キュレーネLG2",cost:45,hp:25,str:-1,tec:2,wlk:2,fly:1,tgh:2,comment:"PB"}
 {id:20220523,name:"クローリアLG",size:"S",cost:45,hp:25,str:2,wlk:3,tgh:1}
 {id:16,name:"クロスラプターLG",cost:45,hp:25,tec:1,wlk:3,fly:1,tgh:1}
 
