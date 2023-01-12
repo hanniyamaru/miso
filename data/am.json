@@ -42,6 +42,8 @@
 
 
 {id:124,name:"キュレーネAM",size:"S",cost:35,hp:20,str:-1,tec:1,wlk:1,fly:2,tgh:2}
+{id:202301124,name:"キュレーネAM2",cost:30,hp:15,str:-1,tec:2,fly:1,tgh:2,comment:"PB"}
+
 {id:6,name:"クリムローゼαAM",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1}
 {id:7,name:"クリムローゼαAM2",type:"a",cost:105,hp:20,str:3,fly:1,tgh:1,sub:{str:100,pwr:30,rng:70,spd:85,itv:2000},tunable:{pwp:1},joint:{wp:0},comment:"FLY依存サブ"}
 
