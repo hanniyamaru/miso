@@ -114,7 +114,7 @@
 
 {id:5,name:"シャインバトラーBS",type:"l",cost:40,hp:25,str:2,tec:-1,fly:3,tgh:1}
 {id:2022203,name:"シャドウフロウBS",type:"l",size:"S",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1}
-
+{id:70,name:"シャドウマスターBS",type:"l",cost:35,hp:20,str:1,tec:-1,wlk:1,fly:3,tgh:1}
 {id:77,name:"シルビアBS",type:"l",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:2,tgh:2}
 {id:105,name:"シルビアBS2",type:"l",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:3,tgh:1}
 
