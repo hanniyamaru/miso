@@ -13,7 +13,7 @@
 
 
 {id:251,name:"エアリーデHD",cost:35,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1}
-
+{id:20,name:"エルメ・SHD",type:"as",size:"S",cost:100,hp:20,str:-1,tec:2,wlk:2,fly:1,tgh:1,main:{pwr:7,shl:720,rng:275,spd:150,itv:200},tunable:{mwp:1},comment:"Season8アリーナコイン景品"}
 {id:20220807,name:"オレガーHD2",size:"S",cost:35,hp:20,tec:2,wlk:2,fly:-1,tgh:2,comment:"アルカンタスドロップ"}
 
 {id:4,name:"カメンティスHD",cost:35,hp:20,str:1,tec:2,tgh:2}
