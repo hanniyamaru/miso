@@ -30,7 +30,7 @@
 {id:129,name:"エアリーデAM",cost:35,hp:20,tec:2,fly:2,tgh:1}
 
 {id:87,name:"エルメ・サリーAM",type:"s",size:"S",cost:105,hp:20,str:2,tec:-1,wlk:2,fly:1,tgh:1,sub:{str:100,pwr:32,rng:70,spd:85,itv:1000},tunable:{pwp:1},joint:{wp:0}}
-{id:2,name:"エルメ・SAM",type:"s",size:"SS",cost:75,hp:20,str:20,wlk:1,fly:1,tgh:1,sub:{str:100,pwr:18,shl:140,rng:275,spd:350,itv:1000},tunable:{pwp:0},joint:{wp:0},comment:["速度はWLK・FLYの高い方に依存","Season8アリーナコイン景品"]}
+{id:202301183,name:"エルメ・SAM",type:"s",size:"SS",cost:75,hp:20,str:20,wlk:1,fly:1,tgh:1,sub:{str:100,pwr:18,shl:140,rng:275,spd:350,itv:1000},tunable:{pwp:0},joint:{wp:0},comment:["速度はWLK・FLYの高い方に依存","Season8アリーナコイン景品"]}
 {id:303,name:"オボロマルAM",main:{pwr:11,shl:540,rng:275,spd:280,itv:500},type:"a",cost:85,hp:20,str:-1,tec:2,fly:2,tgh:2,tunable:{mwp:0,pwp:0},size:"S",comment:["AM@cost50複合","mainチューン不可"]}
 {id:20220728,name:"オレガーAM",size:"S",cost:35,hp:20,str:2,tec:1,wlk:2,fly:-1,tgh:1,comment:"アルカンタスドロップ"}
 {id:202207281,name:"オレガーAM2",size:"S",cost:35,hp:20,str:1,tec:1,wlk:2,fly:1,comment:"アルカンタスドロップ"}
