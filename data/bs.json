@@ -681,7 +681,7 @@
 {id:290,name:"ドラッケンBS",type:"l",cost:40,hp:25,str:1,tec:-1,fly:3,tgh:2}
 {id:1201,name:"トルク・マイティバインBS",type:"l",cost:40,hp:25,str:1,fly:2,tgh:2}
 
-
+{id:202301182,name:"バクサイガーBS",size:"L",type:"c",cost:30,hp:15,tec:1,wlk:-1,fly:2,tgh:2,comment:"Season8アリーナコイン景品"}
 {id:101,name:"ハディロスBS",main:{str:100,pwr:6,shl:1440,rng:225,spd:400,itv:140},tunable:{mwp:1},cost:135,hp:20,str:2,tec:-1,fly:3,tgh:1,type:"l",size:"L"}
 {id:20221030,name:"ハザードメガトンBS",type:"c",size:"L",cost:30,hp:15,tec:2,wlk:-1,fly:2,tgh:1,comment:["イベント宙域","シュタインズキューブ"]}
 
