@@ -16,6 +16,7 @@
 {id:91,name:"エアリーデLG",cost:40,hp:20,tec:2,wlk:2,fly:1}
 
 {id:66,name:"エルメ・サリーLG",size:"S",cost:45,hp:25,tec:2,wlk:3,tgh:1}
+{id:27,name:"エルメ・SLG",size:"S",cost:45,hp:25,tec:1,wlk:3,fly:2,comment:"Season8アリーナコイン景品"}
 {id:38,name:"オウカLG",type:"l",cost:45,hp:30,str:1,wlk:3,tgh:2,joint:{bs:1}}
 
 {id:95,name:"オルフェノスLG",cost:45,hp:25,str:1,tec:1,wlk:3}
