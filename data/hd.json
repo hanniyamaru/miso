@@ -464,6 +464,7 @@
 {id:49,name:"ハイプリストルHD",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1}
 {id:234,name:"ハイプリストルGHD",cost:35,hp:20,str:1,tec:1,tgh:3}
 
+{id:202301182,name:"バクサイガーHD",size:"M",cost:35,hp:20,str:1,tec:1,wlk:1,fly:1,tgh:1,comment:"Season8アリーナコイン景品"}
 {id:82,name:"バグジーケットHD",cost:40,hp:20,str:-1,tec:3,wlk:1,fly:2}
 {id:83,name:"バグジーケットHD2",cost:40,hp:20,str:2,tec:-1,wlk:3,fly:1}
 {id:63,name:"パシファールHD",cost:40,hp:20,str:1,tec:2,wlk:2}
