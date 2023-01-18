@@ -246,13 +246,8 @@
 
 {group:"Ｍサイズ",prefixID:"M",commonStat:{size:"M"},nextID:69}
 
-{id:85,name:"メディージャーAM",cost:35,hp:20,tec:1,wlk:2,tgh:2,comment:"ミッションコイン景品"}
-{id:86,name:"メディージャーAM2",cost:35,hp:20,tec:1,wlk:2,tgh:2,comment:["リペア弾","回復量60","ミッションコイン景品"],fixedParts:{wp:{name:"バクルス",main:{shl:80,rng:300,spd:300,itv:500},tunable:{mwp:0},cost:70,slot:0,comment:["リペア弾","回復量60"]}},type:"s"}
-{id:1560,name:"メディージャーAM3",cost:35,hp:20,tec:1,wlk:2,tgh:2,comment:["ハイショ陣","回復量65"],fixedParts:{wp:{name:"リベル",sub:{shl:12,rng:0,spd:0,itv:20000},tunable:{mwp:0},cost:70,slot:0,comment:["ハイショ陣","回復量65"]}},type:"s"}
-{id:156,name:"メディージャーAM4",type:"s",size:"M",cost:35,hp:20,tec:1,wlk:2,tgh:2,comment:["シェルサプ杖","回復量36"],fixedParts:{wp:{name:"アスクレピオス",main:{shl:80,rng:300,spd:300,itv:500},type:"s",size:"M",cost:40,slot:0,comment:["シェルサプ杖","回復量36"]}}}
-
-{id:20230118,name:"アーマーメットAM",sub:{str:100,pwr:31,rng:80,spd:140,itv:500},auraStat:{sub:{str:100,pwr:35,rng:100,spd:180,itv:500}},size:"M",type:"l",cost:135,hp:20,str:3,tec:-1,wlk:2,tgh:1,comment:["AURA機構","Season8アリーナコイン景品"],tunable:{pwp:1}}
-{id:202301181,name:"アーマーメットAM2",main:{str:100,pwr:14,shl:600,rng:200,spd:380,itv:300},auraStat:{main:{str:100,pwr:16,shl:600,rng:200,spd:380,itv:300}},size:"M",type:"l",cost:95,hp:20,str:2,tec:-1,wlk:1,tgh:3,comment:["AURA機構","Season8アリーナコイン景品"],tunable:{mwp:1}}
+{id:20230118,name:"アーマーメットAM",sub:{str:100,pwr:31,rng:80,spd:140,itv:500},auraStat:{sub:{str:100,pwr:35,rng:100,spd:180,itv:500}},size:"M",type:"l",cost:135,hp:20,str:3,tec:-1,wlk:2,tgh:1,comment:["AURA機構","Season8アリーナコイン景品"],tunable:{pwp:1},joint:{wp:0}}
+{id:202301181,name:"アーマーメットAM2",main:{str:100,pwr:14,shl:600,rng:200,spd:380,itv:300},auraStat:{main:{str:100,pwr:16,shl:600,rng:200,spd:380,itv:300}},size:"M",type:"l",cost:95,hp:20,str:2,tec:-1,wlk:1,tgh:3,comment:["AURA機構","Season8アリーナコイン景品"],tunable:{mwp:1},joint:{wp:0}}
 
 {id:1511,name:"アクシオンAM",main:{tec:100,pwr:14,shl:240,rng:250,spd:400,itv:300},tunable:{mwp:1},type:"l",size:"M",cost:110,hp:25,str:-1,tec:3,wlk:2,tgh:1}
 {id:1512,name:"アクシオンAM2",sub:{str:100,pwr:28,rng:70,spd:85,itv:500},tunable:{pwp:1},type:"l",size:"M",cost:80,hp:25,str:3,tec:-1,wlk:2,tgh:1}
@@ -524,6 +519,14 @@
 {id:104,name:"メカジェッターOMGAM",cost:115,hp:20,str:-1,tec:2,fly:3,tgh:1,type:"a",tunable:{mwp:1},size:"M",main:{tec:100,pwr:20,shl:250,rng:275,spd:280,itv:800}}
 
 {id:20220708,name:"メカジェッターOMGAM2",cost:155,hp:20,str:-1,tec:3,fly:2,tgh:1,type:"a",size:"M",tunable:{mwp:1},main:{tec:100,pwr:30,shl:300,rng:275,spd:480,itv:640},joint:{wp:0}}
+
+{id:85,name:"メディージャーAM",cost:35,hp:20,tec:1,wlk:2,tgh:2,comment:"ミッションコイン景品"}
+{id:86,name:"メディージャーAM2",cost:35,hp:20,tec:1,wlk:2,tgh:2,comment:["リペア弾","回復量60","ミッションコイン景品"],fixedParts:{wp:{name:"バクルス",main:{shl:80,rng:300,spd:300,itv:500},tunable:{mwp:0},cost:70,slot:0,comment:["リペア弾","回復量60"]}},type:"s"}
+{id:1560,name:"メディージャーAM3",cost:35,hp:20,tec:1,wlk:2,tgh:2,comment:["ハイショ陣","回復量65"],fixedParts:{wp:{name:"リベル",sub:{shl:12,rng:0,spd:0,itv:20000},tunable:{mwp:0},cost:70,slot:0,comment:["ハイショ陣","回復量65"]}},type:"s"}
+{id:156,name:"メディージャーAM4",type:"s",size:"M",cost:35,hp:20,tec:1,wlk:2,tgh:2,comment:["シェルサプ杖","回復量36"],fixedParts:{wp:{name:"アスクレピオス",main:{shl:80,rng:300,spd:300,itv:500},type:"s",size:"M",cost:40,slot:0,comment:["シェルサプ杖","回復量36"]}}}
+
+
+
 {id:145,name:"ユングヴィAM",size:"M",cost:35,hp:20,str:1,tec:2,wlk:-1,fly:2,tgh:1}
 {id:179,name:"ユングヴィAM2",main:{tec:100,pwr:14,shl:840,rng:250,spd:480,itv:240},tunable:{mwp:1},type:"a",size:"M",cost:145,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,comment:"-",joint:{wp:0}}
 
