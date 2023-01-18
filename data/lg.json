@@ -596,7 +596,7 @@
 {id:1201,name:"トルク・マイティバインLG",type:"l",cost:80,hp:65,str:1,wlk:3,fly:-1,tgh:3,comment:["シールド耐久値50","2021/12/1"]}
 {id:11023,name:"ナイトギアHF LG",type:"c",size:"L",cost:50,hp:45,str:1,wlk:2,fly:1,tgh:2}
 
-
+{id:202301182,name:"バクサイガーLG",size:"L",cost:45,hp:25,str:2,wlk:3,tgh:1,comment:"Season8アリーナコイン景品"}
 {id:790,name:"ハクメンスクナLG",sub:{shl:40,rng:0,spd:150,itv:1000},type:"a",cost:105,hp:50,wlk:2,fly:3,tgh:1}
 {id:20221025,name:"ハザードメガトンLG",size:"L",cost:40,hp:20,str:2,tec:1,wlk:2,fly:-1,tgh:1,comment:["イベント宙域","シュタインズキューブ"]}
 {id:30,name:"パシファールLG",type:"a",cost:45,hp:25,tec:1,wlk:1,fly:4,builtin:{bs:1},comment:"水平移動LG"}
