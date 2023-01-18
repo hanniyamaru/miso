@@ -14,6 +14,8 @@
 {id:5,name:"オートマグ",size:"S",cost:45,main:{pwr:14,shl:280,rng:225,spd:500,itv:460}}
 {id:6,name:"ダブルマグ",type:"l",size:"M",cost:140,main:{pwr:14,shl:440,rng:225,spd:480,itv:460}}
 {id:7,name:"カスタムマグ",type:"lc",size:"M",cost:150,main:{pwr:27,shl:400,rng:225,spd:440,itv:460}}
+{id:20230118,name:"コンバットマグ",size:"S",type:"l",cost:180,main:{tec:100,pwr:19,shl:780,rng:225,spd:440,itv:300},comment:"Season8アリーナコイン景品"}
+
 {id:8,name:"シングルガン",type:"lcs",size:"M",cost:35,main:{pwr:14,shl:260,rng:250,spd:570,itv:400}}
 {id:9,name:"アクセルガン",type:"lcs",size:"M",cost:100,main:{pwr:20,shl:400,rng:250,spd:570,itv:400}}
 {id:10,name:"ピースメーカー",type:"l",size:"M",cost:130,main:{pwr:16,shl:600,rng:250,spd:570,itv:280}}
@@ -183,6 +185,8 @@
 {id:202204195,name:"DRIVEソリッドバズーカ",size:"L",cost:120,type:"l",main:{tec:100,pwr:24,shl:360,rng:225,spd:320,itv:500},tunable:{mwp:1},comment:["レッドスクィラDRIVE付属"]}
 
 {id:2911,name:"メガビームガン",type:"a",size:"L",cost:110,main:{pwr:33,shl:150,rng:275,spd:400,itv:1000}}
+{id:202301181,name:"メガライトニングガン",size:"L",type:"a",cost:160,main:{tec:100,pwr:40,shl:100,rng:275,spd:360,itv:1000},comment:"Season8アリーナコイン景品"}
+
 {id:61,name:"プラズマビームキャノン",main:{pwr:34,shl:220,rng:275,spd:400,itv:740},cost:180,size:"M",type:"a"}
 {id:68,name:"チャージビームキャノン",main:{pwr:32,shl:150,rng:275,spd:440,itv:1000},type:"a",size:"L",cost:120}
 {id:29,name:"スターダストキャノン",type:"a",size:"LL",cost:130,main:{pwr:38,shl:240,rng:275,spd:400,itv:900}}
@@ -232,7 +236,7 @@
 {id:16,name:"ボルカノグレネード",type:"c",size:"L",cost:140,main:{pwr:35,shl:180,rng:300,spd:400,itv:900}}
 {id:17,name:"ボルカノハイグレネード",type:"c",size:"LL",cost:150,main:{pwr:42,shl:190,rng:300,spd:400,itv:900}}
 
-
+{id:202301182,name:"スチームキャノン",size:"L",type:"c",cost:140,main:{tec:100,pwr:32,shl:220,rng:275,spd:320,itv:500},comment:"Season8アリーナコイン景品"}
 
 
 
