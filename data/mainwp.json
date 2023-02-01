@@ -463,7 +463,7 @@
 
 {id:202205221,name:"ガシマミサイル",main:{tec:100,pwr:13,shl:720,rng:330,spd:260,itv:300},tunable:{mwp:1},type:"c",size:"S",cost:100,comment:"ガシマガール専用コンバージョンパーツ"}
 
-{group:"カンナコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
+{group:"カンナコンバージョン",prefixID:"MOx",commonStat:{tunable:{}},nextID:17}
 
 {id:159,name:"神器･月天丸",sub:{str:100,pwr:34,rng:70,spd:85,itv:1000},joint:{wp:2},type:"l",size:"S",cost:100,tunable:{pwp:1}}
 {id:160,name:"奥義･雪消月",sub:{str:100,pwr:30,shl:30,rng:120,spd:250,itv:1000},type:"l",size:"S",cost:70,slot:0}
