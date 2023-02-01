@@ -463,6 +463,16 @@
 
 {id:202205221,name:"ガシマミサイル",main:{tec:100,pwr:13,shl:720,rng:330,spd:260,itv:300},tunable:{mwp:1},type:"c",size:"S",cost:100,comment:"ガシマガール専用コンバージョンパーツ"}
 
+{group:"カンナコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
+
+{id:159,name:"神器･月天丸",sub:{str:100,pwr:34,rng:70,spd:85,itv:1000},joint:{wp:2},type:"l",size:"S",cost:100,tunable:{pwp:1}}
+{id:160,name:"奥義･雪消月",sub:{str:100,pwr:30,shl:30,rng:120,spd:250,itv:1000},type:"l",size:"S",cost:70,slot:0}
+{id:161,name:"月代流･守護壁",main:{shl:30,spd:10,itv:1000},type:"l",size:"S",cost:30,slot:0}
+{id:162,name:"月代流･迫撃弾",main:{str:100,pwr:20,shl:50,rng:200,spd:500,itv:1000},tunable:{mwp:1,pwp:0},type:"l",size:"S",cost:30}
+
+
+
+
 {group:"キャロ・バレンタインコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:147,name:"グローリィのキー",sub:{rng:10,spd:10,itv:500},cost:115,slot:0,type:"l",size:"S",comment:"キャロ･バレンタイン専用コンバージョンパーツ"}
 {id:165,name:"ソニッククロー",main:{pwr:23,shl:50,rng:200,spd:570,itv:500,tec:100},tunable:{mwp:1},type:"l",size:"S",cost:30,comment:"キャロ･バレンタイン専用コンバージョンパーツ"}
