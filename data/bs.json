@@ -342,7 +342,7 @@
 
 {id:156,name:"ガゥディアンBS2",main:{tec:100,shl:20,rng:300,spd:500,itv:1000},sub:{tec:100,pwr:0,shl:10,rng:43,spd:63,itv:1000},tunable:{mwp:1,pwp:0},type:"s",cost:115,hp:20,tec:2,wlk:1,fly:2,size:"M"}
 
-{id:11,name:"ガシマBS",type:"c",cost:40,hp:20,str:-1,tec:1,fly:3,tgh:2}
+{id:11,name:"ガシマBS",type:"c",cost:40,hp:25,str:-1,tec:1,fly:3,tgh:2}
 
 {id:115,name:"ガルネリンプBS",cost:35,hp:20,wlk:1,fly:3,tgh:1}
 {id:35,name:"ガンアームズBS",main:{pwr:16,shl:200,rng:350,spd:520,itv:900},type:"c",cost:70,hp:25,str:-1,tec:2,fly:3,tgh:1,comment:["BS@省略・武器チューン不可","爆風50％"]}
@@ -751,9 +751,9 @@
 
 {id:95,name:"コルディプスBS",main:{tec:100,pwr:10,shl:500,rng:330,spd:280,itv:800},cost:85,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,size:"LL",type:"c",tunable:{mwp:1}}
 
-{id:1,name:"シェイデンBS",type:"a",cost:125,hp:25,fly:5,sub:{pwr:1,shl:1,rng:200,spd:110,itv:2000}}
-{id:3,name:"シェイデンBS2",sub:{pwr:1,shl:1,rng:200,spd:110,itv:2000},type:"a",cost:125,hp:25,tec:2,wlk:1,fly:4,tgh:-2}
-{id:6,name:"シェイデンBS3",sub:{pwr:1,shl:1,rng:200,spd:110,itv:2000},type:"a",size:"LL",cost:125,hp:25,str:1,tec:1,fly:4,tgh:-1}
+{id:1,name:"シェイデンBS",type:"a",cost:100,hp:25,fly:5,sub:{pwr:1,shl:1,rng:200,spd:110,itv:2000}}
+{id:3,name:"シェイデンBS2",sub:{pwr:1,shl:1,rng:200,spd:110,itv:2000},type:"a",cost:100,hp:25,tec:2,wlk:1,fly:4,tgh:-2}
+{id:6,name:"シェイデンBS3",sub:{pwr:1,shl:1,rng:200,spd:110,itv:2000},type:"a",size:"LL",cost:100,hp:25,str:1,tec:1,fly:4,tgh:-1}
 
 {id:20221006,name:"ゼタ・アーセナルBS",type:"c",cost:35,hp:20,tec:1,fly:3,tgh:1}
 {id:202210061,name:"ゼタ・アーセナルBS2",type:"c",cost:35,hp:20,tec:1,fly:2,tgh:2}
