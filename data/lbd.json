@@ -4,6 +4,11 @@
 
 {group:"Ｓ陸　近日更新分",prefixID:"LS",commonStat:{size:"S",type:"l"},nextID:35}
 
+
+
+{id:155,name:"カンナBD",joint:{wp:3},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|16@20|15@15|21@20|13@30|34@15|32@50|31@40"},fixedParts:{hd:{name:"カンナHD",type:"l",size:"S",cost:40,hp:25,str:3,wlk:1,tgh:1},lg:{builtin:{lg:1},fixedParts:{lg:{name:"カンナLG@",size:"S",type:"l",slot:0,joint:{bs:2},fixedParts:{bs:[{builtin:{bs:1},name:"カンナBS",type:"l",size:"S",slot:0,},{name:"カンナBS2",builtin:{bs:1},slot:0}]}}},name:"カンナLG",type:"l",size:"S",cost:45,hp:25,str:1,wlk:3,fly:1,tgh:1,joint:{lg:1}},am:[{name:"カンナAM",type:"l",size:"S",cost:40,hp:25,str:2,wlk:1,tgh:2,joint:{wp:2},comment:"2つめのWPは固有武器「神器・月天丸」専用"},{name:"カンナAM2",cost:40,hp:25,str:2,wlk:1,tgh:2,type:"l",size:"S",comment:""}]},type:"l",size:"S",cost:480,capa:900,hp:245,str:12,tec:4,wlk:14,fly:11,tgh:12,wbid:7,comment:""}
+
+
 {id:20230118,name:"アーマーメットBD",cartridge:{hpup:18,lv1:"85*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|16@20|28@30|21@20|15@15|13@30|32@50|31@40"},size:"M",cost:405,capa:800,hp:245,str:11,tec:5,wlk:10,fly:7,tgh:12,wbid:17,auraSystem:1,comment:["AURA機構","Season8アリーナコイン景品"]}
 
 {id:2023011122,name:"シエルBD（コンバージョンなし）",cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|16@20|15@15|21@20|13@30|34@15|32@50|31@40"},fixedParts:{hd:{name:"シエルHD",type:"l",size:"M",cost:40,hp:25,str:1,tec:2,tgh:2},lg:{name:"シエルLG",sub:{str:100,pwr:30,shl:0,rng:200,spd:300,itv:1000},tunable:{pwp:0},type:"l",size:"M",cost:95,hp:25,wlk:4,tgh:2},am:[{name:"シエルAM",type:"l",size:"M",cost:40,hp:25,str:2,wlk:2,tgh:1},{name:"シエルAM",type:"l",size:"M",cost:40,hp:25,str:2,wlk:2,tgh:1}]},type:"l",size:"M",cost:445,capa:920,hp:255,str:14,tec:3,wlk:14,fly:7,tgh:10,comment:"シエル・ドラグバケット",builtin:{bs:1},wbid:999}
