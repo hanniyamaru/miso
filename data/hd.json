@@ -28,6 +28,10 @@
 {id:20220706,name:"サイバリオンHD",cost:30,hp:15,tec:2,wlk:1,fly:1,comment:"Season7アリーナコイン景品"}
 
 {id:50,name:"シシナHD",type:"lacs",size:"S",cost:35,hp:20,str:-1,tec:1,wlk:2,fly:1,tgh:2}
+
+{id:20230202,name:"シシナHD3",type:"lacs",size:"S",cost:35,hp:20,str:-1,tec:1,wlk:2,fly:1,tgh:2,comment:"シシナ・Va"}
+
+
 {id:15,name:"シャインバスターHD",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2}
 
 {id:11,name:"シャインバトラーHD",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2}
