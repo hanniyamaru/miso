@@ -116,7 +116,7 @@
 
 {id:202302022,name:"トウキマルAM",type:"l",size:"S",cost:35,hp:20,str:3,tec:-1,wlk:1,tgh:2,comment:"",fixedParts:{wp:{name:"鬼断",main:{str:100,pwr:20,shl:50,rng:200,spd:570,itv:500},sub:{str:100,pwr:32,shl:0,rng:77,spd:94,itv:1000},type:"l",size:"S",cost:130,tunable:{mwp:1,pwp:1}}}}
 {id:202302023,name:"トウキマルAM（コンバージョン無し）",type:"l",size:"S",cost:35,hp:20,str:3,tec:-1,wlk:1,tgh:2,comment:""}
-{id:202302024,name:"トウキマルAM2",type:"l",size:"S",cost:35,hp:20,str:2,wlk:1,fly:-1,tgh:3,comment:"",fixedParts:{wp:{name:"鬼面ノ楯",main:{str:100,pwr:10,shl:100,rng:150,spd:350,itv:500},sub:{str:100,pwr:30,shl:0,rng:120,spd:280,itv:1000},type:"l",size:"S",cost:100,joint:{wp:1},tunable:{mwp:1,pwp:0}}}}
+{id:202302024,name:"トウキマルAM2",type:"l",size:"S",cost:35,hp:20,str:2,wlk:1,fly:-1,tgh:3,comment:"",fixedParts:{wp:{name:"鬼面ノ楯",main:{str:100,pwr:10,shl:100,rng:150,spd:350,itv:500},sub:{str:100,pwr:30,shl:0,rng:120,spd:280,itv:1000},type:"l",size:"S",cost:100,slot:0,joint:{wp:1},tunable:{mwp:1,pwp:0}}}}
 {id:202302025,name:"トウキマルAM2（コンバージョン無し）",type:"l",size:"S",cost:35,hp:20,str:2,wlk:1,fly:-1,tgh:3,comment:""}
 
 {id:72,name:"トノサマランダーAM",cost:35,hp:20,str:2,wlk:1,fly:1,tgh:1}
