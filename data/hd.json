@@ -274,6 +274,7 @@
 {id:48,name:"クレストセイントHD",cost:40,hp:25,str:1,tec:2,wlk:1,fly:1}
 {id:19,name:"クロスラプターHD",cost:40,hp:25,str:-1,tec:2,fly:2,tgh:2}
 {id:20,name:"クロスラプターHD2",cost:40,hp:25,str:2,tec:-1,fly:2,tgh:2}
+{id:202302032,name:"クロスラプターHD3",cost:35,hp:20,str:-1,tec:1,wlk:2,fly:2,tgh:1,comment:"WX"}
 
 {id:163,name:"クロタクスHD",cost:40,hp:25,str:2,wlk:2,tgh:1}
 {id:173,name:"クロタクスHD2",cost:40,hp:25,wlk:2,fly:2,tgh:1}
