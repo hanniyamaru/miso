@@ -448,6 +448,7 @@
 
 {id:3,name:"テツジンガーBS",type:"l",cost:35,hp:20,str:2,wlk:1,fly:2}
 {id:202204171,name:"テンポールBS",type:"c",size:"M",cost:35,hp:20,str:-1,tec:1,fly:3,tgh:2,comment:["ロボガラポン"]}
+{id:202302021,name:"トウキマルBS",type:"l",size:"M",cost:35,hp:20,str:1,tec:-1,wlk:2,fly:3,comment:""}
 
 {id:221,name:"ドライブリッツBS",type:"c",cost:105,hp:20,str:-1,tec:2,wlk:2,fly:2,sub:{tec:100,pwr:10,shl:300,rng:350,spd:320,itv:1000}}
 
