@@ -414,7 +414,7 @@
 
 {id:20220316,name:"ダークレヴナントAM",cost:45,hp:20,str:2,tec:-1,wlk:2,tgh:2,slot:0,joint:{wp:3},comment:"部位破壊不能",type:"l"}
 {id:69,name:"ダグドライバーAM",type:"c",cost:135,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,main:{tec:100,pwr:12,shl:450,rng:330,spd:240,itv:880},sub:{tec:100,pwr:25,rng:100,spd:180,itv:2000},tunable:{mwp:1,pwp:1},joint:{wp:0}}
-{id:202302026,name:"ダグドライバーAM2",type:"c",cost:135,hp:20,str:-1,tec:3,wlk:2,tgh:1,main:{tec:100,pwr:18,shl:600,rng:350,spd:570,itv:200},sub:{tec:100,pwr:25,rng:100,spd:180,itv:2000},tunable:{mwp:1,pwp:1},joint:{wp:0},comment:"ダグドライバー・G"}
+{id:202302026,name:"ダグドライバーAM2",type:"c",cost:135,hp:20,str:-1,tec:3,wlk:2,tgh:1,main:{tec:100,pwr:18,shl:600,rng:350,spd:570,itv:200},sub:{tec:100,pwr:25,rng:100,spd:180,itv:2000},tunable:{mwp:1,pwp:1},joint:{wp:0},comment:"ダグドライバーG"}
 
 
 {id:61,name:"ダテマックスAM",cost:35,hp:20,str:3,tec:-1,tgh:3}
