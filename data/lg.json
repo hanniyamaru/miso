@@ -214,7 +214,12 @@
 {id:20230118,name:"アーマーメットLG",size:"M",cost:45,hp:25,str:1,tec:1,wlk:3,fly:-1,tgh:2,comment:"Season8アリーナコイン景品"}
 
 {id:1000,name:"アクシオンLG",cost:45,hp:25,str:1,tec:1,wlk:3,fly:2,tgh:-1}
-{id:38,name:"アクセルセイバーLG2",type:"l",size:"M",cost:205,hp:25,str:2,tec:-1,wlk:4,tgh:1,sub:{str:100,pwr:26,rng:94,spd:77,itv:2000},tunable:{pwp:1}}
+{id:20230203,name:"アクセルセイバーLG",type:"l",size:"M",cost:75,hp:25,str:-1,tec:2,wlk:4,tgh:1,sub:{str:100,pwr:0,shl:30,rng:0,spd:180,itv:1000},tunable:{pwp:0}}
+
+
+{id:38,name:"アクセルセイバーLG2",type:"l",size:"M",cost:205,hp:25,str:2,tec:-1,wlk:4,tgh:1,sub:{str:100,pwr:26,rng:94,spd:77,itv:2000},tunable:{pwp:1},comment:"GP"}
+
+
 {id:73,name:"アサルトオックスM2LG",size:"M",cost:45,hp:25,str:-1,tec:2,wlk:2,fly:1,tgh:2}
 
 {id:36,name:"アマテウスLG",cost:45,hp:25,tec:2,wlk:2,tgh:2}
