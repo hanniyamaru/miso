@@ -726,6 +726,7 @@
 
 
 {id:14,name:"メガトンオーBS",type:"c",cost:35,hp:20,tec:1,fly:3,tgh:1}
+{id:20230204,name:"メガトンオーBS2",type:"c",cost:30,hp:15,tec:1,wlk:1,fly:2}
 
 {id:50,name:"メディックボールBS",type:"s",cost:40,hp:25,tec:1,fly:3,tgh:1}
 
