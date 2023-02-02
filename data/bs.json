@@ -41,6 +41,9 @@
 {id:4,name:"ウィンベルαBS",type:"s",cost:40,hp:25,wlk:1,fly:3,tgh:1}
 {id:1,name:"エルメ・SBS",type:"s",size:"SS",cost:35,hp:20,tec:2,wlk:1,fly:3,tgh:-1,comment:"Season8アリーナコイン景品"}
 {id:202301181,name:"ターンエア1080BS",size:"SS",type:"a",cost:30,hp:15,str:1,tec:1,wlk:1,fly:2,tgh:-1,comment:"Season8アリーナコイン景品"}
+{id:202302023,name:"ターンエッジ1440BS",size:"SS",type:"a",cost:35,hp:20,str:2,wlk:1,fly:2,comment:""}
+
+
 {id:202209098,name:"トライスターBS",size:"SS",type:"a",cost:75,hp:20,str:-1,tec:1,wlk:1,fly:3,tgh:1,sub:{pwr:25,shl:60,rng:0,spd:150,itv:1000}}
 
 
