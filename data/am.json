@@ -99,6 +99,9 @@
 {id:100,name:"ソルボルカノウィングAM",cost:35,hp:20,tec:1,wlk:1,fly:2,tgh:1}
 
 {id:2023011812,name:"ターンエア1080AM",size:"S",cost:30,hp:15,str:2,tec:1,fly:1,comment:"Season8アリーナコイン景品"}
+{id:202302026,name:"ターンエッジ1440AM",size:"S",cost:35,hp:20,tec:2,fly:2,tgh:1,comment:""}
+
+
 {id:24,name:"タラントリックAM",cost:35,hp:20,str:1,tec:1,wlk:2,tgh:1}
 
 {id:2677,name:"ダルマスターAM",cost:35,hp:20,str:1,tec:2,wlk:1,tgh:1}
