@@ -9,7 +9,6 @@
 {id:5,name:"イズナカムイαHD3",cost:40,hp:25,str:1,tec:1,fly:1,tgh:2}
 
 {id:6,name:"バイスカノンHD",main:{tec:100,pwr:20,shl:450,rng:330,spd:480,itv:500},tunable:{mwp:1},auraStat:{main:{tec:100,pwr:31,shl:330,itv:700}},cost:140,hp:25,tec:3,tgh:2,comment:"リンクショット対応"}
-{id:7,name:"バイスカノンHD@",main:{tec:100,pwr:6,shl:840,rng:330,spd:350,itv:800},cost:60,tunable:{mwp:1},auraStat:{main:{tec:100,pwr:8}},comment:"リンクショット対応"}
 
 
 {group:"LG",prefixID:"L",nextID:3}
@@ -70,6 +69,7 @@
 
 {id:61,name:"プチリーゼ・カノーネ",main:{pwr:1,shl:1,rng:300,spd:300,itv:1000},sub:{pwr:1,shl:0,rng:10,spd:50,itv:1000},type:"s",size:"S",cost:0,tunable:{mwp:1}}
 
+{id:20231,name:"バイスカノンHD@",main:{tec:100,pwr:6,shl:840,rng:330,spd:350,itv:800},cost:60,tunable:{mwp:1},auraStat:{main:{tec:100,pwr:8}},comment:"リンクショット対応"}
 
 
 
