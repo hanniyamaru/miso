@@ -544,7 +544,7 @@
 {id:2022113,name:"ファイヤーブレス",type:"c",size:"S",cost:50,main:{tec:100,pwr:35,shl:100,rng:350,spd:400,itv:1000},slot:0}
 
 {group:"プロメコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
-{id:202302021,name:"ダンシングスロー",main:{tec:100,pwr:7,shl:270,rng:200,spd:570,itv:500},slot:0,type:"s",size:"S",cost:30,comment:["プロメ専用コンバージョンパーツ",""]}
+{id:202302021,name:"ダンシングスロー",main:{tec:100,pwr:5,shl:270,rng:200,spd:570,itv:500},slot:0,type:"s",size:"S",cost:30,comment:["プロメ専用コンバージョンパーツ",""]}
 {id:202302022,name:"ダンシングシールド",tunable:{mwp:0},slot:0,type:"s",size:"S",cost:30,comment:"プロメ専用コンバージョンパーツ",main:{pwr:0,shl:50,rng:0,spd:10,itv:1000}}
 
 
