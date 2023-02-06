@@ -556,7 +556,7 @@
 {id:176,name:"レイミナスBS2",main:{pwr:30,shl:150,rng:300,spd:400,itv:1000},tunable:{mwp:1},type:"c",size:"M",cost:135,hp:20,str:-1,tec:3,fly:2,tgh:1}
 
 
-{id:202205242,name:"ロイヤルビーゾルBS",type:"a",size:"M",cost:65,hp:20,tec:1,wlk:1,fly:4,tgh:-1,sub:{shl:60,rng:0,spd:0,itv:1000},comment:"-"}
+{id:202205242,name:"ロイヤルビーゾルBS",type:"a",size:"M",cost:65,hp:20,tec:1,wlk:1,fly:4,tgh:-1,sub:{shl:60,rng:0,spd:0,itv:1000},comment:["◆CT6秒 ◆ブースト回復：50％","◆離陸：垂直 ◆飛行：直進+入力方向",""]}
 
 {id:141,name:"ロビンハンターBS",sub:{pwr:10,shl:20,rng:100,spd:340,itv:1000},cost:50,hp:20,str:-1,tec:2,wlk:1,fly:3,size:"M",type:"l"}
 {id:20220619,name:"ワイルドフィザリバンBS",main:{pwr:12,shl:580,rng:250,spd:280,itv:880},sub:{str:100,pwr:25,shl:30,rng:50,spd:300,itv:1000},tunable:{mwp:1,pwp:0},type:"l",size:"M",cost:155,hp:20,str:-1,tec:3,wlk:1,fly:2,comment:["メイン 実弾爆風90％","サブ 1段目:CT3秒","サブ 2段目:CT5秒"]}
