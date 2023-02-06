@@ -639,7 +639,7 @@
 
 {id:96,name:"ヘカトケレスLG",sub:{shl:30,rng:100,spd:150,itv:1000},tunable:{pwp:0},type:"c",size:"L",cost:70,hp:55,tec:1,wlk:2,fly:2,tgh:1}
 {id:100,name:"ヘカトケレスLG2",sub:{shl:30,rng:100,spd:260,itv:1000},tunable:{pwp:0},type:"c",size:"L",cost:70,hp:65,wlk:3,fly:1,tgh:2,builtin:{lg:-1}}
-{id:48,name:"ベクターLG",sub:{shl:60,rng:100,spd:160,itv:1000},type:"a",cost:85,hp:45,tec:2,wlk:3,fly:2,tgh:-1}
+{id:48,name:"ベクターLG",sub:{shl:60,rng:100,spd:160,itv:1000},type:"a",cost:85,hp:45,tec:2,wlk:3,fly:2,tgh:-1,comment:["◆CT6秒 ◆ブースト回復：50％","◆離陸：垂直 ◆飛行：直進+入力方向",""]}
 {id:49,name:"ベクターLG2",sub:{shl:60,rng:100,spd:160,itv:1000},auraStat:{sub:{shl:60,rng:100,spd:160,itv:1000},str:-1,tec:1,wlk:3,fly:2,tgh:1},type:"a",cost:85,hp:45,str:-1,tec:1,wlk:3,fly:2,tgh:1}
 {id:20221006,name:"ヘビーフェルカスLG",cost:45,hp:25,str:1,wlk:2,fly:1,tgh:2,size:"L",comment:["Season7アリーナコイン景品"]}
 {id:40,name:"ヘリアンザスLG",type:"s",cost:45,hp:25,str:1,wlk:3,tgh:2}
