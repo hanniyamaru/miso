@@ -509,7 +509,7 @@
 
 {id:16,name:"エスカゴットLG",cost:40,hp:70,wlk:3,fly:2,builtin:{bs:1},comment:"BS内蔵"}
 
-{id:78,name:"カタロスLG",sub:{shl:30,itv:1000},type:"a",cost:75,hp:70,wlk:2,fly:2,tgh:2}
+{id:78,name:"カタロスLG",sub:{shl:30,itv:1000},type:"a",cost:75,hp:70,wlk:2,fly:2,tgh:2,comment:["◆CT6秒 ◆ブースト回復：50％","◆離陸：垂直 ◆飛行：直進+入力方向 ","◆ブースト未入力・ブーストゲージ消失中：降下",""]}
 
 {id:20220909,name:"カットバルドLG",sub:{str:100,pwr:30,shl:0,rng:120,spd:250,itv:1000},type:"l",cost:95,hp:35,str:2,wlk:4,fly:-1,tgh:1}
 {id:20221103,name:"ガトマーレLG",type:"l",size:"L",cost:115,hp:25,str:3,tec:-1,wlk:3,tgh:1,sub:{str:100,pwr:26,shl:0,rng:150,spd:300,itv:1000},tunable:{pwp:0},comment:""}
@@ -610,7 +610,7 @@
 {id:11023,name:"ナイトギアHF LG",type:"c",size:"L",cost:50,hp:45,str:1,wlk:2,fly:1,tgh:2}
 
 {id:202301182,name:"バクサイガーLG",size:"L",cost:45,hp:25,str:2,wlk:3,tgh:1,comment:"Season8アリーナコイン景品"}
-{id:790,name:"ハクメンスクナLG",sub:{shl:40,rng:0,spd:150,itv:1000},type:"a",cost:105,hp:50,wlk:2,fly:3,tgh:1}
+{id:790,name:"ハクメンスクナLG",sub:{shl:40,rng:0,spd:150,itv:1000},type:"a",cost:105,hp:50,wlk:2,fly:3,tgh:1,comment:["◆CT6秒 ◆ブースト回復：50％","◆離陸：垂直 ◆飛行：直進+入力方向 ","因果のコイン景品"]}
 {id:20221025,name:"ハザードメガトンLG",size:"L",cost:40,hp:20,str:2,tec:1,wlk:2,fly:-1,tgh:1,comment:["イベント宙域","シュタインズキューブ"]}
 {id:30,name:"パシファールLG",type:"a",cost:45,hp:25,tec:1,wlk:1,fly:4,builtin:{bs:1},comment:"水平移動LG"}
 {id:202205241,name:"パシファールLG2",sub:{pwr:9,shl:240,rng:275,spd:350,itv:1000,tec:100},tunable:{pwp:0},cost:90,hp:25,str:-1,tec:1,wlk:2,fly:2,tgh:2,type:"a",size:"L",builtin:{bs:1},comment:"水平移動LG？"}
