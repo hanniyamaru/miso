@@ -316,7 +316,7 @@
 {id:56,name:"アハトジーベンBS",type:"c",cost:40,hp:25,str:2,tec:1,wlk:1,fly:2,tgh:-1}
 
 {id:34,name:"アマテウスBS",type:"c",cost:40,hp:25,str:1,tec:2,wlk:-1,fly:3}
-{id:20220414,name:"アルヴィーテBS",type:"a",cost:55,hp:20,tec:1,wlk:1,fly:3,sub:{shl:40,rng:150,spd:150,itv:1000},comment:["アリーナコイン景品","BSゲージ回復"]}
+{id:20220414,name:"アルヴィーテBS",type:"a",cost:55,hp:20,tec:1,wlk:1,fly:3,sub:{shl:40,rng:150,spd:150,itv:1000},comment:["◆CT6秒 ◆ブースト回復：50％","◆離陸：斜め+入力方向 ◆飛行：入力方向※1","※1　ブーストゲージ消失中は消失直前の進行方向を受け継ぎ、ゲージ消失中は移動キー入力を受け付けない"]}
 
 {id:142,name:"イスチナ・バレットBS",type:"a",size:"M",cost:35,hp:20,str:-1,tec:1,fly:2,tgh:3}
 {id:270,name:"イヅナカムイαBS",type:"a",cost:90,hp:25,str:-1,tec:2,fly:3,tgh:1,sub:{pwr:6,shl:400,rng:275,spd:290,itv:1000}}
@@ -463,7 +463,7 @@
 
 {id:20220604,name:"ナイトフィアーBS",size:"M",type:"l",cost:40,hp:25,str:1,wlk:1,fly:2,tgh:1}
 
-{id:11202,name:"ノヴァディカロスBS",sub:{shl:20,spd:150,itv:1000},type:"a",size:"M",cost:55,hp:20,wlk:-1,fly:4,tgh:2}
+{id:11202,name:"ノヴァディカロスBS",sub:{shl:20,spd:150,itv:1000},type:"a",size:"M",cost:55,hp:20,wlk:-1,fly:4,tgh:2,comment:["◆CT12秒 ◆ブースト回復：100％","◆離陸：斜め前方のみ ◆飛行：入力方向※1","※1　ブーストゲージ消失中は消失直前の進行方向を受け継ぎ、ゲージ消失中は移動キー入力を受け付けない"]}}
 {id:2022114,name:"パーポBS",type:"s",cost:135,hp:20,wlk:1,fly:3,tgh:1,sub:{str:100,pwr:0,shl:20,rng:0,spd:0,itv:13000},comment:["回復量81","回復可能数3人"]}
 {id:202204142,name:"バイオロンBS",type:"s",size:"M",cost:35,hp:20,str:-1,tec:2,fly:3,tgh:1,comment:["アリーナコイン景品"]}
 
