@@ -419,7 +419,7 @@
 {id:48,name:"スゼクBS",cost:150,hp:25,str:2,wlk:-1,fly:4,type:"a",main:{str:100,pwr:8,shl:160,rng:275,spd:350,itv:900},sub:{pwr:31,rng:90,spd:200,itv:1000,str:100},tunable:{mwp:1,pwp:1},comment:"AURA機構省略"}
 {id:69,name:"スゼクBS2",main:{pwr:8,shl:900,rng:275,spd:320,itv:600},sub:{pwr:0,shl:60,rng:0,spd:180,itv:1000,str:100},auraStat:{main:{pwr:9,shl:900,rng:275,spd:320,itv:400},sub:{pwr:0,shl:60,rng:0,spd:180,itv:1000,str:100}},type:"a",cost:170,hp:25,str:-1,tec:3,fly:3,tunable:{mwp:1,pwp:0},comment:"AURA機構"}
 
-{id:20211014,name:"スペキュラムスラスターBS",main:{pwr:7,shl:500,rng:275,spd:220,itv:800},sub:{tec:100,pwr:25,shl:0,rng:100,spd:200,itv:1000},tunable:{mwp:0,pwp:0},type:"a",size:"M",cost:115,hp:20,tec:2,wlk:-1,fly:4,comment:["BS@cost80複合・武器チューン不可","サブ:貫通・コンボ不可","ナイトギアディスク"]}
+{id:20211014,name:"スペキュラムスラスターBS",main:{pwr:7,shl:500,rng:275,spd:220,itv:800},sub:{tec:100,pwr:25,shl:0,rng:100,spd:200,itv:1000},tunable:{mwp:0,pwp:0},type:"a",size:"M",cost:115,hp:20,tec:2,wlk:-1,fly:4,comment:["BS@cost80複合・武器チューン不可","サブ：貫通・コンボ不可","ナイトギアディスク"]}
 {id:20211126,name:"スペキュラムスラスターBS（コンバージョン無し）",size:"M",cost:35,hp:20,tec:2,wlk:-1,fly:4,comment:"ナイトギアディスク"}
 
 
