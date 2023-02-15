@@ -101,7 +101,7 @@
 {id:5,name:"ブレイズアクス",type:"l",size:"L",cost:120,sub:{str:100,pwr:33,rng:70,spd:85,itv:500},tunable:{pwp:1}}
 {id:11,name:"ブリガンドアクス",sub:{str:100,pwr:30,rng:49,spd:60,itv:2000},type:"l",size:"LL",cost:180,tunable:{pwp:1}}
 {id:300,name:"ビームエッジアクス",sub:{tec:100,pwr:34,tec:100,rng:100,spd:180,itv:1000},tunable:{pwp:1},type:"a",size:"L",cost:100}
-{id:2022114,name:"オールドスライサー",sub:{str:100,pwr:25,rng:70,spd:85,itv:2000},tunable:{pwp:1},type:"l",size:"L",cost:160}
+{id:2022114,name:"オールドスライサー",sub:{str:100,pwr:27,rng:70,spd:85,itv:2000},tunable:{pwp:1},type:"l",size:"L",cost:160}
 
 {group:"メイス系",prefixID:"MC",commonStat:{tunable:{pwp:1}},nextID:7}
 
