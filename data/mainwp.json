@@ -15,6 +15,7 @@
 {id:6,name:"ダブルマグ",type:"l",size:"M",cost:140,main:{pwr:14,shl:440,rng:225,spd:480,itv:460}}
 {id:7,name:"カスタムマグ",type:"lc",size:"M",cost:150,main:{pwr:27,shl:400,rng:225,spd:440,itv:460}}
 {id:20230118,name:"コンバットマグ",size:"S",type:"l",cost:180,main:{tec:100,pwr:19,shl:780,rng:225,spd:440,itv:300},comment:"Season8アリーナコイン景品"}
+{id:20230216,name:"ブロッキーダブルマグ",main:{tec:100,pwr:13,shl:960,rng:225,spd:440,itv:460},tunable:{mwp:1},type:"l",size:"M",cost:140,comment:["パーツクリエイト",""]}
 
 {id:8,name:"シングルガン",type:"lcs",size:"M",cost:35,main:{pwr:14,shl:260,rng:250,spd:570,itv:400}}
 {id:9,name:"アクセルガン",type:"lcs",size:"M",cost:100,main:{pwr:20,shl:400,rng:250,spd:570,itv:400}}
@@ -222,7 +223,7 @@
 {id:91,name:"ショコラパラソル",main:{pwr:13,tec:100,rng:250,spd:320,shl:250,itv:700},cost:80,type:"lacs",size:"M",tgh:-1,comment:"実弾属性爆風70％"}
 {id:202204143,name:"フレアスター",size:"M",cost:60,type:"c",main:{tec:100,pwr:12,shl:440,rng:330,spd:290,itv:400},tunable:{mwp:1},comment:["アリーナコイン景品"]}
 {id:202302108,name:"チョコットボムC",size:"M",cost:90,type:"c",main:{tec:100,pwr:15,shl:360,rng:330,spd:280,itv:500},tunable:{mwp:1},comment:["バレンタインオーダー報酬"]}
-
+{id:202302163,name:"グランダムランチャー",main:{tec:100,pwr:11,shl:600,rng:330,spd:290,itv:300},tunable:{mwp:1},type:"c",size:"M",cost:100,comment:["パーツクリエイト",""]}
 
 
 {id:78,name:"ラピッドパルスミサイル",main:{pwr:11,shl:350,rng:275,spd:350,itv:320},tunable:{mwp:1},type:"a",size:"M",cost:110,comment:"爆風比率50％"}
@@ -241,6 +242,7 @@
 {id:17,name:"ボルカノハイグレネード",type:"c",size:"LL",cost:150,main:{pwr:42,shl:190,rng:300,spd:400,itv:900}}
 
 {id:202301182,name:"スチームキャノン",size:"L",type:"c",cost:140,main:{tec:100,pwr:32,shl:220,rng:275,spd:320,itv:500},comment:"Season8アリーナコイン景品"}
+{id:202302162,name:"ラクダロスグレネード",main:{tec:100,pwr:32,shl:180,rng:300,spd:400,itv:900},tunable:{mwp:1},type:"c",size:"M",cost:100,comment:["パーツクリエイト",""]}
 
 
 
@@ -329,7 +331,7 @@
 {id:202204142,name:"バイオロンボウ",size:"M",cost:120,type:"s",main:{tec:100,pwr:16,shl:330,rng:250,spd:250,itv:500},sub:{tec:100,pwr:20,shl:0,rng:0,spd:150,itv:1000},tunable:{mwp:1,pwp:0},comment:["アリーナコイン景品","バイオロン初期装備","射程：発射距離に影響せず、停止（消失）再誘導範囲に影響する"]}
 
 {id:20220807,name:"トルネードファン",type:"a",size:"L",cost:120,main:{pwr:20,shl:320,rng:275,spd:260,itv:600},comment:"コーテング初期装備"}
-
+{id:202302161,name:"ガドラガン",main:{tec:100,pwr:22,shl:360,rng:250,spd:440,itv:500},tunable:{mwp:1},type:"s",size:"M",cost:120,comment:["パーツクリエイト",""]}
 
 
 {group:"mainコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
