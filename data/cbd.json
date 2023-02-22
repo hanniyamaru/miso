@@ -273,7 +273,7 @@
 
 {id:51,name:"バイスカノンBD",cost:490,hp:305,capa:945,str:4,tec:16,wlk:11,fly:8,tgh:12,cartridge:{hpup:10,lv1:"75*6@20|7@20|10@20|8@15|18@20|20@15|23@25|25@25|29@15|30@20|15@30|21@20|13@30|31@40|32@40"},auraSystem:1,joint:{hd:2,wp:1,hdac:1},fixedParts:{hdac:["S1"],hd:["H6","H7"],am:[{name:"バイスカノンAM",cost:40,hp:25,tec:1,wlk:1,fly:1,tgh:2,joint:{wp:0}},{name:"バイスカノンAM",cost:40,hp:25,tec:1,wlk:1,fly:1,tgh:2,joint:{wp:0}}],bs:{name:"バイスカノンBS",cost:35,hp:20,tec:1,wlk:2,fly:2,sub:{str:100,pwr:20,shl:10,rng:0,spd:280,itv:1000}},lg:{name:"バイスカノンLG",cost:70,hp:100,tec:1,wlk:3,tgh:2,sub:{str:100,pwr:0,shl:30,rng:0,spd:200,itv:1000},auraStat:{sub:{str:100,pwr:20,shl:30,rng:0,spd:200,itv:1000}}},wp:{name:"バイスカノンBD@",cost:50,sub:{tec:100,pwr:25,shl:150,rng:350,spd:220,itv:1000}}},comment:"α"}
 
-{id:202301182,name:"バクサイガーBD",main:{tec:100,pwr:[11,13,15],shl:[630],rng:[350,365,380],spd:[290,305,320],itv:300},cartridge:{hpup:18,lv1:"85*5@20|61*2@30|7@20|10@20|8@15|18@20|19@20|20@15|26@10|11@20|21@20|29@15|13@30|31@40|32@40"},type:"c",size:"L",cost:535,capa:800,hp:275,str:5,tec:15,wlk:7,fly:7,tgh:11,wbid:5,comment:["Season8アリーナコイン景品",""]}
+{id:202301182,name:"バクサイガーBD",main:{tec:100,pwr:[11,13,15],shl:[630],rng:[350,365,380],spd:[290,305,320],itv:300},cartridge:{hpup:18,lv1:"85*5@20|61*2@30|7@20|10@20|8@15|18@20|19@20|20@15|26@10|11@20|21@20|29@15|13@30|31@40|32@40"},type:"c",size:"L",cost:535,capa:800,hp:275,str:5,tec:15,wlk:7,fly:7,tgh:11,wbid:5,comment:["爆風50％","Season8アリーナコイン景品"]}
 
 {id:20221025,name:"ハザードメガトンBD",size:"L",cost:320,capa:655,hp:245,str:10,tec:11,wlk:6,fly:5,tgh:8,wbid:4,cartridge:{hpup:25,lv1:"95*6@20|7@20|10@20|8@15|17@20|18@20|20@15|23@25|25@25|14@20|29@15|26@10|13@30|32@40|31@40"},comment:["イベント宙域","シュタインズキューブ"]}
 
