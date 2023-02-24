@@ -59,7 +59,7 @@
 {id:20221014,name:"オレガーサーベル",size:"M",cost:70,sub:{str:100,pwr:30,rng:70,spd:85,itv:500},comment:["アルカンタスドロップ","エリア121～"]}
 {id:20221210,name:"クレナイエッジ",sub:{str:100,pwr:34,shl:0,rng:77,spd:94,itv:1000},size:"M",type:"l",cost:160,comment:"ダテマックス初期装備"}
 
-{id:202302165,name:"マニモブレード",sub:{str:100,pwr:28,shl:0,rng:150,spd:350,itv:1000},tunable:{pwp:0},type:"la",size:"M",cost:60,comment:["パーツクリエイト",""]}
+{id:202302165,name:"マニモブレード",sub:{str:100,pwr:28,shl:0,rng:150,spd:350,itv:1000},tunable:{pwp:0},type:"la",size:"M",cost:60,comment:["CT4秒","パーツクリエイト"]}
 {id:16,name:"ビームブレード",type:"a",size:"M",cost:70,sub:{str:100,pwr:28,rng:70,spd:85,itv:500}}
 {id:17,name:"ソニックブレード",type:"a",size:"M",cost:100,sub:{str:100,pwr:30,rng:70,spd:85,itv:500}}
 {id:18,name:"ディバインブレード",type:"a",size:"M",cost:160,sub:{str:100,pwr:33,shl:100,rng:70,spd:85,itv:500}}
