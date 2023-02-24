@@ -3,12 +3,12 @@
 
 
 {group:"特殊・汎用・交換系BS",prefixID:"EXT",commonStat:{size:"M"},nextID:1}
-{id:139,name:"アクアジェットBS",sub:{shl:0,rng:150,spd:350,itv:1000},cost:60,hp:25,str:1,wlk:2,fly:2,comment:"CT5秒"}
+{id:139,name:"アクアジェットBS",sub:{shl:0,rng:150,spd:350,itv:1000},cost:60,hp:25,str:1,wlk:2,fly:2,comment:"CT4秒"}
 {id:93,name:"ジェットアクセルBS",sub:{pwr:0,shl:0,rng:100,spd:200,itv:1000},tunable:{pwp:0,mwp:0},cost:60,hp:25,wlk:1,fly:3,tgh:1,comment:"-"}
 {id:133,name:"ジェットウィングBS",sub:{str:100,shl:20,rng:100,spd:200,itv:2000},type:"lacs",size:"M",cost:60,hp:25,tec:1,wlk:1,fly:3,comment:"CT8秒"}
 {id:94,name:"スウィフトジェットBSα",sub:{shl:30,rng:100,spd:150,itv:1000},tunable:{pwp:0},cost:60,hp:25,tec:1,wlk:1,fly:3,comment:"CT3秒"}
 {id:95,name:"スウィフトジェットBSβ",sub:{shl:30,rng:100,spd:150,itv:1000},tunable:{pwp:0},cost:60,hp:25,str:1,wlk:1,fly:3,comment:"CT3秒"}
-{id:101,name:"ブレイブドライブBS",sub:{shl:0,rng:150,spd:350,itv:1000},cost:60,hp:25,str:1,wlk:2,fly:2,comment:["コンボタイプB（BS→手持ち→AM）","CT5秒"]}
+{id:101,name:"ブレイブドライブBS",sub:{shl:0,rng:150,spd:350,itv:1000},cost:60,hp:25,str:1,wlk:2,fly:2,comment:["コンボタイプB（BS→手持ち→AM）","CT4秒"]}
 {id:79,name:"リグニションBS",type:"a",cost:70,hp:25,fly:4,tgh:1,sub:{pwr:1,shl:100,rng:10,spd:150,itv:1000},comment:"BSゲージ回復効果"}
 
 
