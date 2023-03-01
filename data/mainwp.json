@@ -533,7 +533,7 @@
 {id:20222023,name:"ブリッツBマシンガン",main:{tec:100,pwr:14,shl:720,rng:275,spd:440,itv:240},joint:{wp:1},fixedParts:{wp:{name:"コネクトブラスト",main:{pwr:20,shl:430,rng:350,spd:400,itv:500},slot:0}},type:"a",size:"S",cost:120,comment:"-"}
 
 {group:"ノーラ・シュナイトコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
-{id:1117,name:"シュテーレン・ゲヴェーア",main:{tec:100,pwr:17,shl:540,rng:250,spd:400,itv:340},type:"l",size:"S",cost:70,comment:["-","-"]}
+{id:1117,name:"シュテーレン・ゲヴェーア",main:{tec:100,pwr:17,shl:540,rng:250,spd:400,itv:340},type:"l",size:"S",cost:70,comment:["飛距離1.5倍？","押出し効果"]}
 {id:142,name:"ノーラ・シュナイトBD@",tunable:{mwp:1},slot:0,type:"l",size:"S",cost:30,comment:"ノーラ・シュナイト専用コンバージョンパーツ",main:{pwr:5,shl:90,rng:200,spd:300,itv:500}}
 
 
