@@ -168,7 +168,7 @@
 {id:39,name:"ニコルマリスBS",type:"s",cost:35,hp:20,str:-1,tec:1,wlk:1,fly:3,tgh:1,comment:["ロボガラポン"]}
 
 
-{id:175,name:"ネーベルBS",type:"",cost:35,hp:20,str:-1,tec:1,fly:4,tgh:1}
+{id:175,name:"ネーベルBS",type:"a",cost:35,hp:20,str:-1,tec:1,fly:4,tgh:1}
 
 {id:152,name:"ノーラ・シュナイトBS",type:"l",size:"S",cost:35,hp:20,tec:1,fly:2,tgh:2}
 
