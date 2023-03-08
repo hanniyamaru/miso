@@ -386,9 +386,9 @@
 {id:59,name:"ビャッコウLG2",sub:{str:100,pwr:32,shl:0,rng:150,spd:350,itv:1000},cost:80,hp:25,str:2,tec:-1,wlk:4,fly:1,tunable:{pwp:1},comment:"AURA機構省略"}
 {id:3,name:"フィザリバンLG",cost:45,hp:25,str:1,tec:1,wlk:3}
 
-{id:69,name:"フラップジャックLG",sub:{pwr:0,shl:100,rng:100,spd:180,itv:1000},tunable:{mwp:1},auraStat:{main:{tec:100,pwr:10,shl:530,rng:275,spd:280,itv:760},sub:{pwr:0,shl:100,rng:100,spd:180,itv:1000}},type:"a",cost:115,hp:25,tec:1,wlk:3,fly:1,tgh:1,main:{pwr:8,shl:530,rng:275,spd:280,itv:760}}
+{id:69,name:"フラップジャックLG",sub:{pwr:0,shl:100,rng:100,spd:180,itv:1000},tunable:{mwp:1},auraStat:{main:{tec:100,pwr:11,shl:530,rng:275,spd:280,itv:760},sub:{pwr:0,shl:100,rng:100,spd:180,itv:1000}},type:"a",cost:115,hp:25,tec:1,wlk:3,fly:1,tgh:1,main:{pwr:8,shl:530,rng:275,spd:280,itv:760}}
 
-{id:81,name:"フラップジャックLG2",main:{tec:100,pwr:9,shl:450,rng:275,spd:280,itv:900},sub:{str:100,pwr:0,shl:100,rng:100,spd:180,itv:1000},tunable:{mwp:1},cost:100,hp:25,tec:2,wlk:3,fly:2,tgh:-1,type:"a"}
+{id:81,name:"フラップジャックLG2",main:{tec:100,pwr:10,shl:450,rng:275,spd:280,itv:900},sub:{str:100,pwr:0,shl:100,rng:100,spd:180,itv:1000},tunable:{mwp:1},cost:100,hp:25,tec:2,wlk:3,fly:2,tgh:-1,type:"a"}
 
 
 {id:333,name:"ブラディスターLG",type:"cl",cost:70,hp:25,tec:2,wlk:2,fly:1,tgh:1,sub:{str:100,pwr:0,shl:25,rng:100,spd:200,itv:600},tunable:{pwp:1}}
@@ -410,7 +410,7 @@
 {id:79,name:"ホプリテスLG",cost:45,hp:25,str:1,tec:1,wlk:2,fly:1}
 
 
-{id:4,name:"マッハナイトLG",cost:45,hp:25,wlk:3,fly:1,tgh:1}
+{id:4,name:"マッハナイトLG",cost:45,hp:25,tec:1,wlk:3,fly:1,tgh:1}
 {id:57,name:"マッハナイト・エースLG",sub:{pwr:32,shl:70,rng:300,spd:240,itv:1000,tec:100},type:"a",cost:95,hp:25,str:-1,tec:3,wlk:1,fly:2,tgh:1}
 {id:24,name:"マリルマーチαLG",cost:45,hp:25,tec:2,wlk:2,tgh:1}
 {id:98,name:"マンティサイスLG",joint:{bs:1},type:"lacs",size:"M",cost:45,hp:25,str:1,wlk:3,fly:2,tgh:-1}
