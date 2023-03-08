@@ -212,6 +212,9 @@
 {id:159,name:"レイミナスAM",type:"lacs",size:"S",cost:40,hp:25,str:-1,tec:2,wlk:2,fly:2}
 
 {id:304,name:"レシプロンAM",type:"a",size:"S",cost:35,hp:20,str:1,tec:2,wlk:1,fly:2,tgh:-1}
+
+{id:202303082,name:"レニーロップAM（スペードガジェット）",main:{tec:100,pwr:20,shl:270,rng:250,spd:220,itv:800},tunable:{mwp:1},type:"l",size:"S",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1,comment:["STR・TECの高い方に依存（上昇幅はTECと同一）","レニーロップ専用コンバージョンパーツ","コンバージョン省略"]}
+{id:2023030821,name:"レニーロップAM（フォーカードガジェット）",main:{tec:100,pwr:9,shl:1080,rng:250,spd:400,itv:800},tunable:{mwp:1},type:"l",size:"S",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1,comment:["STR・TECの高い方に依存（上昇幅はTECと同一）","レニーロップ専用コンバージョンパーツ","コンバージョン省略"]}
 {id:20221105,name:"レプセプターAM",type:"l",size:"S",cost:130,hp:15,str:-1,tec:2,wlk:2,fly:1,main:{tec:100,pwr:16,shl:600,rng:225,spd:340,itv:300},tunable:{mwp:1}}
 
 
