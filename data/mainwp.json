@@ -536,6 +536,10 @@
 {id:1117,name:"シュテーレン・ゲヴェーア",main:{tec:100,pwr:17,shl:540,rng:250,spd:400,itv:340},type:"l",size:"S",cost:70,comment:["飛距離1.5倍？","押出し効果"]}
 {id:142,name:"ノーラ・シュナイトBD@",tunable:{mwp:1},slot:0,type:"l",size:"S",cost:30,comment:"ノーラ・シュナイト専用コンバージョンパーツ",main:{pwr:5,shl:90,rng:200,spd:300,itv:500}}
 
+{group:"パティロップコンバージョン",prefixID:"MOx",commonStat:{tunable:{}},nextID:17}
+{id:20230308,name:"ガジェットシールド",main:{tec:100,pwr:0,shl:15,rng:0,spd:10,itv:1000},tunable:{mwp:1},type:"l",size:"S",cost:20,slot:0,comment:["パティロップAM2専用コンバージョンパーツ",""]}
+{id:202303081,name:"ガジェットミサイル",sub:{tec:100,pwr:16,shl:60,rng:250,spd:320,itv:1000},tunable:{pwp:1},type:"l",size:"S",cost:50,slot:0,comment:["パティロップAM2専用コンバージョンパーツ",""]}
+
 
 {group:"ハンナ・フリッツ コンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:108,name:"シュピッツ・アイゼン",main:{pwr:20,shl:50,rng:200,spd:570,itv:500,str:100},sub:{str:100,pwr:36,rng:70,spd:85,itv:1000},type:"l",size:"S",cost:130,comment:"ハンナ・フリッツ専用コンバージョンパーツ",tunable:{mwp:1,pwp:1}}
