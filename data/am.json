@@ -6,7 +6,7 @@
 {id:104,name:"アーテ・メイドRAM2",main:{tec:100,pwr:10,shl:840,rng:275,spd:400,itv:700},sub:{tec:100,pwr:13,shl:210,rng:275,spd:400,itv:1000},tunable:{mwp:1,pwp:0},type:"s",size:"S",cost:120,hp:20,str:-1,tec:3,wlk:2,fly:1,joint:{wp:0},comment:["実弾属性","アーテ・メイドフリル"]}
 {id:202212102,name:"アーテ・メイドLAM2",main:{tec:100,pwr:7,shl:840,rng:275,spd:400,itv:700},sub:{tec:100,pwr:9,shl:210,rng:275,spd:400,itv:1000},tunable:{mwp:1,pwp:0},type:"s",size:"S",cost:120,hp:20,str:-1,tec:3,wlk:2,fly:1,joint:{wp:0},comment:["ビーム属性","アーテ・メイドフリル"]}
 
-{id:60,name:"アームドビルダームAM2",type:"c",cost:115,hp:20,str:-1,tec:3,wlk:1,fly:2,sub:{tec:100,pwr:14,shl:270,rng:330,spd:380,itv:1000}}
+{id:60,name:"アームドビルダームAM2",type:"c",cost:115,hp:20,str:-1,tec:3,wlk:1,fly:2,sub:{tec:100,pwr:14,shl:270,rng:330,spd:380,itv:1000},comment:"爆風100％"}
 {id:302,name:"アイシーAM",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1}
 {id:20220601,name:"アスフィAM",cost:35,hp:20,tec:2,wlk:1,fly:2,type:"c",size:"S"}
 
@@ -504,8 +504,8 @@
 
 {id:172,name:"ブラディスターAM",type:"c",size:"M",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1,joint:{wp:2}}
 {id:194,name:"ブラディスターAM2",type:"c",size:"M",cost:35,hp:20,str:1,tec:2,wlk:1,fly:1,joint:{wp:2}}
-{id:100,name:"フラップジャックAM",fixedParts:{wp:{main:{pwr:20,tec:100,shl:340,rng:275,spd:440,itv:1120},name:"フラップジャックAM@",type:"a",slot:0,cost:40,comment:"AM@部位破壊不能",auraStat:{main:{tec:100,pwr:20,shl:340,rng:300,spd:500,itv:500}}}},auraStat:{str:-1,tec:2,fly:3,tgh:1},type:"a",cost:35,hp:20,str:-1,tec:2,fly:3,tgh:1}
-{id:114,name:"フラップジャックAM2",main:{pwr:11,shl:390,rng:275,spd:350,itv:480},auraStat:{main:{pwr:11,shl:390,rng:300,spd:380,itv:480},sub:{tec:100,pwr:28,rng:77,spd:94,itv:1500},str:-1,tec:3,fly:1,tgh:2},type:"a",size:"M",cost:85,hp:20,str:-1,tec:3,fly:1,tgh:2,joint:{wp:0},comment:["AM2@cost+50合算","武器チューン不可"]}
+{id:100,name:"フラップジャックAM",fixedParts:{wp:{main:{pwr:20,tec:100,shl:340,rng:275,spd:440,itv:1120},name:"フラップジャックAM@",type:"a",slot:0,cost:40,comment:"AM@部位破壊不能",auraStat:{main:{tec:100,pwr:22,shl:360,rng:300,spd:500,itv:500}}}},auraStat:{str:-1,tec:2,fly:3,tgh:1},type:"a",cost:35,hp:20,str:-1,tec:2,fly:3,tgh:1}
+{id:114,name:"フラップジャックAM2",main:{pwr:11,shl:390,rng:275,spd:350,itv:480},auraStat:{main:{pwr:13,shl:420,rng:300,spd:380,itv:480},sub:{tec:100,pwr:32,rng:77,spd:94,itv:1000},str:-1,tec:3,fly:1,tgh:2},type:"a",size:"M",cost:85,hp:20,str:-1,tec:3,fly:1,tgh:2,joint:{wp:0},comment:["AM2@cost+50合算","武器チューン不可"]}
 
 
 {id:62,name:"ブリッツェルトAM",cost:35,hp:20,tec:2,fly:1,tgh:2}
