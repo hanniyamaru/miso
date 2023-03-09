@@ -397,6 +397,7 @@
 {id:144,name:"シンビジウムAM2",main:{pwr:10,shl:240,rng:275,spd:290,itv:900},type:"a",size:"M",cost:65,hp:20,tec:3,fly:1,tgh:1,tunable:{mwp:1}}
 
 {id:105,name:"ズィークAM",cost:35,hp:20,str:-1,tec:2,fly:1,tgh:3}
+{id:202303091,name:"ズィークAM2",size:"M",cost:35,hp:20,tec:3,wlk:1,fly:-1,tgh:2,comment:["",""]}
 
 {id:141,name:"スカラベスAM",type:"lacs",size:"M",cost:35,hp:20,tec:2,wlk:2,fly:-1,tgh:2}
 {id:2022113,name:"スキロンAM",type:"c",cost:75,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,main:{pwr:12,shl:360,rng:330,spd:290,itv:500},tunable:{mwp:1},joint:{wp:1}}
