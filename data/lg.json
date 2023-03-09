@@ -55,6 +55,7 @@
 {id:18,name:"シャインバスターLG",cost:45,hp:25,str:1,tec:1,wlk:3,tgh:1}
 
 {id:14,name:"シャインバトラーLG",cost:45,hp:25,wlk:3,fly:1,tgh:2}
+{id:3,name:"シャドウハンターLG",size:"S",cost:40,hp:20,str:2,wlk:3,fly:1}
 
 {id:68,name:"シャドウマスターLG",cost:45,hp:25,tec:2,wlk:3,fly:1}
 
