@@ -6,6 +6,7 @@
 {id:104,name:"アーテ・メイドRAM2",main:{tec:100,pwr:10,shl:840,rng:275,spd:400,itv:700},sub:{tec:100,pwr:13,shl:210,rng:275,spd:400,itv:1000},tunable:{mwp:1,pwp:0},type:"s",size:"S",cost:120,hp:20,str:-1,tec:3,wlk:2,fly:1,joint:{wp:0},comment:["実弾属性","アーテ・メイドフリル"]}
 {id:202212102,name:"アーテ・メイドLAM2",main:{tec:100,pwr:7,shl:840,rng:275,spd:400,itv:700},sub:{tec:100,pwr:9,shl:210,rng:275,spd:400,itv:1000},tunable:{mwp:1,pwp:0},type:"s",size:"S",cost:120,hp:20,str:-1,tec:3,wlk:2,fly:1,joint:{wp:0},comment:["ビーム属性","アーテ・メイドフリル"]}
 
+{id:59,name:"アームドビルダームAM",type:"c",size:"S",cost:95,hp:20,str:-1,tec:3,wlk:1,tgh:2,main:{tec:100,pwr:10,shl:560,rng:330,spd:400,itv:620},tunable:{mwp:1},comment:["",""]}
 {id:60,name:"アームドビルダームAM2",type:"c",cost:115,hp:20,str:-1,tec:3,wlk:1,fly:2,sub:{tec:100,pwr:14,shl:270,rng:330,spd:380,itv:1000},comment:"爆風100％"}
 {id:302,name:"アイシーAM",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1}
 {id:20220601,name:"アスフィAM",cost:35,hp:20,tec:2,wlk:1,fly:2,type:"c",size:"S"}
