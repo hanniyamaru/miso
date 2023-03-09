@@ -333,6 +333,7 @@
 
 {id:20220807,name:"トルネードファン",type:"a",size:"L",cost:120,main:{pwr:20,shl:320,rng:275,spd:260,itv:600},comment:"コーテング初期装備"}
 {id:202302161,name:"ガドラガン",main:{tec:100,pwr:22,shl:360,rng:250,spd:440,itv:500},tunable:{mwp:1},type:"s",size:"M",cost:120,comment:["パーツクリエイト",""]}
+{id:202303092,name:"ビットガン",main:{tec:100,pwr:7,shl:840,rng:275,spd:280,itv:900},tunable:{mwp:1},type:"a",size:"S",cost:120,comment:["マッハナイト・ゼロ初期装備"]}
 
 
 {group:"mainコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
