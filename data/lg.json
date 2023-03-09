@@ -125,6 +125,7 @@
 {id:101,name:"ブルーメLG",sub:{str:100,pwr:28,shl:30,rng:80,spd:70,itv:1000},type:"s",size:"S",cost:95,hp:25,str:2,tec:-1,wlk:3,tgh:1,tunable:{pwp:1},builtin:{bs:1}}
 
 {id:1,name:"フログランダーLG",cost:40,hp:20,tec:1,wlk:3,fly:1}
+{id:86,name:"ペレーナLG",size:"S",cost:45,hp:25,str:-1,wlk:3,fly:2,tgh:2}
 
 {id:6,name:"ポーンジャーLG",cost:40,hp:20,wlk:3,tgh:2}
 {id:57,name:"ポーンジャーLG2",cost:40,hp:20,str:1,wlk:2,tgh:2,comment:"ブリッツポーンジャー"}
