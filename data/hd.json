@@ -361,6 +361,8 @@
 {id:215,name:"シンビジウムHD",cost:40,hp:25,str:3,tec:2}
 
 {id:183,name:"ズィークHD",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
+{id:202303091,name:"ズィークHD2",size:"M",cost:35,hp:20,tec:3,wlk:1,tgh:1,comment:["",""]}
+
 {id:262,name:"スカラベスHD",sub:{str:100,pwr:20,shl:0,itv:1000},type:"c",size:"M",cost:60,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
 {id:326,name:"スカラベスHD2",size:"M",cost:35,hp:20,str:-1,tec:1,wlk:1,fly:2,tgh:2}
 
