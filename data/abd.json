@@ -245,11 +245,11 @@
 
 {id:50,name:"ミラージュレイドBD",cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|18@30|19@15|23@25|52@20|28@30|15@20|21@20|22@30|13@30|32@50|31@40"},wbid:17,type:"a",size:"M",cost:445,capa:870,hp:255,str:13,tec:5,wlk:8,fly:12,tgh:10,auraSystem:1,comment:"AURA機構"}
 
-{id:27,name:"フラップジャックBD",sub:{shl:0,spd:150,itv:500},builtin:{bs:1},joint:{bs:0},cartridge:{lv1:"4*6@20|7@30|9@15|8@20|19@15|20@30|23@25|22@30|52@20|15@20|30@20|21@20|13@30|32@50|31@40",hpup:14},str:4,tec:14,wlk:9,fly:17,tgh:9,capa:870,cost:485,hp:280,auraSystem:1,auraStat:{str:4,tec:14,wlk:9,fly:17,tgh:9,comment:"TRANSFORM装備時cost+50"},joint:{wp:1,bs:0,hdac:1},builtin:{bs:1},fixedParts:{hdac:["S1"]}}
+{id:27,name:"フラップジャックBD",sub:{shl:0,spd:150,itv:500},builtin:{bs:1},joint:{bs:0},cartridge:{lv1:"4*6@20|7@30|9@15|8@20|19@15|20@30|23@25|22@30|52@20|15@20|30@20|21@20|13@30|32@50|31@40",hpup:14},str:4,tec:14,wlk:9,fly:17,tgh:9,capa:870,cost:485,hp:280,auraSystem:1,auraStat:{str:4,tec:14,wlk:9,fly:17,tgh:9,comment:"TRANSFORM装備時cost+50"},joint:{wp:1,bs:0,hdac:1},builtin:{bs:1},fixedParts:{hdac:["S1"]},wbid:1}
 
-{id:32,name:"フラップジャックBD2",builtin:{bs:1},joint:{bs:0},cartridge:{lv1:"4*6@20|7@30|9@15|8@20|19@15|20@30|23@25|22@30|52@20|15@20|30@20|21@20|13@30|32@50|31@40",hpup:14},str:4,tec:16,wlk:8,fly:15,tgh:10,capa:870,cost:485,hp:280,auraSystem:1,auraStat:{str:4,tec:16,wlk:8,fly:15,tgh:10,comment:"TRANSFORM装備時cost+50"},joint:{wp:1,bs:0,hdac:1},builtin:{bs:1},fixedParts:{hdac:["S1"]}}
+{id:32,name:"フラップジャックBD2",builtin:{bs:1},joint:{bs:0},cartridge:{lv1:"4*6@20|7@30|9@15|8@20|19@15|20@30|23@25|22@30|52@20|15@20|30@20|21@20|13@30|32@50|31@40",hpup:14},str:4,tec:16,wlk:8,fly:15,tgh:10,capa:870,cost:485,hp:280,auraSystem:1,auraStat:{str:4,tec:16,wlk:8,fly:15,tgh:10,comment:"TRANSFORM装備時cost+50"},joint:{wp:1,bs:0,hdac:1},builtin:{bs:1},fixedParts:{hdac:["S1"]},wbid:1}
 
-{id:43,name:"フラップジャックBD3",builtin:{bs:1},joint:{bs:0},cartridge:{lv1:"4*6@20|7@30|9@15|8@20|19@15|20@30|23@25|22@30|52@20|15@20|30@20|21@20|13@30|32@50|31@40",hpup:14},str:4,tec:14,wlk:9,fly:17,tgh:9,capa:870,cost:485,hp:280,auraSystem:1,auraStat:{comment:"TRANSFORM装備時cost+50"},joint:{wp:1,bs:0,hdac:1},builtin:{bs:1},fixedParts:{hdac:["S1"]},comment:"BB"}
+{id:43,name:"フラップジャックBD3",builtin:{bs:1},joint:{bs:0},cartridge:{lv1:"4*6@20|7@30|9@15|8@20|19@15|20@30|23@25|22@30|52@20|15@20|30@20|21@20|13@30|32@50|31@40",hpup:14},str:4,tec:14,wlk:9,fly:17,tgh:9,capa:870,cost:485,hp:280,auraSystem:1,auraStat:{comment:"TRANSFORM装備時cost+50"},joint:{wp:1,bs:0,hdac:1},builtin:{bs:1},fixedParts:{hdac:["S1"]},comment:"BB",wbid:1}
 
 {id:14,name:"ブリッツェルトBD",cost:405,capa:800,hp:245,str:8,tec:8,wlk:7,fly:15,tgh:7,wbid:17,cartridge:{hpup:18,lv1:"85*6@20|7@30|9@15|8@20|19@15|23@25|22@30|28@30|52@20|15@20|21@20|26@20|13@30|32@50|31@40"},comment:"AURAシステムを搭載。BD2同様",auraSystem:1}
 
