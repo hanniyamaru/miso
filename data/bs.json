@@ -59,6 +59,8 @@
 {group:"Ｓサイズ",prefixID:"S",commonStat:{size:"S"},nextID:42}
 
 {id:69,name:"アーテ・メイドBS",type:"s",cost:35,hp:20,tec:1,wlk:1,fly:3}
+
+{id:36,name:"アームドビルダームBS",type:"c",size:"S",cost:155,hp:20,str:-1,tec:2,wlk:1,fly:3,main:{tec:100,pwr:11,shl:600,rng:330,spd:320,itv:640},tunable:{mwp:1},comment:["",""]}
 {id:37,name:"アームドビルダームBS2",type:"c",cost:65,hp:20,tec:2,wlk:-1,fly:2,tgh:2,main:{pwr:10,shl:450,rng:330,spd:190,itv:820},tunable:{mwp:1}}
 
 {id:510,name:"アイシーBS",type:"c",cost:40,hp:25,tec:1,wlk:1,fly:3}
