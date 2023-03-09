@@ -256,7 +256,9 @@
 {id:20220417,name:"ヘリンガルMK-2BD",cost:545,capa:870,hp:255,str:5,tec:9,wlk:8,fly:18,tgh:8,main:{pwr:[3,4,5],shl:[2280],rng:[200],spd:[480],itv:[140],tec:100},size:"M",wbid:1,cartridge:{hpup:14,lv1:"4*5@20|61*2@30|7@30|9@15|8@20|19@15|22@30|23@25|52@20|25@25|21@20|26@20|13@30|32@50|31@40"},comment:"内蔵強化値一部不明"}
 
 
-{id:1,name:"マッハナイトBD",cost:515,capa:800,hp:270,str:4,tec:14,wlk:6,fly:19,tgh:7,sub:{pwr:[20],shl:[200],rng:275,spd:350,itv:1000},wbid:1,cartridge:{hpup:18,lv1:"85*5@20|61*2@30|7@30|9@15|8@20|19@15|23@25|22@30|52@20|21@20|14@20|26@20|13@30|32@50|31@40"},joint:{bs:0},builtin:{bs:1}}
+{id:1,name:"マッハナイトBD",cost:515,capa:800,hp:270,str:4,tec:14,wlk:6,fly:19,tgh:7,sub:{pwr:[20],shl:[200],rng:275,spd:350,itv:1000},wbid:1,cartridge:{hpup:18,lv1:"85*5@20|61*2@30|7@30|9@15|8@20|19@15|23@25|22@30|52@20|21@20|14@20|26@20|13@30|32@50|31@40",fixedParts:{hdac:["S1"]}},joint:{bs:0,hdac:1},builtin:{bs:1}}
+{id:2,name:"マッハナイトBD2",cost:580,capa:800,hp:270,str:4,tec:14,wlk:6,fly:16,tgh:10,main:{tec:100,pwr:[9],shl:[720],rng:275,spd:350,itv:600},sub:{tec:100,pwr:[0],shl:[50],rng:0,spd:200,itv:1000},wbid:1,cartridge:{hpup:18,lv1:"85*5@20|61*2@30|7@30|9@15|8@20|19@15|23@25|22@30|52@20|21@20|25@25|26@20|13@30|32@50|31@40",fixedParts:{hdac:["S1"]}},joint:{hdac:1,bs:0},builtin:{bs:1},comment:["内蔵強化値不明","マッハナイト・ゼロ"]}
+
 {id:22,name:"マッハナイト・エースBD",cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|18@30|19@15|23@25|22@30|52@20|25@25|21@20|26@20|13@30|32@50|31@40"},fixedParts:{hdac:["S1"]},builtin:{bs:1},joint:{hdac:1,bs:0},cost:510,capa:870,hp:280,str:4,tec:14,wlk:6,fly:21,tgh:8,wbid:1}
 
 {id:4,name:"メカジェッターBD",cost:365,capa:730,hp:230,str:7,tec:7,wlk:7,fly:14,tgh:7,cartridge:{hpup:22,lv1:"5*6@20|7@30|9@15|8@20|19@15|21@20|23@25|22@30|52@20|28@30|26@20|15@20|13@30|32@50|31@40"}}
