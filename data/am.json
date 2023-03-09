@@ -511,13 +511,9 @@
 {id:172,name:"ブラディスターAM",type:"c",size:"M",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1,joint:{wp:2}}
 {id:194,name:"ブラディスターAM2",type:"c",size:"M",cost:35,hp:20,str:1,tec:2,wlk:1,fly:1,joint:{wp:2}}
 
-
-{id:100,name:"フラップジャックAM",main:{pwr:20,tec:100,shl:340,rng:275,spd:440,itv:1120},auraStat:{main:{tec:100,pwr:20,shl:340,rng:300,spd:500,itv:500}},type:"a",cost:75,hp:20,str:-1,tec:2,fly:3,tgh:1,comment:["AM@cost+40複合","武器チューン不可"]}
-
+{id:100,name:"フラップジャックAM",main:{pwr:20,tec:100,shl:340,rng:275,spd:440,itv:1120},auraStat:{main:{tec:100,pwr:20,shl:340,rng:300,spd:500,itv:500}},type:"a",cost:75,hp:20,str:-1,tec:2,fly:3,tgh:1,joint:{wp:0},comment:["AM@cost+40複合","武器チューン不可"]}
 {id:114,name:"フラップジャックAM2",main:{pwr:11,shl:390,rng:275,spd:350,itv:480},auraStat:{main:{pwr:13,shl:420,rng:300,spd:380,itv:480},sub:{tec:100,pwr:32,rng:77,spd:94,itv:1000},str:-1,tec:3,fly:1,tgh:2},type:"a",size:"M",cost:85,hp:20,str:-1,tec:3,fly:1,tgh:2,joint:{wp:0},comment:["AM2@cost+50合算","武器チューン不可"]}
-
 {id:202303092,name:"フラップジャックAM3",main:{tec:100,pwr:19,shl:240,rng:275,spd:400,itv:800},auraStat:{main:{tec:100,pwr:14,shl:240,rng:275,spd:400,itv:800},sub:{tec:100,pwr:34,rng:94,spd:77,itv:1000}},type:"a",size:"M",cost:125,hp:20,str:-1,tec:3,fly:3,joint:{wp:0},tunable:{pwp:1,mwp:1},comment:["AM3@省略",""]}
-
 
 {id:62,name:"ブリッツェルトAM",cost:35,hp:20,tec:2,fly:1,tgh:2}
 {id:63,name:"ブリッツェルトAM2",cost:35,hp:20,str:2,fly:2,tgh:1}
