@@ -906,6 +906,7 @@
 
 {id:9,name:"シェイデンAM2",main:{tec:100,pwr:20,shl:330,rng:275,spd:520,itv:240},tunable:{mwp:1},type:"a",cost:205,hp:25,str:-1,tec:3,fly:1,tgh:2,joint:{wp:0}}
 {id:24,name:"シェイデンAM4",main:{pwr:32,shl:260,rng:275,spd:440,itv:660},type:"a",size:"LL",cost:200,hp:25,str:-1,tec:3,fly:2,tgh:1,tunable:{mwp:1},joint:{wp:0}}
+{id:202303092,name:"ジョストガンダーAM",type:"l",size:"LL",cost:170,hp:25,str:3,tec:-1,tgh:3,main:{str:100,pwr:8,shl:720,rng:100,spd:480,itv:100},sub:{str:100,pwr:32,shl:0,rng:63,spd:77,itv:1000},tunable:{mwp:1,pwp:1},joint:{wp:0},comment:["",""]}
 
 {id:3,name:"ソア・ラAM2",type:"a",cost:190,hp:25,str:-1,tec:3,fly:1,tgh:2,main:{pwr:35,shl:240,rng:275,spd:440,itv:600},tunable:{mwp:1},joint:{wp:0}}
 
