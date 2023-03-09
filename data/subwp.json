@@ -121,7 +121,7 @@
 {group:"ダガー系",prefixID:"DG",nextID:6}
 {id:1,name:"3ウェイダガー",type:"las",size:"S",cost:50,str:-1,tec:-1,sub:{str:100,pwr:25,rng:70,spd:180,itv:1400},comment:"未実装"}
 {id:2,name:"コンビネーションダガー",type:"la",size:"S",cost:120,sub:{str:100,pwr:24,rng:80,spd:180,itv:1000}}
-
+{id:202303092,name:"シノビダガー",sub:{tec:100,pwr:15,shl:270,rng:250,spd:480,itv:1000},tunable:{pwp:0},type:"l",size:"S",cost:60,comment:["サブロック系パーツのみコンボ可能","シャドウハンター初期装備"]}
 
 
 
