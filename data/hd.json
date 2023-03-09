@@ -601,6 +601,7 @@
 
 
 {id:8,name:"マッハナイトHD",cost:40,hp:25,str:1,tec:1,wlk:2,tgh:1}
+{id:9,name:"マッハナイトHD2",cost:40,hp:25,tec:2,fly:2,tgh:1,comment:"マッハナイト・ゼロ"}
 {id:142,name:"マッハナイト・エースHD",cost:35,hp:20,tec:2,wlk:2,fly:2,tgh:-1}
 
 
