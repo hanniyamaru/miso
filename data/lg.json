@@ -569,6 +569,7 @@
 
 {id:26,name:"シュトルバンガーLG",cost:45,hp:45,tec:1,wlk:2,fly:1,tgh:2}
 {id:94,name:"シュトルバンガーLG2",cost:135,hp:50,str:-1,tec:2,wlk:3,tgh:2,sub:{tec:100,pwr:15,shl:30,rng:350,spd:290,itv:1000},type:"c",size:"L"}
+{id:202303092,name:"ジョストガンダーLG",size:"L",cost:50,hp:30,str:2,wlk:3,fly:-1,tgh:2,comment:["",""]}
 
 {id:42,name:"スケアガントLG",cost:45,hp:25,wlk:2,fly:1,tgh:3}
 {id:85,name:"スチールバーンLG",joint:{lg:1},fixedParts:{lg:{name:"スチールバーンLG@",joint:{bs:1},slot:0}},type:"a",cost:45,hp:40,str:-1,tec:1,wlk:2,fly:1,tgh:3}
