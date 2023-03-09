@@ -82,6 +82,8 @@
 {id:9,name:"ダルマスターLG",cost:40,hp:20,str:1,wlk:3,tgh:1}
 
 {id:30,name:"ディカロスLG",type:"a",cost:45,hp:25,str:1,tec:1,wlk:2,fly:1}
+{id:20230309,name:"ティナLG",size:"S",cost:65,hp:25,str:-1,tec:1,wlk:4,fly:2,sub:{str:100,pwr:0,shl:30,rng:100,spd:200,itv:1000},tunable:{pwp:0},comment:["",""]}
+
 {id:32,name:"テスラドンナαLG",type:"a",size:"S",cost:75,hp:25,str:-1,tec:-1,tec:2,wlk:2,fly:2,tgh:1,sub:{tec:100,pwr:20,shl:60,rng:100,spd:120,itv:1000},comment:["◆CT6秒 ◆ブースト回復：50％","◆離陸：垂直 ◆飛行：直進+入力方向 ◆追加入力：降下","ロボガラポン"]}
 
 
