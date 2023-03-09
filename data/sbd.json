@@ -1,6 +1,5 @@
 {group:"Ｓ補ヒューマノイド",prefixID:"SS",commonStat:{size:"S",type:"s"},nextID:21}
 
-{id:20230309,name:"ティナBD",size:"S",cost:475,capa:850,hp:225,str:5,tec:14,wlk:9,fly:10,tgh:10,wbid:999,cartridge:{hpup:14,lv1:"4*6@25|17@20|18@20|20@20|19@20|22@30|23@25|25@25|16@20|15@30|21@20|26@20|13@20|32@30|31@40"},joint:{wp:2},fixedParts:[{wp:{name:"リ・ペイントブラシ",cost:170,main:{tec:100,pwr:31,shl:300,rng:300,spd:440,itv:700},sub:{tec:100,pwr:34,rng:70,spd:85,itv:1000},tunable:{mwp:1,pwp:1}},name:"ティナBD@",cost:170,main:{tec:100,pwr:15,shl:300,rng:300,spd:350,itv:500},slot:0}]}
 
 
 {id:20230111,name:"アナBD",cost:445,hp:225,capa:900,str:8,tec:8,wlk:14,fly:10,tgh:8,cartridge:{hpup:14,lv1:"4*5@25|61*2@35|17@20|18@20|19@20|20@20|29@10|23@25|22@30|26@20|21@20|16@20|13@20|32@30|31@40"},fixedParts:{hd:{name:"アナHD",cost:40,hp:25,str:1,tec:1,fly:1,tgh:2},am:[{name:"アナAM2",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1},{name:"アナAM",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1}],lg:{name:"アナLG",cost:45,hp:25,str:1,tec:1,wlk:3,tgh:1},wp:{name:"アナのスカート"}},builtin:{bs:1},wbid:999,joint:{wp:1},comment:["アナ・コメット","アナウンサーネクタイ省略","内蔵強化値不明"]}
