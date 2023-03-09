@@ -400,6 +400,7 @@
 
 
 {id:59,name:"ジェネラルドBD",cost:445,capa:870,hp:290,str:12,tec:5,wlk:13,fly:7,tgh:11,size:"L",type:"l",cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|16@20|29@15|15@15|25@25|13@30|32@50|31@40"}}
+{id:202303092,name:"ジョストガンダーBD",cost:490,capa:945,hp:305,str:14,tec:4,wlk:1,fly:8,tgh:14,size:"L",type:"l",cartridge:{hpup:10,lv1:"75*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|16@20|15@15|21@20|29@15|13@30|32@50|31@40"}}
 
 {id:19,name:"スケアガントBD",cartridge:{lv1:"75*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|16@20|15@15|30@20|26@20|13@30|32@50|31@40",hpup:10},cost:490,hp:305,str:11,tec:3,wlk:12,fly:7,tgh:18,fixedParts:{am:{sub:{shl:0,rng:0,itv:1000},joint:{wp:2},fixedParts:{wp:[{name:"スケアナイフ＆ボム",sub:{str:100,pwr:32,rng:70,spd:85,itv:500},tunable:{pwp:1},type:"l",size:"M",cost:90},{name:"スケアドラムガン",main:{str:100,pwr:7,shl:1100,rng:225,spd:440,itv:300},cost:80,tunable:{mwp:1}}]},name:"スケアガントAM",cost:60,hp:25,str:3,tec:2,slot:0}},capa:945}
 
