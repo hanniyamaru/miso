@@ -81,7 +81,7 @@
 {id:17,name:"ホネボンHD",cost:35,hp:20,tec:2,wlk:1,tgh:2,comment:"2022/2/16更新"}
 
 
-{id:304,name:"ブルーメHD",sub:{str:100,shl:20,rng:43,spd:63,itv:1000},type:"s",size:"S",cost:70,hp:25,wlk:2,fly:1,tgh:2,comment:"シェルサプライ陣"}
+{id:304,name:"ブルーメHD",sub:{str:100,shl:20,rng:43,spd:63,itv:1000},type:"s",size:"S",cost:70,hp:25,wlk:2,fly:1,tgh:2,comment:["シェルサプライ陣","9%"]}
 {id:223,name:"ペレーナHD",size:"S",type:"s",sub:{shl:10,rng:43,spd:63,itv:1000},cost:80,hp:25,tec:2,wlk:1,fly:1,tgh:1,comment:"ブロードレーダー+スピードアップ陣"}
 
 
@@ -474,7 +474,7 @@
 
 {id:2701103,name:"ハードボンバーHD",type:"lacs",size:"M",cost:35,hp:20,str:1,tec:1,wlk:2,fly:-1,tgh:2}
 {id:2022114,name:"パーポHD",cost:35,hp:20,str:-1,tec:1,wlk:3,fly:1,tgh:1}
-{id:202204142,name:"バイオロンHD",main:{pwr:0,shl:150,rng:300,spd:300,itv:500,tec:100},tunable:{mwp:1},type:"s",size:"M",cost:65,hp:20,tec:1,wlk:2,fly:1,tgh:1,comment:["アリーナコイン景品","シェルサプライ効果"]}
+{id:202204142,name:"バイオロンHD",main:{pwr:0,shl:150,rng:300,spd:300,itv:500,tec:100},tunable:{mwp:1},type:"s",size:"M",cost:65,hp:20,tec:1,wlk:2,fly:1,tgh:1,comment:["シェルサプライ効果：6％","アリーナコイン景品"]}
 
 {id:272,name:"ハイガクゥーンHD",type:"lacs",size:"M",cost:40,hp:25,str:2,tec:1,wlk:2,fly:1,tgh:-1}
 {id:313,name:"ハイガクゥーンHD2",type:"lacs",size:"M",cost:30,hp:15,tec:2,fly:1,tgh:1}
