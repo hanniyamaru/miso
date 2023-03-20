@@ -394,21 +394,20 @@
 
 {id:69,name:"フラップジャックLG",sub:{pwr:0,shl:100,rng:100,spd:180,itv:1000},tunable:{mwp:1},auraStat:{main:{tec:100,pwr:11,shl:530,rng:275,spd:280,itv:760},sub:{pwr:0,shl:100,rng:100,spd:180,itv:1000}},type:"a",cost:115,hp:25,tec:1,wlk:3,fly:1,tgh:1,main:{pwr:8,shl:530,rng:275,spd:280,itv:760}}
 
-{id:81,name:"フラップジャックLG2",main:{tec:100,pwr:10,shl:450,rng:275,spd:280,itv:900},sub:{str:100,pwr:0,shl:100,rng:100,spd:180,itv:1000},tunable:{mwp:1},cost:100,hp:25,tec:2,wlk:3,fly:2,tgh:-1,type:"a"}
+{id:81,name:"フラップジャックLG2",main:{tec:100,pwr:10,shl:450,rng:275,spd:280,itv:900},sub:{str:100,pwr:0,shl:100,rng:100,spd:180,itv:1000},tunable:{mwp:1},cost:100,hp:25,tec:2,wlk:3,fly:2,tgh:-1,type:"a",comment:["◆CT4秒 ◆ブースト回復：40％","◆離陸：垂直 ◆飛行：入力方向※1","※1　ブーストゲージ消失中は消失直前の進行方向を受け継ぎ、ゲージ消失中は移動キー入力を受け付けない","BB"]}
 
 
 {id:333,name:"ブラディスターLG",type:"cl",cost:70,hp:25,tec:2,wlk:2,fly:1,tgh:1,sub:{str:100,pwr:0,shl:25,rng:100,spd:200,itv:600},tunable:{pwp:1}}
 {id:202203031,name:"ブリスガンド・ポーンLG",cost:45,hp:25,str:3,wlk:3,fly:-1,tgh:1,comment:["混沌コイン景品"]}
-
-{id:56,name:"ヘビージャガーアームLG",cost:45,hp:25,str:2,tec:-1,wlk:3,tgh:2,comment:["ロボガラポン"]}
-
-{id:86,name:"ヘラクビートランダーLG",cost:45,hp:25,str:1,tec:1,wlk:2,tgh:2}
-
 {id:43,name:"ブリッツェルトLG",cost:45,hp:25,str:2,wlk:3,fly:1,tgh:-1}
 {id:44,name:"ブリッツェルトLG2",cost:45,hp:25,tec:2,wlk:3,fly:-1,tgh:1}
+{id:394,name:"ブリンクLG",cost:45,hp:25,tec:2,wlk:3,fly:1}
+
+{id:56,name:"ヘビージャガーアームLG",cost:45,hp:25,str:2,tec:-1,wlk:3,tgh:2,comment:["ロボガラポン"]}
+{id:86,name:"ヘラクビートランダーLG",cost:45,hp:25,str:1,tec:1,wlk:2,tgh:2}
 {id:20220417,name:"ヘリンガルMK-2LG",size:"M",cost:45,hp:25,str:-1,tec:2,wlk:3,fly:1,tgh:1,comment:["ロボガラポン"]}
 
-{id:394,name:"ブリンクLG",cost:45,hp:25,tec:2,wlk:3,fly:1}
+
 {id:202211035,name:"ホバーミィルLG",size:"M",cost:45,hp:25,str:-1,tec:1,wlk:2,fly:2,tgh:2}
 {id:14,name:"ホバリオンLG",cost:45,hp:30,str:-1,tec:1,wlk:3,fly:1,tgh:1}
 {id:33,name:"ホバリオン・マグナLG",cost:50,hp:35,str:-1,tec:1,wlk:2,fly:2,tgh:2}
