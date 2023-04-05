@@ -75,16 +75,16 @@
 
 
 {group:"マシンガン系",prefixID:"MG",commonStat:{tunable:{mwp:1}},nextID:21}
-{id:1,name:"ハンドマシンガン",size:"M",cost:50,main:{pwr:5,shl:920,rng:160,spd:480,itv:140}}
-{id:3,name:"ナノマシンガン",size:"SS",cost:30,main:{pwr:4,shl:880,rng:160,spd:480,itv:140}}
-{id:2,name:"サブマシンガン",type:"lcs",size:"M",cost:70,main:{pwr:6,shl:960,rng:160,spd:480,itv:140}}
-{id:4,name:"マシンガン",type:"ls",size:"M",cost:100,main:{pwr:8,shl:800,rng:160,spd:480,itv:140}}
-{id:5,name:"ドラムマシンガン",type:"l",size:"M",cost:160,main:{pwr:15,shl:1000,rng:160,spd:480,itv:140}}
-{id:7,name:"レイジマシンガン",type:"l",size:"M",cost:120,main:{pwr:16,shl:440,rng:160,spd:480,itv:140}}
-{id:14,name:"バルカン",type:"lcs",size:"L",cost:70,main:{pwr:10,shl:840,rng:110,spd:400,itv:200}}
-{id:15,name:"エイトバルカン",type:"lc",size:"LL",cost:130,main:{pwr:8,shl:1640,rng:110,spd:400,itv:220}}
-{id:16,name:"チェインバルカン",type:"lcs",size:"L",cost:100,main:{pwr:12,shl:960,rng:110,spd:400,itv:200}}
-{id:17,name:"デルタバルカン",type:"l",size:"LL",cost:180,main:{pwr:10,shl:1670,rng:90,spd:400,itv:200}}
+{id:1,name:"ハンドマシンガン",size:"M",cost:50,main:{pwr:7,shl:1520,rng:160,spd:480,itv:140}}
+{id:3,name:"ナノマシンガン",size:"SS",cost:30,main:{pwr:8,shl:560,rng:160,spd:480,itv:140}}
+{id:2,name:"サブマシンガン",type:"lcs",size:"M",cost:70,main:{pwr:11,shl:680,rng:160,spd:480,itv:140}}
+{id:4,name:"マシンガン",type:"lcs",size:"M",cost:100,main:{pwr:11,shl:1140,rng:160,spd:480,itv:140}}
+{id:5,name:"ドラムマシンガン",type:"l",size:"M",cost:160,main:{pwr:15,shl:1480,rng:160,spd:480,itv:140}}
+{id:7,name:"レイジマシンガン",type:"l",size:"M",cost:120,main:{pwr:16,shl:640,rng:160,spd:480,itv:140}}
+{id:14,name:"バルカン",type:"lcs",size:"L",cost:70,main:{pwr:12,shl:1040,rng:120,spd:400,itv:200}}
+{id:15,name:"エイトバルカン",type:"lc",size:"LL",cost:120,main:{pwr:9,shl:1960,rng:120,spd:400,itv:200}}
+{id:16,name:"チェインバルカン",type:"lcs",size:"L",cost:100,main:{pwr:15,shl:1040,rng:120,spd:400,itv:200}}
+{id:17,name:"デルタバルカン",type:"l",size:"LL",cost:180,main:{pwr:12,shl:2040,rng:120,spd:400,itv:200}}
 {id:24,name:"コンパクトガトリング",type:"lc",size:"M",cost:110,main:{pwr:10,shl:1080,rng:225,spd:400,itv:140}}
 {id:18,name:"バスターガトリング",type:"l",size:"L",cost:170,main:{pwr:13,shl:1100,rng:225,spd:400,itv:140}}
 {id:19,name:"ヒュージガトリング",type:"l",size:"LL",cost:180,main:{pwr:11,shl:1560,rng:250,spd:400,itv:140}}
@@ -248,16 +248,15 @@
 
 
 {group:"ショットガン系",prefixID:"ST",commonStat:{tunable:{mwp:1}},nextID:14}
-{id:18,name:"マグネショットガン",main:{pwr:5,shl:1190,rng:330,spd:290,itv:900},size:"M",type:"c",cost:140,wlk:1,comment:"ミッションコイン景品"}
 
-{id:1,name:"ショットガン",size:"M",cost:50,main:{pwr:6,shl:1090,rng:150,spd:400,itv:560},auraStat:{comment:["距離減衰・実弾系ショットガン・カスタムショットガン","武器表記威力が命中距離によって割合で減少し、その後にTEC計算される","威力50%~100%"]}}
-{id:2,name:"カスタムショットガン",size:"L",cost:70,main:{pwr:6,shl:1090,rng:150,spd:400,itv:560}}
-{id:3,name:"スイーパーショットガン",type:"lc",size:"L",cost:90,main:{pwr:9,shl:840,rng:150,spd:400,itv:720}}
-{id:21,name:"アドバンスショットガン",main:{tec:100,pwr:7,shl:720,rng:225,spd:400,itv:500},tunable:{mwp:1},type:"l",size:"M",cost:160}
-{id:4,name:"シールドショットガン",type:"lcs",size:"LL",cost:90,main:{pwr:7,shl:1170,rng:150,spd:400,itv:680}}
+{id:1,name:"ショットガン",size:"M",cost:50,main:{pwr:10,shl:1090,rng:150,spd:400,itv:560},auraStat:{comment:["距離減衰・実弾系ショットガン・カスタムショットガン","武器表記威力が命中距離によって割合で減少し、その後にTEC計算される","威力50%~100%"]}}
+{id:2,name:"カスタムショットガン",size:"L",cost:70,main:{pwr:11,shl:1120,rng:150,spd:400,itv:560}}
+{id:3,name:"スイーパーショットガン",type:"lc",size:"L",cost:90,main:{pwr:14,shl:910,rng:150,spd:400,itv:720}}
+{id:21,name:"アドバンスショットガン",main:{tec:100,pwr:11,shl:1120,rng:250,spd:400,itv:500},tunable:{mwp:1},type:"l",size:"M",cost:150}
+{id:4,name:"シールドショットガン",type:"lcs",size:"LL",cost:90,main:{pwr:8,shl:990,rng:150,spd:400,itv:680}}
 {id:5,name:"バーストショットガン",type:"lc",size:"LL",cost:140,main:{pwr:15,shl:600,rng:210,spd:360,itv:800}}
 
-{id:6,name:"パーティクルガン",type:"as",size:"S",cost:40,main:{pwr:5,shl:950,rng:150,spd:400,itv:440}}
+{id:6,name:"パーティクルガン",type:"as",size:"S",cost:40,main:{pwr:8,shl:1200,rng:150,spd:400,itv:440}}
 {id:8,name:"ブラスター",type:"as",size:"M",cost:90,main:{pwr:5,shl:770,rng:200,spd:440,itv:540}}
 {id:9,name:"ブリッツブラスター",type:"a",size:"L",cost:120,main:{pwr:7,shl:700,rng:200,spd:440,itv:760}}
 {id:10,name:"ツインブラスター",type:"a",size:"L",cost:160,main:{pwr:8,shl:840,rng:200,spd:440,itv:600}}
@@ -291,6 +290,7 @@
 {id:42,name:"フェノムマグネガン",type:"cs",size:"S",cost:110,main:{pwr:19,shl:270,rng:330,spd:290,itv:700}}
 {id:54,name:"ジニアスマグネガン",type:"c",size:"M",cost:140,main:{pwr:13,shl:440,rng:330,spd:290,itv:380}}
 {id:64,name:"ブラストマグネガン",main:{pwr:23,shl:230,rng:330,spd:290,itv:800},type:"c",size:"S",cost:120}
+{id:18,name:"マグネショットガン",main:{pwr:5,shl:1190,rng:330,spd:290,itv:900},size:"M",type:"c",cost:140,wlk:1,comment:"ミッションコイン景品"}
 
 
 
@@ -324,7 +324,7 @@
 
 {id:1109,name:"パンプキンガン",size:"M",cost:15,main:{pwr:6,shl:500,rng:225,spd:570,itv:300}}
 {id:20211224,name:"オーナメントシューター",main:{tec:100,pwr:10,shl:600,rng:250,spd:400,itv:300},tunable:{mwp:1},size:"M",cost:70,comment:["実弾属性、爆風なし","飛距離1000以上？"]}
-{id:2022118,name:"スノウマンピッチャー",main:{tec:100,pwr:15,shl:330,rng:275,spd:100,itv:600},size:"M",type:"a",cost:150}
+{id:2022118,name:"スノウマンピッチャー",main:{tec:100,pwr:15,shl:300,rng:275,spd:100,itv:600},size:"M",type:"as",cost:100,comment:"ビーム爆風100％"}
 
 {id:20211031,name:"グラヴィトンカノンα",main:{pwr:17,shl:650,rng:250,spd:480,itv:100},tunable:{mwp:0},joint:{wp:1},fixedParts:{wp:[{main:{pwr:9,shl:600,rng:275,spd:480,itv:900},name:"グラヴィトンカノン@2",slot:0,comment:["BEAM RIFLE","ライフル弾・追撃弾は同威力"]}]},type:"a",cost:180,size:"M",comment:["LASER","武器チューン不可"]}
 {id:202203163,name:"バフォグリーズガン",main:{tec:100,pwr:13,shl:660,rng:275,spd:400,itv:300},size:"M",type:"a",cost:85,comment:["混沌コイン景品","ビーム爆風50％"]}
