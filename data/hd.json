@@ -274,6 +274,7 @@
 {id:315,name:"クリスホーンHD",main:{tec:100,pwr:12,shl:120,rng:250,spd:320,itv:720},type:"l",size:"M",cost:70,hp:15,tec:1,wlk:1,tgh:2,tunable:{mwp:1}}
 
 {id:12,name:"クルージスHD",type:"lacs",size:"M",cost:35,hp:20,str:-1,tec:2,wlk:1,tgh:3}
+{id:20230406,name:"クルージスHD2",type:"lacs",size:"M",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,comment:"FE"}
 
 
 {id:48,name:"クレストセイントHD",cost:40,hp:25,str:1,tec:2,wlk:1,fly:1}
