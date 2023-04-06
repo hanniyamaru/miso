@@ -4,6 +4,8 @@
 
 {group:"Ｓ陸　近日更新分",prefixID:"LS",commonStat:{size:"S",type:"l"},nextID:35}
 
+{id:202304064,name:"エースブレイバーBD2",type:"l",size:"S",cost:515,capa:850,hp:225,str:7,tec:9,wlk:16,fly:7,tgh:9,main:{pwr:[7],shl:[1200],rng:[225],spd:[400],itv:[300]},wbid:6,cartridge:{hpup:14,lv1:"4*5@25|61*2@35|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|25@25|28@30|13@30|32@50|31@40"},comment:["Ⅱ","内蔵強化値不明"]}
+
 {id:20230406,name:"エリザロッテBD2",cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|15@15|16@20|21@20|13@30|34@15|32@50|31@40"},type:"l",size:"S",cost:445,capa:900,hp:225,str:12,tec:4,wlk:10,fly:8,tgh:14,fixedParts:{hd:{name:"エリザロッテHD",cost:40,hp:25,str:2,wlk:2,fly:1,type:"l",size:"S"},lg:{name:"エリザロッテLG2",cost:45,hp:25,str:2,wlk:2,tgh:2,type:"l",size:"S"},bs:{name:"エリザロッテBS2",cost:40,hp:25,str:1,fly:3,tgh:1,type:"l",size:"S"},am:[{name:"エリザロッテAM4",joint:{wp:2},fixedParts:{wp:[{name:"プリンセスシヴァリーⅡ",sub:{pwr:34,shl:0,rng:70,spd:85,itv:500,str:100},type:"l",size:"S",cost:120,tunable:{pwp:1}},{name:"プリンセスクラッシュ",main:{str:100,pwr:20,shl:50,rng:200,spd:400,itv:500},tunable:{mwp:1},type:"l",size:"S",slot:0,cost:30}]},comment:"-",cost:40,hp:25,str:2,wlk:2,tgh:1,type:"l",size:"S"},{name:"エリザロッテAM3",joint:{wp:1},fixedParts:{wp:{name:"プリンセスシールド",main:{shl:50,spd:10,itv:1000},sub:{str:100,pwr:30,rng:150,spd:250,itv:1000},tunable:{mwp:1,pwp:1},type:"l",size:"S",cost:80}},cost:40,hp:25,str:2,wlk:2,tgh:1,type:"l",size:"S"}]},joint:{bs:2},wbid:999,comment:"AURA機構"}
 
 {id:5,name:"シャドウハンターBD",type:"l",size:"S",cost:365,capa:710,hp:200,str:6,tec:9,wlk:15,fly:6,tgh:6,wbid:5,cartridge:{hpup:22,lv1:"5*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|31@40|16@20|12@20|13@30|32@50|30@20"}}
