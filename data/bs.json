@@ -76,6 +76,7 @@
 
 {id:55,name:"イオンαBS",type:"l",cost:40,hp:25,tec:2,wlk:1,fly:2}
 {id:22,name:"エースブレイバーBS",size:"S",cost:40,hp:25,wlk:1,fly:3,tgh:1}
+{id:202304064,name:"エースブレイバーBS2",size:"S",cost:35,hp:20,str:1,tec:1,fly:3,comment:"Ⅱ"}
 
 {id:113,name:"エアリーデBS",sub:{shl:50,rng:100,spd:120,itv:1000},type:"a",cost:65,hp:20,tec:2,wlk:-1,fly:4}
 
