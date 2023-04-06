@@ -74,6 +74,7 @@
 {id:4,name:"インテグラルナイフ",size:"M",cost:100,sub:{str:100,pwr:31,rng:105,spd:128,itv:500}}
 {id:7,name:"ダマスクスナイフ",size:"M",cost:140,sub:{str:100,pwr:31,rng:105,spd:128,itv:1000}}
 {id:10,name:"サイドロンナイフ",type:"l",cost:80,size:"M",sub:{pwr:28,rng:84,spd:102,itv:2000,str:100},tunable:{pwp:1}}
+{id:20230407,name:"07式サバイバルナイフ",type:"lcs",cost:90,size:"M",sub:{pwr:31,rng:91,spd:111,itv:1000,str:100},tunable:{pwp:1},comment:["速度はWLK・FLYの高い方に依存","コラボイベントオーダー景品"]}
 
 
 
