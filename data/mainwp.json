@@ -96,7 +96,7 @@
 {id:29,name:"ダブルビームガトリング",main:{pwr:6,shl:2400,rng:250,spd:480,itv:140},tunable:{mwp:1},size:"LL",type:"a",cost:200}
 {id:33,name:"ヒートガトリング",main:{tec:100,pwr:10,shl:1200,rng:330,spd:440,itv:140},size:"M",cost:160,type:"c"}
 {id:20220909,name:"ミニマシンガン",size:"M",cost:70,main:{tec:100,pwr:8,shl:800,rng:180,spd:400,itv:140,comment:"ジオグラシス初期装備"}}
-{id:20230407,name:"07式サブマシンガン",size:"M",cost:130,main:{tec:100,pwr:13,shl:1440,rng:160,spd:480,itv:140,type:"lc",comment:"コラボイベントオーダー景品"}}
+{id:20230407,name:"07式サブマシンガン",size:"M",cost:130,main:{tec:100,pwr:13,shl:1440,rng:160,spd:480,itv:140},type:"lc",comment:"コラボイベントオーダー景品"}
 
 
 {group:"ライフル系",prefixID:"LF",commonStat:{tunable:{mwp:1}},nextID:24}
