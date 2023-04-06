@@ -27,6 +27,7 @@
 
 
 {id:4,name:"エースブレイバーAM",type:"la",cost:75,hp:20,str:2,wlk:1,fly:1,tgh:1,sub:{str:100,pwr:28,rng:70,spd:85,itv:500},tunable:{pwp:1}}
+{id:202304064,name:"エースブレイバーAM",type:"l",size:"S",cost:105,hp:20,str:2,wlk:2,fly:1,sub:{str:100,pwr:28,shl:0,rng:120,spd:200,itv:1000},tunable:{pwp:1},comment:["WLK依存サブ","Ⅱ"]}
 
 {id:129,name:"エアリーデAM",cost:35,hp:20,tec:2,fly:2,tgh:1}
 
