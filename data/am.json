@@ -193,8 +193,8 @@
 {id:116,name:"ミヅハAM",main:{pwr:9,shl:460,rng:300,spd:320,itv:500},type:"s",size:"S",cost:95,hp:15,str:1,tec:2,fly:1,tunable:{mwp:1},comment:["低確率レイトクロック効果","Season7アリーナコイン景品"]}
 
 {id:38,name:"メカルドAM",cost:30,hp:15,str:1,tec:1,tgh:2,size:"S",comment:["Season7アリーナコイン景品"]}
-{id:1651,name:"メディカレストAM",size:"S",cost:35,hp:20,str:-1,tec:1,wlk:2,tgh:3}
-{id:20221103,name:"メディカレストAM2",size:"S",cost:55,hp:20,tec:1,wlk:1,tgh:3,comment:"シールド耐久値不明"}
+{id:1651,name:"メディカレストAM",size:"S",cost:35,hp:20,str:-1,tec:1,wlk:2,tgh:3,comment:""}
+{id:20221103,name:"メディカレストAM2",size:"S",cost:55,hp:20,tec:1,wlk:1,tgh:3,comment:"シールド耐久値65"}
 {id:110,name:"メトラAM",main:{pwr:7,shl:500,rng:275,spd:350,itv:360},type:"a",cost:75,hp:20,tec:3,wlk:-1,fly:2,tgh:2,tunable:{mwp:1,pwp:0},size:"S"}
 {id:132,name:"メトラAM2",main:{pwr:5,shl:720,rng:275,spd:520,itv:320},type:"a",cost:85,hp:20,str:-1,tec:3,wlk:1,fly:2,tunable:{mwp:1}}
 {id:58,name:"モールニードスAM",cost:35,hp:20,str:2,tec:2,fly:-1,tgh:2}
@@ -205,7 +205,7 @@
 {id:115,name:"ヤクシャAM",cost:35,hp:20,str:2,tec:1,wlk:-1,fly:2,tgh:1}
 {id:153,name:"ユネッサAM",main:{pwr:16,shl:300,rng:275,spd:240,itv:700,tec:100},tunable:{mwp:1},cost:95,hp:20,tec:2,wlk:1,fly:1,tgh:1,size:"SS",type:"s",joint:{wp:0}}
 {id:41,name:"ラズフラムαAM",cost:35,hp:20,str:1,tec:1,wlk:1,tgh:2}
-{id:202303093,name:"ラズフラムαAM2",type:"l",size:"S",cost:55,hp:20,str:2,wlk:1,tgh:2,comment:["シールド耐久値不明","AM@省略","RUSH"]}
+{id:202303093,name:"ラズフラムαAM2",type:"l",size:"S",cost:55,hp:20,str:2,wlk:1,tgh:2,comment:["シールド耐久値65","AM@省略","RUSH"]}
 
 {id:20220426,name:"ラビスリープAM",size:"S",cost:35,hp:20,str:1,wlk:2,fly:1,tgh:1,comment:"イースターイベント景品"}
 {id:155,name:"リーゼルAM",size:"S",cost:35,hp:20,str:-1,tec:2,wlk:2,fly:1,tgh:1,comment:"AM2と同性能"}
@@ -365,7 +365,7 @@
 
 {id:101,name:"クアドラAM",main:{tec:100,pwr:21,shl:260,rng:330,spd:400,itv:700},tunable:{mwp:1},cost:75,hp:20,tec:2,wlk:1,fly:1,tgh:1,joint:{wp:0},type:"c",size:"M"}
 
-{id:170,name:"クリスホーンAM",fixedParts:{am:{name:"クリスホーンAM@",slot:0,type:"l",joint:{wp:0}}},auraStat:{main:{pwr:15,shl:600,rng:250,spd:350,itv:500}},type:"l",cost:125,hp:20,str:-1,tec:3,wlk:2,fly:1,comment:"AURA機構",joint:{am:1},main:{pwr:10,shl:600,rng:250,spd:320,itv:400},tunable:{mwp:1},size:"M"}
+{id:170,name:"クリスホーンAM",fixedParts:{am:{name:"クリスホーンAM@",slot:0,type:"l",joint:{wp:0}}},auraStat:{main:{pwr:15,shl:600,rng:250,spd:350,itv:500}},type:"l",cost:125,hp:20,str:-1,tec:3,wlk:2,fly:1,comment:["AM@シールド耐久値65","AURA機構"],joint:{am:1},main:{pwr:10,shl:600,rng:250,spd:320,itv:400},tunable:{mwp:1},size:"M"}
 {id:9,name:"クレストセイントAM",cost:40,hp:25,str:2,wlk:1,fly:2}
 
 {id:71,name:"ゲンブラAM",type:"c",cost:60,hp:25,tec:2,wlk:1,tgh:2,main:{pwr:12,shl:130,rng:330,spd:290,itv:440},sub:{pwr:13,shl:160,rng:350,spd:290,itv:1000},tunable:{mwp:1,pwp:1},joint:{wp:1},comment:"AURA機構省略"}
@@ -432,8 +432,8 @@
 
 {id:61,name:"ダテマックスAM",cost:35,hp:20,str:3,tec:-1,tgh:3}
 
-{id:133,name:"ダルタニスAM2",sub:{str:100,pwr:32,rng:75,spd:150,itv:1500},tunable:{pwp:1},joint:{wp:0},type:"l",cost:155,hp:20,str:2,tec:-1,wlk:3,tgh:1,comment:"シールド耐久値不明"}
-{id:305,name:"ダルタニスAM3",cost:155,hp:20,str:2,tec:-1,wlk:2,tgh:2,tunable:{mwp:1,pwp:1},joint:{wp:0},main:{str:100,pwr:11,shl:280,rng:225,spd:400,itv:300},sub:{str:100,pwr:28,shl:0,rng:120,spd:350,itv:1000},comment:"シールド耐久値不明"}
+{id:133,name:"ダルタニスAM2",sub:{str:100,pwr:32,rng:75,spd:150,itv:1500},tunable:{pwp:1},joint:{wp:0},type:"l",cost:155,hp:20,str:2,tec:-1,wlk:3,tgh:1,comment:"シールド耐久値65"}
+{id:305,name:"ダルタニスAM3",cost:155,hp:20,str:2,tec:-1,wlk:2,tgh:2,tunable:{mwp:1,pwp:1},joint:{wp:0},main:{str:100,pwr:11,shl:280,rng:225,spd:400,itv:300},sub:{str:100,pwr:28,shl:0,rng:120,spd:350,itv:1000},comment:"シールド耐久値65"}
 
 
 {id:109,name:"テオライネAM",main:{pwr:7,shl:780,rng:330,spd:270,itv:580},joint:{wp:0},cost:85,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,tunable:{mwp:1},type:"c"}
