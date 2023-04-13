@@ -605,8 +605,8 @@
 {id:1,name:"アクイーアAM",cost:35,hp:20,str:2,tec:1,fly:1,tgh:1}
 {id:66,name:"アクイーア・エアーズAM",cost:35,hp:20,tec:2,wlk:-1,fly:2,tgh:2,size:"L",comment:["ロボガラポン"]}
 
-{id:202301122,name:"アストロトルーパーAM",size:"L",cost:65,hp:20,str:1,tec:1,wlk:2,tgh:1}
-{id:2023011221,name:"アストロトルーパーAM2",type:"l",size:"L",cost:155,hp:20,str:-1,tec:3,wlk:2,tgh:1,main:{tec:100,pwr:16,shl:600,rng:250,spd:300,itv:400},joint:{wp:0},tunable:{mwp:1},comment:["",""]}
+{id:202301122,name:"アストロトルーパーAM",size:"L",cost:65,hp:20,str:1,tec:1,wlk:2,tgh:1,comment:"シールド耐久値80"}
+{id:2023011221,name:"アストロトルーパーAM2",type:"l",size:"L",cost:155,hp:20,str:-1,tec:3,wlk:2,tgh:1,main:{tec:100,pwr:16,shl:600,rng:250,spd:300,itv:400},joint:{wp:0},tunable:{mwp:1},comment:["シールド耐久値80",""]}
 
 {id:52,name:"アルバトレオスAM",tec:2,wlk:1,tgh:2,cost:70,hp:25,sub:{tec:100,pwr:26,rng:100,spd:250,itv:500},tunable:{pwp:1},type:"lc",joint:{wp:0}}
 {id:137,name:"アルマダAM",main:{tec:100,pwr:13,shl:500,rng:275,spd:255,itv:360},type:"a",size:"L",cost:100,hp:25,tec:3,wlk:-1,fly:1,tgh:2,tunable:{mwp:1},joint:{wp:0},comment:"ビーム爆風70％"}
@@ -710,7 +710,7 @@
 {id:202209096,name:"ジオグラシスAM5",cost:35,hp:20,str:1,tec:1,wlk:2,fly:1,comment:""}
 {id:32,name:"シュトルバンガーAM",type:"c",cost:125,hp:25,str:-1,tec:3,tgh:3,main:{pwr:10,shl:560,rng:330,spd:290,itv:400},tunable:{mwp:1}}
 {id:130,name:"シュトルバンガーAM2",type:"c",cost:100,hp:25,tec:3,wlk:1,fly:1,main:{pwr:17,shl:320,rng:330,spd:260,itv:500},tunable:{mwp:1},size:"L"}
-{id:1301103,name:"シュトルバンガーAM3",type:"c",cost:140,hp:25,str:-1,tec:4,fly:-1,tgh:3,main:{pwr:9,shl:1000,rng:330,spd:440,itv:200},tunable:{mwp:1},size:"L",joint:{wp:0},comment:"シールド耐久値不明"}
+{id:1301103,name:"シュトルバンガーAM3",type:"c",cost:140,hp:25,str:-1,tec:4,fly:-1,tgh:3,main:{pwr:9,shl:1000,rng:330,spd:440,itv:200},tunable:{mwp:1},size:"L",joint:{wp:0},comment:"シールド耐久値80"}
 {id:131,name:"シュトルバンガーAM4",size:"L",type:"c",cost:40,hp:25,tec:3,wlk:2,fly:1,tgh:-1}
 {id:41,name:"スクイドルAM",size:"L",type:"s",cost:105,hp:20,str:2,tec:-1,wlk:2,fly:1,tgh:1,sub:{str:100,pwr:28,rng:70,spd:85,itv:500},tunable:{pwp:1},joint:{wp:0},comment:["ショック効果","ロボガラポン"]}
 
@@ -748,7 +748,7 @@
 {id:202204141,name:"ツチガタAM",size:"L",cost:35,hp:20,tec:2,tgh:3,comment:["アリーナコイン景品"]}
 
 {id:85,name:"ディースモークAM",type:"s",cost:105,hp:20,tec:2,tgh:3,tunable:{mwp:1},main:{pwr:6,shl:480,rng:250,spd:325,itv:400}}
-{id:151,name:"ディースモークAM2",cost:65,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,size:"L",joint:{am:1},fixedParts:{am:{name:"ディースモークAM2@",slot:0,joint:{wp:0}}}}
+{id:151,name:"ディースモークAM2",cost:65,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,size:"L",joint:{am:1},fixedParts:{am:{name:"ディースモークAM2@",slot:0,joint:{wp:0}}},comment:"シールド耐久値80"}
 {id:20230112,name:"ディランアーカムAM",type:"a",size:"L",cost:70,hp:25,tec:2,fly:1,tgh:2,main:{tec:100,pwr:14,shl:390,rng:300,spd:400,itv:500},tunable:{mwp:0},comment:["AM@cost+30複合","武器チューン不可"]}
 {id:113,name:"ディランアーカムAM（コンバージョンなし）",joint:{wp:1},size:"L",cost:40,hp:25,tec:2,fly:1,tgh:2}
 {id:99,name:"ティルージュAM",main:{pwr:[17,19,21],shl:[250,280,320],rng:275,spd:400,itv:[700,500,500]},sub:{tec:100,pwr:[28,29,30],shl:0,rng:70,spd:85,itv:1500},tunable:{mwp:1,pwp:1},joint:{am:1},fixedParts:{am:{name:"ティルージュAM@",slot:0,joint:{wp:0}}},cost:40,hp:25,str:-1,tec:2,fly:3,tgh:1,comment:["変形省略","内蔵強化対応"]}
@@ -859,9 +859,9 @@
 
 {id:202205242,name:"ライオウゼンAM",sub:{pwr:32,rng:77,spd:94,itv:1000,str:100},type:"l",size:"L",cost:135,hp:20,str:3,tec:-1,wlk:1,tgh:2,tunable:{pwp:1},joint:{wp:1},fixedParts:{wp:{name:"ライオウゼンAM@",main:{str:100,pwr:20,shl:50,rng:200,spd:570,itv:500},cost:30,slot:0}}}
 
-{id:169,name:"ライオウゼンAM（コンバージョン無し）",type:"l",size:"L",sub:{pwr:32,rng:70,spd:85,itv:1000,str:100},tunable:{pwp:1},cost:135,hp:20,str:3,tec:-1,wlk:1,tgh:2,comment:"-"}
+{id:169,name:"ライオウゼンAM（コンバージョン無し）",type:"l",size:"L",sub:{pwr:32,rng:70,spd:85,itv:1000,str:100},tunable:{pwp:1},cost:135,hp:20,str:3,tec:-1,wlk:1,tgh:2,comment:"シールド耐久値80"}
 
-{id:170,name:"ライオウゼンAM2",type:"l",size:"L",cost:35,hp:20,str:-1,tec:2,wlk:2,fly:1,tgh:1}
+{id:170,name:"ライオウゼンAM2",type:"l",size:"L",cost:35,hp:20,str:-1,tec:2,wlk:2,fly:1,tgh:1,comment:"シールド耐久値80"}
 
 {id:21,name:"ランサーロットAM",type:"l",cost:190,hp:25,str:3,tec:-1,wlk:1,tgh:2,sub:{str:100,pwr:28,shl:0,rng:120,spd:250,itv:1000},main:{str:100,pwr:13,shl:210,rng:250,spd:440,itv:160},tunable:{pwp:1,mwp:1},joint:{wp:0},comment:"無印、槍"}
 {id:23,name:"ランサーロットAM3",type:"l",cost:110,hp:25,str:4,tec:-1,tgh:2,sub:{str:100,pwr:34,rng:63,spd:76,itv:500},tunable:{pwp:1},joint:{wp:0},comment:"J、斧"}
@@ -870,7 +870,7 @@
 {id:202209093,name:"ランサーロットAM6",type:"l",cost:195,hp:20,str:3,tec:-1,wlk:2,tgh:1,main:{str:100,pwr:15,shl:460,rng:225,spd:440,itv:300},sub:{str:100,pwr:29,shl:0,rng:150,spd:250,itv:2000},tunable:{pwp:1,mwp:1},joint:{wp:0},comment:["A、槍","WLK依存格闘"]}
 
 
-{id:159,name:"ランパーニルAM",type:"l",cost:55,hp:20,str:2,wlk:1,fly:-1,tgh:3,comment:"シールド有り、耐久値不明"}
+{id:159,name:"ランパーニルAM",type:"l",cost:55,hp:20,str:2,wlk:1,fly:-1,tgh:3,comment:"シールド耐久値70"}
 
 
 {id:1010,name:"ルペットAM",type:"lacs",size:"L",comment:"性能変更に伴いAM3と分離",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2}
@@ -901,13 +901,13 @@
 {id:1402,name:"ガデロガAM2",main:{tec:100,pwr:10,shl:760,rng:90,spd:480,itv:100},tunable:{mwp:1},type:"c",cost:125,hp:25,tec:2,wlk:2,fly:-1,tgh:2,joint:{wp:0}}
 {id:19,name:"ガデロガAM3",main:{tec:100,pwr:13,shl:800,rng:280,spd:480,itv:100},tunable:{mwp:1},type:"c",cost:155,hp:25,str:-1,tec:3,tgh:3,joint:{wp:0}}
 {id:2,name:"ギガトンオーAM2",type:"c",cost:200,hp:25,str:-1,tec:4,fly:-1,tgh:3,main:{pwr:37,shl:220,rng:330,spd:360,itv:800},sub:{pwr:30,shl:90,rng:350,spd:240,itv:1000},tunable:{mwp:1},joint:{wp:0}}
-{id:87,name:"ギガンベルグAM",cost:65,hp:20,tec:2,wlk:1,tgh:2,comment:"盾機能あり、耐久値不明"}
+{id:87,name:"ギガンベルグAM",cost:65,hp:20,tec:2,wlk:1,tgh:2,comment:"シールド耐久値88"}
 
 
 {id:17,name:"ギャランバルドAM",main:{shl:50,spd:10,itv:1000},sub:{pwr:20,shl:30,rng:120,spd:250,itv:1000,str:100},tunable:{mwp:1,pwp:1},cost:120,hp:25,str:1,tec:-1,wlk:1,tgh:4,type:"l",joint:{wp:0}}
 {id:20220416,name:"ケンタクロスAM2",type:"l",size:"LL",cost:175,hp:20,str:2,tec:-1,wlk:2,tgh:2,sub:{str:100,pwr:32,shl:0,rng:77,spd:94,itv:1000},tunable:{pwp:1},joint:{wp:0},comment:["ロボガラポン"]}
 
-{id:26,name:"サイクロテスAM4",sub:{str:100,pwr:28,rng:75,spd:200,itv:3000},tunable:{pwp:1},type:"l",size:"LL",cost:120,hp:28,str:4,tec:-1,wlk:1,tgh:1,joint:{wp:0}}
+{id:26,name:"サイクロテスAM4",sub:{str:100,pwr:28,rng:75,spd:200,itv:3000},tunable:{pwp:1},type:"l",size:"LL",cost:120,hp:25,str:4,tec:-1,wlk:1,tgh:1,joint:{wp:0},comment:"シールド耐久値75"}
 {id:202301123,name:"サジタルマクシス・CAM",size:"LL",cost:70,hp:25,str:1,tec:2,fly:-1,tgh:3,comment:"シールド耐久値不明"}
 {id:2023011231,name:"サジタルマクシス・CAM2",type:"c",size:"LL",cost:140,hp:25,str:-1,tec:3,tgh:3,main:{tec:100,pwr:20,shl:360,rng:350,spd:570,itv:300},tunable:{mwp:1},comment:"シールド耐久値不明"}
 
@@ -926,8 +926,8 @@
 {id:4,name:"ダイダリオンAM2",type:"l",cost:205,hp:25,str:4,tec:-1,fly:-1,tgh:3,sub:{str:100,pwr:34,rng:70,spd:85,itv:1000},tunable:{pwp:1},joint:{wp:0}}
 {id:190,name:"ティタロテスAM",cost:120,hp:15,tec:3,fly:-1,tgh:2,type:"c",size:"LL",joint:{wp:2},fixedParts:{wp:{name:"ティタロテスAM@",slot:0,main:{pwr:10,shl:720,rng:350,spd:350,itv:140}}}}
 
-{id:1201,name:"トルク・マイティバインAM",type:"l",size:"LL",cost:155,hp:25,str:2,tec:-1,wlk:2,tgh:2,main:{str:100,pwr:20,shl:30,rng:200,spd:500,itv:500},sub:{str:100,pwr:36,shl:30,rng:70,spd:85,itv:2000},tunable:{mwp:1,pwp:1},joint:{wp:0},comment:["シールド耐久値50","2021/12/1"]}
-{id:1202,name:"トルク・マイティバインAM2",sub:{str:100,pwr:34,shl:30,rng:80,spd:300,itv:1000},tunable:{pwp:1},type:"l",size:"LL",cost:115,hp:25,str:2,tec:-1,wlk:2,tgh:2,comment:["シールド耐久値50","2021/12/1"]}
+{id:1201,name:"トルク・マイティバインAM",type:"l",size:"LL",cost:155,hp:25,str:2,tec:-1,wlk:2,tgh:2,main:{str:100,pwr:20,shl:30,rng:200,spd:500,itv:500},sub:{str:100,pwr:36,shl:30,rng:70,spd:85,itv:2000},tunable:{mwp:1,pwp:1},joint:{wp:0},comment:["シールド耐久値88"]}
+{id:1202,name:"トルク・マイティバインAM2",sub:{str:100,pwr:34,shl:30,rng:80,spd:300,itv:1000},tunable:{pwp:1},type:"l",size:"LL",cost:115,hp:25,str:2,tec:-1,wlk:2,tgh:2,comment:["シールド耐久値88"]}
 {id:15,name:"ビッグマンテスAM2",type:"a",cost:135,hp:20,str:-1,tec:3,tgh:3,main:{pwr:7,shl:1000,rng:275,spd:350,itv:900},tunable:{mwp:1},joint:{wp:0}}
 {id:11,name:"ブリガバロンAM",cost:40,hp:25,str:2,tec:-1,wlk:1,tgh:3}
 {id:12,name:"ブリガバロンLAM2",cost:40,hp:25,str:2,tec:-1,wlk:1,tgh:3,fixedParts:{wp:{name:"ブリガントシールド",sub:{shl:10,rng:0,spd:0,itv:1000},cost:30,tunable:{pwp:0}}},type:"l",comment:"ブリガバロン専用コンバージョンパーツ"}
