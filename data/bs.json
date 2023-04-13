@@ -779,7 +779,7 @@
 
 {group:"ＬＬサイズ",prefixID:"LL",commonStat:{size:"LL"},nextID:3}
 {id:202211031,name:"ヴェルズニールBS",type:"a",size:"LL",cost:190,hp:25,str:-1,tec:2,fly:4,main:{tec:100,pwr:6,shl:1200,rng:275,spd:280,itv:1200},tunable:{mwp:1},comment:""}
-{id:149,name:"ギャランバルドBS2",type:"l",cost:110,hp:25,str:1,wlk:-1,fly:2,tgh:3,tunable:{pwp:1},size:"LL",comment:"シールド耐久値不明",sub:{pwr:0,shl:0,rng:150,spd:300,itv:2000}}
+{id:149,name:"ギャランバルドBS2",type:"l",cost:110,hp:25,str:1,wlk:-1,fly:2,tgh:3,tunable:{pwp:1},size:"LL",comment:"シールド耐久値100",sub:{pwr:0,shl:0,rng:150,spd:300,itv:2000}}
 
 {id:95,name:"コルディプスBS",main:{tec:100,pwr:10,shl:500,rng:330,spd:280,itv:800},cost:85,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,size:"LL",type:"c",tunable:{mwp:1}}
 
