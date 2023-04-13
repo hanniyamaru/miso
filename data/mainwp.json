@@ -255,7 +255,7 @@
 {id:2,name:"カスタムショットガン",size:"L",cost:70,main:{pwr:11,shl:1120,rng:150,spd:400,itv:560}}
 {id:3,name:"スイーパーショットガン",type:"lc",size:"L",cost:90,main:{pwr:14,shl:910,rng:150,spd:400,itv:720}}
 {id:21,name:"アドバンスショットガン",main:{tec:100,pwr:11,shl:1120,rng:250,spd:400,itv:500},tunable:{mwp:1},type:"l",size:"M",cost:150}
-{id:4,name:"シールドショットガン",type:"lcs",size:"LL",cost:90,main:{pwr:8,shl:990,rng:150,spd:400,itv:680}}
+{id:4,name:"シールドショットガン",type:"lcs",size:"LL",cost:90,main:{pwr:8,shl:990,rng:150,spd:400,itv:680},comment:"シールド耐久値180"}
 {id:5,name:"バーストショットガン",type:"lc",size:"LL",cost:140,main:{pwr:15,shl:600,rng:210,spd:360,itv:800}}
 
 {id:6,name:"パーティクルガン",type:"as",size:"S",cost:40,main:{pwr:8,shl:1200,rng:150,spd:400,itv:440}}
