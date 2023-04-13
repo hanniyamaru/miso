@@ -9,13 +9,12 @@
 {id:5,name:"TGH+1",size:"M",cost:10,tgh:1}
 
 {group:"シールド系",prefixID:"SL",nextID:4}
-{id:1,name:"バックラー",size:"SS",cost:40}
-{id:2,name:"バイパーシールド",size:"L",cost:40,comment:["耐久値100","2021/11/2"]}
-{id:3,name:"スパイクシールド",type:"l",size:"LL",cost:90,sub:{str:100,pwr:28,rng:120,spd:400,itv:500},tunable:{pwp:1}}
+{id:4,neme:"シールド（cost:35）",cost:35,comment:["シールド耐久値93","以下同系パーツ","ハートシールド（イベント中域：ヴァンピレ）","クリスタライトシールド（各種コイン景品）","カタストロフシールド（プラチナチケット）","ヴェスピルシールド（各種コイン景品）","オネストシールド（プラチナチケット）"]}
+{id:1,name:"シールド（cost：40）",size:"M",cost:40,comment:["シールド耐久値100","以下同系パーツ","バックラー（SS）","キャンバスシールド（エンジェルコイン）","コフィンシールド（イベント中域：ヴァンピレ）","チョコレートシールド（イベント中域：ヴァンピレ）","プリンセスシールドR","トゥームシールド","コートシールド（スキロン初期装備）"]}
+{id:2,name:"バイパーシールド",size:"L",cost:40,comment:["シールド耐久値100","以下同系パーツ","ライオットシールド（シノーリス初期装備）","07式ライオットシールド（コラボイベント）"]}
+{id:3,name:"スパイクシールド",type:"l",size:"LL",cost:90,sub:{str:100,pwr:28,rng:120,spd:400,itv:500},tunable:{pwp:1},comment:"シールド耐久値180"}
 
-{id:4,name:"キャンバスシールド",size:"S",cost:40}
-{id:15,name:"クリスタライトシールド",size:"S",cost:35}
-{id:2108,name:"ナイトシールド",type:"l",size:"S",cost:50,main:{str:100,pwr:12,shl:150,rng:200,spd:480,itv:300},tunable:{mwp:1},comment:"STR依存"}
+{id:2108,name:"ナイトシールド",type:"l",size:"S",cost:50,main:{str:100,pwr:18,shl:200,rng:250,spd:480,itv:300},tunable:{mwp:1},comment:["シールド耐久値105","STR依存"]}
 {id:17,name:"ブリッツシールド",main:{spd:10,itv:1000,shl:50},sub:{pwr:27,rng:70,spd:85,itv:1000,str:100},type:"l",size:"S",cost:70,tunable:{mwp:1,pwp:1},comment:"B・ポーンジャーAr初期装備"}
 
 {id:20220802,name:"ユニオンシールドBRD",main:{str:100,pwr:0,shl:50,rng:0,spd:10,itv:1000},tunable:{mwp:1,pwp:0},type:"a",size:"M",cost:35,comment:["BRD:空戦のみ・ブースト回復効果"]}
