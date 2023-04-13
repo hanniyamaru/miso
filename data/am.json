@@ -159,7 +159,7 @@
 {id:29,name:"ビルダームAM",cost:35,hp:20,str:1,tec:1,wlk:2,tgh:1}
 
 {id:113,name:"ファルクラムAM",main:{pwr:14,shl:410,rng:275,spd:400,itv:400,tec:100},type:"a",cost:115,hp:20,str:-1,tec:3,wlk:1,fly:2,tunable:{mwp:1}}
-{id:114,name:"ファルクラムAM2",sub:{rng:100,spd:50,itv:500},cost:95,hp:20,tec:1,wlk:-1,fly:2,tgh:3,tunable:{pwp:0},type:"a",size:"SS",comment:"シールド耐久値不明"}
+{id:114,name:"ファルクラムAM2",sub:{rng:100,spd:50,itv:500},cost:75,hp:20,tec:1,wlk:-1,fly:2,tgh:3,tunable:{pwp:0},type:"a",size:"SS",comment:"シールド耐久値180"}
 {id:300,name:"フェアリスAM",cost:35,hp:20,str:1,tec:1,fly:2,tgh:1}
 {id:301,name:"フェアリスAM2",type:"a",cost:85,hp:20,str:-1,tec:3,wlk:1,fly:2,main:{pwr:7,shl:600,rng:275,spd:350,itv:300},tunable:{mwp:1},joint:{wp:1}}
 {id:149,name:"フォースドライブAM",main:{str:100,pwr:20,shl:50,rng:200,spd:570,itv:500},sub:{str:1030,pwr:28,rng:70,spd:85,itv:500},tunable:{pwp:1,mwp:1},type:"lacs",size:"S",cost:105,hp:20,str:2,tec:-1,wlk:2,fly:1,tgh:1,comment:"-",joint:{wp:0}}
@@ -470,7 +470,7 @@
 
 
 {id:186,name:"ハードボンバーAM",main:{tec:100,pwr:19,shl:250,rng:330,spd:480,itv:700},tunable:{mwp:1},type:"c",size:"M",cost:85,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
-{id:185,name:"ハードボンバーAM2",type:"lc",size:"S",cost:75,hp:20,wlk:1,fly:1,tgh:3,sub:{rng:100,spd:50,itv:500},joint:{wp:0},comment:["シールド耐久値100","2021/11/2"]}
+{id:185,name:"ハードボンバーAM2",type:"lc",size:"S",cost:65,hp:20,wlk:1,fly:1,tgh:3,sub:{rng:100,spd:50,itv:500},joint:{wp:0},comment:["シールド耐久値150"]}
 {id:202204142,name:"バイオロンAM",cost:35,hp:20,str:1,tec:1,wlk:1,tgh:2,comment:["アリーナコイン景品"]}
 
 {id:146,name:"ハイガクゥーンAM",sub:{tec:100,pwr:27,rng:70,spd:85,itv:500},tunable:{pwp:1},type:"lc",size:"M",cost:75,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
@@ -696,7 +696,7 @@
 {id:59,name:"シェイデンAM3",cost:40,hp:25,str:2,wlk:1,fly:1,tgh:1}
 {id:20230202,name:"シェイデン・リンAM",type:"a",size:"L",cost:105,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,main:{tec:100,pwr:15,shl:330,rng:275,spd:300,itv:600},tunable:{mwp:1},comment:["",""]}
 
-{id:154,name:"ジェネラルドAM",size:"L",type:"l",cost:35,hp:20,str:2,wlk:1,fly:-1,tgh:3,joint:{wp:2},fixedParts:{wp:{name:"ジェネラルシールド",cost:40,slot:0}},type:"l",comment:"シールド耐久値不明"}
+{id:154,name:"ジェネラルドAM",size:"L",type:"l",cost:35,hp:20,str:2,wlk:1,fly:-1,tgh:3,joint:{wp:2},fixedParts:{wp:{name:"ジェネラルシールド",cost:40,slot:0}},type:"l",comment:"シールド耐久値90"}
 {id:154109,name:"ジェネラルドAM(コンバージョン無し)",size:"L",type:"l",cost:35,hp:20,str:2,wlk:1,fly:-1,tgh:3,joint:{wp:2}}
 
 {id:155109,name:"ジェネラルドAM2",size:"L",type:"l",cost:35,hp:20,str:3,tec:-1,wlk:2,tgh:1,joint:{wp:1},fixedParts:{wp:{name:"ジェネラルブレード",main:{str:100,pwr:19,shl:180,rng:225,spd:440,itv:600},sub:{str:100,pwr:32,shl:0,rng:77,spd:94,itv:1000},tunable:{mwp:1,pwp:1},cost:200,slot:3}},size:"L",type:"l",comment:"ジェネラルブレードのみ装備可能"}
@@ -841,8 +841,8 @@
 {id:54,name:"ポセダインAM",main:{pwr:9,shl:480,rng:275,spd:280,itv:400},type:"a",size:"L",cost:85,hp:20,str:-1,tec:2,fly:2,tgh:2,tunable:{mwp:1}}
 {id:53,name:"ポセダインAM2",sub:{str:100,pwr:32,shl:200,rng:70,spd:85,itv:1000},type:"a",size:"L",cost:165,hp:20,str:3,tec:-1,fly:1,tgh:2,tunable:{pwp:1},joint:{wp:0}}
 
-{id:16,name:"マイティバインAM",type:"l",cost:135,hp:25,str:3,tec:-1,wlk:1,tgh:2,sub:{str:100,pwr:35,shl:40,rng:70,spd:85,itv:1000},tunable:{pwp:1},comment:"シールド耐久値60"}
-{id:17,name:"マイティバインAM2",type:"l",cost:80,hp:25,str:1,wlk:1,tgh:3,comment:"シールド耐久値60"}
+{id:16,name:"マイティバインAM",type:"l",cost:135,hp:25,str:3,tec:-1,wlk:1,tgh:2,sub:{str:100,pwr:35,shl:40,rng:70,spd:85,itv:1000},tunable:{pwp:1},comment:"シールド耐久値90"}
+{id:17,name:"マイティバインAM2",type:"l",cost:80,hp:25,str:1,wlk:1,tgh:3,comment:"シールド耐久値90"}
 
 {id:63,name:"マイトボンバーAM",main:{tec:100,pwr:5,shl:900,rng:250,spd:440,itv:140},tunable:{mwp:1},type:"a",cost:85,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,joint:{wp:0}}
 {id:64,name:"マイトボンバーAM2",main:{tec:100,pwr:25,shl:240,rng:275,spd:400,itv:720},tunable:{mwp:1},cost:115,hp:20,str:-1,tec:3,fly:2,type:"a",tgh:1,joint:{wp:0}}
@@ -908,7 +908,7 @@
 {id:20220416,name:"ケンタクロスAM2",type:"l",size:"LL",cost:175,hp:20,str:2,tec:-1,wlk:2,tgh:2,sub:{str:100,pwr:32,shl:0,rng:77,spd:94,itv:1000},tunable:{pwp:1},joint:{wp:0},comment:["ロボガラポン"]}
 
 {id:26,name:"サイクロテスAM4",sub:{str:100,pwr:28,rng:75,spd:200,itv:3000},tunable:{pwp:1},type:"l",size:"LL",cost:120,hp:25,str:4,tec:-1,wlk:1,tgh:1,joint:{wp:0},comment:"シールド耐久値75"}
-{id:202301123,name:"サジタルマクシス・CAM",size:"LL",cost:70,hp:25,str:1,tec:2,fly:-1,tgh:3,comment:"シールド耐久値不明"}
+{id:202301123,name:"サジタルマクシス・CAM",size:"LL",cost:70,hp:25,str:1,tec:2,fly:-1,tgh:3,comment:"シールド耐久値88"}
 {id:2023011231,name:"サジタルマクシス・CAM2",type:"c",size:"LL",cost:140,hp:25,str:-1,tec:3,tgh:3,main:{tec:100,pwr:20,shl:360,rng:350,spd:570,itv:300},tunable:{mwp:1},comment:"シールド耐久値不明"}
 
 {id:20,name:"ザリドAM",sub:{pwr:30,rng:70,spd:85,itv:1000,str:100},type:"l",cost:110,hp:25,str:3,tec:-1,wlk:1,tgh:2,tunable:{pwp:1}}
@@ -934,7 +934,7 @@
 {id:10,name:"ブレイズバロンAM6",main:{tec:100,pwr:9,shl:1080,rng:120,spd:480,itv:100},tunable:{mwp:1},type:"l",cost:200,hp:25,str:-1,tec:4,fly:1,tgh:1,joint:{wp:0},comment:"MM"}
 
 
-{id:160,name:"ペルセシウスAM2",size:"LL",cost:80,hp:25,str:1,tec:1,tgh:3,comment:"盾耐久値70 2021 2/12"}
+{id:160,name:"ペルセシウスAM2",size:"LL",cost:80,hp:25,str:1,tec:1,tgh:3,comment:"盾耐久値100"}
 {id:2022115,name:"ブレイズバロンAM5",sub:{pwr:33,shl:5,rng:70,spd:85,itv:1000,str:100},type:"l",cost:200,hp:25,str:4,tec:-1,wlk:1,tgh:1,tunable:{pwp:1},joint:{wp:0},comment:"大剣"}
 
 {id:1,name:"マイティバインAM3",type:"l",cost:155,hp:25,str:4,wlk:2,fly:-1,main:{str:100,pwr:9,shl:780,rng:150,spd:400,itv:500},sub:{str:100,pwr:38,shl:30,rng:70,spd:85,itv:500},tunable:{mwp:1,pwp:1},joint:{wp:0},comment:"-"}
@@ -942,8 +942,8 @@
 {id:20230204,name:"メガトンオーAM2",main:{tec:100,pwr:30,shl:260,rng:330,spd:360,itv:700},tunable:{mwp:1},type:"c",cost:105,hp:20,str:-1,tec:3,wlk:1,tgh:2,joint:{wp:0},comment:"リンクショット対応"}
 
 
-{id:222,name:"ランサーロットAM2",type:"l",cost:90,hp:25,wlk:2,fly:1,tgh:2,sub:{str:100,rng:100,spd:50,itv:500},tunable:{pwp:0},joint:{wp:0},comment:["無印、盾","盾耐久190","2021/11/2"]}
-{id:202209093,name:"ランサーロットAM7",type:"l",cost:90,hp:25,str:1,tec:1,wlk:1,fly:-1,tgh:3,sub:{str:100,rng:100,spd:50,itv:500},tunable:{pwp:0},joint:{wp:0},comment:["A、盾","盾耐久142？","実弾・爆風耐性50％","2022/9/8"]}
+{id:222,name:"ランサーロットAM2",type:"l",cost:70,hp:25,wlk:2,fly:1,tgh:2,sub:{str:100,rng:100,spd:50,itv:500},tunable:{pwp:0},joint:{wp:0},comment:["無印","シールド耐久値240"]}
+{id:202209093,name:"ランサーロットAM7",type:"l",cost:70,hp:25,str:1,tec:1,wlk:1,fly:-1,tgh:3,sub:{str:100,rng:100,spd:50,itv:500},tunable:{pwp:0},joint:{wp:0},comment:["A","シールド耐久値180","実弾・爆風耐性50％"]}
 
 
 {id:6,name:"レッドスクィラAM2",type:"l",cost:170,hp:25,str:4,tec:-1,tgh:2,sub:{str:100,pwr:34,rng:75,spd:150,itv:2000},tunable:{pwp:1},joint:{wp:0}}
@@ -995,7 +995,7 @@
 
 
 
-{id:40,name:"A.L.E.ラズフラムAMJ",sub:{rng:100,spd:50,itv:500},tunable:{pwp:0,mwp:0},type:"l",size:"SS",cost:60,slot:1,comment:"耐久値88　2021/2/10"}
+{id:40,name:"A.L.E.ラズフラムAMJ",sub:{rng:100,spd:50,itv:500},tunable:{pwp:0,mwp:0},type:"l",size:"SS",cost:50,slot:1,comment:"シールド耐久値135"}
 
 {id:401,name:"S・UバリアシューターAMJ",main:{pwr:11,shl:180,rng:300,spd:260,itv:500},tunable:{mwp:1},type:"c",size:"M",cost:60,str:-1,tgh:2,slot:1}
 
