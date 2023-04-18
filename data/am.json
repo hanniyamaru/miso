@@ -749,7 +749,7 @@
 
 {id:85,name:"ディースモークAM",type:"s",cost:105,hp:20,tec:2,tgh:3,tunable:{mwp:1},main:{pwr:6,shl:480,rng:250,spd:325,itv:400}}
 {id:151,name:"ディースモークAM2",cost:65,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,size:"L",joint:{am:1},fixedParts:{am:{name:"ディースモークAM2@",slot:0,joint:{wp:0}}},comment:"シールド耐久値80"}
-{id:20230112,name:"ディランアーカムAM",type:"a",size:"L",cost:70,hp:25,tec:2,fly:1,tgh:2,main:{tec:100,pwr:14,shl:390,rng:300,spd:400,itv:500},tunable:{mwp:0},comment:["AM@cost+30複合","武器チューン不可"]}
+{id:20230112,name:"ディランアーカムAM",type:"a",size:"L",cost:70,hp:25,tec:2,fly:1,tgh:2,main:{tec:100,pwr:14,shl:390,rng:300,spd:400,itv:500},tunable:{mwp:0},comment:["AM@cost+30複合","武器チューン不可","ビーム爆風100％"]}
 {id:113,name:"ディランアーカムAM（コンバージョンなし）",joint:{wp:1},size:"L",cost:40,hp:25,tec:2,fly:1,tgh:2}
 {id:99,name:"ティルージュAM",main:{pwr:[17,19,21],shl:[250,280,320],rng:275,spd:400,itv:[700,500,500]},sub:{tec:100,pwr:[28,29,30],shl:0,rng:70,spd:85,itv:1500},tunable:{mwp:1,pwp:1},joint:{am:1},fixedParts:{am:{name:"ティルージュAM@",slot:0,joint:{wp:0}}},cost:40,hp:25,str:-1,tec:2,fly:3,tgh:1,comment:["変形省略","内蔵強化対応"]}
 
