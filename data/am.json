@@ -600,7 +600,7 @@
 
 
 {id:95,name:"アーティラスAM",cost:40,hp:25,str:1,tec:1,wlk:1,fly:-1,tgh:3}
-{id:124,name:"アーティラスAM2",cost:95,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2,main:{pwr:22,shl:190,rng:330,spd:400,itv:900},tunable:{mwp:1},type:"c",size:"L",comment:["表記威力は分裂前の数値","アーティラス・ブラスト"]}
+{id:124,name:"アーティラスAM2",cost:95,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2,main:{tec:100,pwr:22,shl:190,rng:330,spd:400,itv:900},tunable:{mwp:1},type:"c",size:"L",comment:["分裂前：威力22（実弾100％）","分裂後：威力9（爆風属性100％）TEC別計算","アーティラス・ブラスト"]}
 
 {id:1,name:"アクイーアAM",cost:35,hp:20,str:2,tec:1,fly:1,tgh:1}
 {id:66,name:"アクイーア・エアーズAM",cost:35,hp:20,tec:2,wlk:-1,fly:2,tgh:2,size:"L",comment:["ロボガラポン"]}
