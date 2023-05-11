@@ -663,6 +663,7 @@
 {id:23,name:"ジーウェインBS",type:"a",cost:40,hp:25,tec:2,wlk:-1,fly:3,tgh:1}
 {id:85,name:"ジーウェイン・アーヴBS",type:"a",size:"L",cost:35,hp:20,fly:3,tgh:2}
 
+{id:202305122,name:"ジェットファルコンBS",sub:{str:100,pwr:0,shl:0,rng:0,spd:150,itv:500},type:"a",size:"L",cost:35,hp:20,str:-1,wlk:1,fly:3,tgh:2,comment:["TRANSFORM"]}
 {id:46109,name:"ジェネラルドBS",type:"l",cost:35,hp:20,str:-1,tec:1,wlk:1,fly:3,tgh:1}
 
 {id:22,name:"ジオグラシスBS",type:"l",cost:40,hp:25,str:1,wlk:1,fly:3}
