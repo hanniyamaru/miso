@@ -558,8 +558,7 @@
 {id:14,name:"シェイデンLG",cost:45,hp:45,str:1,tec:2,wlk:2,tgh:1}
 {id:46,name:"シェイデンLG2",cost:45,hp:45,str:-1,tec:2,wlk:2,fly:2,tgh:1}
 {id:20230202,name:"シェイデン・リンLG",type:"a",size:"L",cost:90,hp:45,str:-1,tec:2,wlk:2,fly:2,tgh:1,sub:{tec:100,pwr:20,shl:100,rng:275,spd:300,itv:1000},tunable:{pwp:0},comment:["",""]}
-{id:202305122,name:"ジェットファルコンLG",sub:{tec:100,pwr:5,shl:210,rng:275,spd:320,itv:1000},type:"a",size:"L",cost:75,hp:25,tec:1,wlk:2,fly:2,tgh:1,comment:[""]}
-
+{id:202305122,name:"ジェットファルコンLG",sub:{tec:100,pwr:5,shl:210,rng:275,spd:320,itv:1000},type:"a",size:"L",cost:75,hp:25,tec:1,wlk:2,fly:2,tgh:1,comment:[""],auraStat:{sub:{pwr:7}}}
 {id:65109,name:"ジェネラルドLG",cost:45,hp:25,str:1,tec:-1,wlk:4,tgh:2}
 
 
