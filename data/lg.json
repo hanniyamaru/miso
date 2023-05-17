@@ -568,6 +568,8 @@
 
 {id:26,name:"シュトルバンガーLG",cost:45,hp:45,tec:1,wlk:2,fly:1,tgh:2}
 {id:94,name:"シュトルバンガーLG2",cost:135,hp:50,str:-1,tec:2,wlk:3,tgh:2,sub:{tec:100,pwr:15,shl:30,rng:350,spd:290,itv:1000},type:"c",size:"L",comment:"シールド耐久値70"}
+
+{id:202305172,name:"消防なっちんLG",size:"L",cost:50,hp:50,str:-1,wlk:4,fly:1,tgh:2,comment:[""]}
 {id:202303092,name:"ジョストガンダーLG",size:"L",cost:50,hp:70,str:2,wlk:3,fly:-1,tgh:2,comment:["",""]}
 
 {id:42,name:"スケアガントLG",cost:45,hp:25,wlk:2,fly:1,tgh:3}
@@ -620,6 +622,8 @@
 {id:202205241,name:"パシファールLG2",sub:{pwr:9,shl:240,rng:275,spd:350,itv:1000,tec:100},tunable:{pwp:0},cost:90,hp:25,str:-1,tec:1,wlk:2,fly:2,tgh:2,type:"a",size:"L",builtin:{bs:1},comment:"水平移動LG？"}
 
 {id:121,name:"ハディロスLG",size:"L",type:"l",cost:45,hp:45,str:2,tec:-1,wlk:3,fly:1,tgh:1}
+{id:20230517,name:"パトなっちんLG",size:"L",cost:50,hp:50,tec:1,wlk:4,tgh:1,comment:[""]}
+
 
 
 {id:89,name:"バフデバスターLG",cost:45,hp:30,str:-1,tec:1,wlk:3,tgh:3}
@@ -669,6 +673,7 @@
 {id:17,name:"ランサーロットLG",cost:50,hp:50,str:1,tec:1,wlk:4}
 {id:202209093,name:"ランサーロットLG2",cost:45,hp:50,str:2,tec:-1,wlk:2,fly:2,tgh:1,comment:"ランサーロット・A"}
 
+{id:202305171,name:"陸自なっちんLG",sub:{str:100,pwr:0,shl:30,rng:100,spd:150,itv:1000},tunable:{pwp:0},size:"L",cost:70,hp:50,str:-1,tec:1,wlk:3,fly:1,tgh:2,comment:[""]}
 
 
 {id:22,name:"レッドスクィラLG",cost:45,hp:50,str:1,tec:-1,wlk:3,fly:1,tgh:2}
