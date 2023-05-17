@@ -322,7 +322,7 @@
 
 {id:29,name:"ラグナバレットBD",sub:{shl:[30],rng:100,spd:500,itv:1000},joint:{wp:1},cartridge:{hpup:10,lv1:"75*5@20|60*2@30|7@20|10@20|8@15|18@20|19@20|20@15|23@25|30@20|26@10|25@25|13@30|32@40|31@40"},fixedParts:{hd:{joint:{hd:1,fcac:0,hdac:0},name:"ラグナバレットHDJ",slot:1},wp:{name:"ラグナバレットBD@",cost:50,slot:0,main:{tec:100,pwr:[12,14],shl:[450,570],rng:350,spd:400,itv:400}}},cost:520,capa:945,hp:305,str:5,tec:16,wlk:9,fly:9,tgh:12,wbid:3,comment:["内蔵強化値不明","爆風70％"]}
 
-{id:202305171,name:"陸自なっちんBD",main:{tec:100,pwr:0,shl:10,rng:0,spd:0,itv:500},joint:{hdac:1,fcac:1,hd:0,wp:1},cartridge:{hpup:10,lv1:"75*6@20|7@20|10@20|8@15|18@20|19@20|20@15|23@25|22@30|25@25|21@20|26@10|13@30|32@40|31@40"},fixedParts:{wp:{name:"菊理ナツキ1尉"}},cost:555,capa:945,hp:325,str:5,tec:17,wlk:10,fly:9,tgh:15,wbid:4,size:"L",type:"c",comment:["Type.M",""]}
+{id:202305171,name:"陸自なっちんBD",sub:{tec:100,pwr:0,shl:10,rng:0,spd:0,itv:500},joint:{hdac:1,fcac:1,hd:0,wp:1},cartridge:{hpup:10,lv1:"75*6@20|7@20|10@20|8@15|18@20|19@20|20@15|23@25|22@30|25@25|21@20|26@10|13@30|32@40|31@40"},fixedParts:{wp:{name:"菊理ナツキ1尉"}},cost:555,capa:945,hp:325,str:5,tec:17,wlk:10,fly:9,tgh:15,wbid:4,size:"L",type:"c",comment:["Type.M",""]}
 
 
 
