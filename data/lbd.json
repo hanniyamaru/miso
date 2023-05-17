@@ -438,9 +438,9 @@
 
 {id:202210065,name:"ハティガルムBD4",sub:{tec:100,pwr:[10,12,15],shl:[560],rng:[250,260,275],spd:[320,340,360],itv:1000},cost:560,capa:945,hp:305,str:5,tec:14,wlk:12,fly:8,tgh:12,cartridge:{hpup:10,lv1:"75*5@20|60*2@30|7@20|9@20|10@15|17@15|18@15|20@15|23@25|25@25|30@20|26@20|13@30|32@50|31@40"},joint:{hd:3,bs:0},builtin:{bs:1},fixedParts:{lg:{name:"ハティガルムLG4",sub:{tec:100,pwr:[10],shl:30,rng:100,spd:[250],itv:[1000]},cost:80,hp:70,tec:1,wlk:4,tgh:1,slot:3}},comment:["ハティガルム・ヘル","BD4@2cost+70複合","BD4@省略"]}
 
-
-
 {id:63,name:"ハディロスBD",sub:{shl:0,rng:150,spd:350,itv:1000},cost:520,hp:305,str:14,tec:5,wlk:14,fly:6,tgh:12,capa:945,cartridge:{hpup:10,lv1:"75*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|11@20|25@25|26@20|21@20|13@30|32@50|31@40"},comment:"CT4秒"}
+
+{id:20230517,name:"パトなっちんBD",main:{tec:100,pwr:0,shl:10,rng:0,spd:0,itv:500},joint:{hdac:1,fcac:1,hd:0,wp:1},cartridge:{hpup:10,lv1:"75*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|25@25|26@20|21@20|13@30|32@50|31@40"},fixedParts:{wp:{name:"菊理ナツキ警部補"}},cost:555,capa:945,hp:325,str:5,tec:17,wlk:14,fly:8,tgh:12,wbid:0,size:"L",type:"l",comment:["Type.I",""]}
 
 {id:28,name:"ファルクスBD",cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|12@20|16@15|21@20|15@15|13@30|32@50|31@40"},cost:445,capa:870,hp:290,str:11,tec:5,wlk:14,fly:7,tgh:11}
 {id:30,name:"ブリガバロンBD",cartridge:{hpup:10,lv1:"75*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|16@20|29@15|15@15|12@20|13@30|32@50|31@40"},cost:490,capa:945,hp:305,str:11,tec:3,wlk:11,fly:8,tgh:18,size:"L",type:"l"}
