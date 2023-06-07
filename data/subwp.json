@@ -179,22 +179,12 @@
 {id:20230517,name:"07式作業用ピッケル",sub:{str:100,pwr:32,shl:0,rng:70,spd:85,itv:1000},tunable:{pwp:1},type:"lcs",size:"L",cost:110,comment:["",""]}
 
 
-{group:"subコンバージョン",prefixID:"SO",nextID:17}
+{group:"subコンバージョン（順不同）",prefixID:"SO",nextID:17}
 {id:40,name:"グラッドチェーンソー",sub:{pwr:32,rng:[70],spd:[85],itv:500,str:100},type:"l",size:"S",slot:3,comment:"クルール・グラッド専用コンバージョンパーツ",cost:60,tunable:{mwp:0,pwp:1}}
 
 {id:1010,name:"プチ桜雷切",main:{str:100,pwr:15,shl:220,rng:225,spd:400,itv:500}
 ,sub:{str:100,pwr:28,rng:81,spd:98,itv:500},type:"s",size:"S",cost:100}
 
-{id:74,name:"獄卒の勾玉",slot:0,type:"l",size:"S",comment:"サクラAM2専用コンバージョンパーツ",joint:{wp:4}}
-{id:75,name:"すけだちの刀",sub:{pwr:28,rng:70,spd:85,itv:2000,str:100},cost:50,tunable:{pwp:1},type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
-{id:76,name:"杉の一本槍",sub:{str:100,pwr:25,rng:90,spd:110,itv:2000},cost:50,tunable:{pwp:1},type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
-{id:77,name:"文殊の守り",sub:{str:100,pwr:25,rng:150,spd:85,itv:2000},cost:50,type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
-{id:78,name:"雀子弓",main:{str:100,pwr:20,shl:50,rng:200,spd:570,itv:500},sub:{str:100,pwr:10,rng:150,spd:85,itv:2000},cost:50,type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
-
-{id:79,name:"名刀兼光",sub:{pwr:30,rng:70,spd:85,itv:2000,str:100},cost:70,tunable:{pwp:1},type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
-{id:80,name:"御手杵",sub:{pwr:25,rng:90,spd:110,itv:2000,str:100},cost:70,tunable:{pwp:1},type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
-{id:81,name:"日光の守り",sub:{str:100,pwr:22,rng:150,spd:85,itv:2000},cost:70,type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
-{id:82,name:"鏑の弓",main:{str:100,pwr:10,shl:120,rng:200,spd:570,itv:400},sub:{str:100,pwr:24,rng:150,spd:85,itv:2000},cost:70,type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
 
 {id:116,name:"キャプテンアンカー",main:{str:100,pwr:20,shl:50,rng:200,spd:400,itv:500},sub:{str:100,pwr:28,rng:0,spd:0,itv:1000},joint:{wp:1},type:"l",size:"S",comment:"キャプテンサニー専用コンバージョンパーツ",slot:0,cost:110}
 {id:117,name:"キャプテンアンカー@",main:{tec:100,shl:50,spd:10,itv:1000},sub:{str:100,pwr:30,rng:70,spd:85,itv:500},tunable:{mwp:1,pwp:1},cost:120,type:"l",size:"S",comment:"キャプテンアンカーにのみ接続可能"}
@@ -228,6 +218,20 @@
 
 
 {id:186,name:"スカラベスBS2@",sub:{pwr:1,shl:30,rng:0,spd:200,itv:1000,str:100},cost:30,slot:0,size:"M",type:"c",comment:"スカラベスBS2専用コンバージョンパーツ"}
+{id:20230607,name:"オーガヒルBD2@",sub:{tec:100,pwr:10,shl:20,rng:300,spd:250,itv:500},tunable:{pwp:0},type:"c",size:"M",cost:30,comment:["オーガヒルBD3専用コンバージョンパーツ","メルト効果","イグニス"]}
+
+{group:"さくらコンバージョン",prefixID:"MOx",commonStat:{tunable:{pwp:1}},nextID:17}
+{id:74,name:"獄卒の勾玉",slot:0,type:"l",size:"S",comment:"サクラAM2専用コンバージョンパーツ",joint:{wp:4}}
+{id:75,name:"すけだちの刀",sub:{pwr:28,rng:70,spd:85,itv:2000,str:100},cost:50,tunable:{pwp:1},type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
+{id:76,name:"杉の一本槍",sub:{str:100,pwr:25,rng:90,spd:110,itv:2000},cost:50,tunable:{pwp:1},type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
+{id:77,name:"文殊の守り",sub:{str:100,pwr:25,rng:150,spd:85,itv:2000},cost:50,type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
+{id:78,name:"雀子弓",main:{str:100,pwr:20,shl:50,rng:200,spd:570,itv:500},sub:{str:100,pwr:10,rng:150,spd:85,itv:2000},cost:50,type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
+
+{id:79,name:"名刀兼光",sub:{pwr:30,rng:70,spd:85,itv:2000,str:100},cost:70,tunable:{pwp:1},type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
+{id:80,name:"御手杵",sub:{pwr:25,rng:90,spd:110,itv:2000,str:100},cost:70,tunable:{pwp:1},type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
+{id:81,name:"日光の守り",sub:{str:100,pwr:22,rng:150,spd:85,itv:2000},cost:70,type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
+{id:82,name:"鏑の弓",main:{str:100,pwr:10,shl:120,rng:200,spd:570,itv:400},sub:{str:100,pwr:24,rng:150,spd:85,itv:2000},cost:70,type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
+
 
 {group:"ナイトフィアーコンバージョン",prefixID:"MOx",commonStat:{tunable:{pwp:1}},nextID:17}
 {id:20220604,name:"フォビアンソード",sub:{str:100,pwr:32,rng:100,spd:150,itv:2000},tunable:{pwp:1},cost:100,type:"l",size:"M",comment:"ナイトフィアーAMにのみ装着可能"}
