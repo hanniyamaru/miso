@@ -332,7 +332,8 @@
 
 {id:127,name:"オーガヒルAM",main:{pwr:6,shl:410,rng:350,spd:480,itv:540},tunable:{mwp:1},fixedParts:{wp:{name:"オーガヒルAM@",main:{pwr:8,shl:420,rng:330,spd:290,itv:600},slot:0}},type:"c",cost:135,hp:25,str:-1,tec:3,tgh:3,comment:"AM@cost45合算"}
 {id:175,name:"オーガヒルAM2",main:{pwr:19,shl:300,rng:350,spd:230,itv:500},type:"c",cost:110,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2,comment:"AM@cost+70複合"}
-  
+  {id:20230607,name:"オーガヒルAM3",main:{tec:100,pwr:14,shl:380,rng:350,spd:305,itv:520},tunable:{mwp:0},type:"c",size:"M",cost:75,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,comment:["AM3@複合","武器チューン不可","イグニス"]}
+
 {id:4,name:"ガシマAM",type:"c",cost:115,hp:25,tec:2,fly:1,tgh:2,main:{pwr:11,shl:460,rng:350,spd:400,itv:600},tunable:{mwp:1},joint:{wp:0}}
 {id:5,name:"ガシマAM2",type:"c",cost:140,hp:25,tec:2,wlk:1,tgh:2,main:{pwr:20,shl:360,rng:330,spd:290,itv:900},tunable:{mwp:1},joint:{wp:0}}
 {id:6,name:"ガシマAM3",type:"c",size:"M",cost:105,hp:25,str:-1,tec:3,wlk:1,fly:1,tgh:1,main:{pwr:13,shl:1060,rng:330,spd:400,itv:1000},tunable:{mwp:1},joint:{wp:0},comment:"SHOTGUN"}
