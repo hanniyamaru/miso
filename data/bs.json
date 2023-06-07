@@ -361,6 +361,7 @@
 
 {id:108,name:"オーガヒルBS",type:"c",cost:40,hp:25,str:1,tec:2,fly:2}
 {id:166,name:"オーガヒルBS2",sub:{tec:100,pwr:12,shl:300,rng:300,spd:350,itv:1000},type:"c",size:"M",cost:120,hp:25,str:-1,tec:2,wlk:-1,fly:3,tgh:2}
+{id:20230607,name:"オーガヒルBS3",main:{tec:100,pwr:9,shl:520,rng:330,spd:280,itv:1100},tunable:{mwp:1},type:"c",size:"M",cost:125,hp:20,tec:3,wlk:-1,fly:2,tgh:1,comment:["確率バーニング効果","イグニス"]}
 
 {id:153,name:"ガゥディアンBS",main:{tec:100,pwr:14,shl:500,rng:275,spd:220,itv:800},sub:{tec:100,pwr:14,shl:40,rng:250,spd:320,itv:1000},tunable:{mwp:1,pwp:0},type:"s",cost:115,hp:20,str:-1,tec:2,fly:3,tgh:1,size:"M"}
 
