@@ -351,8 +351,6 @@
 {id:119,name:"インパクトアロー",main:{pwr:22,shl:230,rng:225,spd:480,itv:600},type:"l",size:"M",cost:30,comment:"ロビンハンターAM専用コンバージョンパーツ",slot:0}
 
 
-
-
 {id:67,name:"エアリーデ・ビットα",main:{pwr:[4,5,6],shl:[840],rng:275,spd:440,itv:900},size:"S",type:"a",slot:0,cost:70,comment:"ビットホルダー専用コンバージョンパーツ"}
 {id:68,name:"エアリーデ・ビットβ",main:{pwr:[6,7,8],shl:[920],rng:275,spd:400,itv:380},size:"S",type:"a",slot:0,cost:100,comment:"ビットホルダー専用コンバージョンパーツ"}
 
@@ -363,7 +361,7 @@
 
 
 {id:148,name:"カイゼルゲヴィッター",main:{pwr:10,shl:390,rng:300,spd:480,itv:300},sub:{str:100,pwr:20,shl:0,rng:75,spd:200,itv:1000},tunable:{mwp:1,pwp:1},type:"c",size:"L",comment:"ヘルトカイゼルAM専用コンバージョンパーツ",cost:70}
-{id:97,name:"クリスタルウォール",main:{pwr:2,shl:1740,rng:275,spd:340,itv:200},tunable:{mwp:1},comment:["フラクタリスガール専用コンバージョンパーツ","変形省略"],type:"a",size:"M",cost:90}
+
 {id:138,name:"機巧刀･迦具土",main:{tec:100,pwr:11,shl:750,rng:350,spd:280,itv:1000},tunable:{mwp:1},type:"c",size:"M",cost:130,comment:"ホムラ・イサミネ専用コンバージョン"}
 {id:25,name:"スパイクシューター",main:{str:100,pwr:[5],shl:[700],rng:225,spd:400,itv:140},sub:{str:100,pwr:6,rng:250,spd:500,itv:1000},comment:"クルール・グラッド専用コンバージョンパーツ",type:"l",size:"S",cost:60,slot:3}
 
@@ -378,7 +376,6 @@
 
 {id:202208031,name:"パラセクター・アシスBD@",type:"l",cost:60,main:{str:100,pwr:25,shl:15,rng:0,spd:10,itv:700},slot:0}
 {id:502,name:"パワーアロー",main:{pwr:28,shl:230,rng:225,spd:480,itv:700},type:"l",size:"M",cost:30,comment:"ロビンハンターAM専用コンバージョンパーツ",slot:0}
-{id:96,name:"ビームクリスタル",main:{pwr:11,shl:500,rng:275,spd:440,itv:700},tunable:{mwp:1},type:"a",size:"S",cost:70,comment:"フラクタリスガール専用コンバージョンパーツ"}
 
 {id:20220623,name:"プチもふもふケープ",main:{str:100,pwr:10,shl:30,rng:150,spd:400,itv:1000},cost:40,type:"s",size:"SS",comment:"ましろ専用コンバージョンパーツ",slot:3}
 
@@ -560,6 +557,12 @@
 {id:45,name:"ドラグーンソード",sub:{tec:100,pwr:18,shl:300,rng:350,spd:280,itv:1000},type:"c",size:"S",comment:"フィーリア専用コンバーションパーツ",cost:90,slot:0,joint:{wp:1}}
 {id:46,name:"ドラグーンソード@",type:"c",size:"S",comment:"ドラグーンソードコンバーションパーツ",cost:90,main:{tec:100,pwr:28,shl:400,rng:330,spd:440,itv:700},tunable:{mwp:1}}
 {id:2022113,name:"ファイヤーブレス",type:"c",size:"S",cost:50,main:{tec:100,pwr:35,shl:100,rng:350,spd:400,itv:1000},slot:0}
+
+{group:"フラクタリスガールコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
+{id:97,name:"クリスタルウォール",main:{pwr:4,shl:2100,rng:300,spd:370,itv:200},tunable:{mwp:1},comment:["フラクタリスガール専用コンバージョンパーツ","変形省略"],type:"a",size:"M",cost:90}
+{id:96,name:"ビームクリスタル",main:{pwr:15,shl:580,rng:275,spd:440,itv:700},tunable:{mwp:1},type:"a",size:"S",cost:70,comment:"フラクタリスガール専用コンバージョンパーツ"}
+
+
 
 {group:"プロメコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:202302021,name:"ダンシングスロー",main:{tec:100,pwr:5,shl:270,rng:200,spd:570,itv:500},slot:0,type:"s",size:"S",cost:30,comment:["プロメ専用コンバージョンパーツ",""]}
