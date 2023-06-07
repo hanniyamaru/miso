@@ -181,7 +181,7 @@
 
 {group:"subコンバージョン（順不同）",prefixID:"MOx",nextID:17}
 {id:127,name:"ヴァリアントBD@",sub:{str:100,spd:150,itv:500},type:"a",size:"M",cost:230,slot:0}
-{id:20230607,name:"オーガヒルBD2@",sub:{tec:100,pwr:10,shl:20,rng:300,spd:250,itv:500},tunable:{pwp:0},type:"c",size:"M",cost:30,slot:0,comment:["オーガヒルBD3専用コンバージョンパーツ","メルト効果","イグニス"]}
+{id:20230608,name:"オーガヒルBD2@",sub:{tec:100,pwr:10,shl:20,rng:300,spd:250,itv:500},tunable:{pwp:0},type:"c",size:"M",cost:30,slot:0,comment:["オーガヒルBD3専用コンバージョンパーツ","メルト効果","イグニス"]}
 
 
 {id:100,name:"クリーガーシルト",main:{shl:50,spd:10,itv:1000},sub:{str:100,pwr:32,rng:70,spd:85,itv:500},comment:["コロナAM専用コンバージョンパーツ1","メルト効果時間4秒"],comment:"コロナAM専用コンバージョンパーツ",cost:120,size:"S",type:"l",tunable:{mwp:1,pwp:1},fixedParts:{wp:{name:"クリーガーシルト＠",sub:{str:100,pwr:30,rng:120,spd:200,itv:1000},cost:50,slot:0,type:"l",size:"S"}},joint:{wp:1}}
@@ -198,7 +198,7 @@
 {id:28,name:"ブレイブランス",sub:{str:100,pwr:28,rng:120,spd:250,itv:500},type:"l",size:"M",cost:50,slot:0,comment:"ソルブレンサーAMにのみ装着可能"}
 
 {id:44,name:"ライザーブレス",size:"M",type:"l",cost:210,comment:"アストライザー専用コンバージョンパーツ",sub:{itv:500},slot:0}
-{id:202306071,name:"ラビリンアクス",main:{pwr:14,shl:600,rng:350,spd:330,itv:340,tec:100},sub:{tec:100,pwr:30,shl:120,rng:350,spd:290,itv:1000},type:"c",size:"S",cost:225,comment:"ミルル・ミゥ専用コンバージョンパーツ",tunable:{pwp:0,mwp:1}}
+{id:202306081,name:"ラビリンアクス",main:{pwr:14,shl:600,rng:350,spd:330,itv:340,tec:100},sub:{tec:100,pwr:30,shl:120,rng:350,spd:290,itv:1000},type:"c",size:"S",cost:225,comment:"ミルル・ミゥ専用コンバージョンパーツ",tunable:{pwp:0,mwp:1}}
 {id:93,name:"霊葬双櫂",sub:{pwr:32,rng:77,spd:94,itv:500,str:100},tunable:{pwp:1},cost:100,size:"S",type:"l",comment:"カエデAM専用コンバージョンパーツ"}
 
 {id:53,name:"O.N.T.マチェット",sub:{pwr:32,rng:77,spd:94,itv:1000,tec:100},tunable:{pwp:1},type:"c",size:"S",cost:10,comment:["如月アンコ専用コンバージョンパーツ","-"]}
@@ -214,9 +214,9 @@
 
 
 {group:"さくらコンバージョン",prefixID:"MOx",commonStat:{tunable:{pwp:1}},nextID:17}
-{id:202306072,name:"獄卒の勾玉",slot:0,type:"l",size:"S",comment:"サクラAM2専用コンバージョンパーツ",joint:{wp:4}}
-{id:202306073,name:"すけだちの刀",sub:{pwr:28,rng:70,spd:85,itv:2000,str:100},cost:50,tunable:{pwp:1},type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
-{id:202306074,name:"杉の一本槍",sub:{str:100,pwr:25,rng:90,spd:110,itv:2000},cost:50,tunable:{pwp:1},type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
+{id:202306082,name:"獄卒の勾玉",slot:0,type:"l",size:"S",comment:"サクラAM2専用コンバージョンパーツ",joint:{wp:4}}
+{id:202306083,name:"すけだちの刀",sub:{pwr:28,rng:70,spd:85,itv:2000,str:100},cost:50,tunable:{pwp:1},type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
+{id:202306084,name:"杉の一本槍",sub:{str:100,pwr:25,rng:90,spd:110,itv:2000},cost:50,tunable:{pwp:1},type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
 {id:77,name:"文殊の守り",sub:{str:100,pwr:25,rng:150,spd:85,itv:2000},cost:50,type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
 {id:78,name:"雀子弓",main:{str:100,pwr:20,shl:50,rng:200,spd:570,itv:500},sub:{str:100,pwr:10,rng:150,spd:85,itv:2000},cost:50,type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
 
@@ -236,10 +236,10 @@
 {id:202206042,name:"フォビアンアクス",sub:{str:100,pwr:28,shl:30,rng:200,spd:290,itv:1000},type:"l",size:"M",cost:50,slot:0,comment:"ナイトフィアーAMにのみ装着可能"}
 
 {group:"ベスティアコンバージョン",prefixID:"MOx",commonStat:{tunable:{pwp:1}},nextID:17}
-{id:202306075,name:"サーペントウィップ",sub:{pwr:32,rng:90,spd:110,itv:1000,str:100},tunable:{pwp:1},cost:90,size:"S",comment:"ベスティア専用コンバージョンパーツ",type:"l"}
+{id:202306085,name:"サーペントウィップ",sub:{pwr:32,rng:90,spd:110,itv:1000,str:100},tunable:{pwp:1},cost:90,size:"S",comment:"ベスティア専用コンバージョンパーツ",type:"l"}
 {id:451,name:"バニッシュストライカー",main:{str:100,pwr:20,shl:50,rng:200,spd:200,itv:1000},sub:{str:100,pwr:35,shl:0,rng:90,spd:250,itv:2000},type:"l",size:"S",cost:80,comment:"ベスティア専用コンバージョンパーツ",tunable:{pwp:1,mwp:1}}
 
 
 {group:"ピナ・ルベリーコンバージョン",prefixID:"MOx",commonStat:{tunable:{pwp:1}},nextID:17}
-{id:202306076,name:"ドリルパワー",sub:{pwr:32,rng:77,spd:94,itv:1000,str:100},tunable:{pwp:1},slot:0,type:"l",size:"S",cost:140,comment:"ピナ･ルベリーBD専用コンバージョンパーツ"}
-{id:202306077,name:"ピナテール",fixedParts:{wp:{name:"ディグドリル",main:{str:100,pwr:25,shl:50,rng:200,spd:500,itv:1000},sub:{pwr:18,shl:50,rng:200,spd:300,itv:500,str:100},type:"l",size:"M",slot:0}},type:"l",size:"M",cost:100,slot:0,comment:"ピナ･ルベリーLG専用コンバージョンパーツ",joint:{wp:1},sub:{str:100}}
+{id:202306086,name:"ドリルパワー",sub:{pwr:32,rng:77,spd:94,itv:1000,str:100},tunable:{pwp:1},slot:0,type:"l",size:"S",cost:140,comment:"ピナ･ルベリーBD専用コンバージョンパーツ"}
+{id:202306087,name:"ピナテール",fixedParts:{wp:{name:"ディグドリル",main:{str:100,pwr:25,shl:50,rng:200,spd:500,itv:1000},sub:{pwr:18,shl:50,rng:200,spd:300,itv:500,str:100},type:"l",size:"M",slot:0}},type:"l",size:"M",cost:100,slot:0,comment:"ピナ･ルベリーLG専用コンバージョンパーツ",joint:{wp:1},sub:{str:100}}
