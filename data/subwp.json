@@ -181,7 +181,7 @@
 
 {group:"subコンバージョン（順不同）",prefixID:"MOx",nextID:17}
 {id:127,name:"ヴァリアントBD@",sub:{str:100,spd:150,itv:500},type:"a",size:"M",cost:230,slot:0}
-{id:20230608,name:"オーガヒルBD2@",sub:{tec:100,pwr:10,shl:20,rng:300,spd:250,itv:500},tunable:{pwp:0},type:"c",size:"M",cost:30,slot:0,comment:["オーガヒルBD3専用コンバージョンパーツ","メルト効果","イグニス"]}
+{id:20230608,name:"オーガヒルBD2@",sub:{tec:100,pwr:10,shl:20,rng:300,spd:250,itv:500},tunable:{pwp:0},type:"c",size:"M",cost:30,slot:0,comment:["オーガヒルBD2専用コンバージョンパーツ","メルト効果","イグニス"]}
 
 
 {id:100,name:"クリーガーシルト",main:{shl:50,spd:10,itv:1000},sub:{str:100,pwr:32,rng:70,spd:85,itv:500},comment:["コロナAM専用コンバージョンパーツ1","メルト効果時間4秒"],comment:"コロナAM専用コンバージョンパーツ",cost:120,size:"S",type:"l",tunable:{mwp:1,pwp:1},fixedParts:{wp:{name:"クリーガーシルト＠",sub:{str:100,pwr:30,rng:120,spd:200,itv:1000},cost:50,slot:0,type:"l",size:"S"}},joint:{wp:1}}
