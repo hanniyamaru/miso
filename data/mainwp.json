@@ -613,6 +613,10 @@
 
 
 {group:"ルーシェコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
+
+{id:20230607,name:"エクセレントバリアボール",main:{tec:100,pwr:27,shl:80,rng:330,spd:400,itv:1000},type:"c",size:"S",cost:70,slot:3,comment:["","ルーシェAM専用コンバージョンパーツ"]}
+{id:202306071,name:"ハイパーバリアバースト",main:{tec:100,pwr:16,shl:530,rng:330,spd:290,itv:340},type:"c",size:"S",cost:130,slot:3,comment:["","ルーシェAM専用コンバージョンパーツ"]}
+
 {id:20220803,name:"バトルフレームRα",main:{tec:100,pwr:7,shl:720,rng:300,spd:360,itv:1000},sub:{tec:100,pwr:16,shl:300,rng:300,spd:260,itv:1000},type:"s",size:"S",cost:140,comment:["ルーシェSwmBF用コンバージョンパーツ"]}
 {id:48,name:"バトルフレームRβ",main:{pwr:0,shl:20,rng:300,spd:300,itv:1000},type:"s",size:"S",cost:40,slot:0,comment:["実弾無効バリア","ルーシェSwmBF用コンバージョンパーツ"]}
 
