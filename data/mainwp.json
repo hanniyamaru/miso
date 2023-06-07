@@ -559,8 +559,10 @@
 {id:2022113,name:"ファイヤーブレス",type:"c",size:"S",cost:50,main:{tec:100,pwr:35,shl:100,rng:350,spd:400,itv:1000},slot:0}
 
 {group:"フラクタリスガールコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
-{id:97,name:"クリスタルウォール",main:{pwr:4,shl:2100,rng:300,spd:370,itv:200},tunable:{mwp:1},comment:["フラクタリスガール専用コンバージョンパーツ","変形省略"],type:"a",size:"M",cost:90}
+{id:97,name:"クリスタルウォール",main:{pwr:4,shl:2100,rng:300,spd:370,itv:200},tunable:{mwp:1},comment:["フラクタリスガール専用コンバージョンパーツ","変形省略"],type:"a",size:"M",cost:90,slot:0}
+{id:202306072,name:"クリスタルウォールⅡ",main:{pwr:7,shl:840,rng:300,spd:370,itv:700},tunable:{mwp:1},comment:["フラクタリスガール専用コンバージョンパーツ","変形省略"],type:"a",size:"M",cost:90,slot:0}
 {id:96,name:"ビームクリスタル",main:{pwr:15,shl:580,rng:275,spd:440,itv:700},tunable:{mwp:1},type:"a",size:"S",cost:70,comment:"フラクタリスガール専用コンバージョンパーツ"}
+{id:202306073,name:"ビームクリスタルRu",main:{pwr:13,shl:580,rng:250,spd:440,itv:700},tunable:{mwp:1},type:"a",size:"S",cost:70,comment:["パワーレス効果","フラクタリスガール専用コンバージョンパーツ","RU"]}
 
 
 
