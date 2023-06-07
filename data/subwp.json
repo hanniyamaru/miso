@@ -190,7 +190,7 @@
 {id:186,name:"スカラベスBS2@",sub:{pwr:1,shl:30,rng:0,spd:200,itv:1000,str:100},cost:30,slot:0,size:"M",type:"c",comment:"スカラベスBS2専用コンバージョンパーツ"}
 {id:168,name:"スパーダBD@",sub:{pwr:30,shl:0,rng:100,spd:150,itv:2000,str:100},auraStat:{sub:{pwr:30,shl:0,rng:100,spd:150,itv:2000,str:100}},comment:"スパーダBD専用コンバージョンパーツ",slot:0,cost:20,type:"l",size:"M"}
 
-{id:500,name:"トランスフォーム",sub:{pwr:0,rng:0,spd:150,itv:500,str:100},slot:0,cost:50,capa:50,tunable:{pwp:0},type:"a",size:"M",comment:"フラップジャックBD専用コンバージョンパーツ"}
+{id:202306088,name:"トランスフォーム",sub:{pwr:0,rng:0,spd:150,itv:500,str:100},slot:0,cost:50,capa:50,tunable:{pwp:0},type:"a",size:"M",comment:"フラップジャックBD専用コンバージョンパーツ"}
 {id:1010,name:"プチ桜雷切",main:{str:100,pwr:15,shl:220,rng:225,spd:400,itv:500},sub:{str:100,pwr:28,rng:81,spd:98,itv:500},type:"s",size:"S",cost:100}
 
 
