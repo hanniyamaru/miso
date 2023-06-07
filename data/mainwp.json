@@ -363,7 +363,6 @@
 {id:148,name:"カイゼルゲヴィッター",main:{pwr:10,shl:390,rng:300,spd:480,itv:300},sub:{str:100,pwr:20,shl:0,rng:75,spd:200,itv:1000},tunable:{mwp:1,pwp:1},type:"c",size:"L",comment:"ヘルトカイゼルAM専用コンバージョンパーツ",cost:70}
 
 {id:138,name:"機巧刀･迦具土",main:{tec:100,pwr:11,shl:750,rng:350,spd:280,itv:1000},tunable:{mwp:1},type:"c",size:"M",cost:130,comment:"ホムラ・イサミネ専用コンバージョン"}
-{id:25,name:"スパイクシューター",main:{str:100,pwr:[5],shl:[700],rng:225,spd:400,itv:140},sub:{str:100,pwr:6,rng:250,spd:500,itv:1000},comment:"クルール・グラッド専用コンバージョンパーツ",type:"l",size:"S",cost:60,slot:3}
 
 
 {id:202204173,name:"スタンホーミングビーム",main:{str:100,pwr:5,shl:100,rng:275,spd:320,itv:500},type:"a",size:"S",cost:35,comment:"クレアモルテBD専用コンバージョンパーツ",tunable:{mwp:1}}
