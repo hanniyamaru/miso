@@ -97,6 +97,7 @@
 {id:33,name:"ヒートガトリング",main:{tec:100,pwr:10,shl:1200,rng:330,spd:440,itv:140},size:"M",cost:160,type:"c"}
 {id:20220909,name:"ミニマシンガン",size:"M",cost:70,main:{tec:100,pwr:8,shl:800,rng:180,spd:400,itv:140,comment:"ジオグラシス初期装備"}}
 {id:20230407,name:"07式サブマシンガン",size:"M",cost:130,main:{tec:100,pwr:13,shl:1440,rng:160,spd:480,itv:140},type:"lc",comment:"コラボイベントオーダー景品"}
+{id:202306095,name:"ウォーターガトリング",main:{tec:100,pwr:8,shl:200,rng:200,spd:400,itv:140},sub:{str:100,pwr:0,shl:0,rng:0,spd:0,itv:500},tunable:{mwp:1},size:"S",cost:100,comment:["梅雨イベント2023オーダー景品",""]}
 
 
 {group:"ライフル系",prefixID:"LF",commonStat:{tunable:{mwp:1}},nextID:24}
@@ -341,6 +342,8 @@
 {id:20220807,name:"トルネードファン",type:"a",size:"L",cost:120,main:{pwr:20,shl:320,rng:275,spd:260,itv:600},comment:"コーテング初期装備"}
 {id:202302161,name:"ガドラガン",main:{tec:100,pwr:22,shl:360,rng:250,spd:440,itv:500},tunable:{mwp:1},type:"s",size:"M",cost:120,comment:["パーツクリエイト",""]}
 {id:202303092,name:"ビットガン",main:{tec:100,pwr:7,shl:840,rng:275,spd:280,itv:900},tunable:{mwp:1},type:"a",size:"S",cost:120,comment:["マッハナイト・ゼロ初期装備"]}
+{id:202306096,name:"ウォーターポットα",main:{tec:100,pwr:14,shl:100,rng:225,spd:400,itv:500},sub:{str:100,pwr:0,shl:0,rng:0,spd:0,itv:500},tunable:{mwp:1},size:"S",cost:50,comment:["梅雨イベント2023オーダー景品",""]}
+{id:202306097,name:"ウォーターポットβ",main:{tec:100,pwr:24,shl:100,rng:225,spd:400,itv:600},sub:{str:100,pwr:0,shl:0,rng:0,spd:0,itv:500},tunable:{mwp:1},size:"S",type:"lcs",cost:120,comment:["梅雨イベント2023オーダー景品",""]}
 
 
 {group:"mainコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
