@@ -668,6 +668,7 @@
 {id:168,name:"クルージスAM",main:{tec:100,pwr:16,shl:540,rng:275,spd:320,itv:600},tunable:{mwp:1},type:"a",size:"L",cost:105,hp:20,tec:3,wlk:-1,fly:2,tgh:1,joint:{wp:0}}
 {id:46,name:"クロコダガーAM",cost:35,hp:20,str:3,tec:1,tgh:1}
 {id:5,name:"ケンタクロスAM",cost:35,hp:20,str:2,wlk:1,tgh:2,comment:["ロボガラポン"]}
+{id:202306094,name:"ケントゥリオンAM",size:"L",cost:35,hp:20,str:1,tec:-1,wlk:2,fly:1,tgh:2,comment:[""]}
 
 {id:48,name:"コーテングAM",type:"a",cost:35,hp:20,tec:2,fly:2,tgh:1}
 {id:182,name:"ゴクソツキAM",size:"L",cost:35,hp:20,str:2,tec:-1,wlk:2,tgh:2}
