@@ -287,9 +287,7 @@
 {id:163,name:"クロタクスHD",cost:40,hp:25,str:2,wlk:2,tgh:1}
 {id:173,name:"クロタクスHD2",cost:40,hp:25,wlk:2,fly:2,tgh:1}
 {id:22,name:"ケンタクロスHD",cost:35,hp:20,str:1,tec:1,wlk:2,fly:1,comment:["ロボガラポン"]}
-
-
-
+{id:202306094,name:"ケントゥリオンHD",size:"M",cost:35,hp:20,str:1,wlk:2,fly:1,tgh:1,comment:[""]}
 {id:114,name:"ゲンブラHD",cost:40,hp:25,str:1,tec:2,fly:1,tgh:1,comment:"AURA機構省略"}
 
 
