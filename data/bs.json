@@ -628,6 +628,7 @@
 {id:5,name:"ガナハウンドBS",type:"l",cost:40,hp:25,tec:1,fly:3,tgh:1}
 {id:43,name:"ガルスチールBS",type:"c",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:3,tgh:1}
 {id:24,name:"ガルラバードBS",type:"a",cost:40,hp:25,wlk:1,fly:2,tgh:2}
+{id:202306092,name:"ガルラバードBS2",type:"a",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:3,tgh:1,comment:"ラクタ"}
 
 
 {id:16,name:"ギガトンオーBS",type:"c",cost:40,hp:25,str:-1,tec:1,fly:3,tgh:2}
