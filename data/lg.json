@@ -522,7 +522,7 @@
 {id:56,name:"ガルスチールLG",cost:45,hp:65,tec:1,wlk:4,fly:-1,tgh:1}
 {id:31,name:"ガルラバードLG",cost:100,hp:30,str:-1,tec:2,wlk:3,fly:1,tgh:1,type:"a",sub:{tec:100,pwr:32,rng:120,spd:250,itv:1000},tunable:{pwp:1}}
 {id:32,name:"ガルラバードLG2",cost:120,hp:30,str:3,tec:-1,wlk:2,fly:2,sub:{str:100,pwr:28,rng:77,spd:94,itv:1000},tunable:{pwp:1},comment:"ガルラーバード・サディ"}
-{id:202306092,name:"ガルラバードLG3",cost:150,hp:30,str:3,tec:-1,wlk:2,fly:2,sub:{tec:100,pwr:28,shl:120,rng:70,spd:85,itv:1000},tunable:{pwp:1},comment:"ガルラーバード・ラクタ"}
+{id:202306092,name:"ガルラバードLG3",cost:150,hp:30,str:3,tec:-1,wlk:2,fly:2,sub:{str:100,pwr:28,shl:120,rng:70,spd:85,itv:1000},tunable:{pwp:1},comment:"ガルラーバード・ラクタ"}
 
 {id:8,name:"ギガトンオーLG",cost:45,hp:25,str:2,wlk:3,fly:-1,tgh:2}
 {id:65,name:"ギャランバルドLG",cost:50,hp:55,wlk:2,tgh:4}
