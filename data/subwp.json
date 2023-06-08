@@ -177,7 +177,7 @@
 {id:20230113,name:"コダチ",sub:{str:100,pwr:32,rng:10,spd:10,itv:1000},type:"l",size:"S",cost:40,tunable:{pwp:1},comment:"シャドウマスター初期装備"}
 {id:202302164,name:"ユピテルブレード",sub:{str:100,pwr:35,shl:30,rng:70,spd:94,itv:2000},tunable:{pwp:1},type:"l",size:"LL",cost:200,comment:["パーツクリエイト",""]}
 {id:20230517,name:"07式作業用ピッケル",sub:{str:100,pwr:32,shl:0,rng:70,spd:85,itv:1000},tunable:{pwp:1},type:"lcs",size:"L",cost:110,comment:["",""]}
-{id:202306091,name:"ゼウネブランド",sub:{str:100,pwr:28,shl:0,rng:150,spd:80,itv:500},auraStat:{main:{str:100,pwr:30}},tunable:{pwp:1},type:"l",size:"LL",cost:150,comment:["ゼウネシス初期装備","AURA機構"]}
+{id:202306091,name:"ゼウネブランド",sub:{str:100,pwr:28,shl:0,rng:150,spd:80,itv:500},auraStat:{sub:{str:100,pwr:30}},tunable:{pwp:1},type:"l",size:"LL",cost:150,comment:["ゼウネシス初期装備","AURA機構"]}
 
 {group:"subコンバージョン（順不同）",prefixID:"MOx",nextID:17}
 {id:127,name:"ヴァリアントBD@",sub:{str:100,spd:150,itv:500},type:"a",size:"M",cost:230,slot:0}
