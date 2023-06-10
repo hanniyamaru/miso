@@ -209,7 +209,7 @@
 {id:21,name:"ミサイルランチャー",type:"c",size:"L",cost:130,main:{pwr:20,shl:190,rng:330,spd:290,itv:900}}
 {id:23,name:"ボックスミサイル",type:"c",size:"L",cost:150,main:{pwr:20,shl:220,rng:330,spd:290,itv:1000}}
 {id:24,name:"ラムジェットランチャー",type:"c",size:"LL",cost:160,main:{pwr:30,shl:280,rng:330,spd:250,itv:900}}
-{id:32,name:"バリスティックランチャー",type:"c",size:"L",cost:200,main:{pwr:33,shl:300,rng:350,spd:250,itv:900}}
+{id:32,name:"バリスティックランチャー",type:"c",size:"LL",cost:200,main:{pwr:33,shl:300,rng:350,spd:250,itv:900}}
 {id:25,name:"2ウェイミサイル",type:"c",size:"LL",cost:180,main:{pwr:24,shl:220,rng:330,spd:290,itv:1100}}
 
 {id:581,name:"マイクロミサイルガン",main:{pwr:8,shl:130,rng:330,spd:290,itv:800},type:"c",size:"SS",cost:50}
