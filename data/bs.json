@@ -79,7 +79,7 @@
 {id:202304064,name:"エースブレイバーBS2",size:"S",cost:35,hp:20,str:1,tec:1,fly:3,comment:"Ⅱ"}
 
 {id:113,name:"エアリーデBS",sub:{shl:50,rng:100,spd:120,itv:1000},type:"a",cost:65,hp:20,tec:2,wlk:-1,fly:4}
-
+{id:202306142,name:"エルコットBSJ",joint:{bs:1,wp:2},type:"l",size:"S",slot:1,fixedParts:{wp:[{sub:{str:100,pwr:36,shl:0,rng:63,spd:77,itv:1000},name:"カルトスアーム改",slot:3,tunable:{pwp:1}},{name:"カルトスアーム改@",main:{str:100,pwr:28,shl:15,rng:0,spd:10,itv:1000},slot:0}]},cost:150,comment:"エルコットBD専用コンバージョンパーツ"}
 {id:20220531,name:"エルメ・サリーBS",type:"s",size:"S",cost:35,hp:20,str:1,wlk:1,fly:3}
 
 
