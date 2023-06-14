@@ -376,7 +376,7 @@
 {id:202205231,name:"タイラントデストラクトBD@2",sub:{tec:100,pwr:[9,10,11],shl:400,rng:[350,365,380],spd:290,itv:1000},tunable:{mwp:0},slot:0,type:"c",size:"L",cost:120,comment:["タイラントデストラクト専用コンバージョンパーツ",""]}
 {id:202212082,name:"トリニティブレード",type:"l",size:"S",cost:210,main:{str:100,pwr:19,shl:340,rng:250,spd:440,itv:400},sub:{str:100,pwr:32,rng:70,spd:85,itv:1000},tunable:{mwp:1,pwp:1},comment:["ジェイスAM2専用コンバージョン"]}
 
-{id:202208031,name:"パラセクター・アシスBD@",type:"l",cost:60,main:{str:100,pwr:25,shl:15,rng:0,spd:10,itv:700},slot:0}
+{id:202208031,name:"パラセクター・アシスBD@",type:"l",cost:50,main:{str:100,pwr:32,shl:15,rng:0,spd:10,itv:700},slot:0}
 {id:502,name:"パワーアロー",main:{pwr:28,shl:230,rng:225,spd:480,itv:700},type:"l",size:"M",cost:30,comment:"ロビンハンターAM専用コンバージョンパーツ",slot:0}
 
 {id:20220623,name:"プチもふもふケープ",main:{str:100,pwr:10,shl:30,rng:150,spd:400,itv:1000},cost:40,type:"s",size:"SS",comment:"ましろ専用コンバージョンパーツ",slot:3}
