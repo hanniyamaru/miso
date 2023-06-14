@@ -141,6 +141,8 @@
 {id:25,name:"ミッサイドLG",cost:45,hp:25,str:2,tec:-1,wlk:3,tgh:1}
 
 {id:8,name:"メカルドLG",cost:45,hp:25,tec:1,wlk:3,fly:1,tgh:1,size:"S",comment:["Season7アリーナコイン景品"]}
+
+{id:20230614,name:"メディ・エーデLG",fixedParts:{wp:{name:"メディ・スロット"}},size:"S",cost:45,hp:25,tec:1,wlk:2,fly:2,tgh:1,joint:{wp:1}}
 {id:115,name:"メディカレストLG",size:"S",cost:45,hp:25,tec:1,wlk:3,tgh:2}
 
 {id:78,name:"メトラLG",sub:{pwr:7,shl:600,rng:275,spd:350,itv:1000},tunable:{pwp:0},type:"a",cost:145,hp:25,str:-1,tec:3,wlk:2,fly:2}
