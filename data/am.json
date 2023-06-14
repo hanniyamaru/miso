@@ -934,7 +934,7 @@
 
 
 {id:17,name:"ギャランバルドAM",main:{shl:50,spd:10,itv:1000},sub:{pwr:20,shl:30,rng:120,spd:250,itv:1000,str:100},tunable:{mwp:1,pwp:1},cost:120,hp:25,str:1,tec:-1,wlk:1,tgh:4,type:"l",joint:{wp:0}}
-{id:20220416,name:"ケンタクロスAM2",type:"l",size:"LL",cost:175,hp:20,str:2,tec:-1,wlk:2,tgh:2,sub:{str:100,pwr:32,shl:0,rng:77,spd:94,itv:1000},tunable:{pwp:1},joint:{wp:0},comment:["ロボガラポン"]}
+{id:20220416,name:"ケンタクロスAM2",type:"l",size:"LL",cost:175,hp:20,str:2,tec:-1,wlk:2,tgh:2,sub:{str:100,pwr:34,shl:20,rng:77,spd:94,itv:1000},tunable:{pwp:1},joint:{wp:0},comment:["WLK依存格闘","ディライブ攻撃倍率0.4×5回","ロボガラポン"]}
 
 {id:26,name:"サイクロテスAM4",sub:{str:100,pwr:28,rng:75,spd:200,itv:3000},tunable:{pwp:1},type:"l",size:"LL",cost:120,hp:25,str:4,tec:-1,wlk:1,tgh:1,joint:{wp:0},comment:"シールド耐久値75"}
 {id:202301123,name:"サジタルマクシス・CAM",size:"LL",cost:70,hp:25,str:1,tec:2,fly:-1,tgh:3,comment:"シールド耐久値88"}
@@ -1007,7 +1007,7 @@
 
 {id:100,name:"バアルAMJ",tunable:{pwp:0,mwp:0},type:"c",size:"M",cost:40,slot:1,main:{tec:100,pwr:11,shl:210,rng:330,spd:290,itv:800}}
 
-{id:5,name:"ハウザーAMJ",type:"c",size:"L",cost:70,tec:2,wlk:-1,sub:{pwr:33,shl:60,rng:350,spd:210,itv:1000},slot:1}
+{id:5,name:"ハウザーAMJ",type:"c",size:"L",cost:60,tec:2,wlk:-1,sub:{pwr:33,shl:60,rng:350,spd:230,itv:1000},slot:1,comment:"爆風70％"}
 
 {id:17,name:"ビームミサイルAMJ",main:{pwr:14,shl:130,rng:275,spd:350,itv:900},tunable:{mwp:1},type:"a",size:"M",cost:60,slot:1}
 
