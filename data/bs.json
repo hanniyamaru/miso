@@ -79,7 +79,7 @@
 {id:202304064,name:"エースブレイバーBS2",size:"S",cost:35,hp:20,str:1,tec:1,fly:3,comment:"Ⅱ"}
 
 {id:113,name:"エアリーデBS",sub:{shl:50,rng:100,spd:120,itv:1000},type:"a",cost:65,hp:20,tec:2,wlk:-1,fly:4}
-{id:202306142,name:"エルコットBSJ",joint:{bs:1,wp:2},type:"l",size:"S",slot:1,fixedParts:{wp:[{sub:{str:100,pwr:36,shl:0,rng:63,spd:77,itv:1000},name:"カルトスアーム改",slot:3,tunable:{pwp:1}},{name:"カルトスアーム改@",main:{str:100,pwr:28,shl:15,rng:0,spd:10,itv:1000},slot:0}]},cost:150,comment:"エルコットBD専用コンバージョンパーツ"}
+
 {id:20220531,name:"エルメ・サリーBS",type:"s",size:"S",cost:35,hp:20,str:1,wlk:1,fly:3}
 
 
@@ -835,7 +835,9 @@
 
 {id:116,name:"アムリムBS",joint:{wp:1},type:"a",cost:35,hp:20,tec:2,fly:3,comment:"アムリムBD専用コンバーションパーツ",slot:0}
 {id:188,name:"アリスBS",sub:{pwr:9,shl:260,rng:275,spd:340,itv:1000},type:"a",size:"S",cost:65,hp:20,str:-1,tec:1,fly:3,tgh:2,comment:"アリスBD専用コンバーションパーツ"}
-{id:159,name:"マニモウィング",sub:{shl:60,spd:160,itv:1000},builtin:{bs:-1},joint:{wp:1},type:"a",size:"M",cost:70,hp:25,str:1,fly:2,tgh:2,slot:0}
+{id:202306142,name:"エルコットBSJ",joint:{bs:1,wp:2},type:"l",size:"S",slot:1,fixedParts:{wp:[{sub:{str:100,pwr:36,shl:0,rng:63,spd:77,itv:1000},name:"カルトスアーム改",slot:3,tunable:{pwp:1}},{name:"カルトスアーム改@",main:{str:100,pwr:28,shl:15,rng:0,spd:10,itv:1000},slot:0}]},cost:150,comment:"エルコットBD専用コンバージョンパーツ"}
 
 {id:197,name:"フェルメBS",sub:{tec:100,pwr:22,shl:150,rng:200,spd:250,itv:1000},type:"l",size:"S",cost:55,hp:20,str:-1,tec:2,wlk:1,fly:3,comment:["フェルメBD専用コンバージョンパーツ"]}
+{id:159,name:"マニモウィング",sub:{shl:60,spd:160,itv:1000},builtin:{bs:-1},joint:{wp:1},type:"a",size:"M",cost:70,hp:25,str:1,fly:2,tgh:2,slot:0}
+
 {id:125,name:"A.L.E.ラズフラムBS",sub:{pwr:20,shl:30,rng:150,spd:200,itv:500,tec:100},type:"l",size:"S",comment:"A.L.EラズフラムLG専用コンバージョンパーツ",cost:70,hp:25,str:-1,tec:2,wlk:2,fly:2}
