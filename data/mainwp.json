@@ -272,6 +272,7 @@
 {id:202210051,name:"ミサイルクラスターガン",size:"M",type:"c",cost:140,main:{pwr:12,shl:170,rng:330,spd:290,itv:800},comment:["Season7アリーナコイン景品","爆風70％？"]}
 {id:20230113,name:"ヒナワ",main:{tec:100,pwr:7,shl:960,rng:150,spd:400,itv:660},tunable:{mwp:1},type:"l",size:"S",cost:120,comment:"シャドウマスター初期装備"}
 {id:20230405,name:"シュレッドショットガン",main:{tec:100,pwr:26,shl:440,rng:200,spd:400,itv:400},tunable:{mwp:1},type:"l",size:"M",cost:180,comment:"Season9アリーナコイン景品"}
+{id:202306142,name:"スマートブラスター",main:{tec:100,pwr:6,shl:930,rng:275,spd:320,itv:940},size:"M",type:"a",cost:135,comment:["スタッギート初期装備",""]}
 
 
 {group:"照射系",prefixID:"LS",commonStat:{tunable:{mwp:1}},nextID:1}
@@ -344,6 +345,8 @@
 {id:202303092,name:"ビットガン",main:{tec:100,pwr:7,shl:840,rng:275,spd:280,itv:900},tunable:{mwp:1},type:"a",size:"S",cost:120,comment:["マッハナイト・ゼロ初期装備"]}
 {id:202306096,name:"ウォーターポットα",main:{tec:100,pwr:14,shl:100,rng:225,spd:400,itv:500},sub:{str:100,pwr:0,shl:0,rng:0,spd:0,itv:500},tunable:{mwp:1},size:"S",cost:50,comment:["梅雨イベント2023オーダー景品",""]}
 {id:202306097,name:"ウォーターポットβ",main:{tec:100,pwr:24,shl:100,rng:225,spd:400,itv:600},sub:{str:100,pwr:0,shl:0,rng:0,spd:0,itv:500},tunable:{mwp:1},size:"S",type:"lcs",cost:120,comment:["梅雨イベント2023オーダー景品",""]}
+
+
 
 
 {group:"mainコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
