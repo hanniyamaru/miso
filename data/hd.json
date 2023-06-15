@@ -71,6 +71,7 @@
 {id:11021,name:"バットべーHD",cost:30,hp:15,str:1,tec:1,wlk:1,fly:1}
 
 {id:202208031,name:"パラセクター・アシスHD",size:"S",cost:35,hp:20,str:1,wlk:2,fly:1,tgh:1}
+{id:20230615,name:"ビートラムHD",type:"lacs",size:"S",cost:35,hp:20,str:1,tec:-1,wlk:1,fly:1,tgh:3}
 
 {id:202203021,name:"ピエッタHD",type:"lacs",size:"M",cost:35,hp:20,str:-1,tec:3,fly:1,tgh:2}
 
