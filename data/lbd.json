@@ -4,7 +4,7 @@
 
 {group:"陸　近日更新分",prefixID:"LS",commonStat:{size:"S",type:"l"},nextID:35}
 
-{id:20230616,name:"ビートラムBD",cost:320,capa:635,hp:185,str:11,tec:5,wlk:8,fly:6,tgh:10,cartridge:{hpup:25,lv1:"95*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|29@15|21@20|16@20|13@30|32@50|31@40"},comment:"ロボガラポン"}
+{id:20230616,name:"ビートラムBD",cost:320,capa:635,hp:185,str:11,tec:5,wlk:8,fly:6,tgh:10,cartridge:{hpup:25,lv1:"95*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|29@15|21@20|16@20|13@30|32@50|31@40"},size:"S",comment:"ロボガラポン"}
 
 
 {id:202306143,name:"エルコットBD",cost:475,hp:225,capa:900,str:13,tec:6,wlk:13,fly:9,tgh:7,sub:{str:100,pwr:10,rng:200,spd:350,itv:[1000]},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|79@15|22@30|21@20|13@30|34@15|32@50|31@40"},fixedParts:{hd:{name:"エルコットHD",cost:40,hp:25,wlk:2,fly:1,tgh:2},lg:{name:"エルコットLG",cost:80,hp:45,str:1,tec:-1,wlk:5,fly:3,tgh:3}},wbid:0,builtin:{bs:1}}
