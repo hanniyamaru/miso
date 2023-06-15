@@ -80,7 +80,7 @@
 {group:"ランス系",prefixID:"LC",commonStat:{tunable:{pwp:1}},nextID:13}
 {id:21,name:"イビルハルバード",sub:{str:100,pwr:33,rng:91,spd:110,itv:500},tunable:{pwp:1},cost:180,type:"la",size:"M"}
 {id:9,name:"スピア",type:"ls",size:"M",cost:100,sub:{str:100,pwr:32,rng:84,spd:102,itv:1000}}
-{id:5,name:"ランス",type:"l",size:"M",cost:100,sub:{str:100,pwr:30,rng:100,spd:150,itv:1000}}
+{id:5,name:"ランス",type:"l",size:"M",cost:100,sub:{str:100,pwr:30,rng:100,spd:150,itv:1000},comment:"WLK依存サブ"}
 {id:1,name:"レイピア",type:"a",size:"S",cost:40,sub:{str:100,pwr:23,rng:100,spd:200,itv:1000}}
 {id:4,name:"デュエルレイピア",type:"a",size:"M",cost:100,sub:{str:100,pwr:27,rng:100,spd:200,itv:1000}}
 {id:1003,name:"アサルトビームランス",type:"a",size:"M",cost:120,sub:{str:100,pwr:27,rng:120,spd:200,itv:500}}
@@ -91,7 +91,7 @@
 {id:1202,name:"バリオスランス",main:{tec:100,pwr:13,shl:390,rng:275,spd:400,itv:300},sub:{tec:100,pwr:30,shl:130,rng:120,spd:220,itv:2000},tunable:{mwp:1,pwp:1},cost:200,type:"a",size:"M"}
 {id:17,name:"アモーレランス",sub:{pwr:27,str:100,rng:100,spd:200,itv:2000},tunable:{pwp:1},cost:130,size:"M"}
 {id:202204143,name:"ジャンパーハルバード",size:"M",cost:60,type:"a",sub:{str:100,pwr:23,shl:0,rng:120,spd:200,itv:500},tunable:{pwp:1},comment:["アリーナコイン景品"]}
-{id:20230614,name:"Xmasツリーランス",type:"l",size:"L",cost:130,sub:{str:100,pwr:30,rng:100,spd:200,itv:1000}}
+{id:20230614,name:"Xmasツリーランス",type:"l",size:"L",cost:130,sub:{str:100,pwr:30,rng:100,spd:200,itv:1000},comment:"WLK依存サブ"}
 {id:202306141,name:"ハルバート",type:"l",size:"M",cost:120,sub:{str:100,pwr:32,rng:77,spd:94,itv:1000},comment:"ビートラム初期装備"}
 
 
