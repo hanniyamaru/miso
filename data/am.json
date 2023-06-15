@@ -93,6 +93,7 @@
 {id:89,name:"シャドウマスターAM",cost:35,hp:20,tec:1,wlk:3,tgh:1}
 
 {id:148,name:"スイフトAM",type:"lacs",size:"S",cost:35,hp:20,tec:2,wlk:-1,fly:2,tgh:2}
+{id:22306151,name:"スタッギートAM",type:"lacs",size:"S",cost:35,hp:20,tec:2,fly:2,tgh:1}
 
 {id:20221007,name:"セルピリスAM",cost:35,hp:20,str:1,wlk:2,tgh:2,size:"S",comment:["非アクティブ装備の非表示機能あり"]}
 {id:19,name:"ゼロセイバーAM",cost:35,hp:20,str:2,tec:1,wlk:1,fly:1}
