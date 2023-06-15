@@ -188,6 +188,7 @@
 {id:20230308,name:"パティロップBS",type:"l",size:"S",cost:40,hp:25,wlk:1,fly:3,tgh:1,comment:["",""]}
 
 {id:134,name:"ハンナ・フリッツBS",cost:35,hp:20,str:2,tec:-1,wlk:2,fly:2,type:"l"}
+{id:20230615,name:"ビートラムBS",cost:35,hp:20,str:2,fly:3,type:"l"}
 
 {id:202203021,name:"ピエッタBS",tunable:{mwp:0,pwp:0},type:"a",size:"S",cost:95,hp:20,str:-1,tec:2,fly:3,tgh:1,main:{tec:100,pwr:5,shl:1120,rng:275,spd:280,itv:1300},comment:["BS@省略","武器チューン不可"]}
 {id:28,name:"ビックガジェットBS2",type:"s",cost:75,hp:20,str:-1,tec:2,fly:3,tgh:1,main:{pwr:4,shl:1160,rng:275,spd:280,itv:300},tunable:{mwp:1}}
