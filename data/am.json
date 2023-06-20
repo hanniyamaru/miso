@@ -284,7 +284,7 @@
 
 {group:"Ｍサイズ",prefixID:"M",commonStat:{size:"M"},nextID:69}
 
-{id:20230118,name:"アーマーメットAM",sub:{str:100,pwr:31,rng:80,spd:140,itv:500},auraStat:{sub:{str:100,pwr:35,rng:100,spd:180,itv:500}},size:"M",type:"l",cost:135,hp:20,str:3,tec:-1,wlk:2,tgh:1,comment:["AURA機構","Season8アリーナコイン景品"],tunable:{pwp:1},joint:{wp:0}}
+{id:20230118,name:"アーマーメットAM",sub:{str:100,pwr:31,rng:80,spd:140,itv:500},auraStat:{sub:{str:100,pwr:35,rng:100,spd:180,itv:500}},size:"M",type:"l",cost:135,hp:20,str:3,tec:-1,wlk:2,tgh:1,comment:["最終段倍率+20％？","AURA機構","Season8アリーナコイン景品"],tunable:{pwp:1},joint:{wp:0}}
 {id:202301181,name:"アーマーメットAM2",main:{str:100,pwr:14,shl:600,rng:200,spd:380,itv:300},auraStat:{main:{str:100,pwr:16,shl:600,rng:200,spd:380,itv:300}},size:"M",type:"l",cost:95,hp:20,str:2,tec:-1,wlk:1,tgh:3,comment:["AURA機構","Season8アリーナコイン景品"],tunable:{mwp:1},joint:{wp:0}}
 
 {id:1511,name:"アクシオンAM",main:{tec:100,pwr:14,shl:240,rng:250,spd:400,itv:300},tunable:{mwp:1},type:"l",size:"M",cost:110,hp:25,str:-1,tec:3,wlk:2,tgh:1}
