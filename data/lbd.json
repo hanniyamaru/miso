@@ -5,7 +5,7 @@
 {group:"陸　近日更新分",prefixID:"LS",commonStat:{size:"S",type:"l"},nextID:35}
 
 
-{id:202307063,name:"クロタクスBD3",joint:{am:1,hdac:2},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|16@20|25@25|21@20|13@30|32@50|31@40"},fixedParts:{hdac:["S1","S1"],am:{name:"クロタクスAM3",main:{tec:100,pwr:0,shl:120,rng:0,spd:10,itv:1000},joint:{wp:1},fixedParts:{wp:{name:"セラスカノン",main:{tec:100,pwr:40,shl:260,rng:250,spd:440,itv:900},sub:{tec:100,pwr:60,shl:40,rng:250,spd:480,itv:1000},tunable:{mwp:1},type:"l",size:"S",cost:160}},type:"l",size:"S",cost:120,hp:50,str:-1,tec:6,fly:-1,tgh:6}},type:"l",size:"S",cost:445,capa:850,hp:225,str:3,tec:22,wlk:9,fly:6,tgh:8,comment:"バスタークロタクス"}
+{id:202307063,name:"クロタクスBD3",joint:{am:1,hdac:2},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|16@20|25@25|21@20|13@30|32@50|31@40"},fixedParts:{hdac:["S1","S1"],am:{name:"クロタクスAM3",main:{tec:100,pwr:0,shl:120,rng:0,spd:10,itv:1000},tunable:{mwp:1},joint:{wp:1},fixedParts:{wp:{name:"セラスカノン",main:{tec:100,pwr:40,shl:260,rng:250,spd:440,itv:900},sub:{tec:100,pwr:60,shl:40,rng:250,spd:480,itv:1000},tunable:{mwp:1},type:"l",size:"S",cost:160}},type:"l",size:"S",cost:120,hp:50,str:-1,tec:6,fly:-1,tgh:6}},type:"l",size:"S",cost:445,capa:850,hp:225,str:3,tec:22,wlk:9,fly:6,tgh:8,comment:"バスタークロタクス"}
 
 
 {id:20230616,name:"ビートラムBD",cost:320,capa:635,hp:185,str:11,tec:5,wlk:8,fly:6,tgh:10,cartridge:{hpup:25,lv1:"95*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|29@15|21@20|16@20|13@30|32@50|31@40"},size:"S",wbid:5,comment:"ロボガラポン"}
