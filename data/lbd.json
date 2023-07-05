@@ -4,6 +4,10 @@
 
 {group:"陸　近日更新分",prefixID:"LS",commonStat:{size:"S",type:"l"},nextID:35}
 
+
+{id:202307063,name:"クロタクスBD3",joint:{am:1,hdac:2},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|16@20|25@25|21@20|13@30|32@50|31@40"},fixedParts:{hdac:["S1","S1"],am:{name:"クロタクスAM3",main:{tec:100,pwr:0,shl:120,rng:0,spd:10,itv:1000},joint:{wp:1},fixedParts:{wp:{name:"セラスカノン",main:{tec:100,pwr:40,shl:260,rng:250,spd:440,itv:900},sub:{tec:100,pwr:60,shl:40,rng:250,spd:480,itv:1000},tunable:{mwp:1},type:"l",size:"S",cost:160}},type:"l",size:"S",cost:120,hp:50,str:-1,tec:6,fly:-1,tgh:6}},type:"l",size:"S",cost:445,capa:850,hp:225,str:3,tec:22,wlk:9,fly:6,tgh:8,comment:"バスタークロタクス"}
+
+
 {id:20230616,name:"ビートラムBD",cost:320,capa:635,hp:185,str:11,tec:5,wlk:8,fly:6,tgh:10,cartridge:{hpup:25,lv1:"95*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|29@15|21@20|16@20|13@30|32@50|31@40"},size:"S",wbid:5,comment:"ロボガラポン"}
 
 
@@ -184,7 +188,6 @@
 
 {id:56,name:"クロタクスBD",joint:{am:1,hdac:2},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|16@20|25@25|30@20|13@30|32@50|31@40"},fixedParts:{hdac:["S1","S1"],am:{name:"クロタクスAM",fixedParts:{wp:{name:"セラスグレイブ",main:{pwr:15,shl:880,rng:275,spd:480,itv:140},sub:{tec:100,pwr:26,rng:100,spd:150,itv:1000},tunable:{pwp:1,mwp:1},cost:160}},cost:80,hp:50,str:-2,tec:4,wlk:4,tgh:4}},cost:445,capa:850,hp:225,str:3,tec:18,wlk:13,fly:6,tgh:8}
 {id:69,name:"クロタクスBD2",joint:{am:1,hdac:2},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|16@20|25@25|30@20|13@30|32@50|31@40"},fixedParts:{hdac:["S1","S1"],am:{name:"クロタクスAM2",joint:{wp:1},fixedParts:{wp:{name:"セラステス・アサルト",main:{tec:100,pwr:18,shl:800,rng:250,spd:440,itv:300},sub:{tec:100,pwr:28,rng:100,spd:150,itv:1000},tunable:{mwp:1,pwp:1},type:"l",size:"S",cost:190}},type:"l",size:"S",cost:80,hp:50,tec:6,wlk:-1,fly:-1,tgh:6}},type:"l",size:"S",cost:445,capa:850,hp:225,str:3,tec:20,wlk:12,fly:5,tgh:8}
-
 
 {id:20220706,name:"サイバリオンBD",type:"l",size:"S",cost:505,capa:780,hp:210,str:5,tec:11,wlk:15,fly:9,tgh:5,main:{pwr:[5,6,7],shl:[1360],rng:[250,260,275],spd:[280,290,300],itv:[340]},wbid:0,cartridge:{hpup:18,lv1:"85*5@25|61*2@35|7@20|9@20|10@15|17@15|18@15||20@15|23@25|25@25|26@20|12@20|13@30|32@50|31@40"},comment:"Season7アリーナコイン景品"}
 
