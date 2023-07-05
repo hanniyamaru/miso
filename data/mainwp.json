@@ -485,7 +485,7 @@
 
 {id:20230201,name:"神器･月天丸",sub:{str:100,pwr:34,rng:70,spd:85,itv:1000},joint:{wp:2},type:"l",size:"S",cost:100,tunable:{pwp:1}}
 {id:202302012,name:"奥義･雪消月",sub:{str:100,pwr:30,shl:30,rng:120,spd:250,itv:1000},type:"l",size:"S",cost:70,slot:0}
-{id:202302013,name:"月代流･守護壁",main:{shl:30,spd:10,itv:1000},type:"l",size:"S",cost:30,slot:0}
+{id:202302013,name:"月代流･守護壁",main:{shl:20,spd:10,itv:1000},type:"l",size:"S",cost:30,slot:0}
 {id:202302014,name:"月代流･迫撃弾",main:{str:100,pwr:20,shl:50,rng:200,spd:500,itv:1000},tunable:{mwp:1,pwp:0},type:"l",size:"S",cost:30}
 
 
