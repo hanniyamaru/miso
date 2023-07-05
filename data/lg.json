@@ -117,6 +117,8 @@
 {id:20230615,name:"ビートラムLG",cost:40,hp:20,str:1,wlk:3,tgh:1}
 {id:202203021,name:"ピエッタLG",sub:{pwr:0,shl:40,rng:100,spd:160,itv:1000},type:"a",size:"S",cost:90,hp:20,tec:1,wlk:2,fly:2}
 {id:35,name:"ビックガジェットLG2",cost:45,hp:25,tec:1,wlk:2,fly:2,tgh:1}
+{id:202307061,name:"ビックガジェットLCLG",size:"S",cost:45,hp:25,str:-1,tec:2,wlk:3,fly:2,comment:[""]}
+
 {id:29,name:"ビルダームLG",cost:45,hp:25,str:1,tec:1,wlk:2,tgh:1}
 
 {id:81,name:"ファルクラムLG",cost:40,hp:20,str:2,tec:1,wlk:3,tgh:-1}
