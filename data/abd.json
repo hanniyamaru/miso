@@ -370,7 +370,7 @@
 
 
 {id:18,name:"ベクターBD",main:{pwr:[6,8,10],shl:[600],rng:[275,285,300],spd:[350,365,380],itv:300},cartridge:{hpup:14,lv1:"4*5@20|61*2@30|7@30|9@15|8@20|19@15|23@25|22@30|52@20|21@20|30@20|31@40|13@30|32@50|26@20"},cost:555,capa:870,hp:290,str:4,tec:11,wlk:8,fly:15,tgh:10,wbid:1}
-{id:19,name:"ベクターBD2",main:{pwr:[5],shl:[600],rng:275,spd:350,itv:300},cartridge:{hpup:14,lv1:"4*5@20|61*2@30|7@30|9@15|8@20|19@15|23@25|22@30|52@20|21@20|30@20|31@40|13@30|32@50|26@20"},type:"a",size:"L",cost:535,capa:870,hp:290,str:4,tec:14,wlk:8,fly:14,tgh:8,auraSystem:1,wbid:17,auraStat:{main:{pwr:[5],shl:[600],rng:275,spd:350,itv:800},str:4,tec:14,wlk:8,fly:14,tgh:8},comment:"強化値不明"}
+{id:19,name:"ベクターBD2",main:{pwr:[5,6,7],shl:[600],rng:[275,285,300],spd:[350,365,380],itv:300},cartridge:{hpup:14,lv1:"4*5@20|61*2@30|7@30|9@15|8@20|19@15|23@25|22@30|52@20|21@20|30@20|31@40|13@30|32@50|26@20"},type:"a",size:"L",cost:535,capa:870,hp:290,str:4,tec:14,wlk:8,fly:14,tgh:8,auraSystem:1,wbid:17,auraStat:{main:{pwr:[5,7,9],itv:800},str:4,tec:14,wlk:8,fly:14,tgh:8},comment:"AURA機構"}
 
 {id:20221006,name:"ヘビーフェルカスBD",cost:405,capa:800,hp:275,str:9,tec:4,wlk:7,fly:13,tgh:12,wbid:1,cartridge:{hpup:18,lv1:"85*6@20|7@30|9@15|8@20|19@15|23@25|22@30|21@20|52@20|15@20|14@20|30@20|13@30|32@50|31@40"},size:"L",comment:["Season7アリーナコイン景品"]}
 
