@@ -555,7 +555,7 @@
 
 {group:"ハンナ・フリッツ コンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:108,name:"シュピッツ・アイゼン",main:{pwr:20,shl:50,rng:200,spd:570,itv:500,str:100},sub:{str:100,pwr:36,rng:70,spd:85,itv:1000},type:"l",size:"S",cost:130,comment:"ハンナ・フリッツ専用コンバージョンパーツ",tunable:{mwp:1,pwp:1}}
-{id:107,name:"ハンドゲヴィア",main:{pwr:13,shl:540,rng:225,spd:400,itv:300,str:100},type:"l",size:"S",cost:60,comment:"ハンナ・フリッツ専用コンバージョンパーツ",tunable:{mwp:1}}
+{id:107,name:"ハンドゲヴィア",main:{pwr:16,shl:440,rng:225,spd:400,itv:300,str:100},type:"l",size:"S",cost:60,comment:"ハンナ・フリッツ専用コンバージョンパーツ",tunable:{mwp:1}}
 {id:111,name:"ツヴァイ・カノーネ",sub:{str:100,pwr:16,shl:30,rng:150,spd:250,itv:1000},type:"l",size:"S",cost:30,slot:0,comment:"ハンナ・フリッツ専用コンバージョンパーツ"}
 
 
