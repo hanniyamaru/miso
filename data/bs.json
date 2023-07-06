@@ -195,7 +195,7 @@
 
 {id:202203021,name:"ピエッタBS",tunable:{mwp:0,pwp:0},type:"a",size:"S",cost:95,hp:20,str:-1,tec:2,fly:3,tgh:1,main:{tec:100,pwr:5,shl:1120,rng:275,spd:280,itv:1300},comment:["BS@省略","武器チューン不可"]}
 {id:28,name:"ビックガジェットBS2",type:"s",cost:75,hp:20,str:-1,tec:2,fly:3,tgh:1,main:{pwr:4,shl:1160,rng:275,spd:280,itv:300},tunable:{mwp:1}}
-{id:202307061,name:"ビックガジェットLCBS",main:{tec:100,pwr:13,shl:340,rng:300,spd:220,itv:1000},sub:{tec:100,pwr:38,shl:40,rng:77,spd:94,itv:1000},tunable:{mwp:1},size:"S",type:"cs",cost:145,hp:20,str:-1,tec:2,fly:2,tgh:2,comment:["補：ブースタートラブル効果","砲：確率〃"]}
+{id:202307061,name:"ビックガジェットLCBS",main:{tec:100,pwr:13,shl:340,rng:300,spd:220,itv:1000},sub:{tec:100,pwr:38,shl:40,rng:77,spd:94,itv:1000},tunable:{mwp:1,pwp:1},size:"S",type:"cs",cost:145,hp:20,str:-1,tec:2,fly:2,tgh:2,comment:["メイン：ブースタートラブル効果（砲：確率〃）","サブ：爆風属性100％"]}
 {id:148,name:"ピナ・ルベリーBS",type:"l",size:"S",cost:35,hp:20,str:1,fly:2,tgh:2}
 {id:203,name:"ヒルティBS",type:"s",size:"SS",cost:35,hp:20,tec:1,wlk:-1,fly:3,tgh:2}
 
