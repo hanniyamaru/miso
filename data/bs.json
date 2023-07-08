@@ -371,7 +371,7 @@
 
 {id:153,name:"ガゥディアンBS",main:{tec:100,pwr:14,shl:500,rng:275,spd:220,itv:800},sub:{tec:100,pwr:14,shl:40,rng:250,spd:320,itv:1000},tunable:{mwp:1,pwp:0},type:"s",cost:115,hp:20,str:-1,tec:2,fly:3,tgh:1,size:"M"}
 
-{id:156,name:"ガゥディアンBS2",main:{tec:100,shl:20,rng:300,spd:300,itv:1000},sub:{tec:100,pwr:0,shl:10,rng:43,spd:63,itv:1000},tunable:{mwp:1,pwp:0},type:"s",cost:115,hp:20,tec:2,wlk:1,fly:2,size:"M"}
+{id:156,name:"ガゥディアンBS2",main:{tec:100,shl:20,rng:300,spd:300,itv:1000},sub:{tec:100,pwr:0,shl:10,rng:43,spd:63,itv:1000},tunable:{mwp:1,pwp:0},type:"s",cost:115,hp:20,tec:2,wlk:1,fly:2,size:"M",comment:["メイン・サブ：シェルサプライ不可",""]}
 
 {id:11,name:"ガシマBS",type:"c",cost:40,hp:25,str:-1,tec:1,fly:3,tgh:2}
 
