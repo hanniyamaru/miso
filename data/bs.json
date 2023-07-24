@@ -520,7 +520,7 @@
 
 
 {id:1,name:"フィザリバンBS",type:"l",cost:40,hp:25,fly:3,tgh:1}
-{id:11023,name:"風魔剣「天翔舞刃」BS",main:{tec:100,pwr:19,shl:240,rng:250,spd:360,itv:700},sub:{tec:100,pwr:26,shl:0,rng:70,spd:94,itv:1000},tunable:{mwp:0,pwp:0},type:"l",size:"M",cost:145,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,comment:["BS@cost110複合","武器チューン不可"]}
+{id:11023,name:"風魔剣「天翔舞刃」BS",main:{tec:100,pwr:19,shl:240,rng:250,spd:360,itv:700},sub:{tec:100,pwr:26,shl:0,rng:70,spd:94,itv:1000},tunable:{mwp:0,pwp:0},type:"l",size:"M",cost:145,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,comment:["BS@cost110複合","メイン：自軍貫通","武器チューン不可"]}
 
 {id:11024,name:"風魔剣「天翔舞刃」BS（コンバージョン無し）",type:"lacs",size:"M",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1}
 
