@@ -189,7 +189,7 @@
 {id:20230608,name:"オーガヒルBD2@",sub:{tec:100,pwr:10,shl:20,rng:300,spd:250,itv:500},tunable:{pwp:0},type:"c",size:"M",cost:30,slot:0,comment:["オーガヒルBD2専用コンバージョンパーツ","メルト効果","イグニス"]}
 
 
-{id:100,name:"クリーガーシルト",main:{shl:50,spd:10,itv:1000},sub:{str:100,pwr:32,rng:70,spd:85,itv:500},comment:["コロナAM専用コンバージョンパーツ1","メルト効果時間4秒"],comment:"コロナAM専用コンバージョンパーツ",cost:120,size:"S",type:"l",tunable:{mwp:1,pwp:1},fixedParts:{wp:{name:"クリーガーシルト＠",sub:{str:100,pwr:30,rng:120,spd:200,itv:1000},cost:50,slot:0,type:"l",size:"S"}},joint:{wp:1}}
+{id:100,name:"クリーガーシルト",main:{shl:50,spd:10,itv:1000},sub:{str:100,pwr:32,rng:70,spd:85,itv:1000},comment:["コロナAM専用コンバージョンパーツ1","メルト効果時間4秒"],comment:"コロナAM専用コンバージョンパーツ",cost:120,size:"S",type:"l",tunable:{mwp:1,pwp:1},fixedParts:{wp:{name:"クリーガーシルト＠",sub:{str:100,pwr:30,rng:120,spd:200,itv:1000},cost:50,slot:0,type:"l",size:"S"}},joint:{wp:1}}
 {id:51,name:"月輪【新月】",type:"l",cost:20,slot:0,comment:"月讀ミコト専用コンバージョンパーツ"}
 
 {id:186,name:"スカラベスBS2@",sub:{pwr:1,shl:30,rng:0,spd:200,itv:1000,str:100},cost:30,slot:0,size:"M",type:"c",comment:"スカラベスBS2専用コンバージョンパーツ"}
