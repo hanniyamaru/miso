@@ -18,7 +18,7 @@
 {id:1,name:"シエスLG",cost:40,hp:30,tec:-1,wlk:2,fly:1,tgh:3}
 {id:2,name:"セラフクリムローゼLG2",cost:70,hp:40,str:1,tec:1,wlk:2,fly:4,tgh:1}
 {id:76,name:"コロナLG",joint:{bs:2},fixedParts:{bs:[{name:"コロナLG@",size:"S",type:"l",builtin:{bs:1},slot:3},{name:"コロナLG@",type:"l",size:"S",slot:3,builtin:{bs:1}}]},type:"l",size:"S",cost:45,hp:25,str:1,wlk:3,tgh:2}
-
+{id:202308021,name:"コロナLG2",joint:{bs:2},fixedParts:{bs:[{name:"コロナLG2@",size:"S",type:"l",builtin:{bs:1},slot:3},{name:"コロナLG2@",type:"l",size:"S",slot:3,builtin:{bs:1}}]},type:"l",size:"S",cost:45,hp:25,str:1,wlk:3,tgh:2}
 
 
 
