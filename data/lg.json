@@ -627,6 +627,8 @@
 {id:290,name:"ドラッケンLG",cost:45,hp:25,str:2,wlk:3,tgh:1}
 {id:611103,name:"トランソニックLG",cost:45,hp:25,str:-1,tec:1,wlk:2,fly:2,tgh:2}
 {id:1201,name:"トルク・マイティバインLG",type:"l",cost:80,hp:65,str:1,wlk:3,fly:-1,tgh:3,comment:["シールド耐久値80"]}
+
+{id:20230802,name:"ナイア・サーバルLG",sub:{str:100,pwr:0,shl:30,rng:100,spd:260,itv:1000},tunable:{pwp:0},size:"L",type:"c",cost:70,hp:55,str:-1,tec:1,wlk:2,fly:1,tgh:3,comment:["",""]}
 {id:11023,name:"ナイトギアHF LG",type:"c",size:"L",cost:50,hp:45,str:1,wlk:2,fly:1,tgh:2}
 
 {id:202301182,name:"バクサイガーLG",size:"L",cost:45,hp:25,str:2,wlk:3,tgh:1,comment:"Season8アリーナコイン景品"}
