@@ -454,8 +454,12 @@
 {id:121,name:"フレアテール",main:{tec:100,pwr:7,shl:660,rng:275,spd:300,itv:500},tunable:{mwp:1,pwp:0},type:"a",size:"M",cost:60,fixedParts:{wp:{name:"フレアテール@1",sub:{pwr:1,shl:60,rng:0,spd:200,itv:1000},tunable:{pwp:0,mwp:0},cost:50,type:"a",size:"M",slot:0}},joint:{wp:1}}
 
 {group:"イヴコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
+
+{id:202308023,name:"バトルフレームEα",sub:{rng:0,spd:180,itv:1000},type:"a",size:"S",cost:50,comment:["イヴSwmBFBD専用コンバージョンパーツ",""]tunable:{mwp:0}}
+{id:202308024,name:"バトルフレームEβ",main:{tec:100,pwr:9,shl:1280,rng:275,spd:440,itv:640},sub:{tec:100,pwr:11,shl:40,rng:275,spd:300,itv:1000},type:"a",size:"S",cost:180,comment:"イヴSwmBFLG専用コンバージョンパーツ"}
 {id:20221208,name:"E.V.E.Archetyep※1",main:{tec:100,pwr:30,shl:100,rng:275,spd:360,itv:1000},type:"a",size:"S",cost:100,comment:["RUIN CANNON","パワーレス4秒","イヴAM専用コンバージョンパーツ"]}
 {id:202212081,name:"E.V.E.Archetyep※2",main:{tec:100,pwr:28,shl:420,rng:275,spd:440,itv:500},type:"a",size:"S",cost:130,comment:["E.V.E.SHOT","ビーム属性爆風100％","確率パワーレス2秒","イヴAM2専用コンバージョンパーツ"]}
+
 
 {group:"イルミスコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:49,name:"バトルフレームIα",main:{pwr:7,shl:960,rng:275,spd:280,itv:400},type:"a",size:"S",cost:70,comment:"イルミスSwmBF用コンバージョンパーツ"}
