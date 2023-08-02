@@ -424,6 +424,12 @@
 
 {id:105,name:"見習い手裏剣",main:{str:100,pwr:4,shl:800,rng:200,spd:400,itv:140},tunable:{mwp:1},type:"s",size:"S",cost:40,comment:"もみじBD専用コンバージョンパーツ"}
 
+
+
+{group:"アイヴィスコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
+{id:202308022,name:"バトルフレームIα(アイヴィス)",main:{str:100,pwr:10,shl:50,rng:200,spd:570,itv:500},type:"l",size:"S",cost:30,comment:["アイヴィスSwmBFBD専用コンバージョンパーツ",""]}
+{id:202308023,name:"バトルフレームIβ(アイヴィス)",main:{shl:20,spd:10,itv:1000},type:"l",size:"S",cost:40,comment:["アイヴィスSwmBFLG専用コンバージョンパーツ",""]}
+  
 {group:"アムリム コンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:73,name:"アムリムBS@",main:{pwr:8,shl:630,rng:275,spd:380,itv:580,tec:100},tunable:{mwp:1},type:"a",size:"S",cost:70,comment:"アムリムBS専用コンバージョンパーツ"}
 {id:721,name:"プチブラッドシューター",main:{pwr:3,shl:180,rng:200,spd:360,itv:300},tunable:{mwp:1},type:"s",size:"SS",comment:"あむりむ専用コンバーションパーツ",cost:40}
