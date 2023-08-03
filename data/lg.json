@@ -65,6 +65,7 @@
 {id:20221143,name:"スイフトLG",type:"lacs",size:"S",cost:45,hp:25,tec:1,wlk:2,fly:2,tgh:1}
 {id:20230113,name:"スイフトLG2",type:"lacs",size:"S",cost:45,hp:25,tec:1,wlk:2,fly:2,tgh:1}
 {id:22306151,name:"スタッギートLG",type:"lacs",size:"S",cost:40,hp:20,tec:1,wlk:2,fly:2}
+{id:20230803,name:"スティルドLG",size:"S",cost:45,hp:25,tec:2,wlk:4,fly:1,tgh:-1,comment:[""]}
 
 {id:20221007,name:"セルピリスLG",cost:45,hp:25,str:2,wlk:3,tgh:1,size:"S",comment:[""]}
 
