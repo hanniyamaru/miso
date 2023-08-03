@@ -607,11 +607,10 @@
 {id:134,name:"マイトボンバーHD2",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:2,tgh:2}
 {id:184,name:"マシンドレットHD",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1}
 
-
 {id:8,name:"マッハナイトHD",cost:40,hp:25,str:1,tec:1,wlk:2,tgh:1}
 {id:9,name:"マッハナイトHD2",cost:40,hp:25,tec:2,fly:2,tgh:1,comment:"マッハナイト・ゼロ"}
+{id:202308031,name:"マッハナイトHD3",cost:40,hp:25,str:2,fly:2,tgh:1,comment:"マッハナイト・ワン"}
 {id:142,name:"マッハナイト・エースHD",cost:35,hp:20,tec:2,wlk:2,fly:2,tgh:-1}
-
 
 {id:263,name:"マンティサイスHD",type:"lacs",size:"M",cost:40,hp:25,str:1,tec:2,fly:-1,tgh:3}
 
