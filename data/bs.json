@@ -138,7 +138,7 @@
 {id:45,name:"スクイドルガールαBS",type:"s",cost:40,hp:25,str:2,tec:1,wlk:-1,fly:3}
 
 {id:22306151,name:"スタッギートBS",type:"lacs",size:"S",cost:35,hp:20,tec:1,wlk:1,fly:3}
-
+{id:20230803,name:"スティルドBS",size:"S",type:"c",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:3,comment:[""]}
 {id:129,name:"ステラBS",cost:40,hp:25,tec:3,wlk:1,fly:2,tgh:-1,type:"a"}
 {id:173,name:"スパーダBS",type:"l",cost:35,hp:20,tec:2,wlk:-1,fly:2,tgh:2}
 
