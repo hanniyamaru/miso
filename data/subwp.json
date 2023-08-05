@@ -182,6 +182,7 @@
 {id:202306094,name:"ケントゥリオシュテルン",main:{str:100,pwr:20,shl:50,rng:200,spd:500,itv:500},sub:{str:100,pwr:45,shl:0,rng:70,spd:85,itv:3000},tunable:{pwp:1,mwp:1},auraStat:{main:{str:100,pwr:10,shl:120,itv:300},sub:{str:100,pwr:30,rng:100,spd:200,itv:2000}},type:"l",size:"L",cost:180,comment:"ケントゥリオン初期装備"}
 {id:202306142,name:"パラドックススター",type:"l",size:"L",cost:140,sub:{str:100,pwr:33,rng:56,spd:68,itv:1500},comment:"コラボイベントオーダー・混沌ドロップ"}
 
+{id:20230805,name:"シュトゥルムドルヒR",sub:{str:100,pwr:28,shl:150,rng:85,spd:70,itv:1000},type:"a",size:"M",cost:130,comment:["FLY依存サブ","アニマ・ゼータディスクβ（NPCステラ）"]}
 
 
 {group:"subコンバージョン（順不同）",prefixID:"MOx",nextID:17}
