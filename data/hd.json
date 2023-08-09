@@ -712,8 +712,13 @@
 
 {id:94,name:"コントラディクトHD",cost:40,hp:25,str:1,tec:2,wlk:2,fly:1,tgh:-1}
 {id:292,name:"サイクロテスHD2",main:{str:100,pwr:30,shl:50,rng:200,spd:570,itv:1000},type:"l",cost:70,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2,tunable:{mwp:1}}
-{id:202303092,name:"ジョストガンダーHD",type:"l",size:"LL",cost:85,hp:20,str:2,tec:-1,wlk:2,fly:1,tgh:1,sub:{str:100,pwr:25,shl:30,rng:150,spd:350,itv:1000},tunable:{pwp:0},comment:["",""]}
+
 {id:202305122,name:"ジェットファルコンHD",type:"a",size:"L",cost:35,hp:20,str:1,tec:1,wlk:-1,fly:2,tgh:2,comment:[""]}
+
+{id:202308091,name:"シャークラッズHD",main:{tec:100,pwr:9,shl:450,rng:330,spd:300,itv:240},tunable:{mwp:1},size:"L",type:"c",cost:75,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,comment:["MISSILE","夏祭りイベントオーダー景品"]}
+{id:2023080912,name:"シャークラッズHD2",main:{tec:100,pwr:21,shl:240,rng:330,spd:570,itv:800},tunable:{mwp:1},size:"L",type:"c",cost:75,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,comment:["RAILGUN","夏祭りイベントオーダー景品"]}
+{id:202303092,name:"ジョストガンダーHD",type:"l",size:"LL",cost:85,hp:20,str:2,tec:-1,wlk:2,fly:1,tgh:1,sub:{str:100,pwr:25,shl:30,rng:150,spd:350,itv:1000},tunable:{pwp:0},comment:["",""]}
+
 {id:202306091,name:"ゼウネシスHD",size:"L",cost:40,hp:25,str:2,fly:1,tgh:2,comment:[""]}
 
 {id:4,name:"ダイダリオンHD",cost:40,hp:25,str:1,wlk:1,tgh:3}
