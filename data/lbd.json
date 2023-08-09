@@ -5,6 +5,8 @@
 {group:"陸　近日更新分",prefixID:"LS",commonStat:{size:"S",type:"l"},nextID:35}
 
 
+{id:202308101,name:"サマーマニモBD",cost:600,capa:675,hp:220,str:8,tec:28,wlk:29,fly:9,tgh:9,main:{tec:100,pwr:[6,8,10],shl:[800,1000,1200]rng:[250],spd:[480],itv:100},wbid:999,cartridge:{hpup:35,lv1:"75*5@20|60*2@35|7@20|9@20|10@15|17@15|18@15||20@15|23@25|29@15|15@15|14@20|13@30|32@50|31@40"},joint:{hdac:1,fcac:1,hd:0,bs:0,am:0},builtin:{bs:1,lg:1}}
+
 {id:202308022,name:"アイヴィスSwmBFBD",sub:{str:100,pwr:30,shl:0,rng:30,spd:10,itv:1000},builtin:{bs:1},joint:{wp:2},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|53@10|13@30|15@15|21@20|34@15|32@50|31@40"},fixedParts:{hd:{name:"アイヴィスSwmBFHD",cost:40,hp:25,str:2,wlk:1,tgh:2},lg:{name:"アイヴィスSwmBFLG",joint:{wp:1},cost:45,hp:25,str:2,wlk:3,fly:1,slot:0,comment:"コンバージョンパーツのみ装着可能"},am:[{name:"アイヴィスSwmBFAM",cost:40,hp:25,str:1,wlk:3,tgh:1},{name:"アイヴィスSwmBFAM2",sub:{str:100,pwr:33,rng:77,spd:94,itv:1000},tunable:{pwp:1},cost:160,hp:25,str:2,tec:-1,wlk:2,tgh:2}],wp:"バトルホイッスル"},cost:525,capa:900,hp:250,str:14,tec:6,wlk:15,fly:11,tgh:7,comment:""}
 
 {id:202308021,name:"コロナBD2",cost:495,capa:900,hp:225,str:13,tec:4,wlk:13,fly:8,tgh:10,size:"S",type:"l",sub:{str:100,pwr:30,rng:110,spd:200,itv:[1000]},fixedParts:{lg:"コロナLG2",hd:{name:"コロナHD",cost:40,hp:25,str:2,wlk:1,fly:1,tgh:1,type:"l",size:"S"},am:[{name:"コロナAM",cost:40,hp:25,str:2,wlk:1,tgh:2,type:"l",size:"S",joint:{wp:1},comment:"MODE CHANGE省略"},{name:"コロナAM3",cost:40,type:"l",size:"S",joint:{wp:0},hp:25,str:1,wlk:2,tgh:2}]},cartridge:{lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|16@20|11@20|13@30|34@15|32@50|31@40",hpup:14},builtin:{bs:1}}
@@ -297,7 +299,7 @@
 
 {id:27,name:"でかペペンBD",cost:660,capa:765,hp:305,str:26,tec:8,wlk:26,fly:10,tgh:19,sub:{str:100,pwr:[28],rng:63,spd:77,itv:1500},wbid:14,cartridge:{hpup:30,lv1:"3*5@20|60*2@30|7@20|9@20|10@15|17@15|18@15||20@15|23@25|29@15|15@15|14@20|13@30|32@50|31@40"},joint:{hdac:1,fcac:1,hd:0,bs:0,am:0},builtin:{bs:1,lg:1}}
 
-{id:540,name:"でかマニモBD",cost:525,capa:765,hp:305,str:22,tec:9,wlk:26,fly:10,tgh:14,wbid:14,cartridge:{hpup:30,lv1:"3*5@20|60*2@30|7@20|9@20|10@15|17@15|18@15||20@15|23@25|29@15|15@15|14@20|13@30|32@50|31@40"},joint:{hdac:1,fcac:1,hd:0,bs:0,am:0,wp:1},builtin:{bs:1,lg:1},fixedParts:{wp:{name:"でかマニモBD@",sub:{str:100,pwr:[30],rng:56,spd:68,itv:1500},tunable:{pwp:1},cost:100,slot:3}}}
+{id:540,name:"でかマニモBD",cost:525,capa:765,hp:305,str:22,tec:9,wlk:26,fly:10,tgh:14,wbid:999,cartridge:{hpup:30,lv1:"3*5@20|60*2@30|7@20|9@20|10@15|17@15|18@15||20@15|23@25|29@15|15@15|14@20|13@30|32@50|31@40"},joint:{hdac:1,fcac:1,hd:0,bs:0,am:0,wp:1},builtin:{bs:1,lg:1},fixedParts:{wp:{name:"でかマニモBD@",sub:{str:100,pwr:[30],rng:56,spd:68,itv:1500},tunable:{pwp:1},cost:100,slot:3}},comment:"内蔵強化値不明"}
 
 {id:3,name:"テツジンガーBD",cost:365,capa:730,hp:230,str:11,tec:4,wlk:10,fly:7,tgh:10,wbid:2,cartridge:{hpup:22,lv1:"5*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|16@20|22@30|15@15|29@20|13@30|32@50|31@40"}}
 {id:62,name:"トウキマルBD",cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|16@20|15@15|21@20|11@20|13@30|32@50|31@40"},cost:445,hp:255,capa:870,str:13,tec:5,wlk:12,fly:8,tgh:10,wbid:999,comment:"天晴・桃鬼丸"}
