@@ -252,7 +252,7 @@
 {id:77,name:"ヴィシュラLG",cost:45,hp:25,str:1,wlk:3,fly:-1,tgh:3}
 {id:332,name:"ウィンドリンクスLG",cost:45,hp:25,str:1,tec:2,wlk:2,fly:2,tgh:-1}
 
-
+{id:202308010,name:"ウオライダーLG",main:{tec:100,pwr:7,shl:1000,rng:275,spd:350,itv:740},sub:{str:100,pwr:0,shl:60,rng:100,spd:220,itv:1000},tunable:{mwp:1},size:"M",type:"a",cost:160,hp:45,str:-1,tec:2,wlk:2,fly:3,builtin:{bs:1},comment:["メイン：ビーム爆風70％+ブースト回復効果","BS機能搭載","夏祭りイベントオーダー景品"]}
 {id:450,name:"ヴォルテスLG",cost:45,hp:30,str:1,tec:1,wlk:3,fly:2,tgh:-1}
 
 
