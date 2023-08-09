@@ -367,7 +367,7 @@
 
 {id:138,name:"機巧刀･迦具土",main:{tec:100,pwr:11,shl:750,rng:350,spd:280,itv:1000},tunable:{mwp:1},type:"c",size:"M",cost:130,comment:"ホムラ・イサミネ専用コンバージョン"}
 
-
+{id:202308091,name:"シャークラッズLG@",main:{tec:100,pwr:14,shl:280,rng:300,spd:320,itv:700},tunable:{mwp:1},size:"L",type:"c",cost:50,comment:["ブースタートラブル効果","夏祭りイベントオーダー景品"]}
 {id:202204173,name:"スタンホーミングビーム",main:{str:100,pwr:5,shl:100,rng:275,spd:320,itv:500},type:"a",size:"S",cost:35,comment:"クレアモルテBD専用コンバージョンパーツ",tunable:{mwp:1}}
 
 
