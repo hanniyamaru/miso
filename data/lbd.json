@@ -4,6 +4,7 @@
 
 {group:"陸　近日更新分",prefixID:"LS",commonStat:{size:"S",type:"l"},nextID:35}
 
+{id:202308102,name:"ランチャーマニモBD",cost:600,capa:675,hp:220,str:8,tec:28,wlk:29,fly:9,tgh:9,main:{tec:100,pwr:[17,21,25],shl:[200,350,500]rng:[50],spd:[100],itv:1000},wbid:999,cartridge:{hpup:35,lv1:"75*5@20|60*2@35|7@20|9@20|10@15|17@15|18@15||20@15|23@25|29@15|15@15|14@20|13@30|32@50|31@40"},joint:{hdac:1,fcac:1,hd:0,bs:0,am:0},builtin:{bs:1,lg:1},comment:["爆風属性","夏祭りイベントオーダー景品",""]}
 
 {id:202308101,name:"サマーマニモBD",cost:600,capa:675,hp:220,str:8,tec:28,wlk:29,fly:9,tgh:9,main:{tec:100,pwr:[6,8,10],shl:[800,1000,1200],rng:[250],spd:[480],itv:100},wbid:999,cartridge:{hpup:35,lv1:"75*5@20|60*2@35|7@20|9@20|10@15|17@15|18@15||20@15|23@25|29@15|15@15|14@20|13@30|32@50|31@40"},joint:{hdac:1,fcac:1,hd:0,bs:0,am:0},builtin:{bs:1,lg:1},comment:["夏祭りイベントオーダー景品",""]}
 
