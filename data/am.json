@@ -748,8 +748,8 @@
 {id:51,name:"スケアガントAM4",cost:40,hp:25,str:-1,tec:2,wlk:2,tgh:2}
 {id:67,name:"スケアガントAM6",cost:40,hp:25,str:2,tec:-1,wlk:2,tgh:2}
 
-{id:118,name:"スチールバーンAM",main:{pwr:5,shl:600,rng:250,spd:480,itv:240},sub:{pwr:21,rng:120,spd:200,itv:500,tec:100},tunable:{mwp:1,pwp:1},type:"a",cost:130,hp:25,str:-1,tec:3,fly:2,tgh:1,comment:"-"}
-{id:119,name:"スチールバーンAM2",sub:{pwr:16,shl:140,rng:320,spd:230,itv:1000},type:"a",cost:80,hp:25,str:2,tec:2,wlk:-1,fly:1,tgh:1,comment:"未更新"}
+{id:118,name:"スチールバーンAM",main:{pwr:5,shl:600,rng:250,spd:485,itv:240},sub:{pwr:21,shl:15,rng:120,spd:200,itv:500,tec:100},tunable:{mwp:1,pwp:1},type:"a",cost:130,hp:25,str:-1,tec:3,fly:2,tgh:1,comment:""}
+{id:119,name:"スチールバーンAM2",sub:{tec:100,pwr:12,shl:200,rng:275,spd:350,itv:1000},type:"a",cost:1000,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2,comment:""}
 {id:139,name:"スチールバーンAM3",main:{pwr:10,shl:600,rng:275,spd:350,itv:300},tunable:{mwp:1},type:"a",size:"L",cost:120,hp:25,str:-1,tec:3,fly:1,tgh:2}
 {id:9,name:"スチールライダーAM",cost:35,hp:20,str:2,tec:1,wlk:1,tgh:1}
 {id:531,name:"スチールライダーAM2",type:"l",cost:135,hp:20,str:-1,tec:3,wlk:1,tgh:2,main:{tec:100,pwr:6,shl:1600,rng:200,spd:400,itv:180},tunable:{mwp:1},joint:{wp:0}}
