@@ -358,7 +358,7 @@
 
 {id:14,name:"ジオグラシスBD2",cost:445,capa:870,hp:290,str:4,tec:12,wlk:8,fly:14,tgh:10,cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|19@15|52@20|21@20|23@25|22@30|30@20|25@25|26@20|13@30|32@50|31@40"}}
 
-{id:39,name:"スチールバーンBD",cartridge:{hpup:10,lv1:"75*6@20|7@30|9@15|8@20|17@30|20@30|19@15|23@25|22@30|21@20|28@30|26@20|13@30|32@50|31@40"},cost:490,capa:945,hp:305,str:6,tec:14,wlk:7,fly:17,tgh:7,comment:"-"}
+{id:39,name:"スチールバーンBD",cartridge:{hpup:10,lv1:"75*6@20|7@30|9@15|8@20|17@30|20@30|19@15|23@25|22@30|21@20|28@30|26@20|13@30|32@50|31@40"},wbid:1,cost:490,capa:945,hp:305,str:6,tec:14,wlk:7,fly:17,tgh:7,comment:""}
 {id:13,name:"セタシオンBD",comment:["変形はAURAで対応","トランスフォーム省略、変形後cost50加算"],sub:{pwr:[0],shl:[60],rng:0,spd:150,itv:1000},auraStat:{cost:605},builtin:{bs:1},joint:{bs:0},cartridge:{hpup:10,lv1:"75*6@20|7@30|9@15|8@20|18@30|19@15|23@25|52@20|53@10|25@25|22@30|21@20|13@30|32@50|31@40"},cost:555,capa:945,hp:325,str:4,tec:14,wlk:6,fly:20,tgh:12,wbid:1,auraSystem:1,joint:{hdac:1,bs:0},fixedParts:{hdac:["S1"]}}
 
 {id:20230112,name:"ディランアーカムBD",main:{pwr:[4,5,6],shl:[1440],rng:[275,285,300],spd:[300,325,350],itv:900},sub:{spd:10,itv:1000},joint:{wp:1},cartridge:{hpup:10,lv1:"75*5@20|60*2@30|7@30|9@15|8@20|18@30|19@15|23@25|52@20|15@20|22@30|21@20|13@30|32@50|31@40"},fixedParts:{hd:{name:"ディランアーカムHDJ",joint:{hd:1,hdac:0,fcac:0},slot:1},wp:{name:"ディランアーカムBD@",sub:{itv:2000},slot:0}},cost:590,capa:945,hp:305,str:5,tec:14,wlk:6,fly:13,tgh:13,wbid:1,comment:["BDメイン：ビーム爆風90％？","搭乗時の銃座：乗者側のTEC依存：威力5"]}
