@@ -23,7 +23,7 @@
 {id:120,name:"アンコAM2（コンバージョンなし）",cost:35,hp:20,str:-1,tec:3,wlk:2,tgh:1,comment:["コンバージョンパーツのみ装着可能","部位破壊不能"]}
 
 {id:97,name:"イルミスAM",cost:40,hp:25,tec:3,wlk:1,fly:1}
-{id:20230511,name:"イルミスAM2",cost:40,hp:25,tec:3,wlk:1,fly:1,comment:"イルミス専用コンバージョンパーツ",fixedParts:{wp:{name:"ブラックバズーカ",main:{tec:100,pwr:24,shl:400,rng:330,spd:400,itv:500},tunable:{mwp:1},cost:90,comment:["自軍貫通","イルミスAM専用コンバージョンパーツ"}},type:"c"]}
+{id:20230511,name:"イルミスAM2",cost:40,hp:25,tec:3,wlk:1,fly:1,comment:"イルミス専用コンバージョンパーツ",fixedParts:{wp:{name:"ブラックバズーカ",main:{tec:100,pwr:24,shl:400,rng:330,spd:400,itv:500},tunable:{mwp:1},cost:90,comment:["自軍貫通","イルミスAM専用コンバージョンパーツ"]}},type:"c"}
 {id:20230512,name:"イルミスAM2（コンバージョン無し）",cost:40,hp:25,tec:3,wlk:1,fly:1,comment:"イルミス専用コンバージョンパーツ"}
 
 {id:2,name:"ウィンベルαAM",type:"s",cost:75,hp:20,tec:2,tgh:3,main:{pwr:7,shl:280,rng:250,spd:480,itv:500},tunable:{mwp:1}}
