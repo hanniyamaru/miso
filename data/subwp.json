@@ -104,6 +104,8 @@
 {id:11,name:"ブリガンドアクス",sub:{str:100,pwr:30,rng:49,spd:60,itv:2000},type:"l",size:"LL",cost:180,tunable:{pwp:1}}
 {id:300,name:"ビームエッジアクス",sub:{tec:100,pwr:34,tec:100,rng:100,spd:180,itv:1000},tunable:{pwp:1},type:"a",size:"L",cost:100}
 {id:2022114,name:"オールドスライサー",sub:{str:100,pwr:27,rng:70,spd:85,itv:2000},tunable:{pwp:1},type:"l",size:"L",cost:160}
+{id:202308243,name:"トルネードアクス",sub:{str:100,pwr:34,rng:56,spd:68,itv:1000},tunable:{pwp:1},type:"l",size:"S",cost:160,comment:"パーツクリエイト"}
+
 
 {group:"メイス系",prefixID:"MC",commonStat:{tunable:{pwp:1}},nextID:7}
 
@@ -183,6 +185,7 @@
 {id:202306142,name:"パラドックススター",type:"l",size:"L",cost:140,sub:{str:100,pwr:33,rng:56,spd:68,itv:1500},comment:"コラボイベントオーダー・混沌ドロップ"}
 
 {id:20230805,name:"シュトゥルムドルヒR",sub:{str:100,pwr:28,shl:150,rng:85,spd:70,itv:1000},type:"a",size:"M",cost:130,tunable:{pwp:1},comment:["FLY依存サブ","ブースト回復効果","アニマ・ゼータディスクβ（NPCステラ）"]}
+{id:202308245,name:"ドラゴンファング",main:{str:100,pwr:5,shl:400,rng:180,spd:480,itv:100},sub:{str:100,pwr:34,rng:77,spd:94,itv:1000},tunable:{mwp:1,pwp:1},type:"l",size:"M",cost:200,comment:["最終段+10％？","パーツクリエイト"]}
 
 
 {group:"subコンバージョン（順不同）",prefixID:"MOx",nextID:17}
