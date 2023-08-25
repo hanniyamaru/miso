@@ -96,6 +96,7 @@
 {id:20220909,name:"ミニマシンガン",size:"M",cost:70,main:{tec:100,pwr:8,shl:800,rng:180,spd:400,itv:140,comment:"ジオグラシス初期装備"}}
 {id:20230407,name:"07式サブマシンガン",size:"M",cost:130,main:{tec:100,pwr:13,shl:1440,rng:160,spd:480,itv:140},type:"lc",comment:"コラボイベントオーダー景品"}
 {id:202306095,name:"ウォーターガトリング",main:{tec:100,pwr:8,shl:200,rng:200,spd:400,itv:140},sub:{str:100,pwr:0,shl:0,rng:0,spd:0,itv:500},tunable:{mwp:1},size:"S",cost:100,comment:["梅雨イベント2023オーダー景品",""]}
+{id:20230824,name:"ゴブマシンガン",main:{tec:100,pwr:20,shl:600,rng:160,spd:480,itv:140},tunable:{mwp:1},type:"l",size:"M",cost:160,comment:["パーツクリエイト",""]}
 
 
 {group:"ライフル系",prefixID:"LF",commonStat:{tunable:{mwp:1}},nextID:24}
@@ -188,6 +189,9 @@
 {id:2022202,name:"マナキャノン",type:"c",size:"M",cost:100,main:{pwr:25,shl:360,rng:330,spd:400,itv:500}}
 {id:202204195,name:"DRIVEソリッドバズーカ",size:"L",cost:120,type:"l",main:{tec:100,pwr:24,shl:360,rng:225,spd:320,itv:500},tunable:{mwp:1},comment:["レッドスクィラDRIVE付属"]}
 
+{id:202308242,name:"エレキバズーカ",type:"c",size:"L",cost:150,main:{tec:100,pwr:31,shl:250,rng:330,spd:440,itv:800},comment:["パーツクリエイト",""]}
+
+  
 {id:2911,name:"メガビームガン",type:"a",size:"L",cost:110,main:{pwr:33,shl:150,rng:275,spd:400,itv:1000}}
 {id:202301181,name:"メガライトニングガン",size:"L",type:"a",cost:160,main:{tec:100,pwr:40,shl:100,rng:275,spd:360,itv:1000},comment:"Season8アリーナコイン景品"}
 
@@ -232,6 +236,7 @@
 {id:38,name:"ビームランチャー",main:{tec:100,pwr:27,shl:180,rng:275,spd:280,itv:1000},size:"L",type:"a",cost:100}
 
 {id:20222021,name:"ガーディアンライフル",type:"a",size:"M",cost:80,main:{pwr:13,shl:400,rng:275,spd:280,itv:500},comment:["NPCコレッティ","ビーム爆風70％"]}
+{id:202308241,name:"ペペンランチャー",type:"a",size:"M",cost:85,main:{tec:100,pwr:20,shl:270,rng:275,spd:280,itv:700},comment:["パーツクリエイト",""]}
 
 
 
