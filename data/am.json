@@ -1026,6 +1026,8 @@
 {id:100,name:"バアルAMJ",tunable:{pwp:0,mwp:0},type:"c",size:"M",cost:40,slot:1,main:{tec:100,pwr:11,shl:210,rng:330,spd:290,itv:800}}
 
 {id:5,name:"ハウザーAMJ",type:"c",size:"L",cost:60,tec:2,wlk:-1,sub:{pwr:33,shl:60,rng:350,spd:230,itv:1000},slot:1,comment:"爆風70％"}
+{id:202308246,name:"ハウザーミサイルAMJ",main:{pwr:15,shl:250,rng:330,spd:355,itv:660},tunable:{mwp:1},type:"c",size:"M",cost:65,slot:1,comment:"パーツクリエイト"}
+
 
 {id:17,name:"ビームミサイルAMJ",main:{pwr:14,shl:130,rng:275,spd:350,itv:900},tunable:{mwp:1},type:"a",size:"M",cost:60,slot:1}
 
