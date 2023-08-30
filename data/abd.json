@@ -203,7 +203,8 @@
 
 {id:28,name:"イニトォンBD",cartridge:{hpup:18,lv1:"4*5@20|61*2@30|7@30|9@15|8@20|19@15|23@25|22@30|52@20|26@20|21@20|30@20|13@30|32@50|31@40"},fixedParts:{wp:{main:{pwr:[21,24,28],tec:100,shl:[310],rng:[275],spd:[440],itv:[700,700,700]},name:"イニトォンBD@",slot:0,builtin:{bs:1},cost:120,joint:{am:2}}},cost:405,capa:800,hp:245,str:4,tec:11,wlk:6,fly:13,tgh:10,wbid:1,joint:{wp:1,am:0}}
 
-{id:34,name:"イニトォンBD2",cartridge:{hpup:18,lv1:"85*5@20|61*2@30|7@30|9@15|8@20|19@15|23@25|22@30|52@20|26@20|21@20|30@20|13@30|32@50|31@40"},fixedParts:{wp:{name:"イニトォンBD2@",main:{pwr:[10],shl:[1280],rng:200,spd:440,itv:500},cost:170,joint:{am:2},sub:{tec:100,pwr:[25],shl:[50],rng:120,spd:250,itv:1000},slot:0}},cost:405,capa:800,hp:245,str:4,tec:14,wlk:6,fly:11,tgh:10,wbid:1,joint:{wp:1,am:0}}
+{id:34,name:"イニトォンBD2",main:{pwr:[10,11,12],shl:[1280,1360,1440],rng:200,spd:440,itv:[500,460,420]},sub:{tec:100,pwr:[25,26,27],shl:[50],rng:120,spd:250,itv:1000},cartridge:{hpup:18,lv1:"85*5@20|61*2@30|7@30|9@15|8@20|19@15|23@25|22@30|52@20|26@20|21@20|30@20|13@30|32@50|31@40"},cost:575,capa:800,hp:245,str:4,tec:14,wlk:6,fly:11,tgh:10,wbid:1},comment:["メイン：距離減衰有り","サブ：ヒットストップ無し","BD2@省略cost+170複合","イニトォン432"]}
+ 
 
 {id:41,name:"インサネクトBD",joint:{am:1,wp:0},cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|19@15|21@20|23@25|22@30|52@20|25@25|30@20|15@20|13@30|32@50|31@40"},fixedParts:{am:{main:{tec:100,pwr:14,shl:560,rng:275,spd:440,itv:300},sub:{tec:100,pwr:20,shl:30,rng:250,spd:280,itv:1000},tunable:{mwp:1,pwp:0},joint:{hd:0,lg:0,bs:0,am:0,wp:0,hdac:0,fcac:0},auraStat:{main:{tec:100,pwr:36,shl:140,rng:275,spd:440,itv:1000},str:-2,tec:6,fly:2,tgh:4},name:"インサネクトAM",type:"a",size:"M",cost:260,hp:50,str:-2,tec:6,fly:2,tgh:4}},size:"M",type:"a",cost:445,capa:870,hp:255,str:4,tec:15,wlk:6,fly:13,tgh:10,wbid:1,auraSystem:1,sub:{itv:3000},auraStat:{sub:{itv:1000},comment:"AMに変形機構有、AURAで代用."},comment:["AMに変形機構有、AURAで代用","メイン弾にブースト回収効果"]}
 
