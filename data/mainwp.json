@@ -321,7 +321,7 @@
 
 {id:6554,name:"龍天撃",main:{str:100,pwr:13,shl:240,rng:225,spd:400,itv:500},tunable:{mwp:1},size:"M",type:"l",cost:100,comment:"NPCジークンロン"}
 {id:20221230,name:"イオンのアクアポッド",main:{tec:100,pwr:0,shl:30,rng:300,spd:300,itv:500},wlk:1,size:"S",cost:30,comment:["ピュリファイ効果（フィールド強化効果のみ）","NPCイオン"]}
-{id:6555,name:"ブリンクメイス",size:"M",type:"c",cost:190,main:{pwr:12,shl:390,rng:330,spd:330,itv:1000},sub:{tec:100,pwr:30,rng:75,spd:100,itv:1000},tunable:{pwp:1}}
+{id:6555,name:"ブリンクメイス",size:"M",type:"c",cost:190,main:{pwr:12,shl:390,rng:330,spd:330,itv:1000},sub:{tec:100,pwr:30,rng:75,spd:100,itv:1000},tunable:{pwp:1},comment:["メイン：爆風50％","ブリンク初期装備"]}
 
 {id:6556,name:"ブリンクシールド",main:{tec:100,pwr:0,shl:50,rng:0,spd:10,itv:1000},tunable:{mwp:1},size:"M",type:"c",cost:30}
 
