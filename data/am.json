@@ -407,7 +407,7 @@
 {id:34,name:"シノ･イクスロードAM2",type:"l",cost:80,hp:25,str:2,tec:-1,wlk:2,tgh:2,sub:{str:100,pwr:24,rng:91,spd:110,itv:500},tunable:{pwp:1}}
 
 {id:304,name:"ジェネシオンAM",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1}
-{id:197,name:"ジェネシオンAM2",main:{tec:100,pwr:44,shl:150,rng:275,spd:480,itv:1000},tunable:{mwp:1},type:"a",size:"M",cost:195,hp:20,str:-1,tec:3,fly:2,tgh:1,joint:{wp:0}}
+{id:197,name:"ジェネシオンAM2",main:{tec:100,pwr:44,shl:150,rng:275,spd:480,itv:1000},tunable:{mwp:1},type:"a",size:"M",cost:195,hp:20,str:-1,tec:3,fly:2,tgh:1,joint:{wp:0},comment:["追撃弾：威力11？ビーム爆風100％",""]}
 {id:202207072,name:"ジェネシオンAM3",main:{pwr:44,shl:150,rng:275,spd:440,itv:1000},type:"a",size:"M",cost:195,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,tunable:{mwp:1},joint:{wp:0},comment:["BEAM MINE","ジェネシオンSB"]}
 
 {id:60,name:"シャーヘッドAM",cost:35,hp:20,str:1,tec:2,wlk:1,fly:-1,tgh:2}
