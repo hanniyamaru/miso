@@ -509,6 +509,7 @@
 
 {id:2,name:"パラボロイドHD",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
 {id:258,name:"ハリーアクセルHD",cost:35,hp:20,str:-1,tec:1,wlk:1,fly:2,tgh:2}
+{id:202309062,name:"ハリーアクセルHD2",size:"M",cost:35,hp:20,tec:2,wlk:-1,fly:3,tgh:1,comment:["SO"]}
 {id:162,name:"バルーダHD",main:{pwr:10,shl:540,rng:275,spd:350,itv:300},cost:40,hp:25,str:1,tec:2,tgh:2,tunable:{mwp:1}}
 
 {id:46,name:"パルサーディオHD",cost:40,hp:25,tec:3,wlk:1,tgh:1}
