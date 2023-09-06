@@ -561,6 +561,7 @@
 {id:29,name:"マリルマーチαAM2",type:"c",cost:105,hp:20,str:-1,tec:3,fly:1,tgh:2,main:{pwr:31,shl:220,rng:330,spd:440,itv:800},tunable:{mwp:1},joint:{wp:0}}
 {id:30,name:"マリルマーチαAM3",type:"c",cost:155,hp:20,str:-1,tec:4,wlk:1,fly:1,main:{pwr:18,shl:480,rng:330,spd:440,itv:400},tunable:{mwp:1},joint:{wp:0}}
 {id:31,name:"マリルマーチαAM4",type:"c",cost:45,hp:20,tec:2,wlk:1,fly:-1,tgh:3,sub:{tec:100,pwr:30,rng:75,spd:200,itv:1000},tunable:{pwp:1},joint:{wp:0}}
+{id:202309063,name:"マリンダイバーAM",size:"M",cost:35,hp:20,tec:2,wlk:1,fly:1,tgh:1,comment:[""]}
 {id:142,name:"マンティサイスAM",sub:{str:100,pwr:26,rng:91,spd:60,itv:500},tunable:{pwp:1,mwp:0},type:"las",size:"M",cost:135,hp:20,str:3,tec:-1,wlk:2,fly:1,joint:{wp:0}}
 
 {id:25,name:"ミカドマックスAM",type:"l",cost:35,hp:20,str:3,tec:-1,wlk:1,tgh:2}
