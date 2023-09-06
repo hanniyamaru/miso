@@ -5,6 +5,8 @@
 {group:"陸　近日更新分",prefixID:"LS",commonStat:{size:"S",type:"l"},nextID:35}
 
 
+{id:20230906,name:"フレオーネBD",sub:{str:100,pwr:50,rng:200,spd:250,itv:1000},joint:{bs:2},cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15|20@15|11@20|43@20|21@20|23@25|13@30|34@15|32@50|31@40"},fixedParts:{hdac:["S1","S1"],hd:{name:"フレオーネHD",cost:40,hp:25,str:1,wlk:1,tgh:3},lg:{name:"フレオーネLG",cost:45,hp:25,str:1,wlk:4,tgh:1},am:[{name:"フレオーネAM",main:{str:100,pwr:20,shl:410,rng:225,spd:450,itv:580},sub:{str:100,pwr:32,shl:0,rng:70,spd:85,itv:1000},joint:{wp:0},cost:210,hp:25,str:2,wlk:2,tgh:1,tunable:{pwp:1,mwp:1}},{name:"フレオーネAM2",main:{shl:50,rng:0,spd:10,itv:1000},joint:{wp:0},cost:60,hp:25,str:2,wlk:2,tgh:1,tunable:{mwp:1}}]},type:"l",size:"M",cost:495,hp:255,capa:920,str:13,tec:4,wlk:12,fly:9,tgh:10,joint:{hdac:2}}
+
 {id:20230827,name:"でかランチャーマニモBD",cost:660,capa:765,hp:305,str:9,tec:30,wlk:26,fly:10,tgh:14,size:"M",main:{tec:100,pwr:[20,24,28],shl:[200,300,500],rng:[50],spd:[100],itv:1000},wbid:999,cartridge:{hpup:30,lv1:"3*5@20|60*2@30|7@20|9@20|10@15|17@15|18@15||20@15|23@25|29@15|15@15|14@20|13@30|32@50|31@40"},joint:{hdac:1,fcac:1,hd:0,bs:0,am:0},builtin:{bs:1,lg:1},comment:["爆風属性100%","夏祭りイベントオーダー景品",""]}
 
 {id:202308271,name:"でかサマーマニモBD",cost:660,capa:765,hp:305,str:9,tec:30,wlk:26,fly:10,tgh:14,size:"M",main:{tec:100,pwr:[7,9,11],shl:[800,1000,1200],rng:[250],spd:[480],itv:100},wbid:999,cartridge:{hpup:30,lv1:"3*5@20|60*2@30|7@20|9@20|10@15|17@15|18@15||20@15|23@25|29@15|15@15|14@20|13@30|32@50|31@40"},joint:{hdac:1,fcac:1,hd:0,bs:0,am:0},builtin:{bs:1,lg:1},comment:["夏祭りイベントオーダー景品",""]}
@@ -292,9 +294,9 @@
 
 {id:43,name:"シノーリスBD2",main:{pwr:[9,10,11],shl:[480],rng:250,spd:320,itv:300},type:"l",size:"M",cost:590,capa:980,hp:270,str:5,tec:10,wlk:16,fly:6,tgh:6,cartridge:{hpup:10,lv1:"75*5@20|60*2@30|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|25@25|26@20|13@30|32@50|31@40"},comment:["BD@省略cost+100複合"]}
 
-{id:11,name:"シャーヘッドBD",cost:465,capa:870,hp:255,str:8,tec:7,wlk:17,fly:9,tgh:7,wbid:5,cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|21@20|16@20|12@20|13@30|32@50|31@40"},fixedParts:{lg:{name:"シャーヘッドLG",cost:145,hp:40,str:2,tec:-1,wlk:4,fly:1,sub:{str:100,pwr:31,rng:77,spd:94,itv:1000},tunable:{pwp:1}}},comment:"エアランニング初期搭載"}
+{id:11,name:"シャーヘッドBD",cost:465,capa:870,hp:255,str:8,tec:7,wlk:17,fly:9,tgh:7,wbid:5,cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|21@20|16@20|12@20|13@30|32@50|31@40"},fixedParts:{lg:{name:"シャーヘッドLG",cost:145,hp:40,str:2,tec:-1,wlk:4,fly:1,sub:{str:100,pwr:33,rng:77,spd:94,itv:1000},tunable:{pwp:1}}},comment:"エアランニング初期搭載"}
 
-{id:31,name:"シャーヘッドBD2",cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|21@20|16@20|12@20|13@30|32@50|31@40"},fixedParts:{lg:{name:"シャーヘッドLG2",sub:{str:100,pwr:34,rng:70,spd:85,itv:1000},tunable:{pwp:1},cost:145,hp:40,str:3,tec:-1,wlk:3,tgh:1,comment:["WLK依存格闘","後方宙返りはWLKの影響を受けない（要検証）","速度減チューンで後方宙返りの移動距離が減る（要検証）"]}},cost:465,capa:870,hp:255,str:10,tec:5,wlk:16,fly:8,tgh:9,wbid:5,comment:["エアランニング初期搭載","シャーヘッドBW"]}
+{id:31,name:"シャーヘッドBD2",cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|21@20|16@20|12@20|13@30|32@50|31@40"},fixedParts:{lg:{name:"シャーヘッドLG2",sub:{str:100,pwr:34,rng:70,spd:85,itv:1000},tunable:{pwp:1},cost:145,hp:40,str:3,tec:-1,wlk:3,tgh:1,comment:["2コンボ目の各倍率：0.7倍（直・衝撃波）","WLK依存格闘","後方宙返りはWLKの影響を受けない（要検証）","速度減チューンで後方宙返りの移動距離が減る（要検証）"]}},cost:465,capa:870,hp:255,str:10,tec:5,wlk:16,fly:8,tgh:9,wbid:5,comment:["エアランニング初期搭載","シャーヘッドBW"]}
 {id:2022203,name:"シャドウフロウBD",cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|25@25|26@20|13@30|14@20|32@50|31@40"},cost:445,capa:905,hp:255,str:5,tec:6,wlk:12,fly:9,tgh:8,comment:["HDJ省略","ガマカゲ・格闘威力32・射撃威力34"]}
 
 {id:49,name:"スパーダBD",joint:{wp:1},cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|16@20|21@20|15@15|28@20|13@30|32@50|31@40"},auraStat:{str:13,tec:4,wlk:13,fly:8,tgh:10},type:"l",size:"M",cost:445,capa:870,hp:255,str:13,tec:4,wlk:13,fly:8,tgh:10,auraSystem:1,wbid:73}
