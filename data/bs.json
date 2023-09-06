@@ -737,7 +737,7 @@
 
 {id:80,name:"バフデバスターBS",type:"s",cost:40,hp:25,str:-1,wlk:1,fly:3,tgh:2}
 {id:8299,name:"ハリーアクセルBS",type:"a",cost:35,hp:20,str:-1,tec:1,fly:3,tgh:2}
-
+{id:202309062,name:"ハリーアクセルBS",main:{tec:100,pwr:8,shl:700,rng:275,spd:440,itv:540},sub:{tec:100,pwr:14,shl:80,rng:275,spd:480,itv:1000},tunable:{pwp:1,mwp:0},auraStat:{main:{shl:900,spd:480,itv:300},sub:{pwr:20,rng:300,spd:520}},type:"a",size:"L",cost:115,hp:20,str:-1,tec:3,fly:3,comment:"変形対応"}
 {id:21,name:"パルサーディオBS",type:"s",cost:40,hp:25,wlk:2,fly:2,tgh:1}
 
 
