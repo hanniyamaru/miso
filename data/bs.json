@@ -535,7 +535,7 @@
 {id:20220417,name:"ヘリンガルMK-2BS",type:"a",size:"M",cost:165,hp:20,str:2,tec:-1,fly:4,sub:{str:100,pwr:30,shl:150,rng:70,spd:85,itv:1000},tunable:{pwp:1},comment:["ロボガラポン"]}
 
 {id:443,name:"ブリンクBS",type:"c",cost:40,hp:25,str:1,tec:1,fly:3}
-{id:20230906,name:"フレオーネBS",type:"l",cost:35,hp:20,str:2,tec:-1,wkl:1,fly:2,tgh:1}
+{id:20230906,name:"フレオーネBS",type:"l",cost:35,hp:20,str:2,tec:-1,wlk:1,fly:2,tgh:1}
 
 {id:104,name:"ヘラクビートランダーBS",type:"l",cost:40,hp:25,tec:1,fly:3,tgh:1}
 
