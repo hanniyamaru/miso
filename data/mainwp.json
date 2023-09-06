@@ -642,7 +642,7 @@
 {group:"レプリィコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:20230906,name:"プリティラビットバズーカ",main:{tec:100,pwr:34,shl:280,rng:225,spd:340,itv:700},type:"c",size:"S",cost:100,slot:3,comment:["爆風100％？","レプリィAM専用コンバージョンパーツ"]}
 
-{id:20230906,name:"プリティニンジンミサイル",main:{tec:100,pwr:11,shl:630,rng:330,spd:360,itv:300},type:"c",size:"S",cost:55,slot:3,comment:["","レプリィAM専用コンバージョンパーツ"]}
+{id:202309061,name:"プリティニンジンミサイル",main:{tec:100,pwr:11,shl:630,rng:330,spd:360,itv:300},type:"c",size:"S",cost:55,slot:3,comment:["","レプリィAM専用コンバージョンパーツ"]}
 
 
 
