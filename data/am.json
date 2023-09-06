@@ -830,7 +830,7 @@
 {id:122,name:"バフデバスターAM",sub:{pwr:22,rng:150,spd:10,itv:1000,str:100},tunable:{pwp:1},cost:60,hp:20,str:1,fly:1,tgh:3,type:"s"}
 {id:165,name:"バフデバスターAM2",main:{tec:100,pwr:17,shl:320,rng:250,spd:400,itv:500},tunable:{mwp:1},type:"s",size:"L",cost:95,hp:20,tec:2,wlk:1,fly:1,tgh:1,comment:"FL"}
 {id:123,name:"ハリーアクセルAM",cost:35,hp:20,str:1,tec:3,wlk:-1,fly:2}
-{id:202309062,name:"ハリーアクセルAM2",main:{tec:100,pwr:6,shl:760,rng:275,spd:350,itv:500},type:"a",size:"L",cost:95,hp:20,tec:2,fly:1,tgh:2,auraStat:{sub:{shl:920,itv:900}},comment:"変形対応"}
+{id:202309062,name:"ハリーアクセルAM2",main:{tec:100,pwr:6,shl:760,rng:275,spd:350,itv:500},type:"a",size:"L",cost:95,hp:20,tec:2,fly:1,tgh:2,auraStat:{main:{shl:920,itv:900}},comment:"変形対応"}
 
 {id:13,name:"パルサーディオAM",cost:40,hp:25,str:2,wlk:1,tgh:2}
 
