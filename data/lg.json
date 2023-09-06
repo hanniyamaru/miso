@@ -388,7 +388,7 @@
 {id:350,name:"バグジーケットLG",cost:45,hp:25,str:1,tec:2,wlk:3}
 {id:20221030,name:"ハザードビクトリーLG",size:"M",cost:40,hp:20,str:2,tec:1,wlk:3,tgh:-1,comment:["イベント宙域","シュタインズキューブ"]}
 {id:1,name:"パラボロイドLG",cost:40,hp:20,tec:1,wlk:3,fly:1}
-
+{id:202309062,name:"ハリーアクセルLG2",sub:{tec:100,pwr:5,shl:320,rng:275,spd:320,itv:1000},type:"a",size:"M",cost:85,hp:25,str:-1,tec:2,wlk:2,fly:2,tgh:1,comment:[""],auraStat:{sub:{pwr:7,rng:300}},comment:"変形対応"}
 
 {id:45,name:"バンガードLG",cost:45,hp:25,str:2,tec:-1,wlk:3,tgh:2}
 {id:52,name:"バンガードLG2",cost:45,hp:25,str:1,wlk:3,fly:-1,tgh:3}
