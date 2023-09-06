@@ -1,5 +1,4 @@
 {group:"Ｓサイズ",prefixID:"S",commonStat:{size:"S"},nextID:24}
-{id:2,name:"フログランダーHD",cost:35,hp:20,str:1,tec:1,wlk:1,fly:2,comment:"カエルぅ☆"}
 
 
 
@@ -82,6 +81,7 @@
 
 
 {id:300,name:"フェアリスHD",cost:40,hp:25,str:1,tec:2,wlk:1,fly:2,tgh:-1}
+{id:2,name:"フログランダーHD",cost:35,hp:20,str:1,tec:1,wlk:1,fly:2,comment:"カエルぅ☆"}
 {id:17,name:"ホネボンHD",cost:35,hp:20,tec:2,wlk:1,tgh:2,comment:"2022/2/16更新"}
 
 
@@ -94,6 +94,7 @@
 {id:308,name:"ポーンジャーHD3",size:"M",type:"lacs",cost:35,hp:20,str:2,tec:-1,wlk:2,tgh:2,comment:"B・ポーンジャーAr"}
 {id:202211034,name:"ポォウルHD",type:"a",size:"S",cost:130,hp:20,str:-1,tec:3,fly:2,tgh:1,main:{tec:100,pwr:32,shl:120,rng:275,spd:440,itv:1000},tunable:{mwp:1},comment:["爆風30％？","威力を上げ過ぎるとスタンでダメージが安定しない"]}
 
+{id:202309063,name:"マリンダイバーHD",main:{tec:100,pwr:15,shl:280,rng:330,spd:280,itv:680},type:"c",size:"S",cost:95,hp:20,str:-1,tec:2,wlk:2,tgh:2,auraStat:{main:{pwr:16,shl:340,itv:580}},comment:"変形対応"}
 
 {id:18,name:"ミッサイドHD",cost:40,hp:25,tec:2,wlk:1,tgh:2}
 {id:6,name:"メカルドHD",cost:30,hp:15,tec:2,wlk:1,tgh:1,size:"S",comment:["Season7アリーナコイン景品"]}
