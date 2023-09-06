@@ -257,7 +257,7 @@
 
 {group:"リティアコンバージョン",prefixID:"MOx",commonStat:{tunable:{pwp:1}},nextID:17}
 {id:202306152,name:"カルトスウィング@",main:{str:100,pwr:5,shl:1200,rng:275,spd:300,itv:300},tunable:{mwp:1},cost:70,type:"a",size:"S",comment:"カルトスウィング専用コンバージョンパーツ"}
-{id:202306153,name:"カルトスソード",sub:{str:100,pwr:30,shl:0,rng:77,spd:94,itv:1000},cost:120,type:"a",size:"S",comment:["FLY依存サブ","リティアAM2専用コンバージョンパーツ"]}
+{id:202306153,name:"カルトスソード",sub:{str:100,pwr:28,shl:0,rng:77,spd:94,itv:1000},cost:120,type:"a",size:"S",comment:["FLY依存サブ","リティアAM2専用コンバージョンパーツ"]}
 {id:202306154,name:"カルトステイル",sub:{str:100,pwr:0,shl:60,rng:200,spd:350,itv:1000},tunable:{pwp:0},cost:50,type:"a",size:"S",comment:["@省略","リティアLG専用コンバージョンパーツ"]}
 
 
