@@ -550,6 +550,7 @@
 
 {id:22,name:"マリルマーチαBS",type:"c",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:3,tgh:1}
 {id:189,name:"マルグレーテBS",type:"l",size:"M",cost:40,hp:25,tec:-1,wlk:1,fly:3,tgh:2}
+{id:202309063,name:"マリンダイバーBS",size:"M",type:"c",cost:35,hp:20,tec:2,wlk:1,fly:3,tgh:-1,comment:[""]}
 {id:123,name:"マンティサイスBS",type:"l",size:"M",cost:40,hp:20,str:1,tec:1,wlk:1,fly:3,tgh:-1}
 
 
