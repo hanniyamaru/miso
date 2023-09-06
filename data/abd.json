@@ -260,6 +260,7 @@
 
 
 {id:38,name:"ハリーアクセルBD",main:{pwr:[20,22,24],shl:[360],rng:[275,285,300],spd:[440,480,520],itv:700},sub:{shl:0,spd:180,itv:1000},joint:{wp:1},cartridge:{hpup:14,lv1:"4*5@20|61*2@30|7@30|9@15|8@20|19@15|22@30|23@25|52@20|26@20|21@20|30@20|13@30|32@50|31@40"},fixedParts:{wp:{name:"ハリーアクセルBD@",main:{pwr:10,shl:660,rng:275,spd:280,itv:740},tunable:{mwp:1,pwp:0},type:"a",slot:3,cost:40},lg:{name:"ハリーアクセルLG",sub:{shl:60,spd:180,itv:1000},tunable:{pwp:0},builtin:{lg:1},cost:75,type:"lacs",hp:25,str:-1,wlk:3,fly:1,tgh:3,comment:["◆CT6秒 ◆ブースト回復：50％","◆離陸：斜め+入力方向 ◆飛行：入力方向※1","※1　ブーストゲージ消失中は消失直前の進行方向を受け継ぎ、ゲージ消失中は移動キー入力を受け付けない"]}},auraStat:{main:{shl:[1320],itv:300}},type:"a",size:"M",cost:515,capa:870,hp:255,str:3,tec:14,wlk:7,fly:15,tgh:9,wbid:1,auraSystem:1}
+{id:202309062,name:"ハリーアクセルBD2",main:{pwr:[18],shl:[360],rng:[275],spd:[480],itv:500},sub:{shl:0,spd:180,itv:1000},cartridge:{hpup:14,lv1:"4*5@20|61*2@30|7@30|9@15|8@20|19@15|22@30|23@25|52@20|26@20|21@20|30@20|13@30|32@50|31@40"}},auraStat:{main:{pwr:13,shl:[560],itv:700}},type:"a",size:"M",cost:485,capa:870,hp:255,str:3,tec:16,wlk:7,fly:14,tgh:8,wbid:1,auraSystem:1,comment:["内蔵強化値不明","AURA機構","SO"]}
 
 {id:50,name:"ミラージュレイドBD",cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|18@30|19@15|23@25|52@20|28@30|15@20|21@20|22@30|13@30|32@50|31@40"},wbid:17,type:"a",size:"M",cost:445,capa:870,hp:255,str:13,tec:5,wlk:8,fly:12,tgh:10,auraSystem:1,comment:"AURA機構"}
 
