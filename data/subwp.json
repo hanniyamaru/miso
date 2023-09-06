@@ -221,8 +221,8 @@
 {id:25,name:"スパイクシューター",main:{str:100,pwr:[5],shl:[700],rng:225,spd:400,itv:140},sub:{str:100,pwr:6,rng:250,spd:500,itv:1000},comment:"クルール・グラッド専用コンバージョンパーツ",type:"l",size:"S",cost:60,slot:3,tunable:{mwp:1,pwp:0}}
 
 {group:"コロナコンバージョン",prefixID:"MOx",commonStat:{tunable:{pwp:1}},nextID:17}
-{id:202308021,name:"イェーガーシルト",main:{shl:50,spd:10,itv:1000},sub:{str:100,pwr:35,rng:63,spd:77,itv:1000},tunable:{mwp:1,pwp:1},cost:140,type:"l",comment:["コロナ・クーガー専用コンバージョンパーツ","V"],size:"S",joint:{wp:1},fixedParts:{wp:{name:"イェーガーシルト@",main:{str:100,pwr:25,shl:80,rng:200,spd:400,itv:500},cost:30,tunable:{mwp:0},size:"S",type:"l",slot:0}}}
-{id:100,name:"クリーガーシルト",main:{shl:50,spd:10,itv:1000},sub:{str:100,pwr:32,rng:70,spd:85,itv:1000},comment:["コロナAM専用コンバージョンパーツ1","メルト効果時間4秒"],comment:"コロナ専用コンバージョンパーツ",cost:120,size:"S",type:"l",tunable:{mwp:1,pwp:1},fixedParts:{wp:{name:"クリーガーシルト＠",sub:{str:100,pwr:30,rng:120,spd:200,itv:1000},cost:50,slot:0,type:"l",size:"S"}},joint:{wp:1}}
+{id:202308021,name:"イェーガーシルト",main:{shl:50,spd:10,itv:1000},sub:{str:100,pwr:35,rng:63,spd:77,itv:1000},tunable:{mwp:1,pwp:1},cost:140,type:"l",comment:["ライトバーニング時：1.1倍","バーニング時：1.25倍","コロナ・クーガー専用コンバージョンパーツ","V"],size:"S",joint:{wp:1},fixedParts:{wp:{name:"イェーガーシルト@",main:{str:100,pwr:25,shl:80,rng:200,spd:400,itv:500},cost:30,tunable:{mwp:0},size:"S",type:"l",slot:0}}}
+{id:100,name:"クリーガーシルト",main:{shl:50,spd:10,itv:1000},sub:{str:100,pwr:32,rng:70,spd:85,itv:1000},comment:["コロナAM専用コンバージョンパーツ1","メルト効果時間4秒"],comment:["ライトバーニング時：1.1倍","バーニング時：1.25倍","コロナ専用コンバージョンパーツ"],cost:120,size:"S",type:"l",tunable:{mwp:1,pwp:1},fixedParts:{wp:{name:"クリーガーシルト＠",sub:{str:100,pwr:30,rng:120,spd:200,itv:1000},cost:50,slot:0,type:"l",size:"S"}},joint:{wp:1}}
 
 {group:"さくらコンバージョン",prefixID:"MOx",commonStat:{tunable:{pwp:1}},nextID:17}
 {id:202306082,name:"獄卒の勾玉",slot:0,type:"l",size:"S",comment:"サクラAM2専用コンバージョンパーツ",joint:{wp:4}}
