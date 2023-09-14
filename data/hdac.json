@@ -46,11 +46,11 @@
 
 {group:"　",nextID:45}
 
-{id:1401,name:"STR+1.HP+10.(HD)",str:1,hp:10,slot:1}
-{id:1402,name:"TEC+1.HP+10.(HD)",tec:1,hp:10,slot:1}
+{id:1401,name:"STR+1.HP+10.(HD)",str:1,hp:10,slot:1,comment:["ドレスリボン（アクセサリーキューブ）","ユニオンリボンDOS（ユニオンコイン景品）"]}
+{id:1402,name:"TEC+1.HP+10.(HD)",tec:1,hp:10,slot:1,comment:["エンジェルクラウン（？）","ドレスリボンW（アクセサリーキューブ）"]}
 {id:1403,name:"WLK+1.HP+10.(HD)",wlk:1,hp:10,slot:1}
-{id:1404,name:"FLY+1.HP+10.(HD)",fly:1,hp:10,slot:1}
-{id:1405,name:"TGH+1.HP+10.(HD)",tgh:1,hp:10,slot:1}
+{id:1404,name:"FLY+1.HP+10.(HD)",fly:1,hp:10,slot:1,comment:["キーワインドトップ（アクセサリーキューブ）","ユニオンリボンBRD（ユニオンコイン景品）"]}
+{id:1405,name:"TGH+1.HP+10.(HD)",tgh:1,hp:10,slot:1,comment:["シエスクリップ（アクセサリーキューブ）","フューチャーヘッドホン（アクセサリーキューブ）","ミルミル牛乳（混沌コイン景品）"]}
 {group:"　",nextID:991}
 {id:1306,name:"STR+1.HP+5(HD)",hp:5,str:1,slot:1}
 {id:1307,name:"TEC+1.HP+5(HD)",hp:5,tec:1,slot:1}
