@@ -154,7 +154,7 @@
 
 {id:18,name:"ゲソウィップ",sub:{str:100,pwr:26,rng:70,spd:85,itv:500},type:"s",size:"S",cost:80,tunable:{pwp:1},comment:"スクイドルガール初期装備"}
 
-{id:4,name:"アストロアックス",sub:{str:100,pwr:32,shl:70,rng:70,spd:85,itv:2000},type:"a",size:"M",cost:150,tunable:{pwp:1},comment:"アストロメリア初期装備"}
+{id:4,name:"アストロアックス",sub:{str:100,pwr:32,shl:70,rng:70,spd:85,itv:2000},type:"a",size:"M",cost:150,tunable:{pwp:1},comment:["チューン可否不明","アストロメリア初期装備"]}
 
 {id:5,name:"ブルームカットラス",type:"a",size:"M",cost:70,sub:{rec:100,pwr:28,shl:100,rng:250,spd:150,itv:2000},tunable:{pwp:0},comment:"ブルームメリア初期装備"}
 
@@ -182,7 +182,7 @@
 {id:20230517,name:"07式作業用ピッケル",sub:{str:100,pwr:32,shl:0,rng:70,spd:85,itv:1000},tunable:{pwp:1},type:"lcs",size:"L",cost:110,comment:["",""]}
 {id:202306091,name:"ゼウネブランド",sub:{str:100,pwr:28,shl:0,rng:150,spd:80,itv:500},auraStat:{sub:{str:100,pwr:30}},tunable:{pwp:1},type:"l",size:"LL",cost:150,comment:["ゼウネシス初期装備","AURA機構"]}
 {id:202306094,name:"ケントゥリオシュテルン",main:{str:100,pwr:20,shl:50,rng:200,spd:500,itv:500},sub:{str:100,pwr:45,shl:0,rng:70,spd:85,itv:3000},tunable:{pwp:1,mwp:1},auraStat:{main:{str:100,pwr:10,shl:120,itv:300},sub:{str:100,pwr:30,rng:100,spd:200,itv:2000}},type:"l",size:"L",cost:180,comment:"ケントゥリオン初期装備"}
-{id:202306142,name:"パラドックススター",type:"l",size:"L",cost:140,sub:{str:100,pwr:33,rng:56,spd:68,itv:1500},comment:"コラボイベントオーダー・混沌ドロップ"}
+{id:202306142,name:"パラドックススター",type:"l",size:"L",cost:140,sub:{str:100,pwr:33,rng:56,spd:68,itv:1500},tunable:{pwp:1},comment:"コラボイベントオーダー・期間限定混沌ドロップ"}
 
 {id:20230805,name:"シュトゥルムドルヒR",sub:{str:100,pwr:28,shl:150,rng:85,spd:70,itv:1000},type:"a",size:"M",cost:130,tunable:{pwp:1},comment:["FLY依存サブ","ブースト回復効果","アニマ・ゼータディスクβ（NPCステラ）"]}
 {id:202308245,name:"ドラゴンファング",main:{str:100,pwr:5,shl:400,rng:180,spd:480,itv:100},sub:{str:100,pwr:34,rng:77,spd:94,itv:1000},tunable:{mwp:1,pwp:1},type:"l",size:"M",cost:200,comment:["最終段+10％？","パーツクリエイト"]}
