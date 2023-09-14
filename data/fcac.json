@@ -13,11 +13,11 @@
 
 
 {group:"　",nextID:45}
-{id:1406,name:"STR+2.(FC)",str:2,slot:1}
-{id:1407,name:"TEC+2.(FC)",tec:2,slot:1}
-{id:1408,name:"WLK+2.(FC)",wlk:2,slot:1}
-{id:1409,name:"FLY+2.(FC)",fly:2,slot:1,comment:["","プレゼントリボン（アクセサリーキューブ）"]}
-{id:1410,name:"TGH+2.(FC)",tgh:2,slot:1}
+{id:1406,name:"STR+2.(FC)",str:2,slot:1,comment:["リムレスブラック（クランコイン景品）",""]}
+{id:1407,name:"TEC+2.(FC)",tec:2,slot:1,comment:["バタフライエフェクト（アクセサリーキューブ）",""]}
+{id:1408,name:"WLK+2.(FC)",wlk:2,slot:1,comment:["プレゼントリボンP（クランコイン景品）",""]}
+{id:1409,name:"FLY+2.(FC)",fly:2,slot:1,comment:["エリゴスウィング（HW箱？）","バタフライエフェクトP（クランコイン景品）","プレゼントリボン（アクセサリーキューブ）"]}
+{id:1410,name:"TGH+2.(FC)",tgh:2,slot:1,comment:["ストライプマフラーB（クランコイン景品）",""]}
 {group:"　",nextID:45}
 {id:1701,name:"STR+1.TEC+1.(FC).",str:1,tec:1,slot:1}
 {id:1702,name:"STR+1.WLK+1.(FC).",str:1,wlk:1,slot:1}
@@ -41,7 +41,7 @@
 {id:1601,name:"STR+1.HP+10.(FC)",str:1,hp:10,slot:1}
 {id:1602,name:"TEC+1.HP+10.(FC)",tec:1,hp:10,slot:1}
 {id:1603,name:"WLK+1.HP+10.(FC)",wlk:1,hp:10,slot:1,comment:["ハロウィンマント（HW箱？）","メルヘンフード（アクセサリーキューブ）","ワンワンマスク（フレンドチケット）"]}
-{id:1604,name:"FLY+1.HP+10.(FC)",fly:1,hp:10,slot:1,comment:["文字1","ハロウィンマフラー（HW箱？）"]}
+{id:1604,name:"FLY+1.HP+10.(FC)",fly:1,hp:10,slot:1,comment:["","ハロウィンマフラー（HW箱？）"]}
 {id:1605,name:"TGH+1.HP+10.(FC)",tgh:1,hp:10,slot:1,comment:["シュバリエヘルム（フレンドチケット）","ファントムマスク（フレンドチケット）"]}
 
 {group:"　",nextID:45}
