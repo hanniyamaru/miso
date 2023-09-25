@@ -400,7 +400,7 @@
 {id:336,name:"スポア・マッシュHD",size:"M",cost:35,hp:20,tec:2,fly:1,tgh:2}
 
 
-{id:105,name:"セイロンHD",type:"a",cost:80,hp:25,str:-1,tec:3,fly:2,tgh:1,main:{pwr:27,shl:140,rng:275,spd:440,itv:640},tunable:{mwp:1},comment:"AURA機構省略"}
+{id:105,name:"セイロンHD",type:"a",cost:80,hp:25,str:-1,tec:3,fly:2,tgh:1,main:{pwr:27,shl:140,rng:275,spd:440,itv:640},tunable:{mwp:1},comment:["3：1","AURA機構省略"]}
 {id:155,name:"セイロンHD2",type:"a",cost:80,hp:25,str:-1,tec:4,fly:2,main:{pwr:37,shl:70,rng:275,spd:440,itv:800},tunable:{mwp:1},comment:"AURA機構省略"}
 {id:202210061,name:"ゼタ・アーセナルHD",size:"M",cost:35,hp:20,tec:2,wlk:1,fly:1,tgh:1}
 {id:226,name:"セバーレイスタッグHD",main:{pwr:6,shl:1170,rng:275,spd:350,itv:1000},type:"a",cost:180,hp:25,str:-1,tec:3,fly:1,tgh:2,tunable:{mwp:1}}
