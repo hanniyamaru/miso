@@ -401,7 +401,7 @@
 
 
 {id:50,name:"ビャッコウLG",auraStat:{str:1,wlk:4,tgh:1},str:1,wlk:4,tgh:1,cost:45,hp:25,comment:"AURA機構"}
-{id:59,name:"ビャッコウLG2",sub:{str:100,pwr:32,shl:0,rng:150,spd:350,itv:1000},cost:80,hp:25,str:2,tec:-1,wlk:4,fly:1,tunable:{pwp:1},comment:"AURA機構省略"}
+{id:59,name:"ビャッコウLG2",sub:{str:100,pwr:32,shl:0,rng:150,spd:350,itv:1000},cost:80,hp:25,str:2,tec:-1,wlk:4,fly:1,tunable:{pwp:1},type:"l",comment:"AURA機構省略"}
 {id:3,name:"フィザリバンLG",cost:45,hp:25,str:1,tec:1,wlk:3}
 
 {id:69,name:"フラップジャックLG",sub:{pwr:0,shl:100,rng:100,spd:180,itv:1000},tunable:{mwp:1},auraStat:{main:{tec:100,pwr:11,shl:530,rng:275,spd:280,itv:760},sub:{pwr:0,shl:100,rng:100,spd:180,itv:1000}},type:"a",cost:115,hp:25,tec:1,wlk:3,fly:1,tgh:1,main:{pwr:8,shl:530,rng:275,spd:280,itv:760},builtin:{bs:1}}
