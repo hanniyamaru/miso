@@ -682,7 +682,7 @@
 
 
 {id:20,name:"シュトルバンガーBS",type:"c",cost:35,hp:20,str:2,wlk:1,fly:2}
-{id:84,name:"シュトルバンガーBS2",main:{pwr:18,shl:280,rng:300,spd:280,itv:700},cost:110,hp:25,str:-1,tec:2,wlk:1,fly:3,type:"c",size:"L",comment:["BS@cost+70複合","武器チューン不可"]}
+{id:84,name:"シュトルバンガーBS2",main:{pwr:18,shl:280,rng:300,spd:280,itv:700},cost:110,hp:25,str:-1,tec:2,wlk:1,fly:3,type:"c",size:"L",comment:["ブースタートラブル効果：3秒？　爆風70％","BS@cost+70複合　武器チューン不可","弐式"]}
 
 {id:202305172,name:"消防なっちんBS",sub:{str:100,pwr:0,rng:0,spd:0,itv:1000},tunable:{pwp:0},joint:{bs:1},fixedParts:{bs:{name:"消防なっちんBS@",sub:{shl:30,rng:0,spd:0,itv:1000},tunable:{pwp:0},builtin:{bs:1},type:"s",slot:0,cost:50}},type:"s",size:"L",cost:105,hp:20,str:1,tec:1,fly:3,comment:["",""]}
 {id:202305173,name:"消防なっちんBS（コンバージョン無し）",sub:{str:100,pwr:0,rng:0,spd:0,itv:1000},type:"s",size:"L",cost:105,hp:20,str:1,tec:1,fly:3,comment:""}
