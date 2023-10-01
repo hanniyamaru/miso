@@ -736,7 +736,7 @@
 
 {id:32,name:"シュトルバンガーAM",type:"c",cost:125,hp:25,str:-1,tec:3,tgh:3,main:{pwr:10,shl:560,rng:330,spd:290,itv:400},tunable:{mwp:1}}
 {id:130,name:"シュトルバンガーAM2",type:"c",cost:100,hp:25,tec:3,wlk:1,fly:1,main:{pwr:17,shl:320,rng:330,spd:260,itv:500},tunable:{mwp:1},size:"L"}
-{id:1301103,name:"シュトルバンガーAM3",type:"c",cost:140,hp:25,str:-1,tec:4,fly:-1,tgh:3,main:{pwr:9,shl:1000,rng:330,spd:440,itv:200},tunable:{mwp:1},size:"L",joint:{wp:0},comment:"シールド耐久値80"}
+{id:1301103,name:"シュトルバンガーAM3",type:"c",cost:140,hp:25,str:-1,tec:4,fly:-1,tgh:3,main:{pwr:9,shl:1000,rng:330,spd:440,itv:200},tunable:{mwp:1},size:"L",joint:{wp:0},comment:["爆風40%％？","シールド耐久値80","弐式"]}
 {id:131,name:"シュトルバンガーAM4",size:"L",type:"c",cost:40,hp:25,tec:3,wlk:2,fly:1,tgh:-1}
 
 {id:202305175,name:"消防なっちんAM（バリアガン）",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,comment:["",""],fixedParts:{wp:{name:"S・UバリアガンType.R",main:{tec:100,pwr:22,shl:80,rng:300,spd:400,itv:1000},tunable:{mwp:1},cost:70,slot:3}},type:"s",size:"L"}
