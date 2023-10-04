@@ -214,8 +214,7 @@
 
 {id:56,name:"フォンメイBS2",type:"a",cost:30,hp:15,wlk:1,fly:2,tgh:1}
 
-{id:94,name:"ホネボンBS",type:"l",cost:35,hp:20,str:2,wlk:1,fly:3,tgh:-1,comment:"2022/2/16更新"}
-
+{id:202310046,name:"ブラキウスBS",size:"S",cost:35,hp:20,str:2,wlk:1,fly:3,tgh:-1,comment:[""]}
 {id:29,name:"ブリックゲイルBS",type:"a",cost:60,hp:25,wlk:1,fly:4,sub:{shl:50,rng:0,spd:150,itv:1000},comment:["◆CT5秒 ◆ブースト回復：50％","◆離陸：斜め前方 ◆飛行：直進+入力方向 ","◆ブースト未入力・ブーストゲージ消失中：降下","BLUE"]}
 {id:30,name:"ブリックゲイルBS2",type:"a",cost:60,hp:25,wlk:1,fly:4,sub:{shl:50,rng:0,spd:150,itv:1000},comment:["◆CT5秒 ◆ブースト回復：50％","◆離陸：斜め前方 ◆飛行：直進+入力方向 ","◆ブースト未入力・ブーストゲージ消失中：降下","RED"]}
 {id:52,name:"ブリックゲイルBS3",type:"a",cost:60,hp:25,str:-1,tec:2,fly:3,tgh:1,sub:{shl:50,rng:0,spd:150,itv:1000},comment:"BLACK"}
@@ -236,6 +235,9 @@
 {id:164,name:"ポーンジャーBS2",size:"S",type:"l",cost:35,hp:20,str:1,tec:-1,wlk:1,fly:3,tgh:1,comment:"B・ポーンジャーAr"}
 {id:202211034,name:"ポォウルBS",type:"a",size:"S",cost:85,hp:20,str:-1,tec:2,fly:3,tgh:1,main:{tec:100,pwr:9,shl:460,rng:275,spd:260,itv:900},tunable:{mwp:1}}
 {id:202309064,name:"ポォウルBS2",sub:{tec:100,pwr:25,shl:120,rng:10,spd:10,itv:1000},type:"a",size:"S",cost:105,hp:20,str:-1,tec:1,wlk:1,fly:4,comment:""}
+{id:94,name:"ホネボンBS",type:"l",cost:35,hp:20,str:2,wlk:1,fly:3,tgh:-1,comment:"2022/2/16更新"}
+
+
 {id:43,name:"マイティバインガールBS",cost:40,hp:25,wlk:1,fly:2,tgh:2,type:"l"}
 
 {id:202204173,name:"マトイBS",type:"l",size:"S",cost:35,hp:20,str:1,tec:-1,wlk:1,fly:3,tgh:1}
