@@ -369,6 +369,7 @@
 {id:26,name:"オルクトヴァッフェ",main:{pwr:[30,31,32],shl:[260,280,300],rng:455,spd:[500,520,540],itv:800},type:"c",size:"S",comment:["爆風属性70％","リンカー･リンクス専用コンバージョンパーツ"],slot:0,cost:150,joint:{wp:1},fixedParts:{wp:{name:"マグネESPサイト",sub:{itv:1000},type:"c",size:"S",slot:0}}}
 
 {id:148,name:"カイゼルゲヴィッター",main:{pwr:10,shl:390,rng:300,spd:480,itv:300},sub:{str:100,pwr:20,shl:0,rng:75,spd:200,itv:1000},tunable:{mwp:1,pwp:1},type:"c",size:"L",comment:"ヘルトカイゼルAM専用コンバージョンパーツ",cost:70}
+{id:20231004,name:"ガトリング（シルヴァ）",main:{str:100,pwr:8,shl:600,rng:225,spd:440,itv:140},tunable:{mwp:1},type:"l",size:"S",cost:50,comment:"シルヴァBD専用コンバージョンパーツ"}
 
 {id:138,name:"機巧刀･迦具土",main:{tec:100,pwr:11,shl:750,rng:350,spd:280,itv:1000},tunable:{mwp:1},type:"c",size:"M",cost:130,comment:"ホムラ・イサミネ専用コンバージョン"}
 
