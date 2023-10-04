@@ -549,7 +549,7 @@
 {id:39,name:"フィザリバンHD",type:"l",cost:105,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,main:{pwr:20,shl:210,rng:225,spd:440,itv:800},tunable:{mwp:1},comment:["実弾属性爆風80％？","バーニング3秒"]}
 
 {id:289,name:"フォースドライブHD",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2,type:"lacs",size:"M"}
-
+{id:202310046,name:"ブラキウスHD",sub:{str:100,pwr:0,shl:30,rng:150,spd:350,itv:1000},type:"a",size:"M",cost:50,hp:20,str:3,tec:-1,fly:2,tgh:1,comment:["AURA機構　※変形：空のみ","変形省略"]}
 {id:319,name:"フラッシュボマーHD",cost:35,hp:20,str:-1,tec:2,fly:1,tgh:3,size:"M"}
 
 {id:202204181,name:"フラッシュボマーHD2",cost:35,hp:20,str:3,tec:-1,tgh:3,size:"M"}
