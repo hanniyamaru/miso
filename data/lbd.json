@@ -470,6 +470,8 @@
 
 {id:35,name:"マシンドレットBD",cartridge:{hpup:10,lv1:"75*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|16@20|15@15|29@15|28@30|13@30|32@50|31@40"},cost:490,capa:945,hp:305,str:15,tec:5,wlk:12,fly:7,tgh:12,wbid:7,type:"l",size:"L"}
 
+{id:20231004,name:"マシンドレットBD3",cartridge:{hpup:10,lv1:"75*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|16@20|15@15|29@15|27@10|13@30|32@50|31@40"},cost:520,capa:945,hp:305,str:13,tec:5,wlk:10,fly:8,tgh:15,wbid:999,type:"l",size:"L",comment:["ドレットフィールド：アンデット効果","HW"]}
+
 
 {id:34,name:"メガトンオーTitanBD",sub:{str:100,pwr:[28],rng:150,spd:400,itv:1000},cartridge:{hpup:18,lv1:"85*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|16@20|26@20|21@20|13@30|32@50|31@40"},fixedParts:{hd:{name:"メガトンオーTitanHD",cost:40,hp:25,str:2,wlk:1,fly:1,tgh:1,type:"lacs",size:"L"},bs:{name:"メガトンオーTitanBS",sub:{str:100,itv:2000},tunable:{pwp:0,mwp:0},cost:45,hp:25,str:1,wlk:2,fly:2,type:"l",size:"L"},lg:{name:"メガトンオーTitanLG",cost:40,hp:20,str:-1,tec:1,wlk:2,tgh:3,type:"lacs",size:"L"},am:[{name:"メガトンオーTitanAM",cost:35,hp:20,str:1,wlk:1,tgh:3,type:"lacs",size:"L"},{name:"メガトンオーTitanAM",cost:35,hp:20,str:1,wlk:1,tgh:3,type:"lacs",size:"L"}]},cost:505,hp:275,str:14,tec:4,wlk:11,fly:7,tgh:9,capa:800,type:"l",size:"L"}
 
