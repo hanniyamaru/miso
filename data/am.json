@@ -175,6 +175,8 @@
 {id:301,name:"フェアリスAM2",type:"a",cost:85,hp:20,str:-1,tec:3,wlk:1,fly:2,main:{pwr:7,shl:600,rng:275,spd:350,itv:300},tunable:{mwp:1},joint:{wp:1}}
 {id:149,name:"フォースドライブAM",main:{str:100,pwr:20,shl:50,rng:200,spd:570,itv:500},sub:{str:1030,pwr:28,rng:70,spd:85,itv:500},tunable:{pwp:1,mwp:1},type:"lacs",size:"S",cost:105,hp:20,str:2,tec:-1,wlk:2,fly:1,tgh:1,comment:"-",joint:{wp:0}}
 
+{id:202310046,name:"ブラキウスAM",size:"S",cost:35,hp:20,str:1,tec:-1,wlk:1,fly:2,tgh:2,comment:["AURA機構　※変形：空のみ"]}
+{id:2023100461,name:"ブラキウスAM3",sub:{str:100,pwr:28,shl:80,rng:70,spd:85,itv:1000},tunable:{pwp:1},auraStat:{sub:{pwr:31,rng:120,spd:200}},type:"a",size:"S",cost:125,hp:20,str:4,tec:-1,fly:2,comment:["AURA機構　※変形：空のみ"]}
 {id:52,name:"ブリックゲイルAM",cost:35,hp:20,tec:2,wlk:1,fly:1,tgh:1}
 {id:53,name:"ブリックゲイルAM2",type:"a",cost:140,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,main:{pwr:8,shl:560,rng:250,spd:480,itv:140},tunable:{mwp:1},comment:"BEAM MACHINEGUN"}
 {id:51,name:"ブリックゲイルAM3",size:"M",type:"a",cost:175,hp:20,str:-1,tec:3,fly:2,tgh:1,main:{pwr:22,shl:230,rng:275,spd:520,itv:600},sub:{tec:100,pwr:30,rng:70,spd:85,itv:1000},tunable:{mwp:1,pwp:1},joint:{wp:0},comment:"BEAM RIFLE"}
