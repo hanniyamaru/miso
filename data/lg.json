@@ -736,7 +736,7 @@
 {id:10,name:"ギガンベルグLG",cost:45,hp:70,str:-1,tec:2,wlk:3,tgh:2}
 {id:15,name:"サイクロテスLG2",sub:{str:100,pwr:30,rng:100,spd:250,itv:3000},tunable:{pwp:1},type:"l",size:"LL",cost:160,hp:75,str:2,wlk:2,fly:-1,tgh:3}
 {id:202301123,name:"サジタルマクシス・CLG",size:"LL",cost:90,hp:60,tec:2,wlk:2,tgh:2,comment:"シールド耐久値100"}
-{id:2,name:"シノ･イクスロードLG",type:"l",cost:145,hp:55,str:2,tec:-1,wlk:4,tgh:1,sub:{str:100,pwr:28,rng:150,spd:150,itv:2500},tunable:{pwp:1},joint:{bs:1}}
+{id:2,name:"シノ･イクスロードLG",type:"l",cost:145,hp:55,str:2,tec:-1,wlk:4,tgh:1,sub:{str:100,pwr:28,rng:150,spd:150,itv:1000},tunable:{pwp:1},joint:{bs:1},comment:["WLK依存サブ","シノ・イクスロード系BD装着時ボーナス：威力1.2倍　速度強化　CT無"]}
 {id:5,name:"シノ･イクスロードLG3",type:"l",cost:225,hp:55,str:2,tec:-1,wlk:3,tgh:2,sub:{str:100,pwr:32,rng:77,spd:94,itv:1000},tunable:{pwp:1},joint:{bs:1},comment:["ヒットストップ無し",""]}
 {id:83,name:"タイタンコイルLG",cost:50,hp:60,tec:2,wlk:3,fly:2,tgh:-1}
 {id:1204,name:"ティタロテスLG",type:"c",cost:105,hp:70,str:-1,tec:2,wlk:2,tgh:3,sub:{pwr:8,shl:400,rng:350,spd:350,itv:1000}}
