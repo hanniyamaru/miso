@@ -410,7 +410,7 @@
 
 {id:118,name:"ホーミングアロー",main:{pwr:13,shl:180,rng:250,spd:320,itv:800},cost:50,type:"l",size:"M",comment:"ロビンハンターAM専用コンバージョンパーツ",slot:0}
 
-{id:202204175,name:"マグネガン(フィオナ)",main:{tec:100,pwr:9,shl:480,rng:300,spd:280,itv:500},type:"c",size:"S",cost:50,comment:"フィオナBD専用コンバージョンパーツ",tunable:{mwp:1}}
+{id:202204175,name:"マグネガン(フィオナ)",main:{tec:100,pwr:9,shl:480,rng:330,spd:280,itv:500},type:"c",size:"S",cost:50,comment:"フィオナBD専用コンバージョンパーツ",tunable:{mwp:1}}
 {id:202204174,name:"マシンガン(ルナスタシア)",main:{str:100,pwr:11,shl:720,rng:225,spd:440,itv:260},type:"l",size:"S",cost:50,comment:"ルナスタシアBD専用コンバージョンパーツ",tunable:{mwp:1}}
 
 {id:1591,name:"マニモウィング@",main:{str:100,pwr:6,shl:880,rng:300,spd:400,itv:440},type:"a",size:"M",comment:"マニモウィング専用コンバーションパーツ",cost:40}
