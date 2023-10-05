@@ -34,7 +34,7 @@
 
 {id:129,name:"エアリーデAM",cost:35,hp:20,tec:2,fly:2,tgh:1}
 
-{id:202306142,name:"エルコットAM",size:"S",cost:35,hp:20,str:2,wlk:2,tgh:1,comment:["エルコットBD専用コンバージョンパーツ"],fixedParts:{wp:{name:"ELCガン",main:{str:100,pwr:20,shl:460,rng:225,spd:440,itv:400},tunable:{mwp:1},cost:70,slot:3}},type:"l"}
+{id:202306142,name:"エルコットAM",main:{str:100,pwr:20,shl:460,rng:225,spd:440,itv:400},size:"S",cost:105,hp:20,str:2,wlk:2,tgh:1,comment:["ELCガンcost+70複合","検索用に武器の数値を仮入力","エルコットBD専用コンバージョンパーツ"],fixedParts:{wp:{name:"ELCガン",main:{str:100,pwr:20,shl:460,rng:225,spd:440,itv:400},tunable:{mwp:1},slot:3}},type:"l"}
 {id:2023061421,name:"エルコットAM（コンバージョン無し）",size:"S",type:"l",cost:35,hp:20,str:2,wlk:2,tgh:1,comment:["エルコットBD専用コンバージョンパーツ"]}
 {id:87,name:"エルメ・サリーAM",type:"s",size:"S",cost:105,hp:20,str:2,tec:-1,wlk:2,fly:1,tgh:1,sub:{str:100,pwr:32,rng:70,spd:85,itv:1000},tunable:{pwp:1},joint:{wp:0}}
 {id:202301183,name:"エルメ・SAM",type:"s",size:"SS",cost:75,hp:20,str:2,wlk:1,fly:1,tgh:1,sub:{str:100,pwr:18,shl:140,rng:275,spd:350,itv:1000},tunable:{pwp:0},joint:{wp:0},comment:["速度はWLK・FLYの高い方に依存","Season8アリーナコイン景品"]}
