@@ -580,10 +580,9 @@
 {id:20220708,name:"メカジェッターOMGAM2",cost:155,hp:20,str:-1,tec:3,fly:2,tgh:1,type:"a",size:"M",tunable:{mwp:1},main:{tec:100,pwr:30,shl:300,rng:275,spd:480,itv:640},joint:{wp:0}}
 
 {id:85,name:"メディージャーAM",cost:35,hp:20,tec:1,wlk:2,tgh:2,comment:"ミッションコイン景品"}
-{id:86,name:"メディージャーAM2",cost:35,hp:20,tec:1,wlk:2,tgh:2,comment:["リペア弾","回復量60","ミッションコイン景品"],fixedParts:{wp:{name:"バクルス",main:{shl:80,rng:300,spd:300,itv:500},tunable:{mwp:0},cost:70,slot:0,comment:["リペア弾","回復量60"]}},type:"s"}
-{id:1560,name:"メディージャーAM3",cost:35,hp:20,tec:1,wlk:2,tgh:2,comment:["ハイショ陣","回復量65"],fixedParts:{wp:{name:"リベル",sub:{shl:12,rng:0,spd:0,itv:20000},tunable:{mwp:0},cost:70,slot:0,comment:["ハイショ陣","回復量65"]}},type:"s"}
-{id:156,name:"メディージャーAM4",type:"s",size:"M",cost:35,hp:20,tec:1,wlk:2,tgh:2,comment:["シェルサプ杖","回復量36+シェルサプライ4％"],fixedParts:{wp:{name:"アスクレピオス",main:{shl:80,rng:300,spd:300,itv:500},type:"s",size:"M",cost:40,slot:0,comment:["シェルサプ杖","回復量36+シェルサプライ4％"]}}}
-
+{id:86,name:"メディージャーAM2",main:{shl:80,rng:300,spd:300,itv:500},cost:105,hp:20,tec:1,wlk:2,tgh:2,comment:["リペア弾：回復量60","バクルスcost+70複合","検索用に武器の数値を仮入力","ミッションコイン景品"],fixedParts:{wp:{name:"バクルス",main:{shl:80,rng:300,spd:300,itv:500},tunable:{mwp:0},slot:0,comment:["リペア弾：回復量60","リベルcost+70複合","検索用に武器の数値を仮入力"]}},type:"s"}
+{id:1560,name:"メディージャーAM3",sub:{shl:12,rng:0,spd:0,itv:20000},cost:105,hp:20,tec:1,wlk:2,tgh:2,comment:["リペア+ハイショ陣：回復量65","リベルcost+70複合","検索用に武器の数値を仮入力"],fixedParts:{wp:{name:"リベル",sub:{shl:12,rng:0,spd:0,itv:20000},tunable:{mwp:0},slot:0,comment:["リペア+ハイショ陣：回復量65"]}},type:"s"}
+{id:156,name:"メディージャーAM4",type:"s",size:"M",main:{shl:80,rng:300,spd:300,itv:500},cost:75,hp:20,tec:1,wlk:2,tgh:2,comment:["シェルサプ杖：回復量36+シェルサプライ4％","アスクレピオスcost+40複合","検索用に武器の数値を仮入力"],fixedParts:{wp:{name:"アスクレピオス",main:{shl:80,rng:300,spd:300,itv:500},type:"s",size:"M",slot:0,comment:["シェルサプ杖：回復量36+シェルサプライ4％"]}}}
 
 
 {id:145,name:"ユングヴィAM",size:"M",cost:35,hp:20,str:1,tec:2,wlk:-1,fly:2,tgh:1}
