@@ -139,10 +139,8 @@
 {id:202209098,name:"トライスターAM",main:{pwr:14,shl:360,rng:275,spd:290,itv:600},type:"a",cost:75,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,tunable:{mwp:1},size:"SS",joint:{wp:0},comment:[""]}
 
 
-{id:1811,name:"トリスティンAM",type:"lacs",size:"S",cost:35,hp:20,tec:1,fly:1,tgh:3,joint:{wp:2},fixedParts:{wp:{main:{shl:30,spd:10,itv:1000},name:"ハープシールド",tunable:{mwp:0,pwp:0},type:"c",size:"SS",cost:40,slot:0}}}
-
-{id:1821,name:"トリスティンAM2",type:"lacs",size:"S",cost:35,hp:20,str:-1,tec:3,wlk:2,tgh:1,joint:{wp:2},fixedParts:{wp:{main:{tec:100,pwr:14,shl:390,rng:350,spd:340,itv:300},tunable:{mwp:1},type:"c",size:"SS",sub:{tec:100,pwr:10,shl:240,rng:300,spd:220,itv:1000},name:"フェイルノート",cost:130,slot:0}}}
-
+{id:1811,name:"トリスティンAM",main:{shl:30,spd:10,itv:1000},type:"c",size:"S",cost:75,hp:20,tec:1,fly:1,tgh:3,joint:{wp:2},fixedParts:{wp:{main:{shl:30,spd:10,itv:1000},name:"ハープシールド",tunable:{mwp:0,pwp:0},type:"c",size:"SS",slot:0}},comment:["ハープシールドcost+40複合","検索用にコンバージョンの数値を仮入力"]}
+{id:1821,name:"トリスティンAM2",main:{tec:100,pwr:14,shl:390,rng:350,spd:340,itv:300},sub:{tec:100,pwr:10,shl:240,rng:300,spd:220,itv:1000},type:"c",size:"S",cost:165,hp:20,str:-1,tec:3,wlk:2,tgh:1,joint:{wp:2},fixedParts:{wp:{main:{tec:100,pwr:14,shl:390,rng:350,spd:340,itv:300},tunable:{mwp:1},type:"c",size:"SS",sub:{tec:100,pwr:10,shl:240,rng:300,spd:220,itv:1000},name:"フェイルノート",cost:130,slot:0}},comment:["フェイルノートcost+130複合","検索用にコンバージョンの数値を仮入力"]}
 {id:181,name:"トリスティンAM(コンバージョン無し)",type:"lacs",size:"S",cost:35,hp:20,tec:1,fly:1,tgh:3,joint:{wp:2}}
 {id:182,name:"トリスティンAM2(コンバージョン無し)",joint:{wp:2},type:"lacs",size:"S",cost:35,hp:20,str:-1,tec:3,wlk:2,tgh:1}
 
@@ -354,10 +352,8 @@
 {id:7,name:"ガシマAM4",type:"c",size:"M",cost:145,hp:25,tec:3,tgh:2,main:{pwr:32,shl:250,rng:350,spd:300,itv:1000},tunable:{mwp:1},joint:{wp:0},comment:"GRENADE"}
 
 
-{id:202212084,name:"ガゥディアンAM（オフダ）",type:"ls",joint:{wp:2},cost:35,hp:20,str:-1,tec:2,wlk:2,fly:1,tgh:1,comment:[""],fixedParts:{wp:{name:"オフダシューター",main:{pwr:10,shl:1050,rng:275,spd:440,itv:600},tunable:{mwp:1},type:"ls",size:"M",cost:70}}}
-
-{id:202212085,name:"ガゥディアンAM（トリイ）",type:"ls",joint:{wp:2},cost:35,hp:20,str:-1,tec:2,wlk:2,fly:1,tgh:1,comment:[""],fixedParts:{wp:{name:"トリイバズーカ",main:{pwr:24,shl:360,rng:275,spd:440,itv:500},tunable:{mwp:0},slot:0,type:"ls",size:"M",cost:70}}}
-
+{id:202212084,name:"ガゥディアンAM（オフダ）",main:{pwr:10,shl:1050,rng:275,spd:440,itv:600},type:"ls",joint:{wp:2},cost:105,hp:20,str:-1,tec:2,wlk:2,fly:1,tgh:1,fixedParts:{wp:{name:"オフダシューター",main:{pwr:10,shl:1050,rng:275,spd:440,itv:600},tunable:{mwp:1},type:"ls",size:"M"}},comment:["オフダシューターcost+70複合","検索用にコンバージョンの数値を仮入力"]}
+{id:202212085,name:"ガゥディアンAM（トリイ）",main:{pwr:24,shl:360,rng:275,spd:440,itv:500},type:"ls",joint:{wp:2},cost:105,hp:20,str:-1,tec:2,wlk:2,fly:1,tgh:1,fixedParts:{wp:{name:"トリイバズーカ",main:{pwr:24,shl:360,rng:275,spd:440,itv:500},tunable:{mwp:0},slot:0,type:"ls",size:"M"}},comment:["トリイバズーカcost+70複合","検索用にコンバージョンの数値を仮入力"]}
 {id:159,name:"ガゥディアンAM（コンバージョン無し）",cost:35,hp:20,str:-1,tec:2,wlk:2,fly:1,tgh:1}
 
 
