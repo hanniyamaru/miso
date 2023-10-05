@@ -1,7 +1,7 @@
 {group:"2021秋季以前の機体はメモリ・スロットを追加していないためアクセ欄にあるメモリ・スロットを任意の個数追加してご使用ください。",prefixID:"LS",commonStat:{size:"S"},type:"l",nextID:35}
 {group:"＠パーツは一部省略しています。",prefixID:"LS",commonStat:{size:"S"},type:"l",nextID:35}
 
-{id:20000101,name:"[INFO]",wbid:999,joint:{hdac:5,hd:0,lg:0,am:0,bs:0},fixedParts:{hdac:{name:"ダメージ上昇値について",comment:["爆風無し：威力表通り","爆風90％以下：DMG 0.5から1ダメージ上昇","爆風100％：DMG 0.1から1ダメージ上昇"],slot:3,main:{tec:100,pwr:10}}}}
+{id:20000101,name:"[INFO]",wbid:999,joint:{hdac:5,hd:0,lg:0,am:0,bs:0},fixedParts:{hdac:{name:"ダメージ上昇値について",comment:["爆風無し：威力表通り","爆風90％以下：DMG 0.5から1ダメージ上昇","爆風100％：DMG 0.1から1ダメージ上昇"],slot:3,main:{tec:100,pwr:10},tunable:{mwp:1}}}}
 {group:"陸　近日更新分",prefixID:"LS",commonStat:{size:"S",type:"l"},nextID:35}
 
 
