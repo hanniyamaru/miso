@@ -199,8 +199,8 @@
 {id:168,name:"スパーダBD@",sub:{pwr:30,shl:0,rng:100,spd:150,itv:2000,str:100},auraStat:{sub:{pwr:30,shl:0,rng:100,spd:150,itv:2000,str:100}},comment:"スパーダBD専用コンバージョンパーツ",slot:0,cost:20,type:"l",size:"M"}
 
 {id:202306088,name:"トランスフォーム",sub:{pwr:0,rng:0,spd:150,itv:500,str:100},slot:0,cost:50,capa:50,tunable:{pwp:0},type:"a",size:"M",comment:"フラップジャックBD専用コンバージョンパーツ"}
-{id:20231014,name:"パンプキンステッキ",sub:{tec:100,pwr:26,rng:49,spd:60,itv:1000},tunable:{pwp:1},cost:30,type:"s",size:"SS",joint:{wp:1},comment:["","HWあむりむ・HWにーな・HWぺぽ・HWねむりむ専用コンバージョンパーツ"]}
-{id:202310141,name:"パンプキンバズーカ",main:{tec:100,pwr:16,shl:250,rng:250,spd:360,itv:600},tunable:{mwp:1},cost:40,type:"s",size:"SS",comment:["","パンプキンステッキ（HWあむりむ・HWにーな・HWぺぽ・HWねむりむ）専用コンバージョンパーツ"]}
+{id:20231014,name:"パンプキンステッキ",sub:{tec:100,pwr:26,rng:49,spd:60,itv:1000},tunable:{pwp:1},cost:30,type:"s",size:"SS",joint:{wp:1},comment:["アイテム奪取効果","HWあむりむ・HWにーな・HWぺぽ・HWねむりむ専用コンバージョンパーツ"]}
+{id:202310141,name:"パンプキンバズーカ",main:{tec:100,pwr:16,shl:250,rng:250,spd:360,itv:600},tunable:{mwp:1},cost:40,type:"s",size:"SS",comment:["自軍貫通","パンプキンステッキ（HWあむりむ・HWにーな・HWぺぽ・HWねむりむ）専用コンバージョンパーツ"]}
 {id:202310142,name:"パンプキンピッチャー",main:{tec:100,pwr:5,shl:300,rng:250,spd:200,itv:500},tunable:{mwp:1},cost:40,type:"s",size:"SS",comment:["","パンプキンステッキ（HWあむりむ・HWにーな・HWぺぽ・HWねむりむ）専用コンバージョンパーツ"]}
 
 
