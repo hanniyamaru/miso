@@ -455,7 +455,7 @@
 
 {id:109,name:"テオライネAM",main:{pwr:7,shl:780,rng:330,spd:270,itv:580},joint:{wp:0},cost:85,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,tunable:{mwp:1},type:"c"}
 {id:178,name:"テオライネAM2",main:{tec:100,pwr:18,shl:300,rng:330,spd:220,itv:720},tunable:{mwp:1},type:"c",size:"M",cost:115,hp:20,tec:2,wlk:1,tgh:2}
-{id:109107,name:"テオライネAM3",main:{pwr:11,shl:500,rng:330,spd:400,itv:300},joint:{wp:0},cost:105,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,tunable:{mwp:1},type:"c"}
+{id:109107,name:"テオライネAM3",main:{pwr:13,shl:500,rng:330,spd:400,itv:300},joint:{wp:0},cost:105,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,tunable:{mwp:1},type:"c"}
 
 {id:14,name:"デジトロイドAM",cost:40,hp:25,str:1,tec:1,wlk:1,fly:1,tgh:1}
 {id:15,name:"デストラクトAM",type:"c",cost:70,hp:25,str:1,tec:2,tgh:2,main:{pwr:3,shl:1080,rng:330,spd:480,itv:200},tunable:{mwp:1},joint:{wp:0}}
@@ -797,7 +797,7 @@
 {id:69,name:"ドミクラウンAM5",main:{pwr:9,shl:1000,rng:250,spd:320,itv:800,str:100},sub:{pwr:26,shl:0,rng:70,spd:85,itv:1000,str:100},cost:240,hp:25,str:3,tec:-1,wlk:3,type:"l",joint:{wp:0},tunable:{pwp:1,mwp:1},comment:"Quoit"}
 
 {id:3108,name:"ドミクラウンAM6",cost:40,hp:25,str:2,wlk:1,tgh:2}
-{id:3107,name:"ドミクラウンAM7",type:"l",cost:200,hp:25,str:3,tec:-1,wlk:3,main:{str:100,pwr:8,shl:750,rng:225,spd:200,itv:600},sub:{str:100,pwr:25,rng:0,spd:150,itv:1000},tunable:{mwp:1,pwp:1},joint:{wp:0}}
+{id:3107,name:"ドミクラウンAM7",type:"l",cost:200,hp:25,str:3,tec:-1,wlk:3,main:{str:100,pwr:9,shl:900,rng:225,spd:280,itv:600},sub:{str:100,pwr:25,rng:0,spd:150,itv:1000},tunable:{mwp:1,pwp:1},joint:{wp:0}}
 
 
 {id:114,name:"ドラゴネイルAM",main:{pwr:12,shl:180,rng:225,spd:570,itv:340},sub:{pwr:29,shl:50,rng:70,spd:85,itv:500,str:100},type:"l",tunable:{mwp:1,pwp:1},cost:145,hp:25,str:3,tec:-1,wlk:1,fly:1,tgh:1,comment:["爆発ダメージ1.0倍","バーニング時間4秒"]}
