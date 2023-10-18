@@ -145,7 +145,9 @@
 
 {id:21,name:"バタフレアBD",cost:405,capa:780,hp:210,str:4,tec:9,wlk:9,fly:18,tgh:5,wbid:1,cartridge:{hpup:18,lv1:"85*6@25|7@30|9@15|8@20|19@15|21@20|23@25|22@30|52@20|30@20|31@40|15@20|13@30|32@50|26@20"}}
 {id:32,name:"バルーダBD",builtin:{bs:1},joint:{bs:0,wp:1},fixedParts:{wp:["W1"]},cartridge:{hpup:14,lv1:"4*6@25|7@30|9@15|8@20|19@15|18@30|23@25|22@30|21@20|30@20|28@30|52@20|13@30|32@50|31@40"},cost:485,capa:850,hp:250,str:3,tec:14,wlk:7,fly:21,tgh:8,wbid:1,sub:{itv:2000}}
-{id:202203024,name:"ピエッタBD",cartridge:{hpup:14,lv1:"4*6@25|7@30|9@15|8@20|19@15|23@25|22@30|21@20|52@20|26@20|28@30|13@30|30@20|32@50|31@40"},type:"a",size:"S",cost:445,capa:850,hp:225,str:4,tec:12,wlk:7,fly:14,tgh:11,comment:"-"}
+
+{id:202310182,name:"ビーゾルBD",cost:320,capa:635,hp:185,str:7,tec:9,wlk:6,fly:13,tgh:5,wbid:1,cartridge:{hpup:25,lv1:"95*6@25|7@30|9@15|8@20|18@30|19@15|23@25|22@30|52@20|26@20|25@25|21@20|13@30|32@50|31@40"}}
+ {id:202203024,name:"ピエッタBD",cartridge:{hpup:14,lv1:"4*6@25|7@30|9@15|8@20|19@15|23@25|22@30|21@20|52@20|26@20|28@30|13@30|30@20|32@50|31@40"},type:"a",size:"S",cost:445,capa:850,hp:225,str:4,tec:12,wlk:7,fly:14,tgh:11,comment:"-"}
 
 {id:51,name:"ファルクラムBD",cartridge:{hpup:18,lv1:"85*6@25|7@30|9@15|8@20|19@15|52@20|21@20|23@25|22@30|15@20|30@20|25@25|13@30|32@50|31@40"},wbid:1,cost:405,capa:780,hp:210,str:5,tec:13,wlk:5,fly:16,tgh:6}
 {id:20230809,name:"フィッシェルBD",sub:{str:100,pwr:30,shl:60,rng:120,spd:250,itv:1000},cartridge:{hpup:22,lv1:"5*6@25|7@30|9@15|8@20|19@15|23@25|22@30|52@20|53@10|15@20|21@20|12@20|13@30|31@40|32@50"},fixedParts:{hdac:["S1","S1"]},cost:485,capa:710,hp:240,str:9,tec:8,wlk:8,fly:19,tgh:8,wbid:1,joint:{hdac:3,fcac:1,hd:0,bs:0,},builtin:{hd:1,bs:1},comment:["夏祭りイベントオーダー景品",""]}
@@ -390,10 +392,9 @@
 {id:16,name:"ポセダインBD",cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|18@30|19@15|23@25|22@30|52@20|26@20|28@30|21@20|13@30|32@50|31@40"},cost:445,capa:870,hp:290,str:9,tec:8,wlk:7,fly:15,tgh:9,wbid:1}
 
 {id:20,name:"マイトボンバーBD",sub:{pwr:[25],shl:[130],rng:275,spd:[350],itv:1000},builtin:{bs:1},joint:{bs:0,wp:1},cartridge:{hpup:18,lv1:"85*6@20|7@30|9@15|8@20|19@15|21@20|23@25|22@30|52@20|28@30|26@20|15@20|13@30|32@50|31@40"},fixedParts:{wp:["W1"]},cost:485,capa:800,hp:300,str:4,tec:12,wlk:7,fly:18,tgh:9}
-
 {id:21,name:"マイトボンバーBD2",sub:{tec:100,pwr:17,shl:200,rng:275,spd:350,itv:1000},builtin:{bs:1},joint:{bs:0,wp:1},cartridge:{lv1:"85*6@20|7@30|9@15|8@20|19@15|21@20|23@25|22@30|52@20|28@30|26@20|15@20|13@30|32@50|31@40",hpup:12},fixedParts:{wp:["W1"]},cost:485,capa:800,hp:300,str:4,tec:10,wlk:6,fly:19,tgh:11,wbid:1,comment:"-"}
 
-
+{id:202310183,name:"マテングBD",cost:365,capa:730,hp:260,str:5,tec:9,wlk:7,fly:13,tgh:8,wbid:9,cartridge:{hpup:22,lv1:"5*6@20|7@30|9@15|8@20|18@30|19@15|23@25|22@30|52@20|30@20|21@20|26@20|13@30|32@50|31@40"}}
 
 
 {id:24,name:"ラークピットBD",main:{pwr:[10,11,13],shl:[600],rng:[275],spd:[440],itv:600,tec:100},sub:{str:100,itv:2000},joint:{hd:0,wp:0,hdac:4,fcac:1},cartridge:{hpup:18,lv1:"85*5@20|61*2@30|7@30|9@15|8@20|50@30|19@15|23@25|22@30|52@20|15@20|21@20|13@30|32@50|31@40"},fixedParts:{hdac:["S1","S1","S1"],bs:{name:"ラークピットBS",builtin:{bs:1},cost:40,hp:25,str:-1,tec:1,wlk:1,fly:3,tgh:1},lg:{sub:{str:100,shl:60,rng:120,spd:220,itv:2500},tunable:{pwp:0},builtin:{lg:1},name:"ラークピットLG",cost:75,hp:25,str:1,tec:1,wlk:3,fly:1,tgh:-1},am:[{name:"ラークピットAM",type:"a",size:"L",cost:35,hp:20,tec:1,fly:3,tgh:1,joint:{wp:0}},{name:"ラークピットAM",joint:{wp:0},cost:35,hp:20,tec:1,fly:3,tgh:1}]},type:"a",size:"L",cost:525,capa:800,hp:300,str:3,tec:14,wlk:6,fly:16,tgh:11,wbid:1}
