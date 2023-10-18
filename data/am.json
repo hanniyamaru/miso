@@ -117,7 +117,7 @@
 {id:24,name:"タラントリックAM",cost:35,hp:20,str:1,tec:1,wlk:2,tgh:1}
 
 {id:2677,name:"ダルマスターAM",cost:35,hp:20,str:1,tec:2,wlk:1,tgh:1}
-{id:202310187,name:"ダルマスターAM2",main:{tec:100,pwr:21,shl:270,rng:300,spd:360,itv:700},tunable:{mwp:1},size:"SS",type:"cs",cost:75,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,comment:["ウェイストブースター効果　補：確定　砲：確率　","",""]}
+{id:202310187,name:"ダルマスターAM2",main:{tec:100,pwr:21,shl:270,rng:300,spd:360,itv:700},tunable:{mwp:1},size:"SS",type:"cs",cost:75,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,joint:{wp:0},comment:["ウェイストブースター効果　補：確定　砲：確率　","",""]}
 
 {id:26,name:"ディカロスAM",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1}
 {id:27,name:"ディカロスAM2",type:"a",cost:165,hp:20,str:-1,tec:3,fly:2,tgh:1,main:{pwr:7,shl:900,rng:275,spd:350,itv:600},sub:{pwr:7,shl:150,rng:275,spd:350,itv:1000},tunable:{mwp:1},joint:{wp:0}}
