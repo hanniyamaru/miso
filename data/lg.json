@@ -416,6 +416,8 @@
 
 {id:333,name:"ブラディスターLG",type:"cl",cost:70,hp:25,tec:2,wlk:2,fly:1,tgh:1,sub:{str:100,pwr:0,shl:25,rng:100,spd:200,itv:600},tunable:{pwp:1}}
 {id:202203031,name:"ブリスガンド・ポーンLG",cost:45,hp:25,str:3,wlk:3,fly:-1,tgh:1,comment:["混沌コイン景品"]}
+{id:202310188,name:"プリストルLG",cost:45,hp:25,str:1,wlk:3,fly:1,tgh:1,comment:[""]}
+
 {id:43,name:"ブリッツェルトLG",cost:45,hp:25,str:2,wlk:3,fly:1,tgh:-1}
 {id:44,name:"ブリッツェルトLG2",cost:45,hp:25,tec:2,wlk:3,fly:-1,tgh:1}
 {id:394,name:"ブリンクLG",cost:45,hp:25,tec:2,wlk:3,fly:1}
