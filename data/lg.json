@@ -117,6 +117,7 @@
 {id:202208031,name:"パラセクター・アシスLG",size:"S",cost:45,hp:25,tec:2,wlk:3,fly:2,tgh:-1}
 {id:70,name:"バルーダLG",sub:{tec:100,pwr:34,rng:120,spd:250,itv:1000},cost:45,hp:25,str:1,tec:2,wlk:2,tgh:1,tunable:{pwp:1}}
 
+{id:202310182,name:"ビーゾルLG",sub:{str:100,pwr:28,shl:60,rng:150,spd:350,itv:1000},tunable:{pwp:0},size:"SS",type:"a",cost:135,hp:25,str:3,tec:-1,wlk:2,fly:2,comment:["ポイズン効果"]}
 {id:20230615,name:"ビートラムLG",cost:40,hp:20,str:1,wlk:3,tgh:1}
 {id:202203021,name:"ピエッタLG",sub:{pwr:0,shl:40,rng:100,spd:160,itv:1000},type:"a",size:"S",cost:90,hp:20,tec:1,wlk:2,fly:2}
 {id:35,name:"ビックガジェットLG2",cost:45,hp:25,tec:1,wlk:2,fly:2,tgh:1}
@@ -684,9 +685,11 @@
 {id:44,name:"ポセダインLG",sub:{pwr:0,shl:60,rng:0,spd:150,itv:1000},type:"a",size:"L",cost:75,hp:60,tec:1,wlk:3,fly:2}
 
 {id:19,name:"マイティバインLG",type:"l",cost:90,hp:65,str:1,wlk:3,fly:-1,tgh:3,comment:"シールド耐久値80"}
-
 {id:51,name:"マイトボンバーLG",builtin:{bs:1},cost:45,hp:25,str:2,tec:1,wlk:2,fly:1,tgh:-1,type:"a",}
-{id:3,name:"メガトンオーLG",cost:40,hp:20,str:1,wlk:2,tgh:2}
+{id:202310183,name:"マテングLG",size:"L",cost:45,hp:25,str:1,wlk:3,tgh:2,comment:[""]}
+
+
+  {id:3,name:"メガトンオーLG",cost:40,hp:20,str:1,wlk:2,tgh:2}
 {id:20230204,name:"メガトンオーLG2",cost:40,hp:20,str:-1,tec:1,wlk:3,tgh:2}
 
 {id:322,name:"ヤマトオグナLG",type:"l",size:"L",cost:45,hp:25,tec:1,wlk:4,fly:-1,tgh:2}
