@@ -53,7 +53,7 @@
 
 {id:41,name:"宝具・双機珠",main:{pwr:11,shl:880,rng:250,spd:400,itv:500,tec:100},sub:{pwr:37,rng:70,spd:85,itv:500,tec:100},tunable:{mwp:1,pwp:1},cost:140,comment:["-","-"]}
 {id:51,name:"月輪【新月】",type:"l",cost:20,slot:0,comment:"月讀ミコト専用コンバージョンパーツ"}
-{id:52,name:"ネムリムバット",type:"l",size:"S",slot:3,cost:120,main:{tec:100,pwr:12,shl:380,rng:250,spd:440,itv:500},sub:{tec:100,pwr:37,shl:5,rng:70,spd:85,itv:500},tunable:{mwp:1,pwp:1}}
+{id:52,name:"ネムリムバット",type:"l",size:"S",slot:3,cost:120,main:{tec:100,pwr:12,shl:380,rng:250,spd:440,itv:500},sub:{tec:100,pwr:38,shl:5,rng:77,spd:94,itv:1000},tunable:{mwp:1,pwp:1}}
 
 {id:53,name:"プチリッカーステッキ",sub:{tec:100,pwr:15,rng:25,spd:40,itv:1000},tunable:{pwp:1},type:"s",size:"S",cost:30}
 {id:54,name:"ぺぽBD@",main:{tec:100,pwr:4,shl:300,rng:250,spd:320,itv:600},cost:40,tunable:{mwp:1}}
