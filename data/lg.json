@@ -262,6 +262,7 @@
 
 {id:64,name:"エアロライダーLG",cost:45,hp:25,wlk:4,tgh:2,type:"lc",sub:{str:100,pwr:0,shl:0,rng:0,spd:200,itv:1000},comment:["Season7アリーナコイン景品","CT3秒・無敵時間無し"]}
 {id:31,name:"エアレイダーLG",type:"a",cost:45,hp:25,tec:2,wlk:3,fly:1,type:"a",comment:"Season6アリーナコイン景品"}
+{id:202310185,name:"エスエルLG",cost:45,hp:25,tec:1,wlk:4,fly:-1,tgh:2,comment:""}
 {id:202207061,name:"エスエルLG2",cost:45,hp:25,tec:2,wlk:3,fly:-1,tgh:2,comment:"Season6アリーナコイン景品"}
 {id:76,name:"エスティスLG",type:"l",cost:45,hp:25,str:-1,tec:2,wlk:3,fly:1,tgh:1}
 {id:90,name:"オーガヒルLG",joint:{bs:1},cost:45,hp:25,str:-1,wlk:2,fly:2,tgh:3}
