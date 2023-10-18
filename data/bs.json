@@ -195,6 +195,8 @@
 {id:20230308,name:"パティロップBS",type:"l",size:"S",cost:40,hp:25,wlk:1,fly:3,tgh:1,comment:["",""]}
 
 {id:134,name:"ハンナ・フリッツBS",cost:35,hp:20,str:2,tec:-1,wlk:2,fly:2,type:"l"}
+
+{id:202310182,name:"ビーゾルBS",size:"S",type:"a",cost:30,hp:15,str:1,fly:3,comment:[""]}
 {id:20230615,name:"ビートラムBS",cost:35,hp:20,str:2,fly:3,type:"l"}
 
 {id:202203021,name:"ピエッタBS",tunable:{mwp:0,pwp:0},type:"a",size:"S",cost:95,hp:20,str:-1,tec:2,fly:3,tgh:1,main:{tec:100,pwr:5,shl:1120,rng:275,spd:280,itv:1300},comment:["BS@省略","武器チューン不可"]}
@@ -778,6 +780,7 @@
 {id:6,name:"マイティバインBS",type:"l",cost:40,hp:25,str:1,tec:-1,fly:3,tgh:2}
 {id:49,name:"マシンドレットBS",type:"l",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:2,tgh:2}
 {id:20231004,name:"マシンドレットBS2",type:"l",cost:35,hp:20,str:2,tec:-1,fly:2,tgh:2,comment:"HW"}
+{id:202310183,name:"マテングBS",main:{tec:100,pwr:14,shl:420,rng:275,spd:280,itv:900},sub:{str:100,pwr:0,shl:60,rng:100,spd:120,itv:1000},tunable:{mwp:1,pwp:0},size:"L",type:"a",cost:175,hp:20,str:-1,tec:2,fly:3,tgh:1,comment:[""]}
 
 
 {id:14,name:"メガトンオーBS",type:"c",cost:35,hp:20,tec:1,fly:3,tgh:1}
