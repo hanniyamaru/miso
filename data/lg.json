@@ -191,7 +191,7 @@
 {id:202301123,name:"F･リュールLG2",type:"lacs",size:"S",cost:40,hp:20,tec:1,wlk:2,fly:3,tgh:-1,comment:"F・リュールGP"}
 {id:103,name:"K・ノンナLG",size:"S",cost:40,hp:20,wlk:2,fly:2,tgh:1}
 {id:1203,name:"M・アーチLG",type:"a",cost:90,hp:20,str:-1,tec:2,wlk:2,fly:1,tgh:1,sub:{tec:100,pwr:18,shl:120,rng:275,spd:320,itv:1000}}
-
+{id:202310184,name:"P・フォアナLG",sub:{tec:100,pwr:30,shl:30,rng:100,spd:170,itv:1000},tunable:{pwp:0},size:"S",type:"lcs",cost:75,hp:25,str:-1,tec:2,wlk:3,fly:1,tgh:1,comment:[""]}
 {id:121,name:"P・モーナLG",size:"S",cost:40,hp:20,tec:3,wlk:2,fly:-1,tgh:1}
 {id:20220603,name:"S・イレーヌLG",type:"a",cost:125,hp:25,str:2,tec:-1,wlk:3,fly:2,sub:{str:100,pwr:30,shl:30,rng:200,spd:350,itv:1000},tunable:{pwp:1}}
 
