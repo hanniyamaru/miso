@@ -59,6 +59,7 @@
 {id:20220316,name:"ダークレヴナントHD",type:"l",size:"S",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:1,tgh:3}
 {id:202301181,name:"ターンエア1080HD",size:"S",cost:35,hp:20,str:2,wlk:1,fly:2,comment:"Season8アリーナコイン景品"}
 {id:202302023,name:"ターンエッジ1440HD",size:"S",cost:35,hp:20,str:1,wlk:1,fly:2,tgh:1,comment:""}
+{id:20231018,name:"タラバトロンHD",size:"S",cost:35,hp:20,str:1,tec:1,wlk:1,tgh:2,comment:[""]}
 
 {id:23,name:"ディカロスHD",cost:40,hp:25,str:1,wlk:2,fly:1,tgh:1}
 {id:20230309,name:"ティナHD",size:"S",cost:35,hp:20,str:-1,tec:2,wlk:2,fly:2,comment:["",""]}
@@ -359,6 +360,7 @@
 
 {id:92,name:"シャーヘッドHD",cost:35,hp:20,str:1,tec:-1,wlk:2,fly:1,tgh:2}
 {id:241,name:"シャーヘッドHD2",cost:35,hp:20,str:2,tec:-1,wlk:1,fly:1,tgh:2}
+{id:202310181,name:"ジャガーアームHD",size:"M",cost:35,hp:20,tec:2,wlk:1,tgh:2,comment:[""]}
 {id:11019,name:"ジャックオーHD",type:"lacs",size:"M",cost:40,hp:25,str:2,tec:2,tgh:1}
 
 {id:309,name:"シャドウキネシスHD",cost:40,hp:25,tec:3,wlk:1,fly:1}
