@@ -62,7 +62,9 @@
 
 {id:1,name:"タラントリックBD",cost:425,capa:635,hp:205,str:7,tec:11,wlk:13,fly:7,tgh:7,main:{pwr:[6,8,10],shl:[550,550,550],rng:250,spd:[320,320,320],itv:300},wbid:2,cartridge:{hpup:25,lv1:"95*5@25|62*2@35|18@20|20@20|23@25|22@25|16@20|12@20|29@10|17@20|14@10|26@20|13@20|32@30|31@40"},joint:{hdac:1,fcac:1,hd:0}}
 
-{id:2,name:"ダルマスターBD",cost:355,capa:635,hp:205,str:7,tec:7,wlk:13,fly:10,tgh:8,wbid:11,cartridge:{hpup:25,lv1:"95*6@25|17@20|18@20|20@20|23@25|19@20|15@30|16@20|25@25|28@20|14@10|29@10|13@20|32@30|31@40"},joint:{hdac:1,fcac:1,hd:0}}
+{id:2,name:"ダルマスターBD",cost:355,capa:635,hp:205,str:7,tec:7,wlk:13,fly:10,tgh:8,wbid:11,cartridge:{hpup:25,lv1:"95*6@25|17@20|18@20|20@20|23@25|19@20|15@30|16@20|25@25|28@20|14@10|29@10|13@20|32@30|31@40"},joint:{hdac:2,fcac:1,hd:0},fixedParts:{hdac:["S1"]}}
+{id:202310187,name:"ダルマスターBD2",cost:440,capa:780,hp:230,str:7,tec:9,wlk:13,fly:9,tgh:12,wbid:11,cartridge:{hpup:18,lv1:"95*6@25|17@20|18@20|20@20|23@25|19@20|15@30|16@20|25@25|28@20|14@10|29@10|13@20|32@30|31@40"},joint:{hdac:2,fcac:1,hd:0},fixedParts:{hdac:["S1"]},comment:["改",""]}
+
 {id:20230309,name:"ティナBD",cartridge:{hpup:14,lv1:"4*6@25|17@20|18@20|20@20|19@20|22@30|23@25|25@25|16@20|15@30|21@20|26@20|13@20|32@30|31@40"},size:"S",cost:475,capa:850,hp:225,str:5,tec:14,wlk:9,fly:10,tgh:10,wbid:999,fixedParts:{wp:{main:{tec:100,pwr:31,shl:300,rng:300,spd:440,itv:700},sub:{tec:100,pwr:34,shl:0,rng:70,spd:85,itv:1000},comment:["ビーム属性：威力28？","爆風属性：威力29？","各種属性爆風100％"],fixedParts:{wp:{name:"ティナBD@",main:{tec:100,pwr:15,shl:300,rng:300,spd:350,itv:500},tunable:{mwp:0},slot:0,cost:0}},name:"リ・ペイントブラシ",cost:170,tunable:{mwp:1,pwp:1},joint:{wp:1}}},joint:{wp:1}}
 {id:1000,name:"トレタBD",joint:{am:0,wp:1,bs:1},cartridge:{hpup:35,lv1:"75*6@25|17@20|18@20|19@20|20@20|23@25|22@30|21@20|29@10|14@10|28@20|26@20|13@20|32@30|31@40"},fixedParts:{hd:{name:"トレタHD",cost:30,hp:15,str:2,tec:2,type:"s",size:"S"},lg:{name:"トレタLG",cost:40,hp:20,wlk:3,fly:1,size:"S",type:"s"}},size:"S",type:"s",cost:370,capa:675,hp:190,str:10,tec:10,wlk:14,fly:9,tgh:10,wbid:11,builtin:{bs:1}}
 
