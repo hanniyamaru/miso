@@ -158,6 +158,7 @@
 
 {id:13,name:"ソードウィングBS",type:"a",cost:35,hp:20,wlk:1,fly:4}
 
+{id:20231018,name:"タラバトロンBS",size:"S",type:"l",cost:35,hp:20,tec:1,wlk:1,fly:3,comment:[""]}
 
 {id:18,name:"タラントリックBS",type:"s",cost:35,hp:20,wlk:1,fly:3,tgh:1}
 {id:19,name:"ダルマスターBS",type:"s",cost:35,hp:20,str:1,fly:3,tgh:1}
@@ -436,6 +437,8 @@
 
 {id:42,name:"シャーヘッドBS",type:"l",cost:35,hp:20,tec:2,wlk:-1,fly:3,tgh:1}
 {id:111,name:"シャーヘッドBS2",type:"l",cost:35,hp:20,str:1,wlk:1,fly:3}
+{id:202310181,name:"ジャガーアームBS",size:"M",type:"l",cost:35,hp:20,wlk:2,fly:2,tgh:1,comment:[""]}
+
 {id:446,name:"シャドウキネシスBS",main:{pwr:5,shl:900,rng:275,spd:400,itv:1000},sub:{tec:100,pwr:0,shl:0,rng:275,spd:10,itv:1000},tunable:{mwp:1},type:"a",size:"M",cost:180,hp:20,str:-1,tec:2,fly:3,tgh:1,comment:["BS@cost20複合","距離減衰無し 2022/12/30"]}
 {id:445,name:"シャドウキネシスBS（コンバージョン無し）",main:{pwr:5,shl:900,rng:275,spd:400,itv:1000},tunable:{mwp:1},type:"a",size:"M",cost:160,hp:20,str:-1,tec:2,fly:3,tgh:1,comment:"距離減衰無し 2022/12/30"}
 
