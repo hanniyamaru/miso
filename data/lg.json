@@ -83,7 +83,7 @@
 
 {id:202301181,name:"ターンエア1080LG",size:"S",type:"a",cost:185,hp:25,str:2,tec:-1,wlk:2,fly:3,main:{str:100,pwr:7,shl:660,rng:275,spd:280,itv:600},sub:{str:100,pwr:28,shl:50,rng:120,spd:250,itv:1000},tunable:{mwp:1,pwp:0},comment:"Season8アリーナコイン景品"}
 {id:202302024,name:"ターンエッジ1440LG",size:"S",type:"a",cost:215,hp:25,str:3,tec:-1,wlk:1,fly:3,main:{str:100,pwr:7,shl:450,rng:275,spd:200,itv:900},sub:{str:100,pwr:30,shl:160,rng:120,spd:250,itv:1000},tunable:{mwp:1,pwp:0},comment:"FLY依存サブ"}
-{id:20231018,name:"タラバトロンLG",size:"S",cost:45,hp:20,tec:2,wlk:3,tgh:1,comment:[""]}
+{id:20231018,name:"タラバトロンLG",size:"S",cost:45,hp:25,tec:2,wlk:3,tgh:1,comment:[""]}
 {id:2,name:"タラントリックLG",cost:40,hp:25,str:1,tec:-1,wlk:3,fly:1,tgh:1}
 {id:9,name:"ダルマスターLG",cost:40,hp:20,str:1,wlk:3,tgh:1}
 
