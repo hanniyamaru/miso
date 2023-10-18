@@ -158,6 +158,7 @@
 {id:202208031,name:"パラセクター・アシスAM",type:"l",cost:75,hp:20,str:3,tec:-1,wlk:2,tgh:1,sub:{str:100,pwr:30,shl:0,rng:70,spd:85,itv:1000},tunable:{pwp:1}}
 
 {id:91,name:"バルーダAM",main:{pwr:7,shl:510,rng:275,spd:390,itv:200},sub:{tec:100,pwr:30,shl:50,rng:84,spd:102,itv:500},cost:140,hp:20,tec:2,fly:1,tgh:2,type:"a",size:"S",joint:{wp:0},tunable:{mwp:1,pwp:1},comment:["メイン弾に誘導有り","-"]}
+{id:202310182,name:"ビーゾルAM",size:"S",cost:30,hp:15,tec:2,wlk:1,fly:1,comment:["","",""]}
 {id:20230615,name:"ビートラムAM",cost:35,hp:20,str:2,wlk:1,tgh:2}
 
 {id:202203021,name:"ピエッタAM",cost:35,hp:20,tec:2,wlk:-1,fly:2,tgh:2}
@@ -895,7 +896,7 @@
 {id:63,name:"マイトボンバーAM",main:{tec:100,pwr:5,shl:900,rng:250,spd:440,itv:140},tunable:{mwp:1},type:"a",cost:85,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,joint:{wp:0}}
 {id:64,name:"マイトボンバーAM2",main:{tec:100,pwr:25,shl:240,rng:275,spd:400,itv:720},tunable:{mwp:1},cost:115,hp:20,str:-1,tec:3,fly:2,type:"a",tgh:1,joint:{wp:0}}
 {id:65,name:"マイトボンバーAM3",main:{tec:100,pwr:9,shl:500,rng:275,spd:350,itv:680},tunable:{mwp:1},type:"a",cost:115,hp:20,str:-1,tec:3,fly:1,tgh:2,joint:{wp:0}}
-
+{id:202310183,name:"マテングAM",size:"L",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1,comment:["","",""]}
 
 {id:19,name:"メガトンオーAM",cost:35,hp:20,str:2,tec:1,tgh:2}
 
