@@ -70,8 +70,8 @@
 {group:"ナイフ系",prefixID:"KN",commonStat:{tunable:{pwp:1}},nextID:8}
 {id:1,name:"カッター",size:"SS",cost:25,sub:{str:100,pwr:26,rng:105,spd:128,itv:500}}
 {id:2,name:"サバイバルナイフ",size:"S",cost:55,sub:{str:100,pwr:28,rng:105,spd:128,itv:500}}
-{id:4,name:"インテグラルナイフ",size:"M",cost:100,sub:{str:100,pwr:31,rng:105,spd:128,itv:500}}
-{id:7,name:"ダマスクスナイフ",size:"M",cost:140,sub:{str:100,pwr:31,rng:105,spd:128,itv:1000}}
+{id:4,name:"インテグラルナイフ",size:"M",type:"l",cost:100,sub:{str:100,pwr:31,rng:105,spd:128,itv:500}}
+{id:7,name:"ダマスクスナイフ",size:"M",type:"l",cost:140,sub:{str:100,pwr:31,rng:105,spd:128,itv:1000}}
 {id:10,name:"サイドロンナイフ",type:"l",cost:80,size:"M",sub:{pwr:28,rng:84,spd:102,itv:2000,str:100},tunable:{pwp:1}}
 {id:20230407,name:"07式サバイバルナイフ",type:"lcs",cost:90,size:"M",sub:{pwr:31,rng:91,spd:111,itv:1000,str:100},tunable:{pwp:1},comment:["速度はWLK・FLYの高い方に依存","コラボイベントオーダー景品"]}
 
@@ -89,7 +89,7 @@
 {id:1004,name:"エンラージハルバード",sub:{str:100,pwr:31,rng:70,spd:85,itv:1000},tunable:{pwp:1},cost:130,type:"l",size:"M"}
 {id:19,name:"ナイトランス",sub:{str:100,pwr:28,rng:150,spd:80,itv:1000},type:"l",size:"S",cost:130}
 {id:1202,name:"バリオスランス",main:{tec:100,pwr:13,shl:390,rng:275,spd:400,itv:300},sub:{tec:100,pwr:30,shl:130,rng:120,spd:220,itv:2000},tunable:{mwp:1,pwp:1},cost:200,type:"a",size:"M"}
-{id:17,name:"アモーレランス",sub:{pwr:27,str:100,rng:100,spd:200,itv:2000},tunable:{pwp:1},cost:130,size:"M"}
+{id:17,name:"アモーレランス",sub:{pwr:27,str:100,rng:100,spd:200,itv:2000},tunable:{pwp:1},cost:130,size:"M",type:"l"}
 {id:202204143,name:"ジャンパーハルバード",size:"M",cost:60,type:"a",sub:{str:100,pwr:23,shl:0,rng:120,spd:200,itv:500},tunable:{pwp:1},comment:["アリーナコイン景品"]}
 {id:20230614,name:"Xmasツリーランス",type:"l",size:"L",cost:130,sub:{str:100,pwr:30,rng:100,spd:200,itv:1000},comment:"WLK依存サブ"}
 {id:202306141,name:"ハルバート",type:"l",size:"M",cost:120,sub:{str:100,pwr:32,rng:77,spd:94,itv:1000},comment:"ビートラム初期装備"}
