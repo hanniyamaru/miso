@@ -195,7 +195,7 @@
 {id:5,name:"シャドウハンターBD",type:"l",size:"S",cost:365,capa:710,hp:200,str:6,tec:9,wlk:15,fly:6,tgh:6,wbid:5,cartridge:{hpup:22,lv1:"5*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|31@40|16@20|12@20|13@30|32@50|30@20"}}
 {id:49,name:"シャドウマスターBD",cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|31@40|16@20|12@20|13@30|32@50|30@20"},cost:445,capa:850,hp:225,str:10,tec:8,wlk:16,fly:7,tgh:7,wbid:5}
 
-{id:202210166,name:"セルピリスBD",size:"S",cost:535,capa:850,hp:225,str:17,tec:5,wlk:13,fly:7,tgh:6,wbid:0,main:{pwr:0,shl:100,rng:0,spd:10,itv:500},sub:{str:100,pwr:32,shl:[0],rng:150,spd:350,itv:1000},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|72@30|15@15|21@20|16@20|13@30|32@50|31@40"},joint:{wp:1},fixedParts:{wp:{name:"インビジファルクム",cost:110,main:{tec:100,shl:-1,pwr:0,shl:0,rng:0,spd:10,itv:300},sub:{str:100,pwr:33,rng:77,spd:94,itv:1000},tunable:{mwp:1,pwp:1}}}}
+{id:202210166,name:"セルピリスBD",size:"S",cost:535,capa:850,hp:225,str:17,tec:5,wlk:13,fly:7,tgh:6,wbid:999,main:{pwr:0,shl:100,rng:0,spd:10,itv:500},sub:{str:100,pwr:32,shl:[0],rng:150,spd:350,itv:1000},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|72@30|15@15|21@20|16@20|13@30|32@50|31@40"},joint:{wp:1},fixedParts:{wp:{name:"インビジファルクム",cost:110,main:{tec:100,shl:-1,pwr:0,shl:0,rng:0,spd:10,itv:300},sub:{str:100,pwr:33,rng:77,spd:94,itv:1000},tunable:{mwp:1,pwp:1},comment:["メイン：HP-100でディライブ強化バフ",""]}},comment:["専用ビット：HP-100+グラディエーター効果10秒？",""]}
 
 {id:12,name:"ゼロセイバーBD",cost:475,capa:850,hp:225,str:10,tec:9,wlk:13,fly:9,tgh:7,sub:{shl:[30],rng:[150],spd:[350],itv:1000},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|19@30|16@20|27@10|13@30|32@50|31@40"}}
 
