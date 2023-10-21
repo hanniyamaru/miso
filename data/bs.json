@@ -303,7 +303,7 @@
 
 {id:185,name:"A・ミラルBS（コンバージョン無し）",sub:{shl:60,rng:100,spd:150,itv:1000},type:"lc",size:"S",cost:65,hp:20,str:-1,tec:2,wlk:1,fly:3,fixedParts:[],tunable:{pwp:0}}
 
-{id:186000,name:"A・ミラルBS2",type:"lc",size:"S",cost:35,hp:20,str:-1,tec:3,fly:2,tgh:1,joint:{wp:1},fixedParts:{wp:{name:"A・ミラルBS2@",type:"lc",size:"S",cost:160,tunable:{pwp:0,mwp:1},main:{tec:100,pwr:8,shl:520,rng:300,spd:300,itv:900},sub:{tec:100,pwr:13,shl:150,rng:225,spd:360,itv:1000}}},comment:["実弾属性爆風100％","HW"]}
+{id:186000,name:"A・ミラルBS2",main:{tec:100,pwr:8,shl:520,rng:300,spd:300,itv:900},sub:{tec:100,pwr:13,shl:150,rng:225,spd:360,itv:1000},type:"lc",size:"S",cost:195,hp:20,str:-1,tec:3,fly:2,tgh:1,comment:["実弾属性爆風100％","BS@cost+160複合　武器チューン不可","HW"]}
 
 {id:186,name:"A・ミラルBS2（コンバージョン無し）",type:"lc",size:"S",cost:35,hp:20,str:-1,tec:3,fly:2,tgh:1,fixedParts:[]}
 
