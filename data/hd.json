@@ -702,7 +702,7 @@
 {id:283,name:"K・ノンナHD",type:"lacs",size:"M",cost:35,hp:20,str:-1,tec:2,fly:2,tgh:2}
 {id:300,name:"K・ノンナHD2",size:"M",cost:35,hp:20,tec:3,wlk:-1,fly:1,tgh:2,comment:"K・ノンナPS"}
 
-{id:202310184,name:"P・フォアナHD",size:"M",cost:35,hp:20,tec:2,wlk:1,fly:2,tgh:1,comment:[""]}
+{id:202310184,name:"P・フォアナHD",size:"M",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,comment:[""]}
 {id:402,name:"P・モーナHD",cost:35,hp:20,tec:2,wlk:1,fly:2}
 
 {id:306,name:"RAMソルジェッターHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:2,tgh:2}
