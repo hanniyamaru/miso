@@ -455,8 +455,8 @@
 
 {group:"イスチナ・バレットコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:122,name:"エクスピアシオン",sub:{itv:500},joint:{wp:2},type:"a",size:"L",slot:0}
-{id:123,name:"エクスピアシオン@1",main:{tec:100,pwr:26,shl:270,rng:450,spd:500,itv:800},type:"a",size:"M",cost:120,slot:0}
-{id:124,name:"エクスピアシオン@2",main:{tec:100,pwr:40,shl:60,rng:450,spd:420,itv:500},type:"a",size:"M",cost:0,slot:0}
+{id:123,name:"エクスピアシオン@1",main:{tec:100,pwr:26,shl:270,rng:450,spd:500,itv:800},type:"a",size:"M",cost:120,slot:0,comment:["ビーム属性爆風100％",""]}
+{id:124,name:"エクスピアシオン@2",main:{tec:100,pwr:40,shl:60,rng:450,spd:420,itv:500},type:"a",size:"M",cost:0,slot:0,comment:["ビーム属性爆風100％",""]}
 {id:121,name:"フレアテール",main:{tec:100,pwr:7,shl:660,rng:275,spd:300,itv:500},tunable:{mwp:1,pwp:0},type:"a",size:"M",cost:60,fixedParts:{wp:{name:"フレアテール@1",sub:{pwr:1,shl:60,rng:0,spd:200,itv:1000},tunable:{pwp:0,mwp:0},cost:50,type:"a",size:"M",slot:0}},joint:{wp:1}}
 
 {group:"イヴコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
