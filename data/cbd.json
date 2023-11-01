@@ -252,10 +252,10 @@
 
 {id:202308091,name:"シャークラッズBD",sub:{shl:30,rng:0,spd:200,itv:1000},cartridge:{hpup:14,lv1:"4*6@20|7@20|10@20|8@15|18@20|19@20|20@15|23@25|53@10|26@10|21@20|29@15|13@30|32@40|31@40"},fixedParts:{lg:{name:"シャークラッズLG",sub:{tec:100,pwr:22,shl:70,rng:300,spd:200,itv:1000},tunable:{pwp:0},cost:50,hp:60,tec:2,wlk:2,fly:2,comment:["シャークラッズLG@のみ装着可能"],joint:{wp:1}}},type:"c",size:"L",cost:505,capa:870,hp:265,str:5,tec:14,wlk:8,fly:8,tgh:10,wbid:4,joint:{hd:2},builtin:{bs:1},comment:["夏祭りイベントオーダー景品"]}
 {id:12,name:"シュトルバンガーBD",cost:580,capa:980,hp:305,str:4,tec:18,wlk:5,fly:3,tgh:13,comment:"BD@cost+90複合",main:{pwr:[8,10,12],shl:[840],rng:[350,365,380],spd:[290,305,320],itv:500,},wbid:4,cartridge:{hpup:10,lv1:"75*5@20|60*2@30|7@20|10@20|8@15|17@20|18@20|20@15|23@25|30@20|21@20|26@10|13@30|32@40|31@40"}}
-
 {id:13,name:"シュトルバンガーBD2",cost:610,capa:980,hp:305,str:4,tec:15,wlk:7,fly:5,tgh:12,comment:"BD@cost+120複合 ",main:{pwr:[9,11,13],shl:760,rng:[350,365,380],spd:[330,345,360],itv:600},wbid:4,cartridge:{hpup:10,lv1:"75*5@20|60*2@30|7@20|10@20|8@15|17@20|18@20|20@15|23@25|30@20|21@20|26@10|13@30|32@40|31@40"}}
-
 {id:39,name:"シュトルバンガーBD3",cost:510,capa:980,hp:305,str:4,tec:13,wlk:10,fly:7,tgh:9,wbid:4,cartridge:{hpup:10,lv1:"75*6@20|7@20|10@20|8@15|17@20|18@20|20@15|23@25|25@25|30@20|21@20|26@10|13@30|32@40|31@40"},sub:{pwr:[30],shl:[30],rng:[100],spd:[320],itv:[1000],tec:100},type:"c",size:"L",comment:["壱式・弐式"]}
+{id:202311011,name:"スレッジヘイムBD",sub:{tec:100,pwr:[35],shl:[50],rng:110,spd:160,itv:1000},cartridge:{hpup:14,lv1:"75*5@20|60*2@30|7@20|10@20|8@15|18@20|20@15|23@25|15@30|13@30|21@20|25@25|42@15|31@40|32@40"},fixedParts:{hd:{name:"スレッジヘイムHDJ",joint:{hd:1,hdac:0,fcac:0},slot:1}},cost:560,capa:955,hp:305,str:3,tec:13,wlk:13,fly:8,tgh:14,wbid:5,comment:""}
+
 {id:20221006,name:"ゼタ・アーセナルBD2",cartridge:{hpup:10,lv1:"75*5@20|60*2@30|7@20|10@20|8@15|18@20|19@20|20@15|23@25|26@10|13@30|21@20|14@20|31@40|32@40"},sub:{tec:100,pwr:[30],shl:0,rng:[0],spd:[1000],itv:1000},fixedParts:{lg:{name:"ゼタ・アーセナルLG",cost:45,hp:65,wlk:1,fly:1,tgh:3,slot:0},am:[{name:"ゼタ・アーセナルAM",slot:0,joint:{wp:2}},{name:"ゼタ・アーセナルAM",slot:0,joint:{wp:2}}]},cost:520,capa:980,hp:305,str:5,tec:12,wlk:8,fly:8,tgh:10,wbid:999,size:"L",type:"c",joint:{am:4,bs:2},comment:["ゼタ・アーセナルBD省略","内蔵強化値不明"]}
 
 
