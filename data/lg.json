@@ -520,7 +520,8 @@
 {id:98,name:"アルマダLG",main:{tec:100,pwr:21,shl:300,rng:300,spd:480,itv:600},type:"a",size:"L",cost:125,hp:70,str:-1,tec:2,wlk:3,fly:2,comment:["ビーム属性爆風100％","BS@複合","武器チューン不可"]}
 
 {id:20221209,name:"アルマダLG2",sub:{tec:100,pwr:5,shl:200,rng:275,spd:320,itv:1000},type:"a",size:"L",cost:75,hp:70,str:-1,tec:1,wlk:2,fly:2,tgh:2,comment:["LG@複合","アルマダ・オセアーノ"]}
-
+{id:202311013,name:"アルマダLG3",sub:{tec:100,pwr:0,shl:0,rng:10,spd:0,itv:1000},size:"L",type:"a",cost:180,hp:75,wlk:2,fly:4,comment:["LG@3cost+130複合","アルマダ系BDのみ使用可能"]}
+{id:2023110131,name:"アルマダLG3（コンバージョン無し）",size:"L",type:"a",cost:50,hp:75,wlk:2,fly:4,comment:[""]}
 {id:120,name:"アレシスLG",type:"l",size:"L",cost:65,hp:65,str:2,tec:-1,wlk:3,fly:1,tgh:1,sub:{pwr:0,rng:110,spd:200,itv:500}}
 
 {id:72,name:"アントリオンLG",type:"lc",cost:45,hp:60,tec:1,wlk:3,fly:-1,tgh:2}
