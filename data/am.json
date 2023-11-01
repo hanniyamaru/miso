@@ -90,6 +90,7 @@
 {id:16,name:"シャインバトラーAM",cost:40,hp:25,str:2,wlk:1,fly:1,tgh:1}
 
 {id:17,name:"シャドウハンターAM",size:"S",cost:30,hp:15,tec:2,wlk:2,fly:1,tgh:-1}
+{id:202311015,name:"シャドウハンターAM4",size:"S",cost:35,hp:20,str:2,wlk:2,tgh:1,comment:["扇"]}
 {id:89,name:"シャドウマスターAM",cost:35,hp:20,tec:1,wlk:3,tgh:1}
 
 {id:148,name:"スイフトAM",type:"lacs",size:"S",cost:35,hp:20,tec:2,wlk:-1,fly:2,tgh:2}
