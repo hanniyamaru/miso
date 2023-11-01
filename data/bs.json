@@ -129,6 +129,7 @@
 {id:5,name:"シャインバトラーBS",type:"l",cost:40,hp:25,str:2,tec:-1,fly:3,tgh:1}
 
 {id:9,name:"シャドウハンターBS",type:"l",size:"S",cost:115,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,sub:{tec:100,pwr:26,shl:180,rng:250,spd:320,itv:1000},comment:["貫通弾","サブロック系パーツのみコンボ可能"]}
+{id:202311015,name:"シャドウハンターBS3",main:{tec:100,pwr:13,shl:450,rng:250,spd:320,itv:240},tunable:{mwp:1},size:"S",type:"l",cost:135,hp:20,str:-1,tec:3,wlk:1,fly:2,comment:["","扇"]}
 {id:2022203,name:"シャドウフロウBS",type:"l",size:"S",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1}
 {id:70,name:"シャドウマスターBS",type:"l",cost:35,hp:20,str:1,tec:-1,wlk:1,fly:3,tgh:1}
 {id:77,name:"シルビアBS",type:"l",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:2,tgh:2}
