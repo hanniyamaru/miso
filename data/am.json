@@ -760,6 +760,7 @@
 {id:139,name:"スチールバーンAM3",main:{pwr:10,shl:600,rng:275,spd:350,itv:300},tunable:{mwp:1},type:"a",size:"L",cost:120,hp:25,str:-1,tec:3,fly:1,tgh:2}
 {id:9,name:"スチールライダーAM",cost:35,hp:20,str:2,tec:1,wlk:1,tgh:1}
 {id:531,name:"スチールライダーAM2",type:"l",cost:135,hp:20,str:-1,tec:3,wlk:1,tgh:2,main:{tec:100,pwr:6,shl:1600,rng:200,spd:400,itv:180},tunable:{mwp:1},joint:{wp:0}}
+{id:202311011,name:"スレッジヘイムAM",size:"L",cost:35,hp:20,tec:2,wlk:1,tgh:2,comment:[""]}
 
 {id:202306091,name:"ゼウネシスAM",size:"L",cost:40,hp:25,str:2,tec:1,wlk:1,fly:-1,tgh:2,comment:[""]}
 {id:202210062,name:"ゼタ・アーセナルAM2",type:"c",cost:85,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,main:{tec:100,pwr:10,shl:700,rng:330,spd:440,itv:260},joint:{wp:0},tunable:{mwp:1},comment:["GATLING"]}
@@ -974,6 +975,8 @@
 {id:24,name:"シェイデンAM4",main:{pwr:32,shl:260,rng:275,spd:440,itv:660},type:"a",size:"LL",cost:200,hp:25,str:-1,tec:3,fly:2,tgh:1,tunable:{mwp:1},joint:{wp:0}}
 {id:202303092,name:"ジョストガンダーAM",type:"l",size:"LL",cost:170,hp:25,str:3,tec:-1,tgh:3,main:{str:100,pwr:10,shl:720,rng:100,spd:480,itv:100},sub:{str:100,pwr:34,shl:0,rng:63,spd:77,itv:1000},tunable:{mwp:1,pwp:1},joint:{wp:0},comment:["両腕に装備した場合の特殊攻撃倍率：1.3倍",""]}
 {id:202304065,name:"スチールバーンAM4",type:"a",size:"LL",cost:120,hp:25,str:-1,tec:3,fly:2,tgh:1,main:{tec:100,pwr:17,shl:360,rng:275,spd:520,itv:300},tunable:{mwp:1},comment:["リンクショット対応","R"]}
+{id:2023110112,name:"スレッジヘイムAM2",type:"c",size:"LL",cost:165,hp:20,str:-1,tec:3,wlk:1,tgh:2,sub:{tec:100,pwr:35,shl:30,rng:77,spd:94,itv:2000},tunable:{pwp:1},comment:["武器チューン可否不明","変形省略"]}
+
 {id:3,name:"ソア・ラAM2",type:"a",cost:190,hp:25,str:-1,tec:3,fly:1,tgh:2,main:{pwr:35,shl:240,rng:275,spd:440,itv:600},tunable:{mwp:1},joint:{wp:0}}
 {id:20230309331,name:"ソア・ラAM3",type:"a",size:"LL",cost:170,hp:25,str:2,str:-1,tec:2,fly:2,tgh:2,main:{tec:100,pwr:29,shl:240,rng:275,spd:280,itv:800},tunable:{mwp:1},joint:{wp:0},comment:["ブースト回復効果","フレジア"]}
 
