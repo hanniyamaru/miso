@@ -571,7 +571,7 @@
 
 
 {id:2,name:"ミカドマックスBS",type:"l",cost:40,hp:25,str:2,fly:2,tgh:1}
-{id:2023030934,name:"ミッサイドBS2",type:"c",size:"M",cost:135,hp:20,str:-1,tec:3,fly:2,tgh:1,main:{tec:100,pwr:17,shl:330,rng:330,spd:350,itv:900},tunable:{mwp:1},comment:["BLAST",""]}
+{id:2023030934,name:"ミッサイドBS2",type:"c",size:"M",cost:135,hp:20,str:-1,tec:3,fly:2,tgh:1,main:{tec:100,pwr:17,shl:330,rng:330,spd:350,itv:900},tunable:{mwp:1},comment:["壁越しロックオン可能","BLAST"]}
 {id:202210072,name:"ミラージュレイドBS",main:{str:100,pwr:5,shl:540,rng:275,spd:400,itv:700},sub:{str:100,pwr:28,rng:90,spd:150,itv:1000},auraStat:{sub:{str:100,pwr:30}},type:"a",size:"M",cost:130,hp:20,str:2,tec:-1,fly:3,tgh:1,comment:"AURA機構",tunable:{pwp:1,mwp:1}}
 
 {id:7,name:"メカジェッターBS",type:"a",cost:35,hp:20,tec:1,fly:3,tgh:1}
