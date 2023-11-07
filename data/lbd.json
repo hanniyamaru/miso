@@ -191,7 +191,7 @@
 {id:202307063,name:"クロタクスBD3",joint:{am:1,hdac:2},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|16@20|25@25|21@20|13@30|32@50|31@40"},fixedParts:{hdac:["S1","S1"],am:{name:"クロタクスAM3",main:{tec:100,pwr:0,shl:120,rng:0,spd:10,itv:1000},tunable:{mwp:1},joint:{wp:1},fixedParts:{wp:{name:"セラスカノン",main:{tec:100,pwr:40,shl:260,rng:250,spd:480,itv:900},sub:{tec:100,pwr:60,shl:40,rng:300,spd:480,itv:1000},tunable:{mwp:1},type:"l",size:"S",cost:160,comment:"メイン・サブ：実弾属性爆風100％"}},type:"l",size:"S",cost:120,hp:50,str:-1,tec:6,fly:-1,tgh:6}},type:"l",size:"S",cost:445,capa:850,hp:225,str:3,tec:22,wlk:9,fly:6,tgh:8,comment:"バスタークロタクス"}
 
 {id:20220706,name:"サイバリオンBD",type:"l",size:"S",cost:505,capa:780,hp:210,str:5,tec:11,wlk:15,fly:9,tgh:5,main:{pwr:[5,6,7],shl:[1360],rng:[250,260,275],spd:[280,290,300],itv:[340]},wbid:0,cartridge:{hpup:18,lv1:"85*5@25|61*2@35|7@20|9@20|10@15|17@15|18@15||20@15|23@25|25@25|26@20|12@20|13@30|32@50|31@40"},comment:"Season7アリーナコイン景品"}
-{id:202308101,name:"サマーマニモBD",cost:600,capa:675,hp:220,str:8,tec:28,wlk:29,fly:9,tgh:9,main:{tec:100,pwr:[6,8,10],shl:[800,1000,1200],rng:[250],spd:[480],itv:100},wbid:999,cartridge:{hpup:35,lv1:"75*5@20|60*2@35|7@20|9@20|10@15|17@15|18@15||20@15|23@25|29@15|15@15|14@20|13@30|32@50|31@40"},joint:{hdac:1,fcac:1,hd:0,bs:0,am:0},builtin:{bs:1,lg:1},comment:["夏祭りイベントオーダー景品",""]}
+{id:202308101,name:"サマーマニモBD",cost:600,capa:675,hp:220,str:8,tec:28,wlk:29,fly:9,tgh:9,main:{tec:100,pwr:[6,8,10],shl:[800,1000,1200],rng:[250],spd:[480],itv:100},wbid:999,cartridge:{hpup:35,lv1:"75*5@25|60*2@35|7@20|9@20|10@15|17@15|18@15||20@15|23@25|29@15|15@15|14@20|13@30|32@50|31@40"},joint:{hdac:1,fcac:1,hd:0,bs:0,am:0},builtin:{bs:1,lg:1},comment:["夏祭りイベントオーダー景品",""]}
 
 {id:212,name:"シシナBD",type:"l",size:"S",cost:465,capa:885,hp:225,str:6,tec:7,wlk:14,fly:7,tgh:6,wbid:73,cartridge:{lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|25@25|14@20|28@30|13@30|32@50|31@40",hpup:14},sub:{shl:30,rng:100,spd:150,itv:1000}}
 
@@ -233,13 +233,13 @@
 
 {id:6,name:"ホネボンBD",cost:320,capa:635,hp:185,str:7,tec:7,wlk:9,fly:7,tgh:10,wbid:6,cartridge:{hpup:25,lv1:"95*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|15@15|14@20|28@30|27@10|13@30|32@50|31@40"},comment:"ホネボンGld共通"}
 
-{id:20230810,name:"マニモBD",cost:465,capa:675,hp:220,str:20,tec:8,wlk:29,fly:9,tgh:9,wbid:999,cartridge:{hpup:35,lv1:"75*5@20|60*2@35|7@20|9@20|10@15|17@15|18@15||20@15|23@25|29@15|15@15|14@20|13@30|32@50|31@40"},joint:{hdac:1,fcac:1,hd:0,bs:0,am:0,wp:1},builtin:{bs:1,lg:1},fixedParts:{wp:{name:"マニモBD@",sub:{str:100,pwr:[28,32,36],rng:[70,77,84],spd:[85,94,102],itv:1500},tunable:{pwp:1},cost:100,slot:3}},comment:"アルカンタスドロップ"}
+{id:20230810,name:"マニモBD",cost:465,capa:675,hp:220,str:20,tec:8,wlk:29,fly:9,tgh:9,wbid:999,cartridge:{hpup:35,lv1:"75*5@25|60*2@35|7@20|9@20|10@15|17@15|18@15||20@15|23@25|29@15|15@15|14@20|13@30|32@50|31@40"},joint:{hdac:1,fcac:1,hd:0,bs:0,am:0,wp:1},builtin:{bs:1,lg:1},fixedParts:{wp:{name:"マニモBD@",sub:{str:100,pwr:[28,32,36],rng:[70,77,84],spd:[85,94,102],itv:1500},tunable:{pwp:1},cost:100,slot:3}},comment:"アルカンタスドロップ"}
 
 {id:32,name:"モールニードスBD",cost:475,capa:780,hp:235,str:15,tec:4,wlk:14,fly:9,tgh:8,sub:{str:100,pwr:[25,27,29],rng:150,spd:420,itv:1000},wbid:5,cartridge:{hpup:18,lv1:"85*5@25|61*2@35|7@20|9@20|10@15|17@15|18@15||20@15|23@25|16@20|28@30|29@15|13@30|32@50|31@40"},joint:{bs:0},builtin:{bs:1}}
 {id:8,name:"モグニードBD",cost:395,capa:635,hp:205,str:11,tec:5,wlk:12,fly:10,tgh:7,sub:{str:100,pwr:[24,26,28],rng:70,spd:10,itv:500},wbid:5,cartridge:{hpup:25,lv1:"95*5@25|62*2@35|7@20|9@20|10@15|17@15|18@15||20@15|23@25|16@20|28@30|29@15|13@30|32@50|31@40"},joint:{bs:0},builtin:{bs:1}}
 
 {id:20220426,name:"ラビスリープBD",cost:320,capa:635,hp:185,str:8,tec:7,wlk:13,fly:7,tgh:5,wbid:6,cartridge:{hpup:25,lv1:"95*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|15@15|14@20|12@20|13@30|32@50|31@40"},comment:"イースターイベント景品"}
-{id:202308102,name:"ランチャーマニモBD",cost:600,capa:675,hp:220,str:8,tec:28,wlk:29,fly:9,tgh:9,main:{tec:100,pwr:[17,21,25],shl:[200,350,500],rng:[50],spd:[100],itv:1000},wbid:999,cartridge:{hpup:35,lv1:"75*5@20|60*2@35|7@20|9@20|10@15|17@15|18@15||20@15|23@25|29@15|15@15|14@20|13@30|32@50|31@40"},joint:{hdac:1,fcac:1,hd:0,bs:0,am:0},builtin:{bs:1,lg:1},comment:["爆風属性100%","夏祭りイベントオーダー景品",""]}
+{id:202308102,name:"ランチャーマニモBD",cost:600,capa:675,hp:220,str:8,tec:28,wlk:29,fly:9,tgh:9,main:{tec:100,pwr:[17,21,25],shl:[200,350,500],rng:[50],spd:[100],itv:1000},wbid:999,cartridge:{hpup:35,lv1:"75*5@25|60*2@35|7@20|9@20|10@15|17@15|18@15||20@15|23@25|29@15|15@15|14@20|13@30|32@50|31@40"},joint:{hdac:1,fcac:1,hd:0,bs:0,am:0},builtin:{bs:1,lg:1},comment:["爆風属性100%","夏祭りイベントオーダー景品",""]}
 
 {id:20221105,name:"レプセプターBD",cost:405,capa:780,hp:210,str:6,tec:9,wlk:14,fly:9,tgh:7,wbid:5,cartridge:{hpup:18,lv1:"85*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|25@25|26@20|15@15|13@30|32@50|31@40"}}
 
