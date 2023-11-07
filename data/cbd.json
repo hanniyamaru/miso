@@ -96,7 +96,7 @@
 
 {id:8,name:"ビルダームBD",cost:405,capa:780,hp:210,str:6,tec:12,wlk:10,fly:10,tgh:7,wbid:3,cartridge:{hpup:18,lv1:"85*6@25|7@20|10@20|8@15|17@20|18@20|20@15|23@25|22@30|30@20|25@25|26@10|13@30|32@40|31@40"}}
 
-{id:20221106,name:"ボミーBD",sub:{str:100,pwr:[32,34,36],shl:0,rng:200,spd:350,itv:1000},size:"S",cost:580,capa:710,hp:220,str:26,tec:5,wlk:12,fly:27,tgh:14,wbid:4,cartridge:{hpup:35,lv1:"75*5@25|60*2@35|7@20|10@20|8@15|18@20|19@20|20@15|23@25|21@20|28@30|14@20|13@30|32@40|31@40"},fixedParts:{hd:{name:"ボミーHD2",cost:30,hp:15,str:2,wlk:1,fly:1}},comment:["イベント宙域","シュタインズキューブ","カートリッジ未確認"],joint:{am:0,bs:0,lg:0},builtin:{lg:1,bs:1}}
+{id:20221106,name:"ボミーBD",sub:{str:100,pwr:[32,34,36],shl:0,rng:200,spd:350,itv:1000},size:"S",cost:580,capa:710,hp:220,str:26,tec:5,wlk:12,fly:27,tgh:14,wbid:4,cartridge:{hpup:35,lv1:"75*5@25|60*2@35|7@20|10@20|8@15|18@20|19@20|20@15|23@25|21@20|28@30|14@20|13@30|31@40|32@40"},fixedParts:{hd:{name:"ボミーHD2",cost:30,hp:15,str:2,wlk:1,fly:1}},comment:["イベント宙域","シュタインズキューブ","カートリッジ未確認"],joint:{am:0,bs:0,lg:0},builtin:{lg:1,bs:1}}
 {id:20221104,name:"ボミーBD2",sub:{str:100,pwr:[32,34,36],shl:0,rng:200,spd:350,itv:1000},size:"S",cost:580,capa:710,hp:220,str:26,tec:5,wlk:27,fly:12,tgh:14,wbid:4,cartridge:{hpup:35,lv1:"75*5@25|60*2@35|7@20|10@20|8@15|18@20|19@20|20@15|23@25|21@20|28@30|14@20|13@30|31@40|32@40"},fixedParts:{hd:{name:"ボミーHD2",cost:30,hp:15,str:2,wlk:1,fly:1}},comment:["イベント宙域","シュタインズキューブ"],joint:{am:0,bs:0,lg:0},builtin:{lg:1,bs:1}}
 
 {id:7,name:"ミッサイドBD",cost:405,capa:815,hp:210,str:3,tec:13,wlk:8,fly:6,tgh:7,wbid:4,cartridge:{hpup:18,lv1:"85*6@25|7@20|10@20|8@15|17@20|18@20|19@20|20@15|23@25|30@20|21@20|26@10|13@30|32@40|31@40"}}
