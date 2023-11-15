@@ -285,7 +285,7 @@
 {id:20230607,name:"ルーシェBS",type:"c",cost:35,hp:20,tec:2,wlk:-1,fly:3,tgh:1}
 {id:60,name:"ルーシェαBS",type:"c",cost:40,hp:25,str:1,tec:1,wlk:1,fly:3,tgh:-1}
 
-
+{id:20231115,name:"レイBS",type:"l",size:"S",cost:35,hp:20,str:2,fly:3}
 {id:145,name:"レイミナスBS",main:{pwr:13,shl:540,rng:350,spd:480,itv:700},type:"c",cost:165,hp:20,str:-1,tec:2,fly:3,tgh:1,comment:["BS@省略・武器チューン不可"]}
 {id:202311012,name:"レヴェールBS",size:"S",type:"c",cost:35,hp:20,tec:1,wlk:1,fly:3,comment:[""]}
 
