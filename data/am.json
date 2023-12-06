@@ -738,7 +738,7 @@
 {id:43,name:"ジオグラシスAM2",cost:35,hp:20,str:2,tec:2,wlk:-1,tgh:2,comment:"F型"}
 {id:61,name:"ジオグラシスAM4",cost:85,hp:20,tec:3,wlk:-1,fly:2,tgh:1,type:"a",main:{tec:100,pwr:10,shl:350,rng:275,spd:290,itv:1000},tunable:{mwp:1},comment:"F型"}
 {id:35,name:"ジオグラシスAM",cost:35,hp:20,str:2,tec:1,wlk:2,fly:-1,tgh:1,comment:"G型"}
-{id:60,name:"ジオグラシスAM3",sub:{str:100,pwr:30,rng:80,spd:150,itv:2000},tunable:{pwp:1},type:"l",cost:105,hp:20,str:3,wlk:3,fly:-1,comment:"G型"}
+{id:60,name:"ジオグラシスAM3",sub:{str:100,pwr:30,rng:80,spd:150,itv:1000},tunable:{pwp:1},type:"l",cost:105,hp:20,str:3,wlk:3,fly:-1,comment:["G型","WLK依存サブ"]}
 {id:202209096,name:"ジオグラシスAM5",cost:35,hp:20,str:1,tec:1,wlk:2,fly:1,comment:""}
 
 {id:202308091,name:"シャークラッズAM",main:{tec:100,pwr:16,shl:540,rng:330,spd:480,itv:340},tunable:{mwp:1},size:"L",type:"c",cost:75,hp:20,str:-1,tec:2,wlk:2,fly:2,comment:["夏祭りイベントオーダー景品",""],joint:{wp:0}}
