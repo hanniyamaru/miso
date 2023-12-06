@@ -558,7 +558,7 @@
 {id:115,name:"クルージスLG",sub:{pwr:0,shl:40,rng:150,spd:150,itv:1000},builtin:{bs:1,lg:-1},joint:{bs:1},type:"a",size:"L",cost:65,hp:70,str:-1,wlk:2,fly:3,tgh:2,comment:["BS接続可","◆CT6秒 ◆ブースト回復：50％","◆離陸：斜め+入力方向 ◆飛行：入力方向※1","※1　ブーストゲージ消失中は消失直前の進行方向を受け継ぎ、ゲージ消失中は移動キー入力を受け付けない"]}
 
 {id:39,name:"クロコダガーLG",cost:45,hp:45,tec:-1,wlk:3,fly:2,tgh:1}
-{id:18,name:"ケンタクロスLG",type:"l",cost:135,hp:45,str:2,tec:-1,wlk:4,tgh:1,sub:{str:100,pwr:32,rng:70,spd:85,itv:2000},tunable:{pwp:1},comment:["ロボガラポン"]}
+{id:18,name:"ケンタクロスLG",type:"l",cost:135,hp:45,str:2,tec:-1,wlk:4,tgh:1,sub:{str:100,pwr:33,rng:90,spd:120,itv:1000},tunable:{pwp:1},comment:["ロボガラポン"]}
 {id:202306094,name:"ケントゥリオンLG",size:"L",cost:45,hp:25,str:2,wlk:3,tgh:1,comment:[""]}
 
 {id:41,name:"コーテングLG",cost:45,hp:25,str:-1,tec:2,wlk:2,fly:2,tgh:1}
