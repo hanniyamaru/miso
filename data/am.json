@@ -629,7 +629,7 @@
 
 
 {id:95,name:"アーティラスAM",cost:40,hp:25,str:1,tec:1,wlk:1,fly:-1,tgh:3}
-{id:124,name:"アーティラスAM2",cost:95,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2,main:{tec:100,pwr:22,shl:190,rng:330,spd:400,itv:900},tunable:{mwp:1},type:"c",size:"L",comment:["分裂前：威力22（実弾100％）","分裂後：威力9（爆風属性100％）TEC別計算","アーティラス・ブラスト"]}
+{id:124,name:"アーティラスAM2",cost:95,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2,main:{tec:100,pwr:22,shl:190,rng:330,spd:400,itv:900},tunable:{mwp:1},type:"c",size:"L",comment:["分裂前：威力22（実弾100％）","分裂後：威力9（爆風属性100％）TEC別計算（2023/12/6メンテ前）","アーティラス・ブラスト"]}
 
 {id:1,name:"アクイーアAM",cost:35,hp:20,str:2,tec:1,fly:1,tgh:1}
 {id:66,name:"アクイーア・エアーズAM",cost:35,hp:20,tec:2,wlk:-1,fly:2,tgh:2,size:"L",comment:["ロボガラポン"]}
@@ -796,7 +796,7 @@
 
 
 {id:11,name:"トイボックスAM",type:"c",cost:120,hp:25,tec:3,tgh:2,main:{pwr:12,shl:580,rng:330,spd:290,itv:540},tunable:{mwp:1},joint:{wp:0}}
-{id:12,name:"トイボックスAM2",type:"c",cost:95,hp:25,tec:2,tgh:3,main:{pwr:10,shl:480,rng:330,spd:480,itv:300},tunable:{mwp:1}}
+{id:12,name:"トイボックスAM2",type:"c",cost:95,hp:25,tec:2,tgh:3,main:{pwr:12,shl:560,rng:330,spd:480,itv:300},tunable:{mwp:1},comment:["爆風100％","HEAT"]}
 
 {id:37,name:"ドミクラウンAM",type:"l",cost:220,hp:25,str:4,tec:-1,wlk:1,tgh:1,main:{str:100,pwr:22,shl:150,rng:200,spd:400,itv:560},sub:{str:100,pwr:30,rng:70,spd:85,itv:2000},tunable:{mwp:1,pwp:1},joint:{wp:0}}
 {id:38,name:"ドミクラウンAM2",cost:40,hp:25,tec:2,fly:1,tgh:2}
