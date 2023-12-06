@@ -183,7 +183,7 @@
 {id:70,name:"ブリックゲイルAM4",type:"a",cost:95,hp:20,tec:2,fly:2,tgh:1,main:{pwr:15,shl:280,rng:275,spd:380,itv:700},tunable:{mwp:1},comment:"AG-MISSILE"}
 {id:202207093,name:"ブリックゲイルAM5",type:"a",cost:205,hp:20,str:-1,tec:3,fly:2,tgh:1,main:{tec:100,pwr:30,shl:180,rng:275,spd:300,itv:100},sub:{tec:100,pwr:16,shl:140,rng:275,spd:400,itv:1000},tunable:{mwp:1,pwp:0},joint:{wp:0},comment:["メイン：ビーム属性爆風100％　チャージ威力+30％？+弾速アップ","サブ：命中時ブースト回復（2メモリ）","SPINEL"]}
 {id:20220710,name:"ブリックゲイルAM6",cost:35,hp:20,str:2,fly:2,tgh:1,comment:["SPINEL"]}
-{id:202206045,name:"ブリックゲイルAM7",main:{str:100,pwr:9,shl:420,rng:250,spd:440,itv:800},sub:{str:100,pwr:32,shl:0,rng:70,spd:85,itv:1000},tunable:{mwp:1,pwp:1},joint:{wp:0},type:"a",cost:120,hp:20,str:3,tec:-1,fly:1,tgh:2,comment:"TOPAZ"}
+{id:202206045,name:"ブリックゲイルAM7",main:{str:100,pwr:9,shl:420,rng:250,spd:440,itv:800},sub:{str:100,pwr:34,shl:0,rng:70,spd:85,itv:1000},tunable:{mwp:1,pwp:1},joint:{wp:0},type:"a",cost:120,hp:20,str:3,tec:-1,fly:1,tgh:2,comment:["ビーム爆風100％","TOPAZ"]}
 {id:158,name:"ブルーメAM",type:"lacs",size:"S",cost:35,hp:20,str:1,tec:2,wlk:2,fly:1,tgh:-1}
 
 {id:30,name:"フログランダーAM",cost:35,hp:20,str:1,tec:1,wlk:1,fly:1}
@@ -734,11 +734,10 @@
 {id:154109,name:"ジェネラルドAM(コンバージョン無し)",size:"L",type:"l",cost:35,hp:20,str:2,wlk:1,fly:-1,tgh:3,joint:{wp:2}}
 {id:155109,name:"ジェネラルドAM2",size:"L",type:"l",cost:35,hp:20,str:3,tec:-1,wlk:2,tgh:1,joint:{wp:1},fixedParts:{wp:{name:"ジェネラルブレード",main:{str:100,pwr:19,shl:180,rng:225,spd:440,itv:600},sub:{str:100,pwr:32,shl:0,rng:77,spd:94,itv:1000},tunable:{mwp:1,pwp:1},cost:200,slot:3}},size:"L",type:"l",comment:"ジェネラルブレードのみ装備可能"}
 {id:156109,name:"ジェネラルドAM2(コンバージョン無し)",size:"L",type:"l",cost:35,hp:20,str:3,tec:-1,wlk:2,tgh:1,joint:{wp:1},comment:"ジェネラルブレードのみ装備可能"}
-
-{id:43,name:"ジオグラシスAM2",cost:35,hp:20,str:2,tec:2,wlk:-1,tgh:2,comment:"F型"}
-{id:61,name:"ジオグラシスAM4",cost:85,hp:20,tec:3,wlk:-1,fly:2,tgh:1,type:"a",main:{tec:100,pwr:10,shl:350,rng:275,spd:290,itv:1000},tunable:{mwp:1},comment:"F型"}
 {id:35,name:"ジオグラシスAM",cost:35,hp:20,str:2,tec:1,wlk:2,fly:-1,tgh:1,comment:"G型"}
+{id:43,name:"ジオグラシスAM2",cost:35,hp:20,str:2,tec:2,wlk:-1,tgh:2,comment:"F型"}
 {id:60,name:"ジオグラシスAM3",sub:{str:100,pwr:30,rng:80,spd:150,itv:1000},tunable:{pwp:1},type:"l",cost:105,hp:20,str:3,wlk:3,fly:-1,comment:["G型","WLK依存サブ"]}
+{id:61,name:"ジオグラシスAM4",cost:85,hp:20,tec:3,wlk:-1,fly:2,tgh:1,type:"a",main:{tec:100,pwr:11,shl:350,rng:275,spd:290,itv:1000},tunable:{mwp:1},comment:["F型","ビーム爆風70％"]}
 {id:202209096,name:"ジオグラシスAM5",cost:35,hp:20,str:1,tec:1,wlk:2,fly:1,comment:""}
 
 {id:202308091,name:"シャークラッズAM",main:{tec:100,pwr:16,shl:540,rng:330,spd:480,itv:340},tunable:{mwp:1},size:"L",type:"c",cost:75,hp:20,str:-1,tec:2,wlk:2,fly:2,comment:["夏祭りイベントオーダー景品",""],joint:{wp:0}}
