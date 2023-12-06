@@ -423,7 +423,6 @@
 {id:20220522,name:"ラッシュガントレット",size:"M",type:"a",cost:80,tunable:{mwp:0,pwp:0},comment:["ヘル・ヴィクトル専用コンバージョンパーツ","左右の表記省略"]}
 {id:83,name:"ロギナス",main:{pwr:32,shl:280,rng:330,spd:440,itv:700},tunable:{mwp:1},type:"c",size:"S",cost:100,comment:"クロエAM専用コンバージョンパーツ"}
 
-{id:20220907,name:"ワンダーキーロッド",main:{pwr:6,shl:2000,rng:275,spd:320,itv:400},tunable:{mwp:1},joint:{wp:1},fixedParts:{wp:[{main:{pwr:34,shl:50,rng:300,spd:220,itv:1000},name:"チェシャキャノン",slot:0,comment:["ビーム爆風100％"]}]},type:"a",cost:150,size:"S",comment:["アリスAM専用コンバージョンパーツ","ビーム爆風100％"]}
 
 
 {id:105,name:"見習い手裏剣",main:{str:100,pwr:4,shl:800,rng:200,spd:400,itv:140},tunable:{mwp:1},type:"s",size:"S",cost:40,comment:"もみじBD専用コンバージョンパーツ"}
@@ -440,6 +439,10 @@
 
 {id:721,name:"プチブラッドシューター",main:{pwr:3,shl:180,rng:200,spd:360,itv:300},tunable:{mwp:1},type:"s",size:"SS",comment:"あむりむ専用コンバーションパーツ",cost:40}
 {id:72,name:"ブラッドシューター",main:{pwr:15,shl:680,rng:275,spd:400,itv:300},tunable:{mwp:1},type:"la",size:"S",comment:"アムリムAM2専用コンバーションパーツ",cost:100}
+
+{group:"アリスコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
+{id:20220907,name:"ワンダーキーロッド",main:{pwr:6,shl:2000,rng:275,spd:320,itv:400},tunable:{mwp:1},joint:{wp:1},fixedParts:{wp:[{main:{pwr:34,shl:50,rng:300,spd:220,itv:1000},name:"チェシャキャノン",slot:0,comment:["ビーム爆風100％"]}]},type:"a",cost:150,size:"S",comment:["アリスAM専用コンバージョンパーツ","ビーム爆風100％"]}
+{id:20231206,name:"ワンダーヴォーパルソード",main:{pwr:10,shl:840,rng:275,spd:350,itv:700},tunable:{mwp:1},joint:{wp:1},fixedParts:{wp:[{main:{pwr:36,shl:50,rng:300,spd:440,itv:1000},name:"マッドハッターキャノン",slot:0,comment:["引き寄せ効果：弱"]}]},type:"a",cost:150,size:"S",comment:["アリスAM専用コンバージョンパーツ",""]}
 
 {group:"アレイシア・アールコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 
