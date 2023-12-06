@@ -284,7 +284,7 @@
 {id:3,name:"ロングバーナー",type:"cs",size:"M",cost:150,main:{pwr:9,shl:840,rng:160,spd:480,itv:100}}
 {id:4,name:"セラミックバーナー",type:"l",size:"M",cost:150,main:{pwr:12,shl:810,rng:120,spd:480,itv:100}}
 
-{id:19,name:"パンプキンバーナー",type:"l",size:"M",cost:150,main:{pwr:7,shl:800,rng:120,spd:480,itv:100},comment:"R・B共通"}
+{id:19,name:"パンプキンバーナー",type:"l",size:"M",cost:150,main:{pwr:8,shl:800,rng:120,spd:480,itv:100},comment:"R・B共通"}
 {id:6,name:"ハンドレーザー",type:"as",size:"M",cost:60,main:{pwr:6,shl:780,rng:225,spd:480,itv:100}}
 {id:7,name:"レーザー",type:"as",size:"M",cost:100,main:{pwr:9,shl:750,rng:225,spd:480,itv:100}}
 {id:11,name:"プロトンレーザー",type:"a",size:"L",cost:140,main:{pwr:12,shl:750,rng:225,spd:480,itv:100}}
