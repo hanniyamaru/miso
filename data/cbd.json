@@ -222,7 +222,7 @@
 
 
 
-{id:33,name:"アーティラスBD",main:{pwr:[9,10,11],shl:[560],rng:350,spd:[570,590,610],itv:1000},joint:{wp:1},cartridge:{lv1:"75*5@20|60*2@30|7@20|10@20|8@15|17@20|18@20|19@20|20@15|30@20|23@25|26@10|13@30|32@40|31@40"},fixedParts:{wp:{name:"アーティラスBD@",main:{pwr:[21,23,25],shl:360,rng:[350,375,400],spd:[570,590,610],itv:900},slot:0,cost:70}},cost:560,capa:980,hp:305,str:5,tec:14,wlk:6,fly:10,tgh:8,wbid:3,comment:""}
+{id:33,name:"アーティラスBD",main:{pwr:[14,16,18],shl:[560],rng:350,spd:[570,590,610],itv:1000},joint:{wp:1},cartridge:{lv1:"75*5@20|60*2@30|7@20|10@20|8@15|17@20|18@20|19@20|20@15|30@20|23@25|26@10|13@30|32@40|31@40"},fixedParts:{wp:{name:"アーティラスBD@",main:{pwr:[28,29,30],shl:360,rng:[350,375,400],spd:[570,590,610],itv:900},slot:0,cost:70}},cost:560,capa:980,hp:305,str:5,tec:14,wlk:6,fly:10,tgh:8,wbid:3,comment:["爆風100％"]}
 
 {id:17,name:"アルバトレオスBD",cost:630,capa:945,hp:305,str:4,tec:17,wlk:7,fly:12,tgh:11,sub:{pwr:[11,13,15],shl:[330],rng:[350,365,380],spd:[290,305,320],itv:[1000],tec:100},wbid:4,cartridge:{hpup:10,lv1:"75*5@20|60*2@30|7@20|10@20|8@15|17@20|19@20|20@15|23@25|30@20|21@20|26@10|13@30|32@40|31@40"},main:{itv:[600],pwr:[9,11,13],shl:[580],rng:[350,365,380],spd:[360]},builtin:{bs:1},comment:"-"}
 
@@ -327,7 +327,7 @@
 
 
 
-{id:29,name:"ラグナバレットBD",sub:{shl:[30],rng:100,spd:500,itv:1000},joint:{wp:1},cartridge:{hpup:10,lv1:"75*5@20|60*2@30|7@20|10@20|8@15|18@20|19@20|20@15|23@25|30@20|26@10|25@25|13@30|32@40|31@40"},fixedParts:{hd:{joint:{hd:1,fcac:0,hdac:0},name:"ラグナバレットHDJ",slot:1},wp:{name:"ラグナバレットBD@",cost:50,slot:0,main:{tec:100,pwr:[12,14],shl:[450,570],rng:350,spd:400,itv:400}}},cost:520,capa:945,hp:305,str:5,tec:16,wlk:9,fly:9,tgh:12,wbid:3,comment:["内蔵強化値不明","爆風70％"]}
+{id:29,name:"ラグナバレットBD",sub:{shl:[30],rng:100,spd:500,itv:1000},joint:{wp:1},cartridge:{hpup:10,lv1:"75*5@20|60*2@30|7@20|10@20|8@15|18@20|19@20|20@15|23@25|30@20|26@10|25@25|13@30|32@40|31@40"},fixedParts:{hd:{joint:{hd:1,fcac:0,hdac:0},name:"ラグナバレットHDJ",slot:1},wp:{name:"ラグナバレットBD@",cost:50,slot:0,main:{tec:100,pwr:[14,16,18],shl:[450,570],rng:350,spd:400,itv:400}}},cost:520,capa:945,hp:305,str:5,tec:16,wlk:9,fly:9,tgh:12,wbid:3,comment:["内蔵強化値不明","爆風100％"]}
 
 {id:202305171,name:"陸自なっちんBD",sub:{tec:100,pwr:0,shl:10,rng:0,spd:0,itv:500},joint:{hdac:1,fcac:1,hd:0,wp:1},cartridge:{hpup:10,lv1:"75*6@20|7@20|10@20|8@15|18@20|19@20|20@15|23@25|22@30|25@25|21@20|26@10|13@30|32@40|31@40"},fixedParts:{wp:{name:"菊理ナツキ1尉"}},cost:555,capa:945,hp:325,str:5,tec:17,wlk:10,fly:9,tgh:15,wbid:4,size:"L",type:"c",comment:["Type.M",""]}
 
