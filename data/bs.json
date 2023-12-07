@@ -737,6 +737,7 @@
 
 
 {id:17,name:"トイボックスBS",type:"c",cost:40,hp:25,str:1,fly:3,tgh:1}
+{id:202312072,name:"トイボックスBS2",type:"c",cost:35,hp:20,tec:1,wlk:1,fly:2,tgh:1,comment:["CRAZY"]}
 
 {id:25,name:"ドミクラウンBS",type:"l",cost:35,hp:20,str:2,tec:-1,fly:3,tgh:1}
 {id:73,name:"ドラゴネイルBS",type:"l",cost:40,hp:25,str:2,tec:1,wlk:1,fly:2,tgh:-1}
