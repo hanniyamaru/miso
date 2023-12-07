@@ -524,6 +524,7 @@
 
 {id:332,name:"ハディロスHD",type:"lacs",size:"M",cost:30,hp:15,str:1,tec:-1,wlk:1,fly:-1,tgh:3}
 {id:256,name:"バフデバスターHD",cost:40,hp:25,str:1,tec:-1,wlk:2,tgh:3}
+{id:202312073,name:"バフデバスターHD2",cost:35,hp:20,str:-1,tec:1,wlk:2,fly:1,tgh:3,comment:["BF"]}
 
 {id:2,name:"パラボロイドHD",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
 {id:258,name:"ハリーアクセルHD",cost:35,hp:20,str:-1,tec:1,wlk:1,fly:2,tgh:2}
