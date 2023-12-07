@@ -634,7 +634,7 @@
 {id:53,name:"デストラクトMAXLG",cost:50,hp:45,str:1,tec:1,wlk:2,fly:-1,tgh:3}
 
 {id:15,name:"トイボックスLG",cost:50,hp:60,wlk:3,tgh:3}
-{id:202312072,name:"トイボックスLG2",cost:50,hp:60,wlk:3,tgh:3,sub:{str:100,pwr:0,shl:30,rng:0,spd:250,itv:1000},comment:["トイボックス系装備時のみBDサブと連動","CRAZY"]}
+{id:202312072,name:"トイボックスLG2",type:"c",cost:50,hp:60,wlk:3,tgh:3,sub:{str:100,pwr:0,shl:30,rng:0,spd:250,itv:1000},comment:["トイボックス系装備時のみBDサブと連動","CRAZY"]}
 
 
 {id:33,name:"ドミクラウンLG",cost:50,hp:40,str:2,tec:1,wlk:3,fly:-1,tgh:1}
