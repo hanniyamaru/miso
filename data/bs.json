@@ -467,7 +467,7 @@
 
 
 {id:136109,name:"スポア・マッシュBS",size:"M",type:"s",cost:35,hp:20,tec:1,wlk:2,fly:2}
-{id:20231212,name:"スライブロスBS",size:"L",type:"l",cost:35,hp:20,wlk:2,fly:2,tgh:1,comment:["雪まつりオーダー景品"]}
+{id:20231212,name:"スライブロスBS",size:"M",type:"l",cost:35,hp:20,wlk:2,fly:2,tgh:1,comment:["雪まつりオーダー景品"]}
 
 
 {id:47,name:"セイロンBS",cost:40,hp:25,str:1,tec:1,fly:3,type:"a",comment:"AURA機構省略"}
