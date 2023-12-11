@@ -416,7 +416,7 @@
 {id:314,name:"スパーダHD",cost:35,hp:20,str:3,tec:-1,wlk:2,tgh:1}
 
 {id:336,name:"スポア・マッシュHD",size:"M",cost:35,hp:20,tec:2,fly:1,tgh:2}
-
+{id:20231212,name:"スライブロスHD",main:{str:100,pwr:10,shl:120,rng:200,spd:500,itv:300},tunable:{mwp:1},size:"M",type:"l",cost:65,hp:20,str:2,tec:-1,wlk:2,tgh:2,comment:["","雪まつりオーダー景品"]}
 
 {id:105,name:"セイロンHD",type:"a",cost:80,hp:25,str:-1,tec:3,fly:2,tgh:1,main:{pwr:27,shl:140,rng:275,spd:440,itv:640},tunable:{mwp:1},comment:["3：1","AURA機構省略"]}
 {id:155,name:"セイロンHD2",type:"a",cost:80,hp:25,str:-1,tec:4,fly:2,main:{pwr:37,shl:70,rng:275,spd:440,itv:800},tunable:{mwp:1},comment:"AURA機構省略"}
