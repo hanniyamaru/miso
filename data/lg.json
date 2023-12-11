@@ -758,6 +758,7 @@
 {id:202301123,name:"サジタルマクシス・CLG",size:"LL",cost:90,hp:60,tec:2,wlk:2,tgh:2,comment:"シールド耐久値100"}
 {id:2,name:"シノ･イクスロードLG",type:"l",cost:145,hp:55,str:2,tec:-1,wlk:4,tgh:1,sub:{str:100,pwr:28,rng:150,spd:150,itv:1000},tunable:{pwp:1},joint:{bs:1},comment:["WLK依存サブ","シノ・イクスロード系BD装着時ボーナス有り","威力1.1倍　速度強化　CT軽減"]}
 {id:5,name:"シノ･イクスロードLG3",type:"l",cost:225,hp:55,str:2,tec:-1,wlk:3,tgh:2,sub:{str:100,pwr:32,rng:77,spd:94,itv:1000},tunable:{pwp:1},joint:{bs:1},comment:["ヒットストップ無し",""]}
+{id:20231212,name:"スライブロスLG",sub:{str:100,pwr:30,shl:0,rng:90,spd:120,itv:1000},tunable:{pwp:1},size:"LL",type:"l",cost:185,hp:45,str:2,tec:-1,wlk:4,fly:2,tgh:-1,comment:["WLK依存サブ","雪まつりオーダー景品"]}
 {id:83,name:"タイタンコイルLG",cost:50,hp:60,tec:2,wlk:3,fly:2,tgh:-1}
 {id:1204,name:"ティタロテスLG",type:"c",cost:105,hp:70,str:-1,tec:2,wlk:2,tgh:3,sub:{pwr:8,shl:400,rng:350,spd:350,itv:1000}}
 {id:58,name:"ブリガバロンLG",cost:50,hp:70,str:1,tec:-1,wlk:3,tgh:3}
