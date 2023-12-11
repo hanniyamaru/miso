@@ -769,7 +769,7 @@
 {id:531,name:"スチールライダーAM2",type:"l",cost:135,hp:20,str:-1,tec:3,wlk:1,tgh:2,main:{tec:100,pwr:6,shl:1600,rng:200,spd:400,itv:180},tunable:{mwp:1},joint:{wp:0}}
 
 
-{id:20231212,name:"スライブロスAM",size:"L",cost:35,hp:20,str:2,tec:1,wlk:1,tgh:1,comment:["雪まつりオーダー景品"]}
+{id:20231212,name:"スライブロスAM",size:"L",cost:35,hp:20,str:2,wlk:2,tgh:1,comment:["雪まつりオーダー景品"]}
 {id:202311011,name:"スレッジヘイムAM",size:"L",cost:35,hp:20,tec:2,wlk:1,tgh:2,comment:[""]}
 
 {id:202306091,name:"ゼウネシスAM",size:"L",cost:40,hp:25,str:2,tec:1,wlk:1,fly:-1,tgh:2,comment:[""]}
