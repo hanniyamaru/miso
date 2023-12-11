@@ -110,6 +110,11 @@
 {id:279,name:"ユネッサHD",type:"lacs",size:"M",cost:35,hp:20,str:-1,tec:1,wlk:2,tgh:3}
 
 {id:20220426,name:"ラビスリープHD",size:"S",cost:35,hp:20,str:2,tec:1,wlk:1,fly:1,comment:"イースターイベント景品"}
+
+{id:20231211,name:"ルボックHD",size:"S",cost:35,hp:20,str:-1,tec:1,wlk:1,fly:3,tgh:1,comment:["雪まつりオーダー景品"]}
+{id:202312112,name:"ルボックHD2",size:"S",cost:35,hp:20,str:1,tec:1,tgh:3,comment:["雪まつりオーダー景品"]}
+{id:202312113,name:"ルボックHD3",size:"S",cost:35,hp:20,str:1,tec:-1,wlk:3,fly:1,tgh:1,comment:["雪まつりオーダー景品"]}
+
 {id:31,name:"レイミナスHD",type:"lacs",size:"S",cost:35,hp:20,str:1,tec:2,wlk:-1,fly:3}
 {id:37,name:"レイミナスHD2",type:"lacs",size:"S",cost:30,hp:15,str:1,tec:2,fly:2,tgh:-1}
 {id:202311012,name:"レヴェールHD",size:"S",cost:35,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,comment:[""]}
