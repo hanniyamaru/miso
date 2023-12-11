@@ -233,6 +233,7 @@
 {id:43,name:"リリレインαAM",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1}
 {id:74,name:"ルーシェαAM",main:{tec:100,pwr:12,shl:230,rng:300,spd:260,itv:500},tunable:{mwp:1},type:"c",cost:85,hp:20,str:-1,tec:2,wlk:1,tgh:3,comment:"押出効果あり"}
 {id:92,name:"ルーシェαAM2",main:{tec:100,pwr:8,shl:270,rng:300,spd:260,itv:800},tunable:{mwp:1},type:"c",cost:85,hp:20,str:-1,tec:3,tgh:3}
+{id:20231211,name:"ルボックAM",size:"S",cost:30,hp:15,str:-1,tec:2,wlk:2,fly:1,comment:["雪まつりオーダー景品"]}
 
 {id:159,name:"レイミナスAM",type:"lacs",size:"S",cost:40,hp:25,str:-1,tec:2,wlk:2,fly:2}
 {id:202311012,name:"レヴェールAM",size:"S",cost:35,hp:20,tec:2,wlk:1,fly:1,tgh:1,comment:[""]}
