@@ -335,6 +335,7 @@
 {id:7,name:"スコルタンLG",cost:45,hp:25,str:1,tec:1,wlk:3}
 {id:48,name:"スゼクLG",comment:"AURA機構",auraStat:{tec:2,wlk:2,fly:1,tgh:1},tec:2,wlk:2,fly:1,tgh:1,cost:45,hp:25}
 {id:63,name:"スゼクLG2",sub:{pwr:28,shl:0,rng:150,spd:160,itv:1000,str:100},type:"a",cost:95,hp:25,str:2,tec:-1,wlk:2,fly:2,tgh:1,comment:"AURA機構省略"}
+{id:202312121,name:"スノーモービルLG",sub:{str:100,pwr:28,shl:0,rng:150,spd:150,itv:1000},tunable:{pwp:1},size:"M",type:"l",cost:180,hp:30,str:2,tec:-1,wlk:4,tgh:1,comment:["WLK依存サブ","雪まつりオーダー景品"]}
 {id:118,name:"スパーダLG",type:"l",cost:45,hp:25,str:3,tec:-1,wlk:3,tgh:1}
 
 {id:1225,name:"スピニングLG",sub:{str:100,pwr:1,shl:0,rng:0,spd:50,itv:1000},tunable:{pwp:1},type:"lacs",size:"M",cost:50,hp:25,str:1,wlk:3,tgh:2}
