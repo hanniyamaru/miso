@@ -1043,7 +1043,7 @@
 
 {id:33,name:"サイコフォーミュラAMJ",main:{pwr:7,shl:560,rng:330,spd:300,itv:740},cost:40,slot:1,size:"S",type:"c",tunable:{mwp:1},comment:"サイコフォーミュラ轟"}
 {id:41,name:"シュトルバンガーAMJ",main:{pwr:10,shl:240,rng:300,spd:400,itv:800,tec:100},type:"c",size:"L",cost:30,slot:1,tunable:{mwp:1},comment:"爆風90％？"}
-{id:202312063,name:"スノーボールAMJ",main:{pwr:15,shl:250,rng:330,spd:355,itv:660},tunable:{mwp:1},type:"c",size:"M",cost:65,slot:1,comment:["","冬祭りオーダー景品"]}
+{id:202312063,name:"スノーボールAMJ",main:{pwr:15,shl:250,rng:330,spd:355,itv:660},tunable:{mwp:1},type:"c",size:"M",cost:60,slot:1,comment:["","冬まつりオーダー景品"]}
 
 
 {id:53,name:"ティタロテスAMJ",type:"c",size:"L",cost:20,tunable:{mwp:1},slot:1,main:{pwr:17,shl:120,rng:300,spd:220,itv:600}}
@@ -1070,12 +1070,9 @@
 {id:3,name:"フォールドライフルAMJ",size:"M",cost:60,tec:2,wlk:-1,main:{pwr:9,shl:220,rng:250,spd:480,itv:520},tunable:{mwp:1},slot:1}
 {id:42,name:"ヘカトケレスAMJ",tunable:{pwp:0,mwp:0},type:"c",size:"L",cost:20,slot:1,main:{tec:100,pwr:8,shl:190,rng:300,spd:260,itv:600}}
 
-
 {id:31,name:"ミコトAMJ",main:{pwr:12,shl:270,rng:250,spd:400,itv:620},tunable:{mwp:1},type:"lc",size:"M",cost:15,slot:1}
 
 {id:18,name:"ミドルガトリングAMJ",size:"M",cost:60,main:{pwr:6,shl:1080,rng:200,spd:400,itv:140},tunable:{mwp:1},tec:2,wlk:-1,slot:1,type:"lc"}
-
-
 
 {id:40,name:"A.L.E.ラズフラムAMJ",sub:{rng:100,spd:50,itv:500},tunable:{pwp:0,mwp:0},type:"l",size:"SS",cost:50,slot:1,comment:"シールド耐久値135"}
 
