@@ -507,7 +507,7 @@
 {id:20220604,name:"ナイトフィアーBS",size:"M",type:"l",cost:40,hp:25,str:1,wlk:1,fly:2,tgh:1}
 
 {id:11202,name:"ノヴァディカロスBS",sub:{shl:20,spd:150,itv:1000},type:"a",size:"M",cost:55,hp:20,wlk:-1,fly:4,tgh:2,comment:["◆CT12秒 ◆ブースト回復：100％","◆離陸：斜め前方のみ ◆飛行：入力方向※1","※1　ブーストゲージ消失中は消失直前の進行方向を受け継ぎ、ゲージ消失中は移動キー入力を受け付けない"]}
-{id:20231221,name:"ハープーンBS",main:{tec:100,pwr:13,shl:420,rng:275,spd:350,itv:300},sub:{tec:100,pwr:15,shl:150,rng:275,spd:350,itv:1000},tunable:{mwp:1,pwp:0},type:"a",size:"M",cost:155,hp:20,str:-1,tec:3,fly:3,comment:["メイン：ビーム爆風100％","サブ：ビーム爆風100％","冬まつりオーダー景品"]}
+{id:20231221,name:"ハープーンBS",main:{tec:100,pwr:13,shl:420,rng:275,spd:350,itv:300},sub:{tec:100,pwr:15,shl:150,rng:275,spd:350,itv:1000},tunable:{mwp:1,pwp:0},type:"a",size:"M",cost:155,hp:20,str:-1,tec:3,fly:3,comment:["メイン：ビーム爆風100％","サブ：ビーム爆風100％","雪まつりオーダー景品"]}
 {id:2022114,name:"パーポBS",type:"s",cost:135,hp:20,wlk:1,fly:3,tgh:1,sub:{str:100,pwr:0,shl:20,rng:0,spd:0,itv:13000},comment:["回復量81","回復可能数3人"]}
 {id:202204142,name:"バイオロンBS",type:"s",size:"M",cost:35,hp:20,str:-1,tec:2,fly:3,tgh:1,comment:["アリーナコイン景品"]}
 
@@ -614,7 +614,7 @@
 
 {id:162,name:"RAMソルジェッターBS",type:"a",size:"M",cost:40,hp:20,tec:2,wlk:1,fly:2}
 {id:232,name:"S・アクティナGBS",sub:{tec:100,pwr:0,shl:30,rng:0,spd:220,itv:1000},tunable:{pwp:0},type:"lacs",size:"M",cost:65,hp:20,tec:1,wlk:2,fly:3,tgh:-1,comment:["1段目:CT3秒 別武器へコンボ不可（空 補）","2段目:CT5秒 別武器へコンボ可能 （陸 砲）"]}
-{id:202312211,name:"XmasファイヤーBS",main:{tec:100,pwr:23,shl:240,rng:330,spd:220,itv:900},tunable:{mwp:1},type:"c",size:"M",cost:135,hp:20,str:-1,tec:2,fly:2,tgh:1,comment:["爆風属性100％　距離減衰有り","冬まつりオーダー景品"]}
+{id:202312211,name:"XmasファイヤーBS",main:{tec:100,pwr:23,shl:240,rng:330,spd:220,itv:900},tunable:{mwp:1},type:"c",size:"M",cost:135,hp:20,str:-1,tec:2,fly:2,tgh:1,comment:["爆風属性100％　距離減衰有り","雪まつりオーダー景品"]}
 
 
 
