@@ -577,6 +577,7 @@
 {id:75,name:"コンバットフリードLG",type:"l",cost:45,hp:35,str:2,wlk:3,fly:-1,tgh:2}
 
 {id:10,name:"サジタルマクシスLG",cost:50,hp:60,tec:1,wlk:4,tgh:1}
+{id:20231221,name:"サプライズドLG",type:"l",size:"L",cost:100,hp:30,str:3,tec:-1,wlk:2,tgh:2,sub:{str:100,pwr:30,shl:0,rng:120,spd:200,itv:1000},tunable:{pwp:1},comment:["コンボ：始動のみ","雪まつりオーダー景品"]}
 
 {id:77,name:"ザリドLG",cost:45,hp:50,wlk:4,fly:-1,tgh:3,type:"l"}
 
