@@ -59,7 +59,6 @@
 {id:20221210,name:"クレナイエッジ",sub:{str:100,pwr:34,shl:0,rng:77,spd:94,itv:1000},size:"M",type:"l",cost:160,comment:["ディライブ攻撃時TGH減衰無視","ダテマックス初期装備"]}
 {id:20231101,name:"アサシンエッジ",sub:{str:100,pwr:30,shl:0,rng:150,spd:250,itv:1000},size:"SS",type:"l",cost:60,comment:["別武器コンボ最終段は回転斬りに変化","シャドウハンター・扇初期装備"]}
 
-{id:202302165,name:"マニモブレード",sub:{str:100,pwr:28,shl:0,rng:150,spd:350,itv:1000},tunable:{pwp:0},type:"la",size:"M",cost:60,comment:["◆アーマー有 ◆CT4秒","パーツクリエイト"]}
 {id:16,name:"ビームブレード",type:"a",size:"M",cost:70,sub:{str:100,pwr:28,rng:70,spd:85,itv:500}}
 {id:17,name:"ソニックブレード",type:"a",size:"M",cost:100,sub:{str:100,pwr:30,rng:70,spd:85,itv:500}}
 {id:18,name:"ディバインブレード",type:"a",size:"M",cost:160,sub:{str:100,pwr:33,shl:100,rng:70,spd:85,itv:500}}
@@ -67,6 +66,7 @@
 {id:34,name:"クリムエッジ",sub:{tec:100,pwr:28,tec:100,rng:70,spd:85,itv:1000},tunable:{pwp:1},type:"a",size:"S",cost:100,comment:["刀身と衝撃波で参照威力・TECが別々の複合武器","両方をHITさせた場合は表記以上のダメージとなる","刀身威力28　衝撃波威力7"]}
 {id:43,name:"エンドガラティーン",sub:{pwr:31,rng:70,spd:85,itv:1600},auraStat:{sub:{pwr:34,rng:70,spd:85,itv:1600}},size:"L",cost:120,type:"a",comment:["威力はSTR・TECの高い方に依存","ブースト回復効果"]}
 {id:20230208,name:"カカオキャリバーC",type:"a",size:"M",cost:120,sub:{str:100,pwr:30,shl:100,rng:70,spd:85,itv:500},comment:["モーションはディバインブレードと同一","バレンタインオーダー報酬"]}
+{id:20231221,name:"ゲーミングソード",type:"l",size:"M",cost:140,sub:{str:100,pwr:33,rng:77,spd:94,itv:1000},comment:["","NPC：ミュラ"]}
 
 {group:"ナイフ系",prefixID:"KN",commonStat:{tunable:{pwp:1}},nextID:8}
 {id:1,name:"カッター",size:"SS",cost:25,sub:{str:100,pwr:26,rng:105,spd:128,itv:500}}
@@ -94,7 +94,7 @@
 {id:202204143,name:"ジャンパーハルバード",size:"M",cost:60,type:"a",sub:{str:100,pwr:23,shl:0,rng:120,spd:200,itv:500},tunable:{pwp:1},comment:["アリーナコイン景品"]}
 {id:20230614,name:"Xmasツリーランス",type:"l",size:"L",cost:130,sub:{str:100,pwr:30,rng:100,spd:200,itv:1000},comment:"WLK依存サブ"}
 {id:202306141,name:"ハルバート",type:"l",size:"M",cost:120,sub:{str:100,pwr:32,rng:77,spd:94,itv:1000},comment:"ビートラム初期装備"}
-
+{id:202312211,name:"ルミトルニランス",type:"l",size:"L",cost:120,sub:{str:100,pwr:32,rng:0,spd:250,itv:1000},comment:["WLK依存サブ","NPC：ミュラ"]}
 
 {group:"アクス系",prefixID:"AX",nextID:10}
 {id:1,name:"ハンドアクス",type:"lcs",size:"S",cost:40,sub:{str:100,pwr:30,rng:56,spd:68,itv:1000},tunable:{pwp:1}}
@@ -187,6 +187,7 @@
 
 {id:20230805,name:"シュトゥルムドルヒR",sub:{str:100,pwr:28,shl:150,rng:85,spd:70,itv:1000},type:"a",size:"M",cost:130,tunable:{pwp:1},comment:["FLY依存サブ","ブースト回復効果","アニマ・ゼータディスクβ（NPCステラ）"]}
 {id:202308245,name:"ドラゴンファング",main:{str:100,pwr:5,shl:400,rng:180,spd:480,itv:100},sub:{str:100,pwr:34,rng:77,spd:94,itv:1000},tunable:{mwp:1,pwp:1},type:"l",size:"M",cost:200,comment:["最終段+10％？","パーツクリエイト"]}
+{id:202302165,name:"マニモブレード",sub:{str:100,pwr:28,shl:0,rng:150,spd:350,itv:1000},tunable:{pwp:0},type:"la",size:"M",cost:60,comment:["◆アーマー有 ◆CT4秒","パーツクリエイト"]}
 
 
 {group:"subコンバージョン（順不同）",prefixID:"MOx",nextID:17}
