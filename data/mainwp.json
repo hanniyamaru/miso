@@ -355,6 +355,7 @@
 {id:20230804,name:"アウロラキャノンR",main:{tec:100,pwr:18,shl:400,rng:275,spd:440,itv:400},type:"a",size:"M",cost:80,comment:["ビーム属性爆風50％","アニマ・ゼータディスクβ（NPCステラ）"]}
 {id:202308041,name:"オルクトヴァッフェR",main:{tec:100,pwr:30,shl:210,rng:330,spd:500,itv:840},type:"c",size:"M",cost:130,comment:["","アニマ・ゼータディスクα（NPCナイア）"]}
 {id:20231211,name:"リーフロッド",main:{tec:100,pwr:12,shl:370,rng:275,spd:400,itv:500},tunable:{mwp:1},cost:70,type:"as",size:"S",comment:["ルボック初期装備・雪まつりオーダー景品",""]}
+{id:20231231,name:"バトルドア",main:{tec:100,pwr:30,shl:180,rng:225,spd:400,itv:1000},tunable:{mwp:1},cost:100,size:"S",comment:["シールド貫通","NYキューブ2024",""]}
 
 
 {group:"mainコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
