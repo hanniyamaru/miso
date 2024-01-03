@@ -638,7 +638,7 @@
 
 {id:63,name:"ヴォルフライエBS",main:{pwr:6,shl:600,rng:275,spd:350,itv:1000},sub:{shl:30,rng:100,spd:120,itv:1000},tunable:{mwp:0,pwp:0},type:"a",size:"L",cost:160,hp:25,tec:2,fly:4,tgh:-1,comment:["◆CT12秒 ◆ブースト回復：100％","◆離陸：斜め+入力方向 ◆飛行：直進+入力方向","BS2@cost120複合・武器チューン不可"]}
 
-{id:90,name:"ヴォルフライエBS2",main:{pwr:8,shl:500,rng:275,spd:320,itv:700},sub:{pwr:1,shl:15,rng:10,spd:150,itv:1000},tunable:{mwp:0,pwp:0},type:"a",size:"L",cost:85,hp:25,str:-1,tec:1,fly:4,tgh:1,comment:["BS2@cost45複合","武器チューン不可"]}
+{id:90,name:"ヴォルフライエBS2",main:{pwr:8,shl:500,rng:275,spd:320,itv:700},sub:{pwr:1,shl:15,rng:10,spd:150,itv:1000},tunable:{mwp:0,pwp:0},type:"a",size:"L",cost:85,hp:25,str:-1,tec:1,fly:4,tgh:1,comment:["メイン：ブースト回収　誘導弾","BS2@cost45複合","武器チューン不可"]}
 
 
 
