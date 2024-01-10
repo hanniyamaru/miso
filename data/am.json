@@ -554,6 +554,8 @@
 {id:202310188,name:"プリストルAM",cost:35,hp:20,str:1,tec:2,tgh:2}
 {id:62,name:"ブリッツェルトAM",cost:35,hp:20,tec:2,fly:1,tgh:2}
 {id:63,name:"ブリッツェルトAM2",cost:35,hp:20,str:2,fly:2,tgh:1}
+{id:20240111,name:"ブリッツェルト・TBAM",size:"M",cost:35,hp:20,str:2,tec:-1,fly:2,tgh:2,comment:["AURA機構　※変形：空のみ",""]}
+{id:202401112,name:"ブリッツェルト・TBAM2",main:{tec:100,pwr:24,shl:240,rng:275,spd:440,itv:700},tunable:{mwp:1},auraStat:{main:{pwr:28,spd:480}},type:"a",size:"M",cost:95,hp:20,wlk:1,fly:2,tgh:1,comment:["威力はSTR・TECの高い方に依存","AURA機構"]}
 
 {id:524,name:"ブリンクAM",cost:40,hp:25,tec:1,wlk:1,fly:1,tgh:2}
 {id:82,name:"ヘビージャガーアームAM",cost:35,hp:20,str:3,wlk:1,fly:-1,tgh:2,comment:["ロボガラポン"]}
