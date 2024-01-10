@@ -39,7 +39,7 @@
 {id:2032,name:"ヘレポリスシューター",main:{tec:100,pwr:21,shl:400,rng:250,spd:400,itv:500},type:"l",size:"M",cost:110,comment:"混沌コイン景品"}
 
 {id:43,name:"シュリケンガン",type:"ls",size:"S",cost:80,main:{pwr:9,shl:880,rng:225,spd:440,itv:160},comment:["貫通効果",""]}
-{id:44,name:"ダイシュリケンガン",type:"l",size:"M",cost:110,main:{pwr:13,shl:800,rng:225,spd:440,itv:220},comment:["貫通効果",""]}
+{id:44,name:"ダイシュリケンガン",type:"l",size:"M",cost:130,main:{pwr:13,shl:800,rng:225,spd:440,itv:220},comment:["貫通効果",""]}
 {id:503,name:"ブレイドガン",main:{tec:100,pwr:11,shl:780,rng:250,spd:320,itv:300},tunable:{mwp:1},type:"l",size:"M",cost:150}
 {id:108,name:"シールドガン",main:{tec:100,pwr:17,shl:430,rng:225,spd:400,itv:340},tunable:{mwp:1},type:"l",size:"M",cost:180}
 
@@ -138,7 +138,7 @@
 {id:2022209,name:"キューピッドシューター",type:"lacs",size:"M",cost:60,main:{pwr:14,shl:430,rng:250,spd:440,itv:400}}
 {id:20230103,name:"プリッツアシューター",type:"lacs",size:"M",cost:75,main:{pwr:10,shl:320,rng:250,spd:320,itv:500},comment:["誘導弾・EOエリザへの着弾で特殊アニメーション","プリッツアディスク：NPCシルビア（アリーナコイン50個）"]}
 {id:20230309,name:"クロスボウ",type:"lacs",size:"M",cost:100,main:{tec:100,pwr:26,shl:280,rng:250,spd:400,itv:600},comment:["ラズフラムRUSH初期装備",""]}
-{id:202312112,name:"絶対零弩",main:{tec:100,pwr:35,shl:240,rng:275,spd:480,itv:800},tunable:{mwp:1},cost:170,type:"a",size:"S",comment:["ビーム爆風100％","雪まつりオーダー景品"]}
+{id:202312112,name:"絶対零弩",main:{tec:100,pwr:32,shl:240,rng:275,spd:480,itv:800},tunable:{mwp:1},cost:170,type:"a",size:"S",comment:["ビーム爆風100％","雪まつりオーダー景品"]}
 
 
 {group:"レールガン系",prefixID:"RG",commonStat:{tunable:{mwp:1}},nextID:1}
@@ -407,15 +407,13 @@
 
 
 
-{id:156,name:"ペペンガンナーズ",main:{tec:100,pwr:9,shl:750,rng:350,spd:350,itv:500},tunable:{mwp:1},type:"c",size:"M",cost:100,comment:"UNIで誘導弾に変更"}
-{id:1561,name:"ペペンツインガン",main:{pwr:8,shl:980,rng:330,spd:220,itv:360},tunable:{mwp:1},type:"c",size:"S",cost:70,comment:"爆風70％"}
 {id:2022115,name:"ペロケット",main:{pwr:23,shl:520,rng:330,spd:400,itv:500,tec:100},cost:160,type:"c",size:"S",comment:"モニカ・ゴールドAM専用コンバージョンパーツ"}
 
 
 {id:118,name:"ホーミングアロー",main:{pwr:13,shl:180,rng:250,spd:320,itv:800},cost:50,type:"l",size:"M",comment:"ロビンハンターAM専用コンバージョンパーツ",slot:0}
 
 
-{id:1591,name:"マニモウィング@",main:{str:100,pwr:6,shl:880,rng:300,spd:400,itv:440},type:"a",size:"M",comment:"マニモウィング専用コンバーションパーツ",cost:40}
+{id:1591,name:"マニモウィング@",main:{str:100,pwr:7,shl:900,rng:300,spd:400,itv:440},type:"a",size:"M",comment:["ビーム爆風100％","マニモウィング専用コンバーションパーツ"],cost:40}
 
 {id:20221102,name:"メテオールプファイル",size:"S",type:"a",cost:20,main:{tec:100,pwr:0,shl:15,rng:0,spd:10,itv:1000},comment:"セリカ・ホーク専用コンバージョンパーツ"}
 {id:141,name:"モノケロスロッド",main:{pwr:38,shl:280,rng:330,spd:400,itv:800,tec:100},sub:{pwr:9,shl:300,rng:300,spd:280,itv:1000,tec:100},type:"c",size:"S",cost:170,comment:["ルミエラAM、ルミエラAM3専用コンバージョンパーツ","-"]}
@@ -597,10 +595,13 @@
 {id:202302021,name:"ダンシングスロー",main:{tec:100,pwr:5,shl:270,rng:200,spd:570,itv:500},slot:0,type:"s",size:"S",cost:30,comment:["プロメ専用コンバージョンパーツ",""]}
 {id:202302022,name:"ダンシングシールド",tunable:{mwp:0},slot:0,type:"s",size:"S",cost:30,comment:"プロメ専用コンバージョンパーツ",main:{pwr:0,shl:50,rng:0,spd:10,itv:1000}}
 
+{group:"ペペンガールコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
+{id:156,name:"ペペンガンナーズ",main:{tec:100,pwr:9,shl:780,rng:350,spd:350,itv:500},tunable:{mwp:1},type:"c",size:"M",cost:85,comment:["爆風属性100％","誘導弾"]}
+{id:1561,name:"ペペンツインガン",main:{pwr:8,shl:1120,rng:350,spd:240,itv:360},tunable:{mwp:1},type:"c",size:"S",cost:70,comment:"爆風70％"}
+
 
 {group:"ベルゼイラフガールコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:99,name:"ゼブルサイガン",main:{pwr:10,shl:540,rng:330,spd:220,itv:300},tunable:{mwp:1},type:"c",size:"S",cost:60}
-
 {id:98,name:"バアルバズーカ",tunable:{mwp:1},cost:90,type:"c",size:"S",main:{pwr:19,shl:420,rng:330,spd:400,itv:400}}
 
 
