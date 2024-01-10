@@ -888,8 +888,8 @@
 {id:47,name:"ヘリアンザスAM",cost:35,hp:20,str:2,tec:2,wlk:1}
 
 
-{id:20230512,name:"ベルヴィアAM",sub:{str:100,pwr:34,shl:20,rng:70,spd:85,itv:1000},type:"l",size:"L",cost:155,hp:20,str:4,tec:-1,tgh:2,tunable:{pwp:0},comment:[""]}
-{id:202305121,name:"ベルヴィアAM2",main:{str:100,pwr:5,shl:250,rng:200,spd:400,itv:1000},sub:{str:100,pwr:10,shl:30,rng:150,spd:570,itv:1000},type:"l",size:"L",cost:115,hp:20,str:2,wlk:2,fly:-1,tgh:2,joint:{wp:0},tunable:{mwp:1,pwp:0},comment:[""]}
+{id:20230512,name:"ベルヴィアAM",sub:{str:100,pwr:35,shl:30,rng:70,spd:85,itv:1000},type:"l",size:"L",cost:155,hp:20,str:4,tec:-1,tgh:2,tunable:{pwp:0},comment:[""]}
+{id:202305121,name:"ベルヴィアAM2",main:{str:100,pwr:5,shl:250,rng:200,spd:400,itv:1000},sub:{str:100,pwr:10,shl:50,rng:200,spd:570,itv:1000},type:"l",size:"L",cost:115,hp:20,str:2,wlk:2,fly:-1,tgh:2,joint:{wp:0},tunable:{mwp:1,pwp:0},comment:[""]}
 
 {id:210,name:"ペルセシウスAM",main:{str:100,pwr:15,shl:30,rng:250,spd:570,itv:500},tunable:{mwp:1},type:"a",size:"M",cost:55,hp:25,str:3,tec:-1,fly:2,tgh:1}
 {id:161,name:"ペルセシウスAM3",main:{tec:100,pwr:34,shl:200,rng:275,spd:440,itv:1000},tunable:{mwp:1},type:"a",size:"L",cost:175,hp:20,str:-1,tec:3,fly:2,tgh:1,joint:{wp:0}}
