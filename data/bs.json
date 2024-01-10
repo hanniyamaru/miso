@@ -707,6 +707,7 @@
 {id:202305173,name:"消防なっちんBS（コンバージョン無し）",sub:{str:100,pwr:0,rng:0,spd:0,itv:1000},type:"s",size:"L",cost:105,hp:20,str:1,tec:1,fly:3,comment:""}
 
 {id:202303092,name:"ジョストガンダーBS",type:"l",size:"L",cost:35,hp:20,str:1,wlk:1,fly:3,comment:["",""]}
+{id:20240111,name:"シンゲンBS",type:"l",size:"L",cost:35,hp:20,str:0,tec:0,wlk:1,fly:3,tgh:1,comment:[""]}
 
 {id:186,name:"スカラベスBS2",main:{tec:100,pwr:9,shl:330,rng:330,spd:260,itv:1100},tunable:{mwp:1},joint:{wp:1},cost:195,hp:20,str:-1,tec:3,fly:2,tgh:1,type:"c",size:"L"}
 {id:34,name:"スケアガントBS",cost:40,hp:25,fly:2,tgh:3,type:"l"}
