@@ -603,6 +603,7 @@
 
 {id:202305172,name:"消防なっちんLG",size:"L",cost:50,hp:50,str:-1,wlk:4,fly:1,tgh:2,comment:[""]}
 {id:202303092,name:"ジョストガンダーLG",size:"L",cost:50,hp:70,str:2,wlk:3,fly:-1,tgh:2,comment:["",""]}
+{id:20240111,name:"シンゲンLG",size:"L",cost:50,hp:50,str:1,tec:-1,wlk:3,fly:0,tgh:3,comment:[""]}
 
 {id:42,name:"スケアガントLG",cost:45,hp:25,wlk:2,fly:1,tgh:3}
 {id:85,name:"スチールバーンLG",joint:{lg:1},fixedParts:{lg:{name:"スチールバーンLG@",joint:{bs:1},slot:0}},type:"a",cost:45,hp:40,str:-1,tec:1,wlk:2,fly:1,tgh:3}
