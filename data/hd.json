@@ -592,6 +592,7 @@
 
 {id:99,name:"ブリッツェルトHD",cost:40,hp:25,str:2,tec:-1,wlk:2,fly:1,tgh:1}
 {id:100,name:"ブリッツェルトHD2",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2}
+{id:20240111,name:"ブリッツェルト・TBHD",size:"M",cost:35,hp:20,str:2,tec:-1,fly:3,tgh:1,comment:["",""]}
 
 {id:410,name:"ブリンクHD",cost:40,hp:25,str:1,tec:3,fly:-1,tgh:2}
 
