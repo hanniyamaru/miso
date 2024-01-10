@@ -754,7 +754,7 @@
 
 {id:202305175,name:"消防なっちんAM（バリアガン）",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,comment:["",""],fixedParts:{wp:{name:"S・UバリアガンType.R",main:{tec:100,pwr:22,shl:80,rng:300,spd:400,itv:1000},tunable:{mwp:1},cost:70,slot:3}},type:"s",size:"L"}
 {id:202305176,name:"消防なっちんAM（コンバージョン無し）",size:"L",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,comment:[""]}
-
+{id:20240111,name:"シンゲンAM",size:"L",cost:35,hp:20,str:3,tec:0,wlk:1,fly:-1,tgh:2,comment:[""]}
 
 {id:41,name:"スクイドルAM",size:"L",type:"s",cost:105,hp:20,str:2,tec:-1,wlk:2,fly:1,tgh:1,sub:{str:100,pwr:28,rng:70,spd:85,itv:500},tunable:{pwp:1},joint:{wp:0},comment:["ショック効果","ロボガラポン"]}
 
