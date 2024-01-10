@@ -74,7 +74,7 @@
 {id:64,name:"ぷちコメットランチャー",main:{tec:100,pwr:3,shl:150,rng:300,spd:320,itv:340},tunable:{mwp:1},type:"s",size:"S",cost:20}
 
 {id:65,name:"ルミリンナ",sub:{tec:100,pwr:38,shl:50,rng:250,spd:250,itv:1000},slot:0,cost:210}
-{id:66,name:"ルミヒウタレ",main:{tec:100,pwr:33,shl:600,rng:250,spd:350,itv:200},slot:0}
+{id:66,name:"ルミヒウタレ",main:{tec:100,pwr:30,shl:600,rng:250,spd:350,itv:200},slot:0}
 {id:67,name:"ルミトルニ",main:{tec:100,pwr:21,shl:600,rng:250,spd:400,itv:700},tunable:{mwp:1}}
 {id:68,name:"ラヴィーニ",main:{tec:100,pwr:55,shl:15,rng:330,spd:570,itv:1000},sub:{tec:100,pwr:18,shl:280,rng:250,spd:320,itv:1000},tunable:{mwp:1}}
 {id:69,name:"トゥイスク",sub:{tec:100,pwr:32,shl:0,rng:0,spd:0,itv:1000},slot:0}
