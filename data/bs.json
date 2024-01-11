@@ -768,8 +768,7 @@
 
 {id:96,name:"フラッシュボマーBS",type:"c",size:"L",cost:35,hp:20,tec:2,fly:2,tgh:1}
 
-
-{id:33,name:"ブリッツェルトBS",type:"a",cost:55,hp:25,str:1,tec:1,fly:4,tgh:-1}
+{id:33,name:"ブリッツェルトBS",sub:{str:100,pwr:0,shl:0,rng:150,spd:200,itv:1000},tunable:{pwp:0},type:"a",size:"L",cost:55,hp:25,str:1,tec:1,fly:4,tgh:-1,comment:["変形省略・サブはAURA時のみ使用可能","AURA機構"]}
 {id:202401112,name:"ブリッツェルト・TBBS",sub:{str:100,pwr:0,shl:75,rng:150,spd:220,itv:1000},tunable:{pwp:0},type:"a",size:"L",cost:65,hp:20,str:1,tec:-1,fly:4,tgh:1,comment:["AURA発動時CT減","AURA機構"]}
 {id:7,name:"ブレイズバロンBS",type:"l",cost:45,hp:25,str:2,tec:1,fly:3,tgh:-1}
 
