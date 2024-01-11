@@ -188,7 +188,7 @@
 {id:20230805,name:"シュトゥルムドルヒR",sub:{str:100,pwr:28,shl:150,rng:85,spd:70,itv:1000},type:"a",size:"M",cost:130,tunable:{pwp:1},comment:["FLY依存サブ","ブースト回復効果","アニマ・ゼータディスクβ（NPCステラ）"]}
 {id:202308245,name:"ドラゴンファング",main:{str:100,pwr:5,shl:400,rng:180,spd:480,itv:100},sub:{str:100,pwr:34,rng:77,spd:94,itv:1000},tunable:{mwp:1,pwp:1},type:"l",size:"M",cost:200,comment:["最終段+10％？","パーツクリエイト"]}
 {id:202302165,name:"マニモブレード",sub:{str:100,pwr:28,shl:0,rng:150,spd:350,itv:1000},tunable:{pwp:0},type:"la",size:"M",cost:60,comment:["◆アーマー有 ◆CT4秒","パーツクリエイト"]}
-
+{id:20240111,name:"ブリッツブレイド",sub:{str:100,pwr:33,shl:100,rng:0,spd:10,itv:1000},auraStat:{sub:{str:100,pwr:35,rng:150,spd:300}},type:"a",size:"M",cost:140,comment:["AURA機構","ブリッツェルト・TB初期装備"]}
 
 {group:"subコンバージョン（順不同）",prefixID:"MOx",nextID:17}
 {id:127,name:"ヴァリアントBD@",sub:{str:100,spd:150,itv:500},type:"a",size:"M",cost:230,slot:0}
