@@ -612,6 +612,8 @@
 
 {id:1204,name:"M・アーチBS",type:"a",cost:35,hp:20,str:1,tec:1,fly:3}
 
+{id:20240112,name:"R・デュークBS",main:{tec:100,pwr:9,shl:810,rng:275,spd:350,itv:400},sub:{tec:100,pwr:19,shl:50,rng:275,spd:350,itv:1000},tunable:{mwp:1,pwp:0},type:"a",size:"M",cost:195,hp:20,str:-1,tec:2,fly:4,comment:["BS@省略 cost+45複合"]}
+{id:202401121,name:"R・デュークBS（コンバージョン無し）",main:{tec:100,pwr:9,shl:810,rng:275,spd:350,itv:400},tunable:{mwp:1},type:"a",size:"M",cost:150,hp:20,str:-1,tec:2,fly:4,comment:[""]}
 {id:162,name:"RAMソルジェッターBS",type:"a",size:"M",cost:40,hp:20,tec:2,wlk:1,fly:2}
 {id:232,name:"S・アクティナGBS",sub:{tec:100,pwr:0,shl:30,rng:0,spd:220,itv:1000},tunable:{pwp:0},type:"lacs",size:"M",cost:65,hp:20,tec:1,wlk:2,fly:3,tgh:-1,comment:["1段目:CT3秒 別武器へコンボ不可（空 補）","2段目:CT5秒 別武器へコンボ可能 （陸 砲）"]}
 {id:202312211,name:"XmasファイヤーBS",main:{tec:100,pwr:23,shl:240,rng:330,spd:220,itv:900},tunable:{mwp:1},type:"c",size:"M",cost:135,hp:20,str:-1,tec:2,fly:2,tgh:2,comment:["爆風属性100％　距離減衰有り","雪まつりオーダー景品"]}
