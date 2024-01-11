@@ -539,6 +539,7 @@
 
 
 {id:16,name:"エスカゴットLG",cost:40,hp:70,wlk:3,fly:2,builtin:{bs:1},comment:"BS内蔵"}
+{id:202401113,name:"エティオンLG",size:"L",cost:45,hp:25,str:1,tec:0,wlk:3,fly:0,tgh:2}
 
 {id:78,name:"カタロスLG",sub:{shl:30,itv:1000},type:"a",cost:75,hp:70,wlk:2,fly:2,tgh:2,comment:["◆CT6秒 ◆ブースト回復：50％","◆離陸：垂直 ◆飛行：直進+入力方向 ","◆ブースト未入力・ブーストゲージ消失中：降下",""]}
 
