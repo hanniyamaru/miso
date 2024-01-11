@@ -620,6 +620,7 @@
 {id:20220619,name:"ワイルドフィザリバンAM",type:"lacs",size:"M",cost:40,hp:25,str:2,fly:2,tgh:1}
 {id:190,name:"ワニガメンティスAM",type:"lacs",size:"M",cost:40,hp:25,str:1,tec:2,tgh:2}
 
+{id:20240112,name:"R・デュークAM",size:"M",cost:35,hp:20,str:1,tec:2,fly:2}
 {id:163,name:"RAMソルジェッターAM",tunable:{pwp:1},type:"a",size:"M",cost:80,hp:25,str:2,tec:1,wlk:-1,fly:2,tgh:1,comment:"ビーム属性",sub:{str:100,pwr:26,rng:70,spd:85,itv:500}}
 
 {id:202203023,name:"S・アクティナGAM",type:"c",cost:135,hp:20,str:-1,tec:3,wlk:1,tgh:2,sub:{tec:100,pwr:25,shl:180,rng:350,spd:350,itv:1000},tunable:{pwp:0}}
