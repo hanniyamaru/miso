@@ -104,7 +104,7 @@
 {id:5,name:"ブレイズアクス",type:"l",size:"L",cost:120,sub:{str:100,pwr:33,rng:70,spd:85,itv:500},tunable:{pwp:1}}
 {id:11,name:"ブリガンドアクス",sub:{str:100,pwr:30,rng:49,spd:60,itv:2000},type:"l",size:"LL",cost:180,tunable:{pwp:1}}
 {id:300,name:"ビームエッジアクス",sub:{tec:100,pwr:34,tec:100,rng:100,spd:180,itv:1000},tunable:{pwp:1},type:"a",size:"L",cost:100}
-{id:2022114,name:"オールドスライサー",sub:{str:100,pwr:27,rng:70,spd:85,itv:2000},tunable:{pwp:1},type:"l",size:"L",cost:160}
+
 {id:202308243,name:"トルネードアクス",sub:{str:100,pwr:34,rng:56,spd:68,itv:1000},tunable:{pwp:1},type:"l",size:"S",cost:160,comment:"パーツクリエイト"}
 
 
@@ -166,7 +166,7 @@
 {id:1121019,name:"レイジングギガドリル",main:{str:100,pwr:20,shl:50,rng:200,spd:300,itv:500},sub:{str:100,pwr:28,rng:100,spd:250,itv:3000},tunable:{mwp:1,pwp:1},type:"l",size:"L",cost:150,comment:["sub貫通","ナイトギア箱"]}
 
 {id:291019,name:"ヴァリアブルセイバー",sub:{pwr:29,shl:200,rng:70,spd:85,itv:2000},auraStat:{sub:{str:100,pwr:32,rng:70,spd:85,itv:2000}},tunable:{pwp:1},type:"a",size:"M",cost:80,comment:["格闘属性ダメージ","ブースト回復（小）","ナイトギア箱"]}
-
+{id:2022114,name:"オールドスライサー",sub:{str:100,pwr:27,rng:70,spd:85,itv:2000},tunable:{pwp:1},type:"l",size:"L",cost:160,comment:["アーマー貫通攻撃","非減衰"]}
 {id:20220316,name:"バフォグリーズソード",type:"l",size:"L",cost:120,sub:{str:100,pwr:32,rng:70,spd:85,itv:1000},comment:"混沌コイン景品"}
 
 {id:202203161,name:"バフォグリーズクロー",main:{pwr:17,shl:390,rng:330,spd:280,itv:500,tec:100},sub:{tec:100,pwr:32,shl:0,rng:70,spd:85,itv:1000},type:"c",size:"M",cost:160,comment:"混沌コイン景品",tunable:{pwp:1,mwp:1}}
