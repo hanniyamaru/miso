@@ -343,7 +343,7 @@
 {id:14,name:"バンガードBD2",cost:445,capa:870,hp:255,str:18,tec:3,wlk:11,fly:6,tgh:10,wbid:7,sub:{shl:[0],itv:500},cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|16@20|29@15|21@20|13@30|32@50|31@40"},joint:{am:1,wp:2},fixedParts:{wp:["W1","W1"],am:{name:"バンガードAM2",cost:80,hp:50,str:8,tec:-2,wlk:2,tgh:2,fixedParts:{wp:{name:"トゥーハンデッドアクス",cost:160,comment:"バリアへのサポート点数無し",sub:{str:100,pwr:37,rng:63,spd:76,itv:1000},tunable:{pwp:1}}}}}}
 
 
-{id:15,name:"バンガードBD3",cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|16@20|29@15|21@20|13@30|32@50|31@40"},cost:445,capa:870,hp:255,str:16,tec:3,wlk:14,fly:5,tgh:10,wbid:8,fixedParts:{wp:["W1","W1"],am:{fixedParts:{wp:{sub:{pwr:28,rng:100,spd:250,itv:1500,str:100},tunable:{pwp:1},name:"トゥーハンデッドランス",cost:160}},name:"バンガードAM3",cost:120,hp:50,str:6,tec:-2,wlk:4,tgh:2}},sub:{shl:[0],itv:500},joint:{am:1,wp:2},comment:"シールド耐久値80"}
+{id:15,name:"バンガードBD3",cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|16@20|29@15|21@20|13@30|32@50|31@40"},cost:445,capa:870,hp:255,str:16,tec:3,wlk:14,fly:5,tgh:10,wbid:8,fixedParts:{wp:["W1","W1"],am:{fixedParts:{wp:{sub:{pwr:28,rng:100,spd:250,itv:1500,str:100},tunable:{pwp:1},name:"トゥーハンデッドランス",cost:160}},name:"バンガードAM3",cost:120,hp:50,str:6,tec:-2,wlk:4,tgh:2}},sub:{shl:[0],itv:500},joint:{am:1,wp:2},comment:["強化時：最終段アーマー貫通","シールド耐久値80"]}
 
 
 {id:8,name:"ビートランダーBD",cost:405,capa:800,hp:245,str:12,tec:5,wlk:10,fly:7,tgh:11,cartridge:{hpup:18,lv1:"85*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|29@15|21@20|16@20|13@30|32@50|31@40"}}
