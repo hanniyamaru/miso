@@ -172,7 +172,7 @@
 {id:20231211,name:"ルボックLG",size:"S",cost:45,hp:25,str:1,tec:1,wlk:3,tgh:1,comment:["雪まつりオーダー景品"]}
 
 {id:102,name:"レイミナスLG",type:"lacs",cost:45,hp:25,str:-1,tec:2,wlk:2,fly:2,tgh:1,size:"S"}
-{id:202311012,name:"レヴェールLG",main:{tec:100,pwr:8,shl:550,rng:330,spd:350,itv:700},tunable:{mwp:1},size:"S",type:"c",joint:{bs:1},cost:95,hp:25,str:-1,tec:2,wlk:3,fly:1,tgh:1,comment:["BS接続可能",""]}
+{id:202311012,name:"レヴェールLG",main:{tec:100,pwr:8,shl:550,rng:330,spd:350,itv:700},tunable:{mwp:1},size:"S",type:"c",joint:{bs:1},cost:95,hp:25,str:-1,tec:2,wlk:3,fly:1,tgh:1,comment:["レヴェールAMとのカスタムリンクショット対応","BS接続可能",""]}
 {id:303,name:"レシプロンLG",cost:45,hp:25,tec:2,wlk:2,fly:2}
 
 {id:20221105,name:"レプセプターLG",size:"S",cost:45,hp:25,str:1,tec:2,wlk:2,tgh:1}
