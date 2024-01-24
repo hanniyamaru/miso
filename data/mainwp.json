@@ -367,6 +367,7 @@
 {id:20230111,name:"アナウンサーマイク",type:"s",size:"S",cost:40,main:{tec:100,pwr:20,shl:50,rng:200,spd:500,itv:500},comment:["アナAM2専用コンバージョンパーツ",""]}
 
 {id:119,name:"インパクトアロー",main:{pwr:22,shl:230,rng:225,spd:480,itv:600},type:"l",size:"M",cost:30,comment:"ロビンハンターAM専用コンバージョンパーツ",slot:0}
+{id:20240124,name:"エアブラシガンGD",size:"S",cost:80,main:{pwr:8,shl:1500,rng:180,spd:480,itv:100},comment:["リンクショット対応","ガデ子AM専用コンバージョンパーツ"]}
 
 {id:67,name:"エアリーデ・ビットα",main:{pwr:[4,5,6],shl:[840],rng:275,spd:440,itv:900},size:"S",type:"a",slot:0,cost:70,comment:"ビットホルダー専用コンバージョンパーツ"}
 {id:68,name:"エアリーデ・ビットβ",main:{pwr:[6,7,8],shl:[920],rng:275,spd:400,itv:380},size:"S",type:"a",slot:0,cost:100,comment:"ビットホルダー専用コンバージョンパーツ"}
