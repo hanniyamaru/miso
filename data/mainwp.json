@@ -280,19 +280,20 @@
 
 
 {group:"照射系",prefixID:"LS",commonStat:{tunable:{mwp:1}},nextID:1}
-{id:1,name:"グラスバーナー",type:"lcs",size:"S",cost:40,main:{pwr:5,shl:760,rng:120,spd:480,itv:100}}
-{id:2,name:"バーナー",type:"lcs",size:"M",cost:85,main:{pwr:8,shl:780,rng:120,spd:480,itv:100}}
-{id:3,name:"ロングバーナー",type:"cs",size:"M",cost:150,main:{pwr:9,shl:840,rng:160,spd:480,itv:100}}
-{id:4,name:"セラミックバーナー",type:"l",size:"M",cost:150,main:{pwr:12,shl:810,rng:120,spd:480,itv:100}}
+{id:1,name:"グラスバーナー",type:"lcs",size:"S",cost:40,main:{pwr:9,shl:1100,rng:160,spd:480,itv:100}}
+{id:2,name:"バーナー",type:"lcs",size:"M",cost:85,main:{pwr:13,shl:1160,rng:160,spd:480,itv:100}}
+{id:3,name:"ロングバーナー",type:"cs",size:"M",cost:150,main:{pwr:16,shl:980,rng:200,spd:480,itv:100}}
+{id:4,name:"セラミックバーナー",type:"l",size:"M",cost:150,main:{pwr:18,shl:1200,rng:160,spd:480,itv:100}}
 
-{id:19,name:"パンプキンバーナー",type:"l",size:"M",cost:150,main:{pwr:8,shl:800,rng:120,spd:480,itv:100},comment:"R・B共通"}
-{id:6,name:"ハンドレーザー",type:"as",size:"M",cost:60,main:{pwr:6,shl:780,rng:225,spd:480,itv:100}}
-{id:7,name:"レーザー",type:"as",size:"M",cost:100,main:{pwr:9,shl:750,rng:225,spd:480,itv:100}}
-{id:11,name:"プロトンレーザー",type:"a",size:"L",cost:140,main:{pwr:12,shl:750,rng:225,spd:480,itv:100}}
-{id:10,name:"パワードレーザー",type:"a",size:"L",cost:110,main:{pwr:17,shl:430,rng:225,spd:480,itv:100}}
+{id:6,name:"ハンドレーザー",type:"as",size:"M",cost:60,main:{pwr:8,shl:960,rng:225,spd:480,itv:100}}
+{id:7,name:"レーザー",type:"a",size:"M",cost:100,main:{pwr:11,shl:1020,rng:225,spd:480,itv:100}}
+{id:11,name:"プロトンレーザー",type:"a",size:"L",cost:160,main:{pwr:14,shl:1020,rng:225,spd:480,itv:100}}
+{id:10,name:"パワードレーザー",type:"a",size:"L",cost:150,main:{pwr:16,shl:750,rng:225,spd:480,itv:100}}
 {id:12,name:"レーザーライフル",type:"a",size:"M",cost:130,main:{pwr:11,shl:420,rng:275,spd:480,itv:100}}
 {id:2022113,name:"ハドロンシューター",type:"lc",size:"M",cost:160,main:{pwr:12,shl:1180,rng:180,spd:480,itv:100}}
-{id:20231123,name:"エアブラシガン",size:"M",cost:110,main:{pwr:7,shl:800,rng:120,spd:480,itv:100},comment:"ガデ子生誕祭イベント配布"}
+
+{id:19,name:"パンプキンバーナー※",type:"l",size:"M",cost:150,main:{pwr:9,shl:1200,rng:160,spd:480,itv:100},comment:["R・B共通　イベント中域ヴァンピレ","以下同性能武器","スノーディスペンサーガン"]}
+{id:20231123,name:"エアブラシガン",size:"M",cost:110,main:{pwr:8,shl:1200,rng:160,spd:480,itv:100},comment:["NPC：ガデ子","ガデ子生誕祭イベント配布"]}
 
 
 
