@@ -752,7 +752,7 @@
 {id:2023080912,name:"シャークラッズHD2",main:{tec:100,pwr:21,shl:240,rng:330,spd:570,itv:800},tunable:{mwp:1},size:"L",type:"c",cost:75,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,comment:["RAILGUN","夏祭りイベントオーダー景品"]}
 {id:202303092,name:"ジョストガンダーHD",type:"l",size:"LL",cost:85,hp:20,str:2,tec:-1,wlk:2,fly:1,tgh:1,sub:{str:100,pwr:25,shl:30,rng:150,spd:350,itv:1000},tunable:{pwp:0},comment:["",""]}
 {id:20240111,name:"シンゲンHD",size:"L",cost:35,hp:20,str:3,tec:-1,wlk:1,fly:0,tgh:2,comment:[""]}
-{id:202311011,name:"スレッジヘイムHD",main:{tec:100,pwr:25,shl:210,rng:330,spd:400,itv:500},tunable:{mwp:1},size:"L",type:"cs",cost:75,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,comment:["",""]}
+{id:202311011,name:"スレッジヘイムHD",main:{tec:100,pwr:25,shl:210,rng:330,spd:400,itv:500},tunable:{mwp:1},size:"L",type:"cs",cost:75,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,comment:["爆風属性100％",""]}
 {id:202306091,name:"ゼウネシスHD",size:"L",cost:40,hp:25,str:2,fly:1,tgh:2,comment:[""]}
 
 {id:4,name:"ダイダリオンHD",cost:40,hp:25,str:1,wlk:1,tgh:3}
