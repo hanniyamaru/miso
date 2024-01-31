@@ -251,6 +251,7 @@
 
 {id:202301182,name:"スチームキャノン",size:"L",type:"c",cost:140,main:{tec:100,pwr:32,shl:220,rng:275,spd:320,itv:500},comment:"Season8アリーナコイン景品"}
 {id:202302162,name:"ラクダロスグレネード",main:{tec:100,pwr:32,shl:180,rng:300,spd:400,itv:900},tunable:{mwp:1},type:"c",size:"M",cost:100,comment:["パーツクリエイト",""]}
+{id:23,name:"スクイドルバズーカ",main:{tec:100,pwr:12,shl:220,rng:275,spd:290,itv:700},tunable:{mwp:1},size:"M",type:"s",cost:70,comment:["ディスオーダー効果","スクイドルガールαBD2初期装備"]}
 
 
 
@@ -280,22 +281,23 @@
 
 
 {group:"照射系",prefixID:"LS",commonStat:{tunable:{mwp:1}},nextID:1}
-{id:1,name:"グラスバーナー",type:"lcs",size:"S",cost:40,main:{pwr:9,shl:1100,rng:160,spd:480,itv:100}}
-{id:2,name:"バーナー",type:"lcs",size:"M",cost:85,main:{pwr:13,shl:1160,rng:160,spd:480,itv:100}}
-{id:3,name:"ロングバーナー",type:"cs",size:"M",cost:150,main:{pwr:16,shl:980,rng:200,spd:480,itv:100}}
-{id:4,name:"セラミックバーナー",type:"l",size:"M",cost:150,main:{pwr:18,shl:1200,rng:160,spd:480,itv:100}}
+{id:1,name:"グラスバーナー",type:"lcs",size:"S",cost:40,main:{pwr:9,shl:1100,rng:140,spd:480,itv:100},comment:["ダメージ0.9倍　貫通+確率バーニング効果"]}
+{id:2,name:"バーナー",type:"lcs",size:"M",cost:85,main:{pwr:13,shl:1160,rng:140,spd:480,itv:100},comment:["ダメージ0.9倍　貫通+確率バーニング効果"]}
+{id:3,name:"ロングバーナー",type:"cs",size:"L",cost:150,main:{pwr:16,shl:980,rng:180,spd:480,itv:100},comment:["ダメージ0.9倍　貫通+確率バーニング効果","欲望コイン景品"]}
+{id:4,name:"セラミックバーナー",type:"l",size:"M",cost:150,main:{pwr:18,shl:1200,rng:140,spd:480,itv:100},comment:["ダメージ0.9倍　貫通+確率バーニング効果"]}
 
-{id:6,name:"ハンドレーザー",type:"as",size:"M",cost:60,main:{pwr:8,shl:960,rng:225,spd:480,itv:100}}
-{id:7,name:"レーザー",type:"a",size:"M",cost:100,main:{pwr:11,shl:1020,rng:225,spd:480,itv:100}}
-{id:11,name:"プロトンレーザー",type:"a",size:"L",cost:160,main:{pwr:14,shl:1020,rng:225,spd:480,itv:100}}
-{id:10,name:"パワードレーザー",type:"a",size:"L",cost:150,main:{pwr:16,shl:750,rng:225,spd:480,itv:100}}
-{id:12,name:"レーザーライフル",type:"a",size:"M",cost:130,main:{pwr:11,shl:420,rng:275,spd:480,itv:100}}
-{id:2022113,name:"ハドロンシューター",type:"lc",size:"M",cost:160,main:{pwr:12,shl:1180,rng:180,spd:480,itv:100}}
+{id:6,name:"ハンドレーザー",type:"as",size:"M",cost:60,main:{pwr:8,shl:960,rng:200,spd:480,itv:100},comment:["ダメージ0.9倍",""]}
+{id:7,name:"レーザー",type:"a",size:"M",cost:100,main:{pwr:11,shl:1020,rng:200,spd:480,itv:100},comment:["ダメージ0.9倍",""]}
+{id:11,name:"プロトンレーザー",type:"a",size:"L",cost:160,main:{pwr:14,shl:1020,rng:200,spd:480,itv:100},comment:["ダメージ0.9倍",""]}
+{id:10,name:"パワードレーザー",type:"a",size:"L",cost:150,main:{pwr:16,shl:750,rng:200,spd:480,itv:100},comment:["ダメージ0.9倍",""]}
+{id:20211031,name:"グラヴィトンカノンα",main:{pwr:17,shl:650,rng:250,spd:480,itv:100},tunable:{mwp:0},joint:{wp:1},fixedParts:{wp:[{main:{pwr:9,shl:600,rng:275,spd:480,itv:900},name:"グラヴィトンカノン@2",slot:0,comment:["BEAM RIFLE","ライフル弾・追撃弾は同威力"]}]},type:"a",cost:180,size:"M",comment:["LASER","ダメージ0.9倍？　武器チューン不可","ナイトギアディスク"]}
+{id:12,name:"レーザーライフル",type:"a",size:"M",cost:130,main:{pwr:11,shl:420,rng:275,spd:480,itv:100},comment:["ダメージ0.9倍",""]}
+{id:2022113,name:"ハドロンシューター",type:"lc",size:"M",cost:160,main:{pwr:15,shl:1040,rng:180,spd:480,itv:100},comment:["ダメージ0.9倍","スキロン初期装備"]}
+{id:18,name:"スクイドルガン",main:{tec:100,pwr:6,shl:1050,rng:180,spd:480,itv:100},tunable:{mwp:1,pwp:0},type:"s",size:"M",cost:50,comment:["ディスオーダー効果　ダメージ0.9倍？","スクイドルガールα初期装備"]}
 
-{id:19,name:"パンプキンバーナー※",type:"l",size:"M",cost:150,main:{pwr:9,shl:1200,rng:160,spd:480,itv:100},comment:["R・B共通　イベント中域ヴァンピレ","以下同性能武器","スノーディスペンサーガン"]}
+{id:19,name:"パンプキンバーナー",type:"l",size:"M",cost:150,main:{pwr:9,shl:1200,rng:160,spd:480,itv:100},comment:["貫通+確率バーニング効果","R・B共通　イベント中域ヴァンピレ",""]}
+{id:20240131,name:"スノーディスペンサーガン",type:"l",size:"M",cost:150,main:{pwr:9,shl:1200,rng:160,spd:480,itv:100},comment:["貫通+確率バインド効果"]}
 {id:20231123,name:"エアブラシガン",size:"M",cost:110,main:{pwr:8,shl:1200,rng:160,spd:480,itv:100},comment:["NPC：ガデ子","ガデ子生誕祭イベント配布"]}
-
-
 
 {group:"PSYガン系",prefixID:"PSY",commonStat:{tunable:{mwp:1}},nextID:1}
 
@@ -314,8 +316,7 @@
 {group:"その他",prefixID:"MO",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:45,name:"ドローガン",size:"S",cost:50,main:{pwr:8,shl:300,rng:250,spd:480,itv:500},type:"s"}
 {id:88,name:"チェーンドローガン",size:"S",cost:80,main:{pwr:5,shl:500,rng:250,spd:480,itv:200},type:"s"}
-{id:18,name:"スクイドルガン",main:{tec:100,pwr:4,shl:900,rng:90,spd:480,itv:100},tunable:{mwp:1,pwp:0},type:"s",size:"M",cost:50}
-{id:23,name:"スクイドルバズーカ",main:{tec:100,pwr:12,shl:220,rng:275,spd:290,itv:700},tunable:{mwp:1},size:"M",type:"s",cost:70}
+
 {id:6551,name:"フラクタリスアニマ",main:{tec:100,pwr:7,shl:800,rng:275,spd:400,itv:200},tunable:{mwp:1},size:"M",type:"a",cost:200,comment:["フォース系のチューンは子弾の威力が変化した場合のみキャノンの威力にも影響する","キャノン：威力？ 爆風50％","ブースト回復効果"]}
 
 {id:6552,name:"ベルゼイラフアニマ",main:{tec:100,pwr:23,shl:1050,rng:350,spd:400,itv:500},tunable:{mwp:1},size:"M",type:"c",cost:200,comment:["サイガン比率1：2","β時の表記威力8","自軍貫通"]}
@@ -341,7 +342,6 @@
 {id:202304051,name:"ビームSBピッチャー",main:{tec:100,pwr:20,shl:360,rng:275,spd:100,itv:600},size:"M",type:"a",cost:150,comment:["ビーム爆風100％","Season9アリーナコイン景品"]}
 
 
-{id:20211031,name:"グラヴィトンカノンα",main:{pwr:17,shl:650,rng:250,spd:480,itv:100},tunable:{mwp:0},joint:{wp:1},fixedParts:{wp:[{main:{pwr:9,shl:600,rng:275,spd:480,itv:900},name:"グラヴィトンカノン@2",slot:0,comment:["BEAM RIFLE","ライフル弾・追撃弾は同威力"]}]},type:"a",cost:180,size:"M",comment:["LASER","武器チューン不可"]}
 {id:202203163,name:"バフォグリーズガン",main:{tec:100,pwr:13,shl:660,rng:275,spd:400,itv:300},size:"M",type:"a",cost:85,comment:["混沌コイン景品","ビーム爆風50％"]}
 
 {id:202204142,name:"バイオロンボウ",size:"M",cost:120,type:"s",main:{tec:100,pwr:16,shl:330,rng:250,spd:250,itv:500},sub:{tec:100,pwr:20,shl:0,rng:0,spd:150,itv:1000},tunable:{mwp:1,pwp:0},comment:["アリーナコイン景品","バイオロン初期装備","射程：発射距離に影響せず、停止（消失）再誘導範囲に影響する"]}
