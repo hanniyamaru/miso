@@ -124,7 +124,7 @@
 {id:27,name:"ディカロスAM2",type:"a",cost:165,hp:20,str:-1,tec:3,fly:2,tgh:1,main:{pwr:7,shl:900,rng:275,spd:350,itv:600},sub:{pwr:7,shl:150,rng:275,spd:350,itv:1000},tunable:{mwp:1},joint:{wp:0}}
 {id:202211036,name:"ディカロスAM3",main:{tec:100,pwr:21,shl:400,rng:275,spd:340,itv:500},tunable:{mwp:1},type:"a",size:"SS",cost:135,hp:20,str:-1,tec:3,fly:1,tgh:2,comment:"エレ・ディカロス"}
 {id:20230309,name:"ティナAM",size:"S",cost:35,hp:20,tec:2,wlk:1,fly:2,comment:["",""]}
-{id:44,name:"テスラドンナαAM",type:"a",size:"S",cost:125,hp:20,str:-1,tec:3,fly:2,tgh:1,main:{pwr:6,shl:800,rng:225,spd:480,itv:100},sub:{pwr:16,shl:180,rng:275,spd:380,itv:1000},tunable:{mwp:1},joint:{wp:0},comment:["メイン：リンクショット対応","サブ：別サブへコンボ可能"]}
+{id:44,name:"テスラドンナαAM",type:"a",size:"S",cost:125,hp:20,str:-1,tec:3,fly:2,tgh:1,main:{pwr:8,shl:860,rng:200,spd:480,itv:100},sub:{pwr:16,shl:180,rng:275,spd:380,itv:1000},tunable:{mwp:1},joint:{wp:0},comment:["メイン：ダメージ0.9倍？ リンクショット対応","サブ：別サブへコンボ可能"]}
 
 
 {id:64,name:"テントリオンAM",cost:35,hp:20,str:1,tec:2,wlk:-1,fly:2,tgh:1}
@@ -529,7 +529,7 @@
 
 {id:20,name:"パラボロイドAM",cost:35,hp:20,str:2,tec:1,wlk:1,tgh:1}
 
-{id:18,name:"バルテオンAM",type:"a",cost:120,hp:25,str:-1,tec:3,fly:1,tgh:2,main:{pwr:10,shl:800,rng:225,spd:480,itv:100},tunable:{mwp:1},joint:{wp:0}}
+{id:18,name:"バルテオンAM",type:"a",cost:120,hp:25,str:-1,tec:3,fly:1,tgh:2,main:{pwr:12,shl:960,rng:200,spd:480,itv:100},tunable:{mwp:1},joint:{wp:0},comment:"ダメージ0.9倍？"}
 {id:19,name:"バルテオンAM2",type:"a",cost:120,hp:25,tec:2,wlk:-1,fly:2,tgh:2,main:{pwr:31,shl:160,rng:275,spd:520,itv:900},tunable:{mwp:1},joint:{wp:0}}
 {id:78,name:"バルテオンAM3",type:"a",cost:130,hp:25,tec:4,wlk:-1,tgh:2,main:{tec:100,pwr:6,shl:1110,rng:200,spd:480,itv:200},tunable:{mwp:1},joint:{wp:0},comment:["チャージ・発射数3","バルテオンBV"]}
 {id:47,name:"ビートランダーAM",cost:35,hp:20,str:2,tec:-1,wlk:1,fly:1,tgh:2}
@@ -788,7 +788,7 @@
 {id:10,name:"ソア・ラAM",cost:40,hp:25,str:2,tec:1,fly:2}
 
 {id:29,name:"ダイダリオンAM",type:"l",cost:40,hp:25,str:3,tec:-1,wlk:1,tgh:2}
-{id:115,name:"タイタンコイルAM",main:{pwr:4,shl:800,rng:225,spd:480,itv:100},sub:{pwr:24,shl:0,rng:100,spd:150,itv:2000},tunable:{mwp:1,pwp:1},type:"s",joint:{wp:0},cost:110,hp:25,str:-1,tec:1,wlk:2,fly:1,tgh:2,comment:"-"}
+{id:115,name:"タイタンコイルAM",main:{pwr:5,shl:800,rng:200,spd:480,itv:100},sub:{pwr:24,shl:0,rng:100,spd:150,itv:2000},tunable:{mwp:1,pwp:1},type:"s",joint:{wp:0},cost:110,hp:25,str:-1,tec:1,wlk:2,fly:1,tgh:2,comment:["メイン：ダメージ0.9倍？　ショック効果","サブ：ショック効果"]}
 
 {id:55,name:"ダイモンAM",cost:35,hp:20,str:2,tec:-1,wlk:1,fly:1,tgh:2}
 {id:56,name:"ダイモンAM2",main:{pwr:13,shl:1040,rng:120,spd:400,itv:200},tunable:{mwp:1},type:"l",cost:85,hp:20,str:-1,tec:3,wlk:1,tgh:2,joint:{wp:0}}
@@ -907,7 +907,7 @@
 
 
 {id:30,name:"ボイルデックAM",type:"c",cost:95,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,main:{pwr:10,shl:720,rng:330,spd:440,itv:140},tunable:{mwp:1},joint:{wp:0}}
-{id:31,name:"ボイルデックAM2",type:"c",cost:95,hp:20,str:-1,tec:1,wlk:2,tgh:3,main:{pwr:9,shl:1000,rng:200,spd:480,itv:100},tunable:{mwp:1},comment:"EG"}
+{id:31,name:"ボイルデックAM2",type:"c",cost:95,hp:20,str:-1,tec:1,wlk:2,tgh:3,main:{pwr:9,shl:1000,rng:180,spd:480,itv:100},tunable:{mwp:1},comment:["ダメージ0.9倍？　貫通+確率炎上効果","EG"]}
 {id:54,name:"ポセダインAM",main:{pwr:9,shl:480,rng:275,spd:280,itv:400},type:"a",size:"L",cost:85,hp:20,str:-1,tec:2,fly:2,tgh:2,tunable:{mwp:1}}
 {id:53,name:"ポセダインAM2",sub:{str:100,pwr:32,shl:200,rng:70,spd:85,itv:1000},type:"a",size:"L",cost:165,hp:20,str:3,tec:-1,fly:1,tgh:2,tunable:{pwp:1},joint:{wp:0}}
 
@@ -972,9 +972,9 @@
 
 {id:202311013,name:"アルマダAM3",main:{tec:100,pwr:10,shl:600,rng:275,spd:570,itv:300},tunable:{mwp:1},size:"LL",type:"a",joint:{wp:0},cost:125,hp:20,str:-1,tec:3,fly:1,tgh:2,comment:["オートマニューバ効果中威力・範囲強化","爆風発生は速度の影響を受けない（要検証）","リンクショット対応"]}
 
-{id:1401,name:"ガデロガAM",main:{tec:100,pwr:36,shl:180,rng:300,spd:320,itv:1000},tunable:{mwp:1},type:"c",cost:100,hp:25,str:-1,tec:3,wlk:-1,fly:1,tgh:3,joint:{wp:0},comment:"部位破壊不能"}
-{id:1402,name:"ガデロガAM2",main:{tec:100,pwr:16,shl:900,rng:160,spd:480,itv:100},tunable:{mwp:1},type:"c",cost:110,hp:25,tec:2,wlk:2,fly:-1,tgh:2,joint:{wp:0}}
-{id:19,name:"ガデロガAM3",main:{tec:100,pwr:13,shl:800,rng:280,spd:480,itv:100},tunable:{mwp:1},type:"c",cost:155,hp:25,str:-1,tec:3,tgh:3,joint:{wp:0}}
+{id:1401,name:"ガデロガAM",main:{tec:100,pwr:36,shl:180,rng:300,spd:320,itv:1000},tunable:{mwp:1},type:"c",cost:100,hp:25,str:-1,tec:3,wlk:-1,fly:1,tgh:3,joint:{wp:0},comment:""}
+{id:1402,name:"ガデロガAM2",main:{tec:100,pwr:16,shl:900,rng:140,spd:480,itv:100},tunable:{mwp:1},type:"c",cost:110,hp:25,tec:2,wlk:2,fly:-1,tgh:2,joint:{wp:0},comment:"ダメージ0.9倍？　貫通+確率炎上効果"}
+{id:19,name:"ガデロガAM3",main:{tec:100,pwr:13,shl:1020,rng:280,spd:480,itv:100},tunable:{mwp:1},type:"c",cost:155,hp:25,str:-1,tec:3,tgh:3,joint:{wp:0},comment:["ダメージ0.9倍？　爆風属性","ガデロガ・ヴォーバン"]}
 {id:2,name:"ギガトンオーAM2",type:"c",cost:200,hp:25,str:-1,tec:4,fly:-1,tgh:3,main:{pwr:37,shl:220,rng:330,spd:360,itv:800},sub:{pwr:30,shl:90,rng:350,spd:240,itv:1000},tunable:{mwp:1},joint:{wp:0}}
 {id:87,name:"ギガンベルグAM",cost:65,hp:20,tec:2,wlk:1,tgh:2,comment:"シールド耐久値88"}
 
