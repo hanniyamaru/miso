@@ -605,8 +605,8 @@
 
 
 {group:"ベルゼイラフガールコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
-{id:99,name:"ゼブルサイガン",main:{pwr:10,shl:540,rng:330,spd:220,itv:300},tunable:{mwp:1},type:"c",size:"S",cost:60}
-{id:98,name:"バアルバズーカ",tunable:{mwp:1},cost:90,type:"c",size:"S",main:{pwr:19,shl:420,rng:330,spd:400,itv:400}}
+{id:99,name:"ゼブルサイガン",main:{pwr:11,shl:630,rng:330,spd:280,itv:300},tunable:{mwp:1},type:"c",size:"S",cost:60,comment:["爆風70％",""]}
+{id:98,name:"バアルバズーカ",tunable:{mwp:1},cost:70,type:"c",size:"S",main:{pwr:20,shl:500,rng:330,spd:400,itv:400}}
 
 
 {group:"ペルセナキアSwmBFコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
