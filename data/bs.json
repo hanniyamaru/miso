@@ -780,7 +780,7 @@
 {id:38,name:"ベクターBS",type:"a",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:3}
 {id:20221006,name:"ヘビーフェルカスBS",type:"a",cost:55,hp:20,str:1,tec:-1,wlk:1,fly:3,tgh:1,sub:{str:100,pwr:0,shl:0,rng:150,spd:350,itv:1000},size:"L",comment:["Season7アリーナコイン景品","CT4秒"]}
 
-{id:202207101,name:"ヘリアンザスBS",main:{pwr:16,shl:800,rng:250,spd:480,itv:100},type:"s",cost:185,hp:20,str:1,tec:2,fly:2,comment:["ダメージ0.9倍？　貫通+確率ライトバーニング効果","BS@省略・武器チューン不可"]}
+{id:202207101,name:"ヘリアンザスBS",main:{pwr:16,shl:800,rng:250,spd:480,itv:100},type:"s",cost:185,hp:20,str:1,tec:2,fly:2,comment:["ダメージ0.7倍？　貫通+確率ライトバーニング効果","BS@省略・武器チューン不可"]}
 
 {id:19,name:"ボイルデックBS",type:"c",cost:40,hp:25,tec:1,fly:2,tgh:2}
 {id:35,name:"ポセダインBS",type:"a",size:"L",cost:35,hp:20,str:1,tec:-1,wlk:1,fly:3,tgh:1}
