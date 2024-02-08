@@ -620,6 +620,7 @@
 
 
 {group:"Ｌサイズ",prefixID:"L",commonStat:{size:"L"},nextID:35}
+{id:20240202,name:"アイオリウスBS",type:"a",size:"L",cost:40,hp:25,fly:4,tgh:1,comment:["変形省略"]}
 
 {id:12,name:"アクイーアBS",type:"a",cost:50,hp:30,str:1,tec:2,wlk:-1,fly:3,tgh:1}
 {id:39,name:"アクイーア・エアーズBS",type:"a",cost:40,hp:25,tec:2,fly:4,tgh:-1,size:"L",comment:["ロボガラポン"]}
