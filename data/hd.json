@@ -180,6 +180,9 @@
 {id:311,name:"アントリオンHD2",cost:35,hp:20,tec:1,fly:2,tgh:2,comment:"アントリオンMoray"}
 
 {id:20240208,name:"イクスクレアHD",size:"M",cost:35,hp:20,str:2,tec:-1,wlk:2,tgh:2,comment:["イベント限定専用コンバージョンでボイス変更可能","イクスクレアガラポン"]}
+{id:202402081,name:"イクスクレアHD2",size:"M",cost:35,hp:20,str:-1,tec:2,fly:2,tgh:2,comment:["イベント限定専用コンバージョンでボイス変更可能","イクスクレアガラポン","GC"]}
+
+
 {id:174,name:"イニトォンHD",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:3}
 {id:191,name:"イルグリプスHD",cost:35,hp:20,str:-1,tec:2,fly:1,tgh:3}
 
