@@ -156,6 +156,8 @@
 {id:20230118,name:"アーマーメットHD",size:"M",cost:35,hp:20,str:1,tec:1,tgh:3,comment:["AURA機構","Season8アリーナコイン景品"]}
 {id:91,name:"アームドビルダームHD",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
 
+{id:20240202,name:"アイオリウスHD",size:"M",cost:40,hp:25,str:2,fly:2,tgh:1,comment:["変形省略"]}
+
 {id:1000,name:"アクシオンHD",cost:40,hp:25,tec:1,wlk:1,tgh:3}
 {id:1102,name:"アクシオンHD2",cost:40,hp:25,str:1,wlk:1,tgh:3}
 
