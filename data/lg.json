@@ -244,7 +244,7 @@
 {id:36,name:"アマテウスLG",cost:45,hp:25,tec:2,wlk:2,tgh:2}
 {id:20220414,name:"アルヴィーテLG",size:"M",cost:45,hp:25,str:-1,tec:1,wlk:3,fly:1,tgh:2,comment:["アリーナコイン景品"]}
 
-
+{id:20240208,name:"イクスクレアLG",size:"M",cost:45,hp:25,str:2,tec:-1,wlk:4,fly:,tgh:1,comment:["イクスクレアガラポン"]}
 {id:28,name:"イヅナカムイαLG",type:"a",cost:45,hp:25,str:1,wlk:3,fly:1,tgh:1,joint:{bs:1}}
 {id:32,name:"イヅナカムイαLG2",type:"a",cost:45,hp:25,tec:1,wlk:3,fly:1,tgh:1,joint:{bs:1}}
 
