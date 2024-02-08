@@ -514,6 +514,8 @@
 
 {id:68,name:"アーティラスLG",sub:{pwr:30,rng:120,spd:250,itv:1000,tec:100},tunable:{pwp:1},cost:90,hp:30,str:-1,tec:3,wlk:3,tgh:1,type:"c",comment:""}
 {id:91,name:"アーティラスLG2",size:"L",type:"c",sub:{tec:100,pwr:5,shl:240,rng:350,spd:340,itv:1000},cost:80,hp:30,str:-1,tec:3,wlk:2,tgh:2,comment:["爆風100％","アーティラス・ブラスト"]}
+
+{id:20240202,name:"アイオリウスLG",size:"L",cost:50,hp:60,str:1,tec:-1,wlk:3,fly:1,tgh:2,comment:["変形省略"]}
 {id:21,name:"アクイーアLG",type:"a",cost:50,hp:60,tec:1,wlk:2,fly:2,tgh:1,joint:{bs:1}}
 {id:202301122,name:"アストロトルーパーLG",type:"l",size:"L",cost:65,hp:55,tec:1,wlk:4,tgh:1,sub:{tec:100,pwr:0,shl:0,rng:100,spd:200,itv:1000},comment:["",""]}
 
