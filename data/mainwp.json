@@ -475,8 +475,10 @@
 {id:202402082,name:"イクスクレアブレード",sub:{str:100,pwr:33,shl:0,rng:77,spd:94,itv:500},type:"l",size:"M",cost:100,tunable:{mwp:0,pwp:1},comment:["追撃時減衰無効攻撃","イクスクレアAM専用コンバージョンパーツ","イクスクレアガラポン"]}
 
 {id:202402085,name:"ガストクロウSライフル",main:{tec:100,pwr:12,shl:550,rng:275,spd:400,itv:340},type:"a",size:"M",cost:100,tunable:{mwp:1},comment:["ビーム属性爆風100％？　リンクショット対応（イクスクレア系パーツのみ）","イクスクレアAM2専用コンバージョンパーツ","イクスクレアガラポン"]}
+{id:202402086,name:"ガストクロウLライフル",main:{tec:100,pwr:33,shl:230,rng:275,spd:520,itv:900},sub:{tec:100,pwr:34,shl:100,rng:150,spd:300,itv:1000},type:"a",size:"M",cost:150,tunable:{mwp:1,pwp:0},comment:["メイン：リンクショット対応（イクスクレア系パーツのみ）","サブ：HIT時ブースト回復","イクスクレアAM2専用コンバージョンパーツ","イクスクレアガラポン"]}
+{id:202402087,name:"ガストクロウシールド",main:{tec:100,pwr:0,shl:100,rng:0,spd:10,itv:1000},type:"a",size:"M",cost:30,tunable:{mwp:1},comment:["リンクショット対応（イクスクレア系パーツのみ）","イクスクレアAM2専用コンバージョンパーツ","イクスクレアガラポン"]}
 
-
+  
 {group:"イスチナ・バレットコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:122,name:"エクスピアシオン",sub:{itv:500},joint:{wp:2},type:"a",size:"L",slot:0}
 {id:123,name:"エクスピアシオン@1",main:{tec:100,pwr:26,shl:270,rng:450,spd:500,itv:800},type:"a",size:"M",cost:120,slot:0,comment:["ビーム属性爆風100％",""]}
