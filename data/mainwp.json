@@ -56,7 +56,7 @@
 {id:24,name:"ビームガン",size:"S",cost:30,main:{pwr:10,shl:420,rng:275,spd:500,itv:440}}
 {id:27,name:"ワイドビームガン",type:"as",size:"S",cost:50,main:{pwr:16,shl:300,rng:275,spd:460,itv:600}}
 {id:26,name:"ダブルビームガン",type:"as",size:"S",cost:60,main:{pwr:8,shl:620,rng:275,spd:500,itv:560}}
-{id:30,name:"3ウェイビームガン",type:"as",size:"M",cost:80,main:{pwr:6,shl:720,rng:275,spd:350,itv:780}}
+{id:30,name:"3ウェイビームガン",type:"as",size:"M",cost:80,main:{pwr:6,shl:720,rng:275,spd:350,itv:780},comment:"誘導弾"}
 {id:31,name:"リミットプラズマガン",type:"a",size:"M",cost:110,main:{pwr:19,shl:460,rng:275,spd:440,itv:380}}
 {id:32,name:"プラズマガン",type:"a",size:"M",cost:170,main:{pwr:27,shl:350,rng:275,spd:440,itv:500}}
 
@@ -97,6 +97,7 @@
 {id:20230407,name:"07式サブマシンガン",size:"M",cost:130,main:{tec:100,pwr:13,shl:1440,rng:160,spd:480,itv:140},type:"lc",comment:"コラボイベントオーダー景品"}
 {id:202306095,name:"ウォーターガトリング",main:{tec:100,pwr:8,shl:200,rng:200,spd:400,itv:140},sub:{str:100,pwr:0,shl:0,rng:0,spd:0,itv:500},tunable:{mwp:1},size:"S",cost:100,comment:["梅雨イベント2023オーダー景品",""]}
 {id:20230824,name:"ゴブマシンガン",main:{tec:100,pwr:20,shl:600,rng:160,spd:480,itv:140},tunable:{mwp:1},type:"l",size:"M",cost:160,comment:["パーツクリエイト",""]}
+{id:202402081,name:"イクスクレアガトリングR",main:{tec:100,pwr:9,shl:900,rng:225,spd:400,itv:200},type:"l",size:"M",cost:100,comment:["誘導弾","イクスクレアイベント景品"]}
 
 
 {group:"ライフル系",prefixID:"LF",commonStat:{tunable:{mwp:1}},nextID:24}
@@ -238,6 +239,8 @@
 
 {id:20222021,name:"ガーディアンライフル",type:"a",size:"M",cost:80,main:{pwr:13,shl:400,rng:275,spd:280,itv:500},comment:["NPCコレッティ","ビーム爆風70％"]}
 {id:202308241,name:"ペペンランチャー",type:"a",size:"M",cost:85,main:{tec:100,pwr:20,shl:270,rng:275,spd:280,itv:700},comment:["パーツクリエイト",""]}
+{id:202401112,name:"エネルギービームガン",main:{tec:100,pwr:27,shl:330,rng:275,spd:350,itv:560},type:"a",size:"S",cost:150,comment:["","R・デューク初期装備"]}
+{id:20240208,name:"ガストクロウSライフルR",main:{tec:100,pwr:10,shl:550,rng:275,spd:400,itv:340},type:"a",size:"M",cost:100,comment:["誘導弾　ビーム属性爆風100％","イクスクレアイベント景品"]}
 
 
 
@@ -252,6 +255,8 @@
 {id:202301182,name:"スチームキャノン",size:"L",type:"c",cost:140,main:{tec:100,pwr:32,shl:220,rng:275,spd:320,itv:500},comment:"Season8アリーナコイン景品"}
 {id:202302162,name:"ラクダロスグレネード",main:{tec:100,pwr:32,shl:180,rng:300,spd:400,itv:900},tunable:{mwp:1},type:"c",size:"M",cost:100,comment:["パーツクリエイト",""]}
 {id:23,name:"スクイドルバズーカ",main:{tec:100,pwr:12,shl:220,rng:275,spd:290,itv:700},tunable:{mwp:1},size:"M",type:"s",cost:70,comment:["ディスオーダー効果","スクイドルガールαBD2初期装備"]}
+{id:202306096,name:"ウォーターポットα",main:{tec:100,pwr:14,shl:100,rng:225,spd:400,itv:500},sub:{str:100,pwr:0,shl:0,rng:0,spd:0,itv:500},tunable:{mwp:1},size:"S",cost:50,comment:["梅雨イベント2023オーダー景品",""]}
+{id:202306097,name:"ウォーターポットβ",main:{tec:100,pwr:24,shl:100,rng:225,spd:400,itv:600},sub:{str:100,pwr:0,shl:0,rng:0,spd:0,itv:500},tunable:{mwp:1},size:"S",type:"lcs",cost:120,comment:["梅雨イベント2023オーダー景品",""]}
 
 
 
@@ -349,8 +354,6 @@
 {id:20220807,name:"トルネードファン",type:"a",size:"L",cost:120,main:{pwr:20,shl:320,rng:275,spd:260,itv:600},comment:"コーテング初期装備"}
 {id:202302161,name:"ガドラガン",main:{tec:100,pwr:22,shl:360,rng:250,spd:440,itv:500},tunable:{mwp:1},type:"s",size:"M",cost:120,comment:["パーツクリエイト",""]}
 {id:202303092,name:"ビットガン",main:{tec:100,pwr:7,shl:840,rng:275,spd:280,itv:900},tunable:{mwp:1},type:"a",size:"S",cost:120,comment:["マッハナイト・ゼロ初期装備"]}
-{id:202306096,name:"ウォーターポットα",main:{tec:100,pwr:14,shl:100,rng:225,spd:400,itv:500},sub:{str:100,pwr:0,shl:0,rng:0,spd:0,itv:500},tunable:{mwp:1},size:"S",cost:50,comment:["梅雨イベント2023オーダー景品",""]}
-{id:202306097,name:"ウォーターポットβ",main:{tec:100,pwr:24,shl:100,rng:225,spd:400,itv:600},sub:{str:100,pwr:0,shl:0,rng:0,spd:0,itv:500},tunable:{mwp:1},size:"S",type:"lcs",cost:120,comment:["梅雨イベント2023オーダー景品",""]}
 
 {id:202306143,name:"パラドックスカノン",main:{tec:100,pwr:14,shl:750,rng:275,spd:440,itv:160},size:"L",type:"a",cost:150,comment:"コラボイベントオーダー・混沌ドロップ"}
 {id:20221109,name:"ライトニングバスターR",main:{tec:100,pwr:21,shl:260,rng:275,spd:400,itv:700},tunable:{mwp:1},cost:80,type:"a",size:"M",comment:["ミッションコイン景品","ビーム爆風70％"]}
@@ -358,7 +361,6 @@
 {id:202308041,name:"オルクトヴァッフェR",main:{tec:100,pwr:30,shl:210,rng:330,spd:500,itv:840},type:"c",size:"M",cost:130,comment:["","アニマ・ゼータディスクα（NPCナイア）"]}
 {id:20231211,name:"リーフロッド",main:{tec:100,pwr:12,shl:370,rng:275,spd:400,itv:500},tunable:{mwp:1},cost:70,type:"as",size:"S",comment:["ルボック初期装備・雪まつりオーダー景品",""]}
 {id:20231231,name:"バトルドア",main:{tec:100,pwr:30,shl:180,rng:225,spd:400,itv:1000},tunable:{mwp:1},cost:100,size:"S",comment:["シールド貫通","NYキューブ2024",""]}
-{id:202401112,name:"エネルギービームガン",main:{tec:100,pwr:27,shl:330,rng:275,spd:350,itv:560},type:"a",size:"S",cost:150,comment:["","R・デューク初期装備"]}
 
 
 {group:"mainコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
