@@ -111,7 +111,7 @@
 
 {id:22,name:"ソードウィングAM",cost:35,hp:20,str:2,tec:1,fly:1}
 {id:65,name:"ソードウィングAM2",cost:35,hp:20,str:1,tec:1,fly:2}
-{id:202402093,name:"ソードウィングAM3",sub:{tec:100,pwr:24,shl:100,rng:275,spd:480,itv:1000},cost:85,hp:20,str:-1,tec:3,fly:2,tgh:1,comment:["HIT時、付近の敵へ伝播（2体まで）","ソードウィング・L"],type:"a",size:"S"}
+{id:202402093,name:"ソードウィングAM3",sub:{tec:100,pwr:24,shl:100,rng:275,spd:480,itv:1000},cost:85,hp:20,str:-1,tec:3,fly:2,tgh:1,comment:["HIT時、付近の敵へ伝播（2体まで）","ロックオン武器のみコンボ可能（他サブは不発）","ソードウィング・L"],type:"a",size:"S"}
 {id:100,name:"ソルボルカノウィングAM",cost:35,hp:20,tec:1,wlk:1,fly:2,tgh:1}
 
 {id:2023011812,name:"ターンエア1080AM",size:"S",cost:30,hp:15,str:2,tec:1,fly:1,comment:"Season8アリーナコイン景品"}
