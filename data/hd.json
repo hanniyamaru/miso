@@ -246,7 +246,7 @@
 {id:248,name:"カタロスHD2",cost:40,hp:25,tec:2,fly:2,tgh:1}
 {id:20220909,name:"カットバルドHD",type:"l",cost:35,hp:20,str:1,tec:-1,wlk:2,fly:1,tgh:2}
 
-{id:202402091,name:"ガディオンHD",cost:35,hp:20,tec:2,wlk:2,tgh:1,comment:[""],size:"M"}
+{id:2024020921,name:"ガディオンHD",cost:35,hp:20,tec:2,wlk:2,tgh:1,comment:[""],size:"M"}
 {id:168,name:"ガデロガHD",cost:35,hp:20,tec:2,wlk:1,tgh:2}
 {id:169,name:"ガデロガHD2",cost:35,hp:20,str:2,wlk:1,tgh:2}
 {id:208,name:"ガデロガHD3",cost:35,hp:20,tec:2,wlk:1,fly:1,tgh:1}
