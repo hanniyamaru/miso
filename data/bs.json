@@ -629,7 +629,7 @@
 
 
 {id:202402091,name:"アルゴキャップBS",main:{tec:100,pwr:17,shl:440,rng:330,spd:480,itv:900},tunable:{mwp:1},cost:135,hp:20,str:-1,tec:3,tgh:3,comment:["IMPACT GUN","リンクショット対応"],type:"c",size:"L"}
-{id:202402092,name:"アルゴキャップBS2"},cost:35,hp:20,wlk:2,fly:2,tgh:1,comment:[""],type:"c",size:"L"}
+{id:202402092,name:"アルゴキャップBS2",cost:35,hp:20,wlk:2,fly:2,tgh:1,comment:[""],type:"c",size:"L"}
 {id:110,name:"アレシスBS",type:"l",size:"L",cost:40,hp:25,str:2,wlk:-1,fly:3,tgh:1}
 {id:61,name:"アントリオンBS",sub:{tec:100,pwr:7,shl:360,rng:350,spd:290,itv:1000},type:"c",cost:90,hp:25,str:-1,tec:2,fly:2,tgh:2}
 {id:92,name:"アントリオンBS2",type:"c",cost:190,hp:25,str:-1,tec:3,fly:2,tgh:1,main:{tec:100,pwr:17,shl:400,rng:330,spd:300,itv:400},sub:{tec:100,pwr:15,shl:30,rng:150,spd:150,itv:1000},tunable:{mwp:1},size:"L",comment:"アントリオンMoray"}
