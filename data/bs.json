@@ -158,8 +158,8 @@
 {id:26,name:"ゼロファイターBS",type:"l",cost:35,hp:20,str:1,fly:3,tgh:1}
 {id:64,name:"ゼロファイターNEXTBS",type:"l",cost:70,hp:25,str:1,tec:-1,wlk:2,fly:3,sub:{shl:30,rng:120,spd:250,itv:1000,str:100},tunable:{pwp:0},comment:"コンボタイプB（BS→手持ち→AM）"}
 
-
 {id:13,name:"ソードウィングBS",type:"a",cost:35,hp:20,wlk:1,fly:4}
+{id:202402093,name:"ソードウィングBS2",sub:{tec:100,pwr:0,shl:60,rng:0,spd:200,itv:1000},cost:65,hp:20,str:-1,tec:2,fly:4,type:"a",size:"S",comment:["","ソードウィング・L"]}
 
 {id:20231018,name:"タラバトロンBS",size:"S",type:"l",cost:35,hp:20,tec:1,wlk:1,fly:3,comment:[""]}
 
