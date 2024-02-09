@@ -243,10 +243,10 @@
 {id:24,name:"ガシマHD2",cost:40,hp:25,tec:2,wlk:2,tgh:1}
 
 {id:229,name:"カタロスHD",cost:40,hp:25,str:1,wlk:1,fly:1,tgh:2}
-
 {id:248,name:"カタロスHD2",cost:40,hp:25,tec:2,fly:2,tgh:1}
 {id:20220909,name:"カットバルドHD",type:"l",cost:35,hp:20,str:1,tec:-1,wlk:2,fly:1,tgh:2}
 
+{id:202402091,name:"ガディオンHD",cost:35,hp:20,tec:2,wlk:2,tgh:1,comment:[""],size:"M"}
 {id:168,name:"ガデロガHD",cost:35,hp:20,tec:2,wlk:1,tgh:2}
 {id:169,name:"ガデロガHD2",cost:35,hp:20,str:2,wlk:1,tgh:2}
 {id:208,name:"ガデロガHD3",cost:35,hp:20,tec:2,wlk:1,fly:1,tgh:1}
@@ -745,9 +745,10 @@
 {id:202211031,name:"ヴェルズニールHD",type:"a",size:"M",cost:105,hp:20,str:-1,tec:3,fly:2,tgh:1,main:{tec:100,pwr:18,shl:260,rng:275,spd:480,itv:700},tunable:{mwp:1},comment:""}
 {id:202206041,name:"エスカゴッデスHD",main:{tec:100,pwr:7,shl:900,rng:300,spd:400,itv:400},tunable:{mwp:1},type:"c",size:"L",cost:70,hp:15,tec:2,wlk:1,fly:1}
 {id:20230607,name:"オーガヒルHD2",main:{tec:100,pwr:9,shl:780,rng:330,spd:400,itv:240},tunable:{mwp:1},type:"c",size:"L",cost:115,hp:20,str:-1,tec:4,tgh:2,comment:["イグニス"]}
-{id:16,name:"ゴクソツキHD",size:"L",cost:35,hp:20,str:3,tec:-1,fly:1,tgh:2}
 
+{id:16,name:"ゴクソツキHD",size:"L",cost:35,hp:20,str:3,tec:-1,fly:1,tgh:2}
 {id:17,name:"ゴクソツキHD2",size:"L",cost:35,hp:20,tec:2,wlk:2,tgh:1}
+{id:202402092,name:"ガディオンHD2",main:{tec:100,pwr:38,shl:120,rng:200,spd:400,itv:1000},cost:85,hp:20,str:-1,tec:4,tgh:2,comment:["DECK SHOT"],type:"lc",size:"L"}
 {id:291,name:"コルディプスHD",cost:35,hp:20,tec:2,wlk:1,fly:1,tgh:1}
 
 {id:94,name:"コントラディクトHD",cost:40,hp:25,str:1,tec:2,wlk:2,fly:1,tgh:-1}
