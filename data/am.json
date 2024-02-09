@@ -676,6 +676,7 @@
 
 {id:20220909,name:"カットバルドAM",cost:35,hp:20,str:2,wlk:1,tgh:2,comment:["カットバルドBD専用コンバージョンパーツ","AURA機構"],fixedParts:{wp:{name:"カットバット",main:{str:100,pwr:24,shl:260,rng:225,spd:400,itv:700},sub:{str:100,pwr:36,shl:0,rng:70,spd:150,itv:1000},auraStat:{main:{str:100,pwr:25},sub:{str:100,pwr:38}},tunable:{mwp:1,pwp:1},cost:160}},size:"L",type:"l"}
 {id:202209091,name:"カットバルドAM2",main:{tec:100,pwr:0,shl:80,rng:0,spd:10,itv:1000},tunable:{mwp:1},joint:{wp:0},type:"l",size:"L",cost:35,hp:20,str:2,tgh:3,comment:["カットバルドBD専用コンバージョンパーツ"]}
+{id:202402091,name:"ガディオンAM",sub:{tec:100,pwr:34,shl:140,rng:200,spd:350,itv:1000},cost:105,hp:20,tec:3,tgh:2,comment:["両腕に装備した場合コンボ可能","チューン可否不明 R L共通"],joint:{wp:0},type:"l",size:"L",tunable:{pwp:1}}
 {id:20221103,name:"ガトマーレAM",type:"l",size:"L",cost:120,hp:25,str:3,tec:-1,wlk:1,tgh:2,main:{str:100,pwr:10,shl:30,rng:200,spd:500,itv:500},sub:{str:100,pwr:30,shl:0,rng:120,spd:250,itv:1000},tunable:{mwp:1,pwp:1},joint:{wp:1},comment:"トビット省略"}
 {id:3,name:"ガナハウンドAM",type:"l",cost:135,hp:25,str:3,tec:-1,wlk:1,tgh:2,sub:{str:100,pwr:32,rng:70,spd:85,itv:500},tunable:{pwp:1},comment:"シールド無視効果"}
 {id:202211033,name:"ガナハウンドAM2",type:"l",size:"L",cost:170,hp:20,str:2,tec:-1,wlk:2,tgh:2,main:{tec:100,pwr:0,shl:25,rng:0,spd:10,itv:1000},sub:{str:100,pwr:32,shl:0,rng:56,spd:68,itv:1000},tunable:{mwp:1,pwp:1}}
