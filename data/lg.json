@@ -523,7 +523,7 @@
 {id:47,name:"アハトジーベンLG",cost:45,hp:70,tec:1,wlk:5,fly:-2,tgh:1}
 {id:54,name:"アハトジーベンLG2",cost:45,hp:70,wlk:4,tgh:2}
 
-{id:202402091,name:"アルゴキャップLG",sub:{tec:100,pwr:4,shl:200,rng:330,spd:220,itv:1000},cost:75,hp:55,tec:1,wlk:3,fly:2,comment:["BARRIER STEP",""],joint:{bs:1},type:"c",size:"L"}
+{id:202402091,name:"アルゴキャップLG",sub:{tec:100,pwr:4,shl:200,rng:330,spd:220,itv:1000},cost:75,hp:55,tec:1,wlk:3,fly:2,comment:["BARRIER STEP","BS接続可能"],joint:{bs:1},type:"c",size:"L"}
 {id:43,name:"アルバトレオスLG",cost:50,hp:30,str:1,tec:1,wlk:3,fly:2,tgh:-1}
 {id:50,name:"アルバトレオスLG2",cost:50,hp:30,str:-1,tec:1,wlk:3,fly:1,tgh:2}
 
