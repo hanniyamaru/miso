@@ -56,7 +56,7 @@
 
 
 {id:16,name:"ソードウィングHD",type:"a",cost:100,hp:20,str:-1,tec:3,fly:2,tgh:1,main:{pwr:7,shl:600,rng:200,spd:480,itv:140},tunable:{mwp:1}}
-
+{id:202402093,name:"ソードウィングHD3",main:{tec:100,pwr:13,shl:380,rng:275,spd:320,itv:500},cost:95,hp:20,str:-1,tec:3,fly:3,type:"a",size:"S",tunable:{mwp:1},comment:["誘導・貫通あり","ソードウィング・L"]}
 {id:20220316,name:"ダークレヴナントHD",type:"l",size:"S",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:1,tgh:3}
 {id:202301181,name:"ターンエア1080HD",size:"S",cost:35,hp:20,str:2,wlk:1,fly:2,comment:"Season8アリーナコイン景品"}
 {id:202302023,name:"ターンエッジ1440HD",size:"S",cost:35,hp:20,str:1,wlk:1,fly:2,tgh:1,comment:""}
