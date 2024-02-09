@@ -140,7 +140,7 @@
 {group:"その他（順不同）",prefixID:"SO",nextID:17}
 
 {id:1,name:"ブランクスタッフ",size:"S",cost:40,sub:{str:100,pwr:28,rng:77,spd:94,itv:500},tunable:{pwp:1}}
-{id:2,name:"ホムラスタッフ",size:"M",cost:90,sub:{pwr:25,shl:180,rng:250,spd:290,itv:1000},comment:"コンボ可能（始動のみ）"}
+{id:2,name:"ホムラスタッフ",size:"M",cost:90,sub:{pwr:25,shl:180,rng:250,spd:290,itv:1000},comment:"別武器へコンボ可能（始動のみ）"}
 {id:3,name:"※カムイスタッフ",size:"M",cost:160,sub:{str:100,pwr:32,rng:91,spd:110,itv:500},tunable:{pwp:1},comment:["以下同数値の共通武器","デモンブレード","スイーツフォーク"]}
 
 
