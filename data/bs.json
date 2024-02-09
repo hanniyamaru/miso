@@ -650,6 +650,7 @@
 
 
 {id:71,name:"カタロスBS",cost:40,hp:25,str:1,tec:1,wlk:-1,fly:3,tgh:1,type:"a"}
+{id:202402091,name:"ガディオンBS",cost:35,hp:20,str:2,tec:-1,fly:3,tgh:1,comment:[""],type:"l",size:"L"}
 {id:45,name:"ガデロガBS",type:"c",cost:40,hp:25,str:1,wlk:-1,fly:3,tgh:2}
 
 
