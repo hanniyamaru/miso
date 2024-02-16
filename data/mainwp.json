@@ -459,7 +459,7 @@
 
 
 {group:"アンリエールコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
-{id:202203022,name:"ガーディアンルーク",type:"a",size:"S",cost:60,main:{tec:100,pwr:12,shl:700,rng:275,spd:330,itv:300},slot:3,comment:["ビーム属性爆風100％","アンリエール専用コンバージョン"]}
+{id:202203022,name:"ガーディアンルーク",type:"a",size:"S",cost:60,main:{tec:100,pwr:12,shl:700,rng:275,spd:330,itv:300},slot:3,comment:["ビーム属性爆風100％","L・R共通　R側が初期選択の為、射程チューンはR側がオススメ","アンリエール専用コンバージョン"]}
 {id:202203023,name:"メガルークキャノン",type:"a",size:"S",cost:30,main:{tec:100,pwr:42,shl:60,rng:300,spd:480,itv:1000},slot:0,comment:["チャージディレイ効果：5秒　ビーム属性爆風100％","チャージ：+20％ダメージ　無：-50％ダメージ","アンリエール専用コンバージョン"]}
 
 
