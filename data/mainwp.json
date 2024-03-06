@@ -541,7 +541,7 @@
 {id:95,name:"オートチャージカセット",main:{pwr:32,shl:100,rng:300,spd:480,itv:500},type:"a",size:"S",cost:30,slot:0,comment:"ステラ・カラカル専用コンバージョンパーツ　アウロラキャノン省略"}
 {id:9402,name:"チャージディレイカセット",main:{pwr:30,shl:80,rng:275,spd:480,itv:500},type:"a",size:"S",cost:30,slot:0,comment:"ステラ・カラカル専用コンバージョンパーツ　アウロラキャノンⅡ省略",tunable:{mwp:1}}
 {id:94,name:"ビームショットカセット",main:{pwr:18,shl:510,rng:275,spd:440,itv:300},type:"a",size:"S",cost:70,comment:"ステラ・カラカル専用コンバージョンパーツ　アウロラキャノン省略",tunable:{mwp:1}}
-{id:9401,name:"ビームミサイルカセット",main:{pwr:15,shl:480,rng:275,spd:300,itv:500},type:"a",size:"S",cost:70,comment:"ステラ・カラカル専用コンバージョンパーツ　アウロラキャノンⅡ省略",tunable:{mwp:1}}
+{id:9401,name:"ビームミサイルカセット",main:{pwr:15,shl:480,rng:275,spd:300,itv:500},type:"a",size:"S",cost:70,comment:["ビーム属性爆風100％","ステラ・カラカル専用コンバージョンパーツ　アウロラキャノンⅡ省略"],tunable:{mwp:1}}
 
 {group:"ゼタ・アーセナルコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:20221006,name:"ゼタ・アーセナルAMEX",type:"c",cost:70,slot:0,main:{tec:100,pwr:9,shl:600,rng:350,spd:240,itv:900},tunable:{mwp:1},comment:["ANTIAIR MISSILE"]}
