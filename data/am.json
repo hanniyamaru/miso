@@ -937,11 +937,11 @@
 {id:93,name:"ラクラボロスAM",cost:40,hp:25,str:1,tec:2,wlk:-1,fly:1,tgh:2}
 
 
-{id:202205242,name:"ライオウゼンAM",sub:{pwr:32,rng:77,spd:94,itv:1000,str:100},type:"l",size:"L",cost:135,hp:20,str:3,tec:-1,wlk:1,tgh:2,tunable:{pwp:1},joint:{wp:1},fixedParts:{wp:{name:"ライオウゼンAM@",main:{str:100,pwr:20,shl:50,rng:200,spd:570,itv:500},cost:30,slot:0}}}
 
-{id:169,name:"ライオウゼンAM（コンバージョン無し）",type:"l",size:"L",sub:{pwr:32,rng:70,spd:85,itv:1000,str:100},tunable:{pwp:1},cost:135,hp:20,str:3,tec:-1,wlk:1,tgh:2,comment:"シールド耐久値80"}
-
+{id:169,name:"ライオウゼンAM",type:"l",size:"L",sub:{pwr:32,rng:70,spd:85,itv:1000,str:100},tunable:{pwp:1},cost:135,hp:20,str:3,tec:-1,wlk:1,tgh:2,comment:["シールド耐久値80","武器はコンバージョンパーツのみ装着可能"]}
 {id:170,name:"ライオウゼンAM2",type:"l",size:"L",cost:35,hp:20,str:-1,tec:2,wlk:2,fly:1,tgh:1,comment:"シールド耐久値80"}
+{id:202403061,name:"ライオウゼンAM3",type:"l",size:"L",sub:{pwr:30,rng:84,spd:102,itv:1000,str:100},tunable:{pwp:1},cost:135,hp:20,str:3,tec:-1,wlk:2,tgh:1,comment:["シールド耐久値不明","武器はコンバージョンパーツのみ装着可能"]}
+
 
 {id:21,name:"ランサーロットAM",type:"l",cost:190,hp:25,str:3,tec:-1,wlk:1,tgh:2,sub:{str:100,pwr:28,shl:0,rng:120,spd:250,itv:1000},main:{str:100,pwr:13,shl:210,rng:250,spd:440,itv:160},tunable:{pwp:1,mwp:1},joint:{wp:0},comment:"無印、槍"}
 {id:23,name:"ランサーロットAM3",type:"l",cost:110,hp:25,str:4,tec:-1,tgh:2,sub:{str:100,pwr:34,rng:63,spd:76,itv:500},tunable:{pwp:1},joint:{wp:0},comment:"J、斧"}
