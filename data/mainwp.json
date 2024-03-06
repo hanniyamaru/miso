@@ -50,8 +50,6 @@
 {group:"ビームガン系",prefixID:"BG",commonStat:{tunable:{mwp:1}},nextID:60}
 
 {id:71,name:"AURAライトニングガン",main:{pwr:15,shl:240,rng:250,spd:440,itv:700},auraStat:{main:{pwr:18,shl:240,rng:250,spd:440,itv:700}},type:"a",size:"S",cost:70}
-{id:501,name:"スワロービームガン",main:{tec:100,pwr:12,shl:320,rng:275,spd:440,itv:540},tunable:{mwp:1},type:"a",size:"M",cost:80,comment:["ビーム爆風100％","爆風が2度発生する場合あり（要検証）","ミッションコイン景品"]}
-{id:202203021,name:"ポリウスビームガン",main:{tec:100,pwr:15,shl:360,rng:275,spd:320,itv:500},tunable:{mwp:1},type:"a",size:"M",cost:110,comment:"ピエッタ・ST初期装備"}
 {id:105,name:"クリスタルビームガン",size:"M",cost:110,main:{pwr:28,shl:280,rng:275,spd:440,itv:600,tec:100},type:"a",comment:"-"}
 {id:24,name:"ビームガン",size:"S",cost:30,main:{pwr:10,shl:420,rng:275,spd:500,itv:440}}
 {id:27,name:"ワイドビームガン",type:"as",size:"S",cost:50,main:{pwr:16,shl:300,rng:275,spd:460,itv:600}}
@@ -236,6 +234,7 @@
 
 {id:78,name:"ラピッドパルスミサイル",main:{pwr:11,shl:350,rng:275,spd:350,itv:320},tunable:{mwp:1},type:"a",size:"M",cost:110,comment:"ビーム属性爆風50％"}
 {id:38,name:"ビームランチャー",main:{tec:100,pwr:27,shl:180,rng:275,spd:280,itv:1000},size:"L",type:"a",cost:100}
+{id:501,name:"スワロービームガン",main:{tec:100,pwr:12,shl:320,rng:275,spd:440,itv:540},tunable:{mwp:1},type:"a",size:"M",cost:80,comment:["ビーム爆風100％","爆風が2度発生する場合あり（要検証）","ミッションコイン景品"]}
 
 {id:20222021,name:"ガーディアンライフル",type:"a",size:"M",cost:80,main:{pwr:13,shl:400,rng:275,spd:280,itv:500},comment:["NPCコレッティ","ビーム爆風70％"]}
 {id:202308241,name:"ペペンランチャー",type:"a",size:"M",cost:85,main:{tec:100,pwr:20,shl:270,rng:275,spd:280,itv:700},comment:["パーツクリエイト",""]}
@@ -345,6 +344,7 @@
 {id:20211224,name:"オーナメントシューター",main:{tec:100,pwr:10,shl:600,rng:250,spd:400,itv:300},tunable:{mwp:1},size:"M",cost:70,comment:["実弾属性　自軍貫通","飛距離1000以上？"]}
 {id:2022118,name:"スノウマンピッチャー",main:{tec:100,pwr:15,shl:300,rng:275,spd:100,itv:600},size:"M",type:"as",cost:100,comment:"ビーム爆風100％"}
 {id:202304051,name:"ビームSBピッチャー",main:{tec:100,pwr:20,shl:360,rng:275,spd:100,itv:600},size:"M",type:"a",cost:150,comment:["ビーム爆風100％","Season9アリーナコイン景品"]}
+{id:202203021,name:"ポリウスビームガン",main:{tec:100,pwr:15,shl:360,rng:275,spd:320,itv:500},tunable:{mwp:1},type:"a",size:"M",cost:110,comment:"ピエッタ・ST初期装備"}
 
 
 {id:202203163,name:"バフォグリーズガン",main:{tec:100,pwr:13,shl:660,rng:275,spd:400,itv:300},size:"M",type:"a",cost:85,comment:["混沌コイン景品","ビーム爆風50％"]}
