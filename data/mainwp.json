@@ -653,6 +653,9 @@
 {id:175,name:"ニードルスター",main:{pwr:20,shl:50,rng:200,spd:500,itv:500,str:100},sub:{pwr:32,rng:56,spd:68,itv:1500,str:100},cost:130,comment:"メルクーリオAM2専用コンバージョン",type:"l",size:"S",tunable:{mwp:1,pwp:1}}
 {id:20222027,name:"ポラリス",type:"l",size:"S",cost:50,main:{str:100,pwr:20,shl:30,rng:200,spd:280,itv:1000},slot:0,comment:["メルクーリオBD@専用コンバージョン"]}
 
+{group:"ライオウゼンコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
+{id:20240305,name:"ライオウゼンAM@",main:{str:100,pwr:20,shl:50,rng:200,spd:570,itv:500},cost:30,slot:0,tunable:{pwp:1},type:"l",size:"L"}
+{id:202403062,name:"ライオウゼンAM@2",main:{pwr:0,shl:50,rng:0,spd:10,itv:1000},cost:30,slot:0,tunable:{pwp:1},type:"l",size:"L"}
 
 
 {group:"ラフィールコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
