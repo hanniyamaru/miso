@@ -673,6 +673,8 @@
 
 
 {id:20220531,name:"ライオウゼンHD",cost:40,hp:25,str:3,tec:-1,wlk:1,tgh:2,size:"M"}
+{id:202403061,name:"ライオウゼンHD2",cost:40,hp:25,str:2,tec:0,wlk:1,fly:-1,tgh:2,size:"M",comment:"夜討"}
+
 {id:536,name:"ライオスHD",cost:35,hp:20,str:1,tec:1,wlk:1,fly:1,tgh:1}
 {id:180,name:"ラグナバレットHD",cost:40,hp:25,str:-1,tec:3,wlk:1,fly:1,tgh:1}
 
