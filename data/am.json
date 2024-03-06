@@ -412,6 +412,7 @@
 
 {id:66,name:"サイコクラスターAM",cost:35,hp:20,str:1,tec:2,wlk:-1,fly:1,tgh:2}
 {id:202208071,name:"サイバーニンAM",cost:105,hp:20,str:3,tec:-1,wlk:2,tgh:1,sub:{str:100,pwr:30,rng:90,spd:150,itv:1000},tunable:{pwp:1},type:"l",comment:"WLK依存格闘"}
+{id:202403065,name:"サイバーニンAM2",cost:80,hp:20,str:2,tec:-1,wlk:2,tgh:2,main:{str:100,pwr:9,rng:140,spd:480,itv:100},tunable:{mwp:1},type:"l",comment:["リンクショット対応 シールド機能（ビーム・格闘以外）","J"]}
 
 {id:36,name:"シグマクロックAM",cost:35,hp:20,str:2,tec:1,fly:1,tgh:1}
 
