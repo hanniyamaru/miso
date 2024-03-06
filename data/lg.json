@@ -415,7 +415,6 @@
 {id:3,name:"フィザリバンLG",cost:45,hp:25,str:1,tec:1,wlk:3}
 
 {id:69,name:"フラップジャックLG",sub:{pwr:0,shl:100,rng:100,spd:180,itv:1000},tunable:{mwp:1},auraStat:{main:{tec:100,pwr:11,shl:530,rng:275,spd:280,itv:760},sub:{pwr:0,shl:100,rng:100,spd:180,itv:1000}},type:"a",cost:115,hp:25,tec:1,wlk:3,fly:1,tgh:1,main:{pwr:8,shl:530,rng:275,spd:280,itv:760},builtin:{bs:1}}
-
 {id:81,name:"フラップジャックLG2",main:{tec:100,pwr:10,shl:450,rng:275,spd:280,itv:900},sub:{str:100,pwr:0,shl:100,rng:100,spd:180,itv:1000},tunable:{mwp:1},cost:100,hp:25,tec:2,wlk:3,fly:2,tgh:-1,type:"a",comment:["◆CT4秒 ◆ブースト回復：40％","◆離陸：垂直 ◆飛行：入力方向※1","※1　ブーストゲージ消失中は消失直前の進行方向を受け継ぎ、ゲージ消失中は移動キー入力を受け付けない","BS機能搭載","BB"],builtin:{bs:1}}
 
 
@@ -659,6 +658,9 @@
 
 {id:290,name:"ドラッケンLG",cost:45,hp:25,str:2,wlk:3,tgh:1}
 {id:611103,name:"トランソニックLG",cost:45,hp:25,str:-1,tec:1,wlk:2,fly:2,tgh:2}
+{id:202403064,name:"トランソニックLG2",main:{tec:100,pwr:0,shl:60,rng:0,spd:10,itv:1000},sub:{pwr:0,shl:60,rng:0,spd:200,itv:1000},tunable:{mwp:1},cost:105,hp:25,str:-1,tec:2,wlk:2,fly:2,tgh:1,type:"a",comment:["メイン：GUARD（一斉射撃時のみ）","サブ：REIGNITION","X3"]}
+
+
 {id:1201,name:"トルク・マイティバインLG",type:"l",cost:80,hp:65,str:1,wlk:3,fly:-1,tgh:3,comment:["シールド耐久値80"]}
 
 {id:20230802,name:"ナイア・サーバルLG",sub:{str:100,pwr:0,shl:30,rng:100,spd:260,itv:1000},tunable:{pwp:0},size:"L",type:"c",cost:70,hp:55,str:-1,tec:1,wlk:2,fly:1,tgh:3,comment:["",""]}
