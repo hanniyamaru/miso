@@ -125,6 +125,7 @@
 {id:15,name:"ストラクトブレイカー",type:"c",size:"L",cost:200,main:{pwr:50,shl:120,rng:350,spd:480,itv:1000}}
 {id:26,name:"ガトリングブレイカー",main:{pwr:14,shl:1400,rng:350,spd:480,itv:200},size:"L",type:"c",cost:210}
 {id:27,name:"ピアースブレイカー",main:{pwr:38,shl:140,rng:350,spd:480,itv:1000},size:"M",type:"c",cost:170,comment:"貫通+HIT毎に爆風発生"}
+{id:202403063,name:"ハドロンブレイカー",main:{pwr:15,shl:810,rng:330,spd:570,itv:140},size:"M",type:"c",cost:160,comment:"スキロンBst初期装備"}
 
 {group:"シューター系",prefixID:"ST",commonStat:{tunable:{mwp:1}},nextID:1}
 
