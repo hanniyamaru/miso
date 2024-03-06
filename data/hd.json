@@ -404,6 +404,8 @@
 
 
 {id:2022113,name:"スキロンHD",cost:35,hp:20,str:1,wlk:1,fly:1,tgh:2}
+{id:202403063,name:"スキロンHD2",cost:35,hp:20,tec:3,fly:1,tgh:1,comment:"Bst"}
+
 {id:57,name:"スクイドルHD",size:"M",cost:35,hp:20,str:2,tec:2,tgh:1,comment:["ロボガラポン"]}
 
 
