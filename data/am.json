@@ -441,6 +441,7 @@
 
 {id:141,name:"スカラベスAM",type:"lacs",size:"M",cost:35,hp:20,tec:2,wlk:2,fly:-1,tgh:2}
 {id:2022113,name:"スキロンAM",type:"c",cost:75,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,main:{pwr:12,shl:360,rng:330,spd:290,itv:500},tunable:{mwp:1},joint:{wp:1}}
+{id:202403063,name:"スキロンAM2",type:"c",cost:75,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,main:{pwr:21,shl:200,rng:330,spd:440,itv:700},tunable:{mwp:1},comment:"Bst"}
 
 {id:11,name:"スコルタンAM",cost:35,hp:20,str:1,tec:2,wlk:1,tgh:1}
 {id:523,name:"スコルタンAM2",cost:35,hp:20,str:2,wlk:1,tgh:2}
