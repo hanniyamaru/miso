@@ -451,7 +451,8 @@
 {id:87,name:"ズィークBS",type:"c",cost:35,hp:20,tec:1,wlk:-1,fly:3,tgh:2}
 
 {id:119,name:"スカラベスBS",main:{pwr:22,shl:320,rng:330,spd:520,itv:1000,tec:100},type:"c",size:"M",cost:165,hp:20,str:-1,tec:2,fly:3,tgh:1,tunable:{mwp:1}}
-{id:2022113,name:"スキロンBS",main:{tec:100,pwr:18,shl:260,rng:330,spd:290,itv:1000},tunable:{mwp:1},cost:95,hp:20,tec:2,wlk:1,fly:2,type:"c",size:"M",comment:["爆風100％","Ast"]}
+{id:2022113,name:"スキロンBS",main:{tec:100,pwr:18,shl:260,rng:330,spd:290,itv:1000},tunable:{mwp:1},cost:95,hp:20,tec:2,wlk:1,fly:2,type:"c",size:"M",comment:["爆風100％",""]}
+{id:202303063,name:"スキロンBS2",sub:{tec:100,pwr:18,shl:140,rng:350,spd:320,itv:1000},tunable:{pwp:0},cost:85,hp:20,str:-1,tec:2,wlk:1,fly:3,type:"c",size:"M",comment:["","Bst"]}
 
 {id:12,name:"スコルタンBS",type:"s",cost:35,hp:20,tec:2,fly:3}
 
