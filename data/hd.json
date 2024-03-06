@@ -499,6 +499,7 @@
 {id:236,name:"ドラゴネイルHD",cost:40,hp:25,str:2,fly:1,tgh:2}
 {id:260,name:"ドラゴネイルHD2",cost:40,hp:25,str:2,tec:-1,wlk:2,fly:1,tgh:1}
 {id:270,name:"トランソニックHD",type:"lacs",size:"M",cost:35,hp:20,str:1,tec:-1,fly:2,tgh:3}
+{id:202403064,name:"トランソニックHD2",type:"lacs",size:"M",cost:35,hp:20,wlk:1,fly:2,tgh:3,comment:"X3"}
 
 {id:11020,name:"ナイトギアRF HD",type:"a",size:"M",cost:40,hp:25,str:-1,tec:2,wlk:2,fly:2}
 {id:11021,name:"ナイトギアPF HD",type:"a",size:"M",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2}
