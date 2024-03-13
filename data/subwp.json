@@ -97,7 +97,7 @@
 {id:20230614,name:"Xmasツリーランス",type:"l",size:"L",cost:130,sub:{str:100,pwr:30,rng:100,spd:200,itv:1000},comment:"WLK依存サブ"}
 {id:202306141,name:"ハルバート",type:"l",size:"M",cost:120,sub:{str:100,pwr:32,rng:77,spd:94,itv:1000},comment:"ビートラム初期装備"}
 {id:202312211,name:"ルミトルニランス",type:"l",size:"L",cost:120,sub:{str:100,pwr:32,rng:0,spd:250,itv:1000},comment:["WLK依存サブ","NPC：ミュラ"]}
-{id:20240213,name:"キューピッドスピアR",type:"l",size:"M",cost:140,sub:{str:100,pwr:33,rng:77,spd:94,itv:1000},comment:"バレンタインオーダー（2024）景品","B共通（イベント中域・ホワイトデーキューブ）"}
+{id:20240213,name:"キューピッドスピアR",type:"l",size:"M",cost:140,sub:{str:100,pwr:33,rng:77,spd:94,itv:1000},comment:["バレンタインオーダー（2024）景品","B共通（イベント中域・ホワイトデーキューブ）"]}
 
 
 {group:"アクス系",prefixID:"AX",nextID:10}
