@@ -132,6 +132,8 @@
 {id:202303092,name:"シノビダガー",sub:{tec:100,pwr:15,shl:270,rng:250,spd:480,itv:1000},tunable:{pwp:0},type:"l",size:"S",cost:60,comment:["サブロック系パーツのみコンボ可能","シャドウハンター初期装備"]}
 
 
+{group:"回復系",prefixID:"",nextID:17}
+{id:20240313,name:"ローズブーケ",sub:{pwr:0,shl:12,rng:0,spd:0,itv:20000},tunable:{pwp:0},type:"s",size:"M",cost:80,comment:["オートリペア陣　回復量（合計84）","B・R共通,"イベント中域バレンタイン（ホワイトデーキューブ）"]}
 
 
 
