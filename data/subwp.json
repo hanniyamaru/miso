@@ -57,7 +57,6 @@
 {id:20220909,name:"アヴァランチソード",sub:{pwr:36,rng:70,spd:90,itv:1000,str:100},tunable:{pwp:1},type:"l",size:"L",cost:160,comment:"ジオグラシス初期装備"}
 {id:20221014,name:"オレガーサーベル",size:"M",cost:70,sub:{str:100,pwr:30,rng:70,spd:85,itv:500},comment:["アルカンタスドロップ","エリア121～"]}
 {id:20221210,name:"クレナイエッジ",sub:{str:100,pwr:34,shl:0,rng:77,spd:94,itv:1000},size:"M",type:"l",cost:160,comment:["ディライブ攻撃時TGH減衰無視","ダテマックス初期装備"]}
-{id:20231101,name:"アサシンエッジ",sub:{str:100,pwr:30,shl:0,rng:150,spd:250,itv:1000},size:"SS",type:"l",cost:60,comment:["別武器コンボ最終段は回転斬りに変化","シャドウハンター・扇初期装備"]}
 
 {id:16,name:"ビームブレード",type:"a",size:"M",cost:70,sub:{str:100,pwr:28,rng:70,spd:85,itv:500}}
 {id:17,name:"ソニックブレード",type:"a",size:"M",cost:100,sub:{str:100,pwr:30,rng:70,spd:85,itv:500}}
@@ -197,6 +196,7 @@
 {id:20240111,name:"ブリッツブレイド",sub:{str:100,pwr:30,shl:100,rng:0,spd:10,itv:1600},auraStat:{sub:{str:100,pwr:32,rng:150,spd:300}},tunable:{pwp:1},type:"a",size:"M",cost:140,comment:["AURA機構","ブリッツェルト・TB初期装備"]}
 
 {id:202401087,name:"ゼファーブレード",type:"a",size:"M",cost:50,sub:{str:100,pwr:30,shl:60,rng:77,spd:94,itv:1000},tunable:{pwp:1},comment:"アイオリウス初期装備"}
+{id:20231101,name:"アサシンエッジ",sub:{str:100,pwr:30,shl:0,rng:150,spd:250,itv:1000},size:"SS",type:"l",tunable:{pwp:0},cost:60,comment:["サブロック式","別武器コンボ最終段は回転斬りに変化","シャドウハンター・扇初期装備"]}
 
 
 
