@@ -196,7 +196,7 @@
 {id:20240111,name:"ブリッツブレイド",sub:{str:100,pwr:30,shl:100,rng:0,spd:10,itv:1600},auraStat:{sub:{str:100,pwr:32,rng:150,spd:300}},tunable:{pwp:1},type:"a",size:"M",cost:140,comment:["AURA機構","ブリッツェルト・TB初期装備"]}
 
 {id:202401087,name:"ゼファーブレード",type:"a",size:"M",cost:50,sub:{str:100,pwr:30,shl:60,rng:77,spd:94,itv:1000},tunable:{pwp:1},comment:"アイオリウス初期装備"}
-{id:20231101,name:"アサシンエッジ",sub:{str:100,pwr:30,shl:0,rng:150,spd:250,itv:1000},size:"SS",type:"l",tunable:{pwp:0},cost:60,comment:["サブロック式","別武器コンボ最終段は回転斬りに変化","シャドウハンター・扇初期装備"]}
+{id:20231101,name:"アサシンエッジ",sub:{str:100,pwr:30,shl:0,rng:150,spd:250,itv:1000},size:"SS",type:"l",tunable:{pwp:0},cost:60,comment:["サブロック式（ワープ攻撃）","別武器コンボ最終段は回転斬りに変化（貫通攻撃）","シャドウハンター・扇初期装備"]}
 
 
 
