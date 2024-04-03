@@ -409,6 +409,7 @@
 {id:202310042,name:"ゴアヴェルートAM",main:{str:100,pwr:14,shl:280,rng:275,spd:400,itv:700},sub:{str:100,pwr:30,shl:0,rng:77,spd:94,itv:1000},tunable:{pwp:1,mwp:1},auraStat:{main:{pwr:16},sub:{pwr:30,rng:84,spd:102}},type:"a",size:"M",cost:135,hp:20,str:3,tec:-1,fly:2,tgh:1,joint:{wp:0},comment:["AURA機構　　AM＠省略","AURA発動中ライフテイカー強化効果","サブ性能はWLK FLYの高い方に依存"]}
 
 {id:131,name:"サーティクスAM",sub:{str:100,pwr:23,shl:100,rng:77,spd:94,itv:2000},tunable:{pwp:1},joint:{am:1,wp:0},fixedParts:{am:{name:"サーティクスAM@",slot:0}},type:"a",cost:105,hp:20,str:3,tec:-1,fly:1,tgh:2,comment:"-"}
+{id:202404034,name:"サーティクスAM2",sub:{tec:100,pwr:15,shl:180,rng:275,spd:350,itv:1000},tunable:{pwp:0},joint:{am:1,wp:0},fixedParts:{am:{name:"サーティクスAM@",slot:0}},type:"a",cost:90,hp:20,str:-1,tec:2,fly:2,tgh:2,comment:"ナトラ"}
 
 {id:66,name:"サイコクラスターAM",cost:35,hp:20,str:1,tec:2,wlk:-1,fly:1,tgh:2}
 {id:202208071,name:"サイバーニンAM",cost:105,hp:20,str:3,tec:-1,wlk:2,tgh:1,sub:{str:100,pwr:30,rng:90,spd:150,itv:1000},tunable:{pwp:1},type:"l",comment:"WLK依存格闘"}
