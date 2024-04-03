@@ -390,7 +390,7 @@
 
 {id:447,name:"ガンドリルBS",type:"l",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:2,tgh:1}
 {id:202302022,name:"ガンドレッドBS",type:"l",size:"M",cost:35,hp:20,wlk:2,fly:3,comment:["",""]}
-
+{id:20240404,name:"ギガントアームズBS",type:"l",cost:35,hp:20,tec:2,wlk:1,fly:3,tgh:-1}
 {id:98,name:"ギャスターBS",type:"c",cost:40,hp:25,wlk:1,fly:3,tgh:2}
 {id:164,name:"キャノンボールDRBS",size:"M",type:"l",cost:35,hp:20,tec:1,wlk:2,fly:2,comment:["ミッション景品"]}
 {id:193,name:"キャプテンXBS2",type:"l",size:"M",cost:35,hp:20,str:1,tec:1,wlk:-1,fly:2,tgh:2,comment:"キャプテンX・テソロ"}
