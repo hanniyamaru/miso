@@ -271,6 +271,7 @@
 
 
 {id:30,name:"ギガトンオーHD",cost:40,hp:25,str:1,wlk:1,fly:1,tgh:2}
+{id:20240404,name:"ギガントアームズHD",cost:35,hp:20,str:3,tec:1,fly:-1,tgh:2}
 
 {id:199,name:"ギガンベルグHD",cost:35,hp:20,tec:2,wlk:1,fly:2}
 {id:210,name:"ギャスターHD",main:{pwr:30,shl:160,rng:330,spd:360,itv:1000},tunable:{mwp:1},type:"c",cost:135,hp:20,str:-1,tec:2,wlk:2,fly:1,tgh:1}
