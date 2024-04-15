@@ -235,7 +235,7 @@
 
 
 {id:20221104,name:"ミックミーBD",main:{tec:100,pwr:[24,25,27],shl:400,rng:[300,310,325],spd:[440,460,480],itv:500},cost:470,capa:640,hp:195,str:8,tec:20,wlk:3,fly:5,tgh:23,wbid:11,cartridge:{hpup:35,lv1:"75*5@20|60*2@35|22@30|23@25|18@20|19@20|20@20|17@20|21@20|25@25|29@10|13@20|31@40|32@30"},joint:{hdac:1,fcac:1,hd:0,bs:0},builtin:{bs:1},fixedParts:{lg:{name:"ミックミーLG",cost:40,hp:20,str:2,wlk:2,tgh:1},am:[{name:"ミックミーAM",sub:{tec:100,pwr:[32],rng:77,spd:94,itv:500},joint:{wp:0},tunable:{pwp:1},cost:60,hp:15,str:-1,tec:3,tgh:2},{name:"ミックミーAM",sub:{tec:100,pwr:[32],rng:77,spd:94,itv:500},joint:{wp:0},tunable:{pwp:1},cost:60,hp:15,str:-1,tec:3,tgh:2}]},comment:["イベント宙域","シュタインズキューブ"]}
-{id:700,name:"メディージャーBD",cost:360,capa:710,hp:200,str:7,tec:7,wlk:8,fly:7,tgh:13,wbid:10,cartridge:{hpup:22,lv1:"5*6@20|17@20|18@20|20@20|23@25|22@30|19@20|25@25|12@20|28@20|14@20|29@10|13@20|32@30|31@40"},comment:"-"}
+{id:700,name:"メディージャーBD",cost:360,capa:710,hp:200,str:7,tec:7,wlk:8,fly:7,tgh:13,wbid:10,cartridge:{hpup:22,lv1:"5*6@20|17@20|18@20|20@20|23@25|22@30|19@20|25@25|12@20|28@20|14@20|29@10|13@20|32@30|31@40"},comment:["ミッション周回報酬「カクピタスバカンス」（カクピタスバスター 3個）ミッションコイン景品（70個）"]}
 
 {id:701,name:"メディージャーBD2",cost:360,capa:710,hp:200,str:5,tec:5,wlk:12,fly:10,tgh:10,wbid:10,cartridge:{hpup:22,lv1:"5*6@20|17@20|18@20|20@20|23@25|22@30|19@20|25@25|12@20|28@20|14@20|29@10|13@20|32@30|31@40"},comment:"-"}
 
