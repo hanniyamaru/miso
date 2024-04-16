@@ -642,7 +642,7 @@
 {id:61,name:"ホバリオン・マグナHD",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1}
 
 {id:196,name:"ホプリテスHD",cost:40,hp:20,str:2,tec:3,wlk:-1,fly:1}
-{id:224,name:"ボルカニクスHD",main:{pwr:7,shl:1200,rng:160,spd:480,itv:100},tunable:{mwp:1},type:"lacs",cost:85,hp:20,tec:2,fly:2,tgh:1,comment:"ミッションコイン景品"}
+{id:224,name:"ボルカニクスHD",main:{pwr:7,shl:1200,rng:160,spd:480,itv:100},tunable:{mwp:1},type:"lacs",cost:85,hp:20,tec:2,fly:2,tgh:1,comment:["貫通　炎上効果","ミッション周回報酬「決戦！ボルカニクス」（ソードウィングマスター 6個）ミッションコイン景品（100個）"]}
 
 
 
