@@ -39,7 +39,9 @@
 {id:22,name:"メタルスレイヤー",type:"l",size:"M",cost:120,sub:{str:100,pwr:32,rng:77,spd:94,itv:500}}
 {id:24,name:"ドゥームスレイヤー",type:"l",size:"L",cost:150,sub:{str:100,pwr:34,rng:84,spd:102,itv:500}}
 {id:29,name:"ライトニングエッジ",sub:{str:100,pwr:32,rng:70,spd:85,itv:500},auraStat:{sub:{pwr:34,rng:77,spd:93,itv:500}},type:"l",size:"M",cost:100}
-{id:23,name:"影打・桜雷切",size:"S",cost:100,sub:{str:100,pwr:30,rng:81,spd:98,itv:500},comment:"ミッションコイン景品"}
+{id:23,name:"影打・桜雷切",size:"S",cost:100,sub:{str:100,pwr:30,rng:81,spd:98,itv:500},comment:["ミッション周回報酬「赤き月夜の決闘」（ゴウテンバスター 3個）ミッションコイン景品（70個）"]
+
+}
 
 {id:1001,name:"リッパーズサイス",type:"la",size:"M",cost:160,sub:{str:100,pwr:34,rng:70,spd:85,itv:1000},tunable:{pwp:1}}
 {id:1002,name:"オミナスサイス",type:"las",size:"M",cost:200,sub:{str:100,pwr:34,rng:70,spd:85,itv:1000},tunable:{pwp:1},comment:"性能変化（補）"}
@@ -216,7 +218,7 @@
 {id:202310142,name:"パンプキンピッチャー",main:{tec:100,pwr:5,shl:300,rng:250,spd:200,itv:500},tunable:{mwp:1},cost:40,type:"s",size:"SS",comment:["","パンプキンステッキ（HWあむりむ・HWにーな・HWぺぽ・HWねむりむ）専用コンバージョンパーツ"]}
 
 
-{id:1010,name:"プチ桜雷切",main:{str:100,pwr:15,shl:220,rng:225,spd:400,itv:500},sub:{str:100,pwr:28,rng:81,spd:98,itv:500},type:"s",size:"S",cost:100}
+{id:1010,name:"プチ桜雷切",main:{str:100,pwr:15,shl:220,rng:225,spd:400,itv:500},sub:{str:100,pwr:28,rng:81,spd:98,itv:500},type:"s",size:"S",cost:100,comment:["ミッション周回報酬「決戦！ゴウテン」（ゴウテンバスターⅡ 3個）ミッションコイン景品（70個）","桜華・禿専用コンバージョンパーツ"]}
 
 
 {id:47,name:"ブレイブソード",sub:{str:100,pwr:32,rng:70,spd:85,itv:500},tunable:{pwp:1},cost:100,type:"l",size:"M",comment:"ソルブレンサーAMにのみ装着可能"}
