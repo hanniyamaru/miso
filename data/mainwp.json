@@ -49,7 +49,7 @@
 
 {group:"ビームガン系",prefixID:"BG",commonStat:{tunable:{mwp:1}},nextID:60}
 
-{id:71,name:"AURAライトニングガン",main:{pwr:15,shl:240,rng:250,spd:440,itv:700},auraStat:{main:{pwr:18,shl:240,rng:250,spd:440,itv:700}},type:"a",size:"S",cost:70}
+{id:71,name:"AURAライトニングガン",main:{pwr:15,shl:240,rng:250,spd:440,itv:700},auraStat:{main:{pwr:18,shl:240,rng:250,spd:440,itv:700}},type:"a",size:"S",cost:70,comment:["AURA機構","エンジェルコイン景品（75個）"]}
 {id:105,name:"クリスタルビームガン",size:"M",cost:110,main:{pwr:28,shl:280,rng:275,spd:440,itv:600,tec:100},type:"a",comment:"-"}
 {id:24,name:"ビームガン",size:"S",cost:30,main:{pwr:10,shl:420,rng:275,spd:500,itv:440}}
 {id:27,name:"ワイドビームガン",type:"as",size:"S",cost:50,main:{pwr:16,shl:300,rng:275,spd:460,itv:600}}
@@ -153,7 +153,7 @@
 {id:24,name:"ブラストレールガン",main:{pwr:36,tec:100,shl:140,rng:330,spd:520,itv:500},type:"c",size:"M",cost:140}
 {id:22,name:"リニアキャノン",type:"c",size:"L",cost:210,main:{pwr:52,shl:140,rng:350,spd:520,itv:500}}
 {id:500,name:"ソルジャーレールガン",main:{pwr:33,shl:270,rng:330,spd:480,itv:520},size:"M",type:"c",cost:160}
-{id:44,name:"アクアパラソル",main:{pwr:28,shl:210,rng:250,spd:360,itv:560},type:"lac",size:"M",cost:110}
+{id:44,name:"アクアパラソル",main:{pwr:28,shl:210,rng:250,spd:360,itv:560},type:"lac",size:"M",cost:110,comment:["実弾属性","エンジェルコイン景品（75個）"]}
 {id:501,name:"アメイジングレールガン",main:{pwr:20,shl:240,rng:250,spd:480,itv:600},size:"M",cost:100}
 
 {id:20220802,name:"オレガーライフル",main:{pwr:34,shl:120,rng:250,spd:520,itv:500},type:"l",cost:100,size:"M",comment:["アルカンタスドロップ","2周目"]}
@@ -199,12 +199,12 @@
 {id:61,name:"プラズマビームキャノン",main:{pwr:34,shl:220,rng:275,spd:400,itv:740},cost:180,size:"M",type:"a"}
 {id:68,name:"チャージビームキャノン",main:{pwr:32,shl:150,rng:275,spd:440,itv:1000},type:"a",size:"L",cost:120}
 {id:29,name:"スターダストキャノン",type:"a",size:"LL",cost:130,main:{pwr:38,shl:240,rng:275,spd:400,itv:900}}
-{id:56,name:"ビームポンプバズーカ",main:{pwr:23,shl:240,rng:275,spd:360,itv:760},type:"a",size:"M",cost:100}
+{id:56,name:"ビームポンプバズーカ",main:{pwr:23,shl:240,rng:275,spd:360,itv:760},type:"a",size:"M",cost:100,comment:["STRで範囲変化","エンジェルコイン景品（75個）"]}
 {id:2022112,name:"ビームボムランチャー",main:{pwr:30,shl:360,rng:100,spd:300,itv:1000},type:"a",size:"M",cost:80}
 {id:168,name:"SBC-ビームキャノン",main:{tec:100,pwr:32,shl:200,rng:275,spd:440,itv:1000},cost:160,type:"a",size:"M",comment:"-"}
 
 {group:"ミサイル系",prefixID:"MS",commonStat:{tunable:{mwp:1}},nextID:333}
-{id:22,name:"V-2ウェイミサイル",type:"c",size:"L",cost:160,main:{pwr:17,shl:330,rng:330,spd:440,itv:1000}}
+{id:22,name:"V-2ウェイミサイル",type:"c",size:"L",cost:160,main:{pwr:17,shl:330,rng:330,spd:440,itv:1000},comment:"エンジェルコイン景品（75個）"}
 {id:760,name:"バーティカルミサイル",main:{pwr:14,shl:240,rng:330,spd:350,itv:500},type:"c",size:"M",cost:100,comment:"ミッションコイン景品（65個）"}
 
 {id:18,name:"コンパクトランチャー",type:"c",size:"S",cost:60,main:{pwr:13,shl:240,rng:330,spd:290,itv:600}}
