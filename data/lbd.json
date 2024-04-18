@@ -357,7 +357,7 @@
 
 {id:8,name:"ビートランダーBD",cost:405,capa:800,hp:245,str:12,tec:5,wlk:10,fly:7,tgh:11,cartridge:{hpup:18,lv1:"85*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|29@15|21@20|16@20|13@30|32@50|31@40"}}
 
-{id:13,name:"ビャッコウBD",cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|28@30|16@20|21@20|29@15|13@30|32@50|31@40"},cost:445,capa:870,hp:255,str:11,tec:5,wlk:15,fly:7,tgh:10,wbid:17,auraSystem:1}
+{id:13,name:"ビャッコウBD",cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|28@30|16@20|21@20|29@15|13@30|32@50|31@40"},cost:445,capa:870,hp:255,str:11,tec:5,wlk:15,fly:7,tgh:10,wbid:17,auraSystem:1,comment:["AURA機構","Gld：アリーナコイン景品（50個）"]}
 
 {id:1,name:"フィザリバンBD",cost:360,capa:710,hp:230,str:11,tec:4,wlk:11,fly:7,tgh:9,wbid:9,cartridge:{hpup:22,lv1:"5*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|11@20|29@15|15@15|14@20|13@30|32@50|31@40"}}
 {id:20220303,name:"ブリスガンド・ポーンBD",cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|25@25|30@20|21@20|13@30|32@50|31@40"},cost:445,hp:255,capa:870,str:5,tec:14,wlk:8,fly:8,tgh:13,joint:{hdac:1,am:1},fixedParts:{hdac:["S1"],am:{joint:{wp:2},fixedParts:{wp:[{name:"ブリスガンドソード",main:{tec:100,pwr:15,shl:1050,rng:250,spd:440,itv:200},sub:{str:100,pwr:28,shl:30,rng:100,spd:150,itv:1000},tunable:{mwp:1},type:"l",size:"L",cost:180},{name:"ブリスガンドシールド",sub:{str:100,pwr:0,shl:10,rng:0,spd:0,itv:1000},cost:40}]},name:"ブリスガンド・ポーンAM",cost:80,hp:50,tec:4,wlk:4,tgh:2}},comment:["混沌コイン景品"]}
