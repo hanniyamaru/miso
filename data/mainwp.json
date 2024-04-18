@@ -133,7 +133,7 @@
 {id:48,name:"パワーシューター",type:"l",size:"M",cost:140,main:{pwr:36,shl:230,rng:250,spd:400,itv:760}}
 {id:49,name:"バリスタシューター",size:"M",cost:180,main:{pwr:29,shl:310,rng:250,spd:400,itv:540},type:"la"}
 {id:153,name:"クエンチシューター",main:{pwr:17,shl:500,rng:225,spd:440,itv:340},type:"l",size:"M",cost:160}
-{id:73,name:"トリプルシューター",main:{pwr:10,shl:660,rng:250,spd:320,itv:800},type:"l",size:"M",cost:150,comment:"ミッションコイン景品"}
+{id:73,name:"トリプルシューター",main:{pwr:10,shl:660,rng:250,spd:320,itv:800},type:"l",size:"M",cost:150,comment:["誘導弾","ミッションコイン景品（65個）"]}
 {id:63,name:"ビームシューター",main:{pwr:26,shl:280,rng:275,spd:485,itv:600},type:"a",size:"M",cost:160}
 {id:2022209,name:"キューピッドシューター",type:"lacs",size:"M",cost:60,main:{pwr:14,shl:430,rng:250,spd:440,itv:400}}
 {id:20230103,name:"プリッツアシューター",type:"lacs",size:"M",cost:75,main:{pwr:10,shl:320,rng:250,spd:320,itv:500},comment:["誘導弾・EOエリザへの着弾で特殊アニメーション","プリッツアディスク：NPCシルビア（アリーナコイン50個）"]}
@@ -205,7 +205,7 @@
 
 {group:"ミサイル系",prefixID:"MS",commonStat:{tunable:{mwp:1}},nextID:333}
 {id:22,name:"V-2ウェイミサイル",type:"c",size:"L",cost:160,main:{pwr:17,shl:330,rng:330,spd:440,itv:1000}}
-{id:760,name:"バーティカルミサイル",main:{pwr:14,shl:240,rng:330,spd:350,itv:500},type:"c",size:"M",cost:100,comment:"ミッションコイン景品"}
+{id:760,name:"バーティカルミサイル",main:{pwr:14,shl:240,rng:330,spd:350,itv:500},type:"c",size:"M",cost:100,comment:"ミッションコイン景品（65個）"}
 
 {id:18,name:"コンパクトランチャー",type:"c",size:"S",cost:60,main:{pwr:13,shl:240,rng:330,spd:290,itv:600}}
 {id:20,name:"ロケットランチャー",type:"c",size:"M",cost:100,main:{pwr:19,shl:210,rng:330,spd:290,itv:800}}
@@ -235,7 +235,7 @@
 
 {id:78,name:"ラピッドパルスミサイル",main:{pwr:11,shl:350,rng:275,spd:350,itv:320},tunable:{mwp:1},type:"a",size:"M",cost:110,comment:"ビーム属性爆風50％"}
 {id:38,name:"ビームランチャー",main:{tec:100,pwr:27,shl:180,rng:275,spd:280,itv:1000},size:"L",type:"a",cost:100}
-{id:501,name:"スワロービームガン",main:{tec:100,pwr:12,shl:320,rng:275,spd:440,itv:540},tunable:{mwp:1},type:"a",size:"M",cost:80,comment:["ビーム爆風100％","爆風が2度発生する場合あり（要検証）","ミッションコイン景品"]}
+{id:501,name:"スワロービームガン",main:{tec:100,pwr:12,shl:320,rng:275,spd:440,itv:540},tunable:{mwp:1},type:"a",size:"M",cost:80,comment:["ビーム爆風100％","ミッションコイン景品（65個）"]}
 
 {id:20222021,name:"ガーディアンライフル",type:"a",size:"M",cost:80,main:{pwr:13,shl:400,rng:275,spd:280,itv:500},comment:["NPCコレッティ","ビーム爆風70％"]}
 {id:202308241,name:"ペペンランチャー",type:"a",size:"M",cost:85,main:{tec:100,pwr:20,shl:270,rng:275,spd:280,itv:700},comment:["パーツクリエイト",""]}
@@ -310,7 +310,7 @@
 {id:42,name:"フェノムマグネガン",type:"cs",size:"S",cost:110,main:{pwr:19,shl:270,rng:330,spd:290,itv:700}}
 {id:54,name:"ジニアスマグネガン",type:"c",size:"M",cost:140,main:{pwr:13,shl:440,rng:330,spd:290,itv:380}}
 {id:64,name:"ブラストマグネガン",main:{pwr:23,shl:230,rng:330,spd:290,itv:800},type:"c",size:"S",cost:120}
-{id:18,name:"マグネショットガン",main:{pwr:5,shl:1190,rng:330,spd:290,itv:900},size:"M",type:"c",cost:140,wlk:1,comment:"ミッションコイン景品"}
+{id:18,name:"マグネショットガン",main:{pwr:5,shl:1190,rng:330,spd:290,itv:900},size:"M",type:"c",cost:140,wlk:1,comment:"ミッションコイン景品（65個）"}
 
 
 
@@ -357,7 +357,7 @@
 {id:202303092,name:"ビットガン",main:{tec:100,pwr:7,shl:840,rng:275,spd:280,itv:900},tunable:{mwp:1},type:"a",size:"S",cost:120,comment:["マッハナイト・ゼロ初期装備"]}
 
 {id:202306143,name:"パラドックスカノン",main:{tec:100,pwr:14,shl:750,rng:275,spd:440,itv:160},size:"L",type:"a",cost:150,comment:"コラボイベントオーダー・混沌ドロップ"}
-{id:20221109,name:"ライトニングバスターR",main:{tec:100,pwr:21,shl:260,rng:275,spd:400,itv:700},tunable:{mwp:1},cost:80,type:"a",size:"M",comment:["ミッションコイン景品","ビーム爆風70％"]}
+{id:20221109,name:"ライトニングバスターR",main:{tec:100,pwr:21,shl:260,rng:275,spd:400,itv:700},tunable:{mwp:1},cost:80,type:"a",size:"M",comment:["ビーム爆風70％","ミッション周回報酬「茜空を越え、遥か彼方の星へ」（ヴェルズスウィーパー 3個）ミッションコイン景品（150個）"]}
 {id:20230804,name:"アウロラキャノンR",main:{tec:100,pwr:18,shl:400,rng:275,spd:440,itv:400},type:"a",size:"M",cost:80,comment:["ビーム属性爆風50％","アニマ・ゼータディスクβ（NPCステラ）"]}
 {id:202308041,name:"オルクトヴァッフェR",main:{tec:100,pwr:30,shl:210,rng:330,spd:500,itv:840},type:"c",size:"M",cost:130,comment:["","アニマ・ゼータディスクα（NPCナイア）"]}
 {id:20231211,name:"リーフロッド",main:{tec:100,pwr:12,shl:370,rng:275,spd:400,itv:500},tunable:{mwp:1},cost:70,type:"as",size:"S",comment:["ルボック初期装備・雪まつりオーダー景品",""]}
