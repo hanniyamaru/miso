@@ -36,7 +36,7 @@
 
 {id:17,name:"ビートルガン",type:"l",size:"M",cost:100,main:{pwr:19,shl:330,rng:225,spd:440,itv:500}}
 {id:500,name:"ヘラクビートルガン",type:"l",size:"M",cost:160,main:{pwr:27,shl:490,rng:225,spd:440,itv:500}}
-{id:2032,name:"ヘレポリスシューター",main:{tec:100,pwr:21,shl:400,rng:250,spd:400,itv:500},type:"l",size:"M",cost:110,comment:"混沌コイン景品"}
+{id:2032,name:"ヘレポリスシューター",main:{tec:100,pwr:21,shl:400,rng:250,spd:400,itv:500},type:"l",size:"M",cost:110,comment:["貫通弾","混沌コイン景品（65個）"]}
 
 {id:43,name:"シュリケンガン",type:"ls",size:"S",cost:80,main:{pwr:9,shl:880,rng:225,spd:440,itv:160},comment:["貫通効果",""]}
 {id:44,name:"ダイシュリケンガン",type:"l",size:"M",cost:130,main:{pwr:13,shl:800,rng:225,spd:440,itv:220},comment:["貫通効果",""]}
@@ -348,7 +348,7 @@
 {id:202203021,name:"ポリウスビームガン",main:{tec:100,pwr:15,shl:360,rng:275,spd:320,itv:500},tunable:{mwp:1},type:"a",size:"M",cost:110,comment:"ピエッタ・ST初期装備"}
 
 
-{id:202203163,name:"バフォグリーズガン",main:{tec:100,pwr:13,shl:660,rng:275,spd:400,itv:300},size:"M",type:"a",cost:85,comment:["混沌コイン景品","ビーム爆風50％"]}
+{id:202203163,name:"バフォグリーズガン",main:{tec:100,pwr:13,shl:660,rng:275,spd:400,itv:300},size:"M",type:"a",cost:85,comment:["ビーム爆風50％","混沌コイン景品（65個）"]}
 
 {id:202204142,name:"バイオロンボウ",size:"M",cost:120,type:"s",main:{tec:100,pwr:16,shl:330,rng:250,spd:250,itv:500},sub:{tec:100,pwr:20,shl:0,rng:0,spd:150,itv:1000},tunable:{mwp:1,pwp:0},comment:["アリーナコイン景品","バイオロン初期装備","射程：発射距離に影響せず、停止（消失）再誘導範囲に影響する"]}
 
