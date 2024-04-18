@@ -2,11 +2,11 @@
 {id:99999,name:"武器スロット.",slot:3,joint:{hdac:0,fcac:0,hd:0},comment:"ゲーム内機体参照の上、任意の個数増設してください"}
 
 {group:"cost10　ステ+1",prefixID:"SONO",nextID:10000}
-{id:1,name:"STR+1",size:"M",cost:10,str:1}
-{id:2,name:"TEC+1",size:"M",cost:10,tec:1}
-{id:3,name:"WLK+1",size:"M",cost:10,wlk:1}
-{id:4,name:"FLY+1",size:"M",cost:10,fly:1}
-{id:5,name:"TGH+1",size:"M",cost:10,tgh:1}
+{id:1,name:"STR+1",size:"M",cost:10,str:1,comment:["ニパ子テツジンガーGK（ミッションコイン10個）",""]}
+{id:2,name:"TEC+1",size:"M",cost:10,tec:1,comment:["ニパ子デストラクトGK（ミッションコイン10個）",""]}
+{id:3,name:"WLK+1",size:"M",cost:10,wlk:1,comment:["ニパ子キャノンボールGK（ミッションコイン10個）",""]}
+{id:4,name:"FLY+1",size:"M",cost:10,fly:1,comment:["ニパ子ソードウィングGK（ミッションコイン10個）",""]}
+{id:5,name:"TGH+1",size:"M",cost:10,tgh:1,comment:["文字1","文字2"]}
 
 {group:"シールド系",prefixID:"SL",nextID:4}
 {id:4,name:"シールド（cost:35）",cost:35,comment:["シールド耐久値93","以下同系パーツ","ハートシールド（イベント中域：ヴァンピレ）","クリスタライトシールド（各種コイン景品）","カタストロフシールド（プラチナチケット）","ヴェスピルシールド（各種コイン景品）","オネストシールド（プラチナチケット）"]}
