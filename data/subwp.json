@@ -243,6 +243,8 @@
 
 {group:"さくらコンバージョン",prefixID:"MOx",commonStat:{tunable:{pwp:1}},nextID:17}
 {id:202306082,name:"獄卒の勾玉",slot:0,type:"l",size:"S",comment:"サクラAM2専用コンバージョンパーツ",joint:{wp:4}}
+{id:20240418,name:"三つ目の勾玉",slot:3,type:"l",size:"S",comment:["専用のスロットパーツ","エンジェルコイン景品（25個）","獄卒の勾玉専用コンバージョンパーツ"]}
+
 {id:202306083,name:"すけだちの刀",sub:{pwr:28,rng:70,spd:85,itv:2000,str:100},cost:50,tunable:{pwp:1},type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
 {id:202306084,name:"杉の一本槍",sub:{str:100,pwr:25,rng:90,spd:110,itv:2000},cost:50,tunable:{pwp:1},type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
 {id:77,name:"文殊の守り",sub:{str:100,pwr:25,rng:150,spd:85,itv:2000},cost:50,type:"l",size:"S",comment:"獄卒の勾玉専用コンバージョンパーツ"}
