@@ -301,7 +301,7 @@
 {id:10,name:"レイスタッグBD",cost:405,capa:800,hp:245,str:5,tec:12,wlk:6,fly:13,tgh:9,wbid:1,cartridge:{hpup:18,lv1:"85*6@20|7@30|9@15|8@20|19@15|21@20|23@25|22@30|52@20|15@20|30@20|31@40|13@30|32@50|26@20"}}
 
 {id:20240112,name:"R・デュークBD",cost:405,capa:800,hp:245,str:4,tec:15,wlk:7,fly:12,tgh:7,wbid:74,cartridge:{hpup:18,lv1:"85*6@20|7@30|9@15|8@20|18@30|19@15|23@25|22@30|52@20|26@20|21@20|30@20|13@30|32@50|31@40"}}
-{id:48,name:"RAMソルジェッターBD",main:{str:100,pwr:3,shl:900,rng:275,spd:350,itv:460},cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|19@15|23@25|22@30|12@20|52@20|26@20|21@20|15@20|13@30|32@50|31@40"},cost:485,capa:870,hp:255,str:13,tec:5,wlk:7,fly:13,tgh:10,wbid:1,type:"a",size:"M"}
+{id:48,name:"RAMソルジェッターBD",main:{str:100,pwr:3,shl:900,rng:275,spd:350,itv:460},cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|19@15|23@25|22@30|12@20|52@20|26@20|21@20|15@20|13@30|32@50|31@40"},cost:485,capa:870,hp:255,str:13,tec:5,wlk:7,fly:13,tgh:10,wbid:1,type:"a",size:"M",comment:["","混沌コイン景品（140個）"]}
 
 {id:20220421,name:"V･ウンケンBD",sub:{shl:10,spd:150,itv:500},builtin:{bs:1},joint:{bs:0,hdac:1},cartridge:{hpup:18,lv1:"85*6@20|7@30|9@15|8@20|18@30|19@15|23@25|22@30|52@20|26@20|25@25|21@20|13@30|32@50|31@40"},type:"a",size:"M",cost:440,capa:800,hp:265,str:3,tec:15,wlk:5,fly:17,tgh:10,fixedParts:{hdac:["S1"],lg:{name:"V･ウンケンLG",main:{tec:100,pwr:13,shl:640,rng:275,spd:440,itv:580},sub:{shl:60,rng:100,spd:120,itv:1000},tunable:{mwp:1},cost:215,hp:25,str:-1,tec:3,wlk:2,fly:1,tgh:1}},wbid:1}
 
