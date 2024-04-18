@@ -83,7 +83,7 @@
 {id:202308021,name:"コロナBD2",cost:495,capa:900,hp:225,str:13,tec:4,wlk:13,fly:8,tgh:10,size:"S",type:"l",sub:{str:100,pwr:30,rng:110,spd:200,itv:[1000]},fixedParts:{lg:"コロナLG2",hd:{name:"コロナHD",cost:40,hp:25,str:2,wlk:1,fly:1,tgh:1,type:"l",size:"S"},am:[{name:"コロナAM",cost:40,hp:25,str:2,wlk:1,tgh:2,type:"l",size:"S",joint:{wp:1},comment:"MODE CHANGE省略"},{name:"コロナAM3",cost:40,type:"l",size:"S",joint:{wp:0},hp:25,str:1,wlk:2,tgh:2}]},cartridge:{lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|16@20|11@20|13@30|34@15|32@50|31@40",hpup:14},builtin:{bs:1}}
 
 
-{id:114,name:"サクラBD",builtin:{bs:1},fixedParts:{hd:{name:"サクラHD",cost:40,hp:20,tec:2,wlk:1,tgh:2,slot:0},lg:{name:"サクラLG",cost:45,hp:25,str:-1,tec:1,wlk:3,fly:1,tgh:2},am:[{name:"サクラAM",cost:40,hp:25,str:2,wlk:2,tgh:1,slot:0},{name:"サクラAM2",main:{shl:50,spd:10,itv:1000},joint:{wp:2},cost:60,hp:25,str:2,wlk:2,tgh:1,slot:0}]},cost:445,capa:920,hp:225,str:15,tec:4,wlk:12,fly:9,tgh:6,cartridge:{hpup:11,lv1:"3*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|16@20|21@20|13@30|34@15|32@50|31@40"}}
+{id:114,name:"サクラBD",builtin:{bs:1},fixedParts:{hd:{name:"サクラHD",cost:40,hp:20,tec:2,wlk:1,tgh:2,slot:0},lg:{name:"サクラLG",cost:45,hp:25,str:-1,tec:1,wlk:3,fly:1,tgh:2},am:[{name:"サクラAM",cost:40,hp:25,str:2,wlk:2,tgh:1,slot:0},{name:"サクラAM2",main:{shl:50,spd:10,itv:1000},joint:{wp:2},cost:60,hp:25,str:2,wlk:2,tgh:1,slot:0}]},cost:445,capa:920,hp:225,str:15,tec:4,wlk:12,fly:9,tgh:6,cartridge:{hpup:11,lv1:"3*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|16@20|21@20|13@30|34@15|32@50|31@40"},comment:["","混沌コイン景品（140個）"]}
 {id:134,name:"サニーBD",fixedParts:{hd:{name:"サニーHD",type:"l",size:"S",cost:40,hp:25,str:1,tec:1,fly:1,tgh:2},lg:{name:"サニーLG",cost:45,hp:25,wlk:3,fly:1,tgh:2,type:"l",size:"S"},am:[{name:"サニーAM",cost:40,hp:25,str:3,wlk:1,tgh:1,type:"l",size:"S"},{joint:{wp:2},name:"サニーAM2",type:"l",size:"S",cost:40,hp:25,str:3,wlk:1,tgh:1}]},cost:445,capa:900,hp:225,str:13,tec:3,wlk:16,fly:8,tgh:8,type:"l",size:"S",cartridge:{lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|16@20|21@20|13@30|34@15|32@50|31@40",hpup:14}}
 
 
@@ -221,7 +221,7 @@
 {id:12051,name:"ゼロセイバーRKBD",sub:{shl:[30],rng:[120],spd:[250],itv:1000},cartridge:{hpup:20,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|25@25|26@20|13@30|34@15|32@50|31@40"},type:"l",size:"S",wbid:5,cost:770,capa:810,hp:430,str:10,tec:10,wlk:40,fly:1,tgh:10,fixedParts:{hd:{name:"ゼロセイバーRKHD",slot:0},bs:{name:"ゼロセイバーRKBS",slot:0},lg:{name:"ゼロセイバーRKLG",slot:0},am:[{name:"ゼロセイバーRKAM",slot:0},{name:"ゼロセイバーRKAM",slot:0}]},comment:["専用メモリーはアクセ枠の物を使用してください","実機にアクセサリー枠はありません"]}
 
 {id:26,name:"ゼロファイターBD",cost:320,capa:635,hp:185,str:8,tec:8,wlk:11,fly:7,tgh:6,cartridge:{hpup:14,lv1:"95*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|16@20|28@30|26@20|13@30|32@50|31@40"}}
-{id:46,name:"ゼロファイターNEXTBD",cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|16@20|28@30|26@20|13@30|32@50|31@40"},cost:445,capa:850,hp:225,str:9,tec:9,wlk:14,fly:8,tgh:8}
+{id:46,name:"ゼロファイターNEXTBD",cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|16@20|28@30|26@20|13@30|32@50|31@40"},cost:445,capa:850,hp:225,str:9,tec:9,wlk:14,fly:8,tgh:8,comment:["","混沌コイン景品（140個）"]}
 {id:20231018,name:"タラバトロンBD",size:"S",type:"l",cost:365,capa:710,hp:200,str:7,tec:6,wlk:13,fly:7,tgh:9,wbid:13,cartridge:{hpup:22,lv1:"5*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|53@10|21@20|26@20|16@20|13@30|32@50|31@40"}}
 
 {id:42,name:"トノサマランダーBD",cost:405,capa:780,hp:210,str:7,tec:10,wlk:11,fly:9,tgh:8,wbid:5,cartridge:{hpup:18,lv1:"85*6@25|7@20|9@20|10@15|17@15|18@15||20@15|53@10|11@20|23@25|22@30|26@20|13@30|32@50|31@40"}}
@@ -462,7 +462,7 @@
 {id:20231212,name:"スライブロスBD",cost:490,capa:945,hp:305,str:9,tec:7,wlk:18,fly:7,tgh:10,wbid:8,cartridge:{hpup:10,lv1:"75*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|21@20|16@20|12@20|13@30|32@50|31@40"},comment:["","雪まつりオーダー景品"]}
 
 {id:202306093,name:"ゼウネシスBD",cartridge:{hpup:10,lv1:"75*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|16@20|15@15|28@30|21@20|13@30|32@50|31@40"},cost:510,capa:945,hp:305,str:13,tec:5,wlk:13,fly:7,tgh:13,wbid:17,auraSystem:1,comment:"AURA発動でシールド追加"}
-{id:32,name:"ゼロブレイカーBD",sub:{str:100,pwr:28,shl:[30],rng:[120],spd:[250],itv:2000},cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|16@20|30@20|26@20|13@30|32@50|31@40"},wbid:6,type:"l",size:"L",cost:475,capa:870,hp:290,str:9,tec:7,wlk:12,fly:8,tgh:12,comment:["2022/2/16修正","CT4秒"]}
+{id:32,name:"ゼロブレイカーBD",sub:{str:100,pwr:28,shl:[30],rng:[120],spd:[250],itv:2000},cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|16@20|30@20|26@20|13@30|32@50|31@40"},wbid:6,type:"l",size:"L",cost:475,capa:870,hp:290,str:9,tec:7,wlk:12,fly:8,tgh:12,comment:["2022/2/16修正","CT4秒","混沌コイン景品（140個）"]}
 
 
 
