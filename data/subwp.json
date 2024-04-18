@@ -156,7 +156,7 @@
 {id:3004,name:"デゴアックス",size:"L",cost:160,type:"a",sub:{str:100,pwr:28,rng:100,spd:180,itv:1000},tunable:{pwp:1}}
 
 {id:1009,name:"SBトリックミサイル",sub:{tec:100,pwr:9,shl:270,rng:275,spd:280,itv:1000},type:"a",size:"M",cost:60,comment:"クエストコイン景品"}
-{id:1008,name:"クリスタルパイルバンカー",sub:{tec:100,pwr:34,rng:100,spd:150,itv:1000},type:"l",size:"L",cost:70,tunable:{pwp:1},comment:["ミッションコイン景品","実弾属性","WLK依存"]}
+{id:1008,name:"クリスタルパイルバンカー",sub:{tec:100,pwr:34,rng:100,spd:150,itv:1000},type:"l",size:"L",cost:70,tunable:{pwp:1},comment:["実弾属性　WLK依存サブ","ミッションコイン景品（65個）"]}
 
 {id:18,name:"ゲソウィップ",sub:{str:100,pwr:26,rng:70,spd:85,itv:500},type:"s",size:"S",cost:80,tunable:{pwp:1},comment:"スクイドルガール初期装備"}
 
