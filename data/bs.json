@@ -12,9 +12,9 @@
 {id:79,name:"リグニションBS",type:"a",cost:70,hp:25,fly:4,tgh:1,sub:{pwr:1,shl:100,rng:10,spd:150,itv:1000},comment:"BSゲージ回復効果"}
 
 
-{id:122,name:"サイバーステップロゴBSα",cost:30,hp:15,tec:1,fly:3,comment:"ユニオンコイン景品"}
-{id:124,name:"サイバーステップロゴBSβ",cost:30,hp:15,wlk:1,fly:3,comment:"ユニオンコイン景品"}
-{id:125,name:"サイバーステップロゴBSγ",cost:30,hp:15,str:1,fly:3,comment:"ユニオンコイン景品"}
+{id:122,name:"サイバーステップロゴBSα",cost:30,hp:15,tec:1,fly:3,comment:"ユニオンコイン景品（80個）"}
+{id:124,name:"サイバーステップロゴBSβ",cost:30,hp:15,wlk:1,fly:3,comment:"ユニオンコイン景品（80個）"}
+{id:125,name:"サイバーステップロゴBSγ",cost:30,hp:15,str:1,fly:3,comment:"ユニオンコイン景品（80個）"}
 {id:461,name:"赤ランドセルBS",type:"lacs",cost:35,hp:20,wlk:1,fly:3,tgh:1,comment:["エンジェルコイン景品"]}
 {id:1210,name:"リュックリムBS",size:"M",type:"lacs",cost:35,hp:20,tec:1,wlk:1,fly:3,comment:["エンジェルコイン景品"]}
 {id:121,name:"リュックリリBS",size:"M",type:"lacs",cost:35,hp:20,tec:1,fly:3,tgh:1,comment:["エンジェルコイン景品"]}
@@ -865,7 +865,7 @@
 {id:12,name:"ムーランBSJ",size:"M",cost:40,hp:15,wlk:2,tgh:-1,slot:1,comment:"SHOP販売"}
 
 
-{id:13,name:"ヘカトケレスBSJ",main:{pwr:6,shl:360,rng:330,spd:290,itv:600},cost:40,size:"LL",type:"c",slot:1,tunable:{mwp:1},comment:"壁越しロックオン可能"}
+{id:13,name:"ヘカトケレスBSJ",main:{pwr:6,shl:360,rng:330,spd:290,itv:600},cost:40,size:"LL",type:"c",slot:1,tunable:{mwp:1},comment:["壁越しロックオン可能","ユニオンコイン景品（60個）"]}
 
 
 {group:"コンバージョンパーツ",nextID:0}
