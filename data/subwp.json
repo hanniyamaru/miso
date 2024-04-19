@@ -6,7 +6,7 @@
 {id:2,name:"TEC+1",size:"M",cost:10,tec:1,comment:["ニパ子デストラクトGK（ミッションコイン10個）",""]}
 {id:3,name:"WLK+1",size:"M",cost:10,wlk:1,comment:["ニパ子キャノンボールGK（ミッションコイン10個）",""]}
 {id:4,name:"FLY+1",size:"M",cost:10,fly:1,comment:["ニパ子ソードウィングGK（ミッションコイン10個）",""]}
-{id:5,name:"TGH+1",size:"M",cost:10,tgh:1,comment:["文字1","文字2"]}
+{id:5,name:"TGH+1",size:"M",cost:10,tgh:1,comment:["ユニオンバルーンDOS（ユニオンコイン80個）",""]}
 
 {group:"シールド系",prefixID:"SL",nextID:4}
 {id:4,name:"シールド（cost:35）",cost:35,comment:["シールド耐久値93","以下同系パーツ","ハートシールド（イベント中域：ヴァンピレ）","クリスタライトシールド（各種コイン景品）","カタストロフシールド（プラチナチケット）","ヴェスピルシールド（各種コイン景品）","オネストシールド（プラチナチケット）"]}
