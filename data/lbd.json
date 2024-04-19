@@ -174,7 +174,7 @@
 
 {group:"Ｓ陸ロボ",prefixID:"LS",commonStat:{size:"S",type:"l"},nextID:35}
 
-{id:87,name:"アルテリスBD",joint:{hdac:2,am:1},cartridge:{lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|16@20|25@25|30@20|13@30|32@50|31@40",hpup:14},fixedParts:{hdac:["S1","S1"],am:{name:"アルテリスAM",main:{pwr:19,shl:340,rng:225,spd:440,itv:400},sub:{tec:100,pwr:36,rng:70,spd:85,itv:500},tunable:{mwp:1,pwp:1},fixedParts:{wp:{name:"アルテリスボウ",cost:100,main:{pwr:50,shl:150,rng:250,spd:400,itv:600},tunable:{mwp:1},comment:["チャージ攻撃　0：0.5倍　1：1.2倍","文字2"]}},type:"l",size:"S",cost:165,hp:50,str:-2,tec:4,wlk:4,tgh:4}},type:"l",size:"S",cost:445,capa:885,hp:225,str:3,tec:12,wlk:11,fly:7,tgh:7,wbid:6}
+{id:87,name:"アルテリスBD",joint:{hdac:2,am:1},cartridge:{lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|16@20|25@25|30@20|13@30|32@50|31@40",hpup:14},fixedParts:{hdac:["S1","S1"],am:{name:"アルテリスAM",main:{pwr:19,shl:340,rng:225,spd:440,itv:400},sub:{tec:100,pwr:36,rng:70,spd:85,itv:500},tunable:{mwp:1,pwp:1},fixedParts:{wp:{name:"アルテリスボウ",cost:100,main:{pwr:50,shl:150,rng:250,spd:400,itv:600},tunable:{mwp:1},comment:["チャージ攻撃　0：0.5倍　1：1.2倍",""]}},type:"l",size:"S",cost:165,hp:50,str:-2,tec:4,wlk:4,tgh:4}},type:"l",size:"S",cost:445,capa:885,hp:225,str:3,tec:12,wlk:11,fly:7,tgh:7,wbid:6,comment:["ユニオンコイン景品（120個）",""]}
 {id:2023070631,name:"アルテリスBD2",fixedParts:{hdac:["S1","S1"],am:{main:{tec:100,pwr:20,shl:50,rng:200,spd:570,itv:500},tunable:{mwp:1},fixedParts:{wp:{main:{tec:100,pwr:52,shl:150,rng:250,spd:400,itv:600},sub:{shl:0,rng:0,spd:150,itv:1000},tunable:{mwp:1},name:"アルテリスボウⅡ",cost:140}},name:"アルテリスAM2",cost:110,hp:50,str:-2,tec:5,wlk:4,tgh:3}},cost:445,capa:885,hp:225,str:3,tec:11,wlk:10,fly:8,tgh:8,size:"S",type:"l",wbid:6,comment:"",cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|16@20|25@25|30@20|13@30|32@50|31@40"},joint:{hdac:2,am:1},comment:"エレ・アルテリス"}
 
 
@@ -382,7 +382,7 @@
 
 
 
-{id:541,name:"ライオスBD",cost:445,capa:870,hp:255,str:9,tec:9,wlk:14,fly:6,tgh:10,cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|16@20|28@30|14@20|13@30|32@50|31@40"}}
+{id:541,name:"ライオスBD",cost:445,capa:870,hp:255,str:9,tec:9,wlk:14,fly:6,tgh:10,cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|16@20|28@30|14@20|13@30|32@50|31@40"},comment:["ユニオンコイン景品（210個・BRD陣営のみ購入可能）",""]}
 {id:25,name:"ルッカ・デーコBD",cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|25@25|30@20|26@20|13@30|32@50|31@40"},cost:465,capa:870,hp:260,str:4,tec:10,wlk:16,fly:7,tgh:11,sub:{rng:250,spd:10,itv:1000},wbid:38,comment:["BD@省略cost+20複合"]}
 {id:47,name:"ルッカ・デーコBD2",cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|25@25|30@20|26@20|13@30|32@50|31@40"},cost:465,capa:870,hp:260,str:4,tec:11,wlk:15,fly:6,tgh:12,sub:{rng:250,spd:10,itv:1000},wbid:38,comment:["ルッカ・デーコTT","BD@省略cost+20複合"]}
 
