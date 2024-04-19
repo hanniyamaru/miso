@@ -17,9 +17,9 @@
 {id:2108,name:"ナイトシールド",type:"l",size:"S",cost:50,main:{str:100,pwr:18,shl:200,rng:250,spd:480,itv:300},tunable:{mwp:1},comment:["シールド耐久値105","STR依存"]}
 {id:17,name:"ブリッツシールド",main:{spd:10,itv:1000,shl:50},sub:{pwr:27,rng:70,spd:85,itv:1000,str:100},type:"l",size:"S",cost:70,tunable:{mwp:1,pwp:1},comment:"B・ポーンジャーAr初期装備"}
 
-{id:20220802,name:"ユニオンシールドBRD",main:{str:100,pwr:0,shl:50,rng:0,spd:10,itv:1000},tunable:{mwp:1,pwp:0},type:"a",size:"M",cost:35,comment:["BRD:空戦のみ・ブースト回復効果"]}
-{id:202206030,name:"ユニオンシールドDOS",main:{str:100,pwr:0,shl:50,rng:0,spd:10,itv:1000},tunable:{mwp:1,pwp:0},type:"l",size:"M",cost:30,comment:["DOS:陸戦のみ・クリムゾンベール効果"]}
-{id:2022060301,name:"ユニオンシールドWIZ",main:{str:100,pwr:0,shl:50,rng:0,spd:10,itv:1000},tunable:{mwp:1,pwp:0},type:"c",size:"M",cost:30,comment:["WIZ:砲戦のみ"]}
+{id:20220802,name:"ユニオンシールドBRD",main:{str:100,pwr:0,shl:50,rng:0,spd:10,itv:1000},tunable:{mwp:1,pwp:0},type:"a",size:"M",cost:35,comment:["BRD：空戦のみ・ブースト回復効果"]}
+{id:202206030,name:"ユニオンシールドDOS",main:{str:100,pwr:0,shl:50,rng:0,spd:10,itv:1000},tunable:{mwp:1,pwp:0},type:"l",size:"M",cost:30,comment:["DOS：陸戦のみ・クリムゾンベール効果"]}
+{id:2022060301,name:"ユニオンシールドWIZ",main:{str:100,pwr:0,shl:50,rng:0,spd:10,itv:1000},tunable:{mwp:1,pwp:0},type:"c",size:"M",cost:30,comment:["WIZ：砲戦のみ"]}
 
 
 {group:"ソード系",prefixID:"SW",commonStat:{tunable:{pwp:1}},nextID:27}
@@ -73,7 +73,7 @@
 {id:1,name:"カッター",size:"SS",cost:25,sub:{str:100,pwr:26,rng:105,spd:128,itv:500}}
 {id:2,name:"サバイバルナイフ",size:"S",cost:55,sub:{str:100,pwr:28,rng:105,spd:128,itv:500}}
 {id:4,name:"インテグラルナイフ",size:"M",type:"l",cost:100,sub:{str:100,pwr:31,rng:105,spd:128,itv:500}}
-{id:7,name:"ダマスクスナイフ",size:"M",type:"l",cost:140,sub:{str:100,pwr:31,rng:105,spd:128,itv:1000}}
+{id:7,name:"ダマスクスナイフ",size:"M",type:"l",cost:140,sub:{str:100,pwr:31,rng:105,spd:128,itv:1000},comment:["因果コイン景品（20個）"]}
 {id:10,name:"サイドロンナイフ",type:"l",cost:80,size:"M",sub:{pwr:28,rng:84,spd:102,itv:2000,str:100},tunable:{pwp:1}}
 {id:20230407,name:"07式サバイバルナイフ",type:"lcs",cost:90,size:"M",sub:{pwr:31,rng:91,spd:111,itv:1000,str:100},tunable:{pwp:1},comment:["速度はWLK・FLYの高い方に依存","コラボイベントオーダー景品"]}
 
@@ -144,12 +144,12 @@
 
 {group:"その他（順不同）",prefixID:"SO",nextID:17}
 
-{id:1,name:"ブランクスタッフ",size:"S",cost:40,sub:{str:100,pwr:28,rng:77,spd:94,itv:500},tunable:{pwp:1}}
-{id:2,name:"ホムラスタッフ",size:"M",cost:90,sub:{pwr:25,shl:180,rng:250,spd:290,itv:1000},comment:"別武器へコンボ可能（始動のみ）"}
-{id:3,name:"※カムイスタッフ",size:"M",cost:160,sub:{str:100,pwr:32,rng:91,spd:110,itv:500},tunable:{pwp:1},comment:["以下同数値の共通武器","デモンブレード","スイーツフォーク"]}
+{id:1,name:"ブランクスタッフ",size:"S",cost:40,sub:{str:100,pwr:28,rng:77,spd:94,itv:500},tunable:{pwp:1},comment:["因果コイン景品（8個）"]}
+{id:2,name:"ホムラスタッフ",size:"M",cost:90,sub:{pwr:25,shl:180,rng:250,spd:290,itv:1000},comment:"実弾属性　別武器へコンボ可能（始動のみ）","因果コイン景品（60個）"}
+{id:3,name:"※カムイスタッフ",size:"M",cost:160,sub:{str:100,pwr:32,rng:91,spd:110,itv:500},tunable:{pwp:1},comment:["因果コイン景品（60個）","以下同数値の共通武器","デモンブレード","スイーツフォーク"]}
 
 
-{id:3000,name:"ハクメンスクナアニマ",size:"M",cost:150,type:"l",sub:{str:100,pwr:34,rng:70,spd:85,itv:500},tunable:{pwp:1}}
+{id:3000,name:"ハクメンスクナアニマ",size:"M",cost:150,type:"l",sub:{str:100,pwr:34,rng:70,spd:85,itv:500},tunable:{pwp:1},comment:["因果コイン景品（240個）"]}
 {id:3001,name:"ポイーンブレード",size:"M",cost:160,type:"a",sub:{str:100,pwr:33,rng:70,spd:85,itv:500},tunable:{pwp:1}}
 {id:3002,name:"ゲルニアハンマー",size:"L",cost:120,type:"l",sub:{str:100,pwr:28,rng:100,spd:85,itv:1000},tunable:{pwp:1}}
 {id:3003,name:"ガルドダガー",size:"S",cost:120,type:"l",sub:{str:100,pwr:28,rng:100,spd:250,itv:500},tunable:{pwp:1}}
