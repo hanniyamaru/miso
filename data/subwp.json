@@ -126,8 +126,8 @@
 
 
 {group:"ダガー系",prefixID:"DG",nextID:6}
-{id:1,name:"3ウェイダガー",type:"las",size:"S",cost:50,str:-1,tec:-1,sub:{str:100,pwr:25,rng:70,spd:180,itv:1400},comment:"未実装"}
-{id:2,name:"コンビネーションダガー",type:"la",size:"S",cost:120,sub:{str:100,pwr:24,rng:80,spd:180,itv:1000}}
+{id:1,name:"3ウェイダガー",type:"las",size:"S",cost:50,str:-1,tec:-1,sub:{str:100,pwr:25,rng:70,spd:180,itv:1400},comment:"β装備品・未実装"}
+{id:2,name:"コンビネーションダガー",type:"la",size:"S",cost:120,sub:{str:100,pwr:24,rng:80,spd:180,itv:1000},comment:["クエストコイン景品（80個）",""]}
 {id:202303092,name:"シノビダガー",sub:{tec:100,pwr:15,shl:270,rng:250,spd:480,itv:1000},tunable:{pwp:0},type:"l",size:"S",cost:60,comment:["サブロック系パーツのみコンボ可能","シャドウハンター初期装備"]}
 
 
@@ -150,12 +150,12 @@
 
 
 {id:3000,name:"ハクメンスクナアニマ",size:"M",cost:150,type:"l",sub:{str:100,pwr:34,rng:70,spd:85,itv:500},tunable:{pwp:1},comment:["因果コイン景品（240個）"]}
-{id:3001,name:"ポイーンブレード",size:"M",cost:160,type:"a",sub:{str:100,pwr:33,rng:70,spd:85,itv:500},tunable:{pwp:1}}
-{id:3002,name:"ゲルニアハンマー",size:"L",cost:120,type:"l",sub:{str:100,pwr:28,rng:100,spd:85,itv:1000},tunable:{pwp:1}}
-{id:3003,name:"ガルドダガー",size:"S",cost:120,type:"l",sub:{str:100,pwr:28,rng:100,spd:250,itv:500},tunable:{pwp:1}}
-{id:3004,name:"デゴアックス",size:"L",cost:160,type:"a",sub:{str:100,pwr:28,rng:100,spd:180,itv:1000},tunable:{pwp:1}}
+{id:3001,name:"ポイーンブレード",size:"M",cost:160,type:"a",sub:{str:100,pwr:33,rng:70,spd:85,itv:500},tunable:{pwp:1},comment:["クエストコイン景品（200個）",""]}
+{id:3002,name:"ゲルニアハンマー",size:"L",cost:120,type:"l",sub:{str:100,pwr:28,rng:100,spd:85,itv:1000},tunable:{pwp:1},comment:["クエストコイン景品（200個）",""]}
+{id:3003,name:"ガルドダガー",size:"S",cost:120,type:"l",sub:{str:100,pwr:28,rng:100,spd:250,itv:500},tunable:{pwp:1},comment:["クエストコイン景品（200個）",""]}
+{id:3004,name:"デゴアックス",size:"L",cost:160,type:"a",sub:{str:100,pwr:28,rng:100,spd:180,itv:1000},tunable:{pwp:1},comment:["クエストコイン景品（200個）",""]}
 
-{id:1009,name:"SBトリックミサイル",sub:{tec:100,pwr:9,shl:270,rng:275,spd:280,itv:1000},type:"a",size:"M",cost:60,comment:"クエストコイン景品"}
+{id:1009,name:"SBトリックミサイル",sub:{tec:100,pwr:9,shl:270,rng:275,spd:280,itv:1000},type:"a",size:"M",cost:60,comment:["クエストコイン景品（80個）",""]}
 {id:1008,name:"クリスタルパイルバンカー",sub:{tec:100,pwr:34,rng:100,spd:150,itv:1000},type:"l",size:"L",cost:70,tunable:{pwp:1},comment:["実弾属性　WLK依存サブ","ミッションコイン景品（65個）"]}
 
 {id:18,name:"ゲソウィップ",sub:{str:100,pwr:26,rng:70,spd:85,itv:500},type:"s",size:"S",cost:80,tunable:{pwp:1},comment:"スクイドルガール初期装備"}
