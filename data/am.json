@@ -1061,7 +1061,7 @@
 {id:1,name:"ウィングプラスAMJ",size:"S",cost:20,wlk:-1,fly:2,builtin:{bs:1},slot:1}
 {id:24,name:"ギガンベルグAMJ",main:{pwr:8,shl:400,rng:250,spd:320,itv:1200},tunable:{mwp:1},cost:40,slot:1,size:"M",type:"lc"}
 {id:13,name:"ギミックランチャーAMJ",main:{pwr:7,shl:280,rng:330,spd:290,itv:600},type:"c",size:"M",cost:60,tec:1,wlk:-1,tgh:1,slot:1,tunable:{mwp:1}}
-{id:99,name:"クリスタルビットAMJ",tunable:{pwp:0,mwp:0},type:"a",size:"M",cost:40,slot:1,main:{tec:100,pwr:6,shl:350,rng:275,spd:350,itv:320}}
+{id:99,name:"クリスタルビットAMJ",tunable:{pwp:0,mwp:0},type:"a",size:"M",cost:40,slot:1,main:{tec:100,pwr:6,shl:350,rng:275,spd:350,itv:320},comment:"結晶コイン景品（40個）"}
 {id:15,name:"コメットランチャーAMJ",type:"c",size:"M",cost:50,slot:1,main:{pwr:8,shl:440,rng:330,spd:320,itv:340},tunable:{mwp:1},comment:"イルミス付属AMJ"}
 
 {id:33,name:"サイコフォーミュラAMJ",main:{pwr:7,shl:560,rng:330,spd:300,itv:740},cost:40,slot:1,size:"S",type:"c",tunable:{mwp:1},comment:"サイコフォーミュラ轟"}
