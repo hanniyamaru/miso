@@ -49,8 +49,6 @@
 
 {group:"ビームガン系",prefixID:"BG",commonStat:{tunable:{mwp:1}},nextID:60}
 
-{id:71,name:"AURAライトニングガン",main:{pwr:15,shl:240,rng:250,spd:440,itv:700},auraStat:{main:{pwr:18,shl:240,rng:250,spd:440,itv:700}},type:"a",size:"S",cost:70,comment:["AURA機構","エンジェルコイン景品（75個）"]}
-{id:105,name:"クリスタルビームガン",size:"M",cost:110,main:{pwr:28,shl:280,rng:275,spd:440,itv:600,tec:100},type:"a",comment:"-"}
 {id:24,name:"ビームガン",size:"S",cost:30,main:{pwr:10,shl:420,rng:275,spd:500,itv:440}}
 {id:27,name:"ワイドビームガン",type:"as",size:"S",cost:50,main:{pwr:16,shl:300,rng:275,spd:460,itv:600}}
 {id:26,name:"ダブルビームガン",type:"as",size:"S",cost:60,main:{pwr:8,shl:620,rng:275,spd:500,itv:560}}
@@ -62,10 +60,13 @@
 {id:33,name:"カーブガン",type:"as",size:"S",cost:50,main:{pwr:8,shl:600,rng:275,spd:480,itv:300}}
 {id:34,name:"スイングガン",type:"a",size:"M",cost:90,main:{pwr:9,shl:760,rng:275,spd:480,itv:260}}
 
-{id:70,name:"アクセルビームガン",main:{pwr:15,shl:440,rng:275,spd:570,itv:400},type:"a",size:"M",cost:100}
 {id:37,name:"パルスガン",size:"S",cost:40,main:{pwr:9,shl:300,rng:275,spd:480,itv:600}}
 {id:38,name:"エレキガン",type:"s",size:"S",cost:90,main:{pwr:15,shl:300,rng:275,spd:400,itv:600}}
 {id:39,name:"パラライズガン",type:"s",size:"S",cost:140,main:{pwr:24,shl:300,rng:275,spd:360,itv:600}}
+{id:70,name:"アクセルビームガン",main:{pwr:15,shl:440,rng:275,spd:570,itv:400},type:"a",size:"M",cost:100}
+{id:71,name:"AURAライトニングガン",main:{pwr:15,shl:240,rng:250,spd:440,itv:700},auraStat:{main:{pwr:18,shl:240,rng:250,spd:440,itv:700}},type:"a",size:"S",cost:70,comment:["AURA機構","エンジェルコイン景品（75個）"]}
+{id:105,name:"クリスタルビームガン",size:"M",cost:110,main:{pwr:28,shl:280,rng:275,spd:440,itv:600,tec:100},type:"a",comment:"結晶コイン景品（20個）"}
+
 {id:89,name:"ライトニングキャノン",main:{pwr:18,shl:560,rng:275,spd:440,itv:300},type:"a",size:"L",cost:150}
 {id:502,name:"サンダーシューター",main:{pwr:13,tec:100,shl:580,rng:275,spd:440,itv:300},tunable:{mwp:1},cost:140,type:"a",size:"M"}
 
@@ -87,7 +88,7 @@
 {id:22,name:"ダブルガトリング",type:"l",size:"LL",cost:210,main:{pwr:7,shl:2840,rng:250,spd:400,itv:140},comment:"未実装:2022/10/12"}
 {id:26,name:"LLバルクガトリング",main:{pwr:15,shl:1200,rng:225,spd:400,itv:140},type:"l",size:"LL",cost:220}
 {id:8,name:"ビームマシンガン",type:"as",size:"S",cost:90,main:{pwr:9,shl:580,rng:200,spd:480,itv:140}}
-{id:9,name:"ダブルビームマシンガン",type:"a",size:"S",cost:130,main:{pwr:6,shl:1170,rng:200,spd:480,itv:140}}
+{id:9,name:"ダブルビームマシンガン",type:"a",size:"S",cost:130,main:{pwr:6,shl:1170,rng:200,spd:480,itv:140},comment:"結晶コイン景品（13個）"}
 {id:21,name:"ビームガトリング",main:{pwr:9,shl:1020,rng:250,spd:480,itv:140},type:"a",size:"LL",cost:140}
 {id:29,name:"ダブルビームガトリング",main:{pwr:6,shl:2400,rng:250,spd:480,itv:140},tunable:{mwp:1},size:"LL",type:"a",cost:200}
 {id:33,name:"ヒートガトリング",main:{tec:100,pwr:10,shl:1200,rng:330,spd:440,itv:140},size:"M",cost:160,type:"c"}
@@ -120,7 +121,7 @@
 {group:"ブレイカー系",prefixID:"BK",commonStat:{tunable:{mwp:1}},nextID:60}
 {id:11,name:"サーキットブレイカー",type:"cs",size:"SS",cost:45,main:{pwr:14,shl:200,rng:330,spd:480,itv:540}}
 {id:12,name:"アーマーブレイカー",type:"c",size:"M",cost:60,main:{pwr:38,shl:80,rng:330,spd:480,itv:1000}}
-{id:13,name:"デバイスブレイカー",type:"c",size:"M",cost:90,main:{pwr:33,shl:150,rng:330,spd:480,itv:1000}}
+{id:13,name:"デバイスブレイカー",type:"c",size:"M",cost:90,main:{pwr:33,shl:150,rng:330,spd:480,itv:1000},comment:"結晶コイン景品（13個）"}
 {id:14,name:"コアブレイカー",type:"c",size:"M",cost:140,main:{pwr:39,shl:150,rng:350,spd:480,itv:1000}}
 {id:15,name:"ストラクトブレイカー",type:"c",size:"L",cost:200,main:{pwr:50,shl:120,rng:350,spd:480,itv:1000}}
 {id:26,name:"ガトリングブレイカー",main:{pwr:14,shl:1400,rng:350,spd:480,itv:200},size:"L",type:"c",cost:210}
@@ -200,7 +201,7 @@
 
 {id:61,name:"プラズマビームキャノン",main:{pwr:34,shl:220,rng:275,spd:400,itv:740},cost:180,size:"M",type:"a"}
 {id:68,name:"チャージビームキャノン",main:{pwr:32,shl:150,rng:275,spd:440,itv:1000},type:"a",size:"L",cost:120}
-{id:29,name:"スターダストキャノン",type:"a",size:"LL",cost:130,main:{pwr:38,shl:240,rng:275,spd:400,itv:900}}
+{id:29,name:"スターダストキャノン",type:"a",size:"LL",cost:130,main:{pwr:38,shl:240,rng:275,spd:400,itv:900},comment:"結晶コイン景品（20個）"}
 {id:56,name:"ビームポンプバズーカ",main:{pwr:23,shl:240,rng:275,spd:360,itv:760},type:"a",size:"M",cost:100,comment:["STRで範囲変化","エンジェルコイン景品（75個）"]}
 {id:2022112,name:"ビームボムランチャー",main:{pwr:30,shl:360,rng:100,spd:300,itv:1000},type:"a",size:"M",cost:80}
 {id:168,name:"SBC-ビームキャノン",main:{tec:100,pwr:32,shl:200,rng:275,spd:440,itv:1000},cost:160,type:"a",size:"M",comment:"-"}
@@ -235,7 +236,7 @@
 {id:202302163,name:"グランダムランチャー",main:{tec:100,pwr:11,shl:600,rng:330,spd:290,itv:300},tunable:{mwp:1},type:"c",size:"M",cost:100,comment:["パーツクリエイト",""]}
 
 
-{id:78,name:"ラピッドパルスミサイル",main:{pwr:11,shl:350,rng:275,spd:350,itv:320},tunable:{mwp:1},type:"a",size:"M",cost:110,comment:"ビーム属性爆風50％"}
+{id:78,name:"ラピッドパルスミサイル",main:{pwr:11,shl:350,rng:275,spd:350,itv:320},tunable:{mwp:1},type:"a",size:"M",cost:110,comment:["ビーム属性爆風50％","結晶コイン景品（20個）"]}
 {id:38,name:"ビームランチャー",main:{tec:100,pwr:27,shl:180,rng:275,spd:280,itv:1000},size:"L",type:"a",cost:100}
 {id:501,name:"スワロービームガン",main:{tec:100,pwr:12,shl:320,rng:275,spd:440,itv:540},tunable:{mwp:1},type:"a",size:"M",cost:80,comment:["ビーム爆風100％","ミッションコイン景品（65個）"]}
 
@@ -265,7 +266,7 @@
 {group:"ショットガン系",prefixID:"ST",commonStat:{tunable:{mwp:1}},nextID:14}
 
 {id:1,name:"ショットガン",size:"M",cost:50,main:{pwr:10,shl:1090,rng:150,spd:400,itv:560},auraStat:{comment:["距離減衰・実弾系ショットガン・カスタムショットガン","武器表記威力が命中距離によって割合で減少し、その後にTEC計算される","威力50%~100%"]}}
-{id:2,name:"カスタムショットガン",size:"L",cost:70,main:{pwr:11,shl:1120,rng:150,spd:400,itv:560}}
+{id:2,name:"カスタムショットガン",size:"L",cost:70,main:{pwr:11,shl:1120,rng:150,spd:400,itv:560},comment:"結晶コイン景品（20個）"}
 {id:3,name:"スイーパーショットガン",type:"lc",size:"L",cost:90,main:{pwr:14,shl:910,rng:150,spd:400,itv:720}}
 {id:21,name:"アドバンスショットガン",main:{tec:100,pwr:11,shl:1120,rng:250,spd:400,itv:500},tunable:{mwp:1},type:"l",size:"M",cost:150}
 {id:4,name:"シールドショットガン",type:"lcs",size:"LL",cost:90,main:{pwr:8,shl:990,rng:150,spd:400,itv:680},comment:"シールド耐久値180"}
@@ -296,7 +297,7 @@
 {id:6,name:"ハンドレーザー",type:"as",size:"M",cost:60,main:{pwr:8,shl:960,rng:200,spd:480,itv:100},comment:["ダメージ0.7倍",""]}
 {id:7,name:"レーザー",type:"a",size:"M",cost:100,main:{pwr:11,shl:1020,rng:200,spd:480,itv:100},comment:["ダメージ0.7倍",""]}
 {id:11,name:"プロトンレーザー",type:"a",size:"L",cost:160,main:{pwr:14,shl:1020,rng:200,spd:480,itv:100},comment:["ダメージ0.7倍",""]}
-{id:10,name:"パワードレーザー",type:"a",size:"L",cost:150,main:{pwr:16,shl:750,rng:200,spd:480,itv:100},comment:["ダメージ0.7倍",""]}
+{id:10,name:"パワードレーザー",type:"a",size:"L",cost:150,main:{pwr:16,shl:750,rng:200,spd:480,itv:100},comment:["ダメージ0.7倍","結晶コイン景品（20個）"]}
 {id:20211031,name:"グラヴィトンカノンα",main:{pwr:17,shl:650,rng:250,spd:480,itv:100},tunable:{mwp:0},joint:{wp:1},fixedParts:{wp:[{main:{pwr:9,shl:600,rng:275,spd:480,itv:900},name:"グラヴィトンカノン@2",slot:0,comment:["BEAM RIFLE","ライフル弾・追撃弾は同威力"]}]},type:"a",cost:180,size:"M",comment:["LASER","ダメージ0.7倍？　武器チューン不可","ナイトギアディスク"]}
 {id:12,name:"レーザーライフル",type:"a",size:"M",cost:130,main:{pwr:11,shl:420,rng:275,spd:480,itv:100},comment:["ダメージ0.7倍",""]}
 {id:2022113,name:"ハドロンシューター",type:"lc",size:"M",cost:160,main:{pwr:15,shl:1040,rng:180,spd:480,itv:100},comment:["ダメージ0.7倍","スキロン初期装備"]}
@@ -324,7 +325,7 @@
 {id:45,name:"ドローガン",size:"S",cost:50,main:{pwr:8,shl:300,rng:250,spd:480,itv:500},type:"s"}
 {id:88,name:"チェーンドローガン",size:"S",cost:80,main:{pwr:5,shl:500,rng:250,spd:480,itv:200},type:"s"}
 
-{id:6551,name:"フラクタリスアニマ",main:{tec:100,pwr:7,shl:800,rng:275,spd:400,itv:200},tunable:{mwp:1},size:"M",type:"a",cost:200,comment:["フォース系のチューンは子弾の威力が変化した場合のみキャノンの威力にも影響する","キャノン：威力？ 爆風50％","ブースト回復効果"]}
+{id:6551,name:"フラクタリスアニマ",main:{tec:100,pwr:7,shl:800,rng:275,spd:400,itv:200},tunable:{mwp:1},size:"M",type:"a",cost:200,comment:["フォース系のチューンは子弾の威力が変化した場合のみキャノンの威力にも影響する","キャノン：威力？ 爆風50％　ブースト回復効果","結晶コイン景品（150個）"]}
 
 {id:6552,name:"ベルゼイラフアニマ",main:{tec:100,pwr:23,shl:1050,rng:350,spd:400,itv:500},tunable:{mwp:1},size:"M",type:"c",cost:200,comment:["サイガン比率1：2　自軍貫通","βテスト時の表記威力8","欲望コイン景品（200個）"]}
 
