@@ -856,7 +856,7 @@
 {id:2022114,name:"パーポAM",size:"L",cost:35,hp:20,str:2,wlk:2,fly:-1,tgh:2}
 
 {id:202301182,name:"バクサイガーAM",type:"c",cost:75,hp:20,str:-1,tec:3,tgh:3,main:{tec:100,pwr:22,shl:210,rng:330,spd:250,itv:700},tunable:{mwp:1},joint:{wp:0},comment:"Season8アリーナコイン景品"}
-{id:790,name:"ハクメンスクナAM",cost:40,hp:25,str:1,tec:1,fly:2,tgh:1}
+{id:790,name:"ハクメンスクナAM",cost:40,hp:25,str:1,tec:1,fly:2,tgh:1,comment:["","因果コイン景品（95個）"]}
 {id:20221030,name:"ハザードメガトンAM",type:"lc",cost:100,hp:15,str:3,tec:1,wlk:1,fly:-1,sub:{str:100,pwr:34,rng:49,spd:60,itv:1000},tunable:{pwp:1},joint:{wp:0},comment:["イベント宙域","シュタインズキューブ"]}
 {id:202210301,name:"ハザードメガトンAM2",size:"L",cost:45,hp:15,str:1,tec:3,wlk:-2,fly:-2,tgh:5,joint:{wp:0},comment:["イベント宙域","シュタインズキューブ"]}
 
