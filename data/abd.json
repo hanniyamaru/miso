@@ -196,6 +196,7 @@
 
 {id:12,name:"ヴィクトルBD",main:{str:100,pwr:[15],shl:[100],rng:250,spd:500,itv:500},sub:{str:100,pwr:[30],shl:[0],rng:200,spd:350,itv:1000},cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|19@15|23@25|22@30|52@20|51@30|18@30|21@20|13@30|39@15|32@50|31@40"},fixedParts:{hd:{name:"ヴィクトルHD",cost:40,hp:25,str:3,fly:2},lg:{name:"ヴィクトルLG",sub:{pwr:28,shl:300,rng:77,spd:94,itv:1000,str:100},tunable:{mwp:1,pwp:1},auraStat:{main:{tec:100,pwr:0,shl:100,rng:0,spd:10,itv:1000},sub:{pwr:32,shl:300,rng:77,spd:94,itv:1000,str:100}},cost:115,hp:25,str:2,tec:-1,wlk:2,fly:2,tgh:1,joint:{bs:1}},am:[{name:"ヴィクトルAM",cost:40,hp:25,str:4,wlk:-1,fly:1,tgh:1},{name:"ヴィクトルAM",cost:40,hp:25,str:4,wlk:-1,fly:1,tgh:1}]},cost:445,capa:920,hp:255,str:12,tec:5,wlk:9,fly:12,tgh:10,wbid:1,auraSystem:1,builtin:{bs:1},comment:["ヘル・ヴィクトル","強化はauraで反映"]}
 
+{id:23,name:"ライオスαBD",cartridge:{lv1:"85*6@20|7@30|9@15|8@20|51@30|19@15|23@25|22@30|28@30|52@20|21@20|25@25|13@30|32@50|31@40",hpup:18},fixedParts:{hd:{name:"ライオスαHD",cost:40,hp:25,str:2,tec:-2,wlk:1,fly:2,tgh:2},bs:{name:"ライオスαBS",sub:{str:100,pwr:28,shl:30,rng:150,spd:350,itv:1000},cost:90,hp:25,wlk:-1,fly:3,tgh:3,tunable:{pwp:1}},lg:{name:"ライオスαLG",cost:45,hp:25,str:1,tec:-1,wlk:3,fly:2},am:[{name:"ライオスαAM",cost:35,hp:20,str:2,tec:2,tgh:1,joint:{wp:1}},{name:"ライオスαAM2",sub:{rng:0,spd:0,itv:1000},joint:{wp:2},fixedParts:{wp:{name:"ブレイダインソウル",main:{pwr:8,shl:600,rng:275,spd:350,itv:1000,str:100},sub:{pwr:28,rng:70,spd:85,itv:500,str:100},cost:180,tunable:{mwp:1,pwp:1}}},cost:35,hp:20,str:2,tec:2,tgh:1}]},auraSystem:1,wbid:17,cost:405,capa:850,hp:245,str:11,tec:3,wlk:7,fly:13,tgh:11,comment:["ユニオンコイン景品（540個・BRD陣営のみ購入可能）",""]}
 
 
 
@@ -289,7 +290,6 @@
 
 {id:40,name:"ユングヴィBD",cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|18@30|19@15|23@25|22@30|52@20|26@20|21@20|28@30|13@30|32@50|31@40"},type:"a",size:"M",cost:445,capa:870,hp:255,str:7,tec:11,wlk:7,fly:15,tgh:8,wbid:1}
 
-{id:23,name:"ライオスαBD",cartridge:{lv1:"85*6@20|7@30|9@15|8@20|51@30|19@15|23@25|22@30|28@30|52@20|21@20|25@25|13@30|32@50|31@40",hpup:18},fixedParts:{hd:{name:"ライオスαHD",cost:40,hp:25,str:2,tec:-2,wlk:1,fly:2,tgh:2},bs:{name:"ライオスαBS",sub:{str:100,pwr:28,shl:30,rng:150,spd:350,itv:1000},cost:90,hp:25,wlk:-1,fly:3,tgh:3,tunable:{pwp:1}},lg:{name:"ライオスαLG",cost:45,hp:25,str:1,tec:-1,wlk:3,fly:2},am:[{name:"ライオスαAM",cost:35,hp:20,str:2,tec:2,tgh:1,joint:{wp:1}},{name:"ライオスαAM2",sub:{rng:0,spd:0,itv:1000},joint:{wp:2},fixedParts:{wp:{name:"ブレイダインソウル",main:{pwr:8,shl:600,rng:275,spd:350,itv:1000,str:100},sub:{pwr:28,rng:70,spd:85,itv:500,str:100},cost:180,tunable:{mwp:1,pwp:1}}},cost:35,hp:20,str:2,tec:2,tgh:1}]},auraSystem:1,wbid:17,cost:405,capa:850,hp:245,str:11,tec:3,wlk:7,fly:13,tgh:11}
 
 {id:45,name:"ラムダイバーBD",cost:435,capa:785,hp:245,str:5,tec:11,wlk:7,fly:15,tgh:7,wbid:1,size:"M",type:"a",comment:"BDサブにテイクオフ内蔵",cartridge:{hpup:18,lv1:"85*6@20|7@30|9@15|8@20|19@15|21@20|23@25|22@30|52@20|30@20|31@40|14@20|13@30|32@50|26@20"},sub:{shl:60,spd:150,itv:1000}}
 
@@ -387,7 +387,7 @@
 
 {id:20221006,name:"ヘビーフェルカスBD",cost:405,capa:800,hp:275,str:9,tec:4,wlk:7,fly:13,tgh:12,wbid:1,cartridge:{hpup:18,lv1:"85*6@20|7@30|9@15|8@20|19@15|23@25|22@30|21@20|52@20|15@20|14@20|30@20|13@30|32@50|31@40"},size:"L",comment:["Season7アリーナコイン景品"]}
 
-{id:50,name:"ペルセシウスBD",main:{pwr:[25,28],tec:100,shl:[270,270],rng:[275,300],spd:[440,485],itv:[700,700]},joint:{hdac:0,fcac:0,wp:0},cartridge:{hpup:10,lv1:"4*5@20|60@30|7@30|9@15|8@20|19@15|23@25|22@30|21@20|52@20|30@20|14@20|26@20|13@30|32@50|31@40"},type:"a",size:"L",cost:550,capa:945,hp:305,str:5,tec:12,wlk:8,fly:14,tgh:12,wbid:1}
+{id:50,name:"ペルセシウスBD",main:{pwr:[25,28],tec:100,shl:[270,270],rng:[275,300],spd:[440,485],itv:[700,700]},joint:{hdac:0,fcac:0,wp:0},cartridge:{hpup:10,lv1:"4*5@20|60@30|7@30|9@15|8@20|19@15|23@25|22@30|21@20|52@20|30@20|14@20|26@20|13@30|32@50|31@40"},type:"a",size:"L",cost:550,capa:945,hp:305,str:5,tec:12,wlk:8,fly:14,tgh:12,wbid:1,comment:["ユニオンコイン景品（120個）",""]}
 
 {id:16,name:"ポセダインBD",cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|18@30|19@15|23@25|22@30|52@20|26@20|28@30|21@20|13@30|32@50|31@40"},cost:445,capa:870,hp:290,str:9,tec:8,wlk:7,fly:15,tgh:9,wbid:1}
 
