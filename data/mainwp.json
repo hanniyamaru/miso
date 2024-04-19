@@ -106,7 +106,7 @@
 {id:3,name:"ライフル",type:"lcs",size:"M",cost:100,main:{pwr:17,shl:250,rng:330,spd:440,itv:700}}
 {id:5,name:"アサルトライフル",type:"lc",size:"M",cost:130,main:{pwr:14,shl:630,rng:275,spd:480,itv:140},comment:"3連射"}
 {id:8,name:"レイドライフル",type:"lc",size:"M",cost:160,main:{pwr:16,shl:660,rng:275,spd:480,itv:140},comment:"4連射"}
-{id:7,name:"スカウトライフル",type:"lc",size:"M",cost:140,main:{pwr:20,shl:470,rng:275,spd:480,itv:340}}
+{id:7,name:"スカウトライフル",type:"lc",size:"M",cost:140,main:{pwr:20,shl:470,rng:275,spd:480,itv:340},comment:"欲望コイン景品（13個）"}
 {id:10,name:"ペイロードライフル",type:"c",size:"LL",cost:200,main:{pwr:42,shl:150,rng:350,spd:520,itv:1000}}
 {id:32,name:"ストライカーライフル",main:{pwr:8,shl:820,rng:250,spd:400,itv:140},cost:155,type:"l",size:"M"}
 {id:16,name:"ビームライフル",type:"as",size:"M",cost:70,main:{pwr:25,shl:170,rng:275,spd:520,itv:800}}
@@ -131,7 +131,7 @@
 
 {id:46,name:"クロスシューター",type:"lacs",size:"S",cost:60,main:{pwr:14,shl:430,rng:250,spd:440,itv:400}}
 {id:48,name:"パワーシューター",type:"l",size:"M",cost:140,main:{pwr:36,shl:230,rng:250,spd:400,itv:760}}
-{id:49,name:"バリスタシューター",size:"M",cost:180,main:{pwr:29,shl:310,rng:250,spd:400,itv:540},type:"la"}
+{id:49,name:"バリスタシューター",size:"M",cost:180,main:{pwr:29,shl:310,rng:250,spd:400,itv:540},type:"la",comment:"欲望コイン景品（20個）"}
 {id:153,name:"クエンチシューター",main:{pwr:17,shl:500,rng:225,spd:440,itv:340},type:"l",size:"M",cost:160}
 {id:73,name:"トリプルシューター",main:{pwr:10,shl:660,rng:250,spd:320,itv:800},type:"l",size:"M",cost:150,comment:["誘導弾","ミッションコイン景品（65個）"]}
 {id:63,name:"ビームシューター",main:{pwr:26,shl:280,rng:275,spd:485,itv:600},type:"a",size:"M",cost:160}
@@ -172,7 +172,7 @@
 {id:202304052,name:"LLバルクブラスト",type:"c",size:"LL",cost:160,main:{pwr:38,shl:270,rng:330,spd:360,itv:900},comment:"Season9アリーナコイン景品"}
 
 {id:801,name:"ミニマイトバズーカ",main:{pwr:19,shl:340,rng:330,spd:400,itv:500},type:"c",size:"M",cost:90,comment:"自軍貫通"}
-{id:802,name:"マイトバズーカ",main:{pwr:24,shl:340,rng:330,spd:400,itv:500},type:"c",size:"M",cost:160,comment:"自軍貫通"}
+{id:802,name:"マイトバズーカ",main:{pwr:24,shl:340,rng:330,spd:400,itv:500},type:"c",size:"M",cost:160,comment:["自軍貫通","欲望コイン景品（20個）"]}
 
 {id:13,name:"ガトリングバズーカ",type:"c",size:"LL",cost:200,main:{pwr:12,shl:1400,rng:350,spd:480,itv:200}}
 {id:51,name:"ショックバズーカ",main:{pwr:20,shl:240,rng:250,spd:325,itv:800},tunable:{mwp:1},type:"s",size:"M",cost:100,comment:"チャージ　実弾属性"}
@@ -182,7 +182,9 @@
 {id:82,name:"BTバズーカ",main:{pwr:20,shl:200,rng:275,spd:360,itv:500},tunable:{mwp:1},type:"cs",size:"M",cost:100}
 {id:48,name:"ブロウバズーカ",main:{pwr:17,shl:340,rng:300,spd:440,itv:500},cost:100,size:"M",type:"c"}
 {id:36,name:"スプレッドバズーカ",type:"c",size:"LL",cost:150,main:{pwr:14,shl:770,rng:210,spd:360,itv:800},comment:["クエストコイン景品（80個）",""]}
-{id:100,name:"バアルバズーカR",type:"c",size:"M",cost:120,main:{pwr:24,shl:200,rng:330,spd:400,itv:500},comment:"自軍貫通"}
+
+{id:100,name:"バアルバズーカR",type:"c",size:"M",cost:120,main:{pwr:24,shl:200,rng:330,spd:400,itv:500},comment:["自軍貫通","欲望コイン景品（40個）"]}
+
 {id:11020,name:"パンプキンロッド",type:"c",size:"S",cost:120,main:{pwr:23,shl:360,rng:330,spd:360,itv:500}}
 {id:11222,name:"Xmasスノーバズーカ",size:"L",cost:50,main:{pwr:15,shl:300,rng:250,spd:400,itv:500},comment:["実弾属性爆風","爆風30％？"]}
 {id:131011,name:"アームストロング",type:"c",size:"M",cost:220,main:{pwr:12,shl:1200,rng:330,spd:400,itv:140},comment:["自軍貫通","ナイトギアディスク"]}
@@ -222,8 +224,8 @@
 {id:585,name:"ブラストミサイルガン",main:{pwr:20,shl:280,rng:330,spd:290,itv:800},type:"c",size:"M",cost:160}
 {id:33,name:"セプタプルランチャー",main:{pwr:6,shl:1260,rng:330,spd:250,itv:900},cost:170,size:"LL",type:"c",comment:["クエストコイン景品（80個）",""]}
 
-{id:76,name:"アクセルミサイルガン",main:{pwr:10,shl:480,rng:330,spd:290,itv:300},type:"c",size:"M",cost:160}
-{id:588,name:"タケノコランチャー",main:{pwr:20,shl:160,rng:330,spd:240,itv:800},type:"c",size:"M",cost:60}
+{id:76,name:"アクセルミサイルガン",main:{pwr:10,shl:480,rng:330,spd:290,itv:300},type:"c",size:"M",cost:160,comment:["","欲望コイン景品（20個）"]}
+{id:588,name:"タケノコランチャー",main:{pwr:20,shl:160,rng:330,spd:240,itv:800},type:"c",size:"M",cost:60,comment:"NPCアンコ"}
 
 {id:586,name:"6連ミサイルランチャー",main:{pwr:15,shl:300,rng:330,spd:290,itv:500},type:"c",size:"M",cost:160}
 {id:587,name:"ジャックオーランチャー",main:{pwr:8,shl:920,rng:330,spd:330,itv:140},type:"c",size:"L",cost:130}
@@ -247,13 +249,13 @@
 
 {group:"グレネード系",prefixID:"GN",commonStat:{tunable:{mwp:1}},nextID:32}
 
-{id:14,name:"リトルグレネード",type:"cs",size:"M",cost:40,main:{pwr:9,shl:340,rng:300,spd:400,itv:500}}
-{id:15,name:"グレネード",type:"c",size:"L",cost:90,main:{pwr:25,shl:190,rng:300,spd:400,itv:700}}
-{id:16,name:"ボルカノグレネード",type:"c",size:"L",cost:140,main:{pwr:35,shl:180,rng:300,spd:400,itv:900}}
-{id:17,name:"ボルカノハイグレネード",type:"c",size:"LL",cost:150,main:{pwr:42,shl:190,rng:300,spd:400,itv:900}}
+{id:14,name:"リトルグレネード",type:"cs",size:"M",cost:40,main:{pwr:9,shl:340,rng:300,spd:400,itv:500},comment:"バーニング効果（スタン時）"}
+{id:15,name:"グレネード",type:"c",size:"L",cost:90,main:{pwr:25,shl:190,rng:300,spd:400,itv:700},comment:"バーニング効果（スタン時）"}
+{id:16,name:"ボルカノグレネード",type:"c",size:"L",cost:140,main:{pwr:35,shl:180,rng:300,spd:400,itv:900},comment:["バーニング効果（スタン時）","欲望コイン景品（13個）"]}
+{id:17,name:"ボルカノハイグレネード",type:"c",size:"LL",cost:150,main:{pwr:42,shl:190,rng:300,spd:400,itv:900},comment:"バーニング効果（スタン時）"}
 
 {id:202301182,name:"スチームキャノン",size:"L",type:"c",cost:140,main:{tec:100,pwr:32,shl:220,rng:275,spd:320,itv:500},comment:"Season8アリーナコイン景品"}
-{id:202302162,name:"ラクダロスグレネード",main:{tec:100,pwr:32,shl:180,rng:300,spd:400,itv:900},tunable:{mwp:1},type:"c",size:"M",cost:100,comment:["パーツクリエイト",""]}
+{id:202302162,name:"ラクダロスグレネード",main:{tec:100,pwr:32,shl:180,rng:300,spd:400,itv:900},tunable:{mwp:1},type:"c",size:"M",cost:100,comment:["バーニング効果（スタン時）","パーツクリエイト"]}
 {id:23,name:"スクイドルバズーカ",main:{tec:100,pwr:12,shl:220,rng:275,spd:290,itv:700},tunable:{mwp:1},size:"M",type:"s",cost:70,comment:["ディスオーダー効果","スクイドルガールαBD2初期装備"]}
 {id:202306096,name:"ウォーターポットα",main:{tec:100,pwr:14,shl:100,rng:225,spd:400,itv:500},sub:{str:100,pwr:0,shl:0,rng:0,spd:0,itv:500},tunable:{mwp:1},size:"S",cost:50,comment:["梅雨イベント2023オーダー景品",""]}
 {id:202306097,name:"ウォーターポットβ",main:{tec:100,pwr:24,shl:100,rng:225,spd:400,itv:600},sub:{str:100,pwr:0,shl:0,rng:0,spd:0,itv:500},tunable:{mwp:1},size:"S",type:"lcs",cost:120,comment:["梅雨イベント2023オーダー景品",""]}
@@ -288,7 +290,7 @@
 {group:"照射系",prefixID:"LS",commonStat:{tunable:{mwp:1}},nextID:1}
 {id:1,name:"グラスバーナー",type:"lcs",size:"S",cost:40,main:{pwr:9,shl:1100,rng:140,spd:480,itv:100},comment:["ダメージ0.7倍　貫通+確率バーニング効果"]}
 {id:2,name:"バーナー",type:"lcs",size:"M",cost:85,main:{pwr:13,shl:1160,rng:140,spd:480,itv:100},comment:["ダメージ0.7倍　貫通+確率バーニング効果"]}
-{id:3,name:"ロングバーナー",type:"cs",size:"L",cost:150,main:{pwr:16,shl:980,rng:180,spd:480,itv:100},comment:["ダメージ0.7倍　貫通+確率バーニング効果","欲望コイン景品"]}
+{id:3,name:"ロングバーナー",type:"cs",size:"L",cost:150,main:{pwr:16,shl:980,rng:180,spd:480,itv:100},comment:["ダメージ0.7倍　貫通+確率バーニング効果","欲望コイン景品（13個）"]}
 {id:4,name:"セラミックバーナー",type:"l",size:"M",cost:150,main:{pwr:18,shl:1200,rng:140,spd:480,itv:100},comment:["ダメージ0.7倍　貫通+確率バーニング効果"]}
 
 {id:6,name:"ハンドレーザー",type:"as",size:"M",cost:60,main:{pwr:8,shl:960,rng:200,spd:480,itv:100},comment:["ダメージ0.7倍",""]}
@@ -309,7 +311,7 @@
 {id:41,name:"マグネガン",type:"cs",size:"S",cost:60,main:{pwr:12,shl:270,rng:330,spd:290,itv:700}}
 {id:42,name:"フェノムマグネガン",type:"cs",size:"S",cost:110,main:{pwr:19,shl:270,rng:330,spd:290,itv:700}}
 {id:54,name:"ジニアスマグネガン",type:"c",size:"M",cost:140,main:{pwr:13,shl:440,rng:330,spd:290,itv:380}}
-{id:64,name:"ブラストマグネガン",main:{pwr:23,shl:230,rng:330,spd:290,itv:800},type:"c",size:"S",cost:120}
+{id:64,name:"ブラストマグネガン",main:{pwr:23,shl:230,rng:330,spd:290,itv:800},type:"c",size:"S",cost:120,comment:"欲望コイン景品（20個）"}
 {id:18,name:"マグネショットガン",main:{pwr:5,shl:1190,rng:330,spd:290,itv:900},size:"M",type:"c",cost:140,wlk:1,comment:"ミッションコイン景品（65個）"}
 
 
@@ -324,7 +326,7 @@
 
 {id:6551,name:"フラクタリスアニマ",main:{tec:100,pwr:7,shl:800,rng:275,spd:400,itv:200},tunable:{mwp:1},size:"M",type:"a",cost:200,comment:["フォース系のチューンは子弾の威力が変化した場合のみキャノンの威力にも影響する","キャノン：威力？ 爆風50％","ブースト回復効果"]}
 
-{id:6552,name:"ベルゼイラフアニマ",main:{tec:100,pwr:23,shl:1050,rng:350,spd:400,itv:500},tunable:{mwp:1},size:"M",type:"c",cost:200,comment:["サイガン比率1：2","β時の表記威力8","自軍貫通"]}
+{id:6552,name:"ベルゼイラフアニマ",main:{tec:100,pwr:23,shl:1050,rng:350,spd:400,itv:500},tunable:{mwp:1},size:"M",type:"c",cost:200,comment:["サイガン比率1：2　自軍貫通","βテスト時の表記威力8","欲望コイン景品（200個）"]}
 
 {id:6553,name:"ゲルニアロッド",main:{tec:100,pwr:32,shl:160,rng:300,spd:440,itv:900},tunable:{mwp:1},size:"M",type:"c",cost:100,comment:"一斉射撃不可"}
 
