@@ -356,7 +356,7 @@
 {id:202204142,name:"バイオロンボウ",size:"M",cost:120,type:"s",main:{tec:100,pwr:16,shl:330,rng:250,spd:250,itv:500},sub:{tec:100,pwr:20,shl:0,rng:0,spd:150,itv:1000},tunable:{mwp:1,pwp:0},comment:["アリーナコイン景品","バイオロン初期装備","射程：発射距離に影響せず、停止（消失）再誘導範囲に影響する"]}
 
 {id:20220807,name:"トルネードファン",type:"a",size:"L",cost:120,main:{pwr:20,shl:320,rng:275,spd:260,itv:600},comment:"コーテング初期装備"}
-{id:202302161,name:"ガドラガン",main:{tec:100,pwr:22,shl:360,rng:250,spd:440,itv:500},tunable:{mwp:1},type:"s",size:"M",cost:120,comment:["パーツクリエイト",""]}
+{id:202302161,name:"ガドラガン",main:{tec:100,pwr:22,shl:360,rng:250,spd:440,itv:500},tunable:{mwp:1},type:"s",size:"M",cost:120,comment:["実弾属性爆風（少量）　貫通　ショック効果（1秒程度）　","パーツクリエイト",""]}
 {id:202303092,name:"ビットガン",main:{tec:100,pwr:7,shl:840,rng:275,spd:280,itv:900},tunable:{mwp:1},type:"a",size:"S",cost:120,comment:["マッハナイト・ゼロ初期装備"]}
 
 {id:202306143,name:"パラドックスカノン",main:{tec:100,pwr:14,shl:750,rng:275,spd:440,itv:160},size:"L",type:"a",cost:150,comment:"コラボイベントオーダー・混沌ドロップ"}
