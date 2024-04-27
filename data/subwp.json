@@ -260,12 +260,12 @@
 {id:117,name:"キャプテンアンカー@",main:{tec:100,shl:50,spd:10,itv:1000},sub:{str:100,pwr:30,rng:70,spd:85,itv:500},tunable:{mwp:1,pwp:1},cost:120,type:"l",size:"S",comment:"キャプテンアンカーにのみ接続可能"}
 
 {group:"シルフィーⅡコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
-{id:20240425,name:"アイムール",main:{str:100,shl:50,reng:200,spd:570,itv:500},sub:{str:100,pwr:32,rng:77,spd:94,itv:1000},tunable:{mwp:1,pwp:1},type:"l",size:"S",cost:80,comment:["ヤグルシの対","シルフィーⅡAM2専用コンバージョンパーツ"]}
+{id:20240425,name:"アイムール",main:{str:100,shl:50,rng:200,spd:570,itv:500},sub:{str:100,pwr:32,rng:77,spd:94,itv:1000},tunable:{mwp:1,pwp:1},type:"l",size:"S",cost:80,comment:["ヤグルシの対","シルフィーⅡAM2専用コンバージョンパーツ"]}
 {id:202404252,name:"アキレウス",type:"l",size:"S",cost:0,slot:0,comment:["BDステップ変更→メイジーBD系の攻撃","シルフィーⅡBD専用コンバージョンパーツ"]}
-
+{id:20240427,name:"エヴァラック",main:{str:100,shl:50,rng:0,spd:10,itv:1000},sub:{str:100,pwr:26,rng:100,spd:250,itv:1000},tunable:{mwp:1,pwp:1},type:"l",size:"S",cost:50,comment:["","シルフィーAM専用コンバージョンパーツ"]}
 {id:202404041,name:"エンジェルシューター",size:"S",cost:115,main:{str:100,pwr:17,shl:750,rng:250,spd:440,itv:200},sub:{str:100,pwr:14,shl:240,rng:250,spd:400,itv:500},tunable:{mwp:1,pwp:0},type:"l",comment:"シルフィーⅡAM専用コンバージョンパーツ"}
-{id:202404251,name:"デュランダル",main:{str:100,shl:50,reng:200,spd:570,itv:500},sub:{str:100,pwr:32,rng:77,spd:94,itv:1000},tunable:{mwp:1,pwp:1},type:"l",size:"S",cost:130,comment:"シルフィーⅡAM専用コンバージョンパーツ"}
-{id:202404253,name:"ヤグルシ",main:{str:100,shl:15,reng:0,spd:10,itv:1000},sub:{str:100,pwr:32,rng:77,spd:94,itv:1000},tunable:{mwp:1,pwp:1},type:"l",size:"S",cost:70,comment:["アイムールの対","シルフィーⅡAM専用コンバージョンパーツ"]}
+{id:202404251,name:"デュランダル",main:{str:100,shl:50,rng:200,spd:570,itv:500},sub:{str:100,pwr:32,rng:77,spd:94,itv:1000},tunable:{mwp:1,pwp:1},type:"l",size:"S",cost:130,comment:"シルフィーⅡAM専用コンバージョンパーツ"}
+{id:202404253,name:"ヤグルシ",main:{str:100,shl:15,rng:0,spd:10,itv:1000},sub:{str:100,pwr:32,rng:77,spd:94,itv:1000},tunable:{mwp:1,pwp:1},type:"l",size:"S",cost:70,comment:["アイムールの対","シルフィーⅡAM専用コンバージョンパーツ"]}
 {id:202404254,name:"ロリカ",type:"l",size:"S",cost:0,slot:0,comment:["BDステップ変更→ブレイブドライブBS系の突進","シルフィーⅡBD専用コンバージョンパーツ"]}
 
 
