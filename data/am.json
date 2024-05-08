@@ -909,6 +909,7 @@
 {id:202210061,name:"ヘビーフェルカスAM2",type:"a",cost:165,hp:20,str:3,tec:-1,fly:1,tgh:2,sub:{str:100,pwr:32,shl:200,rng:77,spd:94,itv:1000},tunable:{pwp:1},joint:{wp:0},size:"L",comment:["Season7アリーナコイン景品","ブースト回復効果"]}
 
 {id:47,name:"ヘリアンザスAM",cost:35,hp:20,str:2,tec:2,wlk:1}
+{id:20240508,name:"ベリルスキッドAM",type:"l",size:"L",cost:35,hp:20,str:-1,tec:2,wlk:2,fly:1,tgh:1}
 
 
 {id:20230512,name:"ベルヴィアAM",sub:{str:100,pwr:35,shl:30,rng:70,spd:85,itv:1000},type:"l",size:"L",cost:155,hp:20,str:4,tec:-1,tgh:2,tunable:{pwp:0},comment:[""]}
@@ -1092,6 +1093,7 @@
 {id:12,name:"ピアースガンAMJ",main:{pwr:10,shl:340,rng:250,spd:480,itv:340},tunable:{mwp:1},type:"l",size:"M",cost:60,tec:1,wlk:1,fly:-1,slot:1}
 {id:3,name:"フォールドライフルAMJ",size:"M",cost:60,tec:2,wlk:-1,main:{pwr:9,shl:220,rng:250,spd:480,itv:520},tunable:{mwp:1},slot:1}
 {id:42,name:"ヘカトケレスAMJ",tunable:{pwp:0,mwp:0},type:"c",size:"L",cost:20,slot:1,main:{tec:100,pwr:8,shl:190,rng:300,spd:260,itv:600},comment:["ユニオンコイン景品（60個）",""]}
+{id:20240508,name:"ベリルスキッドAMJ",slot:1,size:"L",type:"l",cost:25,hp:-20,wlk:-1,fly:-1,joint:{am:1,wp:1},comment:["メインウェポンのみ装備可能","ベリルスキッド専用コンバージョンパーツ"]}
 
 {id:31,name:"ミコトAMJ",main:{pwr:12,shl:270,rng:250,spd:400,itv:620},tunable:{mwp:1},type:"lc",size:"M",cost:15,slot:1}
 
