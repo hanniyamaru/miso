@@ -13,7 +13,7 @@
 
 
 {group:"　",nextID:45}
-{id:1406,name:"STR+2.(FC)",str:2,slot:1,comment:["リムレスブラック（クランコイン景品）",""]}
+{id:1406,name:"STR+2.(FC)",str:2,slot:1,comment:["リムレス・ブラック（アワードコイン景品）",""]}
 {id:1407,name:"TEC+2.(FC)",tec:2,slot:1,comment:["バタフライエフェクト（アクセサリーキューブ）",""]}
 {id:1408,name:"WLK+2.(FC)",wlk:2,slot:1,comment:["プレゼントリボンP（クランコイン景品）",""]}
 {id:1409,name:"FLY+2.(FC)",fly:2,slot:1,comment:["エリゴスウィング（HW箱？）","バタフライエフェクトP（クランコイン景品）","プレゼントリボン（Xmasキューブ）"]}
