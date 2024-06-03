@@ -119,7 +119,7 @@
 {id:2023011812,name:"ターンエア1080AM",size:"S",cost:30,hp:15,str:2,tec:1,fly:1,comment:"Season8アリーナコイン景品"}
 {id:202302026,name:"ターンエッジ1440AM",size:"S",cost:35,hp:20,tec:2,fly:2,tgh:1,comment:""}
 
-{id:20231018,name:"タラバトロンAM2",main:{tec:100,pwr:6,shl:900,rng:250,spd:320,itv:200},sub:{tec:100,pwr:30,shl:0,rng:70,spd:85,itv:500},tunable:{mwp:1,pwp:1},size:"S",type:"l",cost:110,hp:20,str:-1,tec:3,wlk:1,tgh:2,comment:["","リンクショット対応",""]}
+{id:20231018,name:"タラバトロンAM2",main:{tec:100,pwr:6,shl:900,rng:250,spd:320,itv:200},sub:{tec:100,pwr:30,shl:0,rng:70,spd:85,itv:500},tunable:{mwp:1,pwp:1},size:"S",type:"l",joint:{wp:0},cost:110,hp:20,str:-1,tec:3,wlk:1,tgh:2,comment:["","リンクショット対応",""]}
 {id:24,name:"タラントリックAM",cost:35,hp:20,str:1,tec:1,wlk:2,tgh:1}
 
 {id:2677,name:"ダルマスターAM",cost:35,hp:20,str:1,tec:2,wlk:1,tgh:1}
