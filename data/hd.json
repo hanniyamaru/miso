@@ -169,6 +169,7 @@
 {id:202301122,name:"アストロトルーパーHD",size:"M",cost:35,hp:20,str:1,tec:2,wlk:1,fly:1,tgh:1}
 {id:128,name:"アハトジーベンHD",cost:40,hp:25,tec:2,wlk:1,tgh:2}
 {id:149,name:"アハトジーベンHD2",cost:40,hp:25,tec:1,wlk:2,fly:1,tgh:1}
+{id:202406061,name:"アポリオンHD",cost:35,hp:20,str:2,fly:1,tgh:2}
 
 {id:74,name:"アマテウスHD",cost:40,hp:25,str:2,wlk:2,fly:1}
 {id:75,name:"アマテウスHD2",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:2,tgh:1}
