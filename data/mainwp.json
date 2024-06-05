@@ -77,17 +77,17 @@
 {id:3,name:"ナノマシンガン",size:"SS",cost:30,main:{pwr:8,shl:560,rng:160,spd:480,itv:140}}
 {id:2,name:"サブマシンガン",type:"lcs",size:"M",cost:70,main:{pwr:11,shl:680,rng:160,spd:480,itv:140}}
 {id:4,name:"マシンガン",type:"lcs",size:"M",cost:100,main:{pwr:11,shl:1140,rng:160,spd:480,itv:140}}
-{id:5,name:"ドラムマシンガン",type:"l",size:"M",cost:160,main:{pwr:15,shl:1480,rng:160,spd:480,itv:140}}
+{id:5,name:"ドラムマシンガン",type:"l",size:"M",cost:160,main:{pwr:15,shl:1480,rng:160,spd:480,itv:140},comment:["減衰率：70％","2024/6/5"]}
 {id:7,name:"レイジマシンガン",type:"l",size:"M",cost:120,main:{pwr:16,shl:640,rng:160,spd:480,itv:140}}
 {id:14,name:"バルカン",type:"lcs",size:"L",cost:70,main:{pwr:12,shl:1040,rng:120,spd:400,itv:200}}
 {id:15,name:"エイトバルカン",type:"lc",size:"LL",cost:120,main:{pwr:9,shl:1960,rng:120,spd:400,itv:200}}
 {id:16,name:"チェインバルカン",type:"lcs",size:"L",cost:100,main:{pwr:15,shl:1040,rng:120,spd:400,itv:200}}
-{id:17,name:"デルタバルカン",type:"l",size:"LL",cost:180,main:{pwr:12,shl:2040,rng:120,spd:400,itv:200}}
+{id:17,name:"デルタバルカン",type:"l",size:"LL",cost:180,main:{pwr:12,shl:1360,rng:120,spd:480,itv:140},comment:["減衰率：60％","2024/6/5"]}
 {id:24,name:"コンパクトガトリング",type:"lc",size:"M",cost:110,main:{pwr:10,shl:1080,rng:225,spd:400,itv:140}}
 {id:18,name:"バスターガトリング",type:"l",size:"L",cost:170,main:{pwr:13,shl:1100,rng:225,spd:400,itv:140}}
 {id:19,name:"ヒュージガトリング",type:"l",size:"LL",cost:180,main:{pwr:11,shl:1560,rng:250,spd:400,itv:140}}
 {id:22,name:"ダブルガトリング",type:"l",size:"LL",cost:210,main:{pwr:7,shl:2840,rng:250,spd:400,itv:140},comment:"未実装:2022/10/12"}
-{id:26,name:"LLバルクガトリング",main:{pwr:15,shl:1200,rng:225,spd:400,itv:140},type:"l",size:"LL",cost:220}
+{id:26,name:"LLバルクガトリング",main:{pwr:19,shl:1600,rng:225,spd:440,itv:140},type:"l",size:"LL",cost:220,comment:["減衰率：80％","2024/6/5"]}
 {id:8,name:"ビームマシンガン",type:"as",size:"S",cost:90,main:{pwr:9,shl:580,rng:200,spd:480,itv:140}}
 {id:9,name:"ダブルビームマシンガン",type:"a",size:"S",cost:130,main:{pwr:6,shl:1170,rng:200,spd:480,itv:140},comment:"結晶コイン景品（13個）"}
 {id:21,name:"ビームガトリング",main:{pwr:9,shl:1020,rng:250,spd:480,itv:140},type:"a",size:"LL",cost:140}
@@ -595,8 +595,8 @@
 
 
 {group:"ハンナ・フリッツ コンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
-{id:108,name:"シュピッツ・アイゼン",main:{pwr:20,shl:50,rng:200,spd:570,itv:500,str:100},sub:{str:100,pwr:36,rng:70,spd:85,itv:1000},type:"l",size:"S",cost:130,comment:"ハンナ・フリッツ専用コンバージョンパーツ",tunable:{mwp:1,pwp:1}}
-{id:107,name:"ハンドゲヴィア",main:{pwr:16,shl:440,rng:225,spd:400,itv:300,str:100},type:"l",size:"S",cost:60,comment:"ハンナ・フリッツ専用コンバージョンパーツ",tunable:{mwp:1}}
+{id:108,name:"シュピッツ・アイゼン",main:{pwr:20,shl:50,rng:200,spd:570,itv:500,str:100},sub:{str:100,pwr:36,rng:77,spd:94,itv:1000},type:"l",size:"S",cost:130,comment:"ハンナ・フリッツ専用コンバージョンパーツ",tunable:{mwp:1,pwp:1}}
+{id:107,name:"ハンドゲヴィア",main:{pwr:18,shl:500,rng:225,spd:400,itv:300,str:100},type:"l",size:"S",cost:60,comment:"ハンナ・フリッツ専用コンバージョンパーツ",tunable:{mwp:1}}
 {id:111,name:"ツヴァイ・カノーネ",sub:{str:100,pwr:16,shl:30,rng:150,spd:250,itv:1000},type:"l",size:"S",cost:30,slot:0,comment:"ハンナ・フリッツ専用コンバージョンパーツ"}
 
 
