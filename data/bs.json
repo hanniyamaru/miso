@@ -169,6 +169,7 @@
 {id:19,name:"ダルマスターBS",type:"s",cost:35,hp:20,str:1,fly:3,tgh:1}
 {id:24,name:"ディカロスBS",type:"a",cost:40,hp:25,tec:1,fly:4}
 {id:40,name:"テントリオンBS",size:"S",cost:35,hp:20,tec:1,wlk:-1,fly:3,tgh:2}
+{id:202406063,name:"テントリオンBS2",sub:{tec:100,pwr:0,shl:50,rng:0,spd:200,itv:1000},cost:55,hp:20,str:-1,fly:4,tgh:2,type:"a",size:"S",comment:["飛行ゲージ回復　サブによる移動無し","テントリオン・バグ"]}
 
 {id:81,name:"デストラクトガールBS",type:"c",cost:40,hp:20,fly:2,tgh:3}
 
