@@ -375,6 +375,7 @@
 
 {id:503,name:"アクアショット",main:{pwr:19,shl:340,rng:250,spd:400,itv:500},type:"l",size:"S",cost:70,comment:"イオンAM2専用コンバージョンパーツ",tunable:{mwp:1}}
 {id:20230111,name:"アナウンサーマイク",type:"s",size:"S",cost:40,main:{tec:100,pwr:20,shl:50,rng:200,spd:500,itv:500},comment:["アナAM2専用コンバージョンパーツ",""]}
+{id:202406061,name:"アポリオンBD@",main:{str:100,pwr:8,shl:200,rng:275,spd:480,itv:500},auraStat:{main:{pwr:10}},type:"a",size:"L",cost:40,slot:0}
 
 {id:119,name:"インパクトアロー",main:{pwr:22,shl:230,rng:225,spd:480,itv:600},type:"l",size:"M",cost:30,comment:"ロビンハンターAM専用コンバージョンパーツ",slot:0}
 {id:20240124,name:"エアブラシガンGD",size:"S",type:"l",cost:80,main:{pwr:8,shl:1500,rng:180,spd:480,itv:100},comment:["リンクショット対応","ガデ子AM専用コンバージョンパーツ"]}
