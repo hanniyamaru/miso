@@ -428,6 +428,7 @@
 
 
 {id:1591,name:"マニモウィング@",main:{str:100,pwr:7,shl:900,rng:300,spd:400,itv:440},type:"a",size:"M",comment:["ビーム爆風100％","マニモウィング専用コンバーションパーツ"],cost:40}
+{id:20240606,name:"ムルルガルBD@2",main:{pwr:46,shl:220,rng:350,spd:440,itv:900},cost:160,type:"c",size:"L",comment:["ムルルガルBD専用コンバージョンパーツ"]}
 
 {id:20221102,name:"メテオールプファイル",size:"S",type:"a",cost:20,main:{tec:100,pwr:0,shl:15,rng:0,spd:10,itv:1000},comment:"セリカ・ホーク専用コンバージョンパーツ"}
 {id:141,name:"モノケロスロッド",main:{pwr:38,shl:280,rng:330,spd:400,itv:800,tec:100},sub:{pwr:9,shl:300,rng:300,spd:280,itv:1000,tec:100},type:"c",size:"S",cost:170,comment:["ルミエラAM、ルミエラAM3専用コンバージョンパーツ","-"]}
