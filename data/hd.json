@@ -486,6 +486,7 @@
 
 {id:21,name:"テツジンガーHD",cost:35,hp:20,str:1,wlk:1,tgh:3}
 {id:109,name:"テントリオンHD",main:{pwr:7,shl:440,rng:275,spd:350,itv:760},type:"a",cost:105,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,tunable:{mwp:1}}
+{id:202406063,name:"テントリオンHD2",cost:35,hp:20,str:-1,tec:3,fly:2,tgh:1,comment:"テントリオン・バグ"}
 
 {id:202204171,name:"テンポールHD",size:"M",cost:35,hp:20,str:1,tec:2,wlk:1,fly:2,tgh:-1,comment:["ロボガラポン"]}
 {id:34,name:"トイボックスHD",cost:40,hp:25,str:2,wlk:1,fly:1,tgh:1}
