@@ -672,6 +672,9 @@
 
 {id:219,name:"ミヅハHD",size:"M",cost:30,hp:15,tec:1,wlk:1,tgh:2,comment:"Season6アリーナコイン景品"}
 {id:312,name:"ミラージュレイドHD",type:"lacs",size:"M",cost:35,hp:20,str:1,wlk:1,fly:2,tgh:1,comment:"AURA機構"}
+
+{id:20240606,name:"ムルルガルHD",cost:35,hp:20,wlk:3,fly:1,tgh:1}
+
 {id:20230204,name:"メガトンオーHD2",cost:35,hp:20,tec:1,wlk:1,fly:1,tgh:2}
 
 {id:15,name:"メカジェッターHD",cost:35,hp:20,tec:2,fly:2,tgh:1}
