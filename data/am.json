@@ -998,7 +998,7 @@
 
 
 {group:"ＬＬサイズ",prefixID:"LL",commonStat:{size:"LL"},nextID:7}
-{id:202406061,name:"アポリオンAM",sub:{str:100,pwr:30,shl:60,rng:120,spd:250,itv:2800},tunable:{pwp:1},auraStat:{sub:{pwr:33}},type:"a",size:"LL",cost:105,hp:20,str:3,tec:-1,fly:1,tgh:2,comment:["FLY依存サブ","AURA機構"]}
+{id:202406061,name:"アポリオンAM",sub:{str:100,pwr:30,shl:60,rng:120,spd:250,itv:2800},tunable:{pwp:1},auraStat:{sub:{pwr:33}},type:"a",size:"LL",cost:105,hp:20,str:3,tec:-1,fly:1,tgh:2,joint:{wp:0},comment:["FLY依存サブ","AURA機構"]}
 {id:20240509,name:"アルバトレオスAM3",main:{tec:100,pwr:16,shl:720,rng:330,spd:570,itv:300},tunable:{mwp:1},size:"LL",type:"c",joint:{wp:0},cost:165,hp:20,str:-1,tec:3,wlk:1,tgh:2,comment:["V-03"]}
 {id:202311013,name:"アルマダAM3",main:{tec:100,pwr:10,shl:600,rng:275,spd:570,itv:300},tunable:{mwp:1},size:"LL",type:"a",joint:{wp:0},cost:125,hp:20,str:-1,tec:3,fly:1,tgh:2,comment:["オートマニューバ効果中威力・範囲強化","爆風発生は速度の影響を受けない（要検証）","リンクショット対応"]}
 
