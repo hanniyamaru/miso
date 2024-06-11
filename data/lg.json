@@ -17,7 +17,7 @@
 
 {id:66,name:"エルメ・サリーLG",size:"S",cost:45,hp:25,tec:2,wlk:3,tgh:1}
 {id:27,name:"エルメ・SLG",size:"S",cost:45,hp:25,tec:1,wlk:3,fly:2,comment:"Season8アリーナコイン景品"}
-{id:38,name:"オウカLG",type:"l",cost:45,hp:30,str:1,wlk:3,tgh:2,joint:{bs:1}}
+{id:38,name:"オウカLG",type:"l",cost:45,hp:30,str:1,wlk:3,tgh:2,joint:{bs:1},comment:["BS接続可能",""]}
 
 {id:95,name:"オルフェノスLG",cost:45,hp:25,str:1,tec:1,wlk:3,fly:1}
 {id:20220728,name:"オレガーLG",size:"S",type:"l",cost:45,hp:25,str:-1,tec:2,wlk:3,tgh:2,comment:"アルカンタスドロップ"}
@@ -155,7 +155,7 @@
 
 {id:8,name:"メカルドLG",cost:45,hp:25,tec:1,wlk:3,fly:1,tgh:1,size:"S",comment:["Season7アリーナコイン景品"]}
 
-{id:20230614,name:"メディ・エーデLG",fixedParts:{wp:{name:"メディ・スロット"}},size:"S",cost:45,hp:25,tec:1,wlk:2,fly:2,tgh:1,joint:{wp:1}}
+{id:20230614,name:"メディ・エーデLG",fixedParts:{wp:{name:"メディ・スロット"}},size:"S",cost:45,hp:25,tec:1,wlk:2,fly:2,tgh:1,joint:{wp:1},comment:["メモリ・スロット接続可能",""]}
 {id:115,name:"メディカレストLG",size:"S",cost:45,hp:25,tec:1,wlk:3,tgh:2}
 
 {id:78,name:"メトラLG",sub:{pwr:7,shl:600,rng:275,spd:350,itv:1000},tunable:{pwp:0},type:"a",cost:145,hp:25,str:-1,tec:3,wlk:2,fly:2}
@@ -167,7 +167,7 @@
 {id:82,name:"ヤクシャLG",cost:45,hp:25,tec:2,wlk:2,fly:3,tgh:-1}
 {id:100,name:"ユネッサLG",sub:{pwr:0,shl:30,rng:0,spd:180,itv:500},type:"s",size:"S",cost:70,hp:20,str:-1,tec:1,wlk:3,tgh:2}
 
-{id:10,name:"ラズフラムαLG",cost:45,hp:25,str:1,tec:1,wlk:3,fly:-1,tgh:2,joint:{bs:1}}
+{id:10,name:"ラズフラムαLG",cost:45,hp:25,str:1,tec:1,wlk:3,fly:-1,tgh:2,joint:{bs:1},comment:["BS接続可能",""]}
 {id:20220426,name:"ラビスリープLG",size:"S",cost:40,hp:20,tec:2,wlk:3,comment:"イースターイベント景品"}
 {id:90,name:"リフィLG",cost:45,hp:25,str:-1,tec:-1,wlk:3,fly:2,tgh:2}
 
@@ -188,7 +188,7 @@
 {id:114,name:"A・ミラルLG",type:"lacs",size:"S",cost:45,hp:25,str:-1,tec:2,wlk:4,tgh:1}
 {id:76,name:"A.L.E.クリムローゼLG",joint:{bs:2},fixedParts:{bs:[{name:"A.L.EクリムローゼBS",size:"M",type:"a",builtin:{bs:1},slot:0},{name:"A.L.EクリムローゼBS",type:"a",size:"M",slot:0,builtin:{bs:1}}]},type:"a",size:"S",cost:85,hp:50,str:1,tec:2,fly:4,tgh:3}
 
-{id:97,name:"A.L.E.ラズフラムLG",type:"lacs",size:"S",cost:45,hp:25,str:-1,tec:1,wlk:4,tgh:1,joint:{bs:1}}
+{id:97,name:"A.L.E.ラズフラムLG",type:"lacs",size:"S",cost:45,hp:25,str:-1,tec:1,wlk:4,tgh:1,joint:{bs:1},comment:["BS接続可能",""]}
 {id:123,name:"G・リモアLG",sub:{shl:30,spd:150,itv:500},type:"c",size:"S",cost:75,hp:25,tec:1,wlk:3,tgh:2}
 
 {id:108,name:"F･リュールLG",type:"lacs",size:"S",cost:40,hp:20,tec:1,wlk:2,fly:2}
@@ -271,7 +271,7 @@
 {id:202310185,name:"エスエルLG",cost:45,hp:25,tec:1,wlk:4,fly:-1,tgh:2,comment:""}
 {id:202207061,name:"エスエルLG2",cost:45,hp:25,tec:2,wlk:3,fly:-1,tgh:2,comment:"Season6アリーナコイン景品"}
 {id:76,name:"エスティスLG",type:"l",cost:45,hp:25,str:-1,tec:2,wlk:3,fly:1,tgh:1}
-{id:90,name:"オーガヒルLG",joint:{bs:1},cost:45,hp:25,str:-1,wlk:2,fly:2,tgh:3}
+{id:90,name:"オーガヒルLG",joint:{bs:1},cost:45,hp:25,str:-1,wlk:2,fly:2,tgh:3,comment:["BS接続可能",""]}
 {id:398,name:"オボロマルLG",cost:45,hp:25,str:2,tec:2,wlk:2,size:"M",type:"lacs"}
 {id:112,name:"ガゥディアンLG",cost:45,hp:25,str:1,wlk:2,fly:1,tgh:2,size:"M",type:"lacs"}
 {id:113,name:"ガゥディアンLG2",cost:45,hp:25,tec:2,wlk:3,tgh:1,size:"M",type:"lacs"}
@@ -446,7 +446,7 @@
 {id:57,name:"マッハナイト・エースLG",sub:{pwr:32,shl:70,rng:300,spd:240,itv:1000,tec:100},type:"a",cost:95,hp:25,str:-1,tec:3,wlk:1,fly:2,tgh:1}
 {id:24,name:"マリルマーチαLG",cost:45,hp:25,tec:2,wlk:2,tgh:1}
 {id:202309063,name:"マリンダイバーLG",sub:{str:100,pwr:0,shl:30,rng:0,spd:200,itv:1000},type:"c",size:"M",cost:65,hp:25,wlk:3,fly:1,tgh:2,comment:[""]}
-{id:98,name:"マンティサイスLG",joint:{bs:1},type:"lacs",size:"M",cost:45,hp:25,str:1,wlk:3,fly:2,tgh:-1}
+{id:98,name:"マンティサイスLG",joint:{bs:1},type:"lacs",size:"M",cost:45,hp:25,str:1,wlk:3,fly:2,tgh:-1,comment:["BS接続可能",""]}
 
 
 {id:11,name:"ミカドマックスLG",cost:45,hp:25,tec:1,wlk:3,fly:1,tgh:1}
@@ -517,7 +517,7 @@
 {id:91,name:"アーティラスLG2",size:"L",type:"c",sub:{tec:100,pwr:5,shl:240,rng:350,spd:340,itv:1000},cost:80,hp:55,str:-1,tec:3,wlk:2,tgh:2,comment:["爆風100％","アーティラス・ブラスト"]}
 
 {id:20240202,name:"アイオリウスLG",size:"L",cost:50,hp:60,str:1,tec:-1,wlk:3,fly:1,tgh:2,comment:["変形省略"]}
-{id:21,name:"アクイーアLG",type:"a",cost:50,hp:60,tec:1,wlk:2,fly:2,tgh:1,joint:{bs:1}}
+{id:21,name:"アクイーアLG",type:"a",cost:50,hp:60,tec:1,wlk:2,fly:2,tgh:1,joint:{bs:1},comment:["BS接続可能",""]}
 {id:202301122,name:"アストロトルーパーLG",type:"l",size:"L",cost:65,hp:55,tec:1,wlk:4,tgh:1,sub:{tec:100,pwr:0,shl:0,rng:100,spd:200,itv:1000},comment:["",""]}
 
 {id:47,name:"アハトジーベンLG",cost:45,hp:70,tec:1,wlk:5,fly:-2,tgh:1}
@@ -572,7 +572,7 @@
 {id:61,name:"グリストLG",cost:45,hp:50,tec:1,wlk:3,fly:1,tgh:1}
 
 
-{id:115,name:"クルージスLG",sub:{pwr:0,shl:40,rng:150,spd:150,itv:1000},builtin:{bs:1,lg:-1},joint:{bs:1},type:"a",size:"L",cost:65,hp:70,str:-1,wlk:2,fly:3,tgh:2,comment:["BS接続可","◆CT6秒 ◆ブースト回復：50％","◆離陸：斜め+入力方向 ◆飛行：入力方向※1","※1　ブーストゲージ消失中は消失直前の進行方向を受け継ぎ、ゲージ消失中は移動キー入力を受け付けない"]}
+{id:115,name:"クルージスLG",sub:{pwr:0,shl:40,rng:150,spd:150,itv:1000},builtin:{bs:1,lg:-1},joint:{bs:1},type:"a",size:"L",cost:65,hp:70,str:-1,wlk:2,fly:3,tgh:2,comment:["BS接続可能","◆CT6秒 ◆ブースト回復：50％","◆離陸：斜め+入力方向 ◆飛行：入力方向※1","※1　ブーストゲージ消失中は消失直前の進行方向を受け継ぎ、ゲージ消失中は移動キー入力を受け付けない"]}
 
 {id:39,name:"クロコダガーLG",cost:45,hp:45,tec:-1,wlk:3,fly:2,tgh:1}
 {id:18,name:"ケンタクロスLG",type:"l",cost:135,hp:45,str:2,tec:-1,wlk:4,tgh:1,sub:{str:100,pwr:33,rng:90,spd:120,itv:1000},tunable:{pwp:1},comment:["ロボガラポン"]}
@@ -630,7 +630,7 @@
 {id:59,name:"ゼロブレイカーLG",cost:45,hp:30,tec:-1,wlk:4,fly:1,tgh:2}
 
 
-{id:12,name:"ソア・ラLG",cost:45,hp:30,tec:1,wlk:1,fly:1,tgh:3,joint:{bs:1}}
+{id:12,name:"ソア・ラLG",cost:45,hp:30,tec:1,wlk:1,fly:1,tgh:3,joint:{bs:1},comment:["BS接続可能",""]}
 
 {id:24,name:"ダイダリオンLG",cost:50,hp:35,str:2,tec:-1,wlk:3,fly:1,tgh:1}
 
@@ -640,7 +640,7 @@
 {id:62,name:"ダゴミュールLG",cost:45,hp:25,wlk:4,fly:-1,tgh:2}
 
 {id:202210071,name:"ツインタワードLG",size:"L",cost:40,hp:40,tec:1,wlk:2,tgh:2,comment:[""]}
-{id:202204141,name:"ツチガタLG",size:"L",cost:45,hp:25,tec:1,wlk:2,fly:2,tgh:1,builtin:{bs:1},comment:["アリーナコイン景品","BS内蔵"]}
+{id:202204141,name:"ツチガタLG",size:"L",cost:45,hp:25,tec:1,wlk:2,fly:2,tgh:1,builtin:{bs:1},comment:["","BS内蔵"]}
 
 {id:63,name:"ディースモークLG",cost:45,hp:25,wlk:3,fly:-1,tgh:3}
 {id:105,name:"ディースモークLG2",type:"s",size:"L",cost:45,hp:25,str:2,wlk:3,tgh:1}
@@ -723,7 +723,7 @@
 {id:202310183,name:"マテングLG",size:"L",cost:45,hp:25,str:1,wlk:3,tgh:2,comment:[""]}
 
 
-  {id:3,name:"メガトンオーLG",cost:40,hp:20,str:1,wlk:2,tgh:2}
+{id:3,name:"メガトンオーLG",cost:40,hp:20,str:1,wlk:2,tgh:2}
 {id:20230204,name:"メガトンオーLG2",cost:40,hp:20,str:-1,tec:1,wlk:3,tgh:2}
 
 {id:322,name:"ヤマトオグナLG",type:"l",size:"L",cost:45,hp:25,tec:1,wlk:4,fly:-1,tgh:2}
@@ -765,22 +765,22 @@
 
 
 {group:"LLサイズ",prefixID:"LL",commonStat:{size:"LL"},nextID:999}
-{id:52,name:"アクイーア・エアーズLG",sub:{pwr:25,shl:60,rng:275,spd:300,itv:1000,tec:100},size:"LL",type:"a",cost:90,hp:60,str:-1,tec:2,wlk:3,tgh:2,joint:{bs:1},comment:["ロボガラポン","ブースト回復効果・貫通弾","爆風に命中した相手毎にブースト回復効果を得られる"]}
+{id:52,name:"アクイーア・エアーズLG",sub:{pwr:25,shl:60,rng:275,spd:300,itv:1000,tec:100},size:"LL",type:"a",cost:90,hp:60,str:-1,tec:2,wlk:3,tgh:2,joint:{bs:1},comment:["","ブースト回復効果・貫通弾","爆風に命中した相手毎にブースト回復効果を得られる","ロボガラポン　BS接続可能"]}
 
 
-{id:9,name:"イルグリプスLG",builtin:{bs:1},joint:{bs:1},type:"a",cost:45,hp:50,str:-1,tec:2,wlk:2,fly:2,tgh:1}
+{id:9,name:"イルグリプスLG",builtin:{bs:1},joint:{bs:1},type:"a",cost:45,hp:50,str:-1,tec:2,wlk:2,fly:2,tgh:1,comment:["BS接続可能",""]}
 {id:202211031,name:"ヴェルズニールLG",type:"a",size:"LL",cost:90,hp:30,str:-1,tec:1,wlk:2,fly:2,tgh:2,sub:{str:100,pwr:0,shl:60,rng:0,spd:200,itv:1000},tunable:{pwp:0},comment:""}
 
 {id:202206041,name:"エスカゴッデスLG",cost:45,hp:70,wlk:3,fly:2,tgh:1,size:"LL",builtin:{bs:1},comment:"BS機能？"}
-{id:6,name:"ガデロガLG",joint:{bs:1},cost:45,hp:65,str:-1,tec:-1,wlk:4,fly:1,tgh:3,comment:"BS接続可能"}
+{id:6,name:"ガデロガLG",joint:{bs:1},cost:45,hp:65,str:-1,tec:-1,wlk:4,fly:1,tgh:3,comment:["BS接続可能","ロボキューブ"]}
 {id:11,name:"ガデロガLG2",joint:{bs:1},cost:55,hp:65,tec:1,wlk:4,fly:-1,tgh:2,sub:{tec:100,pwr:24,rng:100,spd:150,itv:1000},tunable:{pwp:1},type:"c",comment:"BS接続可能"}
 
 
 {id:10,name:"ギガンベルグLG",cost:45,hp:70,str:-1,tec:2,wlk:3,tgh:2}
 {id:15,name:"サイクロテスLG2",sub:{str:100,pwr:30,rng:100,spd:250,itv:3000},tunable:{pwp:1},type:"l",size:"LL",cost:160,hp:75,str:2,wlk:2,fly:-1,tgh:3}
 {id:202301123,name:"サジタルマクシス・CLG",size:"LL",cost:90,hp:60,tec:2,wlk:2,tgh:2,comment:"シールド耐久値100"}
-{id:2,name:"シノ･イクスロードLG",type:"l",cost:145,hp:55,str:2,tec:-1,wlk:4,tgh:1,sub:{str:100,pwr:28,rng:150,spd:150,itv:1000},tunable:{pwp:1},joint:{bs:1},comment:["WLK依存サブ","シノ・イクスロード系BD装着時ボーナス有り","威力1.1倍　速度強化　CT軽減"]}
-{id:5,name:"シノ･イクスロードLG3",type:"l",cost:225,hp:55,str:2,tec:-1,wlk:3,tgh:2,sub:{str:100,pwr:32,rng:77,spd:94,itv:1000},tunable:{pwp:1},joint:{bs:1},comment:["ヒットストップ無し","アーマー貫通攻撃"]}
+{id:2,name:"シノ･イクスロードLG",type:"l",cost:145,hp:55,str:2,tec:-1,wlk:4,tgh:1,sub:{str:100,pwr:28,rng:150,spd:150,itv:1000},tunable:{pwp:1},joint:{bs:1},comment:["WLK依存サブ","シノ・イクスロード系BD装着時ボーナス有り","威力1.1倍　速度強化　CT軽減","BS接続可能"]}
+{id:5,name:"シノ･イクスロードLG3",type:"l",cost:225,hp:55,str:2,tec:-1,wlk:3,tgh:2,sub:{str:100,pwr:32,rng:77,spd:94,itv:1000},tunable:{pwp:1},joint:{bs:1},comment:["ヒットストップ無し","アーマー貫通攻撃","BS接続可能"]}
 {id:20231212,name:"スライブロスLG",sub:{str:100,pwr:30,shl:0,rng:90,spd:120,itv:1000},tunable:{pwp:1},size:"LL",type:"l",cost:185,hp:45,str:2,tec:-1,wlk:4,fly:2,tgh:-1,comment:["WLK依存サブ","雪まつりオーダー景品"]}
 {id:83,name:"タイタンコイルLG",cost:50,hp:60,tec:2,wlk:3,fly:2,tgh:-1}
 {id:1204,name:"ティタロテスLG",type:"c",cost:105,hp:70,str:-1,tec:2,wlk:2,tgh:3,sub:{pwr:8,shl:400,rng:350,spd:350,itv:1000}}
