@@ -203,7 +203,7 @@
 
 
 {group:"subコンバージョン（順不同）",prefixID:"MOx",nextID:17}
-{id:127,name:"ヴァリアントBD@",sub:{str:100,spd:150,itv:500},type:"a",size:"M",cost:230,slot:0}
+{id:127,name:"ヴァリアントBD@",sub:{str:100,spd:150,itv:500},type:"a",size:"M",cost:250,slot:0,comment:["変形後：ムービングバースト効果","ヴァリアントBD専用コンバージョンパーツ"]}
 {id:20230608,name:"オーガヒルBD2@",sub:{tec:100,pwr:10,shl:20,rng:300,spd:250,itv:500},tunable:{pwp:0},type:"c",size:"M",cost:30,slot:0,comment:["オーガヒルBD2専用コンバージョンパーツ","メルト効果","イグニス"]}
 
 
