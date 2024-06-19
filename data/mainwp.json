@@ -87,16 +87,16 @@
 {id:15,name:"エイトバルカン",type:"lc",size:"LL",cost:110,main:{pwr:7,shl:2880,rng:120,spd:480,itv:140},comment:["減衰率：60％","2024/6/19"]}
 {id:17,name:"デルタバルカン",type:"l",size:"LL",cost:180,main:{pwr:13,shl:1520,rng:120,spd:480,itv:140},comment:["減衰率：60％","2024/6/5"]}
 
-{id:24,name:"コンパクトガトリング",type:"lc",size:"M",cost:110,main:{pwr:10,shl:1080,rng:225,spd:400,itv:140},comment:["減衰率：60％","2024/6/19"]}
-{id:18,name:"バスターガトリング",type:"l",size:"L",cost:170,main:{pwr:13,shl:1100,rng:225,spd:400,itv:140}}
-{id:19,name:"ヒュージガトリング",type:"l",size:"LL",cost:180,main:{pwr:11,shl:1560,rng:250,spd:400,itv:140}}
-{id:22,name:"ダブルガトリング",type:"l",size:"LL",cost:210,main:{pwr:7,shl:2840,rng:250,spd:400,itv:140},comment:"未実装:2022/10/12"}
-{id:26,name:"LLバルクガトリング",main:{pwr:19,shl:1600,rng:225,spd:440,itv:140},type:"l",size:"LL",cost:220,comment:["減衰率：80％","2024/6/5"]}
+{id:24,name:"コンパクトガトリング",type:"lc",size:"M",cost:110,main:{pwr:15,shl:950,rng:225,spd:440,itv:140},comment:["減衰率：80％　チャージ　自軍貫通","2024/6/19"]}
+{id:18,name:"バスターガトリング",type:"l",size:"L",cost:160,main:{pwr:15,shl:1680,rng:225,spd:440,itv:140},comment:["減衰率：80％　チャージ　自軍貫通","2024/6/19"]}
+{id:19,name:"ヒュージガトリング",type:"l",size:"LL",cost:180,main:{pwr:22,shl:950,rng:225,spd:440,itv:140},comment:["減衰率：80％　チャージ　自軍貫通","2024/6/19"]}
+{id:22,name:"ダブルガトリング",type:"l",size:"LL",cost:210,main:{pwr:8,shl:4200,rng:225,spd:440,itv:140},comment:["未実装:2022/10/12","減衰率：80％　チャージ　自軍貫通","2024/6/19"]}
+{id:26,name:"LLバルクガトリング",main:{pwr:19,shl:1720,rng:225,spd:440,itv:140},type:"l",size:"LL",cost:220,comment:["減衰率：80％　チャージ　自軍貫通","2024/6/5"]}
 
 {id:8,name:"ビームマシンガン",type:"as",size:"S",cost:85,main:{pwr:9,shl:1320,rng:200,spd:480,itv:140},comment:["減衰率：70％　自軍貫通","2024/6/19"]}
 {id:9,name:"ダブルビームマシンガン",type:"a",size:"S",cost:130,main:{pwr:6,shl:2580,rng:200,spd:480,itv:140},comment:["減衰率：70％　自軍貫通（2024/6/19）","結晶コイン景品（13個）"]}
-{id:21,name:"ビームガトリング",main:{pwr:9,shl:1020,rng:250,spd:480,itv:140},type:"a",size:"LL",cost:140}
-{id:29,name:"ダブルビームガトリング",main:{pwr:6,shl:2400,rng:250,spd:480,itv:140},tunable:{mwp:1},size:"LL",type:"a",cost:200}
+{id:21,name:"ビームガトリング",main:{pwr:11,shl:1500,rng:250,spd:480,itv:140},type:"a",size:"LL",cost:140,comment:["減衰率：80％　チャージ　自軍貫通","2024/6/19"]}
+{id:29,name:"ダブルビームガトリング",main:{pwr:8,shl:2940,rng:250,spd:480,itv:140},tunable:{mwp:1},size:"LL",type:"a",cost:205,comment:["減衰率：80％　チャージ　自軍貫通","2024/6/19"]}
 {id:33,name:"ヒートガトリング",main:{tec:100,pwr:10,shl:1200,rng:330,spd:440,itv:140},size:"M",cost:160,type:"c"}
 {id:20220909,name:"ミニマシンガン",size:"M",cost:70,main:{tec:100,pwr:8,shl:800,rng:180,spd:400,itv:140,comment:"ジオグラシス初期装備"}}
 {id:202306095,name:"ウォーターガトリング",main:{tec:100,pwr:8,shl:200,rng:200,spd:400,itv:140},sub:{str:100,pwr:0,shl:0,rng:0,spd:0,itv:500},tunable:{mwp:1},size:"S",cost:100,comment:["梅雨イベント2023オーダー景品",""]}
