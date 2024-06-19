@@ -73,30 +73,33 @@
 
 
 {group:"マシンガン系",prefixID:"MG",commonStat:{tunable:{mwp:1}},nextID:21}
-{id:1,name:"ハンドマシンガン",size:"M",cost:50,main:{pwr:7,shl:1520,rng:160,spd:480,itv:140}}
-{id:3,name:"ナノマシンガン",size:"SS",cost:30,main:{pwr:8,shl:560,rng:160,spd:480,itv:140}}
-{id:2,name:"サブマシンガン",type:"lcs",size:"M",cost:70,main:{pwr:11,shl:680,rng:160,spd:480,itv:140}}
-{id:4,name:"マシンガン",type:"lcs",size:"M",cost:100,main:{pwr:11,shl:1140,rng:160,spd:480,itv:140}}
-{id:5,name:"ドラムマシンガン",type:"l",size:"M",cost:160,main:{pwr:15,shl:1480,rng:160,spd:480,itv:140},comment:["減衰率：70％","2024/6/5"]}
-{id:7,name:"レイジマシンガン",type:"l",size:"M",cost:120,main:{pwr:16,shl:640,rng:160,spd:480,itv:140}}
-{id:14,name:"バルカン",type:"lcs",size:"L",cost:70,main:{pwr:12,shl:1040,rng:120,spd:400,itv:200}}
-{id:15,name:"エイトバルカン",type:"lc",size:"LL",cost:120,main:{pwr:9,shl:1960,rng:120,spd:400,itv:200}}
-{id:16,name:"チェインバルカン",type:"lcs",size:"L",cost:100,main:{pwr:15,shl:1040,rng:120,spd:400,itv:200}}
-{id:17,name:"デルタバルカン",type:"l",size:"LL",cost:180,main:{pwr:12,shl:1360,rng:120,spd:480,itv:140},comment:["減衰率：60％","2024/6/5"]}
-{id:24,name:"コンパクトガトリング",type:"lc",size:"M",cost:110,main:{pwr:10,shl:1080,rng:225,spd:400,itv:140}}
+{id:1,name:"ハンドマシンガン",size:"M",cost:50,main:{pwr:8,shl:1440,rng:160,spd:480,itv:140},comment:["減衰率：70％","2024/6/19"]}
+{id:3,name:"ナノマシンガン",size:"SS",cost:30,main:{pwr:8,shl:840,rng:160,spd:480,itv:140},comment:["減衰率：70％","2024/6/5"]}
+{id:2,name:"サブマシンガン",type:"lcs",size:"M",cost:70,main:{pwr:12,shl:840,rng:160,spd:480,itv:140},comment:["減衰率：70％","2024/6/5"]}
+{id:4,name:"マシンガン",type:"lcs",size:"M",cost:100,main:{pwr:12,shl:1140,rng:160,spd:480,itv:140},comment:["減衰率：70％","2024/6/5"]}
+{id:7,name:"レイジマシンガン",type:"l",size:"M",cost:120,main:{pwr:17,shl:840,rng:160,spd:480,itv:140},comment:["減衰率：70％","2024/6/5"]}
+{id:5,name:"ドラムマシンガン",type:"l",size:"M",cost:150,main:{pwr:16,shl:1480,rng:160,spd:480,itv:140},comment:["減衰率：70％","2024/6/5"]}
+{id:20230824,name:"ゴブマシンガン",main:{tec:100,pwr:21,shl:880,rng:160,spd:480,itv:140},tunable:{mwp:1},type:"l",size:"M",cost:160,comment:["減衰率70％","パーツクリエイト",""]}
+{id:20230407,name:"07式サブマシンガン",size:"M",cost:125,main:{tec:100,pwr:14,shl:1480,rng:160,spd:480,itv:140},type:"lc",comment:["減衰率：70％","2024/6/5","コラボイベントオーダー景品"]}
+
+{id:14,name:"バルカン",type:"lcs",size:"L",cost:75,main:{pwr:11,shl:1480,rng:120,spd:400,itv:140},comment:["減衰率：60％","2024/6/19"]}
+{id:16,name:"チェインバルカン",type:"lcs",size:"L",cost:100,main:{pwr:17,shl:720,rng:120,spd:480,itv:140},comment:["減衰率：60％","2024/6/19"]}
+{id:15,name:"エイトバルカン",type:"lc",size:"LL",cost:110,main:{pwr:7,shl:2880,rng:120,spd:480,itv:140},comment:["減衰率：60％","2024/6/19"]}
+{id:17,name:"デルタバルカン",type:"l",size:"LL",cost:180,main:{pwr:13,shl:1520,rng:120,spd:480,itv:140},comment:["減衰率：60％","2024/6/5"]}
+
+{id:24,name:"コンパクトガトリング",type:"lc",size:"M",cost:110,main:{pwr:10,shl:1080,rng:225,spd:400,itv:140},comment:["減衰率：60％","2024/6/19"]}
 {id:18,name:"バスターガトリング",type:"l",size:"L",cost:170,main:{pwr:13,shl:1100,rng:225,spd:400,itv:140}}
 {id:19,name:"ヒュージガトリング",type:"l",size:"LL",cost:180,main:{pwr:11,shl:1560,rng:250,spd:400,itv:140}}
 {id:22,name:"ダブルガトリング",type:"l",size:"LL",cost:210,main:{pwr:7,shl:2840,rng:250,spd:400,itv:140},comment:"未実装:2022/10/12"}
 {id:26,name:"LLバルクガトリング",main:{pwr:19,shl:1600,rng:225,spd:440,itv:140},type:"l",size:"LL",cost:220,comment:["減衰率：80％","2024/6/5"]}
-{id:8,name:"ビームマシンガン",type:"as",size:"S",cost:90,main:{pwr:9,shl:580,rng:200,spd:480,itv:140}}
-{id:9,name:"ダブルビームマシンガン",type:"a",size:"S",cost:130,main:{pwr:6,shl:1170,rng:200,spd:480,itv:140},comment:"結晶コイン景品（13個）"}
+
+{id:8,name:"ビームマシンガン",type:"as",size:"S",cost:85,main:{pwr:9,shl:1320,rng:200,spd:480,itv:140},comment:["減衰率：70％　自軍貫通","2024/6/19"]}
+{id:9,name:"ダブルビームマシンガン",type:"a",size:"S",cost:130,main:{pwr:6,shl:2580,rng:200,spd:480,itv:140},comment:["減衰率：70％　自軍貫通（2024/6/19）","結晶コイン景品（13個）"]}
 {id:21,name:"ビームガトリング",main:{pwr:9,shl:1020,rng:250,spd:480,itv:140},type:"a",size:"LL",cost:140}
 {id:29,name:"ダブルビームガトリング",main:{pwr:6,shl:2400,rng:250,spd:480,itv:140},tunable:{mwp:1},size:"LL",type:"a",cost:200}
 {id:33,name:"ヒートガトリング",main:{tec:100,pwr:10,shl:1200,rng:330,spd:440,itv:140},size:"M",cost:160,type:"c"}
 {id:20220909,name:"ミニマシンガン",size:"M",cost:70,main:{tec:100,pwr:8,shl:800,rng:180,spd:400,itv:140,comment:"ジオグラシス初期装備"}}
-{id:20230407,name:"07式サブマシンガン",size:"M",cost:130,main:{tec:100,pwr:13,shl:1440,rng:160,spd:480,itv:140},type:"lc",comment:"コラボイベントオーダー景品"}
 {id:202306095,name:"ウォーターガトリング",main:{tec:100,pwr:8,shl:200,rng:200,spd:400,itv:140},sub:{str:100,pwr:0,shl:0,rng:0,spd:0,itv:500},tunable:{mwp:1},size:"S",cost:100,comment:["梅雨イベント2023オーダー景品",""]}
-{id:20230824,name:"ゴブマシンガン",main:{tec:100,pwr:20,shl:600,rng:160,spd:480,itv:140},tunable:{mwp:1},type:"l",size:"M",cost:160,comment:["パーツクリエイト",""]}
 {id:202402081,name:"イクスクレアガトリングR",main:{tec:100,pwr:9,shl:900,rng:225,spd:400,itv:200},type:"l",size:"M",cost:100,comment:["誘導弾","イクスクレアイベント景品"]}
 
 
@@ -429,7 +432,7 @@
 
 
 {id:1591,name:"マニモウィング@",main:{str:100,pwr:7,shl:900,rng:300,spd:400,itv:440},type:"a",size:"M",comment:["ビーム爆風100％","マニモウィング専用コンバーションパーツ"],cost:40}
-{id:20240606,name:"ムルルガルBD@2",main:{pwr:46,shl:220,rng:350,spd:440,itv:900},cost:160,type:"c",size:"L",comment:["ムルルガルBD専用コンバージョンパーツ"]}
+{id:20240606,name:"ムルルガルBD@2",main:{pwr:46,shl:220,rng:350,spd:440,itv:900},cost:160,type:"c",size:"L",comment:["爆風100％","ムルルガルBD専用コンバージョンパーツ"]}
 
 {id:20221102,name:"メテオールプファイル",size:"S",type:"a",cost:20,main:{tec:100,pwr:0,shl:15,rng:0,spd:10,itv:1000},comment:"セリカ・ホーク専用コンバージョンパーツ"}
 {id:141,name:"モノケロスロッド",main:{pwr:38,shl:280,rng:330,spd:400,itv:800,tec:100},sub:{pwr:9,shl:300,rng:300,spd:280,itv:1000,tec:100},type:"c",size:"S",cost:170,comment:["ルミエラAM、ルミエラAM3専用コンバージョンパーツ","-"]}
