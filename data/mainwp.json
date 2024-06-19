@@ -79,7 +79,7 @@
 {id:4,name:"マシンガン",type:"lcs",size:"M",cost:100,main:{pwr:12,shl:1140,rng:160,spd:480,itv:140},comment:["減衰率：70％","2024/6/5"]}
 {id:7,name:"レイジマシンガン",type:"l",size:"M",cost:120,main:{pwr:17,shl:840,rng:160,spd:480,itv:140},comment:["減衰率：70％","2024/6/5"]}
 {id:5,name:"ドラムマシンガン",type:"l",size:"M",cost:150,main:{pwr:16,shl:1480,rng:160,spd:480,itv:140},comment:["減衰率：70％","2024/6/5"]}
-{id:20230824,name:"ゴブマシンガン",main:{tec:100,pwr:21,shl:880,rng:160,spd:480,itv:140},tunable:{mwp:1},type:"l",size:"M",cost:160,comment:["減衰率70％","パーツクリエイト",""]}
+{id:20230824,name:"ゴブマシンガン",main:{tec:100,pwr:21,shl:880,rng:160,spd:480,itv:140},tunable:{mwp:1},type:"l",size:"M",cost:160,comment:["減衰率；70％","パーツクリエイト",""]}
 {id:20230407,name:"07式サブマシンガン",size:"M",cost:125,main:{tec:100,pwr:14,shl:1480,rng:160,spd:480,itv:140},type:"lc",comment:["減衰率：70％","2024/6/5","コラボイベントオーダー景品"]}
 
 {id:14,name:"バルカン",type:"lcs",size:"L",cost:75,main:{pwr:11,shl:1480,rng:120,spd:400,itv:140},comment:["減衰率：60％","2024/6/19"]}
@@ -90,7 +90,7 @@
 {id:24,name:"コンパクトガトリング",type:"lc",size:"M",cost:110,main:{pwr:15,shl:950,rng:225,spd:440,itv:140},comment:["減衰率：80％　チャージ　自軍貫通","2024/6/19"]}
 {id:18,name:"バスターガトリング",type:"l",size:"L",cost:160,main:{pwr:15,shl:1680,rng:225,spd:440,itv:140},comment:["減衰率：80％　チャージ　自軍貫通","2024/6/19"]}
 {id:19,name:"ヒュージガトリング",type:"l",size:"LL",cost:180,main:{pwr:22,shl:950,rng:225,spd:440,itv:140},comment:["減衰率：80％　チャージ　自軍貫通","2024/6/19"]}
-{id:22,name:"ダブルガトリング",type:"l",size:"LL",cost:210,main:{pwr:8,shl:4200,rng:225,spd:440,itv:140},comment:["未実装:2022/10/12","減衰率：80％　チャージ　自軍貫通","2024/6/19"]}
+{id:22,name:"ダブルガトリング",type:"l",size:"LL",cost:210,main:{pwr:8,shl:4200,rng:225,spd:440,itv:140},comment:["未実装：2022/10/12","減衰率：80％　チャージ　自軍貫通","2024/6/19"]}
 {id:26,name:"LLバルクガトリング",main:{pwr:19,shl:1720,rng:225,spd:440,itv:140},type:"l",size:"LL",cost:220,comment:["減衰率：80％　チャージ　自軍貫通","2024/6/5"]}
 
 {id:8,name:"ビームマシンガン",type:"as",size:"S",cost:85,main:{pwr:9,shl:1320,rng:200,spd:480,itv:140},comment:["減衰率：70％　自軍貫通","2024/6/19"]}
