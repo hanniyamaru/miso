@@ -887,5 +887,5 @@
 {id:197,name:"フェルメBS",sub:{tec:100,pwr:22,shl:150,rng:250,spd:250,itv:1000},type:"l",size:"S",cost:55,hp:20,str:-1,tec:2,wlk:1,fly:3,comment:["フェルメBD専用コンバージョンパーツ"]}
 {id:159,name:"マニモウィング",sub:{shl:60,spd:160,itv:1000},builtin:{bs:-1},joint:{wp:1},type:"a",size:"M",cost:70,hp:25,str:1,fly:2,tgh:2,slot:0}
 {id:202306151,name:"リティアBS（カルトスウィング）",cost:35,hp:20,str:3,tec:-1,fly:2,tgh:1,joint:{wp:1},type:"a",comment:["名称変更","リティアBD専用コンバージョンパーツ"]}
-{id:20240703,name:"レジナ・ウィンベルBD@",main:{tec:100,pwr:12,shl:630,rng:250,spd:280,itv:660},sub:{str:100,pwr:5,shl:30,rng:0,spd:250,itv:1000},tunable:{mwp:1},size:"S",type:"s",cost:60,comment:["メイン：ビーム属性+ショック効果　サブ：バインド効果","レジナ・ウィンベル専用コンバージョンパーツ"]}
+{id:20240703,name:"レジナ・ウィンベルBD@",main:{tec:100,pwr:12,shl:630,rng:250,spd:280,itv:660},sub:{str:100,pwr:5,shl:30,rng:0,spd:250,itv:1000},tunable:{mwp:1},size:"S",type:"s",cost:60,joint:{bs:1},comment:["メイン：ビーム属性+ショック効果　サブ：バインド効果","レジナ・ウィンベル専用コンバージョンパーツ"]}
 {id:125,name:"A.L.E.ラズフラムBS",sub:{pwr:20,shl:30,rng:150,spd:200,itv:500,tec:100},type:"l",size:"S",comment:"A.L.EラズフラムLG専用コンバージョンパーツ",cost:70,hp:25,str:-1,tec:2,wlk:2,fly:2}
