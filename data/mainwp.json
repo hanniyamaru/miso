@@ -480,6 +480,11 @@
 {id:202308025,name:"バトルフレームEβ",main:{tec:100,pwr:9,shl:1280,rng:275,spd:440,itv:640},sub:{tec:100,pwr:11,shl:40,rng:275,spd:300,itv:1000},type:"a",size:"S",cost:180,comment:"イヴSwmBFLG専用コンバージョンパーツ"}
 {id:20221208,name:"E.V.E.Archetyep※1",main:{tec:100,pwr:30,shl:100,rng:275,spd:360,itv:1000},type:"a",size:"S",cost:100,comment:["RUIN CANNON","パワーレス4秒","イヴAM専用コンバージョンパーツ"]}
 {id:202212081,name:"E.V.E.Archetyep※2",main:{tec:100,pwr:28,shl:420,rng:275,spd:440,itv:500},type:"a",size:"S",cost:130,comment:["E.V.E.SHOT","ビーム属性爆風100％","確率パワーレス2秒","イヴAM2専用コンバージョンパーツ"]}
+{group:"イオンコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
+{id:202407032,name:"アクアポット@",main:{tec:100,pwr:27,shl:240,rng:250,spd:180,itv:1000},type:"l",size:"S",cost:70,tunable:{mwp:1},comment:["リンクショット対応","イオン専用コンバージョンパーツ",""]}
+{id:2024070321,name:"イオンBD@",main:{tec:100,pwr:15,shl:660,rng:250,spd:350,itv:700},sub:{str:100,pwr:0,shl:0,rng:0,spd:250,itv:1000},type:"l",size:"S",cost:110,tunable:{mwp:1},comment:["リンクショット対応","水場で使用すると「浄化の水」を1つ獲得できる。水場以外で使用すると「浄化の水」を1つ消費し以下の効果を得る。","ピュリファイ効果が発生する。アクアウォーク効果が発生する。最大HPの10%を回復する(上限70)","「浄化の水」を消費できない場合、上記効果は発生しない。","※ピュリファイ:バッドステータス効果を無効にし、無効にした数秒後にピュリファイは解除される。","イオン専用コンバージョンパーツ",""]}
+
+
 
 {group:"イクスクレアコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:202402084,name:"イクスクレアガトリング",main:{str:100,pwr:9,shl:960,rng:250,spd:400,itv:200},type:"l",size:"M",cost:100,tunable:{mwp:1},comment:["リンクショット対応（イクスクレア系パーツのみ）","イクスクレアAM専用コンバージョンパーツ","イクスクレアガラポン"]}
