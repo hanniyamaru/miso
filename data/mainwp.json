@@ -97,7 +97,7 @@
 {id:9,name:"ダブルビームマシンガン",type:"a",size:"S",cost:130,main:{pwr:6,shl:2580,rng:200,spd:480,itv:140},comment:["減衰率：70％　自軍貫通（2024/6/19）","結晶コイン景品（13個）"]}
 {id:21,name:"ビームガトリング",main:{pwr:11,shl:1500,rng:250,spd:480,itv:140},type:"a",size:"LL",cost:140,comment:["減衰率：80％　チャージ　自軍貫通","2024/6/19"]}
 {id:29,name:"ダブルビームガトリング",main:{pwr:8,shl:2940,rng:250,spd:480,itv:140},tunable:{mwp:1},size:"LL",type:"a",cost:205,comment:["減衰率：80％　チャージ　自軍貫通","2024/6/19"]}
-{id:33,name:"ヒートガトリング",main:{tec:100,pwr:10,shl:1200,rng:330,spd:440,itv:140},size:"M",cost:160,type:"c"}
+{id:33,name:"ヒートガトリング",main:{tec:100,pwr:16,shl:1520,rng:330,spd:440,itv:140},size:"M",cost:165,type:"c",comment:["チャージ　自軍貫通　減衰率；80％　爆風100％",""]}
 {id:20220909,name:"ミニマシンガン",size:"M",cost:70,main:{tec:100,pwr:8,shl:800,rng:180,spd:400,itv:140,comment:"ジオグラシス初期装備"}}
 {id:202306095,name:"ウォーターガトリング",main:{tec:100,pwr:8,shl:200,rng:200,spd:400,itv:140},sub:{str:100,pwr:0,shl:0,rng:0,spd:0,itv:500},tunable:{mwp:1},size:"S",cost:100,comment:["梅雨イベント2023オーダー景品",""]}
 {id:202402081,name:"イクスクレアガトリングR",main:{tec:100,pwr:9,shl:900,rng:225,spd:400,itv:200},type:"l",size:"M",cost:100,comment:["誘導弾","イクスクレアイベント景品"]}
@@ -128,7 +128,7 @@
 {id:13,name:"デバイスブレイカー",type:"c",size:"M",cost:90,main:{pwr:33,shl:150,rng:330,spd:480,itv:1000},comment:"結晶コイン景品（13個）"}
 {id:14,name:"コアブレイカー",type:"c",size:"M",cost:140,main:{pwr:39,shl:150,rng:350,spd:480,itv:1000}}
 {id:15,name:"ストラクトブレイカー",type:"c",size:"L",cost:200,main:{pwr:50,shl:120,rng:350,spd:480,itv:1000}}
-{id:26,name:"ガトリングブレイカー",main:{pwr:14,shl:1400,rng:350,spd:480,itv:200},size:"L",type:"c",cost:210}
+{id:26,name:"ガトリングブレイカー",main:{pwr:19,shl:1140,rng:350,spd:480,itv:200},size:"L",type:"c",cost:210,comment:["チャージ　自軍貫通　減衰率90％",""]}
 {id:27,name:"ピアースブレイカー",main:{pwr:38,shl:140,rng:350,spd:480,itv:1000},size:"M",type:"c",cost:170,comment:"貫通+HIT毎に爆風発生"}
 {id:202403063,name:"ハドロンブレイカー",main:{pwr:15,shl:810,rng:330,spd:570,itv:140},size:"M",type:"c",cost:160,comment:"スキロンBst初期装備"}
 
