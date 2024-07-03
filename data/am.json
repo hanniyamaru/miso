@@ -939,7 +939,7 @@
 
 
 
-{id:30,name:"ボイルデックAM",type:"c",cost:95,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,main:{pwr:10,shl:720,rng:330,spd:440,itv:140},tunable:{mwp:1},joint:{wp:0}}
+{id:30,name:"ボイルデックAM",type:"c",cost:95,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,main:{pwr:12,shl:900,rng:330,spd:440,itv:140},tunable:{mwp:1},joint:{wp:0},comment:["自軍貫通　減衰率：80％　爆風100％"]}
 {id:31,name:"ボイルデックAM2",type:"c",cost:95,hp:20,str:-1,tec:1,wlk:2,tgh:3,main:{pwr:9,shl:1000,rng:180,spd:480,itv:100},tunable:{mwp:1},comment:["ダメージ0.7倍？　貫通+確率炎上効果","EG"]}
 {id:54,name:"ポセダインAM",main:{pwr:9,shl:480,rng:275,spd:280,itv:400},type:"a",size:"L",cost:85,hp:20,str:-1,tec:2,fly:2,tgh:2,tunable:{mwp:1}}
 {id:53,name:"ポセダインAM2",sub:{str:100,pwr:32,shl:200,rng:70,spd:85,itv:1000},type:"a",size:"L",cost:165,hp:20,str:3,tec:-1,fly:1,tgh:2,tunable:{pwp:1},joint:{wp:0}}
