@@ -340,7 +340,7 @@
 {id:121,name:"イニトォンAM2",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,type:"a",size:"M",comment:"サブ武器装備不可"}
 
 {id:155,name:"ヴァリアントAM",main:{tec:100,pwr:6,shl:900,rng:275,spd:380,itv:400},tunable:{mwp:1},joint:{am:1},fixedParts:{am:{name:"ヴァリアントAM@",main:{tec:100,pwr:16,shl:260,rng:300,spd:320,itv:700},slot:0,type:"a",size:"M",joint:{wp:0}}},type:"a",size:"M",cost:35,hp:20,tec:2,fly:2,tgh:1,comment:["メインは変形後のみ使用可能","メイン：ブースト回収効果"]}
-{id:202407034,name:"ヴァリアントAM2",main:{tec:100,pwr:12,shl:450,rng:275,spd:400,itv:400},tunable:{mwp:1},joint:{am:1},fixedParts:{am:{name:"ヴァリアントAM2@",main:{tec:100,pwr:21,shl:300,rng:300,spd:530,itv:600},slot:0,type:"a",size:"M",joint:{wp:0}}},type:"a",size:"M",cost:35,hp:20,tec:2,fly:2,tgh:1,comment:["メインは変形後のみ使用可能","イーズ"]}
+{id:202407034,name:"ヴァリアントAM2",main:{tec:100,pwr:12,shl:450,rng:275,spd:400,itv:400},tunable:{mwp:1},joint:{am:1},fixedParts:{am:{name:"ヴァリアントAM2@",main:{tec:100,pwr:21,shl:300,rng:300,spd:530,itv:600},slot:0,type:"a",size:"M",joint:{wp:0}}},type:"a",size:"M",cost:35,hp:20,tec:3,fly:1,tgh:1,comment:["メインは変形後のみ使用可能","イーズ"]}
 
 {id:176,name:"ウィザメルAM",main:{tec:100,pwr:8,shl:400,rng:275,spd:440,itv:300},tunable:{mwp:1},cost:65,hp:20,str:-1,tec:2,fly:2,tgh:2,type:"a",size:"M"}
 {id:330,name:"ウィンドリンクスAM",cost:40,hp:25,tec:1,wlk:1,fly:1,tgh:2}
