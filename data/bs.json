@@ -540,7 +540,7 @@
 
 {id:9,name:"ビクトリーBS",type:"c",cost:35,hp:20,tec:1,wlk:1,fly:2,tgh:1}
 {id:58,name:"ビクトリーFBBS",type:"c",cost:35,hp:20,tec:1,wlk:1,fly:2,tgh:1,comment:["ロボガラポン"]}
-{id:20240704,name:"ビルダームBS2",type:"c",cost:170,hp:20,str:-1,tec:4,fly:2,main:{tec:100,pwr:13,shl:1560,rng:330,spd:440,itv:140},tunable:{mwp:1}}
+{id:20240704,name:"ビルダームBS2",type:"c",cost:170,hp:20,str:-1,tec:4,fly:2,main:{tec:100,pwr:13,shl:1560,rng:330,spd:440,itv:140},tunable:{mwp:1},comment:"ビルダーム・ガード"}
 
 
 {id:52,name:"ビャッコウBS",type:"l",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:2,tgh:2}
