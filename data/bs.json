@@ -515,7 +515,7 @@
 
 {id:11202,name:"ノヴァディカロスBS",sub:{shl:20,spd:150,itv:1000},type:"a",size:"M",cost:55,hp:20,wlk:-1,fly:4,tgh:2,comment:["◆CT12秒 ◆ブースト回復：100％","◆離陸：斜め前方のみ ◆飛行：入力方向※1","※1　ブーストゲージ消失中は消失直前の進行方向を受け継ぎ、ゲージ消失中は移動キー入力を受け付けない"]}
 {id:20231221,name:"ハープーンBS",main:{tec:100,pwr:13,shl:420,rng:275,spd:350,itv:300},sub:{tec:100,pwr:15,shl:150,rng:275,spd:350,itv:1000},tunable:{mwp:1,pwp:0},type:"a",size:"M",cost:155,hp:20,str:-1,tec:3,fly:3,comment:["メイン：ビーム爆風100％","サブ：ビーム爆風100％","雪まつりオーダー景品"]}
-{id:2022114,name:"パーポBS",type:"s",cost:135,hp:20,wlk:1,fly:3,tgh:1,sub:{str:100,pwr:0,shl:20,rng:0,spd:0,itv:1000},comment:["回復量64?","回復可能数3人"]}
+{id:2022114,name:"パーポBS",type:"s",cost:135,hp:20,wlk:1,fly:3,tgh:1,sub:{str:100,pwr:0,shl:20,rng:0,spd:0,itv:1000},comment:["回復量65","回復可能数3人"]}
 {id:202204142,name:"バイオロンBS",type:"s",size:"M",cost:35,hp:20,str:-1,tec:2,fly:3,tgh:1,comment:["アリーナコイン景品"]}
 
 {id:131,name:"ハイガクゥーンBS",main:{pwr:7,shl:300,rng:330,spd:290,itv:880},sub:{pwr:17,shl:140,rng:350,spd:300,itv:1000},tunable:{pwp:0,mwp:0},cost:140,hp:25,str:-1,tec:2,fly:3,tgh:1,type:"c",size:"M",comment:["メイン・サブ：爆風50％","BS@省略・武器チューン不可"]}
