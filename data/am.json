@@ -899,6 +899,7 @@
 {id:74,name:"ビクトールAM3",main:{tec:100,pwr:32,shl:220,rng:330,spd:360,itv:800},tunable:{mwp:1},type:"c",cost:185,hp:20,str:-1,tec:3,fly:1,tgh:2,joint:{wp:0}}
 {id:89,name:"ビクトールAM4",main:{pwr:15,shl:840,rng:330,spd:480,itv:140},tunable:{mwp:1},type:"c",cost:165,hp:20,str:-1,tec:4,tgh:2,joint:{wp:0}}
 {id:14,name:"ビッグマンテスAM",cost:35,hp:20,str:2,tec:1,tgh:2}
+{id:202407035,name:"ビッグマンテスTriAM",cost:35,hp:20,tec:1,wlk:-1,fly:2,tgh:3}
 
 
 {id:142,name:"ファルクスAM2",sub:{pwr:28,rng:63,spd:77,itv:1300,str:100},type:"l",size:"L",cost:135,hp:20,str:3,tec:-1,wlk:1,tgh:2,tunable:{pwp:1}}
@@ -1045,6 +1046,8 @@
 {id:1201,name:"トルク・マイティバインAM",type:"l",size:"LL",cost:155,hp:25,str:2,tec:-1,wlk:2,tgh:2,main:{str:100,pwr:20,shl:30,rng:200,spd:500,itv:500},sub:{str:100,pwr:36,shl:30,rng:70,spd:85,itv:2000},tunable:{mwp:1,pwp:1},joint:{wp:0},comment:["シールド耐久値88"]}
 {id:1202,name:"トルク・マイティバインAM2",sub:{str:100,pwr:34,shl:30,rng:80,spd:300,itv:1000},tunable:{pwp:1},type:"l",size:"LL",cost:115,hp:25,str:2,tec:-1,wlk:2,tgh:2,comment:["シールド耐久値88"]}
 {id:15,name:"ビッグマンテスAM2",type:"a",cost:135,hp:20,str:-1,tec:3,tgh:3,main:{pwr:7,shl:1000,rng:275,spd:350,itv:900},tunable:{mwp:1},joint:{wp:0}}
+{id:2024070351,name:"ビッグマンテスTriAM2",type:"a",cost:135,hp:20,str:-1,tec:4,fly:1,tgh:1,main:{tec:100,pwr:12,shl:680,rng:275,spd:280,itv:900},tunable:{mwp:1},joint:{wp:0},comment:"チャージ"}
+
 {id:11,name:"ブリガバロンAM",cost:40,hp:25,str:2,tec:-1,wlk:1,tgh:3}
 {id:12,name:"ブリガバロンLAM2",cost:40,hp:25,str:2,tec:-1,wlk:1,tgh:3,fixedParts:{wp:{name:"ブリガントシールド",sub:{shl:10,rng:0,spd:0,itv:1000},cost:30,tunable:{pwp:0}}},type:"l",comment:"ブリガバロン専用コンバージョンパーツ"}
 
