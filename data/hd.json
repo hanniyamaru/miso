@@ -294,6 +294,8 @@
 {id:329,name:"キャプテンXHD2",cost:35,hp:20,str:2,tec:1,wlk:2,comment:"キャプテンX・テソロ"}
 
 {id:252,name:"ギャラクシーコマンドHD",cost:40,hp:25,str:-1,tec:2,wlk:2,tgh:2}
+{id:20240718,name:"ギャラクシーデカHD",cost:35,hp:20,str:1,wlk:2,tgh:2,size:"M",comment:["","夏祭りキューブ"]}
+
 {id:204,name:"ギャランバルドHD",cost:40,hp:25,tec:1,wlk:1,tgh:3}
 {id:204108,name:"ギャランバルドHD2",cost:40,hp:25,str:2,tec:-1,wlk:2,fly:1,tgh:1}
 
