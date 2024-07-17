@@ -866,6 +866,7 @@
 
 {id:201,name:"スロット1BSJ",size:"M",cost:0,hp:0,slot:1,comment:["メビウスBSJ（アリーナコイン・アワードコイン）",""]}
 
+{id:20240717,name:"エアポートBSJ",main:{pwr:8,shl:540,rng:275,spd:350,itv:700},cost:50,size:"M",type:"a",slot:1,tunable:{mwp:1},comment:["ブースト回収効果","夏祭りイベントオーダー景品"]}
 
 {id:1,name:"ポールフラッグBSJ",size:"M",cost:15,hp:10,slot:1,comment:"-"}
 {id:2,name:"ロングフラッグBSJ",size:"M",cost:15,hp:10,slot:1,comment:"-"}
