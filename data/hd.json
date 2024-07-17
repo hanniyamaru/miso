@@ -21,7 +21,7 @@
 {id:156,name:"キールメスHD",cost:35,hp:20,tec:2,wlk:2,fly:1}
 
 {id:3,name:"キャノンボールHD",cost:35,hp:20,tec:2,wlk:1,tgh:2}
-{id:202407171,name:"キャット・CHD",cost:35,hp:20,tec:1,wlk:3,fly:1,comment:["夏祭り2024景品",""]}
+{id:202407171,name:"キャット・CHD",cost:35,hp:20,tec:1,wlk:3,fly:1,comment:["夏祭りキューブ",""]}
 
 
 {id:20220523,name:"クローリアHD",size:"S",cost:35,hp:20,str:2,tec:-1,wlk:2,tgh:2}
