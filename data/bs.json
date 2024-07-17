@@ -401,6 +401,8 @@
 {id:164,name:"キャノンボールDRBS",size:"M",type:"l",cost:35,hp:20,tec:1,wlk:2,fly:2,comment:["ミッション景品"]}
 {id:193,name:"キャプテンXBS2",type:"l",size:"M",cost:35,hp:20,str:1,tec:1,wlk:-1,fly:2,tgh:2,comment:"キャプテンX・テソロ"}
 {id:114,name:"ギャラクシーコマンドBS",type:"c",cost:35,hp:20,str:-1,tec:1,wlk:1,fly:3,tgh:1}
+{id:20240718,name:"ギャラクシーデカBS",cost:35,hp:20,str:2,tec:-1,fly:3,tgh:1,type:"l",size:"M",comment:["","夏祭りキューブ"]}
+
 {id:96,name:"ギャランバルドBS",type:"l",cost:45,hp:25,str:2,tec:-1,wlk:1,fly:3}
 {id:78,name:"クアドラBS",type:"c",size:"M",cost:35,hp:20,tec:1,wlk:1,fly:2,tgh:1}
 {id:202212102,name:"クアドラBS2",type:"c",cost:35,hp:20,wlk:1,fly:2,tgh:2,comment:"クアドラ・ロンド"}
