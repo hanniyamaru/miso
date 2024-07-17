@@ -199,7 +199,7 @@
 
 {id:202401087,name:"ゼファーブレード",type:"a",size:"M",cost:50,sub:{str:100,pwr:30,shl:60,rng:77,spd:94,itv:1000},tunable:{pwp:1},comment:"アイオリウス初期装備"}
 {id:20231101,name:"アサシンエッジ",sub:{str:100,pwr:30,shl:0,rng:150,spd:250,itv:1000},size:"SS",type:"l",tunable:{pwp:0},cost:60,comment:["サブロック式（ワープ攻撃）","別武器コンボ最終段は回転斬りに変化（貫通攻撃）","シャドウハンター・扇初期装備"]}
-{id:20240718,name:"ツインブレード",type:"l",size:"M",cost:140,sub:{str:100,pwr:33,shl:0,rng:77,spd:94,itv:1000},tunable:{pwp:1},comment:["①ギャラクシーデカ初期装備　②夏祭り2024景品"]}
+{id:20240718,name:"ツインブレード",type:"l",size:"M",cost:140,sub:{str:100,pwr:33,shl:0,rng:77,spd:94,itv:1000},tunable:{pwp:1},comment:["①ギャラクシーデカ初期装備　②夏祭りキューブ"]}
 
 
 
