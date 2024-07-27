@@ -1060,6 +1060,7 @@
 {id:160,name:"ペルセシウスAM2",size:"LL",cost:80,hp:25,str:1,tec:1,tgh:3,comment:"盾耐久値100"}
 
 {id:1,name:"マイティバインAM3",type:"l",cost:155,hp:25,str:4,wlk:2,fly:-1,main:{str:100,pwr:9,shl:780,rng:150,spd:400,itv:500},sub:{str:100,pwr:38,shl:30,rng:70,spd:85,itv:500},tunable:{mwp:1,pwp:1},joint:{wp:0},comment:"-"}
+{id:20240728,name:"マウントスAM",sub:{str:100,pwr:32,rng:120,spd:250,itv:500},tunable:{pwp:1},joint:{wp:0},size:"LL",type:"l",cost:110,hp:25,str:3,tec:-1,wlk:0,fly:0,tgh:3,comment:""}
 {id:16,name:"マシンドレットAM",sub:{str:100,pwr:33,rng:100,spd:180,itv:1000},tunable:{pwp:1},joint:{wp:0},type:"l",cost:150,hp:25,str:3,tec:-1,wlk:1,fly:-1,tgh:3,comment:["コンボ可","2022/4/20"]}
 {id:20231004,name:"マシンドレットAM3",main:{str:100,pwr:14,shl:50,rng:200,spd:500,itv:500},sub:{str:100,pwr:30,shl:0,rng:56,spd:68,itv:1000},tunable:{mwp:1,pwp:1},size:"LL",type:"l",cost:150,hp:25,str:4,tec:-1,tgh:2,joint:{wp:0},comment:["左右装備時攻撃変化","リンクショット対応","HW"]}
 
