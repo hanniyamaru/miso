@@ -424,7 +424,7 @@
 {id:81,name:"フラップジャックLG2",main:{tec:100,pwr:10,shl:450,rng:275,spd:280,itv:900},sub:{str:100,pwr:0,shl:100,rng:100,spd:180,itv:1000},tunable:{mwp:1},cost:100,hp:25,tec:2,wlk:3,fly:2,tgh:-1,type:"a",comment:["◆CT4秒 ◆ブースト回復：40％","◆離陸：垂直 ◆飛行：入力方向※1","※1　ブーストゲージ消失中は消失直前の進行方向を受け継ぎ、ゲージ消失中は移動キー入力を受け付けない","BS機能搭載","BB"],builtin:{bs:1}}
 
 
-{id:333,name:"ブラディスターLG",type:"cl",cost:70,hp:25,tec:2,wlk:2,fly:1,tgh:1,sub:{str:100,pwr:0,shl:25,rng:100,spd:200,itv:600},tunable:{pwp:1}}
+{id:333,name:"ブラディスターLG",type:"cl",cost:65,hp:25,tec:2,wlk:2,fly:1,tgh:1,sub:{str:100,pwr:0,shl:30,rng:100,spd:200,itv:1000},tunable:{pwp:1}}
 {id:202203031,name:"ブリスガンド・ポーンLG",cost:45,hp:25,str:3,wlk:3,fly:-1,tgh:1,comment:["混沌コイン景品"]}
 {id:202310188,name:"プリストルLG",cost:45,hp:25,str:1,wlk:3,fly:1,tgh:1,comment:[""]}
 
