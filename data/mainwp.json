@@ -415,7 +415,7 @@
 {id:2022041813,name:"フラッシュボマーAM@2",main:{tec:100,pwr:13,shl:390,rng:350,spd:290,itv:440},tunable:{mwp:0},type:"c",size:"L",cost:60,comment:"フラッシュボマーAM専用コンバージョンパーツ",tunable:{mwp:0},slot:0}
 
 
-{id:501,name:"ブラディスターAM@",main:{pwr:17,shl:50,rng:250,spd:400,itv:500},size:"M",type:"c",cost:25,slot:0,comment:["非ロックでの飛距離が表記程度","ロックオン武器の射程で飛距離が変わる"]}
+{id:501,name:"ブラディスターAM@",main:{pwr:17,shl:50,rng:300,spd:400,itv:500},size:"M",type:"c",cost:25,slot:0,comment:["非ロックでの飛距離が表記程度","ロックオン武器の射程で飛距離が変わる"]}
 {id:5011,name:"ブラディスターAM2@",main:{pwr:9,shl:420,rng:350,spd:440,itv:960},size:"M",type:"c",cost:30,slot:0}
 
 
@@ -440,7 +440,6 @@
 
 
 {id:20220522,name:"ラッシュガントレット",size:"M",type:"a",cost:80,tunable:{mwp:0,pwp:0},comment:["ヘル・ヴィクトル専用コンバージョンパーツ","左右の表記省略"]}
-{id:83,name:"ロギナス",main:{pwr:32,shl:280,rng:330,spd:440,itv:700},tunable:{mwp:1},type:"c",size:"S",cost:100,comment:"クロエAM専用コンバージョンパーツ"}
 
 
 
@@ -546,6 +545,7 @@
 
 {group:"クロエコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 
+{id:83,name:"ロギナス",main:{pwr:32,shl:300,rng:350,spd:440,itv:700},tunable:{mwp:1},type:"c",size:"S",cost:210,comment:["リンクショット対応　爆風100％","クロエAM専用コンバージョンパーツ"]}
 
 {group:"コレッティコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:20222024,name:"フィン・マスケット",type:"c",size:"S",cost:60,main:{tec:100,pwr:24,shl:350,rng:350,spd:440,itv:600},comment:"コレッティAM専用コンバージョンパーツ"}
