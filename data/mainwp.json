@@ -157,7 +157,7 @@
 {id:21,name:"クルエルレールガン",type:"c",size:"M",cost:140,main:{pwr:20,shl:260,rng:330,spd:520,itv:300}}
 {id:24,name:"ブラストレールガン",main:{pwr:36,tec:100,shl:140,rng:330,spd:520,itv:500},type:"c",size:"M",cost:140}
 {id:22,name:"リニアキャノン",type:"c",size:"L",cost:210,main:{pwr:52,shl:140,rng:350,spd:520,itv:500}}
-{id:500,name:"ソルジャーレールガン",main:{pwr:33,shl:270,rng:330,spd:480,itv:520},size:"M",type:"c",cost:160}
+{id:500,name:"ソルジャーレールガン",main:{pwr:34,shl:390,rng:350,spd:530,itv:500},size:"M",type:"c",cost:160,comment:["爆風70％","ブラディスター初期装備"]}
 {id:44,name:"アクアパラソル",main:{pwr:28,shl:210,rng:250,spd:360,itv:560},type:"lac",size:"M",cost:110,comment:["実弾属性","エンジェルコイン景品（75個）"]}
 {id:501,name:"アメイジングレールガン",main:{pwr:20,shl:240,rng:250,spd:480,itv:600},size:"M",cost:100}
 
