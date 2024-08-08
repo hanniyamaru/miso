@@ -397,6 +397,8 @@
 {id:92,name:"シャーヘッドHD",cost:35,hp:20,str:1,tec:-1,wlk:2,fly:1,tgh:2}
 {id:241,name:"シャーヘッドHD2",cost:35,hp:20,str:2,tec:-1,wlk:1,fly:1,tgh:2}
 {id:202310181,name:"ジャガーアームHD",size:"M",cost:35,hp:20,tec:2,wlk:1,tgh:2,comment:[""]}
+{id:202408084,name:"ジャガーアームHD2",size:"M",cost:35,hp:20,str:3,tec:-1,fly:1,tgh:2,comment:["アサルトジャガー"]}
+
 {id:11019,name:"ジャックオーHD",type:"lacs",size:"M",cost:40,hp:25,str:2,tec:2,tgh:1}
 
 {id:309,name:"シャドウキネシスHD",cost:40,hp:25,tec:3,wlk:1,fly:1}
