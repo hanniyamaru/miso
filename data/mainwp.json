@@ -487,7 +487,7 @@
 
   
 {group:"イスチナ・バレットコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
-{id:122,name:"エクスピアシオン（Ⅱ）",sub:{itv:500},joint:{wp:2},type:"a",size:"L",slot:0,comment:["狙撃体制時1.1倍","イスチナ専用コンバージョンパーツ"]}
+{id:122,name:"エクスピアシオン（Ⅱ）",sub:{itv:500},joint:{wp:2},type:"a",size:"L",slot:0,comment:["狙撃体制時：射程1.1倍","イスチナ専用コンバージョンパーツ"]}
 {id:123,name:"エクスピアシオン@1",main:{tec:100,pwr:26,shl:300,rng:450,spd:500,itv:800},type:"a",size:"M",cost:120,slot:0,comment:["ビーム属性爆風100％","誘導弾"]}
 {id:124,name:"エクスピアシオン@2",main:{tec:100,pwr:44,shl:60,rng:450,spd:420,itv:500},type:"a",size:"M",cost:0,slot:0,comment:["ビーム属性爆風100％","誘導弾　パワーレス+重力"]}
 {id:20240807,name:"エクスピアシオン@3",main:{tec:100,pwr:21,shl:600,rng:380,spd:500,itv:200},type:"a",size:"M",cost:120,slot:0,comment:[""]}
