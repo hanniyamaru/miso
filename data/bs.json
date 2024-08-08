@@ -661,7 +661,8 @@
 
 {id:202401113,name:"エティオンBS",type:"l",size:"L",cost:35,hp:20,fly:3,tgh:2,comment:[""]}
 
-
+{id:202408082,name:"エラフスタッグBS",sub:{str:100,pwr:0,shl:20,rng:0,spd:230,itv:1000},cost:55,hp:20,str:-1,tec:1,fly:3,tgh:2,type:"a",size:"L",comment:["ロックオン対象外効果？"]}
+{id:2024080821,name:"エラフスタッグBS2",cost:35,hp:20,str:1,tec:-1,fly:4,tgh:1,type:"a",size:"L",comment:[""]}
 
 
 
