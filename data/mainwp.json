@@ -605,7 +605,7 @@
 {id:2024060512,name:"アイゼンファウスト",main:{pwr:0,shl:20,rng:0,spd:10,itv:1000,tec:100},type:"l",size:"S",cost:30,comment:["ハンナ・フリッツ専用コンバージョンパーツ","BI"],tunable:{mwp:1}}
 {id:111,name:"ツヴァイ・カノーネ",sub:{str:100,pwr:16,shl:30,rng:150,spd:250,itv:1000},type:"l",size:"S",cost:30,slot:0,comment:"ハンナ・フリッツ専用コンバージョンパーツ"}
 {id:108,name:"シュピッツ・アイゼン",main:{pwr:20,shl:50,rng:200,spd:570,itv:500,str:100},sub:{str:100,pwr:36,rng:77,spd:94,itv:1000},type:"l",size:"S",cost:130,comment:"ハンナ・フリッツ専用コンバージョンパーツ",tunable:{mwp:1,pwp:1}}
-{id:2024060513,name:"シュピッツ・アイゼンD",main:{pwr:10,shl:120,rng:200,spd:570,itv:300,str:100},sub:{str:100,pwr:34,shl:20,rng:90,spd:115,itv:1000},type:"l",size:"S",cost:160,comment:["サブ：ディライブ時、一部減衰無効","ハンナ・フリッツ専用コンバージョンパーツ","BI"],tunable:{mwp:1,pwp:1}}
+{id:2024060513,name:"シュピッツ・アイゼンD",main:{pwr:10,shl:120,rng:200,spd:570,itv:300,str:100},sub:{str:100,pwr:34,shl:20,rng:90,spd:115,itv:1000},type:"l",size:"S",cost:160,comment:["サブ：ディライブ時、一部減衰無効　シェルサプライ不可","ハンナ・フリッツ専用コンバージョンパーツ","BI"],tunable:{mwp:1,pwp:1}}
 {id:107,name:"ハンドゲヴィア",main:{pwr:18,shl:500,rng:225,spd:400,itv:300,str:100},type:"l",size:"S",cost:60,comment:"ハンナ・フリッツ専用コンバージョンパーツ",tunable:{mwp:1}}
 {id:2024060514,name:"ブリッツ・アイゼン",sub:{str:100,pwr:33,shl:0,rng:150,spd:350,itv:1000},type:"l",size:"S",cost:50,slot:0,comment:["ハンナ・フリッツ専用コンバージョンパーツ","BI"]}
 
