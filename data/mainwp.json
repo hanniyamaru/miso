@@ -481,6 +481,11 @@
 {id:202402083,name:"イクスクレアライフル",main:{str:100,pwr:24,shl:380,rng:250,spd:400,itv:500},type:"l",size:"M",cost:100,tunable:{mwp:1},comment:["リンクショット対応（イクスクレア系パーツのみ）","イクスクレアAM専用コンバージョンパーツ","イクスクレアガラポン"]}
 {id:202402082,name:"イクスクレアブレード",sub:{str:100,pwr:33,shl:0,rng:77,spd:94,itv:500},type:"l",size:"M",cost:100,tunable:{mwp:0,pwp:1},comment:["追撃時減衰無効攻撃","イクスクレアAM専用コンバージョンパーツ","イクスクレアガラポン"]}
 
+{id:202408221,name:"イクスクレアAM3@",sub:{str:100,pwr:30,shl:30,rng:150,spd:350,itv:1000},joint:{wp:1},type:"l",size:"M",cost:40,tunable:{mwp:0,pwp:0},comment:["ダイレクトサブ優先表示機能","イクスクレアAM3専用コンバージョンパーツ","イクスクレアガラポンⅡ"]}
+{id:202408222,name:"イクスクレアAM3@2",joint:{wp:1},type:"l",size:"M",cost:0,tunable:{mwp:0,pwp:0},comment:["","イクスクレアAM3専用コンバージョンパーツ","イクスクレアガラポンⅡ"]}
+{id:202408223,name:"エリクスソード",sub:{str:100,pwr:31,shl:0,rng:91,spd:119,itv:1000},type:"l",size:"M",cost:50,tunable:{mwp:0,pwp:1},comment:["","イクスクレアAM3@専用コンバージョンパーツ","イクスクレアガラポンⅡ"]}
+{id:202408224,name:"エリクスブレード",sub:{str:100,pwr:35,shl:0,rng:63,spd:77,itv:1000},type:"l",size:"M",cost:40,tunable:{mwp:0,pwp:1},comment:["","イクスクレアAM3@専用コンバージョンパーツ","イクスクレアガラポンⅡ"]}
+
 {id:202402085,name:"ガストクロウSライフル",main:{tec:100,pwr:12,shl:550,rng:275,spd:400,itv:340},type:"a",size:"M",cost:100,tunable:{mwp:1},comment:["ビーム属性爆風100％？　リンクショット対応（イクスクレア系パーツのみ）","イクスクレアAM2専用コンバージョンパーツ","イクスクレアガラポン"]}
 {id:202402086,name:"ガストクロウLライフル",main:{tec:100,pwr:33,shl:230,rng:275,spd:520,itv:900},sub:{tec:100,pwr:34,shl:100,rng:150,spd:300,itv:1000},type:"a",size:"M",cost:150,tunable:{mwp:1,pwp:0},comment:["メイン：リンクショット対応（イクスクレア系パーツのみ）","サブ：HIT時ブースト回復","イクスクレアAM2専用コンバージョンパーツ","イクスクレアガラポン"]}
 {id:202402087,name:"ガストクロウシールド",main:{tec:100,pwr:0,shl:100,rng:0,spd:10,itv:1000},type:"a",size:"M",cost:30,tunable:{mwp:1},comment:["リンクショット対応（イクスクレア系パーツのみ）","イクスクレアAM2専用コンバージョンパーツ","イクスクレアガラポン"]}
