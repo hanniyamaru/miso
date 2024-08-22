@@ -491,7 +491,7 @@
 {id:202402087,name:"ガストクロウシールド",main:{tec:100,pwr:0,shl:100,rng:0,spd:10,itv:1000},type:"a",size:"M",cost:30,tunable:{mwp:1},comment:["リンクショット対応（イクスクレア系パーツのみ）","イクスクレアAM2専用コンバージョンパーツ","イクスクレアガラポン"]}
 
 {id:202408225,name:"CBランチャー",main:{tec:100,pwr:29,shl:330,rng:350,spd:400,itv:600},type:"c",size:"M",cost:130,tunable:{mwp:1},comment:["","イクスクレアAM4専用コンバージョンパーツ","イクスクレアガラポンⅡ","CB"]}
-{id:202408226,name:"CBシールド",sub:{tec:100,pwr:36,shl:30,rng:70,spd:350,itv:1000},type:"c",size:"M",cost:30,tunable:{pwp:0},comment:["","イクスクレアAM4専用コンバージョンパーツ","イクスクレアガラポンⅡ","CB"]}
+{id:202408226,name:"CBシールド",sub:{tec:100,pwr:36,shl:30,rng:70,spd:350,itv:1000},type:"c",size:"M",cost:30,tunable:{mwp:0,pwp:0},comment:["","イクスクレアAM4専用コンバージョンパーツ","イクスクレアガラポンⅡ","CB"]}
 
 {group:"イスチナ・バレットコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:122,name:"エクスピアシオン（Ⅱ）",sub:{itv:500},joint:{wp:2},type:"a",size:"L",slot:0,comment:["狙撃体制時：射程1.1倍","イスチナ専用コンバージョンパーツ"]}
