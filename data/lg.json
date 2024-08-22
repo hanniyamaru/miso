@@ -249,6 +249,7 @@
 {id:20240208,name:"イクスクレアLG",size:"M",cost:45,hp:25,str:2,tec:-1,wlk:4,tgh:1,comment:["イクスクレアガラポン"]}
 {id:202402081,name:"イクスクレアLG2",size:"M",cost:45,hp:25,str:-1,tec:2,wlk:2,fly:2,tgh:1,comment:["イクスクレアガラポン","GC"]}
 {id:202408221,name:"イクスクレアLG3",type:"l",size:"M",cost:115,hp:25,str:3,tec:-1,wlk:3,tgh:1,sub:{str:100,pwr:33,rng:77,spd:94,itv:1000},tunable:{pwp:1},comment:["イクスクレアガラポンⅡ","SC"]}
+{id:202408222,name:"イクスクレアLG4",size:"M",cost:45,hp:25,wlk:3,tgh:3,comment:["","イクスクレアガラポンⅡ","CB"]}
 
 
 {id:28,name:"イヅナカムイαLG",type:"a",cost:45,hp:25,str:1,wlk:3,fly:1,tgh:1,joint:{bs:1}}
