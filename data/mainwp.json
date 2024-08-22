@@ -488,7 +488,7 @@
 
 {id:202402085,name:"ガストクロウSライフル",main:{tec:100,pwr:12,shl:550,rng:275,spd:400,itv:340},type:"a",size:"M",cost:100,tunable:{mwp:1},comment:["ビーム属性爆風100％？　リンクショット対応（イクスクレア系パーツのみ）","イクスクレアAM2専用コンバージョンパーツ","イクスクレアガラポン"]}
 {id:202402086,name:"ガストクロウLライフル",main:{tec:100,pwr:33,shl:230,rng:275,spd:520,itv:900},sub:{tec:100,pwr:34,shl:100,rng:150,spd:300,itv:1000},type:"a",size:"M",cost:150,tunable:{mwp:1,pwp:0},comment:["メイン：リンクショット対応（イクスクレア系パーツのみ）","サブ：HIT時ブースト回復","イクスクレアAM2専用コンバージョンパーツ","イクスクレアガラポン"]}
-{id:202402087,name:"ガストクロウシールド",main:{tec:100,pwr:0,shl:100,rng:0,spd:10,itv:1000},type:"a",size:"M",cost:30,tunable:{mwp:1},comment:["リンクショット対応（イクスクレア系パーツのみ）","イクスクレアAM2専用コンバージョンパーツ","イクスクレアガラポン"]}
+{id:202402087,name:"ガストクロウシールド",main:{tec:100,pwr:0,shl:100,rng:0,spd:10,itv:1000},type:"a",size:"M",cost:20,tunable:{mwp:1},comment:["リンクショット対応（イクスクレア系パーツのみ）","イクスクレアAM2専用コンバージョンパーツ","イクスクレアガラポン"]}
 
 {id:202408225,name:"CBランチャー",main:{tec:100,pwr:29,shl:330,rng:350,spd:400,itv:600},type:"c",size:"M",cost:130,tunable:{mwp:1},comment:["","イクスクレアAM4専用コンバージョンパーツ","イクスクレアガラポンⅡ","CB"]}
 {id:202408226,name:"CBシールド",sub:{tec:100,pwr:36,shl:30,rng:70,spd:350,itv:1000},type:"c",size:"M",cost:30,tunable:{mwp:0,pwp:0},comment:["","イクスクレアAM4専用コンバージョンパーツ","イクスクレアガラポンⅡ","CB"]}
