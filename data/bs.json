@@ -356,6 +356,7 @@
 {id:20240208,name:"イクスクレアBS",type:"l",size:"M",cost:35,hp:20,wlk:1,fly:3,tgh:1,comment:["イクスクレアガラポン"]}
 {id:202402081,name:"イクスクレアBS2",type:"a",size:"M",cost:35,hp:20,wlk:0,fly:4,tgh:1,comment:["イクスクレアガラポン","GC"]}
 {id:202408221,name:"イクスクレアBS3",type:"l",size:"M",cost:35,hp:20,str:1,wlk:0,fly:2,tgh:2,comment:["イクスクレアガラポンⅡ","SC"]}
+{id:202408222,name:"イクスクレアBS4",main:{tec:100,pwr:13,shl:380,rng:330,spd:290,itv:1000},type:"c",size:"M",cost:115,tunable:{mwp:1},comment:["","イクスクレアAM4専用コンバージョンパーツ","イクスクレアガラポンⅡ","CB"]}
 
 {id:142,name:"イスチナ・バレットBS",type:"a",size:"M",cost:35,hp:20,str:-1,tec:1,fly:2,tgh:3}
 {id:20240807,name:"イスチナ・バレットBS3",type:"a",size:"M",cost:35,hp:20,str:-1,tec:2,fly:3,tgh:2,comment:"RS"}
