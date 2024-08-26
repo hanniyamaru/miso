@@ -203,7 +203,9 @@
 {id:20231101,name:"アサシンエッジ",sub:{str:100,pwr:30,shl:0,rng:150,spd:250,itv:1000},size:"SS",type:"l",tunable:{pwp:0},cost:60,comment:["サブロック式（ワープ攻撃）","別武器コンボ最終段は回転斬りに変化（貫通攻撃）","シャドウハンター・扇初期装備"]}
 {id:20240718,name:"ツインブレード",type:"l",size:"M",cost:140,sub:{str:100,pwr:33,shl:0,rng:77,spd:94,itv:1000},tunable:{pwp:1},comment:["①ギャラクシーデカ初期装備　②夏祭りキューブ"]}
 
-
+{id:202408261,name:"エリクスソードR",size:"M",type:"l",cost:110,sub:{str:100,pwr:30,rng:91,spd:119,itv:1000},tunable:{pwp:1},comment:["","クエスト：VSイクスクレア ランダム報酬"]}
+{id:202408262,name:"エリクスブレードR",size:"M",type:"l",cost:90,sub:{str:100,pwr:34,rng:63,spd:77,itv:1000},tunable:{pwp:1},comment:["","クエスト：VSイクスクレア ランダム報酬"]}
+{id:202408263,name:"エリクスダガー",size:"M",type:"ls",cost:70,sub:{str:100,pwr:28,rng:98,spd:119,itv:1000},tunable:{pwp:1},comment:["","クエスト：VSイクスクレア ランダム報酬"]}
 
 {group:"subコンバージョン（順不同）",prefixID:"MOx",nextID:17}
 {id:127,name:"ヴァリアントBD@",sub:{str:100,spd:150,itv:500},type:"a",size:"M",cost:250,slot:0,comment:["変形後：ムービングバースト効果","ヴァリアントBD専用コンバージョンパーツ"]}
