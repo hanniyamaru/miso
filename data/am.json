@@ -331,7 +331,7 @@
 
 {id:20240208,name:"イクスクレアAM",size:"M",cost:35,hp:20,str:3,tec:-1,wlk:2,tgh:1,comment:["専用コンバージョン有り","イクスクレアガラポン"]}
 {id:202402081,name:"イクスクレアAM2",size:"M",cost:35,hp:20,str:-1,tec:3,fly:2,tgh:1,comment:["専用コンバージョン有り","イクスクレアガラポン","GC"]}
-{id:202408221,name:"イクスクレアAM3",main:{str:100,pwr:15,shl:50,rng:200,spd:500,itv:500},tunable:{mwp:1},type:"l",size:"M",cost:55,hp:20,str:3,tec:-1,wlk:1,tgh:2,comment:["リンクショット対応　専用コンバージョン有り","イクスクレアガラポンⅡ","SC"]}
+{id:202408221,name:"イクスクレアAM3",main:{str:100,pwr:15,shl:50,rng:200,spd:500,itv:500},tunable:{mwp:1},type:"l",size:"M",cost:55,hp:20,str:3,tec:-1,wlk:1,tgh:2,comment:["リンクショット対応　専用コンバージョンのみ装着可能","イクスクレアガラポンⅡ","SC"]}
 {id:202408222,name:"イクスクレアAM4",size:"M",cost:35,hp:20,str:-1,tec:3,wlk:1,tgh:2,comment:["専用コンバージョン有り","イクスクレアガラポンⅡ","CB"]}
 
 
