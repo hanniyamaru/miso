@@ -198,6 +198,7 @@
 {id:202204195,name:"DRIVEソリッドバズーカ",size:"L",cost:120,type:"l",main:{tec:100,pwr:24,shl:360,rng:225,spd:320,itv:500},tunable:{mwp:1},comment:["レッドスクィラDRIVE付属"]}
 
 {id:202308242,name:"エレキバズーカ",type:"c",size:"L",cost:150,main:{tec:100,pwr:31,shl:250,rng:330,spd:440,itv:800},comment:["パーツクリエイト",""]}
+{id:20240902,name:"CBランチャー",size:"M",type:"c",cost:100,sub:{tec:100,pwr:27,shl:300,rng:330,spd:380,itv:640},tunable:{pwp:1},comment:["爆風100％　時軍貫通　下方へ1度落下弾へ変化","長射程","クエスト：VSイクスクレア ランダム報酬"]}
 
   
 {id:2911,name:"メガビームガン",type:"a",size:"L",cost:110,main:{pwr:33,shl:150,rng:275,spd:400,itv:1000}}
