@@ -113,6 +113,7 @@
 
 {id:72,name:"クロタクスBS",type:"l",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:3,tgh:1}
 
+{id:20240904,name:"コニーシェリフBS",size:"S",type:"l",cost:35,hp:20,str:2,tec:-1,wlk:2,fly:2,comment:[""]}
 {id:41,name:"コニーシェリフαBS",size:"S",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:3,type:"l",comment:["ロボガラポン"]}
 {id:20230202,name:"コヨミBS",type:"s",size:"S",cost:35,hp:20,str:-1,tec:1,wlk:1,fly:3,tgh:1}
 
