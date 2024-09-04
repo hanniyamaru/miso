@@ -556,6 +556,7 @@
 {id:45,name:"ハティガルムAM2",cost:70,hp:25,tec:2,wlk:1,fly:1,tgh:1,main:{pwr:11,shl:480,rng:200,spd:400,itv:240},tunable:{mwp:1},joint:{wp:0}}
 {id:202210065,name:"ハティガルムAM3",type:"l",cost:75,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,main:{tec:100,pwr:12,shl:540,rng:250,spd:480,itv:700},tunable:{mwp:1},joint:{wp:0},comment:["ハティガルム・ヘル","実弾属性爆風","爆風20％？"]}
 
+{id:202409045,name:"パラディナイトAM",cost:30,hp:15,str:2,tec:-1,wlk:1,tgh:2}
 {id:20,name:"パラボロイドAM",cost:35,hp:20,str:2,tec:1,wlk:1,tgh:1}
 
 {id:18,name:"バルテオンAM",type:"a",cost:120,hp:25,str:-1,tec:3,fly:1,tgh:2,main:{pwr:12,shl:960,rng:200,spd:480,itv:100},tunable:{mwp:1},joint:{wp:0},comment:"ダメージ0.7倍？"}
