@@ -192,6 +192,7 @@
 
 {id:97,name:"A.L.E.ラズフラムLG",type:"lacs",size:"S",cost:45,hp:25,str:-1,tec:1,wlk:4,tgh:1,joint:{bs:1},comment:["BS接続可能",""]}
 {id:123,name:"G・リモアLG",sub:{shl:30,spd:150,itv:500},type:"c",size:"S",cost:75,hp:25,tec:1,wlk:3,tgh:2}
+{id:202409042,name:"G・リモアLG2",sub:{shl:30,spd:200,itv:1000},size:"S",cost:65,hp:25,wlk:3,fly:2,tgh:1,comment:"F・リモア"}
 
 {id:108,name:"F･リュールLG",type:"lacs",size:"S",cost:40,hp:20,tec:1,wlk:2,fly:2}
 {id:202301123,name:"F･リュールLG2",type:"lacs",size:"S",cost:40,hp:20,tec:1,wlk:2,fly:3,tgh:-1,comment:"F・リュールGP"}
