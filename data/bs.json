@@ -536,6 +536,8 @@
 {id:30,name:"パシファールBS",type:"a",cost:40,hp:25,str:1,tec:1,fly:3}
 {id:202205241,name:"パシファールBS2",size:"M",type:"a",cost:40,hp:25,tec:1,wlk:1,fly:3}
 
+{id:202409045,name:"パラディナイトBS",type:"l",cost:65,hp:20,str:2,tec:-1,fly:3,tgh:1,main:{str:100,pwr:10,shl:100,rng:200,spd:400,itv:1000},tunable:{mwp:1},comment:""}
+
 {id:13,name:"パラボロイドBS",type:"s",cost:35,hp:20,str:1,tec:1,fly:3}
 
 {id:6,name:"バルテオンBS",type:"a",cost:40,hp:25,str:-1,tec:1,fly:3,tgh:2}
