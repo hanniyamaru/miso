@@ -207,6 +207,9 @@
 {id:202408262,name:"エリクスブレードR",size:"M",type:"l",cost:90,sub:{str:100,pwr:34,rng:63,spd:77,itv:1000},tunable:{pwp:1},comment:["","クエスト：VSイクスクレア ランダム報酬"]}
 {id:202408263,name:"エリクスダガーR",size:"M",type:"ls",cost:70,sub:{str:100,pwr:28,rng:98,spd:119,itv:1000},tunable:{pwp:1},comment:["","クエスト：VSイクスクレア ランダム報酬"]}
 
+{id:20240904,name:"ロングブレイド",size:"L",cost:150,type:"l",sub:{str:100,pwr:30,shl:100,rng:77,spd:94,itv:1000},tunable:{pwp:1},comment:["弾数消費時威力1.2倍","パラディナイト初期装備"]}
+
+
 {group:"subコンバージョン（順不同）",prefixID:"MOx",nextID:17}
 {id:127,name:"ヴァリアントBD@",sub:{str:100,spd:150,itv:500},type:"a",size:"M",cost:250,slot:0,comment:["変形後：ムービングバースト効果","ヴァリアントBD専用コンバージョンパーツ"]}
 {id:20230608,name:"オーガヒルBD2@",sub:{tec:100,pwr:10,shl:20,rng:300,spd:250,itv:500},tunable:{pwp:0},type:"c",size:"M",cost:30,slot:0,comment:["オーガヒルBD2専用コンバージョンパーツ","メルト効果","イグニス"]}
