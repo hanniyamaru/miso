@@ -669,7 +669,7 @@
 {id:20240202,name:"アイオリウスAM",sub:{str:100,pwr:28,shl:0,rng:70,spd:85,itv:1000},type:"a",size:"L",tunable:{pwp:1},cost:110,hp:25,str:3,tec:-1,fly:1,tgh:2,comment:["左右装備時：威力アップ+ブースト回復効果","AM@省略"]}
 {id:1,name:"アクイーアAM",cost:35,hp:20,str:2,tec:1,fly:1,tgh:1}
 {id:66,name:"アクイーア・エアーズAM",cost:35,hp:20,tec:2,wlk:-1,fly:2,tgh:2,size:"L",comment:["ロボガラポン"]}
-{id:202409041,name:"アグニザインAM",main:{tec:100,pwr:26,shl:260,rng:330,spd:440,itv:700},tunable:{mwp:1}},cost:105,hp:20,str:-1,tec:3,wlk:2,fly:1,size:"L",type:"c",comment:["AM@省略","強化Lv2以上：+1.1倍ダメージ"]}
+{id:202409041,name:"アグニザインAM",main:{tec:100,pwr:26,shl:260,rng:330,spd:440,itv:700},tunable:{mwp:1},cost:105,hp:20,str:-1,tec:3,wlk:2,fly:1,size:"L",type:"c",comment:["AM@省略","強化Lv2以上：+1.1倍ダメージ"]}
 
 {id:202301122,name:"アストロトルーパーAM",size:"L",cost:65,hp:20,str:1,tec:1,wlk:2,tgh:1,comment:"シールド耐久値80"}
 {id:2023011221,name:"アストロトルーパーAM2",type:"l",size:"L",cost:155,hp:20,str:-1,tec:3,wlk:2,tgh:1,main:{tec:100,pwr:16,shl:600,rng:250,spd:300,itv:400},joint:{wp:0},tunable:{mwp:1},comment:["シールド耐久値80",""]}
