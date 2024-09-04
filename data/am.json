@@ -769,6 +769,7 @@
 {id:36,name:"ジーウェインAM",type:"a",cost:40,hp:25,tec:1,fly:1,tgh:3,builtin:{bs:1}}
 {id:133,name:"ジーウェイン・アーヴAM",type:"a",size:"L",cost:35,hp:20,str:1,tec:1,wlk:-1,fly:1,tgh:3}
 {id:134,name:"ジーウェイン・アーヴAM2",main:{str:100,pwr:15,shl:90,rng:250,spd:500,itv:500},tunable:{mwp:1},type:"a",size:"L",cost:35,hp:20,str:3,tec:-1,fly:1,tgh:2,joint:{wp:0}}
+{id:202409044,name:"ジーウェイン・アーヴAM3",main:{tec:100,pwr:19,shl:480,rng:275,spd:350,itv:400},tunable:{mwp:1},type:"a",size:"L",cost:165,hp:20,str:-1,tec:3,tgh:3,joint:{wp:0},comment:["盾機能：近接防御不可・爆風30％カット","SC"]}
 
 {id:8,name:"シェイデンAM",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1}
 {id:59,name:"シェイデンAM3",cost:40,hp:25,str:2,wlk:1,fly:1,tgh:1}
