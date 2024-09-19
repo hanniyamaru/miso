@@ -228,7 +228,7 @@
 
 {id:581,name:"マイクロミサイルガン",main:{pwr:8,shl:130,rng:330,spd:290,itv:800},type:"c",size:"SS",cost:50}
 {id:58,name:"バーストミサイルガン",main:{pwr:11,shl:180,rng:330,spd:290,itv:900},type:"c",size:"M",cost:130}
-{id:49,name:"スクラムランチャー",main:{pwr:28,shl:270,rng:330,spd:290,itv:800},type:"c",size:"L",cost:140,comment:["爆風100％","相殺機能有り"]}
+{id:49,name:"スクラムランチャー",main:{pwr:28,shl:270,rng:330,spd:290,itv:800},type:"c",size:"L",cost:140,comment:["爆風100％　接触判定：有り","ANTIAIR MISSILE"]}
 {id:81,name:"ミサイルクラスター",main:{tec:100,pwr:9,shl:320,rng:330,spd:290,itv:1200},tunable:{mwp:1},type:"c",size:"M",cost:160}
 {id:585,name:"ブラストミサイルガン",main:{pwr:20,shl:280,rng:330,spd:290,itv:800},type:"c",size:"M",cost:160}
 {id:33,name:"セプタプルランチャー",main:{pwr:6,shl:1260,rng:330,spd:250,itv:900},cost:170,size:"LL",type:"c",comment:["クエストコイン景品（80個）",""]}
@@ -242,7 +242,7 @@
 {id:202204143,name:"フレアスター",size:"M",cost:60,type:"c",main:{tec:100,pwr:12,shl:440,rng:330,spd:290,itv:400},tunable:{mwp:1},comment:["アリーナコイン景品"]}
 {id:202302108,name:"チョコットボムC",size:"M",cost:90,type:"c",main:{tec:100,pwr:15,shl:360,rng:330,spd:280,itv:500},tunable:{mwp:1},comment:["バレンタインオーダー報酬","W共通（イベント中域・ホワイトデーキューブ）"]}
 {id:202302163,name:"グランダムランチャー",main:{tec:100,pwr:11,shl:600,rng:330,spd:290,itv:300},tunable:{mwp:1},type:"c",size:"M",cost:100,comment:["パーツクリエイト",""]}
-{id:202405091,name:"スマートミサイル",main:{tec:100,pwr:15,shl:310,rng:330,spd:330,itv:600},tunable:{mwp:1},type:"cs",size:"S",cost:65,comment:["爆風属性100％","ガンアームズ初期装備"]}
+{id:202405091,name:"スマートミサイル",main:{tec:100,pwr:15,shl:310,rng:330,spd:330,itv:600},tunable:{mwp:1},type:"cs",size:"S",cost:65,comment:["爆風属性100％　接触判定：有り","ガンアームズ初期装備"]}
 
 
 {id:78,name:"ラピッドパルスミサイル",main:{pwr:11,shl:350,rng:275,spd:350,itv:320},tunable:{mwp:1},type:"a",size:"M",cost:110,comment:["ビーム属性爆風50％","結晶コイン景品（20個）"]}
@@ -275,19 +275,20 @@
 {group:"ショットガン系",prefixID:"ST",commonStat:{tunable:{mwp:1}},nextID:14}
 
 {id:1,name:"ショットガン",size:"M",cost:50,main:{pwr:10,shl:1090,rng:150,spd:400,itv:560},auraStat:{comment:["距離減衰・実弾系ショットガン・カスタムショットガン","武器表記威力が命中距離によって割合で減少し、その後にTEC計算される","威力50%~100%"]}}
-{id:2,name:"カスタムショットガン",size:"L",cost:70,main:{pwr:11,shl:1120,rng:150,spd:400,itv:560},comment:"結晶コイン景品（20個）"}
-{id:3,name:"スイーパーショットガン",type:"lc",size:"L",cost:90,main:{pwr:14,shl:910,rng:150,spd:400,itv:720}}
-{id:21,name:"アドバンスショットガン",main:{tec:100,pwr:11,shl:1120,rng:250,spd:400,itv:500},tunable:{mwp:1},type:"l",size:"M",cost:150}
-{id:4,name:"シールドショットガン",type:"lcs",size:"LL",cost:90,main:{pwr:8,shl:990,rng:150,spd:400,itv:680},comment:"シールド耐久値180"}
+{id:2,name:"カスタムショットガン",size:"L",cost:70,main:{pwr:11,shl:1120,rng:150,spd:400,itv:560},comment:["距離減衰有り","結晶コイン景品（20個）"]}
+{id:3,name:"スイーパーショットガン",type:"lc",size:"L",cost:90,main:{pwr:14,shl:910,rng:150,spd:400,itv:720},comment:["距離減衰有り"]}
+{id:4,name:"シールドショットガン",type:"lcs",size:"LL",cost:90,main:{pwr:8,shl:990,rng:150,spd:400,itv:680},comment:["距離減衰有り","シールド耐久値180"]}
 {id:5,name:"バーストショットガン",type:"lc",size:"LL",cost:140,main:{pwr:15,shl:600,rng:210,spd:360,itv:800},comment:["クエストコイン景品（80個）",""]}
+
 {id:20230517,name:"07式ショットガン",type:"lc",size:"L",cost:130,main:{pwr:9,shl:1620,rng:250,spd:400,itv:400}}
+{id:21,name:"アドバンスショットガン",main:{tec:100,pwr:11,shl:1120,rng:250,spd:400,itv:500},tunable:{mwp:1},type:"l",size:"M",cost:150}
 
 
-{id:6,name:"パーティクルガン",type:"as",size:"S",cost:40,main:{pwr:8,shl:1200,rng:150,spd:400,itv:440}}
-{id:8,name:"ブラスター",type:"as",size:"M",cost:90,main:{pwr:5,shl:770,rng:200,spd:440,itv:540}}
-{id:9,name:"ブリッツブラスター",type:"a",size:"L",cost:120,main:{pwr:7,shl:700,rng:200,spd:440,itv:760}}
-{id:10,name:"ツインブラスター",type:"a",size:"L",cost:160,main:{pwr:8,shl:840,rng:200,spd:440,itv:600}}
-{id:11,name:"オメガブラスター",type:"a",size:"LL",cost:200,main:{pwr:13,shl:900,rng:200,spd:440,itv:880}}
+{id:6,name:"パーティクルガン",type:"as",size:"S",cost:40,main:{pwr:8,shl:1200,rng:150,spd:400,itv:440},comment:["距離減衰有り"]}
+{id:8,name:"ブラスター",type:"as",size:"M",cost:90,main:{pwr:5,shl:770,rng:200,spd:440,itv:540},comment:["距離減衰有り"]}
+{id:9,name:"ブリッツブラスター",type:"a",size:"L",cost:120,main:{pwr:7,shl:700,rng:200,spd:440,itv:760},comment:["距離減衰有り"]}
+{id:10,name:"ツインブラスター",type:"a",size:"L",cost:160,main:{pwr:8,shl:840,rng:200,spd:440,itv:600},comment:["距離減衰有り"]}
+{id:11,name:"オメガブラスター",type:"a",size:"LL",cost:200,main:{pwr:13,shl:900,rng:200,spd:440,itv:880},comment:["距離減衰有り"]}
 
 {id:20220706,name:"バレージヒートガン",size:"M",type:"c",cost:120,main:{pwr:19,shl:630,rng:330,spd:400,itv:800},comment:["爆風100％",""]}
 {id:20221005,name:"イーグレットブラスター",type:"a",size:"M",cost:110,main:{pwr:9,shl:660,rng:275,spd:350,itv:800},comment:"Season7アリーナコイン景品"}
@@ -332,8 +333,8 @@
 
 
 {group:"その他",prefixID:"MO",commonStat:{tunable:{mwp:1}},nextID:17}
-{id:45,name:"ドローガン",size:"S",cost:50,main:{pwr:8,shl:300,rng:250,spd:480,itv:500},type:"s"}
-{id:88,name:"チェーンドローガン",size:"S",cost:80,main:{pwr:5,shl:500,rng:250,spd:480,itv:200},type:"s"}
+{id:45,name:"ドローガン",size:"S",cost:50,main:{pwr:8,shl:300,rng:250,spd:480,itv:500},type:"s",comment:["引き寄せ"]}
+{id:88,name:"チェーンドローガン",size:"S",cost:80,main:{pwr:5,shl:500,rng:250,spd:480,itv:200},type:"s",comment:["引き寄せ"]}
 
 {id:6551,name:"フラクタリスアニマ",main:{tec:100,pwr:7,shl:800,rng:275,spd:400,itv:200},tunable:{mwp:1},size:"M",type:"a",cost:200,comment:["フォース系のチューンは子弾の威力が変化した場合のみキャノンの威力にも影響する","キャノン：威力？ 爆風50％　ブースト回復効果","結晶コイン景品（150個）"]}
 
@@ -374,7 +375,7 @@
 {id:20230804,name:"アウロラキャノンR",main:{tec:100,pwr:18,shl:400,rng:275,spd:440,itv:400},type:"a",size:"M",cost:80,comment:["ビーム属性爆風50％","アニマ・ゼータディスクβ（NPCステラ）"]}
 {id:202308041,name:"オルクトヴァッフェR",main:{tec:100,pwr:30,shl:210,rng:330,spd:500,itv:840},type:"c",size:"M",cost:130,comment:["","アニマ・ゼータディスクα（NPCナイア）"]}
 {id:20231211,name:"リーフロッド",main:{tec:100,pwr:12,shl:370,rng:275,spd:400,itv:500},tunable:{mwp:1},cost:70,type:"as",size:"S",comment:["ルボック初期装備・雪まつりオーダー景品",""]}
-{id:20231231,name:"バトルドア",main:{tec:100,pwr:30,shl:180,rng:225,spd:400,itv:1000},tunable:{mwp:1},cost:100,size:"S",comment:["シールド貫通","NYキューブ2024",""]}
+{id:20231231,name:"バトルドア",main:{tec:100,pwr:30,shl:180,rng:225,spd:400,itv:1000},tunable:{mwp:1},cost:100,size:"S",comment:["シールド貫通　実弾属性爆風100％","NYキューブ2024",""]}
 {id:20240421,name:"エンジェルシューターR",main:{tec:100,pwr:15,shl:750,rng:250,spd:440,itv:200},tunable:{mwp:1},cost:100,type:"l",size:"S",comment:["自軍貫通","シルフィーⅡ軽装キューブ（コラボイベント限定）",""]}
 {id:20240821,name:"クレストライフル",main:{tec:100,pwr:27,shl:360,rng:225,spd:400,itv:500},tunable:{mwp:1},cost:130,type:"l",size:"M",comment:["実弾属性爆風100％　自軍貫通","イクスクレアコラボイベント第2弾",""]}
 
@@ -403,7 +404,7 @@
 {id:202204173,name:"スタンホーミングビーム",main:{str:100,pwr:5,shl:100,rng:275,spd:320,itv:500},type:"a",size:"S",cost:35,comment:"クレアモルテBD専用コンバージョンパーツ",tunable:{mwp:1}}
 
 
-{id:20220523,name:"タイラントデストラクトBD@",main:{tec:100,pwr:[13,14,15],shl:540,rng:[350,365,380],spd:[290,310,330],itv:800},tunable:{mwp:0},slot:0,type:"c",size:"L",cost:120,comment:["タイラントデストラクト専用コンバージョンパーツ",""]}
+{id:20220523,name:"タイラントデストラクトBD@",main:{tec:100,pwr:[13,14,15],shl:540,rng:[350,365,380],spd:[290,310,330],itv:800},tunable:{mwp:0},slot:0,type:"c",size:"L",cost:120,comment:["接触判定：有り","ANTIAIR MISSILE","タイラントデストラクト専用コンバージョンパーツ",""]}
 
 {id:202205231,name:"タイラントデストラクトBD@2",sub:{tec:100,pwr:[9,10,11],shl:400,rng:[350,365,380],spd:290,itv:1000},tunable:{mwp:0},slot:0,type:"c",size:"L",cost:120,comment:["タイラントデストラクト専用コンバージョンパーツ",""]}
 {id:202212082,name:"トリニティブレード",type:"l",size:"S",cost:210,main:{str:100,pwr:19,shl:340,rng:250,spd:440,itv:400},sub:{str:100,pwr:32,rng:70,spd:85,itv:1000},tunable:{mwp:1,pwp:1},comment:["ジェイスAM2専用コンバージョン"]}
