@@ -137,11 +137,11 @@
 {id:46,name:"クロスシューター",type:"lacs",size:"S",cost:60,main:{pwr:14,shl:430,rng:250,spd:440,itv:400}}
 {id:48,name:"パワーシューター",type:"l",size:"M",cost:140,main:{pwr:36,shl:230,rng:250,spd:400,itv:760}}
 {id:49,name:"バリスタシューター",size:"M",cost:180,main:{pwr:29,shl:310,rng:250,spd:400,itv:540},type:"la",comment:"欲望コイン景品（20個）"}
-{id:153,name:"クエンチシューター",main:{pwr:17,shl:500,rng:225,spd:440,itv:340},type:"l",size:"M",cost:160}
+{id:153,name:"クエンチシューター",main:{pwr:17,shl:500,rng:225,spd:440,itv:340},type:"l",size:"M",cost:160,comment:["飛距離測定不能　反発効果"]}
 {id:73,name:"トリプルシューター",main:{pwr:10,shl:660,rng:250,spd:320,itv:800},type:"l",size:"M",cost:150,comment:["誘導弾","ミッションコイン景品（65個）"]}
 {id:63,name:"ビームシューター",main:{pwr:26,shl:280,rng:275,spd:485,itv:600},type:"a",size:"M",cost:160}
 {id:2022209,name:"キューピッドシューター",type:"lacs",size:"M",cost:60,main:{pwr:14,shl:430,rng:250,spd:440,itv:400}}
-{id:20230103,name:"プリッツアシューター",type:"lacs",size:"M",cost:75,main:{pwr:10,shl:320,rng:250,spd:320,itv:500},comment:["誘導弾・EOエリザへの着弾で特殊アニメーション","プリッツアディスク：NPCシルビア（アリーナコイン50個）"]}
+{id:20230103,name:"プリッツアシューター",type:"lacs",size:"M",cost:75,main:{pwr:10,shl:320,rng:250,spd:320,itv:500},comment:["誘導弾　　EOエリザ系統への着弾で特殊アニメーション","プリッツアディスク：NPCシルビア（アリーナコイン50個）"]}
 {id:20230309,name:"クロスボウ",type:"lacs",size:"M",cost:100,main:{tec:100,pwr:26,shl:280,rng:250,spd:400,itv:600},comment:["ラズフラムRUSH初期装備",""]}
 {id:202312112,name:"絶対零弩",main:{tec:100,pwr:32,shl:240,rng:275,spd:480,itv:800},tunable:{mwp:1},cost:170,type:"a",size:"S",comment:["ビーム爆風100％","雪まつりオーダー景品"]}
 
@@ -606,7 +606,7 @@
 {id:20222023,name:"ブリッツBマシンガン",main:{tec:100,pwr:14,shl:720,rng:275,spd:440,itv:240},joint:{wp:1},fixedParts:{wp:{name:"コネクトブラスト",main:{pwr:20,shl:430,rng:350,spd:400,itv:500},slot:0}},type:"a",size:"S",cost:120,comment:"-"}
 
 {group:"ノーラ・シュナイトコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
-{id:1117,name:"シュテーレン・ゲヴェーア",main:{tec:100,pwr:17,shl:540,rng:250,spd:400,itv:340},type:"l",size:"S",cost:70,comment:["飛距離1.5倍？","押出し効果"]}
+{id:1117,name:"シュテーレン・ゲヴェーア",main:{tec:100,pwr:17,shl:540,rng:250,spd:400,itv:340},type:"l",size:"S",cost:70,comment:["飛距離1.5倍？","反発効果"]}
 {id:142,name:"ノーラ・シュナイトBD@",tunable:{mwp:1},slot:0,type:"l",size:"S",cost:30,comment:"ノーラ・シュナイト専用コンバージョンパーツ",main:{pwr:5,shl:90,rng:200,spd:300,itv:500}}
 
 {group:"パティロップコンバージョン",prefixID:"MOx",commonStat:{tunable:{}},nextID:17}
