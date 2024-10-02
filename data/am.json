@@ -953,7 +953,7 @@
 {id:202205243,name:"ペルセシウスAM4",sub:{shl:15,rng:0,spd:0,itv:1000},tunable:{pwp:0},type:"lac",size:"L",cost:70,hp:25,wlk:1,fly:1,tgh:3}
 
 
-{id:149,name:"ヘルトカイゼルAM",main:{pwr:9,shl:420,rng:330,spd:280,itv:1000},tunable:{mwp:1},type:"c",size:"L",cost:65,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1}
+{id:149,name:"ヘルトカイゼルAM",main:{pwr:9,shl:540,rng:330,spd:280,itv:1000},tunable:{mwp:1},type:"c",size:"L",cost:65,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1}
 
 
 
