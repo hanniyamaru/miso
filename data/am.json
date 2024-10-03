@@ -104,6 +104,9 @@
 
 {id:20240209,name:"セツカAM",main:{tec:100,pwr:12,shl:660,rng:250,spd:320,itv:300},sub:{tec:100,pwr:28,shl:75,rng:250,spd:320,itv:1000},tunable:{mwp:1,pwp:0},type:"l",size:"S",cost:140,hp:20,str:-1,tec:3,wlk:2,tgh:1,comment:["メイン：誘導+貫通 リンクショット対応","サブ：両腕装備時2コンボ目が座標攻撃となる"]}
 {id:20221007,name:"セルピリスAM",cost:35,hp:20,str:1,wlk:2,tgh:2,size:"S",comment:["非アクティブ装備の非表示機能あり"]}
+{id:20241003,name:"セルピリスAM2",cost:35,hp:20,tec:1,wlk:1,fly:1,tgh:2,size:"S",comment:["セルピリス・グリム"]}
+
+
 {id:19,name:"ゼロセイバーAM",cost:35,hp:20,str:2,tec:1,wlk:1,fly:1}
 {id:21,name:"ゼロセイバーAM2",cost:35,hp:20,tec:3,wlk:1,fly:1}
 {id:2023011241,name:"ゼロセイバーAM3",cost:40,hp:25,str:2,tec:1,wlk:1,tgh:1,comment:"FP"}
