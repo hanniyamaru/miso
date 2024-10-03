@@ -564,7 +564,7 @@
 {id:202205241,name:"パシファールHD2",size:"M",cost:40,hp:25,tec:2,wlk:-1,fly:2,tgh:2,comment:"-"}
 {id:20221025,name:"ハザードビクトリーHD",size:"M",cost:30,hp:15,str:1,tec:2,wlk:1,fly:1,tgh:-1,comment:["イベント宙域","シュタインズキューブ"]}
 {id:87,name:"バタフレアHD",cost:40,hp:25,str:1,wlk:2,fly:1,tgh:1}
-{id:20241004,name:"バタフレアHD3",main:{tec:100,pwr:7,shl:900,rng:225,spd:520,itv:200},cost:105,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,tunable:{mwp:1},comment:["減衰率？％　飛行ゲージ回収効果","バタフレア・B"]}
+{id:20241004,name:"バタフレアHD3",main:{tec:100,pwr:7,shl:900,rng:225,spd:520,itv:200},type:"a",cost:105,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,tunable:{mwp:1},comment:["減衰率？％　飛行ゲージ回収効果","バタフレア・B"]}
 
 
 {id:66,name:"ハティガルムHD",cost:40,hp:25,str:2,tec:1,fly:2}
