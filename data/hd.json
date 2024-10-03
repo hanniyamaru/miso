@@ -831,6 +831,7 @@
 {id:20221006,name:"ヘビーフェルカスHD",cost:35,hp:20,str:1,wlk:1,fly:1,tgh:2,size:"L",comment:["Season7アリーナコイン景品"]}
 {id:20230512,name:"ベルヴィアHD",size:"L",cost:35,hp:20,str:1,tec:1,wlk:1,tgh:2,comment:[""]}
 {id:9,name:"ヘルトカイゼルHD",type:"c",size:"L",cost:35,hp:20,tec:-1,wlk:2,fly:2,tgh:2}
+{id:20241003,name:"ヘルトカイゼルHD2",size:"L",cost:35,hp:20,tec:-1,tec:2,wlk:1,fly:1,tgh:2,comment:["ヘルトカイゼル・AB"]}
 
 {id:202310183,name:"マテングHD",size:"L",cost:35,hp:20,str:2,wlk:2,fly:2,tgh:-1,comment:[""]}
   
