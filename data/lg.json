@@ -448,6 +448,7 @@
 {id:56,name:"ヘビージャガーアームLG",cost:45,hp:25,str:2,tec:-1,wlk:3,tgh:2,comment:["ロボガラポン"]}
 {id:86,name:"ヘラクビートランダーLG",cost:45,hp:25,str:1,tec:1,wlk:2,tgh:2}
 {id:20220417,name:"ヘリンガルMK-2LG",size:"M",cost:45,hp:25,str:-1,tec:2,wlk:3,fly:1,tgh:1,comment:["ロボガラポン"]}
+{id:202410033,name:"ヘリンガルMK-3LG",main:{tec:100,pwr:13,shl:960,rng:250,spd:520,itv:140},tunable:{mwp:1},size:"M",type:"a",cost:45,hp:25,str:0,tec:1,wlk:2,fly:2,tgh:1,comment:["チャージ無し","ヘリンガルMk-3変形時のみ使用可能"]}
 
 {id:20240717,name:"ボトムパンチャーLG",cost:170,hp:50,str:2,tec:-1,wlk:2,fly:1,tgh:2,sub:{str:100,pwr:34,shl:0,rng:77,spd:94,itv:1000},type:"l",tunable:{pwp:1},builtin:{bs:1},comment:["","夏祭りキューブ"]}
 
