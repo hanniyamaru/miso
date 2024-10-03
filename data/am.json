@@ -959,7 +959,7 @@
 {id:149,name:"ヘルトカイゼルAM",main:{pwr:9,shl:540,rng:330,spd:280,itv:1000},tunable:{mwp:1},type:"c",size:"L",cost:65,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1}
 
 {id:2024100321,name:"ヘルトカイゼルAM2",main:{tec:100,pwr:10,shl:390,rng:330,spd:280,itv:800},cost:85,hp:20,str:-1,tec:3,wlk:0,fly:1,tgh:2,tunable:{mwp:1},type:"c",size:"L",comment:["ELEC PSYGUN","ヘルトカイゼル・AB"]}
-{id:202410032,name:"ヘルトカイゼルAM3+カイゼルゲヴィッターⅡ",main:{tec:100,pwr:10,shl:390,rng:330,spd:280,itv:800},cost:85,hp:20,str:-1,tec:3,wlk:0,fly:1,tgh:2,tunable:{mwp:1},comment:["ELEC PSYGUN",""],fixedParts:{wp:{name:"カイゼルゲヴィッターⅡ",main:{tec:100,pwr:16,shl:660,rng:330,spd:530,itv:300},tunable:{mwp:1},slot:3,cost:130,comment:["伝導攻撃：2回","ヘルトカイゼルAM3専用コンバージョンパーツ","ヘルトカイゼル・AB"]}},joint:{wp:1},type:"c",size:"L"}
+{id:202410032,name:"ヘルトカイゼルAM3（カイゼルゲヴィッターⅡ）",main:{tec:100,pwr:10,shl:390,rng:330,spd:280,itv:800},cost:85,hp:20,str:-1,tec:3,wlk:0,fly:1,tgh:2,tunable:{mwp:1},comment:["ELEC PSYGUN",""],fixedParts:{wp:{name:"カイゼルゲヴィッターⅡ",main:{tec:100,pwr:16,shl:660,rng:330,spd:530,itv:300},tunable:{mwp:1},slot:3,cost:130,comment:["伝導攻撃：2回","ヘルトカイゼルAM3専用コンバージョンパーツ","ヘルトカイゼル・AB"]}},joint:{wp:1},type:"c",size:"L"}
 
 {id:30,name:"ボイルデックAM",type:"c",cost:95,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,main:{pwr:12,shl:900,rng:330,spd:440,itv:140},tunable:{mwp:1},joint:{wp:0},comment:["自軍貫通　減衰率：80％　爆風100％"]}
 {id:31,name:"ボイルデックAM2",type:"c",cost:95,hp:20,str:-1,tec:1,wlk:2,tgh:3,main:{pwr:9,shl:1000,rng:180,spd:480,itv:100},tunable:{mwp:1},comment:["ダメージ0.7倍？　貫通+確率炎上効果","EG"]}
