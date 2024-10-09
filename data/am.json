@@ -94,7 +94,7 @@
 
 {id:17,name:"シャドウハンターAM",size:"S",cost:30,hp:15,tec:2,wlk:2,fly:1,tgh:-1}
 {id:202311015,name:"シャドウハンターAM4",size:"S",cost:35,hp:20,str:2,wlk:2,tgh:1,comment:["扇"]}
-{id:202405081,name:"シャドウハンターAM5",type:"l",size:"S",cost:75,hp:20,str:2,tec:-1,wlk:2,tgh:2,sub:{str:100,pwr:30,shl:30,rng:150,spd:280,itv:1000},tunable:{pwp:1},comment:["チューン可否不明","無"]}
+{id:202405081,name:"シャドウハンターAM5",type:"l",size:"S",cost:75,hp:20,str:2,tec:-1,wlk:2,tgh:2,sub:{str:100,pwr:30,shl:30,rng:150,spd:280,itv:1000},tunable:{pwp:0},comment:["座標ワープ攻撃","無"]}
 
 {id:89,name:"シャドウマスターAM",cost:35,hp:20,tec:1,wlk:3,tgh:1}
 
