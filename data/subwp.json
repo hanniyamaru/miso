@@ -158,14 +158,14 @@
 {id:3003,name:"ガルドダガー",size:"S",cost:120,type:"l",sub:{str:100,pwr:28,rng:100,spd:250,itv:500},tunable:{pwp:1},comment:["クエストコイン景品（200個）",""]}
 {id:3004,name:"デゴアックス",size:"L",cost:160,type:"a",sub:{str:100,pwr:28,rng:100,spd:180,itv:1000},tunable:{pwp:1},comment:["クエストコイン景品（200個）",""]}
 
-{id:1009,name:"SBトリックミサイル",sub:{tec:100,pwr:9,shl:270,rng:275,spd:280,itv:1000},type:"a",size:"M",cost:60,comment:["クエストコイン景品（80個）",""]}
+{id:1009,name:"SBトリックミサイル",sub:{tec:100,pwr:9,shl:270,rng:275,spd:280,itv:1000},type:"a",size:"M",cost:60,comment:["サブロック式","クエストコイン景品（80個）",""]}
 {id:1008,name:"クリスタルパイルバンカー",sub:{tec:100,pwr:34,rng:100,spd:150,itv:1000},type:"l",size:"L",cost:70,tunable:{pwp:1},comment:["実弾属性　WLK依存サブ","ミッションコイン景品（65個）"]}
 
-{id:18,name:"ゲソウィップ",sub:{str:100,pwr:26,rng:70,spd:85,itv:500},type:"s",size:"S",cost:80,tunable:{pwp:1},comment:"スクイドルガール初期装備"}
+{id:18,name:"ゲソウィップ",sub:{str:100,pwr:26,rng:70,spd:85,itv:500},type:"s",size:"S",cost:80,tunable:{pwp:1},comment:["スクイドルガール初期装備"]}
 
 {id:4,name:"アストロアックス",sub:{str:100,pwr:32,shl:70,rng:70,spd:85,itv:2000},type:"a",size:"M",cost:150,tunable:{pwp:1},comment:["チューン可否不明","アストロメリア初期装備"]}
 
-{id:5,name:"ブルームカットラス",type:"a",size:"M",cost:70,sub:{rec:100,pwr:28,shl:100,rng:250,spd:150,itv:2000},tunable:{pwp:0},comment:"ブルームメリア初期装備"}
+{id:5,name:"ブルームカットラス",type:"a",size:"M",cost:70,sub:{rec:100,pwr:28,shl:100,rng:250,spd:150,itv:2000},tunable:{pwp:0},comment:["サブロック式","ブルームメリア初期装備"]}
 
 {id:155,name:"ゼロナイトキャリバー",sub:{str:100,pwr:28,shl:200,rng:70,spd:75,itv:2000},tunable:{pwp:1},type:"a",size:"M",cost:160,comment:"ゼロナイト初期装備"}
 {id:35,name:"フウジンケン",sub:{str:100,pwr:30,rng:70,spd:85,itv:1000},tunable:{pwp:1},type:"a",size:"M",cost:120,comment:"ヤクシャ・ハヤテ初期装備"}
@@ -184,7 +184,7 @@
 
 {id:16,name:"インパクトナックル",size:"M",cost:100,type:"l",sub:{str:100,pwr:30,shl:0,rng:70,spd:30,itv:1000},tunable:{pwp:1},comment:["Season6アリーナコイン景品"]}
 
-{id:29,name:"カグラオウギ",sub:{tec:100,pwr:30,shl:150,rng:300,spd:240,itv:1000},tunable:{mwp:0,pwp:0},size:"S",type:"s",cost:85,comment:["ミヅハ初期装備","Season7アリーナコイン景品"]}
+{id:29,name:"カグラオウギ",sub:{tec:100,pwr:30,shl:150,rng:300,spd:240,itv:1000},tunable:{mwp:0,pwp:0},size:"S",type:"s",cost:85,comment:["サブロック式　サブロック系のみコンボ可能（前後）","確率打ち上げスタン　実弾属性爆風100％","ミヅハ初期装備","Season7アリーナコイン景品"]}
 
 {id:20230113,name:"コダチ",sub:{str:100,pwr:32,rng:10,spd:10,itv:1000},type:"l",size:"S",cost:40,tunable:{pwp:0},comment:"シャドウマスター初期装備"}
 {id:202405081,name:"コダチ・無",sub:{str:100,pwr:30,shl:20,rng:105,spd:128,itv:1000},type:"l",size:"S",cost:120,tunable:{pwp:1},comment:["WLK依存サブ　ヒットストップ無し","シャドウハンター無初期装備"]}
