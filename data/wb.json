@@ -46,8 +46,8 @@
 {id:8,name:"シヴァリーシールドビット",type:"lacs"}
 {group:"設置補助",prefixID:"SA",commonStat:{type:"s"},nextID:5}
 
-{id:20241014,name:"リペアユニット,comment:["回復量10？"]}
-{id:202410141,name:"ミニリペアユニット,comment:["回復量？"]}
+{id:20241014,name:"リペアユニット",comment:["回復量10？"]}
+{id:202410141,name:"ミニリペアユニット",comment:["回復量？"]}
 
 {id:202410142,name:"バーストユニット",cost:0}
 {id:202410143,name:"ミニバーストユニット",cost:0}
