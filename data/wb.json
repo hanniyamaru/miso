@@ -39,7 +39,7 @@
 {group:"追従補助",prefixID:"FA",commonStat:{type:"s"},nextID:8}
 
 {id:3,name:"リペアビット",cost:0,comment:["回復量22"]}
-{id:4,name:"ミニリペアビット,comment:["回復量11"]"}
+{id:4,name:"ミニリペアビット,comment:["回復量11"}
 {id:2,name:"バーストビット",cost:0}
 {id:5,name:"ミニバーストビット"}
 
