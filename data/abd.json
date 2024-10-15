@@ -117,7 +117,7 @@
 {id:111,name:"キュレーネBD2",sub:{shl:1000,itv:1000},cartridge:{hpup:14,lv1:"4*6@25|7@30|9@15|8@20|18@30|19@15|23@25|22@30|52@20|26@20|21@20|25@25|13@30|32@50|31@40"},fixedParts:{bs:{name:"キュレーネBS2",sub:{shl:100,rng:275,itv:1000},tunable:{pwp:0},cost:55,hp:20,str:-1,tec:2,fly:2,tgh:2}},type:"a",size:"S",cost:495,capa:850,hp:225,str:5,tec:10,wlk:6,fly:15,tgh:12,comment:["PB"]}
 {id:6,name:"クロスラプターBD",cost:445,capa:850,hp:225,str:7,tec:11,wlk:6,fly:16,tgh:8,wbid:1,cartridge:{hpup:14,lv1:"4*6@25|7@30|9@15|8@20|19@15|23@25|22@30|15@20|52@20|28@30|26@20|21@20|13@30|32@50|31@40"},comment:["水平飛行","SHOP：21000UC"]}
 {id:7,name:"クロスラプターBD2",cost:495,capa:850,hp:225,str:14,tec:4,wlk:6,fly:15,tgh:9,sub:{pwr:[27],shl:[60],rng:[100,120,140],spd:[200,240,280],itv:2000},wbid:1,cartridge:{hpup:14,lv1:"4*5@25|61*2@35|7@30|9@15|8@20|19@15|23@25|22@30|52@20|15@20|14@20|21@20|13@30|32@50|31@40"},comment:"FLY依存サブ"}
-{id:24,name:"クロスラプターBD3",cost:550,capa:850,hp:225,str:4,tec:14,wlk:6,fly:15,tgh:9,main:{pwr:[14],shl:[580],rng:[275],spd:[440],itv:[600],tec:100},wbid:1,cartridge:{hpup:14,lv1:"4*5@25|61*2@35|7@30|9@15|8@20|19@15|23@25|22@30|52@20|25@25|26@20|21@20|13@30|32@50|31@40"},comment:"内蔵強化値不明"}
+{id:24,name:"クロスラプターBD3",cost:550,capa:850,hp:225,str:4,tec:14,wlk:6,fly:15,tgh:9,main:{pwr:[14,15,16],shl:[580],rng:[275,285,300],spd:[440,460,480],itv:[600],tec:100},wbid:1,cartridge:{hpup:14,lv1:"4*5@25|61*2@35|7@30|9@15|8@20|19@15|23@25|22@30|52@20|25@25|26@20|21@20|13@30|32@50|31@40"},comment:"XX"}
 {id:202302031,name:"クロスラプターBD4",cost:565,capa:850,hp:225,str:4,tec:16,wlk:6,fly:14,tgh:8,main:{pwr:[6,7,8],shl:[1580],rng:[200,215,230],spd:[480,500,520],itv:[140],tec:100},wbid:1,cartridge:{hpup:14,lv1:"4*5@25|61*2@35|7@30|9@15|8@20|19@15|23@25|22@30|52@20|25@25|30@20|21@20|13@30|32@50|31@40"},comment:["WX",""]}
 
 
@@ -329,7 +329,7 @@
 {id:26,name:"イルグリプスBD",cartridge:{hpup:10,lv1:"75*5@20|60*2@30|7@30|9@15|8@20|19@15|23@25|22@30|52@20|26@20|30@20|21@20|13@30|32@50|31@40"},fixedParts:{bs:{name:"イルグリプスBS",fixedParts:{bs:{name:"イルグリプスBS@",main:{tec:100,pwr:[9,10,11],shl:630,rng:[275,285,300],spd:[520,545,570],itv:520},tunable:{mwp:0,pwp:0},slot:0,type:"a",size:"L",auraStat:{main:{tec:100,pwr:[15,16,17],shl:520,rng:[300,315,330],spd:[400,420,440],itv:700}}}},cost:165,hp:20,wlk:1,fly:4,slot:3,joint:{bs:1},sub:{shl:30,spd:150,itv:1000},comment:"BS@cost複合"},hd:{name:"イルグリプスHDJ",joint:{hd:1,hdac:0,fcac:0},slot:1}},name:"イルグリプスBD",cost:490,capa:945,hp:305,str:5,tec:15,wlk:8,fly:13,tgh:10,wbid:1,auraSystem:1}
 
 
-{id:20221103,name:"ヴェルズニールBD",type:"a",size:"L",cost:490,capa:945,hp:305,str:4,tec:12,wlk:7,fly:20,tgh:8,sub:{tec:100,pwr:[30],rng:[275],spd:[570],itv:1000},wbid:200,cartridge:{hpup:10,lv1:"75*5@20|60*2@30|7@30|9@15|8@20|19@15|52@20|26@20|25@25|23@25|22@30|21@20|13@30|32@50|31@40"},comment:"内蔵強化値不明"}
+{id:20221103,name:"ヴェルズニールBD",type:"a",size:"L",cost:490,capa:945,hp:305,str:4,tec:12,wlk:7,fly:20,tgh:8,sub:{tec:100,pwr:[30,45,60],rng:[275,285,300],spd:[570],itv:1000},wbid:999,cartridge:{hpup:10,lv1:"75*5@20|60*2@30|7@30|9@15|8@20|19@15|52@20|26@20|25@25|23@25|22@30|21@20|13@30|32@50|31@40"},comment:""}
 
 {id:31,name:"ヴォルフライエBD",main:{pwr:[9,10,11],shl:[820],rng:[275,285,300],spd:[460,505,550],itv:400,tec:100},cartridge:{hpup:14,lv1:"4*5@20|61*2@30|7@30|9@15|8@20|19@15|18@30|21@20|52@20|23@25|22@30|31@40|13@30|32@50|26@20"},cost:565,capa:905,hp:290,str:4,tec:10,wlk:6,fly:13,tgh:7,wbid:1,comment:"ビーム爆風30％"}
 
