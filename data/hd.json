@@ -219,6 +219,7 @@
 {id:189,name:"ヴィシュラHD",cost:40,hp:25,str:2,tec:-1,wlk:1,tgh:3}
 
 {id:293,name:"ウィンドリンクスHD",cost:40,hp:25,str:1,tec:-1,fly:2,tgh:3}
+{id:202211031,name:"ヴェルズニールHD",type:"a",size:"M",cost:105,hp:20,str:-1,tec:3,fly:2,tgh:1,main:{tec:100,pwr:18,shl:260,rng:275,spd:480,itv:700},tunable:{mwp:1},comment:["ブースト回収効果　無誘導"]}
 
 {id:206,name:"ウォーダスHD",cost:40,hp:25,str:3,wlk:-1,tgh:3}
 {id:231,name:"ウォーダスHD2",cost:40,hp:25,tec:3,wlk:1,fly:-1,tgh:2,comment:"-"}
@@ -786,7 +787,6 @@
 {id:2,name:"アクイーアHD2",cost:35,hp:20,tec:1,wlk:1,fly:1,tgh:2}
 {id:6,name:"アクイーア・エアーズHD",cost:35,hp:20,str:-1,tec:2,fly:2,tgh:1,wlk:1,size:"L",comment:["ロボガラポン"]}
 
-{id:202211031,name:"ヴェルズニールHD",type:"a",size:"M",cost:105,hp:20,str:-1,tec:3,fly:2,tgh:1,main:{tec:100,pwr:18,shl:260,rng:275,spd:480,itv:700},tunable:{mwp:1},comment:""}
 {id:202206041,name:"エスカゴッデスHD",main:{tec:100,pwr:7,shl:900,rng:300,spd:400,itv:400},tunable:{mwp:1},type:"c",size:"L",cost:70,hp:15,tec:2,wlk:1,fly:1}
 {id:202408082,name:"エラフスタッグHD",cost:35,hp:20,str:-1,tec:3,fly:2,tgh:1,size:"L",comment:[""]}
 {id:20230607,name:"オーガヒルHD2",main:{tec:100,pwr:9,shl:780,rng:330,spd:400,itv:240},tunable:{mwp:1},type:"c",size:"L",cost:115,hp:20,str:-1,tec:4,tgh:2,comment:["イグニス"]}
