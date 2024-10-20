@@ -639,7 +639,7 @@
 {id:525,name:"ライオスAM",cost:40,hp:25,str:1,tec:2,wlk:1,tgh:1}
 {id:152,name:"ラムダイバーAM",type:"lacs",size:"M",cost:35,hp:20,str:-1,wlk:2,fly:2,tgh:2}
 {id:153,name:"ラムダイバーAM2",main:{pwr:25,shl:210,rng:275,spd:485,itv:700},tunable:{mwp:1},type:"a",size:"M",cost:135,hp:20,str:-1,tec:3,wlk:1,tgh:2,joint:{wp:0}}
-{id:128,name:"ランドスAM",main:{pwr:21,shl:160,rng:330,spd:570,itv:740},tunable:{mwp:1},type:"c",cost:90,hp:25,str:-1,tec:3,wlk:2,tgh:1}
+{id:128,name:"ランドスAM",main:{pwr:21,shl:160,rng:330,spd:570,itv:740},tunable:{mwp:1},type:"c",cost:90,hp:25,str:-1,tec:3,wlk:2,tgh:1,comment:["チャージ　反動","ブラストレールガン",""]}
 {id:143,name:"ランドスAM2",tunable:{mwp:1},type:"c",size:"M",cost:100,hp:15,str:-1,tec:3,wlk:2,main:{pwr:12,shl:540,rng:330,spd:440,itv:340,tec:100},comment:["ランドス・Q","メインウェポンのみ装着可能"]}
 
 {id:188,name:"リバースサンダーAM",size:"M",cost:35,hp:20,str:2,tec:-1,wlk:3,tgh:1}
@@ -757,7 +757,7 @@
 {id:6050,name:"コスモカイザーAM2",cost:90,hp:20,str:-1,tec:2,wlk:2,tgh:2,sub:{tec:100,pwr:27,shl:30,rng:120,spd:250,itv:500},type:"l",size:"L",tunable:{pwp:1}}
 
 {id:501,name:"コルディプスAM",cost:35,hp:20,str:1,tec:1,fly:1,tgh:2}
-{id:202211032,name:"コルディプスAM2",type:"c",size:"L",cost:75,hp:20,str:-1,tec:3,wlk:2,tgh:1,main:{tec:100,pwr:22,shl:240,rng:330,spd:530,itv:700},tunable:{mwp:1},comment:"チャージ無し　ブラストレールガン"}
+{id:202211032,name:"コルディプスAM2",type:"c",size:"L",cost:75,hp:20,str:-1,tec:3,wlk:2,tgh:1,main:{tec:100,pwr:22,shl:240,rng:330,spd:530,itv:700},tunable:{mwp:1},comment:["チャージ・反動無し","ブラストレールガン"]}
 
 {id:45,name:"コントラディクトAM",type:"c",cost:100,hp:25,str:-1,tec:3,wlk:1,fly:1,tgh:1,main:{pwr:22,shl:160,rng:330,spd:290,itv:780},tunable:{mwp:1},joint:{wp:0}}
 
