@@ -1104,26 +1104,26 @@
 {id:2,name:"アシュラAMJ",type:"lac",size:"M",cost:40,hp:-30,tec:-2,wlk:-1,joint:{am:2},slot:1}
 {id:28,name:"ルペットAMJ",joint:{am:2},comment:"性能が同じAMJ2と統合",type:"lac",size:"M",cost:20,hp:-35,str:-1,tec:-2,wlk:-1,fly:-1,tgh:-1,slot:1}
 
-{id:1,name:"ウィングプラスAMJ",size:"S",cost:20,wlk:-1,fly:2,builtin:{bs:1},slot:1}
+{id:1,name:"ウィングプラスAMJ",size:"S",cost:20,wlk:-1,fly:2,builtin:{bs:1},slot:1,comment:["BS機能"]}
 {id:24,name:"ギガンベルグAMJ",main:{pwr:8,shl:400,rng:250,spd:320,itv:1200},tunable:{mwp:1},cost:40,slot:1,size:"M",type:"lc"}
 {id:13,name:"ギミックランチャーAMJ",main:{pwr:7,shl:280,rng:330,spd:290,itv:600},type:"c",size:"M",cost:60,tec:1,wlk:-1,tgh:1,slot:1,tunable:{mwp:1}}
 {id:99,name:"クリスタルビットAMJ",tunable:{pwp:0,mwp:0},type:"a",size:"M",cost:40,slot:1,main:{tec:100,pwr:6,shl:350,rng:275,spd:350,itv:320},comment:"結晶コイン景品（40個）"}
-{id:15,name:"コメットランチャーAMJ",type:"c",size:"M",cost:50,slot:1,main:{pwr:8,shl:440,rng:330,spd:320,itv:340},tunable:{mwp:1},comment:"イルミス付属AMJ"}
+{id:15,name:"コメットランチャーAMJ",type:"c",size:"M",cost:50,slot:1,main:{pwr:8,shl:440,rng:330,spd:320,itv:340},tunable:{mwp:1},comment:"イルミス初期装備"}
 
 {id:33,name:"サイコフォーミュラAMJ",main:{pwr:7,shl:560,rng:330,spd:300,itv:740},cost:40,slot:1,size:"S",type:"c",tunable:{mwp:1},comment:"サイコフォーミュラ轟"}
-{id:41,name:"シュトルバンガーAMJ",main:{pwr:10,shl:240,rng:300,spd:400,itv:800,tec:100},type:"c",size:"L",cost:30,slot:1,tunable:{mwp:1},comment:"爆風90％？"}
+{id:41,name:"シュトルバンガーAMJ",main:{pwr:10,shl:240,rng:300,spd:400,itv:800,tec:100},type:"c",size:"L",cost:30,slot:1,tunable:{mwp:1},comment:["爆風90％？"]}
 {id:202312063,name:"スノーボールAMJ",main:{pwr:15,shl:250,rng:330,spd:355,itv:660},tunable:{mwp:1},type:"c",size:"M",cost:60,slot:1,comment:["","冬まつりオーダー景品"]}
 
 
 {id:53,name:"ティタロテスAMJ",type:"c",size:"L",cost:20,tunable:{mwp:1},slot:1,main:{pwr:17,shl:120,rng:300,spd:220,itv:600}}
-{id:27,name:"ティルージュAMJ",main:{pwr:6,shl:500,rng:275,spd:320,itv:340},tunable:{mwp:1},type:"a",size:"M",cost:40,slot:1}
+{id:27,name:"ティルージュAMJ",main:{pwr:6,shl:500,rng:275,spd:320,itv:340},tunable:{mwp:1},type:"a",size:"M",cost:40,slot:1,comment:["ブースト回収効果"]}
 
 {id:20220813,name:"デンデンカムAMJ",main:{pwr:11,shl:400,rng:275,spd:320,itv:500},tunable:{mwp:1},type:"a",size:"S",cost:55,slot:1,comment:["交換NPCミナリア","ビーム爆風10：1"]}
 
-{id:20220601,name:"ドライバーキャノンAMJ",main:{pwr:10,shl:600,rng:330,spd:280,itv:340},tunable:{mwp:1},type:"c",size:"S",cost:60,slot:1,comment:"アスフィ付属"}
+{id:20220601,name:"ドライバーキャノンAMJ",main:{pwr:10,shl:600,rng:330,spd:280,itv:340},tunable:{mwp:1},type:"c",size:"S",cost:60,slot:1,comment:["アスフィ初期装備"]}
 {id:19,name:"ドローガンAMJ",main:{tec:100,pwr:6,shl:200,rng:250,spd:480,itv:500},tunable:{mwp:1},type:"s",size:"M",cost:60,str:1,tec:1,tgh:-1,slot:1}
 
-{id:16,name:"バーストミサイルAMJ",type:"c",size:"M",cost:80,slot:1,main:{pwr:12,shl:140,rng:330,spd:290,itv:1200},tunable:{mwp:1},comment:"イルミス付属AMJ"}
+{id:16,name:"バーストミサイルAMJ",type:"c",size:"M",cost:80,slot:1,main:{pwr:12,shl:140,rng:330,spd:290,itv:1200},tunable:{mwp:1},comment:["イルミス初期装備"]}
 
 {id:100,name:"バアルAMJ",tunable:{pwp:0,mwp:0},type:"c",size:"M",cost:40,slot:1,main:{tec:100,pwr:11,shl:210,rng:330,spd:290,itv:800}}
 
@@ -1136,12 +1136,12 @@
 
 
 {id:402,name:"ビームキャンセラーAMJ",main:{pwr:16,shl:220,rng:300,spd:320,itv:800},tunable:{mwp:1},type:"c",size:"M",cost:60,str:-1,tgh:2,slot:1}
-{id:12,name:"ピアースガンAMJ",main:{pwr:10,shl:340,rng:250,spd:480,itv:340},tunable:{mwp:1},type:"l",size:"M",cost:60,tec:1,wlk:1,fly:-1,slot:1}
+{id:12,name:"ピアースガンAMJ",main:{pwr:10,shl:340,rng:250,spd:480,itv:340},tunable:{mwp:1},type:"l",size:"M",cost:60,tec:1,wlk:1,fly:-1,slot:1,comment:["貫通"]}
 {id:3,name:"フォールドライフルAMJ",size:"M",cost:60,tec:2,wlk:-1,main:{pwr:9,shl:220,rng:250,spd:480,itv:520},tunable:{mwp:1},slot:1}
 {id:42,name:"ヘカトケレスAMJ",tunable:{pwp:0,mwp:0},type:"c",size:"L",cost:20,slot:1,main:{tec:100,pwr:8,shl:190,rng:300,spd:260,itv:600},comment:["チャージ（弱）　反発効果","ユニオンコイン景品（60個）",""]}
 {id:20240508,name:"ベリルスキッドAMJ",slot:1,size:"L",type:"l",cost:25,hp:-20,wlk:-1,fly:-1,joint:{am:1,wp:1},comment:["メインウェポンのみ装備可能","ベリルスキッド専用コンバージョンパーツ"]}
 
-{id:31,name:"ミコトAMJ",main:{pwr:12,shl:270,rng:250,spd:400,itv:620},tunable:{mwp:1},type:"lc",size:"M",cost:15,slot:1}
+{id:31,name:"ミコトAMJ",main:{pwr:12,shl:270,rng:250,spd:400,itv:620},tunable:{mwp:1},type:"lc",size:"M",cost:15,slot:1,comment:["リモート（長）　距離減衰あり"]}
 
 {id:18,name:"ミドルガトリングAMJ",size:"M",cost:60,main:{pwr:6,shl:1080,rng:200,spd:400,itv:140},tunable:{mwp:1},tec:2,wlk:-1,slot:1,type:"lc"}
 
