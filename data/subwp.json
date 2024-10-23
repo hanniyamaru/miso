@@ -21,6 +21,8 @@
 {id:202206030,name:"ユニオンシールドDOS",main:{str:100,pwr:0,shl:50,rng:0,spd:10,itv:1000},tunable:{mwp:1,pwp:0},type:"l",size:"M",cost:30,comment:["陸戦専用・クリムゾンベール効果","ユニオンコイン景品（80個・DOSのみ購入可能）"]}
 {id:2022060301,name:"ユニオンシールドWIZ",main:{str:100,pwr:0,shl:50,rng:0,spd:10,itv:1000},tunable:{mwp:1,pwp:0},type:"c",size:"M",cost:30,comment:["砲戦専用","ユニオンコイン景品（80個・WIZのみ購入可能）"]}
 
+{id:20241023,name:"ロザリオシールド",type:"acs",size:"M",cost:40,sub:{str:100,pwr:0,shl:15,rng:0,spd:0,itv:1000},tunable:{pwp:0},comment:["効果時間7秒　展開終了後CT8秒　格闘属性近接以外を防ぐ","フォースバリア系","パーツクリエイト（ヴァンピレ・カーニバル素材）"]}
+{id:202410231,name:"ロザリオシールドO",type:"ls",size:"M",cost:40,sub:{str:100,pwr:0,shl:15,rng:0,spd:0,itv:1000},tunable:{pwp:0},comment:["効果時間7秒　展開終了後CT8秒　ビーム属性近接以外を防ぐ","フォースバリア系","パーツクリエイト（ヴァンピレ・カーニバル素材）"]}
 
 {group:"ソード系",prefixID:"SW",commonStat:{tunable:{pwp:1}},nextID:27}
 
