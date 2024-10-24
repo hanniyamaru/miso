@@ -185,6 +185,7 @@
 {id:13,name:"ガトリングバズーカ",type:"c",size:"LL",cost:200,main:{pwr:12,shl:1400,rng:350,spd:480,itv:200},comment:["チャージ",""]}
 {id:45,name:"ブラストガトリング",type:"c",size:"L",cost:200,main:{pwr:12,shl:1300,rng:350,spd:400,itv:200},comment:["チャージ",""]}
 {id:131011,name:"アームストロング",type:"c",size:"M",cost:220,main:{pwr:12,shl:1200,rng:330,spd:400,itv:140},comment:["チャージ　自軍貫通","ナイトギアディスク"]}
+{id:20241024,name:"ガジェットパンプキン",size:"M",cost:165,type:"c",main:{tec:100,pwr:15,shl:960,rng:330,spd:440,itv:200},tunable:{mwp:1},comment:["チャージ　自軍貫通　弾停止後近くの敵を攻撃","","パーツクリエイト（ヴァンピレ・カーニバル素材）"]}
 
 {id:51,name:"ショックバズーカ",main:{pwr:20,shl:240,rng:250,spd:325,itv:800},tunable:{mwp:1},type:"s",size:"M",cost:100,comment:"チャージ　実弾属性"}
 {id:511,name:"チャージディレイバズーカ",main:{pwr:16,shl:240,rng:250,spd:325,itv:800},tunable:{mwp:1},type:"s",size:"M",cost:100,comment:"実弾属性"}
@@ -381,7 +382,6 @@
 {id:20231231,name:"バトルドア",main:{tec:100,pwr:30,shl:180,rng:225,spd:400,itv:1000},tunable:{mwp:1},cost:100,size:"S",comment:["シールド貫通　実弾属性爆風100％","NYキューブ2024",""]}
 {id:20240421,name:"エンジェルシューターR",main:{tec:100,pwr:15,shl:750,rng:250,spd:440,itv:200},tunable:{mwp:1},cost:100,type:"l",size:"S",comment:["自軍貫通","シルフィーⅡ軽装キューブ（コラボイベント限定）",""]}
 {id:20240821,name:"クレストライフル",main:{tec:100,pwr:27,shl:360,rng:225,spd:400,itv:500},tunable:{mwp:1},cost:130,type:"l",size:"M",comment:["実弾属性爆風100％　自軍貫通","イクスクレアコラボイベント第2弾",""]}
-{id:20241024,name:"ガジェットパンプキン",size:"M",cost:165,type:"c",main:{tec:100,pwr:15,shl:960,rng:330,spd:440,itv:200},tunable:{mwp:1},comment:["","","パーツクリエイト（ヴァンピレ・カーニバル素材）"]}
 
 
 {group:"mainコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
