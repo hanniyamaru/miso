@@ -211,11 +211,10 @@
 {id:68,name:"チャージビームキャノン",main:{pwr:32,shl:150,rng:275,spd:440,itv:1000},type:"a",size:"L",cost:120}
 {id:29,name:"スターダストキャノン",type:"a",size:"LL",cost:130,main:{pwr:38,shl:240,rng:275,spd:400,itv:900},comment:"結晶コイン景品（20個）"}
 {id:56,name:"ビームポンプバズーカ",main:{pwr:23,shl:240,rng:275,spd:360,itv:760},type:"a",size:"M",cost:100,comment:["STRで範囲変化","エンジェルコイン景品（75個）"]}
-{id:2022112,name:"ビームボムランチャー",main:{pwr:30,shl:360,rng:100,spd:300,itv:1000},type:"a",size:"M",cost:80}
-{id:168,name:"SBC-ビームキャノン",main:{tec:100,pwr:32,shl:200,rng:275,spd:440,itv:1000},cost:160,type:"a",size:"M",comment:"-"}
+{id:168,name:"SBC-ビームキャノン",main:{tec:100,pwr:32,shl:200,rng:275,spd:440,itv:1000},cost:160,type:"a",size:"M",comment:"飛行ゲージ回収効果"}
 
 {group:"ミサイル系",prefixID:"MS",commonStat:{tunable:{mwp:1}},nextID:333}
-{id:22,name:"V-2ウェイミサイル",type:"c",size:"L",cost:160,main:{pwr:17,shl:330,rng:330,spd:440,itv:1000},comment:"エンジェルコイン景品（75個）"}
+{id:22,name:"V-2ウェイミサイル",type:"c",size:"L",cost:160,main:{pwr:17,shl:330,rng:330,spd:440,itv:1000},comment:["飛距離は射程まで","エンジェルコイン景品（75個）"]}
 {id:760,name:"バーティカルミサイル",main:{pwr:14,shl:240,rng:330,spd:350,itv:500},type:"c",size:"M",cost:100,comment:"ミッションコイン景品（65個）"}
 
 {id:18,name:"コンパクトランチャー",type:"c",size:"S",cost:60,main:{pwr:13,shl:240,rng:330,spd:290,itv:600}}
@@ -261,12 +260,14 @@
 
 {id:14,name:"リトルグレネード",type:"cs",size:"M",cost:40,main:{pwr:9,shl:340,rng:300,spd:400,itv:500},comment:"バーニング効果（スタン時）"}
 {id:15,name:"グレネード",type:"c",size:"L",cost:90,main:{pwr:25,shl:190,rng:300,spd:400,itv:700},comment:"バーニング効果（スタン時）"}
+{id:202302162,name:"ラクダロスグレネード",main:{tec:100,pwr:32,shl:180,rng:300,spd:400,itv:900},tunable:{mwp:1},type:"c",size:"M",cost:100,comment:["バーニング効果（スタン時）","パーツクリエイト"]}
 {id:16,name:"ボルカノグレネード",type:"c",size:"L",cost:140,main:{pwr:35,shl:180,rng:300,spd:400,itv:900},comment:["バーニング効果（スタン時）","欲望コイン景品（13個）"]}
 {id:17,name:"ボルカノハイグレネード",type:"c",size:"LL",cost:150,main:{pwr:42,shl:190,rng:300,spd:400,itv:900},comment:"バーニング効果（スタン時）"}
 
-{id:202301182,name:"スチームキャノン",size:"L",type:"c",cost:140,main:{tec:100,pwr:32,shl:220,rng:275,spd:320,itv:500},comment:"Season8アリーナコイン景品"}
-{id:202302162,name:"ラクダロスグレネード",main:{tec:100,pwr:32,shl:180,rng:300,spd:400,itv:900},tunable:{mwp:1},type:"c",size:"M",cost:100,comment:["バーニング効果（スタン時）","パーツクリエイト"]}
+{id:202301182,name:"スチームキャノン",size:"L",type:"c",cost:140,main:{tec:100,pwr:32,shl:220,rng:275,spd:320,itv:500},comment:["吹き飛ばし","Season8アリーナコイン景品"]}
 {id:23,name:"スクイドルバズーカ",main:{tec:100,pwr:12,shl:220,rng:275,spd:290,itv:700},tunable:{mwp:1},size:"M",type:"s",cost:70,comment:["ディスオーダー効果","スクイドルガールαBD2初期装備"]}
+{id:2022112,name:"ビームボムランチャー",main:{pwr:30,shl:360,rng:100,spd:300,itv:1000},type:"a",size:"M",cost:80,comment:["旧アリーナコイン景品"]}
+
 {id:202306096,name:"ウォーターポットα",main:{tec:100,pwr:14,shl:100,rng:225,spd:400,itv:500},sub:{str:100,pwr:0,shl:0,rng:0,spd:0,itv:500},tunable:{mwp:1},size:"S",cost:50,comment:["梅雨イベント2023オーダー景品",""]}
 {id:202306097,name:"ウォーターポットβ",main:{tec:100,pwr:24,shl:100,rng:225,spd:400,itv:600},sub:{str:100,pwr:0,shl:0,rng:0,spd:0,itv:500},tunable:{mwp:1},size:"S",type:"lcs",cost:120,comment:["梅雨イベント2023オーダー景品",""]}
 
@@ -338,7 +339,7 @@
 
 {id:6551,name:"フラクタリスアニマ",main:{tec:100,pwr:7,shl:800,rng:275,spd:400,itv:200},tunable:{mwp:1},size:"M",type:"a",cost:200,comment:["フォース系のチューンは子弾の威力が変化した場合のみキャノンの威力にも影響する","キャノン：威力？ 爆風50％　ブースト回復効果","結晶コイン景品（150個）"]}
 
-{id:6552,name:"ベルゼイラフアニマ",main:{tec:100,pwr:23,shl:1050,rng:350,spd:400,itv:500},tunable:{mwp:1},size:"M",type:"c",cost:200,comment:["サイガン比率1：2　自軍貫通","βテスト時の表記威力8","欲望コイン景品（200個）"]}
+{id:6552,name:"ベルゼイラフアニマ",main:{tec:100,pwr:23,shl:1050,rng:350,spd:400,itv:500},tunable:{mwp:1},size:"M",type:"c",cost:200,comment:["サイガン比率1：2　自軍貫通","βテスト時の表記威力8（サイガン側）","欲望コイン景品（200個）"]}
 
 {id:6553,name:"ゲルニアロッド",main:{tec:100,pwr:32,shl:160,rng:300,spd:440,itv:900},tunable:{mwp:1},size:"M",type:"c",cost:100,comment:"一斉射撃不可"}
 
@@ -378,6 +379,7 @@
 {id:20231231,name:"バトルドア",main:{tec:100,pwr:30,shl:180,rng:225,spd:400,itv:1000},tunable:{mwp:1},cost:100,size:"S",comment:["シールド貫通　実弾属性爆風100％","NYキューブ2024",""]}
 {id:20240421,name:"エンジェルシューターR",main:{tec:100,pwr:15,shl:750,rng:250,spd:440,itv:200},tunable:{mwp:1},cost:100,type:"l",size:"S",comment:["自軍貫通","シルフィーⅡ軽装キューブ（コラボイベント限定）",""]}
 {id:20240821,name:"クレストライフル",main:{tec:100,pwr:27,shl:360,rng:225,spd:400,itv:500},tunable:{mwp:1},cost:130,type:"l",size:"M",comment:["実弾属性爆風100％　自軍貫通","イクスクレアコラボイベント第2弾",""]}
+{id:20241024,name:"ガジェットパンプキン",size:"M",cost:165,type:"c",main:{tec:100,pwr:15,shl:960,rng:330,spd:440,itv:200},tunable:{mwp:1},comment:["","","パーツクリエイト（ヴァンピレ・カーニバル素材）"]}
 
 
 {group:"mainコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
