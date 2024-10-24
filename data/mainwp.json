@@ -153,14 +153,14 @@
 {id:22,name:"リニアキャノン",type:"c",size:"L",cost:210,main:{pwr:52,shl:140,rng:350,spd:520,itv:500}}
 {id:500,name:"ソルジャーレールガン",main:{pwr:34,shl:390,rng:350,spd:530,itv:500},size:"M",type:"c",cost:160,comment:["爆風70％","ブラディスター初期装備"]}
 
-{id:202410241,name:"シャークBレールガン",main:{tec:100,pwr:18,shl:140,rng:380,spd:530,itv:500},type:"c",size:"S",cost:100,comment:["リコチェット系","パーツクリエイト（ヴァンピレ・カーニバル素材）"]}
+{id:202410241,name:"シャークBレールガン",main:{tec:100,pwr:18,shl:140,rng:380,spd:530,itv:500},type:"c",size:"S",cost:100,comment:["リコチェット系　追加爆風60％？","パーツクリエイト（ヴァンピレ・カーニバル素材）"]}
 {id:24,name:"ブラストレールガン",main:{pwr:36,tec:100,shl:140,rng:330,spd:520,itv:500},type:"c",size:"M",cost:140}
 {id:147,name:"Bブラストレールガン",main:{tec:100,pwr:20,shl:320,rng:275,spd:480,itv:340},cost:170,type:"a",size:"M",comment:"-"}
 {id:20222038,name:"Bクワッドレールガン",main:{tec:100,pwr:10,shl:760,rng:275,spd:480,itv:800},cost:160,type:"a",size:"M",comment:"マッハナイト・エース付属品"}
-{id:501,name:"アメイジングレールガン",main:{pwr:20,shl:240,rng:250,spd:480,itv:600},size:"M",cost:100}
-{id:391,name:"Sブラストレールガン",main:{pwr:31,shl:210,rng:250,spd:480,itv:600},type:"l",size:"M",cost:160}
-{id:20220802,name:"オレガーライフル",main:{pwr:34,shl:120,rng:250,spd:520,itv:500},type:"l",cost:100,size:"M",comment:["アルカンタスドロップ","2周目"]}
-{id:390,name:"Sレールガン",main:{pwr:42,shl:90,rng:250,spd:520,itv:500},type:"ls",size:"M",cost:110}
+{id:501,name:"アメイジングレールガン",main:{pwr:20,shl:240,rng:250,spd:480,itv:600},size:"M",cost:100,comment:["実弾属性","NPCニパ子"]}
+{id:391,name:"Sブラストレールガン",main:{pwr:31,shl:210,rng:250,spd:480,itv:600},type:"l",size:"M",cost:160,comment:["実弾属性"]}
+{id:20220802,name:"オレガーライフル",main:{pwr:34,shl:120,rng:250,spd:520,itv:500},type:"l",cost:100,size:"M",comment:["実弾属性？","アルカンタスドロップ","2周目"]}
+{id:390,name:"Sレールガン",main:{pwr:42,shl:90,rng:250,spd:520,itv:500},type:"ls",size:"M",cost:110,comment:["実弾属性"]}
 {id:44,name:"アクアパラソル",main:{pwr:28,shl:210,rng:250,spd:360,itv:560},type:"lac",size:"M",cost:110,comment:["実弾属性　イオンαの給水効果で判定増加","エンジェルコイン景品（75個）"]}
 
 
