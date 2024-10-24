@@ -214,34 +214,33 @@
 {id:168,name:"SBC-ビームキャノン",main:{tec:100,pwr:32,shl:200,rng:275,spd:440,itv:1000},cost:160,type:"a",size:"M",comment:"飛行ゲージ回収効果"}
 
 {group:"ミサイル系",prefixID:"MS",commonStat:{tunable:{mwp:1}},nextID:333}
-{id:22,name:"V-2ウェイミサイル",type:"c",size:"L",cost:160,main:{pwr:17,shl:330,rng:330,spd:440,itv:1000},comment:["飛距離は射程まで","エンジェルコイン景品（75個）"]}
-{id:760,name:"バーティカルミサイル",main:{pwr:14,shl:240,rng:330,spd:350,itv:500},type:"c",size:"M",cost:100,comment:"ミッションコイン景品（65個）"}
-
+{id:202302163,name:"グランダムランチャー",main:{tec:100,pwr:11,shl:600,rng:330,spd:290,itv:300},tunable:{mwp:1},type:"c",size:"M",cost:100,comment:["パーツクリエイト",""]}
 {id:18,name:"コンパクトランチャー",type:"c",size:"S",cost:60,main:{pwr:13,shl:240,rng:330,spd:290,itv:600}}
+{id:586,name:"6連ミサイルランチャー",main:{pwr:15,shl:300,rng:330,spd:290,itv:500},type:"c",size:"M",cost:160,comment:["旧アリーナコイン景品"]}
 {id:20,name:"ロケットランチャー",type:"c",size:"M",cost:100,main:{pwr:19,shl:210,rng:330,spd:290,itv:800}}
 {id:21,name:"ミサイルランチャー",type:"c",size:"L",cost:130,main:{pwr:20,shl:190,rng:330,spd:290,itv:900}}
-{id:23,name:"ボックスミサイル",type:"c",size:"L",cost:150,main:{pwr:20,shl:220,rng:330,spd:290,itv:1000}}
 {id:24,name:"ラムジェットランチャー",type:"c",size:"LL",cost:160,main:{pwr:30,shl:280,rng:330,spd:250,itv:900}}
 {id:32,name:"バリスティックランチャー",type:"c",size:"LL",cost:200,main:{pwr:33,shl:300,rng:350,spd:250,itv:900}}
+{id:23,name:"ボックスミサイル",type:"c",size:"L",cost:150,main:{pwr:20,shl:220,rng:330,spd:290,itv:1000}}
 {id:25,name:"2ウェイミサイル",type:"c",size:"LL",cost:180,main:{pwr:24,shl:220,rng:330,spd:290,itv:1100}}
+{id:22,name:"V-2ウェイミサイル",type:"c",size:"L",cost:160,main:{pwr:17,shl:330,rng:330,spd:440,itv:1000},comment:["飛距離は射程まで","エンジェルコイン景品（75個）"]}
+{id:202405091,name:"スマートミサイル",main:{tec:100,pwr:15,shl:310,rng:330,spd:330,itv:600},tunable:{mwp:1},type:"cs",size:"S",cost:65,comment:["爆風属性100％　接触判定：有り","ガンアームズ初期装備"]}
+{id:49,name:"スクラムランチャー",main:{pwr:28,shl:270,rng:330,spd:290,itv:800},type:"c",size:"L",cost:140,comment:["爆風100％　接触判定：有り","ANTIAIR MISSILE"]}
+{id:585,name:"ブラストミサイルガン",main:{pwr:20,shl:280,rng:330,spd:290,itv:800},type:"c",size:"M",cost:160}
 
 {id:581,name:"マイクロミサイルガン",main:{pwr:8,shl:130,rng:330,spd:290,itv:800},type:"c",size:"SS",cost:50}
 {id:58,name:"バーストミサイルガン",main:{pwr:11,shl:180,rng:330,spd:290,itv:900},type:"c",size:"M",cost:130}
-{id:202405091,name:"スマートミサイル",main:{tec:100,pwr:15,shl:310,rng:330,spd:330,itv:600},tunable:{mwp:1},type:"cs",size:"S",cost:65,comment:["爆風属性100％　接触判定：有り","ガンアームズ初期装備"]}
-{id:49,name:"スクラムランチャー",main:{pwr:28,shl:270,rng:330,spd:290,itv:800},type:"c",size:"L",cost:140,comment:["爆風100％　接触判定：有り","ANTIAIR MISSILE"]}
 {id:81,name:"ミサイルクラスター",main:{tec:100,pwr:9,shl:320,rng:330,spd:290,itv:1200},tunable:{mwp:1},type:"c",size:"M",cost:160}
-{id:585,name:"ブラストミサイルガン",main:{pwr:20,shl:280,rng:330,spd:290,itv:800},type:"c",size:"M",cost:160}
 {id:33,name:"セプタプルランチャー",main:{pwr:6,shl:1260,rng:330,spd:250,itv:900},cost:170,size:"LL",type:"c",comment:["クエストコイン景品（80個）",""]}
 
-{id:76,name:"アクセルミサイルガン",main:{pwr:10,shl:480,rng:330,spd:290,itv:300},type:"c",size:"M",cost:160,comment:["","欲望コイン景品（20個）"]}
 {id:588,name:"タケノコランチャー",main:{pwr:20,shl:160,rng:330,spd:240,itv:800},type:"c",size:"M",cost:60,comment:"NPCアンコ"}
+{id:760,name:"バーティカルミサイル",main:{pwr:14,shl:240,rng:330,spd:350,itv:500},type:"c",size:"M",cost:100,comment:["下方向への発射・誘導不可","ミッションコイン景品（65個）"]}
 
-{id:586,name:"6連ミサイルランチャー",main:{pwr:15,shl:300,rng:330,spd:290,itv:500},type:"c",size:"M",cost:160}
+{id:76,name:"アクセルミサイルガン",main:{pwr:10,shl:480,rng:330,spd:290,itv:300},type:"c",size:"M",cost:160,comment:["","欲望コイン景品（20個）"]}
 {id:587,name:"ジャックオーランチャー",main:{pwr:8,shl:920,rng:330,spd:330,itv:140},type:"c",size:"L",cost:130}
 {id:91,name:"ショコラパラソル",main:{pwr:13,tec:100,rng:250,spd:320,shl:250,itv:700},cost:80,type:"lacs",size:"M",tgh:-1,comment:"実弾属性爆風70％"}
 {id:202204143,name:"フレアスター",size:"M",cost:60,type:"c",main:{tec:100,pwr:12,shl:440,rng:330,spd:290,itv:400},tunable:{mwp:1},comment:["アリーナコイン景品"]}
 {id:202302108,name:"チョコットボムC",size:"M",cost:90,type:"c",main:{tec:100,pwr:15,shl:360,rng:330,spd:280,itv:500},tunable:{mwp:1},comment:["バレンタインオーダー報酬","W共通（イベント中域・ホワイトデーキューブ）"]}
-{id:202302163,name:"グランダムランチャー",main:{tec:100,pwr:11,shl:600,rng:330,spd:290,itv:300},tunable:{mwp:1},type:"c",size:"M",cost:100,comment:["パーツクリエイト",""]}
 
 
 {id:78,name:"ラピッドパルスミサイル",main:{pwr:11,shl:350,rng:275,spd:350,itv:320},tunable:{mwp:1},type:"a",size:"M",cost:110,comment:["ビーム属性爆風50％","結晶コイン景品（20個）"]}
