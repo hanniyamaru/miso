@@ -126,7 +126,7 @@
 {id:20000101,name:"リッパーズサイス",type:"la",size:"M",cost:160,sub:{str:100,pwr:34,rng:70,spd:85,itv:1000},tunable:{pwp:1}}
 {id:20000102,name:"オミナスサイス",type:"las",size:"M",cost:200,sub:{str:100,pwr:34,rng:70,spd:85,itv:1000},tunable:{pwp:1},comment:"性能変化（補）"}
 {id:20000103,name:"ミスティサイスR",type:"l",size:"S",cost:100,sub:{str:100,pwr:32,rng:70,spd:10,itv:500},tunable:{pwp:1},comment:["ミッション周回報酬「行方不明の一年生」（ゴーストバスター 6個）ミッションコイン景品（100個）"]}
-{id:20000104,name:"ゲイルサイス",sub:{pwr:26,rng:70,spd:85,itv:1000,str:100},tunable:{pwp:1},cost:160,type:"la",size:"M",comment:["イベント宙域（ヴァンピレ惑星）","性能変化（空）"]}
+{id:20000104,name:"ゲイルサイス",sub:{tec:100,pwr:26,rng:70,spd:85,itv:1000},tunable:{pwp:1},cost:160,type:"la",size:"M",comment:["イベント宙域（ヴァンピレ惑星）","性能変化（空）"]}
 {id:202410293,name:"ツインリヴェルサイス",sub:{str:100,pwr:32,shl:0,rng:91,spd:110,itv:1000},tunable:{pwp:1},cost:200,type:"l",size:"L",comment:["ディライブで変形","変形後：速度減+斬撃発生（貫通・TGH減衰無視）","パーツクリエイト（ヴァンピレ・カーニバル素材）",""]}
 {id:20000105,name:"ジャックサイス",type:"lacs",size:"M",cost:40,sub:{str:100,pwr:32,rng:31,spd:44,itv:1000},tunable:{pwp:1},comment:"イベント宙域（ヴァンピレ惑星）"}
 
