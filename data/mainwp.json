@@ -393,7 +393,7 @@
 {id:202406061,name:"アポリオンBD@",main:{str:100,pwr:8,shl:200,rng:275,spd:480,itv:500},auraStat:{main:{pwr:10}},type:"a",size:"L",cost:40,slot:0,comment:"AURA機構"}
 
 {id:119,name:"インパクトアロー",main:{pwr:22,shl:230,rng:225,spd:480,itv:600},type:"l",size:"M",cost:30,comment:"ロビンハンターAM専用コンバージョンパーツ",slot:0}
-{id:20240124,name:"エアブラシガンGD",size:"S",type:"l",cost:80,main:{pwr:8,shl:1500,rng:180,spd:480,itv:100},comment:["リンクショット対応","ガデ子AM専用コンバージョンパーツ"]}
+{id:20240124,name:"エアブラシガンGD",size:"S",type:"l",cost:80,main:{pwr:9,shl:1800,rng:180,spd:480,itv:100},comment:["減衰率：80％　リンクショット対応","ガデ子AM専用コンバージョンパーツ"]}
 
 {id:67,name:"エアリーデ・ビットα",main:{pwr:[4,5,6],shl:[840],rng:275,spd:440,itv:900},size:"S",type:"a",slot:0,cost:70,comment:"ビットホルダー専用コンバージョンパーツ"}
 {id:68,name:"エアリーデ・ビットβ",main:{pwr:[6,7,8],shl:[920],rng:275,spd:400,itv:380},size:"S",type:"a",slot:0,cost:100,comment:"ビットホルダー専用コンバージョンパーツ"}
