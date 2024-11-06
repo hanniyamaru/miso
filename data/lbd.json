@@ -3,7 +3,7 @@
 
 {group:"陸　近日更新分",prefixID:"LS",commonStat:{size:"S",type:"l"},nextID:35}
 
-{id:202411065,name:"ブルメキアスBD",cartridge:{hpup:10,lv1:"75*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|28@30|16@20|15@15|13@30|32@50|31@40"},type:"l",size:"L",cost:610,capa:945,hp:305,str:15,tec:3,wlk:14,fly:5,tgh:14,wbid:7,joint:{wp:1},comment:["BD側のWPは専用コンバージョンのみ装着可能"]}
+{id:202411065,name:"ブルメキアスBD",sub:{str:100,pwr:32,shl:0,rng:140,spd:220,itv:1000},cartridge:{hpup:10,lv1:"75*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|28@30|16@20|15@15|13@30|32@50|31@40"},type:"l",size:"L",cost:610,capa:945,hp:305,str:15,tec:3,wlk:14,fly:5,tgh:14,wbid:7,joint:{wp:1},comment:["サブ：チャージ後クリムゾンベール効果等付与","BD側のWPは専用コンバージョンのみ装着可能"]}
 
 {id:20241161,name:"レニーロップBD2",sub:{rng:0,spd:0,itv:500},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|18@15|20@15|23@25|22@30|25@25|21@20|26@20|13@30|34@15|32@50|31@40"},fixedParts:{hd:{name:"レニーロップHD",cost:40,hp:25,str:-1,tec:3,wlk:1,fly:1,tgh:1},lg:{name:"レニーロップLG",sub:{tec:100,pwr:38,shl:320,rng:150,spd:400,itv:1000},tunable:{pwp:1},joint:{bs:1},cost:145,hp:25,tec:1,wlk:3,fly:1,tgh:1,comment:["①タックル　②ナイフ投擲","威力はSTR・TECの高い方に依存"]}},cost:445,capa:900,hp:225,str:5,tec:12,wlk:13,fly:8,tgh:10,comment:["Acro"]}
 
