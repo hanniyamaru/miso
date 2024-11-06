@@ -235,6 +235,7 @@
 
 {id:1010,name:"プチ桜雷切",main:{str:100,pwr:15,shl:220,rng:225,spd:400,itv:500},sub:{str:100,pwr:28,rng:81,spd:98,itv:500},type:"s",size:"S",cost:100,comment:["ミッション周回報酬「決戦！ゴウテン」（ゴウテンバスターⅡ 3個）ミッションコイン景品（70個）","桜華・禿専用コンバージョンパーツ"]}
 
+{id:202411065,name:"ブルメキアスBD@",sub:{str:100,pwr:34,rng:0,spd:180,itv:1000},tunable:{pwp:0},slot:0,cost:50,type:"l",size:"L",comment:"ブルメキアス専用コンバージョンパーツ"}
 
 {id:47,name:"ブレイブソード",sub:{str:100,pwr:32,rng:70,spd:85,itv:500},tunable:{pwp:1},cost:100,type:"l",size:"M",comment:"ソルブレンサーAMにのみ装着可能"}
 {id:28,name:"ブレイブランス",sub:{str:100,pwr:28,rng:120,spd:250,itv:500},type:"l",size:"M",cost:50,slot:0,comment:"ソルブレンサーAMにのみ装着可能"}
