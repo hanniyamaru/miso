@@ -722,6 +722,7 @@
 
 {id:55,name:"ファルクスLG",cost:45,hp:35,str:1,tec:-1,wlk:2,fly:1,tgh:3}
 {id:110,name:"フラッシュボマーLG",size:"L",cost:45,hp:65,str:1,tec:1,wlk:3,tgh:1}
+{id:202411065,name:"ブルメキアスLG",size:"L",cost:50,hp:30,str:2,tec:0,wlk:4,fly:-1,tgh:1}
 
 {id:23,name:"ブレイズバロンLG",cost:45,hp:65,str:1,tec:1,wlk:3,fly:1}
 {id:80,name:"プレデトバイツLG",cost:45,hp:70,wlk:3,fly:2,tgh:1}
