@@ -362,7 +362,7 @@
 {id:202311014,name:"ウィンドリンクスAM2",main:{tec:100,pwr:17,shl:280,rng:275,spd:280,itv:700},tunable:{mwp:1},size:"M",type:"a",cost:100,hp:20,str:-1,tec:3,fly:2,tgh:1,comment:["","FT"]}
 {id:20221103,name:"ヴェルズニールAM",size:"M",cost:35,hp:20,str:1,tec:1,fly:1,tgh:2}
 {id:140,name:"ヴォルテスAM",sub:{pwr:13,shl:200,rng:275,spd:350,itv:1000},fixedParts:{am:{name:"ヴォルテスAM@",slot:0,type:"a",size:"M"}},type:"a",size:"M",cost:95,hp:25,str:-1,tec:3,fly:2,tgh:1}
-{id:202411064,name:"ヴォルテスAM2",main:{tec:100,pwr:25,shl:190,rng:275,spd:300,itv:1100},tunable:{mwp:1},type:"a",size:"M",cost:115,hp:20,str:-1,tec:3,fly:2,tgh:1,comment:["AM2@省略","一部TGH減衰無効"]}
+{id:202411064,name:"ヴォルテスAM2",main:{tec:100,pwr:25,shl:190,rng:275,spd:300,itv:1100},tunable:{mwp:1},type:"a",size:"M",cost:115,hp:20,str:-1,tec:3,fly:2,tgh:1,comment:["AM2@省略","一部TGH減衰無効","FC"]}
 
 {id:187,name:"ウミガメンティスAM",main:{pwr:16,shl:140,rng:275,spd:350,itv:780},type:"a",size:"M",cost:80,hp:25,str:-1,tec:2,fly:2,tgh:2,tunable:{mwp:1}}
 {id:91,name:"ウルフガイAM",sub:{pwr:28,rng:70,spd:30,itv:1000,str:100},tunable:{pwp:1},type:"l",cost:110,hp:25,str:2,wlk:1,fly:1,tgh:1,comment:["※変形により武器消失","アリーナコイン景品"]}
