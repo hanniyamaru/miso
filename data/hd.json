@@ -834,6 +834,9 @@
 {id:202408081,name:"ビートボルテリアスHD2",sub:{str:100,pwr:30,shl:0,rng:100,spd:250,itv:1000},cost:85,hp:20,str:3,tec:-1,wlk:1,tgh:2,type:"l",size:"L",tunable:{pwp:1},comment:[""]}
 {id:202407035,name:"ビッグマンテスTriHD",main:{tec:100,pwr:10,shl:480,rng:275,spd:350,itv:400},tunable:{mwp:1},size:"L",type:"a",cost:95,hp:20,str:-1,tec:2,fly:2,tgh:2,comment:["飛行ゲージ回復効果？"]}
 
+{id:202411065,name:"ブルメキアスHD",size:"L",cost:35,hp:20,str:3,tec:-1,wlk:3,tgh:0,comment:[""]}
+
+
 {id:20221006,name:"ヘビーフェルカスHD",cost:35,hp:20,str:1,wlk:1,fly:1,tgh:2,size:"L",comment:["Season7アリーナコイン景品"]}
 {id:20230512,name:"ベルヴィアHD",size:"L",cost:35,hp:20,str:1,tec:1,wlk:1,tgh:2,comment:[""]}
 {id:9,name:"ヘルトカイゼルHD",type:"c",size:"L",cost:35,hp:20,tec:-1,wlk:2,fly:2,tgh:2}
