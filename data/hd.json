@@ -601,6 +601,8 @@
 {id:198,name:"ビクトールHD2",cost:40,hp:25,tec:2,wlk:-1,fly:1,tgh:3}
 
 {id:3,name:"ビクトリーHD",cost:35,hp:20,tec:2,wlk:2,tgh:1}
+{id:20241107,name:"ビクトリーHD4",cost:35,hp:20,str:-1,tec:3,wlk:1,tgh:2,comment:["ビクトリー・キャノン改"]}
+
 {id:136,name:"ビクトリーFBHD",cost:35,hp:20,tec:1,wlk:2,fly:2,comment:["ロボガラポン"]}
 
 
