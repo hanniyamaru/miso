@@ -484,7 +484,6 @@
 
 {id:107,name:"ラムダイバーLG",type:"lacs",cost:45,hp:25,tec:2,wlk:3,fly:1,tgh:-1,size:"M",fly:1,tgh:-1}
 {id:91,name:"ランドスLG",cost:45,hp:30,tec:2,wlk:4,fly:-1,tgh:1}
-{id:99,name:"ランドスLG2",type:"c",size:"L",cost:95,hp:30,str:-1,tec:1,wlk:4,tgh:2,sub:{pwr:30,shl:0,rng:0,spd:180,itv:1000,tec:100},tunable:{pwp:1},comment:"ランドス・Q"}
 
 {id:126,name:"リバースサンダーLG",sub:{shl:30,itv:1000},type:"c",size:"M",cost:75,hp:25,str:-1,tec:1,wlk:2,fly:3,tgh:1}
 {id:9,name:"リリレインαLG",cost:45,hp:25,tec:2,wlk:2,fly:1,tgh:1}
@@ -765,6 +764,7 @@
 
 {id:17,name:"ランサーロットLG",cost:50,hp:50,str:1,tec:1,wlk:4}
 {id:202209093,name:"ランサーロットLG2",cost:45,hp:50,str:2,tec:-1,wlk:2,fly:2,tgh:1,comment:"ランサーロット・A"}
+{id:99,name:"ランドスLG2",type:"c",size:"L",cost:95,hp:30,str:-1,tec:1,wlk:4,tgh:2,sub:{pwr:30,shl:0,rng:0,spd:180,itv:1000,tec:100},tunable:{pwp:1},comment:["WLK依存サブ　打ち上げスタン","ランドス・Q"]}
 
 {id:202305171,name:"陸自なっちんLG",sub:{str:100,pwr:0,shl:30,rng:100,spd:150,itv:1000},tunable:{pwp:0},size:"L",cost:70,hp:50,str:-1,tec:1,wlk:3,fly:1,tgh:2,comment:[""]}
 
