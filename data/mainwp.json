@@ -25,10 +25,13 @@
 {id:13,name:"インクリーズドラムガン",type:"l",size:"M",cost:130,main:{pwr:13,shl:750,rng:200,spd:400,itv:240}}
 {id:14,name:"モーターガン",type:"l",size:"M",cost:180,main:{pwr:11,shl:760,rng:225,spd:440,itv:140}}
 {id:15,name:"ブーストガン",type:"l",size:"M",cost:160,main:{pwr:13,shl:560,rng:250,spd:570,itv:200}}
-{id:67,name:"エスティスマグ",main:{pwr:29,shl:380,rng:225,spd:440,itv:500},size:"M",type:"l",cost:180}
 {id:66,name:"ピアースガン",main:{pwr:19,shl:640,rng:250,spd:400,itv:340},type:"l",cost:120,size:"M"}
 {id:91,name:"アサルトピアースガン",main:{tec:100,pwr:16,shl:520,rng:250,spd:400,itv:300},type:"l",size:"M",cost:180,comment:"未実装:2022/10/12"}
 {id:20230202,name:"ダブルピアースキャノン",main:{tec:100,pwr:20,shl:500,rng:250,spd:400,itv:700},type:"l",size:"L",cost:190,comment:"アクセルセイバー初期装備"}
+{id:2032,name:"ヘレポリスシューター",main:{tec:100,pwr:21,shl:400,rng:250,spd:400,itv:500},type:"l",size:"M",cost:110,comment:["貫通弾","混沌コイン景品（65個）"]}
+{id:20240821,name:"クレストライフル",main:{tec:100,pwr:27,shl:360,rng:225,spd:400,itv:500},tunable:{mwp:1},cost:130,type:"l",size:"M",comment:["実弾属性爆風100％　自軍貫通","イクスクレアコラボイベント第2弾",""]}
+{id:67,name:"エスティスマグ",main:{pwr:29,shl:380,rng:225,spd:440,itv:500},size:"M",type:"l",cost:180,comment:["自軍貫通","格闘ダメージカット無効"]}
+
 
 {id:23,name:"LLバルクマグ",type:"l",size:"LL",cost:200,main:{pwr:32,shl:440,rng:225,spd:440,itv:500}}
 {id:57,name:"LLバルクアクセル",main:{pwr:29,shl:360,rng:250,spd:570,itv:500,tec:100},size:"LL",type:"l",cost:180}
@@ -36,7 +39,6 @@
 
 {id:17,name:"ビートルガン",type:"l",size:"M",cost:100,main:{pwr:19,shl:330,rng:225,spd:440,itv:500}}
 {id:500,name:"ヘラクビートルガン",type:"l",size:"M",cost:160,main:{pwr:27,shl:490,rng:225,spd:440,itv:500}}
-{id:2032,name:"ヘレポリスシューター",main:{tec:100,pwr:21,shl:400,rng:250,spd:400,itv:500},type:"l",size:"M",cost:110,comment:["貫通弾","混沌コイン景品（65個）"]}
 
 {id:43,name:"シュリケンガン",type:"ls",size:"S",cost:80,main:{pwr:9,shl:880,rng:225,spd:440,itv:160},comment:["貫通効果",""]}
 {id:44,name:"ダイシュリケンガン",type:"l",size:"M",cost:130,main:{pwr:13,shl:800,rng:225,spd:440,itv:220},comment:["貫通効果",""]}
@@ -121,6 +123,7 @@
 {id:37,name:"ヴォルグライフル",main:{tec:100,pwr:22,shl:360,rng:330,spd:480,itv:500},tunable:{mwp:1},type:"c",size:"M",cost:160}
 {id:20220416,name:"スパイラルライフル",size:"M",cost:140,type:"c",main:{tec:100,pwr:14,shl:600,rng:330,spd:480,itv:600},tunable:{mwp:1},comment:["ロボガラポン景品","ビクトリーFB初期装備"]}
 {id:20221208,name:"ノンナライフル",size:"S",cost:130,type:"c",main:{tec:100,pwr:16,shl:630,rng:330,spd:480,itv:140},tunable:{mwp:1},comment:["","K・ノンナPS初期装備"]}
+{id:20240421,name:"エンジェルシューターR",main:{tec:100,pwr:15,shl:750,rng:250,spd:440,itv:200},tunable:{mwp:1},cost:100,type:"l",size:"S",comment:["実弾属性爆風100％　自軍貫通","シルフィーⅡ軽装キューブ（コラボイベント限定）",""]}
 
 {group:"ブレイカー系",prefixID:"BK",commonStat:{tunable:{mwp:1}},nextID:60}
 {id:11,name:"サーキットブレイカー",type:"cs",size:"SS",cost:45,main:{pwr:14,shl:200,rng:330,spd:480,itv:540}}
@@ -382,8 +385,6 @@
 {id:202308041,name:"オルクトヴァッフェR",main:{tec:100,pwr:30,shl:210,rng:330,spd:500,itv:840},type:"c",size:"M",cost:130,comment:["","アニマ・ゼータディスクα（NPCナイア）"]}
 {id:20231211,name:"リーフロッド",main:{tec:100,pwr:12,shl:370,rng:275,spd:400,itv:500},tunable:{mwp:1},cost:70,type:"as",size:"S",comment:["ルボック初期装備・雪まつりオーダー景品",""]}
 {id:20231231,name:"バトルドア",main:{tec:100,pwr:30,shl:180,rng:225,spd:400,itv:1000},tunable:{mwp:1},cost:100,size:"S",comment:["シールド貫通　実弾属性爆風100％","NYキューブ2024",""]}
-{id:20240421,name:"エンジェルシューターR",main:{tec:100,pwr:15,shl:750,rng:250,spd:440,itv:200},tunable:{mwp:1},cost:100,type:"l",size:"S",comment:["自軍貫通","シルフィーⅡ軽装キューブ（コラボイベント限定）",""]}
-{id:20240821,name:"クレストライフル",main:{tec:100,pwr:27,shl:360,rng:225,spd:400,itv:500},tunable:{mwp:1},cost:130,type:"l",size:"M",comment:["実弾属性爆風100％　自軍貫通","イクスクレアコラボイベント第2弾",""]}
 {id:20241029,name:"リンティエン",main:{tec:100,pwr:10,shl:520,rng:275,spd:280,itv:1000},tunable:{mwp:1},cost:160,type:"a",size:"M",comment:["飛行ゲージ回収効果","パーツクリエイト（ヴァンピレ・カーニバル素材）",""]}
 
 
