@@ -375,8 +375,8 @@
 {id:3,name:"エスカゴットAM",type:"c",cost:70,hp:20,tec:2,wlk:1,tgh:2,main:{pwr:16,shl:280,rng:330,spd:400,itv:500},tunable:{mwp:1},joint:{wp:0}}
 
 {id:107,name:"エスティスAM",main:{tec:100,pwr:22,shl:400,rng:225,spd:440,itv:440},type:"l",cost:140,hp:25,tec:3,fly:-1,tgh:3,tunable:{mwp:1},comment:["自軍貫通","格闘ダメージカット無効"]}
-{id:108,name:"エスティスAM2",sub:{tec:100,pwr:12,shl:270,rng:250,spd:400,itv:1000},type:"l",cost:95,hp:25,str:-1,tec:3,wlk:2,fly:1,comment:["自軍貫通","格闘ダメージカット無効"]}
-{id:183,name:"エスティスAM3",main:{tec:100,pwr:13,shl:800,rng:225,spd:440,itv:200},tunable:{mwp:1},type:"l",size:"M",cost:195,hp:20,str:-1,tec:3,wlk:2,fly:1}
+{id:108,name:"エスティスAM2",sub:{tec:100,pwr:12,shl:270,rng:250,spd:400,itv:1000},type:"l",cost:95,hp:25,str:-1,tec:3,wlk:2,fly:1}
+{id:183,name:"エスティスAM3",main:{tec:100,pwr:13,shl:800,rng:225,spd:440,itv:200},tunable:{mwp:1},type:"l",size:"M",cost:195,hp:20,str:-1,tec:3,wlk:2,fly:1,comment:["自軍貫通","格闘ダメージカット無効"]}
 {id:184,name:"エスティスAM4",type:"l",size:"M",cost:70,hp:25,tec:2,wlk:1,tgh:2,sub:{tec:100,pwr:1,shl:30,rng:0,spd:150,itv:2000},comment:"DEKOY DASH"}
 
 {id:127,name:"オーガヒルAM",main:{pwr:6,shl:410,rng:350,spd:480,itv:540},tunable:{mwp:1},fixedParts:{wp:{name:"オーガヒルAM@",main:{pwr:8,shl:420,rng:330,spd:290,itv:600},slot:0}},type:"c",cost:135,hp:25,str:-1,tec:3,tgh:3,comment:"AM@cost+45複合"}
