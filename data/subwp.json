@@ -63,7 +63,7 @@
 
 {id:20230208,name:"カカオキャリバーC",type:"a",size:"M",cost:120,sub:{str:100,pwr:30,shl:100,rng:70,spd:85,itv:500},comment:["モーションはディバインブレードと同一","バレンタインオーダー報酬","W共通（イベント中域・ホワイトデーキューブ）"]}
 {id:20231221,name:"ゲーミングソード",type:"l",size:"M",cost:140,sub:{str:100,pwr:33,rng:77,spd:94,itv:1000},comment:["","NPC：ミュラ"]}
-{id:202403065,name:"サイバーセイバー",type:"l",size:"M",cost:160,sub:{str:100,pwr:34,rng:77,spd:94,itv:1000},comment:["","サイバーニンJ初期装備"]}
+{id:202403065,name:"サイバーセイバー",type:"l",size:"M",cost:160,sub:{str:100,pwr:34,rng:77,spd:94,itv:1000},comment:["別サブコンボ時、飛行ゲージ消失中も空中誘導可","サイバーニンJ初期装備"]}
 
 
 {group:"ナイフ系",prefixID:"KN",commonStat:{tunable:{pwp:1}},nextID:8}
