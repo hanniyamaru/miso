@@ -156,7 +156,7 @@
 {id:22,name:"リニアキャノン",type:"c",size:"L",cost:210,main:{pwr:52,shl:140,rng:350,spd:520,itv:500}}
 {id:500,name:"ソルジャーレールガン",main:{pwr:34,shl:390,rng:350,spd:530,itv:500},size:"M",type:"c",cost:160,comment:["爆風70％","ブラディスター初期装備"]}
 
-{id:202410241,name:"シャークBレールガン",main:{tec:100,pwr:18,shl:140,rng:380,spd:530,itv:500},type:"c",size:"S",cost:100,comment:["リコチェット系　追加爆風60％？","パーツクリエイト（ヴァンピレ・カーニバル素材）"]}
+{id:202410241,name:"シャークBレールガン",main:{tec:100,pwr:18,shl:380,rng:350,spd:530,itv:500},type:"c",size:"S",cost:100,comment:["リコチェット系　追加爆風60％？","パーツクリエイト（ヴァンピレ・カーニバル素材）"]}
 {id:24,name:"ブラストレールガン",main:{pwr:36,tec:100,shl:140,rng:330,spd:520,itv:500},type:"c",size:"M",cost:140}
 {id:147,name:"Bブラストレールガン",main:{tec:100,pwr:20,shl:320,rng:275,spd:480,itv:340},cost:170,type:"a",size:"M",comment:"-"}
 {id:20222038,name:"Bクワッドレールガン",main:{tec:100,pwr:10,shl:760,rng:275,spd:480,itv:800},cost:160,type:"a",size:"M",comment:"マッハナイト・エース付属品"}
