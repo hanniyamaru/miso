@@ -367,7 +367,8 @@
 {id:233,name:"サイコフォーミュラHD4",main:{pwr:21,shl:240,rng:330,spd:280,itv:600},cost:85,hp:20,str:-1,tec:2,fly:2,tgh:2,type:"c",size:"M",tunable:{mwp:1},comment:"サイコフォーミュラ轟"}
 
 {id:166,name:"サイドロンHD",cost:40,hp:25,str:2,wlk:-1,fly:2,tgh:2}
-{id:305,name:"サイドロンHD2",cost:40,hp:25,str:1,tec:-1,wlk:3,tgh:2}
+{id:305,name:"サイドロンHD2",cost:40,hp:25,str:1,tec:-1,wlk:3,tgh:2,comment:["サキュラ"]}
+{id:20241206,name:"サイドロンHD3",cost:35,hp:20,str:-1,tec:3,wlk:1,tgh:2,comment:["ブレイズ"]}
 
 {id:202208071,name:"サイバーニンHD",cost:35,hp:20,str:1,wlk:2,fly:1,tgh:1}
 {id:202403065,name:"サイバーニンHD2",cost:35,hp:20,str:2,wlk:2,fly:-1,tgh:2,comment:"J"}
