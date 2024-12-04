@@ -80,6 +80,7 @@
 {id:67,name:"ルミトルニ",main:{tec:100,pwr:21,shl:600,rng:250,spd:400,itv:700},tunable:{mwp:1}}
 {id:68,name:"ラヴィーニ",main:{tec:100,pwr:55,shl:15,rng:330,spd:570,itv:1000},sub:{tec:100,pwr:18,shl:280,rng:250,spd:320,itv:1000},tunable:{mwp:1}}
 {id:69,name:"トゥイスク",sub:{tec:100,pwr:32,shl:0,rng:0,spd:0,itv:1000},slot:0}
+{id:202412042,name:"スラーヴァタンク",sub:{tec:100,pwr:10,shl:80,rng:200,spd:250,itv:1000},slot:0,joint:{wp:2},fixedParts:{wp:[{main:{tec:100,pwr:12,shl:720,rng:350,spd:320,itv:300},cost:130,tunable:{mwp:1},name:"スラーヴァタンク@1",comment:"WB使用中は同時発射に変化"},{name:"スラーヴァタンク@2",main:{tec:100,pwr:19,shl:200,rng:300,spd:220,itv:900},cost:20,tunable:{mwp:1},comment:"バリア弾"}]},cost:20,comment:["確率バインド効果"],type:"c"}
 
 
 
