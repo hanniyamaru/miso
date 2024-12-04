@@ -787,7 +787,9 @@
 {group:"Ｌサイズ",prefixID:"L",commonStat:{size:"L"},nextID:6}
 {id:1,name:"アクイーアHD",cost:35,hp:20,str:1,tec:1,wlk:2,fly:1}
 {id:2,name:"アクイーアHD2",cost:35,hp:20,tec:1,wlk:1,fly:1,tgh:2}
-{id:6,name:"アクイーア・エアーズHD",cost:35,hp:20,str:-1,tec:2,fly:2,tgh:1,wlk:1,size:"L",comment:["ロボガラポン"]}
+{id:6,name:"アクイーア・エアーズHD",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,size:"L",comment:["ロボガラポン"]}
+{id:202412043,name:"アマノタツHD",cost:35,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,size:"L",comment:[""]}
+
 
 {id:202206041,name:"エスカゴッデスHD",main:{tec:100,pwr:7,shl:900,rng:300,spd:400,itv:400},tunable:{mwp:1},type:"c",size:"L",cost:70,hp:15,tec:2,wlk:1,fly:1}
 {id:202408082,name:"エラフスタッグHD",cost:35,hp:20,str:-1,tec:3,fly:2,tgh:1,size:"L",comment:[""]}
