@@ -853,7 +853,7 @@
 
 {id:1027,name:"スロット1LGJ",slot:1}
 
-{id:202412045,name:"エスエルLGJ",type:"c",size:"M",cost:60,main:{tec:100,pwr:21,shl:220,rng:330,spd:320,itv:900},tunable:{mwp:1},slot:1,comment:["ハウザー","エスエルDX"]}
+{id:202412045,name:"エスエルLGJ",type:"c",size:"M",cost:60,main:{tec:100,pwr:21,shl:220,rng:330,spd:320,itv:900},tunable:{mwp:1},slot:1,comment:["ハウザー　カスタムリンクショット対応","エスエルDX"]}
 
 
 {id:20240419,name:"キュウビLGJ",slot:1,size:"M",hp:5,cost:10,comment:["αβ共通","混沌コイン景品（95個）"]}
