@@ -370,8 +370,11 @@
 {id:65,name:"エアレイダーAM",cost:30,hp:15,tec:2,fly:1,tgh:1,comment:"Season6アリーナコイン景品"}
 {id:93,name:"エアロライダーAM",main:{tec:100,pwr:10,shl:560,rng:250,spd:300,itv:300},joint:{wp:0},type:"l",cost:105,hp:20,str:-1,tec:2,wlk:3,tgh:1,size:"M",tunable:{mwp:1},comment:["Season7アリーナコイン景品","実弾爆風30％"]}
 
-{id:202310185,name:"エスエルAM",main:{pwr:9,shl:840,rng:330,spd:400,itv:200},type:"c",size:"M",cost:105,hp:20,str:-1,tec:3,wlk:1,tgh:2,tunable:{mwp:1},joint:{wp:0},comment:""}
-{id:202207061,name:"エスエルAM2",main:{pwr:26,shl:240,rng:300,spd:440,itv:700},type:"c",size:"M",cost:105,hp:20,str:-1,tec:2,wlk:2,tgh:2,tunable:{mwp:1},joint:{wp:0},comment:"Season6アリーナコイン景品"}
+{id:202310185,name:"エスエルAM",main:{tec:100,pwr:9,shl:840,rng:330,spd:400,itv:200},type:"c",size:"M",cost:105,hp:20,str:-1,tec:3,wlk:1,tgh:2,tunable:{mwp:1},joint:{wp:0},comment:""}
+{id:202207061,name:"エスエルAM2",main:{tec:100,pwr:26,shl:240,rng:300,spd:440,itv:700},type:"c",size:"M",cost:105,hp:20,str:-1,tec:2,wlk:2,tgh:2,tunable:{mwp:1},joint:{wp:0},comment:"Season6アリーナコイン景品"}
+{id:202412045,name:"エスエルAM3",main:{tec:100,pwr:24,shl:270,rng:330,spd:440,itv:700},type:"c",size:"M",cost:75,hp:20,str:-1,tec:3,wlk:1,tgh:2,tunable:{mwp:1},joint:{wp:0},comment:["近～中距離：ブラストバズーカ弾（威力1.5倍　爆風属性100％）","遠距離：シュレッドショットガン弾（実弾属性）","エスエルDX"]}
+
+
 {id:3,name:"エスカゴットAM",type:"c",cost:70,hp:20,tec:2,wlk:1,tgh:2,main:{pwr:16,shl:280,rng:330,spd:400,itv:500},tunable:{mwp:1},joint:{wp:0}}
 
 {id:107,name:"エスティスAM",main:{tec:100,pwr:22,shl:400,rng:225,spd:440,itv:440},type:"l",cost:140,hp:25,tec:3,fly:-1,tgh:3,tunable:{mwp:1},comment:["自軍貫通","格闘ダメージカット無効"]}
