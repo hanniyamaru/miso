@@ -443,6 +443,8 @@
 {id:202409046,name:"サイコクラスターBS2",type:"a",cost:35,hp:20,str:-1,tec:1,fly:3,tgh:2,comment:"F"}
 
 {id:74,name:"サイドロンBS",type:"l",cost:40,hp:25,tec:-1,wlk:2,fly:3,tgh:1}
+{id:202412046,name:"サイドロンBS2",type:"l",cost:35,hp:20,str:-1,wlk:3,fly:3,comment:["ブレイズ"]}
+
 {id:202208071,name:"サイバーニンBS",type:"l",cost:35,hp:20,str:2,tec:1,wlk:-1,fly:2,tgh:1}
 {id:202209094,name:"ジェッツBS",main:{tec:100,pwr:14,shl:480,rng:275,spd:360,itv:400},sub:{tec:100,pwr:8,shl:260,rng:275,spd:360,itv:1000},tunable:{mwp:1,pwp:0},type:"a",size:"M",cost:215,hp:20,str:-1,tec:2,fly:4,comment:["メイン：ビーム爆風70％","FLY依存サブ"]}
 
