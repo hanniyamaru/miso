@@ -442,7 +442,6 @@
 {id:202404034,name:"サーティクスAM2",sub:{tec:100,pwr:15,shl:180,rng:275,spd:350,itv:1000},tunable:{pwp:0},joint:{am:1,wp:0},fixedParts:{am:{name:"サーティクスAM@",slot:0}},type:"a",cost:90,hp:20,str:-1,tec:2,fly:2,tgh:2,comment:"ナトラ"}
 
 {id:66,name:"サイコクラスターAM",cost:35,hp:20,str:1,tec:2,wlk:-1,fly:1,tgh:2}
-{id:20241206,name:"サイドロンAM3",main:{tec:100,pwr:11,shl:1000,rng:200,spd:440,itv:140},sub:{tec:100,pwr:26,shl:120,rng:225,spd:440,itv:1000},tunable:{mwp:1,pwp:0},type:"l",size:"M",cost:115,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,comment:["メイン：カスタムリンクショット対応","サブ：WLK依存サブ","ブレイズ"]}
 
 
 {id:202208071,name:"サイバーニンAM",cost:105,hp:20,str:3,tec:-1,wlk:2,tgh:1,sub:{str:100,pwr:30,rng:90,spd:150,itv:1000},tunable:{pwp:1},type:"l",comment:"WLK依存格闘"}
@@ -787,6 +786,7 @@
 {id:163,name:"サイクロテスAM3",type:"lacs",size:"L",cost:60,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2,comment:"シールド耐久値70"}
 {id:73,name:"サイドロンAM",cost:55,hp:20,str:2,tec:-1,wlk:1,tgh:3,type:"l",comment:"シールド耐久値70"}
 {id:153,name:"サイドロンAM2",cost:65,hp:20,type:"l",str:-1,tec:2,wlk:2,tgh:2,main:{shl:50,rng:0,spd:10,itv:1000,pwr:0},tunable:{mwp:1},comment:"-"}
+{id:20241206,name:"サイドロンAM3",main:{tec:100,pwr:11,shl:1000,rng:200,spd:440,itv:140},sub:{tec:100,pwr:26,shl:120,rng:225,spd:440,itv:1000},joint:{wp:0},tunable:{mwp:1,pwp:0},type:"l",size:"M",cost:115,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,comment:["メイン：カスタムリンクショット対応","サブ：WLK依存サブ","ブレイズ"]}
 
 
 {id:7,name:"サジタルマクシスAM",cost:40,hp:25,str:2,tec:3}
