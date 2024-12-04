@@ -659,6 +659,7 @@
 {id:40,name:"アクイーア・エアーズBS2",type:"a",cost:35,hp:20,str:1,wlk:1,fly:2,tgh:1,size:"L",comment:["ロボガラポン"]}
 
 {id:202406061,name:"アポリオンBS",type:"a",cost:35,hp:20,str:3,fly:2,size:"L",comment:[""]}
+{id:202412043,name:"アマノタツBS",type:"a",cost:35,hp:20,tec:1,wlk:1,fly:3,size:"L",comment:[""]}
 
 
 {id:202402091,name:"アルゴキャップBS",main:{tec:100,pwr:17,shl:440,rng:330,spd:480,itv:900},tunable:{mwp:1},cost:135,hp:20,str:-1,tec:3,fly:3,comment:["IMPACT GUN","反発効果　リンクショット対応"],type:"c",size:"L"}
