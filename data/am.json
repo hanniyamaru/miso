@@ -372,7 +372,7 @@
 
 {id:202310185,name:"エスエルAM",main:{tec:100,pwr:9,shl:840,rng:330,spd:400,itv:200},type:"c",size:"M",cost:105,hp:20,str:-1,tec:3,wlk:1,tgh:2,tunable:{mwp:1},joint:{wp:0},comment:""}
 {id:202207061,name:"エスエルAM2",main:{tec:100,pwr:26,shl:240,rng:300,spd:440,itv:700},type:"c",size:"M",cost:105,hp:20,str:-1,tec:2,wlk:2,tgh:2,tunable:{mwp:1},joint:{wp:0},comment:"Season6アリーナコイン景品"}
-{id:202412045,name:"エスエルAM3",main:{tec:100,pwr:24,shl:270,rng:330,spd:440,itv:700},type:"c",size:"M",cost:75,hp:20,str:-1,tec:3,wlk:1,tgh:2,tunable:{mwp:1},joint:{wp:0},comment:["近～中距離：ブラストバズーカ弾（威力1.5倍　爆風属性100％）","遠距離：シュレッドショットガン弾（実弾属性）","エスエルDX"]}
+{id:202412045,name:"エスエルAM3",main:{tec:100,pwr:24,shl:270,rng:330,spd:440,itv:700},type:"c",size:"M",cost:75,hp:20,str:-1,tec:3,wlk:1,tgh:2,tunable:{mwp:1},joint:{wp:0},comment:["近～中距離：ブラストバズーカ弾（威力1.5倍　爆風属性？％）","遠距離：シュレッドショットガン弾（？属性）","エスエルDX"]}
 
 
 {id:3,name:"エスカゴットAM",type:"c",cost:70,hp:20,tec:2,wlk:1,tgh:2,main:{pwr:16,shl:280,rng:330,spd:400,itv:500},tunable:{mwp:1},joint:{wp:0}}
