@@ -689,8 +689,8 @@
 {id:202301122,name:"アストロトルーパーAM",size:"L",cost:65,hp:20,str:1,tec:1,wlk:2,tgh:1,comment:"シールド耐久値80"}
 {id:2023011221,name:"アストロトルーパーAM2",type:"l",size:"L",cost:155,hp:20,str:-1,tec:3,wlk:2,tgh:1,main:{tec:100,pwr:16,shl:600,rng:250,spd:300,itv:400},joint:{wp:0},tunable:{mwp:1},comment:["シールド耐久値80",""]}
 
-{id:202412041,name:"アマノタツLAM",main:{tec:100,pwr:21,shl:280,rng:275,spd:320,itv:700},tunable:{pwp:1},auraStat:{main:{pwr:32,rng:290,spd:350,itv:900}},type:"a",size:"L",cost:135,hp:20,str:-1,tec:3,fly:2,tgh:1,comment:["誘導弾+飛行ゲージ回復効果","変形中は手持ち武器使用不可","専用AURA機構"]}
-{id:202412042,name:"アマノタツRAM",size:"L",cost:35,hp:20,tec:2,fly:2,tgh:1,comment:["変形中は手持ち武器使用不可","専用AURA機構"]}
+{id:202412041,name:"アマノタツAM（L）",main:{tec:100,pwr:21,shl:280,rng:275,spd:320,itv:700},tunable:{pwp:1},auraStat:{main:{pwr:32,rng:290,spd:350,itv:900}},type:"a",size:"L",cost:135,hp:20,str:-1,tec:3,fly:2,tgh:1,comment:["誘導弾+飛行ゲージ回復効果","変形中は手持ち武器使用不可","専用AURA機構"]}
+{id:202412042,name:"アマノタツAM（R）",size:"L",cost:35,hp:20,tec:2,fly:2,tgh:1,comment:["変形中は手持ち武器使用不可","専用AURA機構"]}
 
 
 {id:202402091,name:"アルゴキャップAM",main:{tec:100,pwr:13,shl:330,rng:330,spd:320,itv:600},tunable:{mwp:1},joint:{wp:2},cost:85,hp:20,str:-1,tec:3,wlk:1,tgh:2,comment:["HOMING GUN","リンクショット対応"],fixedParts:{wp:{name:"アルゴキャップAM@",main:{tec:100,pwr:16,shl:240,rng:350,spd:265,itv:800},tunable:{mwp:0},cost:40,slot:0,comment:["BLAST MISSILE","実弾属性爆風100％","リンクショット対応",""]}},type:"c",size:"L"}
