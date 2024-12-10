@@ -40,8 +40,8 @@
 
 {id:3,name:"リペアビット",cost:0,comment:["回復量22"]}
 {id:4,name:"ミニリペアビット",comment:["回復量11"]}
-{id:2,name:"バーストビット",cost:0}
-{id:5,name:"ミニバーストビット"}
+{id:2,name:"バーストビット",cost:0,comment:["ハイパーショット（12秒）"]}
+{id:5,name:"ミニバーストビット",comment:["ハイパーショット（10秒）"}
 
 {id:8,name:"シヴァリーシールドビット",type:"lacs"}
 {group:"設置補助",prefixID:"SA",commonStat:{type:"s"},nextID:5}
