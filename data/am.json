@@ -548,7 +548,7 @@
 {id:202204142,name:"バイオロンAM",cost:35,hp:20,str:1,tec:1,wlk:1,tgh:2,comment:["アリーナコイン景品"]}
 
 {id:146,name:"ハイガクゥーンAM",sub:{tec:100,pwr:27,rng:70,spd:85,itv:500},tunable:{pwp:1},type:"lc",size:"M",cost:75,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
-{id:168,name:"ハイガクゥーンAM2",main:{tec:100,pwr:7,shl:850,rng:330,spd:280,itv:900},tunable:{mwp:1},type:"c",size:"M",cost:115,hp:15,str:-1,tec:3,wlk:1,fly:1}
+{id:168,name:"ハイガクゥーンAM2",main:{tec:100,pwr:7,shl:850,rng:330,spd:280,itv:900},tunable:{mwp:1},type:"c",size:"M",cost:115,hp:15,str:-1,tec:3,wlk:1,fly:1,comment:["自軍貫通　爆風70％","統"]}
 
 {id:95,name:"ハイバリオンAM",sub:{pwr:20,shl:130,rng:350,spd:290,itv:1000,tec:100},type:"c",cost:100,hp:25,tec:2,wlk:1,fly:1,tgh:2,comment:["コンボ可能　","AM@省略"]}
 
@@ -780,8 +780,8 @@
 
 
 {id:291,name:"コンバットフリードAM3",sub:{pwr:32,shl:0,rng:75,spd:120,itv:2000,str:100},tunable:{pwp:1},type:"l",size:"L",cost:165,hp:20,str:3,tec:-1,wlk:1,tgh:2}
-{id:135,name:"コンバットフリードAM4",sub:{pwr:20,shl:0,rng:100,spd:120,itv:2000},tunable:{pwp:1},type:"l",size:"L",cost:105,hp:20,str:1,wlk:2,fly:-1,tgh:3}
-{id:141,name:"コンバットフリードAM5",sub:{pwr:33,shl:0,rng:70,spd:85,itv:1000,str:100},tunable:{pwp:1},type:"l",size:"L",cost:155,hp:20,str:2,tec:-1,wlk:2,fly:1,tgh:1,joint:{wp:0}}
+{id:135,name:"コンバットフリードAM4",sub:{pwr:20,shl:0,rng:100,spd:120,itv:2000},tunable:{pwp:0},type:"l",size:"L",cost:105,hp:20,str:1,wlk:2,fly:-1,tgh:3,comment:["スタン無効無視","②HM"]}
+{id:141,name:"コンバットフリードAM5",sub:{pwr:33,shl:0,rng:70,spd:85,itv:1000,str:100},tunable:{pwp:1},type:"l",size:"L",cost:155,hp:20,str:2,tec:-1,wlk:2,fly:1,tgh:1,joint:{wp:0},comment:["HM"]}
 
 {id:163,name:"サイクロテスAM3",type:"lacs",size:"L",cost:60,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2,comment:"シールド耐久値70"}
 {id:73,name:"サイドロンAM",cost:55,hp:20,str:2,tec:-1,wlk:1,tgh:3,type:"l",comment:"シールド耐久値70"}
