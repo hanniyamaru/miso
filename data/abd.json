@@ -296,7 +296,7 @@
 {id:31,name:"ルクスBD2",cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|51@30|19@15|23@25|22@30|28@30|52@20|21@20|15@20|13@30|32@50|31@40"},fixedParts:{hdac:["S1"],am:{main:{tec:100,pwr:22,shl:240,rng:275,spd:400,itv:700},tunable:{mwp:1},joint:{wp:2},fixedParts:{wp:[{name:"スクトゥーム",sub:{rng:0,spd:0,itv:1000},cost:60},{sub:{pwr:34,rng:77,spd:94,itv:1000,tec:100},tunable:{pwp:1},auraStat:{sub:{pwr:38,rng:77,spd:94,itv:1000,tec:100}},name:"ディフェクトゥス",cost:120,comment:""}]},name:"ルクスAM2",hp:50,tec:6,fly:2,tgh:2,cost:140,auraStat:{main:{pwr:25,shl:240,rng:275,spd:440,itv:700,tec:100}}}},cost:445,hp:255,capa:905,str:1,tec:12,wlk:7,fly:9,tgh:11,joint:{am:1,hdac:1},auraSystem:1,wbid:17,comment:["ルクス・レギオン","AURA機構"]}
 
 
-{id:10,name:"レイスタッグBD",cost:405,capa:800,hp:245,str:5,tec:12,wlk:6,fly:13,tgh:9,wbid:1,cartridge:{hpup:18,lv1:"85*6@20|7@30|9@15|8@20|19@15|21@20|23@25|22@30|52@20|15@20|30@20|31@40|13@30|32@50|26@20"},comment:"ロボキューブ？"}
+{id:10,name:"レイスタッグBD",cost:405,capa:800,hp:245,str:5,tec:12,wlk:6,fly:13,tgh:9,wbid:1,cartridge:{hpup:18,lv1:"85*6@20|7@30|9@15|8@20|19@15|21@20|23@25|22@30|52@20|15@20|30@20|31@40|13@30|32@50|26@20"},comment:"ロボキューブ"}
 
 {id:20240112,name:"R・デュークBD",cost:405,capa:800,hp:245,str:4,tec:15,wlk:7,fly:12,tgh:7,wbid:74,cartridge:{hpup:18,lv1:"85*6@20|7@30|9@15|8@20|18@30|19@15|23@25|22@30|52@20|26@20|21@20|30@20|13@30|32@50|31@40"}}
 {id:48,name:"RAMソルジェッターBD",main:{str:100,pwr:3,shl:900,rng:275,spd:350,itv:460},cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|19@15|23@25|22@30|12@20|52@20|26@20|21@20|15@20|13@30|32@50|31@40"},cost:485,capa:870,hp:255,str:13,tec:5,wlk:7,fly:13,tgh:10,wbid:1,type:"a",size:"M",comment:["","混沌コイン景品（140個）"]}
