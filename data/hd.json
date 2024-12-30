@@ -803,7 +803,7 @@
 {id:291,name:"コルディプスHD",cost:35,hp:20,tec:2,wlk:1,fly:1,tgh:1}
 
 {id:94,name:"コントラディクトHD",cost:40,hp:25,str:1,tec:2,wlk:2,fly:1,tgh:-1}
-{id:292,name:"サイクロテスHD2",main:{str:100,pwr:30,shl:50,rng:200,spd:570,itv:1000},type:"l",cost:70,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2,tunable:{mwp:1}}
+{id:292,name:"サイクロテスHD2",main:{str:100,pwr:30,shl:50,rng:200,spd:570,itv:1000},type:"l",cost:70,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2,tunable:{mwp:1},comment:["格闘属性（点）（7:3）　射撃攻撃（ライフテイカー等は発動しない）"]}
 
 {id:202305122,name:"ジェットファルコンHD",type:"a",size:"L",cost:35,hp:20,str:1,tec:1,wlk:-1,fly:2,tgh:2,comment:[""]}
 
