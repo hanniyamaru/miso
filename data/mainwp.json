@@ -54,23 +54,21 @@
 
 {id:24,name:"ビームガン",size:"S",cost:30,main:{pwr:10,shl:420,rng:275,spd:500,itv:440}}
 {id:27,name:"ワイドビームガン",type:"as",size:"S",cost:50,main:{pwr:16,shl:300,rng:275,spd:460,itv:600}}
-{id:26,name:"ダブルビームガン",type:"as",size:"S",cost:60,main:{pwr:8,shl:620,rng:275,spd:500,itv:560}}
-{id:30,name:"3ウェイビームガン",type:"as",size:"M",cost:80,main:{pwr:6,shl:720,rng:275,spd:350,itv:780},comment:"誘導弾"}
 {id:31,name:"リミットプラズマガン",type:"a",size:"M",cost:110,main:{pwr:19,shl:460,rng:275,spd:440,itv:380}}
 {id:32,name:"プラズマガン",type:"a",size:"M",cost:170,main:{pwr:27,shl:350,rng:275,spd:440,itv:500}}
-
-{id:72,name:"ガンマライトニングガン",main:{pwr:34,shl:240,rng:275,spd:440,itv:780},type:"a",size:"M",cost:130}
+{id:26,name:"ダブルビームガン",type:"as",size:"S",cost:60,main:{pwr:8,shl:620,rng:275,spd:500,itv:560}}
+{id:30,name:"3ウェイビームガン",type:"as",size:"M",cost:80,main:{pwr:6,shl:720,rng:275,spd:350,itv:780},comment:"誘導弾"}
 {id:33,name:"カーブガン",type:"as",size:"S",cost:50,main:{pwr:8,shl:600,rng:275,spd:480,itv:300}}
 {id:34,name:"スイングガン",type:"a",size:"M",cost:90,main:{pwr:9,shl:760,rng:275,spd:480,itv:260}}
-
 {id:37,name:"パルスガン",size:"S",cost:40,main:{pwr:9,shl:300,rng:275,spd:480,itv:600}}
 {id:38,name:"エレキガン",type:"s",size:"S",cost:90,main:{pwr:15,shl:300,rng:275,spd:400,itv:600}}
 {id:39,name:"パラライズガン",type:"s",size:"S",cost:140,main:{pwr:24,shl:300,rng:275,spd:360,itv:600}}
 {id:70,name:"アクセルビームガン",main:{pwr:15,shl:440,rng:275,spd:570,itv:400},type:"a",size:"M",cost:100}
 {id:71,name:"AURAライトニングガン",main:{pwr:15,shl:240,rng:250,spd:440,itv:700},auraStat:{main:{pwr:18,shl:240,rng:250,spd:440,itv:700}},type:"a",size:"S",cost:70,comment:["AURA機構","エンジェルコイン景品（75個）"]}
+{id:89,name:"ライトニングキャノン",main:{pwr:18,shl:560,rng:275,spd:440,itv:300},type:"a",size:"L",cost:150}
+{id:72,name:"ガンマライトニングガン",main:{pwr:34,shl:240,rng:275,spd:440,itv:780},type:"a",size:"M",cost:130}
 {id:105,name:"クリスタルビームガン",size:"M",cost:110,main:{pwr:28,shl:280,rng:275,spd:440,itv:600,tec:100},type:"a",comment:"結晶コイン景品（20個）"}
 
-{id:89,name:"ライトニングキャノン",main:{pwr:18,shl:560,rng:275,spd:440,itv:300},type:"a",size:"L",cost:150}
 {id:502,name:"サンダーシューター",main:{pwr:13,tec:100,shl:580,rng:275,spd:440,itv:300},tunable:{mwp:1},cost:140,type:"a",size:"M",comment:["自軍貫通","3連射目は追撃弾に変化"]}
 
 
@@ -209,14 +207,15 @@
 {id:20240902,name:"CBランチャーR",size:"M",type:"c",cost:100,main:{tec:100,pwr:27,shl:300,rng:330,spd:380,itv:640},tunable:{mwp:1},comment:["爆風100％　自軍貫通　強補正","表記射程・ロックオン対象到達時、落下弾へ変化","クエスト：VSイクスクレア ランダム報酬"]}
 
   
-{id:2911,name:"メガビームガン",type:"a",size:"L",cost:110,main:{pwr:33,shl:150,rng:275,spd:400,itv:1000}}
-{id:202301181,name:"メガライトニングガン",size:"L",type:"a",cost:160,main:{tec:100,pwr:40,shl:100,rng:275,spd:360,itv:1000},comment:"Season8アリーナコイン景品"}
+{id:2911,name:"メガビームガン",type:"a",size:"L",cost:110,main:{pwr:33,shl:150,rng:275,spd:400,itv:1000},comment:["チャージ"]}
+{id:202301181,name:"メガライトニングガン",size:"L",type:"a",cost:160,main:{tec:100,pwr:40,shl:100,rng:275,spd:360,itv:1000},comment:["チャージ","Season8アリーナコイン景品"]}
 
 {id:61,name:"プラズマビームキャノン",main:{pwr:34,shl:220,rng:275,spd:400,itv:740},cost:180,size:"M",type:"a"}
-{id:68,name:"チャージビームキャノン",main:{pwr:32,shl:150,rng:275,spd:440,itv:1000},type:"a",size:"L",cost:120}
 {id:29,name:"スターダストキャノン",type:"a",size:"LL",cost:130,main:{pwr:38,shl:240,rng:275,spd:400,itv:900},comment:"結晶コイン景品（20個）"}
 {id:56,name:"ビームポンプバズーカ",main:{pwr:23,shl:240,rng:275,spd:360,itv:760},type:"a",size:"M",cost:100,comment:["STRで範囲変化","エンジェルコイン景品（75個）"]}
-{id:168,name:"SBC-ビームキャノン",main:{tec:100,pwr:32,shl:200,rng:275,spd:440,itv:1000},cost:160,type:"a",size:"M",comment:"飛行ゲージ回収効果"}
+
+{id:68,name:"チャージビームキャノン",main:{pwr:32,shl:150,rng:275,spd:440,itv:1000},type:"a",size:"L",cost:120,comment:["チャージ保持"]}
+{id:168,name:"SBC-ビームキャノン",main:{tec:100,pwr:32,shl:200,rng:275,spd:440,itv:1000},cost:160,type:"a",size:"M",comment:["チャージ保持　ビーム爆風？％　飛行ゲージ回収効果","威力　長：×1.2？　単：×0.5？"]}
 {id:202410291,name:"クロウワンド",main:{tec:100,pwr:34,shl:200,rng:300,spd:300,itv:100},tunable:{mwp:1},cost:160,type:"a",size:"M",comment:["ビーム爆風100％　特定タイミングで威力30％+弾速アップ　飛行ゲージ回収効果","パーツクリエイト（ヴァンピレ・カーニバル素材）",""]}
 
 {group:"ミサイル系",prefixID:"MS",commonStat:{tunable:{mwp:1}},nextID:333}
