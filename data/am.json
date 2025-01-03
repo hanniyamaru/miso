@@ -455,7 +455,7 @@
 
 {id:304,name:"ジェネシオンAM",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1}
 {id:197,name:"ジェネシオンAM2",main:{tec:100,pwr:44,shl:150,rng:275,spd:440,itv:1000},tunable:{mwp:1},type:"a",size:"M",cost:195,hp:20,str:-1,tec:3,fly:2,tgh:1,joint:{wp:0},comment:["追撃弾：威力11？ビーム爆風100％",""]}
-{id:202207072,name:"ジェネシオンAM3",main:{tec:100,pwr:44,shl:150,rng:275,spd:440,itv:1000},type:"a",size:"M",cost:195,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,tunable:{mwp:1},joint:{wp:0},comment:["ビーム爆風100％　チャージ：有？％+20％*2　無：50％","「BEAM MINE」「ジェネシオンSB」"]}
+{id:202207072,name:"ジェネシオンAM3",main:{tec:100,pwr:44,shl:150,rng:275,spd:440,itv:1000},type:"a",size:"M",cost:195,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,tunable:{mwp:1},joint:{wp:0},comment:["ビーム爆風100％","チャージ：有？％+20％*2　無：50％","「BEAM MINE」「ジェネシオンSB」"]}
 
 {id:60,name:"シャーヘッドAM",cost:35,hp:20,str:1,tec:2,wlk:1,fly:-1,tgh:2}
 {id:129,name:"シャーヘッドAM2",main:{pwr:12,shl:400,rng:250,spd:320,itv:400},tunable:{mwp:1},type:"lc",cost:85,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,comment:"誘導弾"}
