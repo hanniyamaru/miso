@@ -46,6 +46,8 @@
 {id:69,name:"カゲタマAM",cost:35,hp:20,str:1,tec:1,wlk:2,tgh:1}
 
 {id:5,name:"カメンティスAM",cost:35,hp:20,tec:1,wlk:2,tgh:2}
+{id:202501085,name:"カメンティスAM2",type:"l",cost:105,hp:20,str:3,tec:-1,wlk:2,fly:0,tgh:1,sub:{str:100,pwr:34,rng:84,spd:94,itv:1000},tunable:{pwp:1},joint:{wp:0},comment:["左右装備時攻撃変化","カメンティスパンチ"]}
+
 {id:202307065,name:"キールメスAM",sub:{tec:100,pwr:8,shl:420,rng:350,spd:440,itv:1000},type:"c",cost:105,hp:20,str:-1,tec:2,wlk:2,fly:1,tgh:1,tunable:{pwp:0}}
 {id:11205,name:"キールメスAM2",main:{pwr:12,shl:300,rng:330,spd:240,itv:900},type:"c",cost:80,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,tunable:{mwp:1},comment:["双発（‥）　接触判定：有り","ANTIAIR MISSILE"]}
 
