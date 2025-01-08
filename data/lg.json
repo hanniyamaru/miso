@@ -697,6 +697,7 @@
 {id:290,name:"ドラッケンLG",cost:45,hp:25,str:2,wlk:3,tgh:1}
 {id:611103,name:"トランソニックLG",cost:45,hp:25,str:-1,tec:1,wlk:2,fly:2,tgh:2}
 {id:202403064,name:"トランソニックLG2",main:{tec:100,pwr:0,shl:60,rng:0,spd:10,itv:1000},sub:{pwr:0,shl:60,rng:0,spd:200,itv:1000},tunable:{mwp:1},cost:105,hp:25,str:-1,tec:2,wlk:2,fly:2,tgh:1,type:"a",comment:["メイン：GUARD（一斉射撃時のみ）","サブ：REIGNITION","X3"]}
+{id:202501082,name:"トリンティアLG",cost:50,hp:55,str:2,tec:-1,wlk:4,fly:0,tgh:1}
 
 
 {id:1201,name:"トルク・マイティバインLG",type:"l",cost:80,hp:65,str:1,wlk:3,fly:-1,tgh:3,comment:["シールド耐久値80"]}
