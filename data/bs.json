@@ -614,6 +614,8 @@
 {id:202210072,name:"ミラージュレイドBS",main:{str:100,pwr:5,shl:540,rng:275,spd:400,itv:700},sub:{str:100,pwr:28,rng:90,spd:150,itv:1000},auraStat:{sub:{str:100,pwr:30}},type:"a",size:"M",cost:130,hp:20,str:2,tec:-1,fly:3,tgh:1,comment:["メイン：ビーム爆風100％？+飛行ゲージ回復効果","AURA機構"],tunable:{pwp:1,mwp:1}}
 
 {id:7,name:"メカジェッターBS",type:"a",cost:35,hp:20,tec:1,fly:3,tgh:1}
+{id:202501086,name:"メカジェッターBS2",sub:{tec:100,pwr:28,shl:75,rng:275,spd:280,itv:1000},tunable:{pwp:0},type:"a",size:"M",cost:90,hp:20,str:-1,tec:2,wlk:0,fly:4,comment:["威力はSTR TECの高い方に依存　飛行ゲージ回復効果","メカジェッター改"]}
+
 {id:86,name:"メカジェッターOMGBS",type:"a",cost:40,hp:25,str:2,tec:-1,fly:3,tgh:1}
 
 {id:66,name:"メディージャーBS",type:"s",cost:40,hp:25,str:1,fly:3,tgh:1}
