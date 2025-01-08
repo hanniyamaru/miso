@@ -82,6 +82,8 @@
 {id:69,name:"トゥイスク",sub:{tec:100,pwr:32,shl:0,rng:0,spd:0,itv:1000},slot:0}
 {id:202412042,name:"スラーヴァタンク",sub:{tec:100,pwr:10,shl:80,rng:200,spd:250,itv:1000},slot:0,joint:{wp:2},fixedParts:{wp:[{main:{tec:100,pwr:12,shl:720,rng:350,spd:320,itv:300},cost:130,tunable:{mwp:1},name:"スラーヴァタンク@1",comment:"WB使用中は同時発射に変化"},{name:"スラーヴァタンク@2",main:{tec:100,pwr:19,shl:200,rng:300,spd:220,itv:900},cost:20,tunable:{mwp:1},comment:"バリア弾"}]},cost:20,comment:["確率バインド効果"],type:"c"}
 
+{id:202501091,name:"アスカBD@",sub:{tec:100,pwr:30,shl:50,rng:0,spd:250,itv:1000},cost:20,slot:0,comment:["自己バフ時自身に？ダメージ"+オールガードβ30％効果"]}
+{id:202501092,name:"シュトルレーザービット",main:{tec:100,pwr:34,shl:300,rng:350,spd:480,itv:500},sub:{tec:100,pwr:10,shl:1260,rng:380,spd:320,itv:1000},cost:220,slot:3,tunable:{mwp:1},comment:["オールガードβ時攻撃強化"]}
 
 
 
