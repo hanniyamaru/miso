@@ -89,7 +89,8 @@
 {id:202501162,name:"セイリュウ＠1",main:{str:100,pwr:15,shl:1200,rng:330,spd:570,itv:200},type:"la",cost:0,slot:0,comment:[""]}
 {id:202501163,name:"セイリュウ＠2",main:{str:100,pwr:42,shl:60,rng:330,spd:570,itv:1000},type:"la",cost:0,slot:0,comment:["霊氣消費時は重力発生"]}
 
-
+{id:202501164,name:"ビャッコ",main:{str:100,pwr:40,shl:60,rng:250,spd:500,itv:1000},sub:{str:100,pwr:23,shl:90,rng:300,spd:350,itv:1000},cost:0,slot:0,tunable:{mwp:1},comment:["霊氣消費時は確率リピートスタン効果"]}
+{id:202501165,name:"ビャッコHD",main:{str:100,pwr:20,shl:440,rng:300,spd:525,itv:200},sub:{str:100,pwr:34,shl:30,rng:100,spd:350,itv:1000},cost:0,slot:0,tunable:{mwp:1},comment:[""]}
 
 
 
