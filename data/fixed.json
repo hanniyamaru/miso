@@ -85,7 +85,9 @@
 {id:202501091,name:"アスカBD@",sub:{tec:100,pwr:30,shl:50,rng:0,spd:250,itv:1000},cost:20,slot:0,comment:["自己バフ時自身に？ダメージ+オールガードβ30％効果"]}
 {id:202501092,name:"シュトルレーザービット",main:{tec:100,pwr:34,shl:300,rng:350,spd:480,itv:500},sub:{tec:100,pwr:10,shl:1260,rng:380,spd:320,itv:1000},cost:220,slot:3,tunable:{mwp:1},comment:["オールガードβ時攻撃強化"]}
 
-
+{id:202501161,name:"セイリュウ",sub:{str:100,pwr:30,shl:120,rng:300,spd:480,itv:1000},type:"la",cost:0,slot:0,comment:["ビーム属性　使用時飛行ゲージ回復"]}
+{id:202501162,name:"セイリュウ＠1",main:{str:100,pwr:15,shl:1200,rng:330,spd:570,itv:200},type:"la",cost:0,slot:0,comment:[""]}
+{id:202501163,name:"セイリュウ＠2",main:{str:100,pwr:42,shl:60,rng:330,spd:570,itv:1000},type:"la",cost:0,slot:0,comment:["霊氣消費時は重力発生"]}
 
 
 
