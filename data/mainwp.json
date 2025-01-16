@@ -598,8 +598,8 @@
 {id:202203162,name:"レヴナントダート",size:"M",cost:30,main:{str:100,pwr:15,shl:50,rng:200,spd:500,itv:1000},type:"l",slot:3,tunable:{pwp:0},comment:"ダークレヴナントAM専用コンバージョンパーツ"}
 
 {group:"ティタニア デルタコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
-{id:202501171,name:"コンバットナイフType.Δ",size:"S",cost:70,sub:{tec:100,pwr:34,shl:10,rng:105,spd:128,itv:1000},type:"l",tunable:{mwp:0,pwp:1},comment:["パリィ　専用ビット発動時：威力1.1倍","ティタニア デルタ専用コンバージョンパーツ"]}
-{id:202501172,name:"SアサルトカービンType.Δ",size:"S",cost:130,main:{tec:100,pwr:20,shl:1080,rng:275,spd:530,itv:200},type:"l",tunable:{mwp:1,pwp:0},comment:["専用ビット発動時：バリアスルー効果","ティタニア デルタ専用コンバージョンパーツ"]}
+{id:202501171,name:"コンバットナイフType.Δ",size:"S",cost:70,sub:{tec:100,pwr:34,shl:10,rng:105,spd:128,itv:1000},type:"l",tunable:{mwp:0,pwp:1},comment:["パリィ　専用WB発動時：威力1.1倍","ティタニア デルタ専用コンバージョンパーツ"]}
+{id:202501172,name:"SアサルトカービンType.Δ",size:"S",cost:130,main:{tec:100,pwr:20,shl:1080,rng:275,spd:530,itv:200},type:"l",tunable:{mwp:1,pwp:0},comment:["専用WB発動時：バリアスルー効果","ティタニア デルタ専用コンバージョンパーツ"]}
 
 
 {group:"テンポールコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
