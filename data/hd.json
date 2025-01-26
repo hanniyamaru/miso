@@ -13,7 +13,7 @@
 {id:202304064,name:"エースブレイバーHD2",size:"S",cost:35,hp:20,str:2,tec:1,wlk:2,fly:-1,tgh:1,comment:"Ⅱ"}
 
 {id:251,name:"エアリーデHD",cost:35,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1}
-{id:20,name:"エルメ・SHD",type:"as",size:"S",cost:100,hp:20,str:-1,tec:2,wlk:2,fly:1,tgh:1,main:{pwr:7,shl:720,rng:275,spd:150,itv:200},tunable:{mwp:1},comment:"Season8アリーナコイン景品"}
+{id:20,name:"エルメ・SHD",type:"as",size:"S",cost:100,hp:20,str:-1,tec:2,wlk:2,fly:1,tgh:1,main:{pwr:7,shl:720,rng:275,spd:150,itv:200},tunable:{mwp:1},comment:["誘導弾　ビーム属性","Season8アリーナコイン景品"]}
 {id:202208071,name:"オレガーHD",size:"S",cost:40,hp:25,str:2,tec:-1,wlk:2,tgh:2,comment:"アルカンタスドロップ"}
 {id:20220807,name:"オレガーHD2",size:"S",cost:35,hp:20,tec:2,wlk:2,fly:-1,tgh:2,comment:"アルカンタスドロップ"}
 
@@ -252,7 +252,7 @@
 {id:322,name:"エスティスHD2",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
 {id:202401113,name:"エティオンHD",size:"M",cost:35,hp:20,str:2,tec:0,wlk:1,tgh:2}
 
-{id:153,name:"エルメ・サリーHD",type:"as",size:"M",cost:105,hp:20,str:-1,tec:2,wlk:2,fly:2,main:{tec:100,pwr:6,shl:800,rng:275,spd:280,itv:400},tunable:{mwp:1},comment:""}
+{id:153,name:"エルメ・サリーHD",type:"as",size:"M",cost:105,hp:20,str:-1,tec:2,wlk:2,fly:2,main:{tec:100,pwr:6,shl:800,rng:275,spd:280,itv:400},tunable:{mwp:1},comment:"誘導弾　ビーム属性"}
 {id:202211036,name:"エルメ・サリーHD2",main:{tec:100,pwr:17,shl:330,rng:330,spd:570,itv:500},tunable:{mwp:1},type:"cs",size:"M",cost:105,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,comment:"エルメ・サリー麗"}
 
 {id:238,name:"オーガヒルHD",cost:40,hp:25,tec:1,wlk:2,fly:1,tgh:1}
