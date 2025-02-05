@@ -399,6 +399,7 @@
 {id:202212084,name:"ガゥディアンAM（オフダ）",main:{pwr:10,shl:1050,rng:275,spd:440,itv:600},type:"ls",joint:{wp:2},cost:105,hp:20,str:-1,tec:2,wlk:2,fly:1,tgh:1,fixedParts:{wp:{name:"オフダシューター",main:{pwr:10,shl:1050,rng:275,spd:440,itv:600},tunable:{mwp:0},type:"ls",size:"M",slot:0}},comment:["オフダシューターcost+70複合","検索用にコンバージョンの数値を仮入力"]}
 {id:202212085,name:"ガゥディアンAM（トリイ）",main:{pwr:24,shl:360,rng:275,spd:440,itv:500},type:"ls",joint:{wp:2},cost:105,hp:20,str:-1,tec:2,wlk:2,fly:1,tgh:1,fixedParts:{wp:{name:"トリイバズーカ",main:{pwr:24,shl:360,rng:275,spd:440,itv:500},tunable:{mwp:0},slot:0,type:"ls",size:"M"}},comment:["トリイバズーカcost+70複合","検索用にコンバージョンの数値を仮入力"]}
 {id:159,name:"ガゥディアンAM（コンバージョン無し）",cost:35,hp:20,str:-1,tec:2,wlk:2,fly:1,tgh:1}
+{id:202502055,name:"ガクゥーンAM",type:"cs",cost:75,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,main:{tec:100,pwr:24,shl:280,rng:330,spd:440,itv:700},tunable:{mwp:1},joint:{wp:0},comment:"スタンボーナス"}
 
 
 {id:1226,name:"カドゥーマツAM",cost:85,hp:20,tec:3,fly:1,tgh:1,main:{pwr:8,shl:800,rng:225,spd:400,itv:200},tunable:{mwp:1},joint:{wp:0}}
