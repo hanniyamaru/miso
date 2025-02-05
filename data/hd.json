@@ -51,6 +51,8 @@
 {id:20230803,name:"スティルドHD",size:"S",cost:35,hp:20,tec:1,wlk:2,fly:1,tgh:1,comment:[""]}
 
 {id:20240209,name:"セツカHD",size:"S",cost:35,hp:20,str:-1,tec:2,wlk:2,fly:1,tgh:1,comment:[""]}
+{id:202502052,name:"セツカHD2",size:"S",cost:35,hp:20,str:-1,tec:1,wlk:2,fly:1,tgh:2,comment:["垂氷"]}
+
 {id:20221007,name:"セルピリスHD",cost:35,hp:20,str:3,tec:-1,wlk:1,fly:1,tgh:1,size:"S",comment:[""]}
 {id:20241003,name:"セルピリスHD2",cost:35,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,size:"S",comment:["セルピリス・グリム"]}
 
