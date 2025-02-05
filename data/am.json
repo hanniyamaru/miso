@@ -1174,6 +1174,7 @@
 {id:31,name:"ミコトAMJ",main:{pwr:12,shl:270,rng:250,spd:400,itv:620},tunable:{mwp:1},type:"lc",size:"M",cost:15,slot:1,comment:["リモート（長）　距離減衰あり"]}
 
 {id:18,name:"ミドルガトリングAMJ",size:"M",cost:60,main:{pwr:6,shl:1080,rng:200,spd:400,itv:140},tunable:{mwp:1},tec:2,wlk:-1,slot:1,type:"lc"}
+{id:20250205,name:"ラクラボロスAMJ2",main:{tec:100,pwr:13,shl:360,rng:300,spd:350,itv:500},tunable:{mwp:1},type:"as",size:"M",cost:40,slot:1,comment:["ビーム属性　反発効果　誘導弾","リンクショット対応"]}
 
 {id:40,name:"A.L.E.ラズフラムAMJ",sub:{rng:100,spd:50,itv:500},tunable:{pwp:0,mwp:0},type:"l",size:"SS",cost:50,slot:1,comment:"シールド耐久値135"}
 
