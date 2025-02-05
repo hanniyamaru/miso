@@ -649,7 +649,8 @@
 
 
 {id:145,name:"ユングヴィAM",size:"M",cost:35,hp:20,str:1,tec:2,wlk:-1,fly:2,tgh:1}
-{id:179,name:"ユングヴィAM2",main:{tec:100,pwr:14,shl:840,rng:250,spd:480,itv:240},tunable:{mwp:1},type:"a",size:"M",cost:145,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,comment:"-",joint:{wp:0}}
+{id:179,name:"ユングヴィAM2",main:{tec:100,pwr:14,shl:840,rng:250,spd:480,itv:240},tunable:{mwp:1},type:"a",size:"M",cost:145,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,joint:{wp:0},comment:""}
+{id:202502054,name:"ユングヴィAM3",main:{tec:100,pwr:34,shl:270,rng:275,spd:440,itv:800},tunable:{mwp:1},type:"a",size:"M",cost:165,hp:20,str:-1,tec:2,wlk:0,fly:2,tgh:2,joint:{wp:0},comment:["飛行ゲージ回復効果"]}
 
 {id:525,name:"ライオスAM",cost:40,hp:25,str:1,tec:2,wlk:1,tgh:1}
 {id:152,name:"ラムダイバーAM",type:"lacs",size:"M",cost:35,hp:20,str:-1,wlk:2,fly:2,tgh:2}
