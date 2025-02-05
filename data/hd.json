@@ -733,6 +733,8 @@
 {id:180,name:"ラグナバレットHD",cost:40,hp:25,str:-1,tec:3,wlk:1,fly:1,tgh:1}
 
 {id:209,name:"ラクラボロスHD",cost:40,hp:25,str:3,tec:-1,wlk:1,fly:1,tgh:1}
+{id:202502052,name:"ラクラボロスHD2",cost:40,hp:25,str:-1,tec:3,wlk:1,fly:1,tgh:1}
+
 {id:287,name:"ラムダイバーHD",type:"lacs",size:"M",cost:40,hp:20,str:1,tec:2,wlk:-1,fly:1,tgh:2}
 {id:36,name:"ランサーロットHD",cost:40,hp:25,str:1,tec:1,tgh:3}
 {id:37,name:"ランサーロットHD2",cost:40,hp:25,tec:1,wlk:1,tgh:3,comment:"ランサーロット・J"}
