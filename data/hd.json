@@ -712,6 +712,8 @@
 {id:312,name:"ミラージュレイドHD",type:"lacs",size:"M",cost:35,hp:20,str:1,wlk:1,fly:2,tgh:1,comment:"AURA機構"}
 
 {id:20240606,name:"ムルルガルHD",cost:35,hp:20,wlk:3,fly:1,tgh:1}
+{id:202502053,name:"ムルルガルHD2",cost:35,hp:20,str:-1,tec:2,wlk:2,fly:0,tgh:2}
+
 {id:6,name:"メガトンオーHD",cost:35,hp:20,str:1,tec:1,wlk:1,tgh:1}
 {id:20230204,name:"メガトンオーHD2",cost:35,hp:20,tec:1,wlk:1,fly:1,tgh:2}
 
