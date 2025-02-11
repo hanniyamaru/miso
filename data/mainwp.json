@@ -533,7 +533,7 @@
 
 {group:"オルフェノスコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:74,name:"メロディコードα",main:{tec:100,pwr:16,shl:360,rng:300,spd:400,itv:500},sub:{tec:100,pwr:11,shl:280,rng:300,spd:320,itv:1000},type:"s",size:"S",cost:65,comment:"ハープにのみ接続可能"}
-{id:76,name:"メロディコードβ",main:{shl:80,rng:300,spd:300,itv:500},sub:{shl:20,rng:300,spd:300,itv:1000},type:"s",size:"S",cost:100,comment:["ハープにのみ接続可能","メイン：回復量54","サブ：オールガード+スピードアップ（15秒）"]}
+{id:76,name:"メロディコードβ",main:{shl:80,rng:300,spd:300,itv:500},sub:{shl:20,rng:300,spd:300,itv:1000},type:"s",size:"S",cost:100,comment:["ハープにのみ接続可能","メイン：回復量54","サブ：オールガード+スピードアップ（16秒）"]}
 {id:75,name:"メロディコードγ",main:{tec:100,pwr:19,shl:300,rng:250,spd:400,itv:600},sub:{tec:100,pwr:15,shl:120,rng:300,spd:300,itv:500},tunable:{mwp:1,pwp:0},type:"s",size:"S",cost:70,comment:"ハープにのみ接続可能"}
 
 
