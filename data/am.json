@@ -431,7 +431,7 @@
 {id:202407181,name:"ギャラクシーデカAM2",main:{tec:100,pwr:14,shl:770,rng:250,spd:400,itv:200},cost:135,hp:20,str:-1,tec:3,wlk:1,tgh:2,type:"l",size:"M",tunable:{mwp:1},joint:{wp:0},comment:["減衰率？％　チャージ　貫通弾","夏祭りキューブ"]}
 {id:101,name:"クアドラAM",main:{tec:100,pwr:21,shl:260,rng:330,spd:400,itv:700},tunable:{mwp:1},cost:75,hp:20,tec:2,wlk:1,fly:1,tgh:1,joint:{wp:0},type:"c",size:"M"}
 
-{id:170,name:"クリスホーンAM",fixedParts:{am:{name:"クリスホーンAM@",slot:0,type:"l",joint:{wp:0}}},auraStat:{main:{pwr:15,shl:600,rng:250,spd:350,itv:500}},type:"l",cost:125,hp:20,str:-1,tec:3,wlk:2,fly:1,comment:["AM@シールド耐久値65","AURA機構"],joint:{am:1},main:{pwr:10,shl:600,rng:250,spd:320,itv:400},tunable:{mwp:1},size:"M"}
+{id:170,name:"クリスホーンAM",main:{pwr:10,shl:600,rng:250,spd:320,itv:400},auraStat:{main:{pwr:15,shl:600,rng:250,spd:350,itv:500}},type:"l",cost:125,hp:20,str:-1,tec:3,wlk:2,fly:1,comment:["AM@省略　AURA機構","誘導弾　自軍貫通　AURA時：実弾属性爆風100％に変化　AM@シールド耐久値65"],tunable:{mwp:1},size:"M"}
 {id:9,name:"クレストセイントAM",cost:40,hp:25,str:2,wlk:1,fly:2}
 
 {id:71,name:"ゲンブラAM",type:"c",cost:60,hp:25,tec:2,wlk:1,tgh:2,main:{pwr:12,shl:130,rng:330,spd:290,itv:440},sub:{pwr:13,shl:160,rng:350,spd:290,itv:1000},tunable:{mwp:1,pwp:1},joint:{wp:1},comment:"AURA機構省略"}
