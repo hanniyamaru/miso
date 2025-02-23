@@ -1,5 +1,5 @@
 {group:"追従格闘",prefixID:"FP",nextID:11}
-{id:1,name:"スパイクビットD",type:"ls",comment:"ミッションコイン景品5/50"}
+{id:1,name:"スパイクビットD",type:"ls",comment:["命中時相手は僅かな時間、格闘攻撃を無効化する状態になる","ミッションコイン景品5/50"]}
 {id:2,name:"3ウェイビットD",type:"ls"}
 {id:3,name:"ソードビット"}
 {id:4,name:"スレイヤービット",cost:0}
