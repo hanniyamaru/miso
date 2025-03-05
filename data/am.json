@@ -1108,6 +1108,9 @@
 {id:15,name:"ビッグマンテスAM2",type:"a",cost:135,hp:20,str:-1,tec:3,tgh:3,main:{pwr:7,shl:1000,rng:275,spd:350,itv:900},tunable:{mwp:1},joint:{wp:0}}
 {id:2024070351,name:"ビッグマンテスTriAM2",type:"a",cost:135,hp:20,str:-1,tec:4,fly:1,tgh:1,main:{tec:100,pwr:12,shl:680,rng:275,spd:280,itv:900},tunable:{mwp:1},joint:{wp:0},comment:"チャージ"}
 
+{id:202503055,name:"ファルケアーマーAM",type:"a",size:"LL",cost:125,hp:20,str:-1,tec:3,tgh:3,main:{tec:100,pwr:14,shl:260,rng:275,spd:280,itv:800},sub:{str:100,pwr:0,shl:10,rng:0,spd:0,itv:1000},tunable:{mwp:1},joint:{wp:1},comment:["メイン：誘導弾　リンクショット対応","サブ：シールド"]}
+
+  
 {id:11,name:"ブリガバロンAM",cost:40,hp:25,str:2,tec:-1,wlk:1,tgh:3}
 {id:12,name:"ブリガバロンLAM2",cost:40,hp:25,str:2,tec:-1,wlk:1,tgh:3,fixedParts:{wp:{name:"ブリガントシールド",sub:{shl:10,rng:0,spd:0,itv:1000},cost:30,tunable:{pwp:0}}},type:"l",comment:"ブリガバロン専用コンバージョンパーツ"}
 
