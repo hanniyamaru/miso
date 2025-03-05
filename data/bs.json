@@ -828,6 +828,7 @@
 {id:202407035,name:"ビッグマンテスTriBS",type:"a",cost:35,hp:20,wlk:1,fly:2,tgh:2}
 
 {id:42,name:"ファルクスBS",type:"l",cost:35,hp:20,str:1,wlk:1,fly:3}
+{id:202503055,name:"ファルケアーマーBS",type:"a",cost:35,hp:20,tec:2,wlk:0,fly:3,tgh:0}
 
 {id:96,name:"フラッシュボマーBS",type:"c",size:"L",cost:35,hp:20,tec:2,fly:2,tgh:1}
 
