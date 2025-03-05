@@ -867,6 +867,9 @@
   
 {id:293,name:"ヤマトオグナHD",cost:35,hp:20,str:2,tec:-1,wlk:2,tgh:2}
 
+{group:"ＬＬサイズ",prefixID:"LL",commonStat:{size:"LL"},nextID:6}
+{id:202503053,name:"ジョストガンダーHD2",cost:35,hp:20,str:1,tec:0,wlk:1,tgh:3,comment:["ボイル"]}
+
 
 {group:"ジョイント",prefixID:"J",commonStat:{jointPart:1},nextID:4}
 
