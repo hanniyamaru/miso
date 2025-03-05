@@ -539,6 +539,7 @@
 {id:2022090981,name:"トライスターHD",size:"M",cost:35,hp:20,tec:1,wlk:1,fly:2,tgh:1}
 
 {id:341,name:"ドライブリッツHD",size:"M",cost:30,hp:15,tec:2,wlk:2,fly:-1,tgh:1}
+{id:202503054,name:"ドライブリッツHD2",size:"M",cost:35,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,comment:["ドライブリッツLL"]}
 
 
 {id:236,name:"ドラゴネイルHD",cost:40,hp:25,str:2,fly:1,tgh:2}
