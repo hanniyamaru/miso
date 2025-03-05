@@ -77,6 +77,7 @@
 
 {id:20220706,name:"サイバリオンAM",cost:30,hp:15,tec:2,wlk:1,tgh:1,comment:"Season7アリーナコイン景品"}
 {id:18,name:"ジークンロンαAM",cost:35,hp:20,str:1,tec:1,wlk:2,tgh:1,comment:"ジークンαAM"}
+{id:202503056,name:"シーノAM",cost:35,hp:20,str:1,tec:0,wlk:2,fly:1,tgh:1,comment:""}
 
 {id:202209094,name:"ジェッツAM",cost:35,hp:20,str:1,tec:2,wlk:-1,fly:2,tgh:1,comment:""}
 
