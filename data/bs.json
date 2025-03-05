@@ -126,6 +126,8 @@
 {id:20220706,name:"サイバリオンBS",type:"l",size:"S",cost:30,hp:15,str:1,wlk:1,fly:3,tgh:-1,comment:"Season7アリーナコイン景品"}
 
 {id:6,name:"ジークンロンαBS",type:"l",cost:40,hp:25,str:2,tec:-1,fly:3,tgh:1,comment:"ジークンαBS"}
+{id:202503056,name:"シーノBS",type:"l",cost:35,hp:20,str:0,tec:0,wlk:2,fly:4,tgh:-1,comment:""}
+
 {id:20240912,name:"シエスBS",size:"S",cost:35,hp:20,str:0,tec:0,wlk:1,fly:3,tgh:1}
 
 {id:228,name:"シシナBS",type:"l",size:"S",cost:35,hp:20,str:1,tec:1,wlk:2,fly:2,tgh:-1}
