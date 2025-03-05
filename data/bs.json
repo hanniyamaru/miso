@@ -537,6 +537,7 @@
 {id:202302021,name:"トウキマルBS",type:"l",size:"M",cost:35,hp:20,str:1,tec:-1,wlk:2,fly:3,comment:""}
 
 {id:221,name:"ドライブリッツBS",type:"c",cost:105,hp:20,str:-1,tec:2,wlk:2,fly:2,sub:{tec:100,pwr:13,shl:300,rng:350,spd:320,itv:1000}}
+{id:202503054,name:"ドライブリッツBS2",type:"c",cost:85,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,sub:{tec:100,pwr:32,shl:90,rng:350,spd:280,itv:1000},comment:["ドライブリッツLL"]}
 
 
 {id:20220604,name:"ナイトフィアーBS",size:"M",type:"l",cost:40,hp:25,str:1,wlk:1,fly:2,tgh:1}
