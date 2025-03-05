@@ -739,6 +739,8 @@
 {id:320,name:"ビッグマンテスLG2",sub:{shl:100,rng:0,spd:60,itv:1000},tunable:{pwp:0},type:"a",size:"L",cost:90,hp:70,tec:1,wlk:3,fly:2}
 
 {id:55,name:"ファルクスLG",cost:45,hp:35,str:1,tec:-1,wlk:2,fly:1,tgh:3}
+{id:202503055,name:"ファルケアーマーLG",size:"L",type:"a",sub:{tec:100,pwr:30,shl:100,shl:100,rng:0,spd:200,itv:1000},cost:90,hp:55,str:0,tec:0,wlk:2,fly:2,tgh:2,comment:["威力はSTR・TECの高い方に依存","REIGNITION"]}
+
 {id:110,name:"フラッシュボマーLG",size:"L",cost:45,hp:65,str:1,tec:1,wlk:3,tgh:1}
 {id:202411065,name:"ブルメキアスLG",size:"L",cost:50,hp:30,str:2,tec:0,wlk:4,fly:-1,tgh:1}
 
