@@ -235,7 +235,7 @@
 
 {id:581,name:"マイクロミサイルガン",main:{pwr:9,shl:180,rng:330,spd:290,itv:800},type:"c",size:"SS",cost:50}
 {id:58,name:"バーストミサイルガン",main:{pwr:13,shl:180,rng:330,spd:290,itv:900},type:"c",size:"M",cost:130}
-{id:81,name:"ミサイルクラスター",main:{tec:100,pwr:10,shl:320,rng:330,spd:290,itv:1200},tunable:{mwp:1},type:"c",size:"M",cost:160}
+{id:81,name:"ミサイルクラスター",main:{tec:100,pwr:10,shl:320,rng:330,spd:290,itv:1200},tunable:{mwp:1},type:"c",size:"M",cost:160,comment:["爆風70％？"]}
 {id:33,name:"セプタプルランチャー",main:{pwr:6,shl:1260,rng:330,spd:250,itv:900},cost:170,size:"LL",type:"c",comment:["クエストコイン景品（80個）",""]}
 
 {id:588,name:"タケノコランチャー",main:{pwr:20,shl:160,rng:330,spd:240,itv:800},type:"c",size:"M",cost:60,comment:"NPCアンコ"}
