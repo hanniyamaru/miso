@@ -446,6 +446,7 @@
 
 
 {id:20220522,name:"ラッシュガントレット",size:"M",type:"a",cost:80,tunable:{mwp:0,pwp:0},comment:["ヘル・ヴィクトル専用コンバージョンパーツ","左右の表記省略"]}
+{id:202306081,name:"ラビリンアクス",main:{pwr:17,shl:640,rng:350,spd:330,itv:340,tec:100},sub:{tec:100,pwr:32,shl:120,rng:350,spd:290,itv:1000},type:"c",size:"S",cost:225,tunable:{pwp:0,mwp:1},comment:["サブ：爆風属性100％","ミルル・ミゥ専用コンバージョンパーツ"]}
 
 
 
