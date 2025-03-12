@@ -770,7 +770,7 @@
 
 {id:20240111,name:"シンゲンBS",type:"l",size:"L",cost:35,hp:20,str:0,tec:0,wlk:1,fly:3,tgh:1,comment:[""]}
 
-{id:186,name:"スカラベスBS2",main:{tec:100,pwr:9,shl:330,rng:330,spd:260,itv:1100},tunable:{mwp:1},joint:{wp:1},cost:195,hp:20,str:-1,tec:3,fly:2,tgh:1,type:"c",size:"L"}
+{id:186,name:"スカラベスBS2",main:{tec:100,pwr:10,shl:360,rng:330,spd:290,itv:1100},tunable:{mwp:1},joint:{wp:1},cost:195,hp:20,str:-1,tec:3,fly:2,tgh:1,type:"c",size:"L"}
 {id:34,name:"スケアガントBS",cost:40,hp:25,fly:2,tgh:3,type:"l"}
 {id:202304065,name:"スチールバーンBS",type:"a",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:2,tgh:2}
 {id:121,name:"スチールバーンBS2",type:"a",cost:40,hp:25,wlk:1,fly:3,tgh:1}
