@@ -38,8 +38,8 @@
 
 {id:26,name:"オールエッジ",type:"l",size:"S",cost:140,sub:{str:100,pwr:32,rng:100,spd:200,itv:2000}}
 
-{id:22,name:"メタルスレイヤー",type:"l",size:"M",cost:160,sub:{str:100,pwr:34,rng:77,spd:94,itv:1000}}
-{id:24,name:"ドゥームスレイヤー",type:"l",size:"L",cost:200,sub:{str:100,pwr:36,rng:80,spd:98,itv:1000}}
+{id:22,name:"メタルスレイヤー",type:"l",size:"M",cost:160,sub:{str:100,pwr:34,rng:77,spd:94,itv:1000},comment:["WLK依存サブ","改変：2025/3/12"]}
+{id:24,name:"ドゥームスレイヤー",type:"l",size:"L",cost:200,sub:{str:100,pwr:36,rng:80,spd:98,itv:1000},comment:["WLK依存サブ","改変：2025/3/12"}
 {id:20221210,name:"クレナイエッジ",sub:{str:100,pwr:34,shl:0,rng:77,spd:94,itv:1000},size:"M",type:"l",cost:160,comment:["ディライブ攻撃時TGH減衰無視","ダテマックス初期装備"]}
 
 {id:29,name:"ライトニングエッジ",sub:{str:100,pwr:32,rng:70,spd:85,itv:500},auraStat:{sub:{pwr:34,rng:77,spd:93,itv:500}},type:"l",size:"M",cost:100,comment:["AURA機構","エンジェルコイン景品（75個）"]}
