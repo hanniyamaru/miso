@@ -467,8 +467,8 @@
 {id:72,name:"ブラッドシューター",main:{pwr:15,shl:680,rng:275,spd:400,itv:300},tunable:{mwp:1},type:"la",size:"S",comment:"アムリムAM2専用コンバーションパーツ",cost:100}
 
 {group:"アリスコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
-{id:20220907,name:"ワンダーキーロッド",main:{pwr:6,shl:2000,rng:275,spd:320,itv:400},tunable:{mwp:1},joint:{wp:1},fixedParts:{wp:[{main:{pwr:34,shl:50,rng:300,spd:220,itv:1000},name:"チェシャキャノン",slot:0,comment:["ビーム爆風100％"]}]},type:"a",cost:150,size:"S",comment:["アリスAM専用コンバージョンパーツ","ビーム爆風100％"]}
-{id:20231206,name:"ワンダーヴォーパルソード",main:{pwr:10,shl:840,rng:275,spd:350,itv:700},tunable:{mwp:1},joint:{wp:1},fixedParts:{wp:[{main:{pwr:36,shl:50,rng:300,spd:440,itv:1000},name:"マッドハッターキャノン",slot:0,comment:["引き寄せ効果：弱"]}]},type:"a",cost:150,size:"S",comment:["アリスAM専用コンバージョンパーツ",""]}
+{id:20220907,name:"ワンダーキーロッド",main:{tec:100,pwr:6,shl:2000,rng:275,spd:320,itv:400},tunable:{mwp:1},joint:{wp:1},fixedParts:{wp:[{main:{pwr:34,shl:50,rng:300,spd:220,itv:1000},name:"チェシャキャノン",slot:0,comment:["ビーム爆風100％"]}]},type:"a",cost:150,size:"S",comment:["ビーム爆風100％","※無ロック時は速度チューンで飛距離が増減する","アリスAM専用コンバージョンパーツ"]}
+{id:20231206,name:"ワンダーヴォーパルソード",main:{tec:100,pwr:10,shl:840,rng:275,spd:350,itv:700},tunable:{mwp:1},joint:{wp:1},fixedParts:{wp:[{main:{pwr:36,shl:50,rng:300,spd:440,itv:1000},name:"マッドハッターキャノン",slot:0,comment:["引き寄せ効果：弱"]}]},type:"a",cost:150,size:"S",comment:["アリスAM専用コンバージョンパーツ",""]}
 
 {group:"アレイシア・アールコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 
