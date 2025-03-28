@@ -376,7 +376,7 @@
 {id:93,name:"エアロライダーAM",main:{tec:100,pwr:10,shl:560,rng:250,spd:300,itv:300},joint:{wp:0},type:"l",cost:105,hp:20,str:-1,tec:2,wlk:3,tgh:1,size:"M",tunable:{mwp:1},comment:["Season7アリーナコイン景品","実弾爆風30％"]}
 
 {id:202310185,name:"エスエルAM",main:{tec:100,pwr:9,shl:840,rng:330,spd:400,itv:200},type:"c",size:"M",cost:105,hp:20,str:-1,tec:3,wlk:1,tgh:2,tunable:{mwp:1},joint:{wp:0},comment:["爆風70％？"]}
-{id:202207061,name:"エスエルAM2",main:{tec:100,pwr:26,shl:240,rng:300,spd:440,itv:700},type:"c",size:"M",cost:105,hp:20,str:-1,tec:2,wlk:2,tgh:2,tunable:{mwp:1},joint:{wp:0},comment:["","Season6アリーナコイン景品"]}
+{id:202207061,name:"エスエルAM2",main:{tec:100,pwr:26,shl:240,rng:300,spd:440,itv:700},type:"c",size:"M",cost:105,hp:20,str:-1,tec:2,wlk:2,tgh:2,tunable:{mwp:1},joint:{wp:0},comment:["爆風50％？　スタン時バーニング効果（3秒）","Season6アリーナコイン景品"]}
 {id:202412045,name:"エスエルAM3",main:{tec:100,pwr:24,shl:270,rng:330,spd:440,itv:700},type:"c",size:"M",cost:75,hp:20,str:-1,tec:3,wlk:1,tgh:2,tunable:{mwp:1},joint:{wp:0},comment:["中近距離：ブラストバズーカ（威力1.5倍　爆風属性100％）","遠距離：シュレッドショットガン（0.25倍？　実弾属性）","エスエルDX"]}
 
 
