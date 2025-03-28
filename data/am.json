@@ -394,7 +394,7 @@
 {id:4,name:"ガシマAM",type:"c",cost:115,hp:25,tec:2,fly:1,tgh:2,main:{pwr:11,shl:460,rng:350,spd:400,itv:600},tunable:{mwp:1},joint:{wp:0}}
 {id:5,name:"ガシマAM2",type:"c",cost:140,hp:25,tec:2,wlk:1,tgh:2,main:{pwr:20,shl:360,rng:330,spd:290,itv:900},tunable:{mwp:1},joint:{wp:0}}
 {id:6,name:"ガシマAM3",type:"c",size:"M",cost:105,hp:25,str:-1,tec:3,wlk:1,fly:1,tgh:1,main:{pwr:13,shl:1060,rng:330,spd:400,itv:1000},tunable:{mwp:1},joint:{wp:0},comment:"SHOTGUN"}
-{id:7,name:"ガシマAM4",type:"c",size:"M",cost:145,hp:25,tec:3,tgh:2,main:{pwr:32,shl:250,rng:350,spd:300,itv:1000},tunable:{mwp:1},joint:{wp:0},comment:"GRENADE"}
+{id:7,name:"ガシマAM4",type:"c",size:"M",cost:145,hp:25,tec:3,tgh:2,main:{pwr:32,shl:250,rng:350,spd:300,itv:1000},tunable:{mwp:1},joint:{wp:0},comment:["爆風100％　飛距離：ロックオン時2倍程度？　曲射","※無ロック時は速度チューンで飛距離が増減する","GRENADE"]}
 
 
 {id:202212084,name:"ガゥディアンAM（オフダ）",main:{pwr:10,shl:1050,rng:275,spd:440,itv:600},type:"ls",joint:{wp:2},cost:105,hp:20,str:-1,tec:2,wlk:2,fly:1,tgh:1,fixedParts:{wp:{name:"オフダシューター",main:{pwr:10,shl:1050,rng:275,spd:440,itv:600},tunable:{mwp:0},type:"ls",size:"M",slot:0}},comment:["オフダシューターcost+70複合","検索用にコンバージョンの数値を仮入力"]}
