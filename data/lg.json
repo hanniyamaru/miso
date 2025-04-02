@@ -551,7 +551,7 @@
 {id:21,name:"アクイーアLG",type:"a",cost:50,hp:60,tec:1,wlk:2,fly:2,tgh:1,joint:{bs:1},comment:["BS接続可能",""]}
 {id:202409041,name:"アグニザインLG",cost:50,hp:65,tec:2,wlk:3,fly:0,tgh:1}
 
-{id:202301122,name:"アストロトルーパーLG",type:"l",size:"L",cost:65,hp:55,tec:1,wlk:4,tgh:1,sub:{tec:100,pwr:0,shl:0,rng:100,spd:200,itv:1000},comment:["",""]}
+{id:202301122,name:"アストロトルーパーLG",type:"lc",size:"L",cost:65,hp:55,tec:1,wlk:4,tgh:1,sub:{tec:100,pwr:0,shl:0,rng:100,spd:300,itv:1000},comment:["",""]}
 {id:202501084,name:"アズヴェスターLG",sub:{tec:100,pwr:0,shl:60,rng:0,spd:200,itv:1000},cost:80,hp:75,str:-1,tec:0,wlk:2,fly:3,tgh:2,comment:["","BS接続可能"],joint:{bs:1},type:"a",size:"L"}
 
 {id:47,name:"アハトジーベンLG",cost:45,hp:70,tec:1,wlk:5,fly:-2,tgh:1}
