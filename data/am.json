@@ -702,7 +702,7 @@
 
 {id:202301122,name:"アストロトルーパーAM",size:"L",cost:65,hp:20,str:1,tec:1,wlk:2,tgh:1,comment:"シールド耐久値80"}
 {id:2023011221,name:"アストロトルーパーAM2",type:"l",size:"L",cost:155,hp:20,str:-1,tec:3,wlk:2,tgh:1,main:{tec:100,pwr:16,shl:600,rng:250,spd:300,itv:400},joint:{wp:0},tunable:{mwp:1},comment:["シールド耐久値80",""]}
-{id:202504023,name:"アストロトルーパーAM3",main:{tec:100,pwr:30,shl:240,rng:250,spd:440,itv:800},sub:{tec:100,pwr:14,shl:220,rng:250,spd:440,itv:1000},tunable:{mwp:1},type:"l",size:"L",cost:135,hp:20,str:-1,tec:3,wlk:1,tgh:2,comment:["AM3@cost+10複合","アストロトルーパーRO"]}
+{id:202504023,name:"アストロトルーパーAM3",main:{tec:100,pwr:30,shl:240,rng:250,spd:440,itv:800},sub:{tec:100,pwr:14,shl:220,rng:250,spd:440,itv:1000},tunable:{mwp:1},type:"l",size:"L",cost:135,hp:20,str:-1,tec:3,wlk:1,tgh:2,joint:{wp:0},comment:["AM3@cost+10複合","アストロトルーパーRO"]}
 
 {id:2025040231,name:"アストロトルーパーAM3（コンバージョン無し）",main:{tec:100,pwr:30,shl:240,rng:250,spd:440,itv:800},tunable:{mwp:1},type:"l",size:"L",cost:125,hp:20,str:-1,tec:3,wlk:1,tgh:2,comment:["アストロトルーパーRO"]}
 {id:202501084,name:"アズヴェスターAM",size:"L",cost:35,hp:20,str:0,tec:1,wlk:0,fly:2,tgh:2}
