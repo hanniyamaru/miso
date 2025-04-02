@@ -357,6 +357,7 @@
 
 {id:84,name:"アサルトオックスM2BS",type:"l",size:"M",cost:35,hp:20,str:2,tec:-1,wlk:1,fly:2,tgh:1}
 {id:202301122,name:"アストロトルーパーBS",type:"l",size:"M",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1}
+{id:202504023,name:"アストロトルーパーBS2",type:"l",size:"M",cost:35,hp:20,str:-1,tec:1,wlk:0,fly:3,tgh:2,comment:["RO"]}
 
 {id:40,name:"アドネBS",size:"M",cost:35,hp:20,tec:1,wlk:1,fly:3}
 
