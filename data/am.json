@@ -364,7 +364,7 @@
 
 {id:176,name:"ウィザメルAM",main:{tec:100,pwr:8,shl:400,rng:275,spd:440,itv:300},tunable:{mwp:1},cost:65,hp:20,str:-1,tec:2,fly:2,tgh:2,type:"a",size:"M"}
 {id:330,name:"ウィンドリンクスAM",cost:40,hp:25,tec:1,wlk:1,fly:1,tgh:2}
-{id:202311014,name:"ウィンドリンクスAM2",main:{tec:100,pwr:17,shl:280,rng:275,spd:280,itv:700},tunable:{mwp:1},size:"M",type:"a",cost:100,hp:20,str:-1,tec:3,fly:2,tgh:1,comment:["","FT"]}
+{id:202311014,name:"ウィンドリンクスAM2",main:{tec:100,pwr:17,shl:280,rng:275,spd:280,itv:700},tunable:{mwp:1},size:"M",type:"a",cost:100,hp:20,str:-1,tec:3,fly:2,tgh:1,comment:["自軍貫通　一部敵機貫通","FT"]}
 {id:20221103,name:"ヴェルズニールAM",size:"M",cost:35,hp:20,str:1,tec:1,fly:1,tgh:2}
 {id:140,name:"ヴォルテスAM",sub:{pwr:13,shl:200,rng:275,spd:350,itv:1000},fixedParts:{am:{name:"ヴォルテスAM@",slot:0,type:"a",size:"M"}},type:"a",size:"M",cost:95,hp:25,str:-1,tec:3,fly:2,tgh:1}
 {id:202411064,name:"ヴォルテスAM2",main:{tec:100,pwr:24,shl:190,rng:275,spd:300,itv:1100},tunable:{mwp:1},type:"a",size:"M",cost:115,hp:20,str:-1,tec:3,fly:2,tgh:1,comment:["AM2@省略","一部TGH減衰無効（0.08倍）（2024/11/20）","FC"]}
