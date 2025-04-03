@@ -850,6 +850,8 @@
 {id:202305176,name:"消防なっちんAM（コンバージョン無し）",size:"L",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,comment:[""]}
 {id:20240111,name:"シンゲンAM",size:"L",cost:35,hp:20,str:3,tec:0,wlk:1,fly:-1,tgh:2,comment:[""]}
 
+{id:202504026,name:"スウェルAM",type:"c",cost:65,hp:20,str:-1,tec:3,wlk:0,fly:2,tgh:1,sub:{tec:100,pwr:50,shl:60,rng:350,spd:350,itv:1000},joint:{wp:0},comment:[""]}
+{id:2025040261,name:"スウェルAM3",type:"c",cost:165,hp:20,str:-1,tec:3,wlk:0,fly:1,tgh:2,main:{tec:100,pwr:16,shl:400,rng:330,spd:290,itv:900},tunable:{mwp:1},joint:{wp:0},comment:["ANTIAIR MISSILE"]}
 {id:41,name:"スクイドルAM",size:"L",type:"s",cost:105,hp:20,str:2,tec:-1,wlk:2,fly:1,tgh:1,sub:{str:100,pwr:28,rng:70,spd:85,itv:500},tunable:{pwp:1},joint:{wp:0},comment:["ショック効果","ロボガラポン"]}
 
 {id:50,name:"スケアガントAM2",cost:40,hp:25,str:2,tec:1,wlk:2,fly:1,tgh:-1,comment:""}
