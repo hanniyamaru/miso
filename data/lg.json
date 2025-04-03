@@ -305,9 +305,10 @@
 {id:20240718,name:"ギャラクシーデカLG",cost:45,hp:25,str:-1,tec:1,wlk:4,tgh:2,size:"M",comment:["","夏祭りキューブ"]}
 {id:70,name:"クアドラLG",size:"M",cost:45,hp:25,wlk:4,tgh:2}
 {id:80,name:"クアドラLG2",cost:45,hp:25,tec:2,wlk:4,fly:-1,tgh:1,comment:"クアドラ・ロンド"}
+
+{id:202504024,name:"グランダグドライバーLG",sub:{tec:100,pwr:13,shl:240,rng:350,spd:300,itv:1000},type:"c",size:"M",cost:95,hp:25,str:-1,tec:2,wlk:4,fly:0,tgh:1,comment:["サブロック式",""]}
 {id:119,name:"クリスホーンLG",sub:{tec:100,pwr:11,shl:180,rng:220,spd:400,itv:1000},type:"l",size:"M",cost:75,hp:25,str:-1,tec:2,wlk:3,tgh:2,comment:["サブロック　打ち上げスタン（黄）"]}
 {id:17,name:"クリムローゼαLG",type:"a",cost:85,hp:50,str:1,tec:2,wlk:3,fly:3,tgh:1,builtin:{bs:1},comment:"BS内蔵"}
-
 {id:22,name:"クレストセイントLG",cost:45,hp:30,wlk:3,fly:1,tgh:2}
 
 {id:49,name:"ゲンブラLG",str:1,tec:2,wlk:3,fly:-1,tgh:1,cost:45,hp:25}
