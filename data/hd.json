@@ -328,6 +328,7 @@
 {id:296,name:"クシュルブHD2",type:"lacs",size:"M",cost:35,hp:20,str:2,tgh:3}
 {id:20241244,name:"クシュルブHD3",type:"lacs",size:"M",cost:35,hp:20,str:2,tec:-1,wlk:1,tgh:1,comment:["4th"]}
 
+{id:202504024,name:"グランダグドライバーHD",type:"c",cost:55,hp:20,str:-1,tec:2,wlk:2,fly:0,tgh:2,sub:{tec:100,pwr:30,shl:0,rng:150,spd:80,itv:1000},tunable:{pwp:1},comment:["武器チューン可否不明"]}
 {id:273,name:"クリスタスHD",type:"lacs",size:"M",cost:35,hp:20,str:-1,tec:1,wlk:2,fly:2,tgh:1}
 {id:202209092,name:"クリスタスHD2",type:"lacs",size:"M",cost:35,hp:20,tec:1,fly:2,tgh:2,comment:"クリスタス・レイ"}
 
