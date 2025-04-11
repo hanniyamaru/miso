@@ -340,7 +340,7 @@
 
 
 {id:20220414,name:"アルヴィーテAM",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1,comment:["Season6アリーナコイン景品"]}
-{id:166,name:"アントリオンAM4",cost:35,hp:20,str:1,tec:1,wlk:1,tgh:2,size:"M",comment:"アントリオンMoray"}
+{id:166,name:"アントリオンAM4",size:"M",type:"lc",cost:35,hp:20,str:1,tec:1,wlk:1,tgh:2,comment:"アントリオンMoray"}
 
 
 {id:20240208,name:"イクスクレアAM",size:"M",cost:35,hp:20,str:3,tec:-1,wlk:2,tgh:1,comment:["専用コンバージョン有り","イクスクレアガラポン"]}
