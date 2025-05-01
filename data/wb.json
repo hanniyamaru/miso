@@ -1,5 +1,5 @@
 {group:"追従格闘",prefixID:"FP",nextID:11}
-{id:1,name:"スパイクビットD",type:"ls",comment:["命中時相手は僅かな時間、格闘攻撃を無効化する状態になる","ミッションコイン景品5/50"]}
+{id:1,name:"スパイクビットD",type:"ls",comment:["※命中時相手は僅かな時間、格闘攻撃を無効化する状態になる","ミッションコイン景品5/50"]}
 {id:2,name:"3ウェイビットD",type:"ls"}
 {id:3,name:"ソードビット"}
 {id:4,name:"スレイヤービット",cost:0}
@@ -18,7 +18,7 @@
 {id:4,name:"レーザービットD",type:"as",cost:0}
 {id:5,name:"ブラスタービット"}
 {id:6,name:"ブラスタービットD",type:"as",cost:0}
-{id:7,name:"オートガンビットD",type:"lcs"}
+{id:7,name:"オートガンビットD",type:"lcs",comment:["STR1/威力13"]}
 {id:8,name:"ライフルビットD",type:"lcs",cost:0}
 {id:9,name:"マシンガンビットD",type:"lcs"}
 {id:10,name:"ベルゼスレッドビット",cost:0}
