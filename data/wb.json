@@ -5,7 +5,7 @@
 {id:1,name:"スパイクビットD",type:"ls",comment:["※命中時相手は僅かな時間、格闘攻撃を無効化する状態になる","ミッションコイン景品5/50"]}
 {id:2,name:"3ウェイビットD",type:"ls"}
 {id:3,name:"ソードビット"}
-{id:4,name:"スレイヤービット",cost:0}
+{id:4,name:"スレイヤービット",cost:0,comment:["STR1/TEC1or2：威力？","STR1/TEC40：威力？","STR40/TEC40：威力41"]}
 {id:5,name:"スレイヤービットD",type:"ls",cost:0}
 {id:6,name:"アクスビットD",type:"ls",comment:"ミッションコイン景品5/50"}
 {id:7,name:"ランスビットD",type:"ls"}
@@ -31,7 +31,7 @@
 {id:14,name:"フラクタパルスビット",type:"as",cost:0}
 
 
-{id:25,name:"ピアースガンビット",comment:"ミッションコイン景品5/50"}
+{id:25,name:"ピアースガンビット",comment:["STR1/TEC1or2：威力？","STR1/TEC40：威力？","STR40/TEC40：威力19","ミッションコイン景品5/50"]}
 {group:"設置射撃",prefixID:"SS",nextID:4}
 {id:1,name:"トーチカユニット",type:"lcs",cost:0,comment:"ミッションコイン景品5/50"}
 {id:2,name:"ファランクスユニット",cost:0}
