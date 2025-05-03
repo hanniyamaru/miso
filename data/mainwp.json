@@ -124,7 +124,7 @@
 {id:20240421,name:"エンジェルシューターR",main:{tec:100,pwr:15,shl:750,rng:250,spd:440,itv:200},tunable:{mwp:1},cost:100,type:"l",size:"S",comment:["実弾属性爆風100％　自軍貫通","シルフィーⅡ軽装キューブ（コラボイベント限定）",""]}
 
 {group:"ブレイカー系",prefixID:"BK",commonStat:{tunable:{mwp:1}},nextID:60}
-{id:11,name:"サーキットブレイカー",type:"cs",size:"SS",cost:45,main:{pwr:14,shl:200,rng:330,spd:480,itv:540}}
+{id:11,name:"サーキットブレイカー",type:"cs",size:"SS",cost:45,main:{pwr:14,shl:200,rng:330,spd:480,itv:540},comment:["爆風20％　6連射"]}
 {id:12,name:"アーマーブレイカー",type:"c",size:"M",cost:60,main:{pwr:38,shl:80,rng:330,spd:480,itv:1000},comment:["爆風20％"]}
 {id:13,name:"デバイスブレイカー",type:"c",size:"M",cost:90,main:{pwr:33,shl:150,rng:330,spd:480,itv:1000},comment:["爆風20％？","結晶コイン景品（13個）"]}
 {id:14,name:"コアブレイカー",type:"c",size:"M",cost:140,main:{pwr:39,shl:150,rng:350,spd:480,itv:1000},comment:["爆風20％"]}
@@ -166,10 +166,10 @@
 
 
 {group:"バズーカ系",prefixID:"BZ",commonStat:{tunable:{mwp:1}},nextID:32}
-{id:3,name:"マイクロバズーカ",type:"cs",size:"SS",cost:40,main:{pwr:13,shl:340,rng:330,spd:520,itv:400}}
-{id:4,name:"ミニバズーカ",size:"S",cost:60,main:{pwr:14,shl:420,rng:330,spd:480,itv:400},type:"cs"}
+{id:3,name:"マイクロバズーカ",type:"cs",size:"SS",cost:40,main:{pwr:13,shl:340,rng:330,spd:520,itv:400},comment:["爆風40％"]}
+{id:4,name:"ミニバズーカ",size:"S",cost:60,main:{pwr:14,shl:420,rng:330,spd:480,itv:400},type:"cs",comment:["爆風40％"]}
 {id:48,name:"ブロウバズーカ",main:{pwr:17,shl:340,rng:300,spd:440,itv:500},cost:100,size:"M",type:"c"}
-{id:1,name:"ハンドバズーカ",type:"cs",size:"M",cost:80,main:{pwr:20,shl:330,rng:330,spd:440,itv:500}}
+{id:1,name:"ハンドバズーカ",type:"cs",size:"M",cost:80,main:{pwr:20,shl:330,rng:330,spd:440,itv:500},comment:["爆風40％"]}
 {id:5,name:"バズーカ",type:"c",size:"L",cost:100,main:{pwr:26,shl:290,rng:330,spd:400,itv:600}}
 {id:7,name:"ダブルバズーカ",type:"c",size:"L",cost:100,main:{pwr:14,shl:320,rng:330,spd:400,itv:600}}
 {id:8,name:"ミドルバズーカ",type:"c",size:"L",cost:120,main:{pwr:32,shl:250,rng:330,spd:400,itv:700}}
