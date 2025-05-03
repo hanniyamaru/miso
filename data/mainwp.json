@@ -201,8 +201,8 @@
 
 
 {id:11020,name:"パンプキンロッド",type:"c",size:"S",cost:120,main:{pwr:23,shl:360,rng:330,spd:360,itv:500},comment:["爆風70％　集弾異常に耐性がある可能性","P・モーナ初期装備（SHOP：40Rt）"]}
-{id:11222,name:"Xmasスノーバズーカ",size:"L",cost:50,main:{pwr:15,shl:300,rng:250,spd:400,itv:500},comment:["実弾属性爆風","爆風30％？"]}
-{id:2022202,name:"マナキャノン",type:"c",size:"M",cost:100,main:{pwr:25,shl:360,rng:330,spd:400,itv:500},comment:["チャージ","NPC：コレッティ"]}
+{id:11222,name:"Xmasスノーバズーカ",size:"L",cost:50,main:{pwr:15,shl:300,rng:250,spd:400,itv:500},comment:["実弾属性爆風30％？"]}
+{id:2022202,name:"マナキャノン",type:"c",size:"M",cost:100,main:{pwr:25,shl:360,rng:330,spd:400,itv:500},comment:["チャージ　爆風70％？","NPC：コレッティ"]}
 {id:202204195,name:"DRIVEソリッドバズーカ",size:"L",cost:120,type:"l",main:{tec:100,pwr:24,shl:360,rng:225,spd:320,itv:500},tunable:{mwp:1},comment:["レッドスクィラDRIVE付属"]}
 
 {id:202308242,name:"エレキバズーカ",type:"c",size:"L",cost:150,main:{tec:100,pwr:31,shl:250,rng:330,spd:440,itv:800},comment:["パーツクリエイト",""]}
@@ -383,7 +383,7 @@
 {id:202306143,name:"パラドックスカノン",main:{tec:100,pwr:14,shl:750,rng:275,spd:440,itv:160},size:"L",type:"a",cost:150,comment:"コラボイベントオーダー・混沌ドロップ"}
 {id:20221109,name:"ライトニングバスターR",main:{tec:100,pwr:21,shl:260,rng:275,spd:400,itv:700},tunable:{mwp:1},cost:80,type:"a",size:"M",comment:["ビーム爆風70％","ミッション周回報酬「茜空を越え、遥か彼方の星へ」（ヴェルズスウィーパー 3個）ミッションコイン景品（150個）"]}
 {id:20230804,name:"アウロラキャノンR",main:{tec:100,pwr:18,shl:400,rng:275,spd:440,itv:400},type:"a",size:"M",cost:80,comment:["ビーム属性爆風50％","アニマ・ゼータディスクβ（NPCステラ）"]}
-{id:202308041,name:"オルクトヴァッフェR",main:{tec:100,pwr:30,shl:210,rng:330,spd:500,itv:840},type:"c",size:"M",cost:130,comment:["","アニマ・ゼータディスクα（NPCナイア）"]}
+{id:202308041,name:"オルクトヴァッフェR",main:{tec:100,pwr:30,shl:210,rng:330,spd:500,itv:840},type:"c",size:"M",cost:130,comment:["爆風70％？","アニマ・ゼータディスクα（NPCナイア）"]}
 {id:20231211,name:"リーフロッド",main:{tec:100,pwr:12,shl:370,rng:275,spd:400,itv:500},tunable:{mwp:1},cost:70,type:"as",size:"S",comment:["ルボック初期装備・雪まつりオーダー景品",""]}
 {id:20231231,name:"バトルドア",main:{tec:100,pwr:30,shl:180,rng:225,spd:400,itv:1000},tunable:{mwp:1},cost:100,size:"S",comment:["シールド貫通　実弾属性爆風100％","NYキューブ2024",""]}
 {id:20241029,name:"リンティエン",main:{tec:100,pwr:10,shl:520,rng:275,spd:280,itv:1000},tunable:{mwp:1},cost:160,type:"a",size:"M",comment:["飛行ゲージ回収効果","パーツクリエイト（ヴァンピレ・カーニバル素材）",""]}
