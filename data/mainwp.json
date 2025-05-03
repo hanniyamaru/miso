@@ -188,9 +188,9 @@
 {id:131011,name:"アームストロング",type:"c",size:"M",cost:220,main:{pwr:12,shl:1200,rng:330,spd:400,itv:140},comment:["チャージ　自軍貫通","ナイトギアディスク"]}
 {id:20241024,name:"ガジェットパンプキン",size:"M",cost:165,type:"c",main:{tec:100,pwr:15,shl:960,rng:330,spd:440,itv:200},tunable:{mwp:1},comment:["チャージ　自軍貫通　弾停止後近くの敵を攻撃","弾速600程度を推奨","パーツクリエイト（ヴァンピレ・カーニバル素材）"]}
 
-{id:51,name:"ショックバズーカ",main:{pwr:20,shl:240,rng:250,spd:325,itv:800},tunable:{mwp:1},type:"s",size:"M",cost:100,comment:"チャージ　実弾属性"}
-{id:511,name:"チャージディレイバズーカ",main:{pwr:16,shl:240,rng:250,spd:325,itv:800},tunable:{mwp:1},type:"s",size:"M",cost:100,comment:"実弾属性"}
-{id:82,name:"BTバズーカ",main:{pwr:20,shl:200,rng:275,spd:360,itv:500},tunable:{mwp:1},type:"cs",size:"M",cost:100}
+{id:51,name:"ショックバズーカ",main:{pwr:20,shl:240,rng:250,spd:325,itv:800},tunable:{mwp:1},type:"s",size:"M",cost:100,comment:["チャージ　ショック効果（2秒）　爆風40％"]}
+{id:511,name:"チャージディレイバズーカ",main:{pwr:16,shl:240,rng:250,spd:325,itv:800},tunable:{mwp:1},type:"s",size:"M",cost:100,comment:["チャージディレイ効果（3秒）　爆風40％"]}
+{id:82,name:"BTバズーカ",main:{pwr:20,shl:200,rng:275,spd:360,itv:500},tunable:{mwp:1},type:"cs",size:"M",cost:100,comment:["ブースタートラブル効果"]}
 
 {id:63,name:"プロジオバズーカ",main:{pwr:28,shl:290,rng:330,spd:360,itv:600},type:"c",size:"L",cost:160}
 {id:2022114,name:"ギガンテックキャノン",type:"c",size:"LL",cost:200,main:{pwr:50,shl:200,rng:350,spd:320,itv:1400}}
