@@ -170,20 +170,20 @@
 {group:"バズーカ系",prefixID:"BZ",commonStat:{tunable:{mwp:1}},nextID:32}
 {id:3,name:"マイクロバズーカ",type:"cs",size:"SS",cost:40,main:{pwr:13,shl:340,rng:330,spd:520,itv:400},comment:["爆風40％"]}
 {id:4,name:"ミニバズーカ",size:"S",cost:60,main:{pwr:14,shl:420,rng:330,spd:480,itv:400},type:"cs",comment:["爆風40％"]}
-{id:48,name:"ブロウバズーカ",main:{pwr:17,shl:340,rng:300,spd:440,itv:500},cost:100,size:"M",type:"c"}
+{id:48,name:"ブロウバズーカ",main:{pwr:17,shl:340,rng:300,spd:440,itv:500},cost:100,size:"M",type:"c",comment:["爆風40％"]}
 {id:1,name:"ハンドバズーカ",type:"cs",size:"M",cost:80,main:{pwr:20,shl:330,rng:330,spd:440,itv:500},comment:["爆風40％"]}
-{id:5,name:"バズーカ",type:"c",size:"L",cost:100,main:{pwr:26,shl:290,rng:330,spd:400,itv:600}}
-{id:7,name:"ダブルバズーカ",type:"c",size:"L",cost:100,main:{pwr:14,shl:320,rng:330,spd:400,itv:600}}
+{id:5,name:"バズーカ",type:"c",size:"L",cost:100,main:{pwr:26,shl:290,rng:330,spd:400,itv:600},comment:["爆風40％"]}
+{id:7,name:"ダブルバズーカ",type:"c",size:"L",cost:100,main:{pwr:14,shl:320,rng:330,spd:400,itv:600},comment:["爆風40％"]}
 {id:8,name:"ミドルバズーカ",type:"c",size:"L",cost:120,main:{pwr:32,shl:250,rng:330,spd:400,itv:700}}
 {id:10,name:"ラージバズーカ",type:"c",size:"LL",cost:160,main:{pwr:43,shl:220,rng:330,spd:360,itv:900}}
 {id:11,name:"タイタンバズーカ",type:"c",size:"LL",cost:200,main:{pwr:52,shl:200,rng:300,spd:360,itv:1000}}
-{id:70,name:"ミニブラストバズーカ",main:{pwr:21,shl:280,rng:330,spd:400,itv:640},type:"c",size:"S",cost:60}
+{id:70,name:"ミニブラストバズーカ",main:{pwr:21,shl:280,rng:330,spd:400,itv:640},type:"c",size:"S",cost:60,comment:["爆風90％"]}
 {id:6,name:"ブラストバズーカ",type:"c",size:"M",cost:105,main:{pwr:29,shl:260,rng:330,spd:360,itv:700},comment:["爆風90％"]}
 {id:202304052,name:"LLバルクブラスト",type:"c",size:"LL",cost:160,main:{pwr:38,shl:270,rng:330,spd:360,itv:900},comment:["爆風90％","Season9アリーナコイン景品"]}
 
-{id:801,name:"ミニマイトバズーカ",main:{pwr:19,shl:340,rng:330,spd:400,itv:500},type:"c",size:"M",cost:90,comment:"自軍貫通"}
-{id:100,name:"バアルバズーカR",type:"c",size:"M",cost:120,main:{pwr:24,shl:200,rng:330,spd:400,itv:500},comment:["自軍貫通","欲望コイン景品（40個）"]}
-{id:802,name:"マイトバズーカ",main:{pwr:24,shl:340,rng:330,spd:400,itv:500},type:"c",size:"M",cost:160,comment:["自軍貫通","欲望コイン景品（20個）"]}
+{id:801,name:"ミニマイトバズーカ",main:{pwr:19,shl:340,rng:330,spd:400,itv:500},type:"c",size:"M",cost:90,comment:["自軍貫通　爆風70％"]}
+{id:100,name:"バアルバズーカR",type:"c",size:"M",cost:120,main:{pwr:24,shl:200,rng:330,spd:400,itv:500},comment:["自軍貫通　爆風70％","欲望コイン景品（40個）"]}
+{id:802,name:"マイトバズーカ",main:{pwr:24,shl:340,rng:330,spd:400,itv:500},type:"c",size:"M",cost:160,comment:["自軍貫通　爆風70％","欲望コイン景品（20個）"]}
 
 {id:13,name:"ガトリングバズーカ",type:"c",size:"LL",cost:200,main:{pwr:12,shl:1400,rng:350,spd:480,itv:200},comment:["チャージ",""]}
 {id:45,name:"ブラストガトリング",type:"c",size:"L",cost:200,main:{pwr:12,shl:1300,rng:350,spd:400,itv:200},comment:["チャージ",""]}
