@@ -14,6 +14,8 @@
 
 {id:251,name:"エアリーデHD",cost:35,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1}
 {id:20,name:"エルメ・SHD",type:"as",size:"S",cost:100,hp:20,str:-1,tec:2,wlk:2,fly:1,tgh:1,main:{pwr:7,shl:720,rng:275,spd:150,itv:200},tunable:{mwp:1},comment:["誘導弾　ビーム属性","Season8アリーナコイン景品"]}
+{id:202505085,name:"オボロマルHD2",type:"a",size:"SS",cost:105,hp:20,str:-1,tec:3,wlk:0,fly:2,tgh:1,main:{tec:100,pwr:31,shl:140,rng:275,spd:220,itv:1300},tunable:{mwp:1},comment:["重力弾","縛"]}
+
 {id:202208071,name:"オレガーHD",size:"S",cost:40,hp:25,str:2,tec:-1,wlk:2,tgh:2,comment:"アルカンタスドロップ"}
 {id:20220807,name:"オレガーHD2",size:"S",cost:35,hp:20,tec:2,wlk:2,fly:-1,tgh:2,comment:"アルカンタスドロップ"}
 
