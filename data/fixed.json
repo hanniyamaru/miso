@@ -97,7 +97,9 @@
 {id:202503052,name:"ミアリーBD2@",main:{tec:100,pwr:[13],shl:[900],rng:[350],spd:[570],itv:[500]},sub:{tec:100,pwr:[20],shl:[30],rng:[0],spd:[250],itv:[1000]},cost:120,tunable:{mwp:1},comment:[""],auraStat:{main:{tec:100,pwr:16,rng:350,spd:610,itv:500}}}
 {id:202503053,name:"パースイットフレーム",main:{tec:100,pwr:[17],shl:[320],rng:[350],spd:[400],itv:[700]},cost:30,tunable:{mwp:1},comment:[""]}
 
-
+{id:202505081,name:"ロスブラオBD2",sub:{str:100,pwr:32,shl:30,rng:150,spd:350,itv:1000},type:"l",cost:0,slot:0,comment:[""]}
+{id:202505082,name:"ロスブラオLG2",type:"l",cost:0,slot:0,comment:[""]}
+{id:202505083,name:"ロスブラオHD2",type:"l",cost:0,slot:3,comment:[""]}
 
 
 
