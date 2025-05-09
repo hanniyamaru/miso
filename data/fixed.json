@@ -14,7 +14,7 @@
 {id:6,name:"バイスカノンHD",main:{tec:100,pwr:22,shl:450,rng:350,spd:480,itv:500},tunable:{mwp:1},auraStat:{main:{tec:100,pwr:34,shl:330,itv:700}},cost:140,hp:25,tec:3,tgh:2,comment:"リンクショット対応"}
 {id:7,name:"バイスカノンHD@",main:{tec:100,pwr:7,shl:960,rng:350,spd:350,itv:800},cost:60,tunable:{mwp:1},auraStat:{main:{tec:100,pwr:9}},comment:"リンクショット対応",joint:{hdac:0,fcac:0}}
 {id:8,name:"バイスカノンHD2",main:{tec:100,pwr:22,shl:780,rng:350,spd:480,itv:300},tunable:{mwp:1},auraStat:{main:{tec:100,pwr:26,shl:780,itv:900}},cost:200,hp:25,tec:3,wlk:1,tgh:1,comment:"β"}
-{id:9,name:"バイスカノンHD3",main:{tec:100,pwr:39,shl:240,rng:350,spd:300,itv:1000},tunable:{mwp:1},auraStat:{main:{tec:100,pwr:42}},cost:200,hp:25,tec:4,wlk:0,tgh:1,comment:[WB使用後チャージ式+一部TGH減衰無視へ変化"γ"]}
+{id:9,name:"バイスカノンHD3",main:{tec:100,pwr:39,shl:240,rng:350,spd:300,itv:1000},tunable:{mwp:1},auraStat:{main:{tec:100,pwr:42}},cost:200,hp:25,tec:4,wlk:0,tgh:1,comment:["WB使用後チャージ式+一部TGH減衰無視へ変化","γ"]}
 
 
 
