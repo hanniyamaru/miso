@@ -9,7 +9,7 @@
 {id:3,name:"ソードビット",comment:["STR1/TEC1or2：威力？","STR1/TEC40：威力？","STR40/TEC40：威力46"]}
 {id:4,name:"スレイヤービット",comment:["STR1/TEC1or2：威力？","STR1/TEC40：威力？","STR40/TEC40：威力41"]}
 {id:5,name:"スレイヤービットD",type:"ls",comment:["STR1/TEC1or2：威力？","STR1/TEC40：威力？","STR40/TEC40：威力41"]}
-{id:6,name:"アクスビットD",type:"ls",comment:"ミッションコイン景品5/50"}
+{id:6,name:"アクスビットD",type:"ls",comment:["STR1/TEC1or2：威力？","STR1/TEC40：威力？","STR40/TEC40：威力32*2","ミッションコイン景品5/50"]}
 {id:7,name:"ランスビットD",type:"ls"}
 {id:8,name:"ソードアクスビット",type:"ls"}
 {id:9,name:"ペペンビット",cost:0}
@@ -21,7 +21,7 @@
 {id:2,name:"ビームビットD",type:"as",comment:["STR1/TEC1or2：威力？","STR1/TEC40：威力？","STR40/TEC40：威力20"]}
 {id:3,name:"レーザービット"}
 {id:4,name:"レーザービットD",type:"as",cost:0}
-{id:5,name:"ブラスタービット",comment:["STR1/TEC1or2：威力？","STR1/TEC40：威力？","STR40/TEC40：威力6"]}
+{id:5,name:"ブラスタービット",comment:["STR1/TEC1or2：威力？","STR1/TEC40：威力？","STR40/TEC40：威力6*5"]}
 {id:6,name:"ブラスタービットD",type:"as",cost:0}
 {id:7,name:"オートガンビットD",type:"lcs",comment:["STR1/TEC1or2：威力15","STR1/TEC40：威力12","STR40/TEC40：威力20"]}
 {id:8,name:"ライフルビットD",type:"lcs",cost:0,comment:["STR1/TEC1or2：威力？","STR1/TEC40：威力？","STR40/TEC40：威力32以上？　爆風6"]}
