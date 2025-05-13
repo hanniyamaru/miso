@@ -719,7 +719,7 @@
 {id:202412042,name:"アマノタツAM（R）",size:"L",cost:35,hp:20,tec:2,fly:2,tgh:1,comment:["変形中は手持ち武器使用不可","専用AURA機構"]}
 
 
-{id:202402091,name:"アルゴキャップAM",main:{tec:100,pwr:13,shl:330,rng:330,spd:320,itv:600},tunable:{mwp:1},joint:{wp:2},cost:85,hp:20,str:-1,tec:3,wlk:1,tgh:2,comment:["HOMING GUN","カスタムリンクショット対応"],fixedParts:{wp:{name:"アルゴキャップAM@",main:{tec:100,pwr:16,shl:240,rng:350,spd:265,itv:800},tunable:{mwp:0},cost:40,slot:0,comment:["BLAST MISSILE","実弾属性爆風100％","リンクショット対応",""]}},type:"c",size:"L"}
+{id:202402091,name:"アルゴキャップAM",main:{tec:100,pwr:13,shl:330,rng:330,spd:320,itv:600},tunable:{mwp:1},joint:{wp:2},cost:85,hp:20,str:-1,tec:3,wlk:1,tgh:2,comment:["HOMING GUN","カスタムリンクショット対応"],fixedParts:{wp:{name:"アルゴキャップAM@",main:{tec:100,pwr:16,shl:240,rng:350,spd:265,itv:800},tunable:{mwp:0},cost:40,slot:0,comment:["BLAST MISSILE","実弾属性爆風100％","カスタムリンクショット対応",""]}},type:"c",size:"L"}
 {id:2024020912,name:"アルゴキャップAM（コンバージョン無し）",main:{tec:100,pwr:13,shl:330,rng:330,spd:320,itv:600},tunable:{mwp:1},cost:85,hp:20,str:-1,tec:3,wlk:1,tgh:2,comment:["HOMING GUN","カスタムリンクショット対応"],type:"c",size:"L"}
 {id:52,name:"アルバトレオスAM",cost:70,hp:25,tec:2,wlk:1,tgh:2,sub:{tec:100,pwr:26,rng:100,spd:250,itv:500},tunable:{pwp:1},type:"lc",joint:{wp:0}}
 {id:202405091,name:"アルバトレオスAM2",cost:65,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,sub:{tec:100,pwr:28,rng:100,spd:250,itv:500},tunable:{pwp:1},type:"c",joint:{wp:0},comment:["別武器からのコンボ不可（2024/11/20）","V-03"]}
