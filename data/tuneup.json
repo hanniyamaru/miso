@@ -125,7 +125,7 @@
 {id:6,name:"グレートスタミナ",cost:30,tgh:3,material:"3*1|21*16|33*5|29*11|31*6|15*8",comment:"60%"}
 {id:7,name:"グレートスタミナα",cost:20,wlk:-1,fly:-1,tgh:3,material:"3*1|21*16|33*5|29*11|31*6|15*8",comment:"60%"}
 {id:9,name:"グレートスタミナβ",cost:10,str:-1,tec:-1,wlk:-1,fly:-1,tgh:3,material:"3*1|21*16|33*5|29*11|31*6|15*8",comment:"60%"}
-{group:"ライフ系",prefixID:"L",commonStat:{target:"cpt"}}
+{group:"ライフ系",prefixID:"L",commonStat:{target:"life"}}
 {id:1,name:"ライフ",cost:10,hp:15,material:"1*1|22*14",comment:"60%"}
 {id:2,name:"ハイライフ",cost:20,hp:25,material:"2*1|22*18|34*5",comment:"60%"}
 {id:3,name:"グレートライフ",cost:35,hp:40,material:"3*1|22*17|16*4|34*8",comment:"60%"}
