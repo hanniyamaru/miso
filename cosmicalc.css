@@ -370,8 +370,8 @@ input{
 	height:16px;
 	border:1px outset #222;
 }
-.tuneexcpt2{
-	background-color:#cd00c3;
+.tunelife{
+	background-color:#fa7acb;
 	width:16px;
 	height:16px;
 	border:1px outset #222;
@@ -381,7 +381,7 @@ input{
 .mwp{color:#ee2727;}
 .pwp{color:#0080cb;}
 .excpt{color:#CDB500;}
-.excpt2{color:#cd00c3;}
+.life{color:#00ce11;}
 
 /* .group */
 .group{
