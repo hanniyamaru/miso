@@ -23,15 +23,16 @@
 {id:1215,name:"イルミネートXmasBSβ",size:"M",type:"lacs",cost:35,hp:20,str:1,wlk:1,fly:3,comment:["Xmasキューブ","ゴールド"]}
 {id:1216,name:"ウィッシュプレートBS",sub:{itv:1000},size:"M",type:"lacs",cost:35,hp:20,wlk:1,fly:3,tgh:1,comment:["NYキューブ2022"]}
 {id:1217,name:"ラフィールレイピアBS",size:"M",type:"lacs",cost:35,hp:20,str:1,wlk:1,fly:3,comment:["NPCラフィール"]}
+{id:202505201,name:"パイレーツエンブレムBS",type:"lacs",cost:35,hp:20,wlk:1,fly:3,tgh:1,comment:["NPCマニゾウ"]}
 
 
 {id:1211,name:"スターエッジBS",size:"M",type:"lacs",cost:35,hp:20,wlk:2,fly:2,tgh:1,comment:["各種コイン景品"]}
 {id:1212,name:"ダブルスターエッジBS",size:"M",type:"lacs",cost:35,hp:20,wlk:1,fly:3,tgh:1,comment:["各種コイン景品"]}
 {id:10015,name:"エンシェントBS",cost:35,hp:20,wlk:1,fly:3,tgh:1,comment:"プラチナチケット"}
 {id:10053,name:"ケルビムウィングBS",cost:35,hp:20,wlk:1,fly:3,tgh:1,comment:"プラチナチケット"}
-{id:10059,name:"トリニティBS",cost:35,hp:20,tec:1,fly:3,tgh:1,comment:"プラチナチケット"}
-{id:10072,name:"セイントギアウィングBS",cost:35,hp:20,wlk:1,fly:3,tgh:1,comment:"プラチナチケット"}
-{id:10097,name:"ヴァルキリーシールドBS",cost:35,hp:20,wlk:2,fly:3,comment:"プラチナチケット"}
+{id:10059,name:"トリニティBS",cost:35,hp:20,tec:1,fly:3,tgh:1,comment:["α　β","プラチナチケット"]}
+{id:10072,name:"セイントギアウィングBS",cost:35,hp:20,wlk:1,fly:3,tgh:1,comment:["②イービルギアウィング","プラチナチケット"]}
+{id:10097,name:"ヴァルキリーシールドBS",cost:35,hp:20,wlk:2,fly:3,comment:["α（青）　β（黒）","プラチナチケット"]}
 {id:10172,name:"デュナミスウィングBS",cost:35,hp:20,str:2,fly:3,comment:"プラチナチケット"}
 {id:10173,name:"オネストウィングBSα",cost:35,hp:20,tec:1,fly:3,tgh:1,comment:"プラチナチケット"}
 {id:10174,name:"オネストウィングBSβ",cost:35,hp:20,str:1,fly:3,tgh:1,comment:"プラチナチケット"}
