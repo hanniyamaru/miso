@@ -24,7 +24,7 @@
 {id:2,name:"セラフクリムローゼLG2",cost:70,hp:40,str:1,tec:1,wlk:2,fly:4,tgh:1}
 {id:76,name:"コロナLG",joint:{bs:2},fixedParts:{bs:[{name:"コロナLG@",size:"S",type:"l",builtin:{bs:1},slot:3},{name:"コロナLG@",type:"l",size:"S",slot:3,builtin:{bs:1}}]},type:"l",size:"S",cost:45,hp:25,str:1,wlk:3,tgh:2}
 {id:202308021,name:"コロナLG2",joint:{bs:2},fixedParts:{bs:[{name:"コロナLG2@",size:"S",type:"l",builtin:{bs:1},slot:3},{name:"コロナLG2@",type:"l",size:"S",slot:3,builtin:{bs:1}}]},type:"l",size:"S",cost:45,hp:25,str:2,wlk:2,tgh:2}
-{id:202505211,name:"ハンドレッドエッジLG",sub:{str:100,pwr:33,shl:0,rng:77,spd:94,itv:1000},cost:170,hp:60,str:2,tec:-1,wlk:3,tgh:2,comment:["シールド耐久値不明"],joint:{wp:1},fixedParts:{wp:{name:"レヴォルトレガース",cost:10,slot:0}},auraStat:{sub:{pwr:30,rng:100,spd:150}},comment:["WLK依存サブ"]}
+{id:202505211,name:"ハンドレッドエッジLG",sub:{str:100,pwr:33,shl:0,rng:77,spd:94,itv:1000},cost:170,hp:60,str:2,tec:-1,wlk:3,tgh:2,comment:["シールド耐久値不明"],joint:{wp:1},fixedParts:{wp:{name:"レヴォルトレガース",cost:10,slot:0,comment:["シールド耐久値不明"]}},auraStat:{sub:{pwr:30,rng:100,spd:150}},comment:["WLK依存サブ","変形時シールド再生"]}
 
 
 
