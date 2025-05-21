@@ -639,7 +639,7 @@
 {id:202303081,name:"ガジェットミサイル",sub:{tec:100,pwr:16,shl:60,rng:250,spd:320,itv:1000},tunable:{pwp:1},type:"l",size:"S",cost:50,slot:0,comment:["パティロップAM2専用コンバージョンパーツ",""]}
 
 {group:"ハンドレッドエッジコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
-{id:20250521,name:"レオシュトラール",main:{str:100,pwr:33,shl:5,rng:225,spd:500,itv:500},tunable:{mwp:1},type:"l",size:"L",cost:20,comment:["ハンドレッドエッジ初期装備","ハンドレッドエッジ専用コンバージョンパーツ"]}
+{id:20250521,name:"レオシュトラール",main:{str:100,pwr:33,shl:5,rng:225,spd:500,itv:500},tunable:{mwp:1},type:"l",size:"L",cost:20,comment:["タフネスブレイカー効果（最大チャージ時）","ハンドレッドエッジ初期装備","ハンドレッドエッジ専用コンバージョンパーツ"]}
 
 {group:"ハンナ・フリッツ コンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:2024060512,name:"アイゼンファウスト",main:{pwr:0,shl:20,rng:0,spd:10,itv:1000,tec:100},type:"l",size:"S",cost:30,comment:["ハンナ・フリッツ専用コンバージョンパーツ","BI"],tunable:{mwp:1}}
