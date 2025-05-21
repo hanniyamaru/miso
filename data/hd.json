@@ -863,6 +863,7 @@
 
 {id:790,name:"ハクメンスクナHD",cost:40,hp:25,str:2,wlk:1,tgh:2,comment:["","因果コイン景品（32個）"]}
 {id:20221025,name:"ハザードメガトンHD",size:"L",cost:30,hp:15,str:2,tec:1,wlk:-1,tgh:2,comment:["イベント宙域","シュタインズキューブ"]}
+{id:20250521,name:"ハンドレッドエッジHD0",cost:35,hp:20,str:3,tec:-1,wlk:2,fly:0,tgh:1,comment:["",""]}
 
 {id:20240808,name:"ビートボルテリアスHD",main:{str:100,pwr:19,shl:330,rng:250,spd:570,itv:600},cost:85,hp:20,str:3,tec:-1,wlk:2,tgh:1,type:"l",size:"L",tunable:{mwp:1},comment:["貫通弾"]}
 {id:202408081,name:"ビートボルテリアスHD2",sub:{str:100,pwr:30,shl:0,rng:100,spd:250,itv:1000},cost:85,hp:20,str:3,tec:-1,wlk:1,tgh:2,type:"l",size:"L",tunable:{pwp:1},comment:[""]}
