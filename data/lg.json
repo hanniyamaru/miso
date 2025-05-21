@@ -735,6 +735,7 @@
 
 {id:6,name:"バルテオンLG",cost:50,hp:80,str:-1,tec:1,wlk:2,fly:2,tgh:2}
 {id:20221210,name:"バルテオンLG2",size:"L",type:"a",sub:{tec:100,pwr:20,shl:240,rng:275,spd:280,itv:1000},cost:150,hp:80,str:-1,tec:3,wlk:2,fly:1,tgh:2,comment:"バルテオンBV"}
+{id:20250521,name:"ハンドレッドエッジLG0",cost:50,hp:60,str:1,tec:-1,wlk:3,fly:1,tgh:2,joint:{wp:1},comment:["専用コンバージョンのみ装着可能",""]}
 
 {id:20240808,name:"ビートボルテリアスLG",cost:45,hp:45,str:2,wlk:2,tgh:2,type:"l",size:"L",comment:[""]}
 {id:57,name:"ビクトールLG",cost:45,hp:25,str:-1,tec:3,wlk:3,tgh:1}
