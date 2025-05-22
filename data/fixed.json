@@ -15,8 +15,8 @@
 {id:7,name:"バイスカノンHD@",main:{tec:100,pwr:7,shl:960,rng:350,spd:350,itv:800},cost:60,tunable:{mwp:1},auraStat:{main:{tec:100,pwr:9}},comment:"リンクショット対応",joint:{hdac:0,fcac:0}}
 {id:8,name:"バイスカノンHD2",main:{tec:100,pwr:22,shl:780,rng:350,spd:480,itv:300},tunable:{mwp:1},auraStat:{main:{tec:100,pwr:26,shl:780,itv:900}},cost:200,hp:25,tec:3,wlk:1,tgh:1,comment:"β"}
 {id:9,name:"バイスカノンHD3",main:{tec:100,pwr:39,shl:240,rng:350,spd:300,itv:1000},tunable:{mwp:1},auraStat:{main:{tec:100,pwr:42}},cost:200,hp:25,tec:4,wlk:0,tgh:1,comment:["WB使用後チャージ式+一部TGH減衰無視へ変化","γ"]}
-{id:202505211,name:"ハンドレッドエッジHD",cost:40,hp:25,str:2,tec:-1,wlk:2,tgh:2}
-{id:202505212,name:"ディガバレットHD",cost:40,hp:25,str:-1,tec:2,wlk:2,fly:1,tgh:1}
+{id:202505211,name:"ハンドレッドエッジHD",cost:40,hp:25,str:2,tec:-1,wlk:2,tgh:2,type:"l"}
+{id:202505212,name:"ディガバレットHD",cost:40,hp:25,str:-1,tec:2,wlk:2,fly:1,tgh:1,type:"c"}
 
 
 {group:"LG",prefixID:"L",nextID:3}
@@ -24,8 +24,8 @@
 {id:2,name:"セラフクリムローゼLG2",cost:70,hp:40,str:1,tec:1,wlk:2,fly:4,tgh:1}
 {id:76,name:"コロナLG",joint:{bs:2},fixedParts:{bs:[{name:"コロナLG@",size:"S",type:"l",builtin:{bs:1},slot:3},{name:"コロナLG@",type:"l",size:"S",slot:3,builtin:{bs:1}}]},type:"l",size:"S",cost:45,hp:25,str:1,wlk:3,tgh:2}
 {id:202308021,name:"コロナLG2",joint:{bs:2},fixedParts:{bs:[{name:"コロナLG2@",size:"S",type:"l",builtin:{bs:1},slot:3},{name:"コロナLG2@",type:"l",size:"S",slot:3,builtin:{bs:1}}]},type:"l",size:"S",cost:45,hp:25,str:2,wlk:2,tgh:2}
-{id:202505211,name:"ハンドレッドエッジLG",sub:{str:100,pwr:33,shl:0,rng:77,spd:94,itv:1000},cost:170,hp:60,str:2,tec:-1,wlk:3,tgh:2,comment:["シールド耐久値不明"],joint:{wp:1},fixedParts:{wp:{name:"レヴォルトレガース",cost:10,slot:0,comment:["シールド耐久値不明"]}},auraStat:{sub:{pwr:30,rng:100,spd:150}},tunable:{pwp:1},comment:["WLK依存サブ","変形時シールド再生"]}
-{id:202505212,name:"ディガバレットLG",cost:50,hp:60,str:-1,tec:2,wlk:3,tgh:2,joint:{wp:1},comment:[""],fixedParts:{wp:{name:"ディガミサイル",main:{tec:100,pwr:8,shl:450,rng:350,spd:320,itv:200},cost:50,tunable:{mwp:1},comment:[""]}},comment:[""]}
+{id:202505211,name:"ハンドレッドエッジLG",sub:{str:100,pwr:33,shl:0,rng:77,spd:94,itv:1000},type:"l",cost:170,hp:60,str:2,tec:-1,wlk:3,tgh:2,comment:["シールド耐久値不明"],joint:{wp:1},fixedParts:{wp:{name:"レヴォルトレガース",cost:10,slot:0,comment:["シールド耐久値不明"]}},auraStat:{sub:{pwr:30,rng:100,spd:150}},tunable:{pwp:1},comment:["WLK依存サブ","変形時シールド再生"]}
+{id:202505212,name:"ディガバレットLG",cost:50,hp:60,str:-1,tec:2,wlk:3,tgh:2,joint:{wp:1},type:"c",comment:[""],fixedParts:{wp:{name:"ディガミサイル",main:{tec:100,pwr:8,shl:450,rng:350,spd:320,itv:200},cost:50,tunable:{mwp:1},comment:[""]}},comment:[""]}
 
 
 {group:"BS",prefixID:"B",nextID:4}
@@ -49,9 +49,9 @@
 {id:11,name:"ウィンベルAM3",cost:75,hp:20,str:1,tec:1,tgh:3,main:{pwr:2,shl:50,rng:340,spd:420,itv:600},tunable:{mwp:1}}
 {id:12,name:"ソア・ラAM2",cost:35,hp:20,str:1,tec:1,fly:2}
 {id:13,name:"ジークンロンAM",cost:40,hp:25,str:1,tec:1,wlk:2,tgh:1}
-{id:202505211,name:"ハンドレッドエッジAM",cost:40,hp:25,str:2,wlk:2,tgh:1,fixedParts:{wp:{name:"コンボガントレット",cost:10,slot:0,comment:["シールド耐久値不明"]}},joint:{wp:2},comment:[""]}
-{id:202505212,name:"ハンドレッドエッジAM2",cost:40,hp:25,str:2,wlk:2,tgh:1,fixedParts:{wp:[{name:"コンボガントレット",cost:10,slot:0,comment:["シールド耐久値不明"]},{name:"ライオネットシールド",main:{tec:100,pwr:0,shl:50,rng:0,spd:10,itv:1000},cost:20,comment:["パリィ"],tunable:{mwp:1}}]},joint:{wp:2},comment:["-"]}
-{id:202505213,name:"ディガバレットAM",cost:40,hp:25,tec:2,wlk:2,tgh:1,fixedParts:{wp:[{name:"ディガランチャー",main:{tec:100,pwr:24,shl:170,rng:350,spd:440,itv:540},cost:40,comment:[""],tunable:{mwp:1}}]},joint:{wp:1},comment:["-"]}
+{id:202505211,name:"ハンドレッドエッジAM",type:"l",cost:40,hp:25,str:2,wlk:2,tgh:1,fixedParts:{wp:{name:"コンボガントレット",cost:10,slot:0,comment:["シールド耐久値不明"]}},joint:{wp:2},comment:[""]}
+{id:202505212,name:"ハンドレッドエッジAM2",type:"l",cost:40,hp:25,str:2,wlk:2,tgh:1,fixedParts:{wp:[{name:"コンボガントレット",cost:10,slot:0,comment:["シールド耐久値不明"]},{name:"ライオネットシールド",main:{tec:100,pwr:0,shl:50,rng:0,spd:10,itv:1000},cost:20,comment:["パリィ"],tunable:{mwp:1}}]},joint:{wp:2},comment:["-"]}
+{id:202505213,name:"ディガバレットAM",type:"c",cost:40,hp:25,tec:2,wlk:2,tgh:1,fixedParts:{wp:[{name:"ディガランチャー",main:{tec:100,pwr:24,shl:170,rng:350,spd:440,itv:540},cost:40,comment:[""],tunable:{mwp:1}}]},joint:{wp:1},comment:["-"]}
 
 {group:"WP",prefixID:"W",nextID:1}
 {id:1,name:"メモリ・スロット",size:"M",type:"lacs",slot:3,comment:["実機との個数に差がないか確認を推奨"]}
@@ -107,8 +107,8 @@
 {id:202505082,name:"ロスブラオLG2",type:"l",cost:0,slot:0,comment:[""]}
 {id:202505083,name:"ロスブラオHD2",type:"l",cost:0,slot:3,comment:[""]}
 
-{id:202505211,name:"ハンドレッドエッジBD@",slot:0,fixedParts:{wp:{name:"レイプロテクター",cost:30,slot:0,comment:["シールド耐久値不明"]}},joint:{wp:1},comment:[""]}
-{id:202505212,name:"ディガバレットBD@",main:{tec:100,pwr:0,shl:20,rng:0,spd:10,itv:1000},slot:0,fixedParts:{wp:{name:"ディガキャノン",main:{tec:100,pwr:18,shl:300,rng:350,spd:440,itv:800},sub:{tec:100,pwr:30,shl:0,rng:0,spd:0,itv:1000},cost:110,tunable:{mwp:1},comment:[""],auraStat:{main:{pwr:28,shl:100,rng:300,spd:500,itv:1000},sub:{pwr:38,shl:30,rng:120,spd:190}}}},joint:{wp:1},comment:[""]}
+{id:202505211,name:"ハンドレッドエッジBD@",type:"l",slot:0,fixedParts:{wp:{name:"レイプロテクター",cost:30,slot:0,comment:["シールド耐久値不明"]}},joint:{wp:1},comment:[""]}
+{id:202505212,name:"ディガバレットBD@",type:"c",main:{tec:100,pwr:0,shl:20,rng:0,spd:10,itv:1000},slot:0,fixedParts:{wp:{name:"ディガキャノン",main:{tec:100,pwr:18,shl:300,rng:350,spd:440,itv:800},sub:{tec:100,pwr:30,shl:0,rng:0,spd:0,itv:1000},cost:110,tunable:{mwp:1},comment:[""],auraStat:{main:{pwr:28,shl:100,rng:300,spd:500,itv:1000},sub:{pwr:38,shl:30,rng:120,spd:190}}}},joint:{wp:1},comment:[""]}
 
 
 
