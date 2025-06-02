@@ -1165,7 +1165,7 @@
 
 {id:1,name:"ウィングプラスAMJ",size:"S",cost:20,wlk:-1,fly:2,builtin:{bs:1},slot:1,comment:["BS機能"]}
 {id:24,name:"ギガンベルグAMJ",main:{pwr:8,shl:400,rng:250,spd:320,itv:1200},tunable:{mwp:1},cost:40,slot:1,size:"M",type:"lc"}
-{id:13,name:"ギミックランチャーAMJ",main:{pwr:7,shl:280,rng:330,spd:290,itv:600},type:"c",size:"M",cost:60,tec:1,wlk:-1,tgh:1,slot:1,tunable:{mwp:1}}
+{id:13,name:"ギミックランチャーAMJ",main:{pwr:7,shl:280,rng:330,spd:290,itv:600},type:"c",size:"M",cost:60,tec:1,wlk:-1,tgh:1,slot:1,tunable:{mwp:1},comment:["","SHOP：15Rt"]}
 {id:2025040241,name:"グランダグドライバーAMJ",main:{tec:100,pwr:20,shl:240,rng:350,spd:570,itv:800},tunable:{mwp:1},type:"c",size:"M",cost:40,slot:1,comment:["リコチェット系？"]}
 
 {id:99,name:"クリスタルビットAMJ",tunable:{pwp:0,mwp:0},type:"a",size:"M",cost:40,slot:1,main:{tec:100,pwr:6,shl:350,rng:275,spd:350,itv:320},comment:"結晶コイン景品（40個）"}
@@ -1182,7 +1182,7 @@
 {id:20220813,name:"デンデンカムAMJ",main:{pwr:11,shl:400,rng:275,spd:320,itv:500},tunable:{mwp:1},type:"a",size:"S",cost:55,slot:1,comment:["交換NPCミナリア","ビーム爆風10：1"]}
 
 {id:20220601,name:"ドライバーキャノンAMJ",main:{pwr:10,shl:600,rng:330,spd:280,itv:340},tunable:{mwp:1},type:"c",size:"S",cost:60,slot:1,comment:["アスフィ初期装備"]}
-{id:19,name:"ドローガンAMJ",main:{tec:100,pwr:6,shl:200,rng:250,spd:480,itv:500},tunable:{mwp:1},type:"s",size:"M",cost:60,str:1,tec:1,tgh:-1,slot:1}
+{id:19,name:"ドローガンAMJ",main:{tec:100,pwr:6,shl:200,rng:250,spd:480,itv:500},tunable:{mwp:1},type:"s",size:"M",cost:60,str:1,tec:1,tgh:-1,slot:1,comment:["引き寄せ","SHOP：15Rt"]}
 
 {id:16,name:"バーストミサイルAMJ",type:"c",size:"M",cost:50,slot:1,main:{pwr:10,shl:160,rng:330,spd:320,itv:1200},tunable:{mwp:1},comment:["イルミス初期装備"]}
 
@@ -1193,23 +1193,23 @@
 {id:20240717,name:"パンツァーAMJ",main:{pwr:14,shl:400,rng:330,spd:440,itv:200},tunable:{mwp:1},type:"c",size:"M",cost:50,slot:1,comment:["爆風100％","夏祭りキューブ"]}
 
 
-{id:17,name:"ビームミサイルAMJ",main:{pwr:14,shl:130,rng:275,spd:350,itv:900},tunable:{mwp:1},type:"a",size:"M",cost:60,slot:1}
+{id:17,name:"ビームミサイルAMJ",main:{pwr:14,shl:130,rng:275,spd:350,itv:900},tunable:{mwp:1},type:"a",size:"M",cost:60,slot:1,comment:["","SHOP：15Rt"]}
 
 
-{id:402,name:"ビームキャンセラーAMJ",main:{pwr:16,shl:220,rng:300,spd:320,itv:800},tunable:{mwp:1},type:"c",size:"M",cost:60,str:-1,tgh:2,slot:1}
-{id:12,name:"ピアースガンAMJ",main:{pwr:10,shl:340,rng:250,spd:480,itv:340},tunable:{mwp:1},type:"l",size:"M",cost:60,tec:1,wlk:1,fly:-1,slot:1,comment:["貫通"]}
-{id:3,name:"フォールドライフルAMJ",size:"M",cost:60,tec:2,wlk:-1,main:{pwr:9,shl:220,rng:250,spd:480,itv:520},tunable:{mwp:1},slot:1}
+{id:402,name:"ビームキャンセラーAMJ",main:{pwr:16,shl:220,rng:300,spd:320,itv:800},tunable:{mwp:1},type:"c",size:"M",cost:60,str:-1,tgh:2,slot:1,comment:["","SHOP：15Rt"]}
+{id:12,name:"ピアースガンAMJ",main:{pwr:10,shl:340,rng:250,spd:480,itv:340},tunable:{mwp:1},type:"l",size:"M",cost:60,tec:1,wlk:1,fly:-1,slot:1,comment:["貫通","SHOP：15Rt"]}
+{id:3,name:"フォールドライフルAMJ",size:"M",cost:60,tec:2,wlk:-1,main:{pwr:9,shl:220,rng:250,spd:480,itv:520},tunable:{mwp:1},slot:1,comment:["SHOP：15Rt"]}
 {id:42,name:"ヘカトケレスAMJ",tunable:{pwp:0,mwp:0},type:"c",size:"L",cost:20,slot:1,main:{tec:100,pwr:8,shl:190,rng:300,spd:260,itv:600},comment:["チャージ（弱）　反発効果","ユニオンコイン景品（60個）",""]}
 {id:20240508,name:"ベリルスキッドAMJ",slot:1,size:"L",type:"l",cost:25,hp:-20,wlk:-1,fly:-1,joint:{am:1,wp:1},comment:["メインウェポンのみ装備可能","ベリルスキッド専用コンバージョンパーツ"]}
 
 {id:31,name:"ミコトAMJ",main:{pwr:12,shl:270,rng:250,spd:400,itv:620},tunable:{mwp:1},type:"lc",size:"M",cost:15,slot:1,comment:["リモート（長）　距離減衰あり"]}
 
-{id:18,name:"ミドルガトリングAMJ",size:"M",cost:60,main:{pwr:6,shl:1080,rng:200,spd:400,itv:140},tunable:{mwp:1},tec:2,wlk:-1,slot:1,type:"lc"}
+{id:18,name:"ミドルガトリングAMJ",size:"M",cost:60,main:{pwr:6,shl:1080,rng:200,spd:400,itv:140},tunable:{mwp:1},tec:2,wlk:-1,slot:1,type:"lc",comment:["SHOP：15Rt"]}
 {id:20250205,name:"ラクラボロスAMJ2",main:{tec:100,pwr:13,shl:360,rng:300,spd:350,itv:500},tunable:{mwp:1},type:"as",size:"M",cost:40,slot:1,comment:["ビーム属性　反発効果　誘導弾","リンクショット対応"]}
 
 {id:40,name:"A.L.E.ラズフラムAMJ",sub:{rng:100,spd:50,itv:500},tunable:{pwp:0,mwp:0},type:"l",size:"SS",cost:50,slot:1,comment:"シールド耐久値135"}
 
-{id:401,name:"S・UバリアシューターAMJ",main:{pwr:11,shl:180,rng:300,spd:260,itv:500},tunable:{mwp:1},type:"c",size:"M",cost:60,str:-1,tgh:2,slot:1}
+{id:401,name:"S・UバリアシューターAMJ",main:{pwr:11,shl:180,rng:300,spd:260,itv:500},tunable:{mwp:1},type:"c",size:"M",cost:60,str:-1,tgh:2,slot:1,comment:["チャージ1秒　CT3秒","SHOP：15Rt"]}
 
 
 
