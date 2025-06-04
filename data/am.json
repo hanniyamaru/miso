@@ -1034,6 +1034,8 @@
 {id:63,name:"マイトボンバーAM",main:{tec:100,pwr:5,shl:900,rng:250,spd:440,itv:140},tunable:{mwp:1},type:"a",cost:85,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,joint:{wp:0}}
 {id:64,name:"マイトボンバーAM2",main:{tec:100,pwr:25,shl:240,rng:275,spd:400,itv:720},tunable:{mwp:1},cost:115,hp:20,str:-1,tec:3,fly:2,type:"a",tgh:1,joint:{wp:0}}
 {id:65,name:"マイトボンバーAM3",main:{tec:100,pwr:9,shl:500,rng:275,spd:350,itv:680},tunable:{mwp:1},type:"a",cost:115,hp:20,str:-1,tec:3,fly:1,tgh:2,joint:{wp:0}}
+{id:202506046,name:"マイトボンバーAM4",main:{tec:100,pwr:23,shl:280,rng:275,spd:350,itv:700},tunable:{mwp:1},type:"a",cost:115,hp:20,str:-1,tec:4,fly:1,tgh:1,joint:{wp:0},comment:["PULSE MISSILE","飛行ゲージ回復効果","AA"]}
+
 {id:202310183,name:"マテングAM",size:"L",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1,comment:["","",""]}
 
 {id:19,name:"メガトンオーAM",cost:35,hp:20,str:2,tec:1,tgh:2}
