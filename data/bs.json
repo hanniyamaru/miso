@@ -861,6 +861,9 @@
 
 {id:202207101,name:"ヘリアンザスBS",main:{pwr:16,shl:800,rng:250,spd:480,itv:100},type:"s",cost:185,hp:20,str:1,tec:2,fly:2,comment:["ダメージ0.7倍？　貫通+確率ライトバーニング効果","BS@省略・武器チューン不可"]}
 {id:20240508,name:"ベリルスキッドBS",type:"l",size:"L",cost:35,hp:20,str:-1,tec:1,wlk:2,fly:3}
+
+{id:2025060423,name:"ベルツノランダーBS",sub:{tec:100,pwr:0,shl:30,rng:0,spd:250,itv:1000},tunable:{pwp:0},type:"l",size:"L",cost:55,hp:20,str:-1,tec:0,wlk:2,fly:3,tgh:1,comment:[""]}
+
 {id:19,name:"ボイルデックBS",type:"c",cost:40,hp:25,tec:1,fly:2,tgh:2}
 {id:35,name:"ポセダインBS",type:"a",size:"L",cost:35,hp:20,str:1,tec:-1,wlk:1,fly:3,tgh:1}
 {id:202211035,name:"ホバーミィルBS",type:"c",size:"L",cost:235,hp:20,tec:3,fly:2,main:{tec:100,pwr:11,shl:660,rng:330,spd:300,itv:300},sub:{tec:100,pwr:21,shl:210,rng:350,spd:300,itv:1000},tunable:{mwp:1}}
