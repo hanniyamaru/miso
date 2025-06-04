@@ -564,7 +564,9 @@
 {id:146,name:"ハイガクゥーンAM",sub:{tec:100,pwr:27,rng:70,spd:85,itv:500},tunable:{pwp:1},type:"lc",size:"M",cost:75,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
 {id:168,name:"ハイガクゥーンAM2",main:{tec:100,pwr:7,shl:850,rng:330,spd:280,itv:900},tunable:{mwp:1},type:"c",size:"M",cost:115,hp:15,str:-1,tec:3,wlk:1,fly:1,comment:["自軍貫通　爆風70％","統"]}
 
-{id:95,name:"ハイバリオンAM",sub:{pwr:20,shl:150,rng:350,spd:320,itv:1000,tec:100},type:"c",cost:100,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2,comment:["爆風80％　コンボ可能　","AM@省略"]}
+{id:95,name:"ハイバリオンAM",sub:{tec:100,pwr:20,shl:150,rng:350,spd:320,itv:1000},type:"c",cost:100,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2,comment:["爆風80％　コンボ可能　","AM@省略"]}
+{id:202506045,name:"ハイバリオンAM2",sub:{tec:100,pwr:32,shl:0,rng:77,spd:94,itv:1000},tunable:{pwp:1},type:"lc",cost:80,hp:25,str:-1,tec:1,wlk:1,fly:1,tgh:3,comment:["","AM@省略","ハイバリオンR"]}
+
 {id:17,name:"ハイプリストルAM",cost:35,hp:20,tec:2,wlk:1,fly:1,tgh:1}
 {id:526,name:"ハイプリストルAM2",sub:{str:100,pwr:0,shl:230,rng:0,spd:0,itv:800},tunable:{pwp:0,mwp:0},type:"s",size:"M",cost:135,hp:20,wlk:2,fly:1,tgh:2,joint:{wp:0},comment:"回復量：7（10連射可能）"}
 {id:171103,name:"ハイプリストルGAM",main:{shl:220,rng:300,spd:300,itv:800},tunable:{mwp:1},cost:85,hp:20,str:2,tec:2,tgh:1,type:"s",comment:"回復量：11"}
