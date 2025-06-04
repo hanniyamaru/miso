@@ -1077,6 +1077,8 @@
 {id:34,name:"ロブガイズAM2",type:"l",size:"L",cost:155,hp:20,str:3,tec:-1,wlk:1,tgh:2,main:{str:100,pwr:20,shl:50,rng:200,spd:570,itv:500},sub:{str:100,pwr:34,rng:70,spd:85,itv:1000},tunable:{mwp:1,pwp:1},joint:{wp:0}}
 
 {id:2022113,name:"C・バルロッサAM",main:{pwr:11,shl:480,rng:275,spd:400,itv:300},tunable:{mwp:1},type:"a",cost:85,hp:20,str:-1,tec:3,fly:2,tgh:1}
+{id:2025060424,name:"C・バルロッサAM2",type:"a",cost:35,hp:20,str:2,tec:-1,wlk:1,fly:2,tgh:1,comment:["","Rev"]}
+{id:20250604241,name:"C・バルロッサAM3",main:{tec:100,pwr:22,shl:760,rng:275,spd:480,itv:140},tunable:{mwp:1},joint:{wp:0},type:"a",cost:175,hp:20,str:-1,tec:4,fly:1,tgh:1,comment:["リコチェット系","Rev"]}
 
 {id:20221230,name:"Cosmic Card GameAM",type:"l",cost:240,hp:25,str:2,tec:-1,wlk:2,fly:1,tgh:1,main:{str:100,pwr:11,shl:1000,rng:250,spd:400,itv:880},sub:{str:100,pwr:28,rng:70,spd:85,itv:500},tunable:{mwp:1,pwp:1},joint:{wp:0},comment:["挙動はドミクラウンAM3","CCG購入特典"]}
 
