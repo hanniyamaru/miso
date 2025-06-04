@@ -544,10 +544,11 @@
 
 
 {group:"ガシマガールコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
-{id:189,name:"ガシマハウザー",sub:{tec:100,pwr:40,shl:60,rng:350,spd:240,itv:1000},tunable:{mwp:0},slot:0,type:"c",size:"S",cost:20,comment:"ガシマガール専用コンバージョンパーツ"}
+{id:189,name:"ガシマハウザー",sub:{tec:100,pwr:40,shl:60,rng:350,spd:240,itv:1000},tunable:{mwp:0},slot:0,type:"c",size:"S",cost:20,comment:["BD側のみ装着可能　スタン（黄）","ガシマガール専用コンバージョンパーツ"]}
+{id:2025060421,name:"ガシマバスター",main:{tec:100,pwr:30,shl:220,rng:350,spd:400,itv:1000},tunable:{mwp:1},type:"c",size:"S",cost:40,comment:["追撃爆風：0.2倍","ガシマガール専用コンバージョンパーツ"]}
 {id:202205222,name:"ガシマブレイカー",main:{tec:100,pwr:22,shl:480,rng:350,spd:440,itv:900},tunable:{mwp:1},type:"c",size:"S",cost:80,comment:["爆風属性100％","ガシマガール専用コンバージョンパーツ"]}
 {id:202205221,name:"ガシマミサイル",main:{tec:100,pwr:13,shl:720,rng:330,spd:280,itv:300},tunable:{mwp:1},type:"c",size:"S",cost:100,comment:"ガシマガール専用コンバージョンパーツ"}
-
+{id:2025060422,name:"ガシマランチャー",main:{tec:100,pwr:12,shl:540,rng:350,spd:480,itv:1200},tunable:{mwp:1},slot:0,type:"c",size:"S",cost:40,comment:["BD側のみ装着可能","ガシマガール専用コンバージョンパーツ"]}
 {group:"カンナコンバージョン",prefixID:"MOx",commonStat:{tunable:{}},nextID:17}
 
 {id:20230201,name:"神器･月天丸",sub:{str:100,pwr:34,rng:70,spd:85,itv:1000},joint:{wp:2},type:"l",size:"S",cost:100,tunable:{pwp:1}}
