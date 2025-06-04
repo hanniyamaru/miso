@@ -897,6 +897,7 @@
 
 
 {id:97,name:"C・バルロッサBS",sub:{shl:40,rng:0,spd:200,itv:1000},type:"a",size:"L",cost:55,hp:20,tec:1,wlk:-1,fly:4,tgh:1}
+{id:202506044,name:"C・バルロッサBS2",sub:{shl:60,rng:0,spd:200,itv:1000},type:"a",size:"L",cost:80,hp:20,str:-1,tec:1,wlk:0,fly:3,tgh:2,comment:["デコイ","Rev"]}
 
 
 
