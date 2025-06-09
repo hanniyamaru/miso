@@ -622,8 +622,8 @@
 {group:"ナターシャコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:62,name:"シヴァリーキャノン",main:{pwr:18,shl:400,rng:330,spd:290,itv:600},joint:{wp:1},fixedParts:{wp:{name:"シヴァリーキャノン",main:{pwr:40,shl:30,rng:330,spd:400,itv:500},slot:0}},type:"c",size:"S",cost:160,comment:"ナターシャAM専用コンバージョンパーツ cost合算"}
 {id:6211,name:"シヴァリーキャノンⅡ",main:{pwr:10,shl:730,rng:330,spd:320,itv:300},joint:{wp:1},fixedParts:{wp:{name:"シヴァリーキャノンⅡ",main:{pwr:32,shl:40,rng:330,spd:400,itv:1000},slot:0}},type:"c",size:"S",cost:160,comment:["ナターシャAM専用コンバージョンパーツ","cost+50合算"]}
-{id:7211,name:"シヴァリーガード",sub:{pwr:30,itv:500},type:"c",size:"S",cost:50,comment:["ナターシャAM2専用コンバージョンパーツ","1度の攻撃で受けるバリアへの最大与ダメージ13"]}
-{id:17911,name:"シヴァリーガードⅡ",sub:{pwr:0,rng:10,itv:500},type:"c",size:"S",cost:50,comment:"ナターシャAM2専用コンバージョンパーツ",joint:{wp:1},fixedParts:{wp:{name:"シヴァリーガードⅡ＠",sub:{pwr:30,shl:0,rng:10,spd:170,itv:1000},type:"c",size:"S",slot:0,cost:20}}}
+{id:7211,name:"シヴァリーガード",sub:{pwr:30,itv:500},type:"c",size:"S",cost:50,slot:0,comment:["ナターシャAM2専用コンバージョンパーツ","1度の攻撃で受けるバリアへの最大与ダメージ13"]}
+{id:17911,name:"シヴァリーガードⅡ",sub:{pwr:0,rng:10,itv:500},type:"c",size:"S",cost:50,slot:0,comment:"ナターシャAM2専用コンバージョンパーツ",joint:{wp:1},fixedParts:{wp:{name:"シヴァリーガードⅡ＠",sub:{pwr:30,shl:0,rng:10,spd:170,itv:1000},type:"c",size:"S",slot:0,cost:20}}}
 
 {group:"ネーベルコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:20222022,name:"ドンナーマスケット",type:"a",size:"S",cost:30,main:{tec:100,pwr:25,shl:50,rng:275,spd:400,itv:1000},tunable:{mwp:0},comment:["本体省略","武器チューン不可"]}
