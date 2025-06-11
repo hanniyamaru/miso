@@ -216,7 +216,9 @@
 {id:202411071,name:"ガデ子インクボム",size:"S",cost:50,type:"ls",sub:{tec:100,pwr:28,shl:50,rng:250,spd:320,itv:1000},tunable:{pwp:0},comment:["実弾属性爆風100％　ディスオーダー効果（確率）","イベント混沌ランダム景品"]}
 
 {id:20250611,name:"グラファングカリバーR",sub:{str:100,pwr:33,shl:0,rng:77,spd:94,itv:1000},tunable:{pwp:1},type:"l",size:"L",cost:130,comment:["WLK依存サブ？","イベント報酬「VSジュースちゃん！」"]}
-{id:202506111,name:"ジュースちゃんクロー",sub:{str:100,pwr:31,shl:0,rng:77,spd:94,itv:1000},tunable:{pwp:1},type:"a",size:"L",cost:140,comment:["FLY依存サブ？","イベント報酬「VSジュースちゃん！」"]}
+{id:202506111,name:"ファングソードR",sub:{str:100,pwr:30,shl:0,rng:77,spd:94,itv:1000},tunable:{pwp:1},type:"l",size:"M",cost:85,comment:["WLK依存サブ","イベント報酬「VSジュースちゃん！」"]}
+
+{id:202506112,name:"ジュースちゃんクロー",sub:{str:100,pwr:31,shl:0,rng:77,spd:94,itv:1000},tunable:{pwp:1},type:"a",size:"L",cost:140,comment:["FLY依存サブ？","イベント報酬「VSジュースちゃん！」"]}
 
 
 
