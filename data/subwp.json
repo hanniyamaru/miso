@@ -218,7 +218,7 @@
 {id:20250611,name:"グラファングカリバーR",sub:{str:100,pwr:33,shl:0,rng:77,spd:94,itv:1000},tunable:{pwp:1},type:"l",size:"L",cost:130,comment:["WLK依存サブ？","イベント報酬「VSジュースちゃん！」"]}
 {id:202506111,name:"ファングソードR",sub:{str:100,pwr:30,shl:0,rng:77,spd:94,itv:1000},tunable:{pwp:1},type:"l",size:"M",cost:85,comment:["WLK依存サブ","イベント報酬「VSジュースちゃん！」"]}
 
-{id:202506112,name:"ジュースちゃんクロー",sub:{str:100,pwr:31,shl:0,rng:77,spd:94,itv:1000},tunable:{pwp:1},type:"a",size:"L",cost:140,comment:["FLY依存サブ？","イベント報酬「VSジュースちゃん！」"]}
+{id:202506112,name:"ジュースちゃんクロー",sub:{str:100,pwr:31,shl:0,rng:77,spd:94,itv:1000},tunable:{pwp:1},type:"a",size:"S",cost:140,comment:["WLK・FLYの高い方に依存","イベント報酬「VSジュースちゃん！」"]}
 
 
 
