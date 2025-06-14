@@ -936,6 +936,7 @@
 {id:201,name:"スロット1BSJ",size:"M",cost:0,hp:0,slot:1,comment:["メビウスBSJ（アリーナコイン・アワードコイン）",""]}
 
 {id:20240717,name:"エアポートBSJ",main:{pwr:8,shl:540,rng:275,spd:350,itv:700},cost:50,size:"M",type:"a",slot:1,tunable:{mwp:1},comment:["ビーム爆風70％？（木などには低ダメージ）ブースト回収効果","夏祭りキューブ"]}
+{id:20250615,name:"ティガキャノンBSJ",main:{tec:100,pwr:16,shl:420,rng:330,spd:480,itv:800},cost:80,size:"M",type:"c",slot:1,tunable:{mwp:1},comment:["微誘導　爆風70％","イベント報酬「VSジュースちゃん！」"]}
 
 {id:1,name:"ポールフラッグBSJ",size:"M",cost:15,hp:10,slot:1,comment:"-"}
 {id:2,name:"ロングフラッグBSJ",size:"M",cost:15,hp:10,slot:1,comment:"-"}
