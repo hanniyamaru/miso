@@ -252,7 +252,7 @@
 {id:91,name:"ショコラパラソル",main:{pwr:13,tec:100,rng:250,spd:320,shl:250,itv:700},cost:80,type:"lacs",size:"M",tgh:-1,comment:"実弾属性爆風70％"}
 {id:202302108,name:"チョコットボムC",size:"M",cost:90,type:"c",main:{tec:100,pwr:15,shl:360,rng:330,spd:280,itv:500},tunable:{mwp:1},comment:["バレンタインオーダー報酬","W共通（イベント中域・ホワイトデーキューブ）"]}
 {id:20241107,name:"エレキミサイルランチャー",main:{pwr:15,shl:480,rng:330,spd:280,itv:800},type:"c",size:"L",cost:160,comment:["爆風70％？　自軍貫通　双発（‥）","ビクトリー・キャノン改初期装備"]}
-{id:20206116,name:"ティガミサイルR",main:{tec:100,pwr:7,shl:720,rng:330,spd:320,itv:200},type:"c",size:"M",cost:80,comment:["爆風100％　自軍貫通","イベント報酬「VSジュースちゃん！」"]}
+{id:20250616,name:"ティガミサイルR",main:{tec:100,pwr:7,shl:720,rng:330,spd:320,itv:200},type:"c",size:"M",cost:80,comment:["爆風100％　自軍貫通","イベント報酬「VSジュースちゃん！」"]}
 
 
 {id:78,name:"ラピッドパルスミサイル",main:{pwr:11,shl:350,rng:275,spd:350,itv:320},tunable:{mwp:1},type:"a",size:"M",cost:110,comment:["ビーム属性爆風50％","結晶コイン景品（20個）"]}
