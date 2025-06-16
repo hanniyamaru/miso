@@ -645,6 +645,8 @@
 {id:20250611,name:"グラファングカリバー",sub:{str:100,pwr:33,shl:0,rng:77,spd:94,itv:1000},tunable:{pwp:1},type:"l",size:"L",cost:130,comment:["WLK依存サブ？　パリィ","","ハンドレッドエッジAM0専用コンバージョンパーツ"]}
 
 {id:20250524,name:"チェンジファングライフル",main:{str:100,pwr:29,shl:280,rng:250,spd:400,itv:700},sub:{str:100,pwr:32,shl:0,rng:77,spd:94,itv:1000},tunable:{mwp:1,pwp:1},type:"l",size:"L",cost:130,comment:["メイン：実弾属性爆風100％　自軍貫通","サブ：WLK依存サブ","ハンドレッドエッジ専用コンバージョンパーツ"]}
+{id:202506161,name:"ファングソード",sub:{str:100,pwr:30,shl:0,rng:150,spd:350,itv:1000},tunable:{pwp:0},type:"l",size:"L",cost:50,comment:["（ライオウゼンLG挙動）","","ハンドレッドエッジAM0専用コンバージョンパーツ"]}
+
 {id:202506111,name:"ライオネットシールド",main:{tec:100,pwr:0,shl:50,rng:0,spd:10,itv:1000},tunable:{mwp:1},type:"l",size:"L",cost:30,comment:["パリィ","","ハンドレッドエッジAM0専用コンバージョンパーツ"]}
 
 {id:20250521,name:"レオシュトラール",main:{str:100,pwr:33,shl:5,rng:225,spd:500,itv:500},tunable:{mwp:1},type:"l",size:"L",cost:20,comment:["タフネスブレイカー効果（最大チャージ時）","ハンドレッドエッジ初期装備","ハンドレッドエッジ専用コンバージョンパーツ"]}
