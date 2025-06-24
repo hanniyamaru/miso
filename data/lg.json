@@ -873,7 +873,7 @@
 
 {group:"ジョイント",prefixID:"J",commonStat:{jointPart:1},nextID:10}
 
-{id:1027,name:"スロット1LGJ",slot:1}
+{id:1027,name:"スロット1LGJ",slot:1,comment:["サマースイムリングLGJ（αβγ　イベント？）","ザリドLGJ","シシナLGJ","ジュースちゃんテイルLGJ（コードビーストキューブ）","スイムリングLGJ（サマーキューブ）","タービンLGJ（プラチナチケット）","ティルLGJ（コラボイベント）","なっちんテイルユニットLGJ（NPCなっちん）","フラクタリスLGJ（S・L　結晶コイン18個）"]}
 
 {id:202412045,name:"エスエルLGJ",type:"c",size:"M",cost:60,main:{tec:100,pwr:21,shl:220,rng:330,spd:320,itv:900},tunable:{mwp:1},slot:1,comment:["爆風100％ ハウザー","カスタムリンクショット対応","エスエルDX"]}
 
