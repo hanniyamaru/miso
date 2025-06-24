@@ -642,7 +642,7 @@
 
 {group:"ハンドレッドエッジコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 
-{id:20250611,name:"グラファングカリバー",sub:{str:100,pwr:33,shl:0,rng:77,spd:94,itv:1000},tunable:{pwp:1},type:"l",size:"L",cost:130,comment:["WLK依存サブ？　パリィ","","ハンドレッドエッジAM0専用コンバージョンパーツ"]}
+{id:20250611,name:"グラファングカリバー",sub:{str:100,pwr:33,shl:0,rng:77,spd:94,itv:1000},tunable:{pwp:1},type:"l",size:"L",cost:130,comment:["WLK依存サブ","","ハンドレッドエッジAM0専用コンバージョンパーツ"]}
 
 {id:20250524,name:"チェンジファングライフル",main:{str:100,pwr:29,shl:280,rng:250,spd:400,itv:700},sub:{str:100,pwr:32,shl:0,rng:77,spd:94,itv:1000},tunable:{mwp:1,pwp:1},type:"l",size:"L",cost:130,comment:["メイン：実弾属性爆風100％　自軍貫通","サブ：WLK依存サブ","ハンドレッドエッジ専用コンバージョンパーツ"]}
 {id:202506161,name:"ファングソード",sub:{str:100,pwr:30,shl:0,rng:150,spd:350,itv:1000},tunable:{pwp:0},type:"l",size:"L",cost:50,comment:["（ライオウゼンLG挙動）","","ハンドレッドエッジAM0専用コンバージョンパーツ"]}
