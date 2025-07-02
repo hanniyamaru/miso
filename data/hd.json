@@ -295,6 +295,7 @@
 {id:68,name:"ガルラバードHD",cost:40,hp:25,str:1,tec:2,fly:2}
 {id:69,name:"ガルラバードHD2",cost:40,hp:25,str:2,wlk:-1,fly:2,tgh:2,comment:"ガルラーバード・サディ"}
 {id:202306092,name:"ガルラバードHD3",cost:40,hp:25,str:-1,tec:1,wlk:2,fly:1,tgh:2,comment:"ラクタ"}
+{id:202507023,name:"ガレオンHD",cost:35,hp:20,str:2,tec:-1,wlk:2,fly:0,tgh:2,comment:"AURA機構　※変形：陸のみ"}
 
 {id:79,name:"ガンアームズHD",cost:35,hp:20,tec:1,wlk:2,tgh:2}
 {id:202405093,name:"ガンアームズHD2",cost:35,hp:20,tec:3,wlk:2,fly:-1,tgh:1,comment:"無印"}
