@@ -427,6 +427,7 @@
 {id:11,name:"ガシマBS",type:"c",cost:40,hp:25,str:-1,tec:1,fly:3,tgh:2}
 
 {id:115,name:"ガルネリンプBS",type:"l",cost:35,hp:20,wlk:1,fly:3,tgh:1}
+{id:202507023,name:"ガレオンBS",type:"l",cost:35,hp:20,wlk:0,fly:3,tgh:2,comment:"AURA機構　※変形：陸のみ"}
 {id:35,name:"ガンアームズBS",main:{pwr:16,shl:200,rng:350,spd:520,itv:900},type:"c",cost:70,hp:25,str:-1,tec:2,fly:3,tgh:1,comment:["爆風50％","BS@省略・武器チューン不可"]}
 {id:202405093,name:"ガンアームズBS2",type:"c",cost:35,hp:20,wlk:1,fly:3,tgh:1,comment:"無印"}
 
