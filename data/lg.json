@@ -469,6 +469,7 @@
 
 {id:202211035,name:"ホバーミィルLG",size:"M",cost:45,hp:25,str:-1,tec:1,wlk:2,fly:2,tgh:2}
 {id:14,name:"ホバリオンLG",cost:45,hp:30,str:-1,tec:1,wlk:3,fly:1,tgh:1}
+{id:202507026,name:"ホバリオンLG2",type:"c",cost:75,hp:35,str:-1,tec:1,wlk:2,fly:2,tgh:2,sub:{tec:100,pwr:20,shl:30,rng:0,spd:50,itv:1000},tunable:{pwp:0},comment:["ライトメルト効果","ホバリオン・フラマ"]}
 {id:33,name:"ホバリオン・マグナLG",cost:50,hp:35,str:-1,tec:1,wlk:2,fly:2,tgh:2}
 
 {id:79,name:"ホプリテスLG",cost:45,hp:25,str:1,tec:1,wlk:2,fly:1}
