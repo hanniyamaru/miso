@@ -125,6 +125,8 @@
 {id:70,name:"バルーダLG",sub:{tec:100,pwr:34,rng:120,spd:250,itv:1000},cost:45,hp:25,str:1,tec:2,wlk:2,tgh:1,tunable:{pwp:1}}
 
 {id:202310182,name:"ビーゾルLG",sub:{str:100,pwr:28,shl:60,rng:150,spd:350,itv:1000},tunable:{pwp:0},size:"SS",type:"a",cost:135,hp:25,str:3,tec:-1,wlk:2,fly:2,comment:["ポイズン効果"]}
+{id:202507025,name:"ビーゾルLG2",main:{tec:100,pwr:27,shl:260,rng:275,spd:150,itv:800},tunable:{mwp:1},size:"SS",type:"a",cost:165,hp:25,str:-1,tec:3,wlk:2,fly:2,comment:["飛行ゲージ回復効果"]}
+
 {id:20230615,name:"ビートラムLG",cost:40,hp:20,str:1,wlk:3,tgh:1}
 {id:202203021,name:"ピエッタLG",sub:{pwr:0,shl:40,rng:100,spd:160,itv:1000},type:"a",size:"S",cost:90,hp:20,tec:1,wlk:2,fly:2}
 {id:35,name:"ビックガジェットLG2",cost:45,hp:25,tec:1,wlk:2,fly:2,tgh:1}
