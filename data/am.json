@@ -642,6 +642,7 @@
 {id:30,name:"マリルマーチαAM3",type:"c",cost:155,hp:20,str:-1,tec:4,wlk:1,fly:1,main:{pwr:18,shl:480,rng:330,spd:440,itv:400},tunable:{mwp:1},joint:{wp:0}}
 {id:31,name:"マリルマーチαAM4",type:"c",cost:45,hp:20,tec:2,wlk:1,fly:-1,tgh:3,sub:{tec:100,pwr:30,rng:75,spd:200,itv:1000},tunable:{pwp:1},joint:{wp:0}}
 {id:202309063,name:"マリンダイバーAM",size:"M",cost:35,hp:20,tec:2,wlk:1,fly:1,tgh:1,comment:[""]}
+{id:202507024,name:"マリンダイバーAM2",main:{tec:100,pwr:27,shl:180,rng:330,spd:240,itv:1000},tunable:{mwp:1},type:"c",size:"M",cost:55,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,comment:["変形後のみ使用可能　変形後は手持ち破棄","※変形前の弾速は280（発射不可）","マリンダイバーUB"]}
 {id:142,name:"マンティサイスAM",sub:{str:100,pwr:26,rng:100,spd:85,itv:1000},tunable:{pwp:1},type:"l",size:"M",cost:105,hp:20,str:3,tec:-1,wlk:2,fly:1,joint:{wp:0},comment:["射出物：倍率（0.2倍）　TGH減衰無視"]}
 {id:202504025,name:"マンティサイスAM2",main:{tec:100,pwr:25,shl:360,rng:250,spd:440,itv:500},tunable:{mwp:1},type:"l",size:"M",cost:120,hp:20,str:-1,tec:3,wlk:2,fly:1,joint:{wp:0},comment:["リンクショット対応　貫通弾","FL"]}
 
