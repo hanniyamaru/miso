@@ -970,7 +970,7 @@
 
 {id:13,name:"パルサーディオAM",cost:40,hp:25,str:2,wlk:1,tgh:2}
 {id:78,name:"バルテオンAM3",type:"a",cost:130,hp:25,tec:4,wlk:-1,tgh:2,main:{tec:100,pwr:6,shl:2100,rng:160,spd:480,itv:140},tunable:{mwp:1},joint:{wp:0},comment:["減衰率60％　チャージ　発射数3　自軍貫通","バルテオンBV","2024/6/19"]}
-{id:20250707,name:"ハンドレッドエッジAM0（+コンボガントレット）",cost:55,hp:20,str:2,tec:-1,wlk:2,fly:1,tgh:1,joint:{wp:1},comment:["盾耐久値不明",""]}
+{id:20250707,name:"ハンドレッドエッジAM0（+コンボガントレット）",type:"l",cost:55,hp:20,str:2,tec:-1,wlk:2,fly:1,tgh:1,joint:{wp:1},comment:["盾耐久値不明",""]}
 {id:20250521,name:"ハンドレッドエッジAM0（コンバージョン無し）",cost:35,hp:20,str:2,tec:-1,wlk:2,fly:1,tgh:1,joint:{wp:1},comment:["",""]}
 
 {id:20240808,name:"ビートボルテリアスAM",sub:{str:100,pwr:26,shl:30,rng:70,spd:85,itv:1000},cost:75,hp:20,str:3,tec:-1,wlk:1,tgh:2,type:"l",size:"L",tunable:{pwp:1},comment:["一部減衰無視"]}
