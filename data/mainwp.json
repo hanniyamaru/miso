@@ -458,7 +458,7 @@
 
 
 
-{id:105,name:"見習い手裏剣",main:{str:100,pwr:4,shl:800,rng:200,spd:400,itv:140},tunable:{mwp:1},type:"s",size:"S",cost:40,comment:"もみじBD専用コンバージョンパーツ"}
+{id:105,name:"見習い手裏剣",main:{str:100,pwr:3,shl:800,rng:200,spd:400,itv:140},tunable:{mwp:1},type:"s",size:"S",cost:40,comment:"もみじBD専用コンバージョンパーツ"}
 
 
 
