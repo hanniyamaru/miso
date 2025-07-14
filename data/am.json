@@ -1045,7 +1045,7 @@
 {id:19,name:"メガトンオーAM",cost:35,hp:20,str:2,tec:1,tgh:2}
 
 
-{id:77,name:"ラグナバレットAM",main:{tec:100,pwr:12,shl:200,rng:300,spd:400,itv:600},type:"c",cost:70,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2,comment:["ビームキャンセラー？","AM@cost30複合"]}
+{id:77,name:"ラグナバレットAM",main:{tec:100,pwr:12,shl:200,rng:300,spd:400,itv:600},type:"c",cost:70,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2,comment:["ビームキャンセラー？","AM@cost30複合　武器チューン不可"]}
 
 {id:93,name:"ラクラボロスAM",cost:40,hp:25,str:1,tec:2,wlk:-1,fly:1,tgh:2}
 
