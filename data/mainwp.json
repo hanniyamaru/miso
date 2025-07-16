@@ -93,7 +93,7 @@
 {id:7,name:"レイジマシンガン",type:"l",size:"M",cost:120,main:{pwr:17,shl:840,rng:160,spd:480,itv:140},comment:["減衰率：70％","2024/6/5"]}
 {id:5,name:"ドラムマシンガン",type:"l",size:"M",cost:150,main:{pwr:16,shl:1480,rng:160,spd:480,itv:140},comment:["減衰率：70％","2024/6/5"]}
 {id:20230824,name:"ゴブマシンガン",main:{tec:100,pwr:21,shl:880,rng:160,spd:480,itv:140},tunable:{mwp:1},type:"l",size:"M",cost:160,comment:["減衰率：70％","パーツクリエイト",""]}
-{id:20230407,name:"07式サブマシンガン",size:"M",cost:125,main:{tec:100,pwr:14,shl:1480,rng:160,spd:480,itv:140},type:"lc",comment:["減衰率：70％","2024/6/5","コラボイベントオーダー景品"]}
+{id:20230407,name:"07式サブマシンガン",size:"M",cost:125,main:{tec:100,pwr:14,shl:1480,rng:160,spd:480,itv:140},type:"lc",comment:["減衰率：70％","2024/6/5","NPCなっちん　コラボイベントオーダー景品"]}
 
 {id:14,name:"バルカン",type:"lcs",size:"L",cost:75,main:{pwr:11,shl:1480,rng:120,spd:400,itv:140},comment:["減衰率：60％","2024/6/19"]}
 {id:16,name:"チェインバルカン",type:"lcs",size:"L",cost:100,main:{pwr:17,shl:720,rng:120,spd:480,itv:140},comment:["減衰率：60％","2024/6/19"]}
