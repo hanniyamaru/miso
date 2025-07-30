@@ -178,7 +178,7 @@
 
 {id:7,name:"ゼロセイバーBS",type:"l",cost:40,hp:25,str:1,tec:1,wlk:1,fly:2}
 {id:226,name:"ゼロセイバーBS2",type:"l",cost:135,hp:20,str:3,tec:-1,wlk:1,fly:2,main:{str:100,pwr:12,shl:720,rng:225,spd:440,itv:500},tunable:{mwp:1},comment:"FP"}
-{id:167,name:"ゼロセイバーNEXTBS",sub:{pwr:1,str:100,shl:30,rng:10,spd:150,itv:1000},cost:70,hp:25,str:2,tec:1,wlk:-1,fly:3,size:"S",type:"l",comment:"CT3秒"}
+{id:167,name:"ゼロセイバーNEXTBS",sub:{pwr:1,str:100,shl:30,rng:10,spd:150,itv:1000},cost:70,hp:25,str:2,tec:1,wlk:-1,fly:3,size:"S",type:"l",comment:["デコイ　CT3秒","※表記は1ダメージの記述だが約30ダメージ入る（ステータス非参照・実弾属性？）","この攻撃で与えたダメージは総攻撃に入らず撃墜数にもカウントされない。"]}
 {id:85,name:"ゼロセイバーガールBS",type:"l",cost:40,hp:20,str:1,tec:1,fly:1,tgh:2}
 {id:511,name:"ゼロナイトBS",type:"a",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:3,tgh:1}
 
