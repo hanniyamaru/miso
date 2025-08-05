@@ -315,7 +315,7 @@
 {id:20240718,name:"ギャラクシーデカBD",cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|16@20|15@15|14@20|28@30|13@30|32@50|31@40"},size:"M",cost:445,capa:870,hp:255,str:8,tec:8,wlk:13,fly:7,tgh:12,wbid:0,comment:["","夏祭りキューブ"]}
 
 
-{id:50,name:"クリスホーンBD",cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|28@30|23@30|26@20|21@20|13@30|32@50|31@40"},auraSystem:1,type:"l",size:"M",cost:445,hp:255,capa:870,str:5,tec:12,wlk:14,fly:8,tgh:9,wbid:73}
+{id:50,name:"クリスホーンBD",cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|28@30|23@30|26@20|21@20|13@30|32@50|31@40"},auraSystem:1,type:"l",size:"M",cost:445,hp:255,capa:870,str:5,tec:12,wlk:14,fly:8,tgh:9,wbid:17}
 {id:20240821,name:"クレストBD",sub:{shl:[30],rng:[150],spd:[200],itv:1000},cartridge:{hpup:20,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|25@25|12@20|13@30|34@15|32@50|31@40"},type:"l",size:"M",wbid:0,cost:800,capa:810,hp:450,str:10,tec:10,wlk:40,fly:1,tgh:14,fixedParts:{hd:{name:"クレストHD",slot:0},bs:{name:"クレストBS",slot:0},lg:{name:"クレストLG",slot:0},am:[{name:"クレストAM",slot:0},{name:"クレストAM",slot:0}]},comment:["専用メモリーはアクセ枠の物を使用してください","SHOP：100000UC（期間限定販売）"]}
 
 
