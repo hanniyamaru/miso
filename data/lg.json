@@ -773,7 +773,7 @@
 {id:104,name:"ヘルトカイゼルLG",type:"c",size:"L",cost:45,hp:65,str:2,wlk:3,fly:-1,tgh:2}
 {id:119,name:"ヘルトカイゼルLG2",main:{tec:100,pwr:9,shl:660,rng:330,spd:280,itv:500},tunable:{mwp:1},cost:95,hp:65,str:-1,tec:3,wlk:2,tgh:2,type:"c",size:"L",comment:["NOVA MISSILE"]}
 {id:202410031,name:"ヘルトカイゼルLG3",main:{tec:100,pwr:8,shl:600,rng:330,spd:260,itv:1100},tunable:{mwp:1},cost:115,hp:65,str:-1,tec:2,wlk:2,fly:1,tgh:2,type:"c",size:"L",comment:["ELEC MISSILE","ヘルトカイゼル・AB"]}
-
+{id:202508063,name:"ベルフェゴLG",cost:45,hp:25,str:2,wlk:3,tgh:1,size:"L",comment:[""]}
 
 {id:25,name:"ボイルデックLG",cost:45,hp:25,str:2,wlk:3,fly:1}
 {id:44,name:"ポセダインLG",sub:{pwr:0,shl:60,rng:0,spd:150,itv:1000},type:"a",size:"L",cost:75,hp:60,tec:1,wlk:3,fly:2}
