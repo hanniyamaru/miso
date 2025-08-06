@@ -203,7 +203,7 @@
 
 {id:20220414,name:"アルヴィーテHD",cost:35,hp:20,str:-1,tec:1,fly:2,tgh:3,comment:["アリーナコイン景品"]}
 
-
+{id:202508062,name:"アルビレオンHD",cost:35,hp:20,tec:2,wlk:2,tgh:1}
 {id:278,name:"アルマダHD",cost:40,hp:25,str:1,tec:3,wlk:1,fly:1,tgh:-1}
 
 {id:338,name:"アレシスHD",type:"lacs",size:"M",cost:40,hp:25,str:2,wlk:1,fly:-1,tgh:3}
