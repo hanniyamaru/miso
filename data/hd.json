@@ -690,6 +690,7 @@
 
 {id:96,name:"ヘリアンザスHD",cost:35,hp:20,str:3,tec:1,tgh:1}
 {id:20240508,name:"ベリルスキッドHD",size:"M",cost:35,hp:20,tec:1,wlk:2,fly:-1,tgh:3}
+
 {id:20220417,name:"ヘリンガルMk-2HD",size:"M",cost:35,hp:20,str:-1,tec:1,fly:3,tgh:2,comment:["ロボガラポン"]}
 {id:202410033,name:"ヘリンガルMk-3HD",size:"M",cost:35,hp:20,str:0,tec:1,wlk:1,fly:1,tgh:2,comment:["変形省略"]}
 
@@ -884,6 +885,7 @@
 {id:2025060423,name:"ベルツノランダーHD",main:{tec:100,pwr:34,shl:180,rng:250,spd:320,itv:1000},tunable:{mwp:1},type:"l",size:"L",cost:125,hp:20,str:-1,tec:3,wlk:1,tgh:2,comment:["バリア弾（実弾属性・爆風属性のみ相殺）　全弾発射不可"]}
 {id:9,name:"ヘルトカイゼルHD",type:"c",size:"L",cost:35,hp:20,tec:-1,wlk:2,fly:2,tgh:2}
 {id:20241003,name:"ヘルトカイゼルHD2",size:"L",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,comment:["ヘルトカイゼル・AB"]}
+{id:202508063,name:"ベルフェゴAM",cost:35,hp:20,str:3,tec:-1,wlk:2,tgh:1,size:"L",comment:[""]}
 
 {id:202310183,name:"マテングHD",size:"L",cost:35,hp:20,str:2,wlk:2,fly:2,tgh:-1,comment:[""]}
   
