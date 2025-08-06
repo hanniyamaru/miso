@@ -195,6 +195,7 @@
 {id:20230809,name:"フィッシェルAM",size:"S",cost:35,hp:20,tec:1,wlk:1,fly:3,comment:["夏祭りイベントオーダー景品"]}
 {id:300,name:"フェアリスAM",cost:35,hp:20,str:1,tec:1,fly:2,tgh:1}
 {id:301,name:"フェアリスAM2",type:"a",cost:85,hp:20,str:-1,tec:3,wlk:1,fly:2,main:{pwr:8,shl:600,rng:275,spd:350,itv:300},tunable:{mwp:1},joint:{wp:1},comment:["ビーム爆風100％　減衰率90％"]}
+{id:202508064,name:"フェアリスAM3",main:{tec:100,pwr:29,shl:240,rng:275,spd:400,itv:800},tunable:{mwp:1},joint:{wp:0},type:"a",size:"SS",cost:165,hp:20,str:-1,tec:3,fly:2,tgh:1,comment:["確率ライトフロスト効果","フェアリス・F"]}
 {id:149,name:"フォースドライブAM",main:{str:100,pwr:20,shl:50,rng:200,spd:570,itv:500},sub:{str:1030,pwr:28,rng:70,spd:85,itv:500},tunable:{pwp:1,mwp:1},type:"lacs",size:"S",cost:105,hp:20,str:2,tec:-1,wlk:2,fly:1,tgh:1,comment:"-",joint:{wp:0}}
 
 {id:202310046,name:"ブラキウスAM",size:"S",cost:35,hp:20,str:1,tec:-1,wlk:1,fly:2,tgh:2,comment:["AURA機構　※変形：空のみ"]}
