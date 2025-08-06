@@ -585,7 +585,7 @@
 {id:32,name:"ビートランダーBS",type:"l",cost:40,hp:20,str:1,tec:2,fly:2}
 
 {id:441,name:"ビクトールBS",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:2,tgh:2,type:"c"}
-{id:202508066,name:"ビクトールBS",type:"c",size:"M",cost:35,hp:20,str:-1,tec:2,fly:3,tgh:1,comment:["ビクトール-GL"]}
+{id:202508066,name:"ビクトールBS2",type:"c",size:"M",cost:35,hp:20,str:-1,tec:2,fly:3,tgh:1,comment:["ビクトールI-GL"]}
 {id:9,name:"ビクトリーBS",type:"c",cost:35,hp:20,tec:1,wlk:1,fly:2,tgh:1}
 {id:58,name:"ビクトリーFBBS",type:"c",cost:35,hp:20,tec:1,wlk:1,fly:2,tgh:1,comment:["ロボガラポン"]}
 {id:20240704,name:"ビルダームBS2",type:"c",cost:170,hp:20,str:-1,tec:4,fly:2,main:{tec:100,pwr:13,shl:1560,rng:330,spd:440,itv:140},tunable:{mwp:1},comment:["チャージ　爆風100％","ビルダーム・ガード"]}
