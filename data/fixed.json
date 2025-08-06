@@ -110,7 +110,8 @@
 {id:202505211,name:"ハンドレッドエッジBD@",type:"l",slot:0,fixedParts:{wp:{name:"レイプロテクター",cost:30,slot:0,comment:["シールド耐久値不明"]}},joint:{wp:1},comment:[""]}
 {id:202505212,name:"ティガバレットBD@",type:"c",main:{tec:100,pwr:0,shl:20,rng:0,spd:10,itv:1000},slot:0,fixedParts:{wp:{name:"ティガキャノン",main:{tec:100,pwr:18,shl:300,rng:350,spd:440,itv:800},sub:{tec:100,pwr:30,shl:0,rng:0,spd:0,itv:1000},cost:110,tunable:{mwp:1},comment:[""],auraStat:{main:{pwr:28,shl:100,rng:300,spd:500,itv:1000},sub:{pwr:38,shl:30,rng:120,spd:190}}}},joint:{wp:1},comment:[""]}
 
-
+{id:202508061,name:"シグナルホイッスルSR",main:{tec:100,pwr:27,shl:340,rng:250,spd:440,itv:500},type:"l",cost:30,tunable:{mwp:1},comment:[""]}
+{id:202508062,name:"シグナルフラッグ",main:{tec:100,pwr:30,shl:20,rng:250,spd:400,itv:1000},type:"l",cost:20,tunable:{mwp:1},comment:["誘導弾　スタン？　WBゲージ回収"]}
 
 
 
