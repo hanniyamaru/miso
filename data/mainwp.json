@@ -393,7 +393,8 @@
 {id:20250319,name:"サウンドビームガン",main:{tec:100,pwr:18,shl:280,rng:275,spd:280,itv:700},tunable:{mwp:1},cost:85,type:"a",size:"S",comment:["①混沌戦「WING OF HOPE」期間限定ランダム報酬","②セイレーンライブオーダー景品","③混沌コイン景品"]}
 {id:202505083,name:"アストロSTG",main:{tec:100,pwr:13,shl:360,rng:275,spd:400,itv:500},tunable:{mwp:1},cost:60,type:"a",size:"M",comment:["飛行ゲージ回収効果","アストロマリーン初期装備"]}
 {id:202506113,name:"チェンジファングライフルR",main:{tec:100,pwr:30,shl:280,rng:250,spd:400,itv:700},sub:{tec:100,pwr:34,shl:0,rng:77,spd:94,itv:1000},tunable:{mwp:1,pwp:1},type:"l",size:"M",cost:160,comment:["メイン：実弾属性爆風100％　自軍貫通","サブ：WLK依存サブ","イベント報酬「VSジュースちゃん！」"]}
-
+{id:2025080631,name:"B-10ベイオネット",main:{str:100,pwr:28,shl:210,rng:225,spd:500,itv:700},sub:{str:100,pwr:33,shl:1200,rng:77,spd:94,itv:1000},tunable:{mwp:1,pwp:1},type:"l",size:"L",cost:220,comment:["ベルフェゴ初期装備"]}
+{id:2025080632,name:"Bシールドガン",main:{str:100,pwr:0,shl:50,rng:0,spd:10,itv:1000},sub:{str:100,pwr:30,shl:20,rng:150,spd:350,itv:1000},tunable:{mwp:1,pwp:0},type:"l",size:"M",cost:70,comment:["ベルフェゴ初期装備"]}
 
 {group:"mainコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 
