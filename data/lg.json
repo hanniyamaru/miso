@@ -745,7 +745,7 @@
 
 {id:20240808,name:"ビートボルテリアスLG",cost:45,hp:45,str:2,wlk:2,tgh:2,type:"l",size:"L",comment:[""]}
 {id:57,name:"ビクトールLG",cost:45,hp:25,str:-1,tec:3,wlk:3,tgh:1}
-
+{id:202508066,name:"ビクトールLG2",size:"L",cost:45,hp:25,str:-1,tec:2,wlk:2,fly:1,tgh:2,comment:["ビクトール-GL"]}
 {id:13,name:"ビッグマンテスLG",cost:50,hp:70,tec:1,wlk:3,fly:1,tgh:1}
 {id:320,name:"ビッグマンテスLG2",sub:{shl:100,rng:0,spd:60,itv:1000},tunable:{pwp:0},type:"a",size:"L",cost:90,hp:70,tec:1,wlk:3,fly:2}
 
