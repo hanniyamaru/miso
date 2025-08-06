@@ -567,6 +567,7 @@
 {id:43,name:"アルバトレオスLG",cost:50,hp:30,str:1,tec:1,wlk:3,fly:2,tgh:-1}
 {id:50,name:"アルバトレオスLG2",cost:50,hp:30,str:-1,tec:1,wlk:3,fly:1,tgh:2}
 {id:20240509,name:"アルバトレオスLG3",cost:50,hp:35,str:-1,tec:1,wlk:3,fly:2,tgh:1,comment:"V-03"}
+{id:202508062,name:"アルビレオンLG",main:{tec:100,pwr:11,shl:660,rng:350,spd:240,itv:700},sub:{tec:100,pwr:14,shl:240,rng:350,spd:280},tunable:{mwp:1},auraStat:{main:{pwr:12,shl:540},sub:{pwr:16,spd:320}},size:"L",type:"c",cost:120,hp:70,str:-1,tec:2,wlk:4,tgh:1,comment:["リンクショット対応"]}
 
 {id:98,name:"アルマダLG",main:{tec:100,pwr:21,shl:300,rng:300,spd:480,itv:600},type:"a",size:"L",cost:125,hp:70,str:-1,tec:2,wlk:3,fly:2,comment:["ビーム属性爆風100％","BS@複合","武器チューン不可"]}
 
