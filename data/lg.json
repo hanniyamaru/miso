@@ -851,7 +851,7 @@
 
 
 {id:202407035,name:"ビッグマンテスTriLG",sub:{pwr:0,shl:150,rng:0,spd:100,itv:1000},type:"a",size:"LL",cost:80,hp:70,str:-1,tec:1,wlk:2,fly:2,tgh:2,comment:[""]}
-
+{id:202508065,name:"ビッグマンテスLG3",sub:{pwr:0,shl:20,rng:0,spd:100,itv:1000},type:"a",size:"LL",cost:100,hp:70,str:-1,tec:1,wlk:1,fly:2,tgh:3,comment:["飛行ゲージ全回復　短時間バリア","フォートレス装着時バリア性能アップ","ULT"]}
 {id:58,name:"ブリガバロンLG",cost:50,hp:70,str:1,tec:-1,wlk:3,tgh:3}
 
 {id:8,name:"マシンドレットLG",cost:50,hp:70,str:2,wlk:3,fly:-1,tgh:2}
