@@ -215,6 +215,7 @@
 {id:61,name:"プラズマビームキャノン",main:{pwr:34,shl:220,rng:275,spd:400,itv:740},cost:180,size:"M",type:"a"}
 {id:29,name:"スターダストキャノン",type:"a",size:"LL",cost:130,main:{pwr:38,shl:240,rng:275,spd:400,itv:900},comment:"結晶コイン景品（20個）"}
 {id:56,name:"ビームポンプバズーカ",main:{pwr:23,shl:240,rng:275,spd:360,itv:760},type:"a",size:"M",cost:100,comment:["STRで範囲変化","エンジェルコイン景品（75個）"]}
+{id:202508065,name:"LLBマインシューター",size:"LL",type:"a",cost:160,main:{tec:100,pwr:37,shl:180,rng:300,spd:320,itv:1200},comment:["ビッグマンテスULT初期装備"]}
 
 {id:68,name:"チャージビームキャノン",main:{pwr:32,shl:150,rng:275,spd:440,itv:1000},type:"a",size:"L",cost:120,comment:["チャージ保持"]}
 {id:168,name:"SBC-ビームキャノン",main:{tec:100,pwr:32,shl:200,rng:275,spd:440,itv:1000},cost:160,type:"a",size:"M",comment:["チャージ保持　ビーム爆風？％　飛行ゲージ回収効果","威力　長：×1.2？　単：×0.5？"]}
