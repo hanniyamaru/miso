@@ -601,8 +601,8 @@
 
 {id:300,name:"フェアリスBS",type:"a",cost:60,hp:25,wlk:2,fly:3,comment:["BS@cost20複合"],sub:{str:100,pwr:0,shl:40,rng:0,spd:160,itv:1000},tunable:{pwp:1}}
 {id:301,name:"フェアリスBS（コンバージョン無し）",type:"a",cost:40,hp:25,wlk:2,fly:3,comment:["コンバージョン無し"]}
-{id:2025080631,name:"フェアリスBS2",sub:{tec:100,pwr:21,shl:200,rng:275,spd:350,itv:1000},type:"a",size:"M",cost:135,hp:20,str:-1,tec:2,wlk:1,fly:3,fixedParts:{wp:{sub:{pwr:0,shl:40,rng:0,spd:160,itv:1000},name:"フェアリスBS@",type:"a",size:"M",cost:20,slot:0,comment:[""]}},joint:{wp:1},comment:[""]}
-{id:2025080632,name:"フェアリスBS2（コンバージョン無し）",sub:{tec:100,pwr:21,shl:200,rng:275,spd:350,itv:1000},type:"a",size:"M",cost:135,hp:20,str:-1,tec:2,wlk:1,fly:3},comment:[""]}
+{id:2025080641,name:"フェアリスBS2",sub:{tec:100,pwr:21,shl:200,rng:275,spd:350,itv:1000},type:"a",size:"M",cost:135,hp:20,str:-1,tec:2,wlk:1,fly:3,fixedParts:{wp:{sub:{pwr:0,shl:40,rng:0,spd:160,itv:1000},name:"フェアリスBS@",type:"a",size:"M",cost:20,slot:0,comment:[""]}},joint:{wp:1},comment:[""]}
+{id:2025080642,name:"フェアリスBS2（コンバージョン無し）",sub:{tec:100,pwr:21,shl:200,rng:275,spd:350,itv:1000},type:"a",size:"M",cost:135,hp:20,str:-1,tec:2,wlk:1,fly:3},comment:[""]}
 
 {id:408,name:"ブラディスターBS",type:"c",cost:40,hp:20,str:1,wlk:2,fly:2}
 {id:202408083,name:"ブラディスターBS2",type:"c",cost:30,hp:15,tec:1,wlk:1,fly:2,comment:"FA"}
