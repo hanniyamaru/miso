@@ -373,7 +373,7 @@
 {id:2022118,name:"スノウマンピッチャー",main:{tec:100,pwr:15,shl:300,rng:275,spd:100,itv:600},size:"M",type:"as",cost:100,comment:["ビーム爆風100％","ウィンターキューブ・バザー出品可能"]}
 {id:202304051,name:"ビームSBピッチャー",main:{tec:100,pwr:20,shl:360,rng:275,spd:100,itv:600},size:"M",type:"a",cost:150,comment:["ビーム爆風100％","Season9アリーナコイン景品"]}
 {id:202203021,name:"ポリウスビームガン",main:{tec:100,pwr:15,shl:360,rng:275,spd:320,itv:500},tunable:{mwp:1},type:"a",size:"M",cost:110,comment:"ピエッタ・ST初期装備"}
-
+{id:20220608,name:"ロッド・オブ・サンダー",main:{tec:100,pwr:1,shl:250,rng:225,spd:280,itv:500},tunable:{mwp:1},type:"lacs",size:"M",cost:10,comment:["誘導弾（爆風あり）","※旧作に存在した相殺機能は削除","梅雨イベントオーダー2022"]}
 
 {id:202203163,name:"バフォグリーズガン",main:{tec:100,pwr:13,shl:660,rng:275,spd:400,itv:300},size:"M",type:"a",cost:85,comment:["ビーム爆風50％","混沌コイン景品（65個）"]}
 
