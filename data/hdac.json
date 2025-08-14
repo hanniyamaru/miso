@@ -27,7 +27,7 @@
 
 {group:"　",nextID:45}
 {id:1701,name:"STR+1.TEC+1.(HD)",str:1,tec:1,slot:1}
-{id:1702,name:"STR+1.WLK+1.(HD)",str:1,wlk:1,slot:1}
+{id:1702,name:"STR+1.WLK+1.(HD)",str:1,wlk:1,slot:1,comment:["ミニパンプキンハット（オータムキューブ）"]}
 {id:1703,name:"STR+1.FLY+1.(HD)",str:1,fly:1,slot:1}
 {id:1704,name:"STR+1.TGH+1.(HD)",str:1,tgh:1,slot:1}
 {id:1705,name:"TEC+1.WLK+1.(HD)",tec:1,wlk:1,slot:1}
