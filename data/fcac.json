@@ -40,8 +40,8 @@
 {group:"　",nextID:45}
 {id:1601,name:"STR+1.HP+10.(FC)",str:1,hp:10,slot:1}
 {id:1602,name:"TEC+1.HP+10.(FC)",tec:1,hp:10,slot:1}
-{id:1603,name:"WLK+1.HP+10.(FC)",wlk:1,hp:10,slot:1,comment:["ハロウィンマント（HW箱？）","メルヘンフード（アクセサリーキューブ）","ワンワンマスク（フレンドチケット）"]}
-{id:1604,name:"FLY+1.HP+10.(FC)",fly:1,hp:10,slot:1,comment:["","ハロウィンマフラー（HW箱？）"]}
+{id:1603,name:"WLK+1.HP+10.(FC)",wlk:1,hp:10,slot:1,comment:["ハロウィンマント（オータムキューブ）","メルヘンフード（アクセサリーキューブ）","ワンワンマスク（フレンドチケット）"]}
+{id:1604,name:"FLY+1.HP+10.(FC)",fly:1,hp:10,slot:1,comment:["","ハロウィンマフラー（オータムキューブ）"]}
 {id:1605,name:"TGH+1.HP+10.(FC)",tgh:1,hp:10,slot:1,comment:["シュバリエヘルム（フレンドチケット）","ファントムマスク（フレンドチケット）"]}
 
 {group:"　",nextID:45}
