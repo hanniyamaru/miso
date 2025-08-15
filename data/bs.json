@@ -334,7 +334,7 @@
 {id:101,name:"ヤクシャBS",main:{pwr:8,shl:540,rng:275,spd:320,itv:1000},tunable:{mwp:1},type:"a",cost:105,hp:20,str:-1,tec:3,fly:3}
 {id:509,name:"ワンダーズBS",type:"s",cost:40,hp:25,str:1,tec:1,wlk:1,fly:3,tgh:-1}
 
-{id:185000,name:"A・ミラルBS",sub:{shl:60,rng:100,spd:150,itv:1000},type:"lc",size:"S",cost:65,hp:20,str:-1,tec:2,wlk:1,fly:3,joint:{wp:1},fixedParts:{wp:{name:"A・ミラルBS@",type:"lc",size:"S",cost:100,tunable:{pwp:0,mwp:1},main:{tec:100,pwr:8,shl:500,rng:250,spd:360,itv:440},tunable:{mwp:1}}}}
+{id:185000,name:"A・ミラルBS",main:{tec:100,pwr:8,shl:500,rng:250,spd:360,itv:440},sub:{shl:60,rng:100,spd:150,itv:1000},type:"lc",size:"S",cost:65,hp:20,str:-1,tec:2,wlk:1,fly:3,joint:{wp:1},tunable:{pwp:0,mwp:0},fixedParts:{wp:{name:"A・ミラルBS@",type:"lc",size:"S",cost:100,tunable:{pwp:0,mwp:1},main:{tec:100,pwr:8,shl:500,rng:250,spd:360,itv:440},tunable:{mwp:1}}},comment:["検索用に武器の数値を仮入力"]}
 {id:185,name:"A・ミラルBS（コンバージョン無し）",sub:{shl:60,rng:100,spd:150,itv:1000},type:"lc",size:"S",cost:65,hp:20,str:-1,tec:2,wlk:1,fly:3,fixedParts:[],tunable:{pwp:0}}
 {id:186000,name:"A・ミラルBS2",main:{tec:100,pwr:8,shl:520,rng:300,spd:300,itv:900},sub:{tec:100,pwr:13,shl:150,rng:225,spd:360,itv:1000},type:"lc",size:"S",cost:195,hp:20,str:-1,tec:3,fly:2,tgh:1,comment:["実弾属性爆風100％","BS@cost+160複合　武器チューン不可","HW"]}
 {id:186,name:"A・ミラルBS2（コンバージョン無し）",type:"lc",size:"S",cost:35,hp:20,str:-1,tec:3,fly:2,tgh:1,fixedParts:[]}
