@@ -647,7 +647,7 @@
 
 {id:66,name:"メディージャーBS",type:"s",cost:40,hp:25,str:1,fly:3,tgh:1}
 
-{id:20250827,name:"ユニクルBS",type:"l",,size:"M"cost:35,hp:20,wlk:1,fly:2,tgh:2,comment:["実弾属性？","イベント宙域「ディメンション・ピアサー」報酬"]}
+{id:20250827,name:"ユニクルBS",type:"l",size:"M",cost:35,hp:20,wlk:1,fly:2,tgh:2,comment:["実弾属性？","イベント宙域「ディメンション・ピアサー」（星灯キューブ）報酬"]}
 {id:130,name:"ユングヴィBS",main:{tec:100,pwr:11,shl:460,rng:275,spd:280,itv:780},tunable:{mwp:0},cost:115,hp:20,str:-1,tec:2,wlk:1,fly:3,type:"a",size:"M",comment:["BS@省略・武器チューン不可"]}
 {id:202502054,name:"ユングヴィBS2",main:{tec:100,pwr:13,shl:480,rng:300,spd:350,itv:800},tunable:{mwp:0},cost:105,hp:20,str:-1,tec:2,wlk:0,fly:4,type:"a",size:"M",comment:["飛行ゲージ回復効果","BS@省略・武器チューン不可"]}
 
