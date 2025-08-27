@@ -320,11 +320,13 @@
 {id:6,name:"ハンドレーザー",type:"as",size:"M",cost:60,main:{pwr:8,shl:960,rng:200,spd:480,itv:100},comment:["ダメージ0.7倍",""]}
 {id:7,name:"レーザー",type:"a",size:"M",cost:100,main:{pwr:11,shl:1020,rng:200,spd:480,itv:100},comment:["ダメージ0.7倍",""]}
 {id:11,name:"プロトンレーザー",type:"a",size:"L",cost:160,main:{pwr:14,shl:1020,rng:200,spd:480,itv:100},comment:["ダメージ0.7倍",""]}
-{id:10,name:"パワードレーザー",type:"a",size:"L",cost:150,main:{pwr:16,shl:750,rng:200,spd:480,itv:100},comment:["ダメージ0.7倍","結晶コイン景品（20個）"]}
-{id:20211031,name:"グラヴィトンカノンα",main:{pwr:17,shl:650,rng:250,spd:480,itv:100},tunable:{mwp:0},joint:{wp:1},fixedParts:{wp:[{main:{pwr:9,shl:600,rng:275,spd:480,itv:900},name:"グラヴィトンカノン@2",slot:0,comment:["BEAM RIFLE","ライフル弾・追撃弾は同威力"]}]},type:"a",cost:180,size:"M",comment:["LASER","ダメージ0.7倍？　武器チューン不可","ナイトギアディスク"]}
+{id:10,name:"パワードレーザー",type:"a",size:"L",cost:150,main:{pwr:16,shl:750,rng:200,spd:480,itv:100},comment:["ダメージ0.7倍　チャージ","結晶コイン景品（20個）"]}
+{id:20211031,name:"グラヴィトンカノンα",main:{pwr:17,shl:650,rng:250,spd:480,itv:100},tunable:{mwp:0},joint:{wp:1},fixedParts:{wp:[{main:{pwr:9,shl:600,rng:275,spd:480,itv:900},name:"グラヴィトンカノン@2",slot:0,comment:["BEAM RIFLE","ライフル弾・追撃弾は同威力"]}]},type:"a",cost:180,size:"M",comment:["LASER","ダメージ0.7倍？　チャージ　武器チューン不可","ナイトギアディスク"]}
 {id:12,name:"レーザーライフル",type:"a",size:"M",cost:130,main:{pwr:11,shl:420,rng:275,spd:480,itv:100},comment:["ダメージ0.7倍",""]}
 {id:2022113,name:"ハドロンシューター",type:"lc",size:"M",cost:160,main:{pwr:15,shl:1040,rng:180,spd:480,itv:100},comment:["ダメージ0.7倍","スキロン初期装備"]}
 {id:18,name:"スクイドルガン",main:{tec:100,pwr:6,shl:1050,rng:180,spd:480,itv:100},tunable:{mwp:1,pwp:0},type:"s",size:"M",cost:50,comment:["ディスオーダー効果　ダメージ0.7倍？","スクイドルガールα初期装備"]}
+{id:202508271,name:"デルトレインレーザー",type:"a",size:"L",cost:180,main:{tec:100,pwr:14,shl:1600,rng:225,spd:480,itv:100},comment:["ダメージ0.7倍？　チャージ　減衰率？％　全弾発射不可","イベント宙域「ディメンション・ピアサー」報酬"]}
+
 {group:"非照射",prefixID:"LS",commonStat:{tunable:{mwp:1}},nextID:1}
 
 {id:19,name:"パンプキンバーナー",type:"l",size:"M",cost:150,main:{pwr:9,shl:1200,rng:160,spd:480,itv:100},comment:["貫通+確率バーニング効果","R・B共通　イベント中域ヴァンピレ",""]}
