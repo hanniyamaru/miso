@@ -1188,7 +1188,7 @@
 {id:15,name:"コメットランチャーAMJ",type:"c",size:"M",cost:50,slot:1,main:{pwr:8,shl:440,rng:330,spd:320,itv:340},tunable:{mwp:1},comment:"イルミス初期装備"}
 
 {id:33,name:"サイコフォーミュラAMJ",main:{pwr:7,shl:560,rng:330,spd:300,itv:740},cost:40,slot:1,size:"S",type:"c",tunable:{mwp:1},comment:"サイコフォーミュラ轟"}
-{id:202508272,name:"シーカーミサイルAMJ",main:{tec:100,pwr:19,shl:320,rng:250,spd:350,itv:600},tunable:{mwp:1},type:"lc",size:"M",cost:60,slot:1,comment:["実弾属性？","イベント宙域「ディメンション・ピアサー」報酬"]}
+{id:202508272,name:"シーカーミサイルAMJ",main:{tec:100,pwr:19,shl:320,rng:250,spd:350,itv:600},tunable:{mwp:1},type:"lc",size:"M",cost:60,slot:1,comment:["実弾属性爆風100％","イベント宙域「ディメンション・ピアサー」報酬"]}
 {id:41,name:"シュトルバンガーAMJ",main:{pwr:10,shl:240,rng:300,spd:400,itv:800,tec:100},type:"c",size:"L",cost:30,slot:1,tunable:{mwp:1},comment:["一斉射撃時長CT","爆風90％？"]}
 {id:202312063,name:"スノーボールAMJ",main:{pwr:15,shl:250,rng:330,spd:355,itv:660},tunable:{mwp:1},type:"c",size:"M",cost:60,slot:1,comment:["","冬まつりオーダー景品"]}
 
