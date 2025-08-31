@@ -749,7 +749,7 @@
 {id:95,name:"モールニードスHD",cost:40,hp:25,wlk:2,fly:2,tgh:1}
 
 {id:20250827,name:"ユニクルHD",type:"lacs",size:"M",cost:35,hp:20,str:-1,tec:3,wlk:2,tgh:1,comment:["イベント宙域「ディメンション・ピアサー」（星灯キューブ）報酬"]}
-{id:202508292,name:"ユニクルHD2",sub:{tec:100,pwr:28,shl:120,rng:250,spd:310,itv:1000},cost:85,hp:20,str:-1,tec:1,wlk:3,fly:0,tgh:2,type:"lc",size:"M",comment:["","イベント宙域「ディメンション・ピアサー」（星灯キューブ）報酬","ユニクル（DR）専用コンバージョンパーツ"]}
+{id:202508292,name:"ユニクルHD2",sub:{tec:100,pwr:28,shl:120,rng:250,spd:310,itv:1000},cost:85,hp:20,str:-1,tec:1,wlk:3,fly:0,tgh:2,type:"lc",size:"M",comment:["","イベント宙域「ディメンション・ピアサー」（星灯キューブ）報酬",""]}
 {id:294,name:"ユングヴィHD",type:"lacs",cost:35,hp:20,str:2,wlk:-1,fly:1,tgh:3}
 {id:202502054,name:"ユングヴィHD2",type:"a",size:"M",cost:75,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,main:{tec:100,pwr:7,shl:980,rng:160,spd:480,itv:140},tunable:{mwp:1},comment:["減衰率？％",""]}
 
