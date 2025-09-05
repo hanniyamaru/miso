@@ -337,7 +337,7 @@
 {id:2025050831,name:"アストロマリーンAM2",main:{tec:100,pwr:7,shl:1530,rng:275,spd:350,itv:140},tunable:{mwp:1},type:"a",size:"M",cost:65,hp:20,str:-1,tec:3,fly:1,tgh:2,joint:{wp:0},comment:["誘導弾","アストロアームユニット専用コンバージョンパーツ"]}
 
 {id:76,name:"アハトジーベンAM",main:{pwr:4,shl:900,rng:300,spd:360,itv:140},tunable:{mwp:1},type:"lc",cost:85,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,joint:{wp:0}}
-{id:84,name:"アハトジーベンAM2",main:{pwr:11,shl:990,rng:200,spd:480,itv:100},joint:{wp:0},type:"lc",cost:85,hp:20,str:-1,tec:3,wlk:2,tgh:1,tunable:{mwp:1},comment:"EF"}
+{id:84,name:"アハトジーベンAM2",main:{pwr:11,shl:990,rng:200,spd:480,itv:100},joint:{wp:0},type:"lc",cost:85,hp:20,str:-1,tec:3,wlk:2,tgh:1,tunable:{mwp:1},comment:["ダメージ0.7倍？　貫通+確率炎上効果","※チューン・クラフト以外の射程延長効果は適用されない","EF"]}
 {id:2022090991,name:"アハトジーベンAM3",main:{pwr:13,shl:390,rng:330,spd:260,itv:500},joint:{wp:0},type:"c",cost:70,hp:15,str:-1,tec:3,fly:1,tgh:1,tunable:{mwp:1},comment:["アハトジーベンEL","ANTIAIR MISSILE"]}
 
 {id:49,name:"アマテウスAM",cost:40,hp:25,tec:1,wlk:2,tgh:2}
