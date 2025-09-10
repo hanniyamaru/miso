@@ -767,7 +767,7 @@
 {id:20221103,name:"ガトマーレAM",type:"l",size:"L",cost:120,hp:25,str:3,tec:-1,wlk:1,tgh:2,main:{str:100,pwr:10,shl:30,rng:200,spd:500,itv:500},sub:{str:100,pwr:30,shl:0,rng:120,spd:250,itv:1000},tunable:{mwp:1,pwp:1},joint:{wp:1},comment:"トビット省略"}
 {id:3,name:"ガナハウンドAM",type:"l",cost:135,hp:25,str:3,tec:-1,wlk:1,tgh:2,sub:{str:100,pwr:32,rng:70,spd:85,itv:500},tunable:{pwp:1},comment:"シールド無視効果"}
 {id:202211033,name:"ガナハウンドAM2",type:"l",size:"L",cost:170,hp:20,str:2,tec:-1,wlk:2,tgh:2,main:{tec:100,pwr:0,shl:25,rng:0,spd:10,itv:1000},sub:{str:100,pwr:32,shl:0,rng:56,spd:68,itv:1000},tunable:{mwp:1,pwp:1}}
-{id:202509105,name:"ガナハウンドAM3",sub:{str:100,pwr:34,shl:20,rng:77,spd:94,itv:1000},tunable:{pwp:1},type:"l",size:"L",cost:125,hp:20,str:3,tec:-1,wlk:1,tgh:2,comment:["両腕装備時？受け流し（上位カウンター？）","激"]}
+{id:202509105,name:"ガナハウンドAM3",sub:{str:100,pwr:34,shl:20,rng:77,spd:94,itv:1000},tunable:{pwp:1},type:"l",size:"L",cost:125,hp:20,str:3,tec:-1,wlk:1,tgh:2,comment:["両腕装備時？受け流し（上位カウンター？）","WLK依存サブ","激"]}
 
 {id:80,name:"ガルスチールAM",auraStat:{str:1,tec:1,wlk:2,fly:2,tgh:-1},cost:35,hp:20,str:1,tec:1,wlk:2,fly:2,tgh:-1}
 {id:81,name:"ガルスチールAM2",main:{tec:100,pwr:10,shl:1200,rng:350,spd:520,itv:180},tunable:{mwp:1},joint:{wp:0},auraStat:{main:{tec:100,pwr:10,shl:1200,rng:350,spd:520,itv:160},str:-1,tec:2,wlk:2,fly:2},cost:165,hp:20,str:-1,tec:2,wlk:2,fly:2,type:"c",size:"L",comment:["AURA機構"]}
