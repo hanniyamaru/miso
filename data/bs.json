@@ -796,6 +796,7 @@
 
 {id:202303092,name:"ジョストガンダーBS",type:"l",size:"L",cost:35,hp:20,str:1,wlk:1,fly:3,comment:["",""]}
 {id:202411061,name:"ジルドギガスBS",main:{tec:100,pwr:5,shl:960,rng:330,spd:300,itv:300},tunable:{mwp:1},cost:105,hp:20,str:0,tec:1,wlk:1,fly:1,tgh:2,type:"c",size:"L",comment:[""]}
+{id:202509104,name:"ジルドギガスBS2",sub:{tec:100,pwr:38,shl:80,rng:330,spd:290,itv:1000},tunable:{pwp:0},cost:75,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,type:"c",size:"L",comment:["ジルドギガス・CA"]}
 
 {id:20240111,name:"シンゲンBS",type:"l",size:"L",cost:35,hp:20,str:0,tec:0,wlk:1,fly:3,tgh:1,comment:[""]}
 
