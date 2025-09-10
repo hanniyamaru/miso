@@ -291,7 +291,8 @@
 {id:20221103,name:"ガトマーレHD",size:"M",cost:40,hp:25,str:1,tec:1,wlk:2,tgh:1}
 
 {id:14,name:"ガナハウンドHD",cost:40,hp:25,str:1,tec:2,wlk:1,fly:1}
-{id:202211033,name:"ガナハウンドHD2",size:"M",cost:30,hp:15,str:2,wlk:1,fly:-1,tgh:2,comment:"ガナハウンド覇"}
+{id:202211033,name:"ガナハウンドHD2",size:"M",cost:30,hp:15,str:2,wlk:1,fly:-1,tgh:2,comment:"覇"}
+{id:202509105,name:"ガナハウンドHD3",size:"M",cost:35,hp:20,str:2,tec:-1,wlk:2,fly:0,tgh:2,comment:["激"]}
 
 {id:187,name:"ガルスチールHD",cost:40,hp:25,str:2,fly:2,tgh:1}
 {id:20220710,name:"ガルスチールHD2",cost:30,hp:15,tec:2,wlk:2,comment:["ガルスチール・ハウル"]}
