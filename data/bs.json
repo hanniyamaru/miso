@@ -190,6 +190,7 @@
 {id:13,name:"ソードウィングBS",type:"a",cost:35,hp:20,wlk:1,fly:4}
 {id:202402093,name:"ソードウィングBS2",sub:{tec:100,pwr:0,shl:60,rng:0,spd:200,itv:1000},cost:65,hp:20,str:-1,tec:2,fly:4,type:"a",size:"S",comment:["","ソードウィング・L"]}
 
+{id:202509103,name:"ターンキッカー1620BS",main:{tec:100,pwr:9,shl:640,rng:275,spd:480,itv:600},type:"a",size:"S",cost:105,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,tunable:{mwp:1},comment:["リコチェット系？","飛行ゲージ回復効果"]}
 {id:20231018,name:"タラバトロンBS",size:"S",type:"l",cost:35,hp:20,tec:1,wlk:1,fly:3,comment:[""]}
 
 {id:18,name:"タラントリックBS",type:"s",cost:35,hp:20,wlk:1,fly:3,tgh:1}
