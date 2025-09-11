@@ -317,6 +317,7 @@
 {id:2,name:"バーナー",type:"lcs",size:"M",cost:85,main:{pwr:13,shl:1160,rng:140,spd:480,itv:100},comment:["ダメージ0.7倍　貫通+確率バーニング効果","※チューン・クラフト以外の射程延長効果は適用されない"]}
 {id:3,name:"ロングバーナー",type:"cs",size:"L",cost:150,main:{pwr:16,shl:980,rng:180,spd:480,itv:100},comment:["ダメージ0.7倍　貫通+確率バーニング効果","欲望コイン景品（13個）","※チューン・クラフト以外の射程延長効果は適用されない"]}
 {id:4,name:"セラミックバーナー",type:"l",size:"M",cost:150,main:{pwr:18,shl:1200,rng:140,spd:480,itv:100},comment:["ダメージ0.7倍　貫通+確率バーニング効果","※チューン・クラフト以外の射程延長効果は適用されない"]}
+{id:202509111,name:"トランク",type:"s",size:"SS",cost:140,main:{pwr:17,shl:1080,rng:160,spd:480,itv:100},comment:["？倍　貫通+確率バーニング効果","※チューン・クラフト以外の射程延長効果は適用されない","NPCリエル（ステーションディスク景品・エンジェルコイン×50）"]}
 
 {id:6,name:"ハンドレーザー",type:"as",size:"M",cost:60,main:{pwr:8,shl:960,rng:200,spd:480,itv:100},comment:["ダメージ0.7倍","※チューン・クラフト以外の射程延長効果は適用されない"]}
 {id:7,name:"レーザー",type:"a",size:"M",cost:100,main:{pwr:11,shl:1020,rng:200,spd:480,itv:100},comment:["ダメージ0.7倍","※チューン・クラフト以外の射程延長効果は適用されない"]}
@@ -399,6 +400,7 @@
 {id:202506113,name:"チェンジファングライフルR",main:{tec:100,pwr:30,shl:280,rng:250,spd:400,itv:700},sub:{tec:100,pwr:34,shl:0,rng:77,spd:94,itv:1000},tunable:{mwp:1,pwp:1},type:"l",size:"M",cost:160,comment:["メイン：実弾属性爆風100％　自軍貫通","サブ：WLK依存サブ","イベント報酬「VSジュースちゃん！」"]}
 {id:2025080631,name:"B-10ベイオネット",main:{str:100,pwr:28,shl:210,rng:225,spd:500,itv:700},sub:{str:100,pwr:33,shl:1200,rng:77,spd:94,itv:1000},tunable:{mwp:1,pwp:1},type:"l",size:"L",cost:220,comment:["ベルフェゴ初期装備"]}
 {id:2025080632,name:"Bシールドガン",main:{str:100,pwr:0,shl:50,rng:0,spd:10,itv:1000},sub:{str:100,pwr:30,shl:20,rng:150,spd:350,itv:1000},tunable:{mwp:1,pwp:0},type:"l",size:"M",cost:70,comment:["ベルフェゴ初期装備"]}
+{id:202509112,name:"トラベルブック",type:"as",size:"S",cost:85,main:{pwr:19,shl:280,rng:275,spd:240,itv:700},comment:["ビーム属性","NPCリエル（ステーションディスク景品・エンジェルコイン×50）"]}
 
 {group:"mainコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 
