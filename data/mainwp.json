@@ -617,7 +617,7 @@
 
 {group:"タイラントデストラクトコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:20220523,name:"タイラントデストラクトBD@",main:{tec:100,pwr:[13,14,15],shl:540,rng:[350,365,380],spd:[290,310,330],itv:800},tunable:{mwp:0},slot:0,type:"c",size:"L",cost:120,comment:["双発（‥）　接触判定：有り","ANTIAIR MISSILE","タイラントデストラクト専用コンバージョンパーツ",""]}
-{id:202205231,name:"タイラントデストラクトBD@2",sub:{tec:100,pwr:[9,10,11],shl:400,rng:[350,365,380],spd:290,itv:1000},tunable:{mwp:0},slot:0,type:"c",size:"L",cost:120,comment:["サブロック数：2　コンボ数：2","タイラントデストラクト専用コンバージョンパーツ"]}
+{id:202205231,name:"タイラントデストラクトBD@2",sub:{tec:100,pwr:[9,10,11],shl:400,rng:[350,365,380],spd:290,itv:1000},tunable:{mwp:0},slot:0,type:"c",size:"L",cost:120,comment:["サブロック数：2　コンボ数：2","分裂数：4","タイラントデストラクト専用コンバージョンパーツ"]}
 
   
 {group:"ティタニア デルタコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
