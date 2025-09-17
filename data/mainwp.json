@@ -427,9 +427,6 @@
 {id:202204173,name:"スタンホーミングビーム",main:{str:100,pwr:5,shl:100,rng:275,spd:320,itv:500},type:"a",size:"S",cost:35,comment:"クレアモルテBD専用コンバージョンパーツ",tunable:{mwp:1}}
 
 
-{id:20220523,name:"タイラントデストラクトBD@",main:{tec:100,pwr:[13,14,15],shl:540,rng:[350,365,380],spd:[290,310,330],itv:800},tunable:{mwp:0},slot:0,type:"c",size:"L",cost:120,comment:["双発（‥）　接触判定：有り","ANTIAIR MISSILE","タイラントデストラクト専用コンバージョンパーツ",""]}
-
-{id:202205231,name:"タイラントデストラクトBD@2",sub:{tec:100,pwr:[9,10,11],shl:400,rng:[350,365,380],spd:290,itv:1000},tunable:{mwp:0},slot:0,type:"c",size:"L",cost:120,comment:["タイラントデストラクト専用コンバージョンパーツ",""]}
 {id:202212082,name:"トリニティブレード",type:"l",size:"S",cost:210,main:{str:100,pwr:19,shl:340,rng:250,spd:440,itv:400},sub:{str:100,pwr:32,rng:70,spd:85,itv:1000},tunable:{mwp:1,pwp:1},comment:["ジェイスAM2専用コンバージョン"]}
 
 {id:202208031,name:"パラセクター・アシスBD@",type:"l",cost:50,main:{str:100,pwr:32,shl:15,rng:0,spd:10,itv:700},slot:0}
@@ -618,6 +615,11 @@
 {id:20220316,name:"レヴナントソード",size:"M",cost:120,sub:{str:100,pwr:32,rng:75,spd:85,itv:1000},type:"l",tunable:{mwp:0,pwp:1},comment:"ダークレヴナントAM専用コンバージョンパーツ"}
 {id:202203162,name:"レヴナントダート",size:"M",cost:30,main:{str:100,pwr:15,shl:50,rng:200,spd:500,itv:1000},type:"l",slot:3,tunable:{pwp:0},comment:"ダークレヴナントAM専用コンバージョンパーツ"}
 
+{group:"タイラントデストラクトコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
+{id:20220523,name:"タイラントデストラクトBD@",main:{tec:100,pwr:[13,14,15],shl:540,rng:[350,365,380],spd:[290,310,330],itv:800},tunable:{mwp:0},slot:0,type:"c",size:"L",cost:120,comment:["双発（‥）　接触判定：有り","ANTIAIR MISSILE","タイラントデストラクト専用コンバージョンパーツ",""]}
+{id:202205231,name:"タイラントデストラクトBD@2",sub:{tec:100,pwr:[9,10,11],shl:400,rng:[350,365,380],spd:290,itv:1000},tunable:{mwp:0},slot:0,type:"c",size:"L",cost:120,comment:["サブロック数：2　コンボ数：2","タイラントデストラクト専用コンバージョンパーツ"]}
+
+  
 {group:"ティタニア デルタコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:202501171,name:"コンバットナイフ Type.Δ",size:"S",cost:70,sub:{tec:100,pwr:34,shl:10,rng:105,spd:128,itv:1000},type:"l",tunable:{mwp:0,pwp:1},comment:["パリィ","専用WB発動時：威力1.1倍","ティタニア デルタ専用コンバージョンパーツ"]}
 {id:202501291,name:"ショットガン Type.Δ",size:"S",cost:130,main:{tec:100,pwr:21,shl:1170,rng:160,spd:480,itv:900},type:"l",tunable:{mwp:1,pwp:0},comment:["発射数：9　減衰率：？　自軍貫通","専用WB発動時：集弾性向上","ティタニア デルタ専用コンバージョンパーツ"]}
