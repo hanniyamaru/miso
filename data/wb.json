@@ -7,7 +7,7 @@
 {id:2,name:"3ウェイビットD",type:"ls",comment:["STR1/TEC1or2：威力（ソード34　ダガー29）18秒","STR1/TEC40：威力（ソード28　ダガー24）15秒","STR40/TEC40：威力（ソード46　ダガー41）31秒"]}
 {id:3,name:"ソードビット",comment:["STR1/TEC1or2：威力34","STR1/TEC40：威力28","STR40/TEC40：威力46"]}
 {id:4,name:"スレイヤービット",comment:["STR1/TEC1or2：威力29","STR1/TEC40：威力24","STR40/TEC40：威力41"]}
-{id:5,name:"スレイヤービットD",type:"l",comment:["STR1/TEC1or2：威力？","STR1/TEC40：威力？","STR40/TEC40：威力41"]}
+{id:5,name:"スレイヤービットD",type:"l",comment:["STR1/TEC1or2：威力29","STR1/TEC40：威力24","STR40/TEC40：威力41"]}
 {id:6,name:"アクスビットD",type:"ls",comment:["STR1/TEC1or2：威力？","STR1/TEC40：威力？","STR40/TEC40：威力32*2","ミッションコイン景品5/50"]}
 {id:7,name:"ランスビットD",type:"ls"}
 {id:8,name:"ソードアクスビット",type:"ls"}
