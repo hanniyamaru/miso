@@ -10,6 +10,7 @@
 {id:5,name:"スレイヤービットD",type:"l",comment:["STR1/TEC1or2：威力29","STR1/TEC40：威力24","STR40/TEC40：威力41"]}
 {id:202509211,name:"アクスビット",type:"lacs",comment:["STR1/TEC1or2：威力23*2","STR1/TEC40：威力19*2","STR40/TEC40：威力32*2",""]}
 {id:6,name:"アクスビットD",type:"ls",comment:["STR1/TEC1or2：威力23*2","STR1/TEC40：威力19*2","STR40/TEC40：威力32*2","ミッションコイン景品5/50"]}
+{id:202509212,name:"ランスビット",type:"lacs",comment:["STR1/TEC1or2：威力29","STR1/TEC40：威力24","STR40/TEC40：威力41",""]}
 {id:7,name:"ランスビットD",type:"ls"}
 {id:8,name:"ソードアクスビット",type:"ls"}
 {id:9,name:"ペペンビット",cost:0}
