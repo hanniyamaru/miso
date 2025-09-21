@@ -3,7 +3,7 @@
 
 {group:"追従格闘",prefixID:"FP",nextID:11}
 {id:202505021,name:"スパイクビット",type:"las",comment:["※命中時相手は僅かな時間、格闘攻撃を無効化する状態になる","STR1/TEC1or2：威力31","STR1/TEC40：威力26","STR40/TEC40：威力44",""]}
-{id:1,name:"スパイクビットD",type:"ls",comment:["※命中時相手は僅かな時間、格闘攻撃を無効化する状態になる","STR1/TEC1or2：威力25","STR1/TEC40：威力21","STR40/TEC40：威力35","ミッションコイン景品5/50"]}
+{id:1,name:"スパイクビットD",type:"ls",comment:["※命中時相手は僅かな時間、格闘攻撃を無効化する状態になる","STR1/TEC1or2：威力25","STR1/TEC40：威力21","STR40/TEC40：威力35","ミッションコイン景品（ｺｲﾝ5個→WB50）"]}
 {id:2,name:"3ウェイビットD",type:"ls",comment:["STR1/TEC1or2：威力（ソード34　ダガー29）18秒","STR1/TEC40：威力（ソード28　ダガー24）15秒","STR40/TEC40：威力（ソード46　ダガー41）31秒"]}
 {id:3,name:"ソードビット",comment:["STR1/TEC1or2：威力34","STR1/TEC40：威力28","STR40/TEC40：威力46"]}
 {id:4,name:"スレイヤービット",comment:["STR1/TEC1or2：威力29","STR1/TEC40：威力24","STR40/TEC40：威力41"]}
@@ -13,9 +13,14 @@
 {id:202509212,name:"ランスビット",type:"lacs",comment:["STR1/TEC1or2：威力29","STR1/TEC40：威力24","STR40/TEC40：威力41",""]}
 {id:7,name:"ランスビットD",type:"ls",comment:["STR1/TEC1or2：威力29","STR1/TEC40：威力24","STR40/TEC40：威力41",""]}
 {id:8,name:"ソードアクスビット",type:"ls",comment:["STR1/TEC1or2：威力（ソード34　アクス23*2）","STR1/TEC40：威力（ソード28　アクス19*2）","STR40/TEC40：威力（ソード46　アクス32*2）"]}
-{id:9,name:"ペペンビット",cost:0}
-{id:10,name:"ペペンビットD",cost:0}
-{id:11,name:"ベルゼフライビット",cost:0}
+{id:9,name:"ペペンビット",cost:0,comment:["STR1/TEC1or2：威力29","STR1/TEC40：威力24","STR40/TEC40：威力41","クエストコイン景品（ｺｲﾝ15個→WB50個）"]}
+{id:10,name:"ペペンビットD",cost:0,comment:["STR1/TEC1or2：威力29","STR1/TEC40：威力24","STR40/TEC40：威力41","クエストコイン景品（ｺｲﾝ15個→WB30個）"]}
+{id:202509213,name:"マニモビット",type:"lacs",comment:["STR1/TEC1or2：威力29","STR1/TEC40：威力24","STR40/TEC40：威力41",""]}
+{id:202509214,name:"マニモビットD",type:"lacs",comment:["STR1/TEC1or2：威力29","STR1/TEC40：威力24","STR40/TEC40：威力41",""]}
+
+{id:11,name:"ベルゼフライビット",cost:0,comment:["STR1/TEC1or2：威力29","STR1/TEC40：威力24","STR40/TEC40：威力41",""]}
+
+
 
 {group:"追従射撃",prefixID:"FS",nextID:10}
 {id:1,name:"ミサイルビットD",type:"cs",cost:0}
