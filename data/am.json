@@ -135,7 +135,7 @@
 {id:24,name:"タラントリックAM",cost:35,hp:20,str:1,tec:1,wlk:2,tgh:1}
 
 {id:2677,name:"ダルマスターAM",cost:35,hp:20,str:1,tec:2,wlk:1,tgh:1}
-{id:202310187,name:"ダルマスターAM2",main:{tec:100,pwr:21,shl:270,rng:300,spd:360,itv:700},tunable:{mwp:1},size:"SS",type:"cs",cost:75,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,joint:{wp:0},comment:["ウェイストブースター効果　補：確定　砲：確率　","",""]}
+{id:202310187,name:"ダルマスターAM2",main:{tec:100,pwr:21,shl:270,rng:300,spd:360,itv:700},tunable:{mwp:1},size:"SS",type:"cs",cost:75,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,joint:{wp:0},comment:["ウェイストブースター効果　補：確定　砲：確率　","※弾速を上げると非ロック時僅かに飛距離が伸びる？",""]}
 
 {id:26,name:"ディカロスAM",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1}
 {id:27,name:"ディカロスAM2",type:"a",cost:165,hp:20,str:-1,tec:3,fly:2,tgh:1,main:{pwr:7,shl:900,rng:275,spd:350,itv:600},sub:{pwr:7,shl:150,rng:275,spd:350,itv:1000},tunable:{mwp:1},joint:{wp:0}}
@@ -438,7 +438,7 @@
 {id:1362,name:"ギャラクシーコマンドAM2（コンバージョンなし）",main:{pwr:19,shl:600,rng:300,spd:400,itv:300},joint:{wp:0},tunable:{mwp:1},auraStat:{main:{pwr:30,shl:300,rng:350,spd:440,itv:500}},type:"c",cost:165,hp:20,str:-1,tec:4,wlk:1,tgh:1}
 {id:20240718,name:"ギャラクシーデカAM",cost:35,hp:20,str:2,wlk:2,tgh:1,size:"M",comment:["","夏祭りキューブ"]}
 {id:202407181,name:"ギャラクシーデカAM2",main:{tec:100,pwr:14,shl:770,rng:250,spd:400,itv:200},cost:135,hp:20,str:-1,tec:3,wlk:1,tgh:2,type:"l",size:"M",tunable:{mwp:1},joint:{wp:0},comment:["減衰率？％　チャージ　貫通弾","夏祭りキューブ"]}
-{id:101,name:"クアドラAM",main:{tec:100,pwr:21,shl:260,rng:330,spd:400,itv:700},tunable:{mwp:1},cost:75,hp:20,tec:2,wlk:1,fly:1,tgh:1,joint:{wp:0},type:"c",size:"M"}
+{id:101,name:"クアドラAM",main:{tec:100,pwr:21,shl:260,rng:330,spd:400,itv:700},tunable:{mwp:1},cost:75,hp:20,tec:2,wlk:1,fly:1,tgh:1,joint:{wp:0},type:"c",size:"M",comment:["※弾速を上げると非ロック時僅かに飛距離が伸びる？","[MINE]"]}
 
 {id:202504024,name:"グランダグドライバーAM",type:"c",size:"M",joint:{wp:0},cost:125,hp:20,str:-1,tec:4,wlk:0,tgh:2,main:{tec:100,pwr:13,shl:480,rng:330,spd:280,itv:1000},sub:{tec:100,pwr:34,shl:0,rng:80,spd:150,itv:1000},tunable:{mwp:1,pwp:1},comment:["メイン：一部TGH減衰無視","サブ：チューン可否不明"]}
 
