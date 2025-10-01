@@ -312,6 +312,10 @@
 {id:202306086,name:"ドリルパワー",sub:{pwr:32,rng:77,spd:94,itv:1000,str:100},tunable:{pwp:1},slot:0,type:"l",size:"S",cost:140,comment:"ピナ･ルベリーBD専用コンバージョンパーツ"}
 {id:202306087,name:"ピナテール",fixedParts:{wp:{name:"ディグドリル",main:{str:100,pwr:25,shl:50,rng:200,spd:500,itv:1000},sub:{pwr:18,shl:50,rng:200,spd:300,itv:500,str:100},type:"l",size:"M",slot:0}},type:"l",size:"M",cost:100,slot:0,comment:"ピナ･ルベリーLG専用コンバージョンパーツ",joint:{wp:1},sub:{str:100}}
 
+{group:"リーレイコンバージョン",prefixID:"MOx",commonStat:{tunable:{pwp:1}},nextID:17}
+{id:2025100131,name:"リーレイAM@",sub:{tec:100,pwr:36,shl:0,rng:77,spd:102,itv:1000},size:"S",type:"l",cost:40,tunable:{pwp:1},comment:["リーレイ装備時、一部TGH減衰無視","威力はSTR TECの高い方に依存","リーレイAM系専用コンバージョンパーツ"]}
+{id:2025100132,name:"リーレイAM@2",sub:{tec:100,pwr:50,shl:0,rng:0,spd:200,itv:1000},size:"S",type:"l",cost:20,tunable:{pwp:1},comment:["サブチューン可否不明","自動捕捉　リーレイ装備時、CT減少","威力はSTR TECの高い方に依存","リーレイAM系専用コンバージョンパーツ"]}
+
 {group:"リティアコンバージョン",prefixID:"MOx",commonStat:{tunable:{pwp:1}},nextID:17}
 {id:202306152,name:"カルトスウィング@",main:{str:100,pwr:5,shl:1200,rng:275,spd:300,itv:300},tunable:{mwp:1},cost:70,type:"a",size:"S",comment:"カルトスウィング専用コンバージョンパーツ"}
 {id:202306153,name:"カルトスソード",sub:{str:100,pwr:28,shl:0,rng:77,spd:94,itv:1000},cost:120,type:"a",size:"S",comment:["FLY依存サブ","リティアAM2専用コンバージョンパーツ"]}
