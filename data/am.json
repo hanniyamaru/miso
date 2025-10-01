@@ -250,7 +250,8 @@
 
 {id:20220426,name:"ラビスリープAM",size:"S",cost:35,hp:20,str:1,wlk:2,fly:1,tgh:1,comment:"イースターイベント景品"}
 {id:155,name:"リーゼルAM",size:"S",cost:35,hp:20,str:-1,tec:2,wlk:2,fly:1,tgh:1,comment:"AM2と同性能"}
-
+{id:202510013,name:"リーレイAM",main:{tec:100,pwr:21,shl:400,rng:250,spd:400,itv:500},size:"S",type:"l",cost:105,hp:20,str:-1,tec:3,wlk:1,fly:0,tgh:2,tunable:{mwp:1},comment:["リンクショット対応　リーレイ装備時威力1.2倍","威力はSTR TECの高い方に依存"]}
+{id:2025100132,name:"リーレイAM2",main:{tec:100,pwr:10,shl:720,rng:200,spd:350,itv:800},size:"S",type:"l",cost:105,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,tunable:{mwp:1},comment:["リンクショット対応　リーレイ装備時威力1.2倍","威力はSTR TECの高い方に依存"]}
 {id:126,name:"リフィAM",cost:35,hp:20,str:1,tec:1,wlk:2,fly:1}
 
 {id:43,name:"リリレインαAM",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1}
