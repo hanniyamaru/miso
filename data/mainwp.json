@@ -139,10 +139,10 @@
 
 {group:"ブレイカー系",prefixID:"BK",commonStat:{tunable:{mwp:1}},nextID:60}
 {id:11,name:"サーキットブレイカー",type:"cs",size:"SS",cost:45,main:{pwr:14,shl:200,rng:330,spd:480,itv:540},comment:["爆風20％　6連射"]}
-{id:12,name:"アーマーブレイカー",type:"c",size:"M",cost:60,main:{pwr:38,shl:80,rng:330,spd:480,itv:1000},comment:["爆風20％"]}
+{id:12,name:"アーマーブレイカー",type:"c",size:"M",cost:60,main:{pwr:38,shl:120,rng:330,spd:500,itv:1000},comment:["爆風70％"]}
 {id:13,name:"デバイスブレイカー",type:"c",size:"M",cost:90,main:{pwr:33,shl:150,rng:330,spd:480,itv:1000},comment:["爆風20％？","結晶コイン景品（13個）"]}
-{id:14,name:"コアブレイカー",type:"c",size:"M",cost:140,main:{pwr:39,shl:150,rng:350,spd:480,itv:1000},comment:["爆風20％"]}
-{id:15,name:"ストラクトブレイカー",type:"c",size:"L",cost:200,main:{pwr:50,shl:120,rng:350,spd:480,itv:1000}}
+{id:14,name:"コアブレイカー",type:"c",size:"M",cost:130,main:{pwr:45,shl:150,rng:350,spd:530,itv:1000},comment:["爆風70％"]}
+{id:15,name:"ストラクトブレイカー",type:"c",size:"L",cost:180,main:{pwr:50,shl:180,rng:350,spd:570,itv:1000},comment:["爆風70％"]}
 {id:26,name:"ガトリングブレイカー",main:{pwr:19,shl:1140,rng:350,spd:480,itv:200},size:"L",type:"c",cost:210,comment:["チャージ　自軍貫通　減衰率90％",""]}
 {id:27,name:"ピアースブレイカー",main:{pwr:38,shl:140,rng:350,spd:480,itv:1000},size:"M",type:"c",cost:170,comment:["爆風20％　貫通+HIT毎に爆風発生"]}
 {id:202403063,name:"ハドロンブレイカー",main:{pwr:15,shl:810,rng:330,spd:570,itv:140},size:"M",type:"c",cost:160,comment:"スキロンBst初期装備"}
@@ -462,7 +462,7 @@
 
 
 {id:20220522,name:"ラッシュガントレット",size:"M",type:"a",cost:80,tunable:{mwp:0,pwp:0},comment:["ヘル・ヴィクトル専用コンバージョンパーツ","左右の表記省略"]}
-{id:202306081,name:"ラビリンアクス",main:{pwr:17,shl:640,rng:350,spd:330,itv:340,tec:100},sub:{tec:100,pwr:32,shl:120,rng:350,spd:290,itv:1000},type:"c",size:"S",cost:225,tunable:{pwp:0,mwp:1},comment:["サブ：爆風属性100％","ミルル・ミゥ専用コンバージョンパーツ"]}
+{id:202306081,name:"ラビリンアクス",main:{pwr:18,shl:720,rng:350,spd:330,itv:340,tec:100},sub:{tec:100,pwr:34,shl:120,rng:350,spd:320,itv:1000},type:"c",size:"S",cost:225,tunable:{pwp:0,mwp:1},comment:["サブ：爆風属性100％","ミルル・ミゥ専用コンバージョンパーツ"]}
 
 
 
