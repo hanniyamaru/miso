@@ -3,7 +3,7 @@
 
 {group:"陸　近日更新",prefixID:"LS",commonStat:{size:"S",type:"l"},nextID:35}
 
-
+{id:202510011,name:"ニーナBD2",builtin:{bs:1},fixedParts:{hd:{name:"ニーナHD",cost:40,hp:25,str:2,fly:1,tgh:2,size:"S",type:"l"},lg:{builtin:{lg:1},joint:{bs:1,wp:1},fixedParts:{wp:{name:"ジェントルゴーストⅡ",main:{str:100,pwr:24,shl:540,rng:225,spd:320,itv:400},tunable:{mwp:1},joint:{wp:1},fixedParts:{wp:[{name:"ジェントルゴーストⅡ@",sub:{tec:100,pwr:32,shl:0,rng:150,spd:350,itv:1000},cost:50,slot:0,type:"l",size:"S",comment:["-"]}]},cost:120,tec:10,wlk:12,fly:6,type:"l",size:"S"}},name:"ニーナLG2",sub:{tec:100,pwr:0,shl:30,rng:100,spd:200,itv:1000},cost:65,hp:25,tec:2,wlk:2,fly:1,tgh:1,type:"l",size:"S"},am:[{joint:{wp:1},fixedParts:{wp:{name:"超ぴかぴかライト",main:{tec:100,pwr:50,shl:50,rng:10,spd:10,itv:1000},type:"l",size:"S",cost:20}},name:"ニーナAM4",type:"l",size:"S",cost:40,hp:25,tec:2,wlk:1,fly:0,tgh:2},{joint:{wp:1},fixedParts:{wp:{name:"ぶたーくん",size:"S",type:"l"}},name:"ニーナAM3",cost:40,hp:25,tec:2,wlk:1,fly:0,tgh:2,type:"l",size:"S"}],wp:{name:"ニーナBD2@",slot:0,type:"l",size:"S"}},type:"l",size:"S",cost:480,capa:900,hp:245,str:2,tec:6,wlk:8,fly:1,tgh:8,cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|25@25|21@20|27@10|13@30|34@15|32@50|31@40"},joint:{bs:0},comment:["WB：プロテクション（デバフCT無視）","[ニーナEscort]"]}
 
 
 
