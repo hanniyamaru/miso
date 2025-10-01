@@ -128,6 +128,7 @@
 {id:279,name:"ユネッサHD",type:"lacs",size:"M",cost:35,hp:20,str:-1,tec:1,wlk:2,tgh:3}
 
 {id:20220426,name:"ラビスリープHD",size:"S",cost:35,hp:20,str:2,tec:1,wlk:1,fly:1,comment:"イースターイベント景品"}
+{id:202510013,name:"リーレイHD",cost:35,hp:20,str:-1,tec:1,wlk:2,fly:1,tgh:2}
 
 {id:20231211,name:"ルボックHD",size:"S",cost:35,hp:20,str:-1,tec:1,wlk:1,fly:3,tgh:1,comment:["雪まつりオーダー景品"]}
 {id:202312112,name:"ルボックHD2",size:"S",cost:35,hp:20,str:1,tec:1,tgh:3,comment:["雪まつりオーダー景品"]}
