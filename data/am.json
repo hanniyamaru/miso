@@ -370,6 +370,7 @@
 {id:202407034,name:"ヴァリアントAM2",main:{tec:100,pwr:12,shl:450,rng:275,spd:400,itv:400},tunable:{mwp:1},joint:{am:1},fixedParts:{am:{name:"ヴァリアントAM2@",main:{tec:100,pwr:21,shl:260,rng:275,spd:530,itv:600},slot:0,type:"a",size:"M",joint:{wp:0}}},type:"a",size:"M",cost:35,hp:20,tec:3,fly:1,tgh:1,comment:["メインは変形後のみ使用可能","イーズ"]}
 
 {id:176,name:"ウィザメルAM",main:{tec:100,pwr:8,shl:400,rng:275,spd:440,itv:300},tunable:{mwp:1},cost:65,hp:20,str:-1,tec:2,fly:2,tgh:2,type:"a",size:"M"}
+{id:202510014,name:"ウィザメルAM2",main:{tec:100,pwr:12,shl:200,rng:250,spd:350,itv:1200},tunable:{mwp:1},cost:85,hp:20,str:-1,tec:2,fly:2,tgh:2,type:"a",size:"S",comment:["バリア弾","ウィザメル系BD装備時CT無し","ハイウィザメル"]}
 {id:330,name:"ウィンドリンクスAM",cost:40,hp:25,tec:1,wlk:1,fly:1,tgh:2}
 {id:202311014,name:"ウィンドリンクスAM2",main:{tec:100,pwr:17,shl:280,rng:275,spd:280,itv:700},tunable:{mwp:1},size:"M",type:"a",cost:100,hp:20,str:-1,tec:3,fly:2,tgh:1,comment:["自軍貫通　一部敵機貫通","FT"]}
 {id:20221103,name:"ヴェルズニールAM",size:"M",cost:35,hp:20,str:1,tec:1,fly:1,tgh:2}
