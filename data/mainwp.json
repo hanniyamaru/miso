@@ -366,7 +366,7 @@
 {id:6556,name:"ブリンクシールド",main:{tec:100,pwr:0,shl:50,rng:0,spd:10,itv:1000},tunable:{mwp:1},size:"M",type:"c",cost:30}
 
 {id:6557,name:"ウィザメルワンド",main:{tec:100,pwr:7,shl:840,rng:275,spd:340,itv:900},sub:{tec:100,pwr:32,shl:50,rng:250,spd:400,itv:1000},tunable:{mwp:1,pwp:0},type:"a",size:"M",cost:150,comment:["ウィザメル初期装備"]}
-{id:202510014,name:"ウィザメルワンドⅡ",main:{tec:100,pwr:12,shl:720,rng:275,spd:320,itv:900},tunable:{mwp:1},type:"a",size:"S",cost:150,comment:["飛行ゲージ回復効果","ハイウィザメル初期装備"]}
+{id:202510014,name:"ウィザメルワンドⅡ",main:{tec:100,pwr:12,shl:720,rng:275,spd:320,itv:900},tunable:{mwp:1},type:"a",size:"S",cost:160,comment:["飛行ゲージ回復効果","ハイウィザメル初期装備"]}
 
 {id:6558,name:"フリントビームガン",main:{tec:100,pwr:11,shl:500,rng:275,spd:520,itv:200},tunable:{mwp:1},size:"M",type:"a",cost:70,comment:"アストロメリア初期装備"}
 
