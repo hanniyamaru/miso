@@ -201,7 +201,7 @@
 
 
 {id:11020,name:"パンプキンロッド",type:"c",size:"S",cost:120,main:{pwr:23,shl:360,rng:330,spd:360,itv:500},comment:["爆風70％　集弾異常に耐性がある可能性","P・モーナ初期装備（SHOP：40Rt）"]}
-{id:11222,name:"Xmasスノーバズーカ",size:"L",cost:50,main:{pwr:15,shl:300,rng:250,spd:400,itv:500},comment:["実弾属性爆風30％？"]}
+{id:11222,name:"Xmasスノーバズーカ",size:"M",cost:50,main:{pwr:15,shl:300,rng:250,spd:400,itv:500},comment:["実弾属性爆風30％？"]}
 {id:2022202,name:"マナキャノン",type:"c",size:"M",cost:100,main:{pwr:25,shl:360,rng:330,spd:400,itv:500},comment:["チャージ　爆風70％？","NPC：コレッティ"]}
 {id:202204195,name:"DRIVEソリッドバズーカ",size:"L",cost:120,type:"l",main:{tec:100,pwr:24,shl:360,rng:225,spd:320,itv:500},tunable:{mwp:1},comment:["レッドスクィラDRIVE付属"]}
 
