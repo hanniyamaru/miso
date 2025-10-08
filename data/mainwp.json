@@ -479,7 +479,7 @@
 {id:202510012,name:"アムリムBS@2",main:{pwr:8,shl:540,rng:275,spd:380,itv:400,tec:100},tunable:{mwp:1},type:"a",size:"S",cost:50,comment:["減衰率？％","敵機命中時、使用弾数回復","アムリムBS専用コンバージョンパーツ"]}
 {id:1,name:"アムリムLG@",type:"a",size:"S",slot:0,sub:{pwr:0,shl:0,rng:300,spd:0,itv:1000},comment:["回復量50","飛行ゲージ回復量：50％","アムリムLG専用コンバージョンパーツ"]}
 {id:721,name:"プチブラッドシューター",main:{pwr:3,shl:180,rng:200,spd:360,itv:300},tunable:{mwp:1},type:"s",size:"SS",comment:["あむりむ専用コンバーションパーツ"],cost:40}
-{id:72,name:"ブラッドシューター",main:{tec:100,pwr:17,shl:720,rng:275,spd:400,itv:300},tunable:{mwp:1},type:"la",size:"S",comment:["微誘導","敵のサブ攻撃時TGH減衰無視追撃（0.08倍）","アムリムAM専用コンバーションパーツ"],cost:90}
+{id:72,name:"ブラッドシューター",main:{tec:100,pwr:17,shl:720,rng:275,spd:400,itv:300},tunable:{mwp:1},type:"a",size:"S",comment:["微誘導","敵のサブ攻撃時TGH減衰無視追撃（0.08倍）","アムリムAM専用コンバーションパーツ"],cost:90}
 {id:202510013,name:"メガブラッドシューター",main:{tec:100,pwr:34,shl:440,rng:275,spd:440,itv:500},tunable:{mwp:1},type:"a",size:"S",comment:["","敵のサブ攻撃時TGH減衰無視追撃（0.15倍）","アムリムAM専用コンバーションパーツ"],cost:160}
 
 {group:"アリスコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
