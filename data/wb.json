@@ -50,8 +50,8 @@
 {id:202510166,name:"リコチェットガンビット",type:"lc",comment:["STR1/TEC1or2：威力7","STR1/TEC40：威力6","STR40/TEC40：威力10"]}
 
 {id:10,name:"ベルゼスレッドビット",cost:0}
-{id:11,name:"ハクメンサークルビット",cost:0,comment:["STR1/TEC1or2：威力？","STR1/TEC40：威力？","STR40/TEC40：威力50？"]}
-{id:12,name:"ハクメンダミービット",cost:0}
+{id:11,name:"ハクメンサークルビット",cost:0,comment:["STR1/TEC1or2：威力39以上（暫定）","STR1/TEC40：威力33以上（暫定）","STR40/TEC40：威力50以上（暫定）"]}
+{id:12,name:"ハクメンダミービット",cost:0,comment:["STR1/TEC1or2：威力（射撃22　格闘34）","STR1/TEC40：威力（射撃18　格闘28）","STR40/TEC40：威力（射撃30　格闘46）","射撃：実弾属性　格闘：格闘属性"}
 {id:13,name:"フラクタレーザービット",type:"a",cost:0}
 {id:14,name:"フラクタパルスビット",type:"as",cost:0}
 
