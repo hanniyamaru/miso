@@ -48,7 +48,7 @@
 {id:202510165,name:"マシンガンビット",type:"lacs",comment:["STR1/TEC1or2：威力4","STR1/TEC40：威力3","STR40/TEC40：威力6",""]}
 {id:9,name:"マシンガンビットD",type:"lcs",comment:["STR1/TEC1or2：威力4（暫定）","STR1/TEC40：威力3（暫定）","STR40/TEC40：威力6","混沌コイン景品（ｺｲﾝ4個→WB25個）"]}
 {id:25,name:"ピアースガンビット",type:"lcs",comment:["STR1/TEC1or2：威力14 ","STR1/TEC40：威力11","STR40/TEC40：威力19","ミッションコイン景品（ｺｲﾝ5個→WB50個）"]}
-{id:202510166,name:"リコチェットガンビット",type:"lc",comment:["STR1/TEC1or2：威力7","STR1/TEC40：威力6","STR40/TEC40：威力10"]}
+{id:202510173,name:"リコチェットガンビット",type:"lc",comment:["STR1/TEC1or2：威力7","STR1/TEC40：威力6","STR40/TEC40：威力10"]}
 
 {id:10,name:"ベルゼスレッドビット",cost:0}
 {id:11,name:"ハクメンサークルビット",cost:0,comment:["STR1/TEC1or2：威力39以上（暫定）","STR1/TEC40：威力33以上（暫定）","STR40/TEC40：威力50以上（暫定）"]}
@@ -64,7 +64,7 @@
 {group:"設置射撃",prefixID:"SS",nextID:4}
 {id:202510162,name:"ミニトーチカユニット",type:"lcs",comment:["STR1/TEC1or2：威力15*2","STR1/TEC40：威力12*2","STR40/TEC40：威力20*2"]}
 {id:1,name:"トーチカユニット",type:"lcs",comment:["STR1/TEC1or2：威力15*2","STR1/TEC40：威力12*2","STR40/TEC40：威力20*2","ミッションコイン景品5/50"]}
-{id:2,name:"ファランクスユニット",cost:0,comment:["STR1/TEC1or2：威力？","STR1/TEC40：威力3*2","STR40/TEC40：威力?"}
+{id:2,name:"ファランクスユニット",cost:0,comment:["STR1/TEC1or2：威力？","STR1/TEC40：威力3*2","STR40/TEC40：威力?"]}
 {id:3,name:"スナイプユニット",comment:["STR1/TEC1or2：威力21以上（暫定）","STR1/TEC40：威力18以上 爆風3（暫定）","STR40/TEC40：威力28以上（暫定）"]}
 {id:202510172,name:"ダムツリーユニット",type:"lacs",comment:["STR1/TEC1or2：威力(メイン15*2？ サブ38？)","STR1/TEC40：威力（メイン12*2 サブ33？）","STR40/TEC40：威力（メイン20*2 サブ50？）"]}
 
