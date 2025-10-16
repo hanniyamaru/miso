@@ -52,6 +52,7 @@
 
 {id:25,name:"ピアースガンビット",comment:["STR1/TEC1or2：威力？","STR1/TEC40：威力？","STR40/TEC40：威力19","ミッションコイン景品（ｺｲﾝ5個→WB50個）"]}
 {group:"設置射撃",prefixID:"SS",nextID:4}
+{id:202510162,name:"ミニトーチカユニット",type:"lcs",comment:["STR1/TEC1or2：威力15*2","STR1/TEC40：威力12*2","STR40/TEC40：威力20*2"]}
 {id:1,name:"トーチカユニット",type:"lcs",cost:0,comment:"ミッションコイン景品5/50"}
 {id:2,name:"ファランクスユニット",cost:0}
 {id:3,name:"スナイプユニット",cost:0}
