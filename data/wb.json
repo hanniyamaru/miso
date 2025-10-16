@@ -53,7 +53,7 @@
 {id:10,name:"ベルゼスレッドビット",cost:0}
 {id:11,name:"ハクメンサークルビット",cost:0,comment:["STR1/TEC1or2：威力39以上（暫定）","STR1/TEC40：威力33以上（暫定）","STR40/TEC40：威力50以上（暫定）"]}
 {id:12,name:"ハクメンダミービット",cost:0,comment:["STR1/TEC1or2：威力（射撃22　格闘34）","STR1/TEC40：威力（射撃18　格闘28）","STR40/TEC40：威力（射撃30　格闘46）","射撃：実弾属性　格闘：格闘属性"]}
-{id:13,name:"フラクタレーザービット",type:"a",cost:0,comment:,["結晶コイン景品4/35"]}
+{id:13,name:"フラクタレーザービット",type:"a",cost:0,comment:["結晶コイン景品4/35"]}
 {id:14,name:"フラクタパルスビット",type:"as",cost:0,comment:["STR1/TEC1or2：威力?","STR1/TEC40：威力11","STR40/TEC40：威力?","結晶コイン景品4/35"]}
 {id:202510166,name:"豪華衝の術",type:"ls",comment:["実弾属性　メルト効果（1秒）","STR1/TEC1or2：威力15（暫定）","STR1/TEC40：威力12（暫定）","STR40/TEC40：威力21（暫定）","エンジェルコイン景品2/20"]}
 {id:202510167,name:"マニゾウ",type:"ls",comment:["実弾属性爆風?％　スタン効果（黄）","STR1/TEC1or2：威力18 他5（暫定）","STR1/TEC40：威力14 他4（暫定）","STR40/TEC40：威力23 他7（暫定）","エンジェルコイン景品2/20"]}
@@ -61,7 +61,7 @@
 {id:202510169,name:"カクピタスビットD",type:"lcs",comment:["威力：オートガンビットDと同性能","クエストコイン景品15/30"]}
 {id:202510170,name:"プテランビット",type:"lacs",comment:["不明","クエストコイン景品15/50"]}
 {id:202510171,name:"プテランビットD",type:"lcs",comment:["不明","クエストコイン景品15/30"]}
-{id:20251017,name:"ガーディアンポーンビット",type:"a",cost:0,comment:["STR1/TEC1or2：威力?","STR1/TEC40：威力13","STR40/TEC40：威力?","NPCシルビア（ブリスガンドディスク）"]}
+{id:202510172,name:"ガーディアンポーンビット",type:"a",cost:0,comment:["STR1/TEC1or2：威力?","STR1/TEC40：威力13","STR40/TEC40：威力?","NPCシルビア（ブリスガンドディスク）"]}
 
 {group:"設置射撃",prefixID:"SS",nextID:4}
 {id:202510162,name:"ミニトーチカユニット",type:"lcs",comment:["STR1/TEC1or2：威力15*2","STR1/TEC40：威力12*2","STR40/TEC40：威力20*2"]}
