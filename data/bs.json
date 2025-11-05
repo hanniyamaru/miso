@@ -985,7 +985,7 @@
 {id:202401101,name:"シャノンBS（T40タクティカルアームズ）（コンバージョン無し）",main:{tec:100,pwr:17,shl:640,rng:330,spd:440,itv:300},sub:{tec:100,pwr:2,shl:40,rng:350,spd:260,itv:1000},tunable:{mwp:1,pwp:0},joint:{bs:1,wp:1},type:"c",size:"S",cost:220,hp:25,str:-1,tec:3,fly:2,tgh:1,comment:["マーキング状態時バズーカの威力1.2倍+空戦のみシビアブースタートラブル効果","ドローン：威力2","名称変更　シャノンBD専用コンバージョンパーツ"]}
 {id:20250117,name:"ティタニア デルタBS（ミリタリーパック）",sub:{tec:100,pwr:20,shl:200,rng:105,spd:220,itv:1000},tunable:{pwp:0},type:"l",size:"S",cost:20,comment:["確率ライトメルト効果","専用WB発動時：設置数増加","名称変更","ティタニア デルタ専用コンバージョンパーツ"]}
 {id:202501291,name:"ティタニア デルタBS（ガトリングパック）",main:{tec:100,pwr:21,shl:1800,rng:250,spd:480,itv:140},tunable:{mwp:1},type:"l",size:"S",cost:220,comment:["実弾属性爆風100％　自軍貫通　※手持ち破棄","専用WB発動時：威力1.2倍","名称変更　オートでバルテ系のバリア発動　耐久：71HITorHP245？（暫定）","ティタニア デルタ専用コンバージョンパーツ"]}
-{id:20250131,name:"ティタニア デルタBS（ギリーマント）",main:{tec:100,pwr:0,shl:30,rng:0,spd:10,itv:1000},tunable:{mwp:1},type:"l",size:"S",cost:20,comment:["カモフラージュ：5秒？　WB発動時：？秒","　シェルサプライ不可","名称変更","ティタニア デルタ専用コンバージョンパーツ"]}
+{id:20250131,name:"ティタニア デルタBS（ギリーマント）",main:{tec:100,pwr:0,shl:30,rng:0,spd:10,itv:1000},tunable:{mwp:1},type:"l",size:"S",cost:20,comment:["カモフラージュ：5秒？　WB発動時：10？秒","シェルサプライ不可","名称変更","ティタニア デルタ専用コンバージョンパーツ"]}
 
 {id:197,name:"フェルメBS",sub:{tec:100,pwr:22,shl:150,rng:250,spd:250,itv:1000},type:"l",size:"S",cost:55,hp:20,str:-1,tec:2,wlk:1,fly:3,comment:["フェルメBD専用コンバージョンパーツ"]}
 {id:159,name:"マニモウィング",sub:{shl:60,spd:160,itv:1000},builtin:{bs:-1},joint:{wp:1},type:"a",size:"M",cost:70,hp:25,str:1,fly:2,tgh:2,slot:0}
