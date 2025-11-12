@@ -767,6 +767,7 @@
 
 {id:536,name:"ライオスHD",cost:35,hp:20,str:1,tec:1,wlk:1,fly:1,tgh:1}
 {id:180,name:"ラグナバレットHD",cost:35,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1}
+{id:202511122,name:"ラグナバレットHD2",cost:35,hp:20,str:-1,tec:2,wlk:2,fly:1,tgh:1,comment:["GROZ"]}
 
 {id:209,name:"ラクラボロスHD",cost:40,hp:25,str:3,tec:-1,wlk:1,fly:1,tgh:1}
 {id:202502052,name:"ラクラボロスHD2",cost:40,hp:25,str:-1,tec:3,wlk:1,fly:1,tgh:1}
