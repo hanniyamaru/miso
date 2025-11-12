@@ -50,7 +50,7 @@
 
 
 {id:20220706,name:"サイバリオンLG",type:"lc",cost:60,hp:20,tec:1,wlk:4,fly:1,tgh:-1,sub:{shl:30,rng:0,spd:200,itv:1000},comment:"Season7アリーナコイン景品"}
-
+{id:202511126,name:"サイバリオンLG2",sub:{str:100,pwr:0,shl:30,rng:0,spd:200,itv:1000},size:"S",type:"l",cost:65,hp:25,str:-1,tec:2,wlk:4,fly:0,tgh:1,tunable:{pwp:0},comment:["3コンボ可能"]}
 
 {id:20,name:"ジークンロンαLG",type:"l",cost:145,hp:25,str:2,tec:-1,wlk:3,tgh:1,sub:{str:100,pwr:30,rng:98,spd:119,itv:500},tunable:{pwp:1}}
 {id:202503056,name:"シーノLG",cost:45,hp:25,str:1,tec:-1,wlk:4,tgh:2}
