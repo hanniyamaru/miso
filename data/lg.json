@@ -840,7 +840,7 @@
 {id:6,name:"ガデロガLG",joint:{bs:1},cost:45,hp:65,str:-1,tec:-1,wlk:4,fly:1,tgh:3,comment:["BS接続可能","ロボキューブ"]}
 {id:11,name:"ガデロガLG2",joint:{bs:1},cost:55,hp:65,tec:1,wlk:4,fly:-1,tgh:2,sub:{tec:100,pwr:24,rng:100,spd:150,itv:1000},tunable:{pwp:1},type:"c",comment:"BS接続可能"}
 
-
+{id:202511125,name:"ギガフォートLG",main:{tec:100,pwr:9,shl:800,rng:275,spd:350,itv:1000},sub:{tec:100,pwr:40,shl:60,rng:0,spd:200,itv:1000},size:"LL",type:"a",cost:180,hp:45,str:-1,tec:1,wlk:2,fly:2,tgh:2,tunable:{mwp:1},comment:["メイン：飛行ゲージ回復効果"]}
 {id:10,name:"ギガンベルグLG",cost:45,hp:70,str:-1,tec:2,wlk:3,tgh:2}
 {id:202505086,name:"サイクロテスLG",type:"l",size:"LL",cost:50,hp:75,str:2,tec:-1,wlk:3,fly:0,tgh:2}
 {id:15,name:"サイクロテスLG2",sub:{str:100,pwr:30,rng:100,spd:250,itv:3000},tunable:{pwp:1},type:"l",size:"LL",cost:160,hp:75,str:2,wlk:2,fly:-1,tgh:3}
