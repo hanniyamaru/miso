@@ -78,6 +78,8 @@
 {id:122,name:"サイコフォーミュラAM6",main:{pwr:15,shl:640,rng:330,spd:280,itv:340},size:"S",type:"c",cost:165,hp:20,str:-1,tec:3,wlk:2,fly:1,joint:{wp:0},tunable:{mwp:1},comment:"サイコフォーミュラ轟"}
 
 {id:20220706,name:"サイバリオンAM",cost:30,hp:15,tec:2,wlk:1,tgh:1,comment:"Season7アリーナコイン景品"}
+{id:202511126,name:"サイバリオンAM2",main:{tec:100,pwr:14,shl:360,rng:275,spd:350,itv:500},size:"S",cost:115,hp:20,str:-1,tec:3,wlk:2,fly:0,tgh:1,tunable:{mwp:1},comment:["誘導弾　実弾属性"]}
+
 {id:18,name:"ジークンロンαAM",cost:35,hp:20,str:1,tec:1,wlk:2,tgh:1,comment:"ジークンαAM"}
 {id:202503056,name:"シーノAM",cost:35,hp:20,str:1,tec:0,wlk:2,fly:1,tgh:1,comment:""}
 
