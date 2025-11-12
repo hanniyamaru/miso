@@ -360,6 +360,8 @@
 {id:20230204,name:"メガトンオーBD2",cost:475,capa:800,hp:275,str:5,tec:12,wlk:10,fly:8,tgh:10,sub:{tec:100,pwr:[10],shl:[340],rng:[350],spd:[280],itv:[1000]},wbid:12,cartridge:{hpup:18,lv1:"85*5@20|61*2@30|7@20|10@20|8@15|18@20|20@15|23@25|25@25|14@20|29@15|26@10|13@30|32@40|31@40"},comment:"内蔵強化値不明"}
 
 {id:29,name:"ラグナバレットBD",main:{tec:100,pwr:[14,16,18],shl:[1320],rng:350,spd:[440,480,520],itv:800},sub:{shl:[30],rng:0,spd:500,itv:1000},cartridge:{hpup:10,lv1:"75*5@20|60*2@30|7@20|10@20|8@15|18@20|19@20|20@15|23@25|30@20|26@10|25@25|13@30|32@40|31@40"},fixedParts:{hd:{joint:{hd:1,fcac:0,hdac:0},name:"ラグナバレットHDJ",slot:1}},cost:630,capa:945,hp:305,str:5,tec:16,wlk:9,fly:9,tgh:12,wbid:999,comment:["内蔵強化値一部不明","WB：一部ダッシュリストリクト効果","メイン：爆風100％？　減衰率90％　最大連射時：間隔200相当","BD@cost+120複合　2025/11/06改変"]}
+{id:202511122,name:"ラグナバレットBD2",main:{tec:100,pwr:[10],shl:[2940],rng:350,spd:[480],itv:400},sub:{shl:[30],rng:0,spd:500,itv:1000},cartridge:{hpup:10,lv1:"75*5@20|60*2@30|7@20|10@20|8@15|18@20|19@20|20@15|23@25|30@20|26@10|25@25|13@30|32@40|31@40"},fixedParts:{hd:{joint:{hd:1,fcac:0,hdac:0},name:"ラグナバレットHDJ",slot:1}},cost:630,capa:945,hp:305,str:5,tec:16,wlk:9,fly:9,tgh:12,wbid:999,comment:["内蔵強化値不明","WB：一部ダッシュリストリクト効果","メイン：実弾属性　最大連射時：間隔？相当","BD@cost+120複合","GROZ"]}
+
 {id:202305171,name:"陸自なっちんBD",sub:{tec:100,pwr:0,shl:10,rng:0,spd:0,itv:500},joint:{hdac:1,fcac:1,hd:0,wp:1},cartridge:{hpup:10,lv1:"75*6@20|7@20|10@20|8@15|18@20|19@20|20@15|23@25|22@30|25@25|21@20|26@10|13@30|32@40|31@40"},fixedParts:{wp:{name:"菊理ナツキ1尉"}},cost:555,capa:945,hp:325,str:5,tec:17,wlk:10,fly:9,tgh:15,wbid:4,size:"L",type:"c",comment:["Type.M",""]}
 
 
