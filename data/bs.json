@@ -756,7 +756,7 @@
 {id:55,name:"ギガンベルグBS",type:"l",cost:35,hp:20,tec:-1,wlk:2,fly:3,tgh:1}
 {id:60,name:"クシュルブBS",type:"l",cost:35,hp:20,str:-1,tec:1,fly:3,tgh:2}
 
-{id:202511124,name:"グラッシャBS",main:{tec:100,pwr:18,shl:440,rng:350,spd:570,itv:800},size:"L",type:"c",cost:165,hp:20,str:-1,tec:3,wlk:0,fly:2,tgh:1,tunable:{mwp:1},comment:["グラッシャ装備時：威力1.1倍+確率ライトフロスト効果"]}
+{id:202511124,name:"グラッシャBS",main:{tec:100,pwr:18,shl:440,rng:350,spd:570,itv:800},size:"L",type:"c",cost:165,hp:20,str:-1,tec:3,wlk:0,fly:2,tgh:1,tunable:{mwp:1},comment:["爆風属性100％　自軍貫通","グラッシャ装備時：威力1.1倍+確率ライトフロスト効果"]}
 {id:86,name:"クリスタスBS",main:{tec:100,pwr:14,shl:220,rng:275,spd:360,itv:1000},tunable:{mwp:1},type:"a",size:"L",cost:105,hp:20,str:-1,tec:2,fly:3,tgh:1}
 {id:202209092,name:"クリスタスBS2",main:{tec:100,pwr:8,shl:520,rng:275,spd:360,itv:340},sub:{tec:100,pwr:0,shl:50,rng:0,spd:250,itv:1000},tunable:{mwp:1},type:"a",size:"L",cost:135,hp:20,str:-1,tec:2,wlk:1,fly:3,comment:["クリスタス・レイ"]}
 {id:202305124,name:"グリストBS",sub:{str:100,pwr:30,shl:100,rng:120,spd:220,itv:1000},tunable:{pwp:1},type:"a",cost:115,hp:20,str:2,tec:-1,fly:4,comment:"チューン可否不明"}
