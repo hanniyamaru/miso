@@ -828,6 +828,7 @@
 
 {id:51,name:"ダゴミュールBS",type:"c",cost:120,hp:25,str:-1,tec:3,fly:3,main:{pwr:13,shl:300,rng:350,spd:500,itv:800},comment:["BS@cost+80複合","武器チューン不可"]}
 {id:78,name:"ダゴミュールBS2",main:{tec:100,pwr:23,shl:120,rng:330,spd:350,itv:800},joint:{bs:2},fixedParts:{bs:[{main:{tec:100,pwr:23,shl:120,rng:330,spd:350,itv:800},name:"ダゴミュールBS2@1",slot:0,comment:"ミサイル"},{name:"ダゴミュールBS2@2",main:{pwr:10,shl:300,rng:380,spd:500,itv:300},slot:0,comment:"バズーカ"}]},type:"c",cost:160,hp:25,str:-1,tec:3,fly:2,tgh:1,comment:["@パーツ合計cost+120合算","検索用にミサイルの数値を仮入力"]}
+{id:202512033,name:"ダンクルテスBS",main:{tec:100,pwr:6,shl:800,rng:275,spd:280,itv:200},type:"a",size:"L",cost:85,hp:20,str:0,tec:1,wlk:2,fly:2,tgh:0,tunable:{mwp:1},comment:["飛行ゲージ効果"]}
 
 {id:202210071,name:"ツインタワードBS",size:"L",type:"c",cost:35,hp:20,str:1,tec:2,fly:2,comment:[""]}
 {id:52,name:"ディースモークBS",type:"s",cost:40,hp:25,tec:-1,wlk:2,fly:2,tgh:2}
