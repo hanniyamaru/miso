@@ -34,7 +34,7 @@
 {id:3,name:"デモンBS",cost:35,hp:20,str:1,tec:1,fly:3}
 {id:4,name:"はんなBD@"}
 {id:5,name:"りーぜるBD@"}
-{id:202512031,name:"チサトBS",main:{tec:100,pwr:3,shl:1400,rng:275,spd:440,itv:240},type:"a",cost:90,hp:25,str:-1,tec:1,fly:4,tgh:1,fixedParts:{wp:[{name:"チサトBS@",main:{tec:100,pwr:5,shl:720,rng:275,spd:350,itv:1000},sub:{tec:100,pwr:1,shl:60,rng:0,spd:200,itv:1000},cost:0,comment:["メイン：飛行ゲージ回復効果","サブ：デコイダッシュ"],tunable:{mwp:1}}]},joint:{wp:1},comment:["-"]}
+{id:202512031,name:"チサトBS",main:{tec:100,pwr:3,shl:1400,rng:275,spd:440,itv:240},tunable:{mwp:1},type:"a",cost:90,hp:25,str:-1,tec:1,fly:4,tgh:1,fixedParts:{wp:[{name:"チサトBS@",main:{tec:100,pwr:5,shl:720,rng:275,spd:350,itv:1000},sub:{tec:100,pwr:1,shl:60,rng:0,spd:200,itv:1000},cost:0,comment:["メイン：飛行ゲージ回復効果","サブ：デコイダッシュ"],tunable:{mwp:1}}]},joint:{wp:1},comment:["-"]}
 
 {group:"AM",prefixID:"A",nextID:14}
 {id:1,name:"セラフクリムローゼAM2",cost:25,hp:15,str:1,tec:2}
