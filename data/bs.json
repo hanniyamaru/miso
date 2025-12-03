@@ -715,7 +715,7 @@
 
 {id:202402091,name:"アルゴキャップBS",main:{tec:100,pwr:17,shl:440,rng:330,spd:480,itv:900},tunable:{mwp:1},cost:135,hp:20,str:-1,tec:3,fly:3,comment:["IMPACT GUN","反発効果　カスタムリンクショット対応"],type:"c",size:"L"}
 {id:202402092,name:"アルゴキャップBS2",cost:35,hp:20,wlk:2,fly:2,tgh:1,comment:[""],type:"c",size:"L"}
-{id:202512034,name:"アルバトレオスBS",sub:{tec:100,pwr:34,shl:30,rng:0,spd:180,itv:1000},cost:115,hp:20,str:0,tec:0,wlk:2,fly:2,tgh:1,type:"c",size:"L",comment:["ジェットアクセル挙動？　アーマー貫通？","シェルサプライ不可","[アルバトレオス・ハイヴ]"]}
+{id:202512034,name:"アルバトレオスBS",sub:{tec:100,pwr:34,shl:30,rng:0,spd:180,itv:1000},cost:115,hp:20,str:0,tec:0,wlk:2,fly:2,tgh:1,type:"c",size:"L",comment:["ジェットアクセル挙動？　アーマー貫通？","シェルサプライ不可　WLKFLYの高い方に依存","[アルバトレオス・ハイヴ]"]}
 {id:202508062,name:"アルビレオンBS",type:"c",size:"L",cost:35,hp:20,wlk:2,fly:2,comment:[""]}
 
 
