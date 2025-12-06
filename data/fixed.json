@@ -50,8 +50,8 @@
 {id:11,name:"ウィンベルAM3",cost:75,hp:20,str:1,tec:1,tgh:3,main:{pwr:2,shl:50,rng:340,spd:420,itv:600},tunable:{mwp:1}}
 {id:12,name:"ソア・ラAM2",cost:35,hp:20,str:1,tec:1,fly:2}
 {id:13,name:"ジークンロンAM",cost:40,hp:25,str:1,tec:1,wlk:2,tgh:1}
-{id:202505211,name:"ハンドレッドエッジAM",type:"l",cost:40,hp:25,str:2,wlk:2,tgh:1,fixedParts:{wp:{name:"コンボガントレット",cost:10,slot:0,comment:["シールド耐久値不明"]}},joint:{wp:2},comment:[""]}
-{id:202505212,name:"ハンドレッドエッジAM2",type:"l",cost:40,hp:25,str:2,wlk:2,tgh:1,fixedParts:{wp:[{name:"コンボガントレット",cost:10,slot:0,comment:["シールド耐久値不明"]},{name:"ライオネットシールド",main:{tec:100,pwr:0,shl:50,rng:0,spd:10,itv:1000},cost:20,comment:["パリィ"],tunable:{mwp:1}}]},joint:{wp:2},comment:["-"]}
+{id:202505211,name:"ハンドレッドエッジAM",type:"l",cost:40,hp:25,str:2,wlk:2,tgh:1,fixedParts:{wp:{name:"コンボガントレット",cost:10,slot:3,comment:["シールド耐久値不明"]}},joint:{wp:2},comment:[""]}
+{id:202505212,name:"ハンドレッドエッジAM2",type:"l",cost:40,hp:25,str:2,wlk:2,tgh:1,fixedParts:{wp:[{name:"コンボガントレット",cost:10,slot:3,comment:["シールド耐久値不明"]},{name:"ライオネットシールド",main:{tec:100,pwr:0,shl:50,rng:0,spd:10,itv:1000},cost:20,comment:["パリィ"],tunable:{mwp:1}}]},joint:{wp:2},comment:["-"]}
 {id:202505213,name:"ティガバレットAM",type:"c",cost:40,hp:25,tec:2,wlk:2,tgh:1,fixedParts:{wp:[{name:"ティガランチャー",main:{tec:100,pwr:24,shl:170,rng:350,spd:440,itv:540},cost:40,comment:[""],tunable:{mwp:1}}]},joint:{wp:1},comment:["-"]}
 {id:202512031,name:"チサトAM",type:"a",cost:40,hp:20,str:1,tec:1,fly:1,tgh:2,fixedParts:{wp:[{name:"アルバスター",cost:160,slot:3,comment:[""]},{name:"アルバスターキャノン",main:{tec:100,pwr:38,shl:21,rng:275,spd:520,itv:800},cost:0,comment:[""],tunable:{mwp:1}},{name:"マニューバミサイル",sub:{tec:100,pwr:18,shl:36,rng:275,spd:280,itv:1000}}]},joint:{wp:3},comment:["-"]}
 {id:202512032,name:"チサトAM2",type:"a",cost:40,hp:20,str:1,tec:1,fly:1,tgh:2,joint:{wp:0},comment:[""]}
