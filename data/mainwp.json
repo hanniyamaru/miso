@@ -709,8 +709,8 @@
 {id:1561,name:"ペペンツインガン",main:{pwr:8,shl:1120,rng:350,spd:240,itv:360},tunable:{mwp:1},type:"c",size:"S",cost:70,comment:"爆風70％"}
 
 {group:"ベリルスキッドコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
-{id:202405081,name:"ベリルスキッドLG@",main:{tec:100,shl:10,itv:500},tunable:{mwp:1},type:"l",cost:40,comment:["ロングムービングバースト効果　飛行ゲージ消費無し　効果時間30秒？","空中ダッシュ不可"]}
-{id:2025120323,name:"ベリルスキッドLG2@",sub:{tec:100,shl:5,itv:500},tunable:{mwp:0,pwp:0},type:"l",slot:0,cost:40,comment:["ロングムービングバースト効果　飛行ゲージ消費無し？　効果時間60秒？","空中ダッシュ不可？"]}
+{id:202405081,name:"ベリルスキッドLG@",main:{tec:100,shl:10,itv:500},tunable:{mwp:1},type:"l",slot:3,cost:40,comment:["ロングムービングバースト効果　飛行ゲージ消費無し　効果時間30秒？","空中ダッシュ不可"]}
+{id:2025120323,name:"ベリルスキッドLG2@",sub:{tec:100,shl:5,itv:500},tunable:{mwp:0,pwp:0},type:"l",slot:3,cost:40,comment:["ロングムービングバースト効果　飛行ゲージ消費無し？　効果時間60秒？","空中ダッシュ不可？"]}
 
 {group:"ベルゼイラフガールコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:202401086,name:"アブノマリーバズーカ",tunable:{mwp:1},cost:80,type:"c",size:"S",main:{pwr:22,shl:380,rng:330,spd:360,itv:500},comment:["エアダッシュリストリクト効果","P"]}
