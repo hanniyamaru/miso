@@ -223,6 +223,7 @@
 
 {id:20250807,name:"ホイールブレード",sub:{str:100,pwr:54,shl:20,rng:150,spd:350,itv:1000},tunable:{pwp:0},type:"l",size:"LL",cost:180,comment:["サブロック　吹き飛ばし（残弾消費時のみ）　コンボ不可","イベント・スターライトキューブ"]}
 {id:202509111,name:"セプタプルソード",type:"s",size:"L",cost:150,sub:{tec:100,pwr:13,shl:360,rng:77,spd:94,itv:1000},tunable:{pwp:1},comment:["確率ショック効果","武器チューン可否不明","NPCリエル（ステーションディスク景品・エンジェルコイン×50）"]}
+{id:20251224,name:"ハマヤロッド",type:"s",size:"s",cost:70,sub:{tec:100,pwr:14,shl:220,rng:250,spd:320,itv:1000},tunable:{pwp:0},comment:["サブロック数：3","","NYキューブ2026"]}
 
 
 {group:"subコンバージョン（順不同）",prefixID:"MOx",nextID:17}
