@@ -117,7 +117,7 @@
 {id:202508062,name:"シグナルフラッグ",main:{tec:100,pwr:30,shl:20,rng:250,spd:400,itv:1000},type:"l",cost:20,tunable:{mwp:1},comment:["誘導弾　スタン？　WBゲージ回収"]}
 
 {id:202601071,name:"アフェクトゥス",sub:{tec:100,pwr:[19],shl:[480],rng:[250],spd:[350],itv:[1000]},cost:150,tunable:{0},comment:["サブロック数：3"]}
-{id:202601072,name:フロルのスカート",cost:0,comment:[""]}
+{id:202601072,name:"フロルのスカート",cost:0,comment:[""]}
 
 
 
