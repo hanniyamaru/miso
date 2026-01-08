@@ -832,6 +832,7 @@
 {id:6,name:"アクイーア・エアーズHD",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,size:"L",comment:["ロボガラポン"]}
 {id:202412043,name:"アマノタツHD",cost:35,hp:20,str:-1,tec:3,wlk:1,fly:1,tgh:1,size:"L",comment:[""]}
 
+{id:202601073,name:"ヴァイススピノHD",cost:35,hp:20,str:2,tec:-1,wlk:3,fly:0,tgh:1,size:"L",comment:[""]}
 {id:202501083,name:"ウルフェンHD",main:{tec:100,pwr:0,shl:15,rng:0,spd:10,itv:1000},tunable:{mwp:1},type:"l",size:"L",cost:60,hp:20,str:0,tec:0,wlk:2,fly:1,tgh:2,comment:["INSTANT GUARD"]}
 
 {id:202206041,name:"エスカゴッデスHD",main:{tec:100,pwr:7,shl:900,rng:300,spd:400,itv:400},tunable:{mwp:1},type:"c",size:"L",cost:70,hp:15,tec:2,wlk:1,fly:1}
