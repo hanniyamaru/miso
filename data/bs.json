@@ -728,11 +728,11 @@
 {id:61,name:"アントリオンBS",sub:{tec:100,pwr:7,shl:360,rng:350,spd:290,itv:1000},type:"c",cost:90,hp:25,str:-1,tec:2,fly:2,tgh:2}
 {id:92,name:"アントリオンBS2",type:"c",cost:190,hp:25,str:-1,tec:3,fly:2,tgh:1,main:{tec:100,pwr:17,shl:400,rng:330,spd:300,itv:400},sub:{tec:100,pwr:15,shl:30,rng:150,spd:150,itv:1000},tunable:{mwp:1},size:"L",comment:["メイン：爆風70％？　自軍貫通　最終弾のみブースタートラブル効果（3秒？）","サブ：スタン（黄）","アントリオンMoray"]}
 
+{id:202601073,name:"ヴァイススピノBS",cost:35,hp:20,str:0,tec:-1,wlk:1,fly:3,tgh:2,type:"l",size:"L",comment:[""]}
+
 {id:57,name:"ウォーダスBS",type:"l",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:3}
 {id:68,name:"ウォーダスBS2",type:"l",cost:40,hp:25,str:-1,wlk:2,fly:3,tgh:1}
-
 {id:63,name:"ヴォルフライエBS",main:{pwr:6,shl:600,rng:275,spd:350,itv:1000},sub:{shl:30,rng:100,spd:120,itv:1000},tunable:{mwp:0,pwp:0},type:"a",size:"L",cost:160,hp:25,tec:2,fly:4,tgh:-1,comment:["◆CT12秒 ◆ブースト回復：100％","◆離陸：斜め+入力方向 ◆飛行：直進+入力方向","BS2@cost120複合・武器チューン不可"]}
-
 {id:90,name:"ヴォルフライエBS2",main:{pwr:8,shl:500,rng:275,spd:320,itv:700},sub:{pwr:1,shl:15,rng:10,spd:150,itv:1000},tunable:{mwp:0,pwp:0},type:"a",size:"L",cost:85,hp:25,str:-1,tec:1,fly:4,tgh:1,comment:["メイン：ブースト回収　誘導弾","BS2@cost45複合","武器チューン不可"]}
 
 {id:202401113,name:"エティオンBS",type:"l",size:"L",cost:35,hp:20,fly:3,tgh:2,comment:[""]}
@@ -834,7 +834,7 @@
 
 {id:51,name:"ダゴミュールBS",type:"c",cost:120,hp:25,str:-1,tec:3,fly:3,main:{pwr:13,shl:300,rng:350,spd:500,itv:800},comment:["BS@cost+80複合","武器チューン不可"]}
 {id:78,name:"ダゴミュールBS2",main:{tec:100,pwr:23,shl:120,rng:330,spd:350,itv:800},joint:{bs:2},fixedParts:{bs:[{main:{tec:100,pwr:23,shl:120,rng:330,spd:350,itv:800},name:"ダゴミュールBS2@1",slot:0,comment:"ミサイル"},{name:"ダゴミュールBS2@2",main:{pwr:10,shl:300,rng:380,spd:500,itv:300},slot:0,comment:"バズーカ"}]},type:"c",cost:160,hp:25,str:-1,tec:3,fly:2,tgh:1,comment:["@パーツ合計cost+120合算","検索用にミサイルの数値を仮入力"]}
-{id:202512033,name:"ダンクルテスBS",main:{tec:100,pwr:6,shl:800,rng:275,spd:280,itv:200},type:"a",size:"L",cost:85,hp:20,str:0,tec:1,wlk:2,fly:2,tgh:0,tunable:{mwp:1},comment:["飛行ゲージ効果"]}
+{id:202512033,name:"ダンクルテスBS",main:{tec:100,pwr:6,shl:800,rng:275,spd:280,itv:200},type:"a",size:"L",cost:85,hp:20,str:0,tec:1,wlk:2,fly:2,tgh:0,tunable:{mwp:1},comment:["飛行ゲージ回復効果？"]}
 
 {id:202210071,name:"ツインタワードBS",size:"L",type:"c",cost:35,hp:20,str:1,tec:2,fly:2,comment:[""]}
 {id:52,name:"ディースモークBS",type:"s",cost:40,hp:25,tec:-1,wlk:2,fly:2,tgh:2}
