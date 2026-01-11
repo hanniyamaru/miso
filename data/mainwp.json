@@ -129,6 +129,7 @@
 {id:5,name:"アサルトライフル",type:"lc",size:"M",cost:130,main:{pwr:16,shl:630,rng:275,spd:480,itv:140},comment:"3連射"}
 {id:8,name:"レイドライフル",type:"lc",size:"M",cost:160,main:{pwr:18,shl:660,rng:275,spd:480,itv:140},comment:"4連射"}
 {id:7,name:"スカウトライフル",type:"lc",size:"M",cost:140,main:{pwr:20,shl:470,rng:275,spd:480,itv:340},comment:"欲望コイン景品（13個）"}
+{id:2026017,name:"マシンライフル",type:"l",size:"S",cost:180,main:{tec:100,pwr:21,shl:1000,rng:275,spd:480,itv:200},comment:["自軍貫通","①無印（未実装　2026/01/07）　②オルター（バトルパス/S20）"]}
 {id:10,name:"ペイロードライフル",type:"c",size:"LL",cost:200,main:{pwr:42,shl:150,rng:350,spd:520,itv:1000}}
 {id:32,name:"ストライカーライフル",main:{pwr:8,shl:820,rng:250,spd:400,itv:140},cost:155,type:"l",size:"M",comment:["自軍貫通","格闘ダメージカット無効"]}
 {id:16,name:"ビームライフル",type:"as",size:"M",cost:70,main:{pwr:25,shl:170,rng:275,spd:520,itv:800}}
