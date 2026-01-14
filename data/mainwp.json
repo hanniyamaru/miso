@@ -29,7 +29,7 @@
 {id:91,name:"アサルトピアースガン",main:{tec:100,pwr:16,shl:520,rng:250,spd:400,itv:300},type:"l",size:"M",cost:180,comment:"未実装:2022/10/12"}
 {id:20230202,name:"ダブルピアースキャノン",main:{tec:100,pwr:20,shl:500,rng:250,spd:400,itv:700},type:"l",size:"L",cost:190,comment:"アクセルセイバー初期装備"}
 {id:2032,name:"ヘレポリスシューター",main:{tec:100,pwr:21,shl:400,rng:250,spd:400,itv:500},type:"l",size:"M",cost:110,comment:["貫通弾","混沌コイン景品（65個）"]}
-{id:202512031,name:"ベリルガンランチャー",main:{tec:100,pwr:21,shl:560,rng:250,spd:440,itv:340},tunable:{mwp:1},joint:{wp:1},fixedParts:{wp:[{main:{tec:100,pwr:46,shl:180,rng:250,spd:480,itv:500},name:"ベリルガンランチャー@",slot:0,comment:["",""]}]},type:"l",cost:200,size:"LL",comment:["貫通弾","@cost+80複合","ベリルスキッドU初期装備"]}
+{id:202512031,name:"ベリルガンランチャー",main:{tec:100,pwr:21,shl:560,rng:250,spd:440,itv:340},tunable:{mwp:1},joint:{wp:1},fixedParts:{wp:[{main:{tec:100,pwr:46,shl:180,rng:250,spd:480,itv:500},name:"ベリルガンランチャー@",slot:0,comment:["実弾属性爆風50％",""]}]},type:"l",cost:200,size:"LL",comment:["貫通弾","@cost+80複合","ベリルスキッドU初期装備"]}
 {id:202512032,name:"ベリルガンランチャー（コンバージョン無し）",main:{tec:100,pwr:21,shl:560,rng:250,spd:440,itv:340},tunable:{mwp:1},type:"l",cost:120,size:"LL",comment:["貫通弾","","ベリルスキッドU初期装備"]}
 
 {id:20240821,name:"クレストライフル",main:{tec:100,pwr:27,shl:360,rng:225,spd:400,itv:500},tunable:{mwp:1},cost:130,type:"l",size:"M",comment:["実弾属性爆風100％　自軍貫通","イクスクレアコラボイベント第2弾",""]}
