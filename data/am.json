@@ -1223,7 +1223,7 @@
 
 {id:20220813,name:"デンデンカムAMJ",main:{pwr:11,shl:400,rng:275,spd:320,itv:500},tunable:{mwp:1},type:"a",size:"S",cost:55,slot:1,comment:["交換NPCミナリア","ビーム爆風10：1"]}
 
-{id:20220601,name:"ドライバーキャノンAMJ",main:{pwr:10,shl:600,rng:330,spd:280,itv:340},tunable:{mwp:1},type:"c",size:"S",cost:60,slot:1,comment:["アスフィ初期装備"]}
+{id:20220601,name:"ドライバーキャノンAMJ",main:{pwr:13,shl:600,rng:330,spd:280,itv:340},tunable:{mwp:1},type:"c",size:"S",cost:60,slot:1,comment:["アスフィ初期装備"]}
 {id:2026010721,name:"ドライバーキャノンAMJ2",main:{tec:100,pwr:17,shl:300,rng:330,spd:280,itv:340},tunable:{mwp:1},type:"c",size:"S",cost:50,slot:1,comment:["リンクショット対応","アスフィTD初期装備"]}
 {id:19,name:"ドローガンAMJ",main:{tec:100,pwr:6,shl:200,rng:250,spd:480,itv:500},tunable:{mwp:1},type:"s",size:"M",cost:60,str:1,tec:1,tgh:-1,slot:1,comment:["引き寄せ","SHOP：15Rt"]}
 
