@@ -32,8 +32,9 @@
 {id:202512031,name:"ベリルガンランチャー",main:{tec:100,pwr:21,shl:560,rng:250,spd:440,itv:340},tunable:{mwp:1},joint:{wp:1},fixedParts:{wp:[{main:{tec:100,pwr:46,shl:180,rng:250,spd:480,itv:500},name:"ベリルガンランチャー@",slot:0,comment:["実弾属性爆風50％",""]}]},type:"l",cost:200,size:"LL",comment:["貫通弾","@cost+80複合","ベリルスキッドU初期装備"]}
 {id:202512032,name:"ベリルガンランチャー（コンバージョン無し）",main:{tec:100,pwr:21,shl:560,rng:250,spd:440,itv:340},tunable:{mwp:1},type:"l",cost:120,size:"LL",comment:["貫通弾","","ベリルスキッドU初期装備"]}
 
-{id:20240821,name:"クレストライフル",main:{tec:100,pwr:27,shl:360,rng:225,spd:400,itv:500},tunable:{mwp:1},cost:130,type:"l",size:"M",comment:["実弾属性爆風100％　自軍貫通","イクスクレアコラボイベント第2弾",""]}
 {id:67,name:"エスティスマグ",main:{pwr:29,shl:380,rng:225,spd:440,itv:500},size:"M",type:"l",cost:180,comment:["自軍貫通","格闘ダメージカット無効"]}
+{id:20240821,name:"クレストライフル",main:{tec:100,pwr:27,shl:360,rng:225,spd:400,itv:500},tunable:{mwp:1},cost:130,type:"l",size:"M",comment:["実弾属性爆風100％　自軍貫通","イクスクレアコラボイベント第2弾",""]}
+{id:20250114,name:"テナキタスR",main:{tec:100,pwr:17,shl:300,rng:225,spd:440,itv:200},tunable:{mwp:1},cost:60,type:"l",size:"S",comment:["実弾属性爆風100％　自軍貫通　CT有り","NPC：フロル",""]}
 
 
 {id:23,name:"LLバルクマグ",type:"l",size:"LL",cost:200,main:{pwr:32,shl:440,rng:225,spd:440,itv:500}}
