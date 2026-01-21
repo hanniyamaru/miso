@@ -553,7 +553,7 @@
 
 {id:300,name:"ドライブリッツAM",size:"M",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1}
 {id:301,name:"ドライブリッツAM2",size:"M",cost:135,hp:20,str:-1,tec:3,wlk:3,main:{tec:100,pwr:23,shl:380,rng:330,spd:480,itv:500},type:"c",tunable:{mwp:1},joint:{wp:0},comment:["爆風20％"]}
-{id:202503054,name:"ドライブリッツAM3",size:"M",cost:185,hp:20,str:-1,tec:3,wlk:1,tgh:2,main:{tec:100,pwr:27,shl:120,rng:330,spd:400,itv:1000},type:"c",tunable:{mwp:1},joint:{wp:0},comment:["チャージ時威力2倍？　一部爆風倍率：0.3倍","ドライブリッツLL"]}
+{id:202503054,name:"ドライブリッツAM3",size:"M",cost:185,hp:20,str:-1,tec:3,wlk:1,tgh:2,main:{tec:100,pwr:25,shl:130,rng:330,spd:400,itv:1000},type:"c",tunable:{mwp:1},joint:{wp:0},comment:["チャージ時威力2倍？　一部爆風倍率：0.3倍","ドライブリッツLL"]}
 
 
 
