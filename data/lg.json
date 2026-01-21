@@ -303,7 +303,7 @@
 {id:37,name:"ガンアームズLG",cost:45,hp:25,str:2,wlk:3,tgh:1}
 
 {id:397,name:"ガンドリルLG",sub:{str:100,pwr:35,shl:0,rng:100,spd:150,itv:2000},tunable:{pwp:1},type:"l",size:"M",cost:175,hp:25,str:2,tec:-1,wlk:3,tgh:2,comment:["スタン無効無視"]}
-{id:202302022,name:"ガンドレッドLG",type:"l",size:"M",cost:65,hp:25,tec:1,wlk:4,fly:-1,tgh:2,sub:{str:100,pwr:0,shl:30,rng:0,spd:200,itv:1000},tunable:{pwp:0},comment:["",""]}
+{id:202302022,name:"ガンドレッドLG",type:"l",size:"M",cost:65,hp:25,tec:1,wlk:4,fly:-1,tgh:2,sub:{str:100,pwr:0,shl:30,rng:0,spd:200,itv:1000},tunable:{pwp:0},comment:["2026/01/21調整",""]}
 
 {id:82,name:"ギャスターLG",cost:45,hp:25,tec:2,wlk:3,fly:-1,tgh:2}
 {id:202512036,name:"ギャスターLG2",cost:45,hp:25,tec:2,wlk:3,fly:-1,tgh:2,comment:["[ギャスター・U]"]}
