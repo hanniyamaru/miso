@@ -343,7 +343,7 @@
 
 
 {id:66,name:"シノーリスLG",cost:45,hp:25,str:-1,tec:1,wlk:4,tgh:2}
-{id:134,name:"シノーリスLG2",sub:{str:100,pwr:25,shl:0,rng:80,spd:180,itv:4000},type:"l",cost:95,hp:25,str:1,wlk:4,fly:-1,tgh:2}
+{id:134,name:"シノーリスLG2",sub:{str:100,pwr:25,shl:0,rng:80,spd:180,itv:4000},type:"l",cost:95,hp:25,str:1,wlk:4,fly:-1,tgh:2,comment:["コンボ可"]}
 
 {id:202310181,name:"ジャガーアームLG",size:"M",cost:45,hp:25,str:1,tec:1,wlk:3,fly:-1,tgh:2,comment:[""]}
 {id:202408084,name:"ジャガーアームLG2",size:"M",cost:45,hp:25,str:2,tec:-1,wlk:3,tgh:2,comment:["アサルトジャガー"]}
