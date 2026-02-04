@@ -688,6 +688,9 @@
 {id:143,name:"ランドスAM2",tunable:{mwp:1},type:"c",size:"M",cost:100,hp:15,str:-1,tec:3,wlk:2,main:{pwr:12,shl:540,rng:330,spd:440,itv:340,tec:100},comment:["ランドス・Q","メインウェポンのみ装着可能"]}
 
 {id:188,name:"リバースサンダーAM",size:"M",cost:35,hp:20,str:2,tec:-1,wlk:3,tgh:1}
+{id:2026020431,name:"リプスAM",size:"M",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:0,tgh:3,comment:[""]}
+{id:2026020432,name:"リプスAM2",type:"c",size:"M",cost:125,hp:20,str:-1,tec:3,wlk:1,fly:0,tgh:2,sub:{tec:100,pwr:44,shl:120,rng:350,spd:350,itv:1000},tunable:{pwp:0},joint:{wp:0},comment:[""]}
+
 {id:113,name:"ルッカ・デーコAM",cost:40,hp:25,str:2,tec:2,wlk:1,fly:-1,tgh:1}
 {id:161,name:"ルッカ・デーコAM2",main:{shl:60,spd:10,itv:1000},tunable:{mwp:1},type:"l",size:"M",cost:60,hp:25,tec:1,wlk:1,tgh:3}
 {id:162,name:"ルッカ・デーコAM3",main:{pwr:21,shl:540,rng:250,spd:400,itv:340,tec:100},tunable:{mwp:1},type:"l",size:"M",cost:190,hp:25,str:-1,tec:3,wlk:2,tgh:1,joint:{wp:0}}
