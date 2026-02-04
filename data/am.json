@@ -1203,7 +1203,7 @@
 
 
 {group:"ジョイント",prefixID:"J",commonStat:{jointPart:1},nextID:8}
-{id:35,name:"スロット1AMJ",slot:1,size:"M"}
+{id:35,name:"スロット1AMJ",slot:1,size:"M",comment:["ジェットバーンAMJ（L）"]}
 
 {id:2,name:"アシュラAMJ",type:"lac",size:"M",cost:40,hp:-30,tec:-2,wlk:-1,joint:{am:2},slot:1}
 {id:28,name:"ルペットAMJ",joint:{am:2},comment:"性能が同じAMJ2と統合",type:"lac",size:"M",cost:20,hp:-35,str:-1,tec:-2,wlk:-1,fly:-1,tgh:-1,slot:1}
