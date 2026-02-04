@@ -857,7 +857,8 @@
 {id:8,name:"シェイデンAM",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1}
 {id:59,name:"シェイデンAM3",cost:40,hp:25,str:2,wlk:1,fly:1,tgh:1}
 {id:20230202,name:"シェイデン・リンAM",type:"a",size:"L",cost:105,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,main:{tec:100,pwr:15,shl:330,rng:275,spd:300,itv:600},tunable:{mwp:1},comment:["",""]}
-
+{id:2026020441,name:"ジェットバーンAM",type:"a",size:"L",cost:115,hp:20,str:-1,tec:3,wlk:0,fly:1,tgh:2,sub:{tec:100,pwr:32,shl:100,rng:150,spd:300,itv:500},tunable:{pwp:0},comment:["サブチューン可否不明"]}
+{id:2026020442,name:"ジェットバーンAM2",type:"a",size:"L",cost:165,hp:20,str:-1,tec:3,wlk:0,fly:2,tgh:1,sub:{tec:100,pwr:45,shl:330,rng:275,spd:350,itv:1000},tunable:{pwp:0},comment:["サブロック？"]}
 {id:202305122,name:"ジェットファルコンAM",main:{tec:100,pwr:15,shl:180,rng:250,spd:260,itv:800},tunable:{mwp:1},auraStat:{main:{tec:100,pwr:9,shl:570,rng:275,spd:300,itv:340}},type:"a",size:"L",cost:65,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,joint:{wp:1},fixedParts:{wp:{name:"ジェットファルコンAM@",main:{tec:100,pwr:18,shl:280,rng:275,spd:530,itv:800},tunable:{mwp:1},auraStat:{main:{tec:100,pwr:19,shl:340,rng:275,spd:530,itv:500}},type:"a",size:"L",cost:60,comment:"-"}}}
 {id:202305123,name:"ジェットファルコンAM（コンバージョン無し）",main:{tec:100,pwr:15,shl:180,rng:250,spd:260,itv:800},tunable:{mwp:1},auraStat:{main:{tec:100,pwr:9,shl:570,rng:275,spd:300,itv:340}},type:"a",size:"L",cost:65,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,joint:{wp:1}}
 
