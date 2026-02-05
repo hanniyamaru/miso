@@ -551,8 +551,7 @@
 
 {id:49,name:"ダグドライバーBS",type:"c",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:3}
 
-{id:43,name:"タッチダウナーBS",size:"M",type:"l",cost:35,hp:20,str:1,wlk:1,fly:2,tgh:1}
-
+{id:202602045,name:"タッチダウナーBS",size:"M",type:"l",cost:35,hp:20,str:1,wlk:1,fly:2,tgh:1}
 {id:43,name:"ダテマックスBS",cost:35,hp:20,wlk:1,fly:3,tgh:1,type:"l"}
 
 
