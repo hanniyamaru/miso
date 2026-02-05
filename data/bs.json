@@ -388,6 +388,7 @@
 {id:40,name:"アドネBS",size:"M",cost:35,hp:20,tec:1,wlk:1,fly:3}
 
 {id:56,name:"アハトジーベンBS",type:"c",cost:40,hp:25,str:2,tec:1,wlk:1,fly:2,tgh:-1}
+{id:202602046,name:"アハトジーベンBS2",type:"c",cost:40,hp:25,str:2,tec:1,wlk:1,fly:1,tgh:0,comment:["アハトジーベンPD"]}
 
 {id:34,name:"アマテウスBS",type:"c",cost:40,hp:25,str:1,tec:2,wlk:-1,fly:3}
 {id:20220414,name:"アルヴィーテBS",type:"a",cost:55,hp:20,tec:1,wlk:1,fly:3,sub:{shl:40,rng:150,spd:150,itv:1000},comment:["◆CT6秒 ◆ブースト回復：50％","◆離陸：斜め+入力方向 ◆飛行：入力方向※1","※1　ブーストゲージ消失中は消失直前の進行方向を受け継ぎ、ゲージ消失中は移動キー入力を受け付けない"]}
