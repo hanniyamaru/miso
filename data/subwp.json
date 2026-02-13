@@ -96,7 +96,7 @@
 {id:202312211,name:"ルミトルニランス",type:"l",size:"L",cost:120,sub:{str:100,pwr:32,rng:0,spd:250,itv:1000},comment:["WLK依存サブ","NPC：ミュラ"]}
 {id:20240213,name:"キューピッドスピアR",type:"l",size:"M",cost:140,sub:{str:100,pwr:33,rng:77,spd:94,itv:1000},comment:["バレンタインオーダー（2024）景品","B共通（イベント中域・ホワイトデーキューブ）"]}
 {id:202507025,name:"ホーネットスピア",type:"a",size:"S",cost:160,sub:{str:100,pwr:28,shl:120,rng:85,spd:200,itv:1000},comment:["ポイズン効果（確率）","武器チューン不可","ビーゾルB初期装備"]}
-{id:20260212,name:"チョコレートランス",type:"l",size:"M",cost:120,sub:{str:100,pwr:30,rng:100,spd:250,itv:3000},comment:["","（イベント中域VD（期間限定ドロップ）・カップリングキューブ（ボスのみ））"]}
+{id:20260212,name:"チョコレートランス",type:"l",size:"M",cost:120,sub:{str:100,pwr:30,rng:100,spd:250,itv:3000},comment:["","イベント中域VD（期間限定ドロップ）・カップリングキューブ（ボスのみ）"]}
 
 
 {group:"アクス系",prefixID:"AX",nextID:10}
