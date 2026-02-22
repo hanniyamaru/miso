@@ -297,7 +297,7 @@
 {id:202404041,name:"エンジェルシューター",size:"S",cost:115,main:{str:100,pwr:17,shl:750,rng:250,spd:440,itv:200},sub:{str:100,pwr:16,shl:240,rng:250,spd:400,itv:500},tunable:{mwp:1,pwp:0},type:"l",comment:["メイン：実弾属性爆風100％　リンクショット対応","サブ：実弾属性爆風100％　コンボ可能","シルフィーⅡAM専用コンバージョンパーツ"]}
 {id:202404251,name:"デュランダル",main:{str:100,pwr:20,shl:50,rng:200,spd:570,itv:500},sub:{str:100,pwr:36,rng:77,spd:94,itv:1000},tunable:{mwp:1,pwp:1},type:"l",size:"S",cost:130,comment:"シルフィーⅡAM専用コンバージョンパーツ"}
 {id:202404253,name:"ヤグルシ",main:{str:100,shl:15,rng:0,spd:10,itv:1000},sub:{str:100,pwr:34,rng:77,spd:94,itv:1000},tunable:{mwp:1,pwp:1},type:"l",size:"S",cost:70,comment:["アイムールの対","シルフィーⅡAM専用コンバージョンパーツ"]}
-{id:202404254,name:"ロリカ",type:"l",size:"S",cost:0,slot:0,comment:["BDステップ変更→ブレイブドライブBS系の突進","シルフィーⅡBD専用コンバージョンパーツ"]}
+{id:202404254,name:"ロリカ",type:"l",size:"S",cost:0,slot:0,comment:["BDステップ変更→ブレイブドライブBS系の突進（無敵時間有り）","シルフィーⅡBD専用コンバージョンパーツ"]}
 
 
 {group:"ナイトフィアーコンバージョン",prefixID:"MOx",commonStat:{tunable:{pwp:1}},nextID:17}
