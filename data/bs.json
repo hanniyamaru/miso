@@ -423,6 +423,8 @@
 {id:70,name:"ウルフガイBS",tunable:{pwp:1},sub:{str:100,pwr:28,rng:100,spd:80,itv:1000},type:"l",cost:40,hp:25,str:1,tec:-1,wlk:2,fly:3,comment:["変形省略","アリーナコイン景品"]}
 
 {id:71,name:"エアロライダーBS",cost:35,hp:20,str:1,wlk:1,fly:2,tgh:1,type:"l",size:"M",comment:["Season7アリーナコイン景品"]}
+{id:202603045,name:"エアロライダーBS2",cost:35,hp:20,tec:1,wlk:2,fly:1,tgh:1,type:"l",size:"M",comment:["COP"]}
+
 {id:202207061,name:"エスエルBS",type:"c",size:"M",cost:30,hp:15,str:1,fly:2,tgh:1,comment:"Season6アリーナコイン景品"}
 {id:202412045,name:"エスエルBS2",type:"c",size:"M",cost:35,hp:20,wlk:2,fly:2,tgh:1,comment:"エスエルDX"}
 
