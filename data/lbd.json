@@ -3,7 +3,7 @@
 
 {group:"陸　近日更新",prefixID:"LS",commonStat:{size:"S",type:"l"},nextID:35}
 
-{id:202603043,name:"リュウセイオーBD",cost:490,capa:945,hp:270,str:5,tec:12,wlk:16,fly:9,tgh:9,wbid:3,cartridge:{hpup:10,lv1:"75*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|25@25|26@20|21@20|13@30|32@50|31@40"}}
+{id:202603043,name:"リュウセイオーBD",size:"M",type:"l",cost:490,capa:945,hp:270,str:5,tec:12,wlk:16,fly:9,tgh:9,wbid:3,cartridge:{hpup:10,lv1:"75*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|25@25|26@20|21@20|13@30|32@50|31@40"}}
 
 
 {id:202602041,name:"マシロBD2",sub:{str:100,pwr:30,shl:30,rng:120,spd:200,itv:1000},builtin:{bs:1},joint:{wp:1},cartridge:{hpup:14,lv1:"4*6@25|7@20|9@20|10@15|17@15|18@15|20@15|23@25|16@20|21@20|14@20|13@30|34@15|32@50|31@40"},fixedParts:{hd:{name:"マシロHD",cost:40,hp:25,str:1,tec:1,wlk:2,fly:1,type:"l",size:"S"},lg:{name:"マシロLG",cost:45,hp:25,str:1,wlk:3,tgh:2,type:"l",size:"S"},am:[{name:"マシロAM",cost:40,hp:25,str:2,tgh:3,type:"l",size:"S"},{name:"マシロAM",cost:40,hp:25,str:2,tgh:3,type:"l",size:"S"}]},type:"l",size:"S",cost:530,capa:900,hp:245,str:15,tec:3,wlk:15,fly:11,tgh:9,wbid:999,comment:["WB：確率ライトフロスト効果","サブ：ダッシュリストリクト効果","[マシロ・ポッケ]"]}
