@@ -609,7 +609,8 @@
 {group:"ゼタ・アーセナルコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:20221006,name:"ゼタ・アーセナルAMEX",type:"c",cost:70,slot:0,main:{tec:100,pwr:9,shl:600,rng:350,spd:240,itv:900},tunable:{mwp:1},comment:["ANTIAIR MISSILE"]}
 {id:202210061,name:"ゼタ・アーセナルAMEX2",type:"c",cost:70,slot:0,main:{tec:100,pwr:26,shl:240,rng:350,spd:350,itv:1000},tunable:{mwp:1},comment:["SPREAD MINE"]}
-
+{id:2026030441,name:"ゼタ・アーセナルAMEX3",type:"c",cost:70,slot:0,main:{tec:100,pwr:27,shl:600,rng:350,spd:240,itv:900},tunable:{mwp:1},comment:["ANTIAIR MISSILE"]}
+{id:2026030442,name:"ゼタ・アーセナルAMEX4",type:"c",cost:70,slot:0,main:{tec:100,pwr:18,shl:80,rng:350,spd:480,itv:2000},tunable:{mwp:1},comment:["EXPLOSIVE FIRE"]}
 
 
 {group:"セリュー・ブランシュコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
