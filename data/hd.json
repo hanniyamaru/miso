@@ -363,7 +363,7 @@
 
 {id:22,name:"ケンタクロスHD",cost:35,hp:20,str:1,tec:1,wlk:2,fly:1,comment:["ロボガラポン"]}
 {id:202306094,name:"ケントゥリオンHD",size:"M",cost:35,hp:20,str:1,wlk:2,fly:1,tgh:1,comment:[""]}
-{id:114,name:"ゲンブラHD",cost:40,hp:25,str:1,tec:2,fly:1,tgh:1,comment:"AURA機構省略"}
+{id:114,name:"ゲンブラHD",cost:40,hp:25,str:1,tec:2,fly:1,tgh:1,comment:["🔄AURA機構 ※変形：砲のみ"]}
 
 
 
@@ -474,7 +474,7 @@
 
 {id:10,name:"スコルタンHD",cost:35,hp:20,str:1,tec:1,wlk:1,tgh:2}
 {id:533,name:"スコルタンHD2",cost:35,hp:20,tec:2,wlk:2,tgh:1}
-{id:106,name:"スゼクHD",cost:40,hp:25,str:2,wlk:-1,fly:2,tgh:2,comment:"AURA機構省略"}
+{id:106,name:"スゼクHD",cost:40,hp:25,str:2,wlk:-1,fly:2,tgh:2,comment:["🔄AURA機構 ※変形：空のみ"]}
 
 {id:246,name:"スチールバーンHD",cost:40,hp:25,str:1,wlk:2,fly:-1,tgh:3}
 {id:1,name:"スチールライダーHD",cost:40,hp:25,str:1,wlk:2,tgh:2}
@@ -484,8 +484,8 @@
 {id:336,name:"スポア・マッシュHD",size:"M",cost:35,hp:20,tec:2,fly:1,tgh:2}
 {id:20231212,name:"スライプロスHD",main:{str:100,pwr:10,shl:120,rng:200,spd:500,itv:300},tunable:{mwp:1},size:"M",type:"l",cost:65,hp:20,str:2,tec:-1,wlk:2,tgh:2,comment:["","雪まつりオーダー景品"]}
 
-{id:105,name:"セイロンHD",type:"a",cost:80,hp:25,str:-1,tec:3,fly:2,tgh:1,main:{pwr:27,shl:140,rng:275,spd:440,itv:640},tunable:{mwp:1},comment:["3：1","AURA機構省略"]}
-{id:155,name:"セイロンHD2",type:"a",cost:80,hp:25,str:-1,tec:4,fly:2,main:{pwr:37,shl:70,rng:275,spd:440,itv:800},tunable:{mwp:1},comment:"AURA機構省略"}
+{id:105,name:"セイロンHD",type:"a",cost:80,hp:25,str:-1,tec:3,fly:2,tgh:1,main:{pwr:27,shl:140,rng:275,spd:440,itv:640},tunable:{mwp:1},comment:["3：1","🔄AURA機構 ※変形：空のみ"]}
+{id:155,name:"セイロンHD2",type:"a",cost:80,hp:25,str:-1,tec:4,fly:2,main:{pwr:37,shl:70,rng:275,spd:440,itv:800},tunable:{mwp:1},comment:["🔄AURA機構 ※変形：空のみ"]}
 {id:202210061,name:"ゼタ・アーセナルHD",size:"M",cost:35,hp:20,tec:2,wlk:1,fly:1,tgh:1}
 {id:202603044,name:"ゼタ・アーセナルHD2",size:"M",cost:35,hp:20,tec:2,wlk:0,fly:1,tgh:2,comment:["ゼタ・アーセナルⅡ"]}
 
@@ -641,7 +641,7 @@
 {id:534,name:"ビッグマンテスHD2",cost:40,hp:25,tec:2,fly:2,tgh:1}
 {id:202508065,name:"ビッグマンテスHD3",size:"M",cost:35,hp:20,str:-1,tec:2,fly:2,tgh:2,comment:["ULT"]}
 
-{id:115,name:"ビャッコウHD",auraStat:{str:2,tec:-1,wlk:1,fly:1,tgh:2},cost:40,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2,comment:"AURA機構"}
+{id:115,name:"ビャッコウHD",auraStat:{str:2,tec:-1,wlk:1,fly:1,tgh:2},cost:40,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2,comment:["🔄AURA機構 ※変形：陸のみ"]}
 
 
 
