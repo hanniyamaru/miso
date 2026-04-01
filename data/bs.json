@@ -863,11 +863,11 @@
 
 {id:25,name:"ドミクラウンBS",type:"l",cost:35,hp:20,str:2,tec:-1,fly:3,tgh:1}
 {id:73,name:"ドラゴネイルBS",type:"l",cost:40,hp:25,str:2,tec:1,wlk:1,fly:2,tgh:-1}
-
 {id:290,name:"ドラッケンBS",type:"l",cost:40,hp:25,str:1,tec:-1,fly:3,tgh:2}
+{id:202604012,name:"トランペッターBS",sub:{tec:100,pwr:0,shl:30,rng:150,spd:320,itv:200},tunable:{pwp:0},cost:105,hp:20,str:0,tec:0,wlk:1,fly:3,tgh:1,type:"a",size:"L"}
 {id:202501082,name:"トリンティアBS",type:"s",cost:35,hp:20,tec:1,wlk:-1,fly:4,tgh:1}
-
 {id:1201,name:"トルク・マイティバインBS",type:"l",cost:40,hp:25,str:1,fly:2,tgh:2}
+
 {id:20230802,name:"ナイア・サーバルBS",size:"L",type:"c",cost:35,hp:20,tec:2,wlk:-1,fly:3,tgh:1,comment:[""]}
 
 {id:202301182,name:"バクサイガーBS",size:"L",type:"c",cost:30,hp:15,tec:1,wlk:-1,fly:2,tgh:2,comment:"Season8アリーナコイン景品"}
