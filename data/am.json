@@ -946,7 +946,8 @@
 {id:20230112,name:"ディランアーカムAM",type:"a",size:"L",cost:70,hp:25,tec:2,fly:1,tgh:2,main:{tec:100,pwr:14,shl:390,rng:300,spd:400,itv:500},tunable:{mwp:0},comment:["ビーム爆風100％　誘導弾","AM@cost+30複合　武器チューン不可"]}
 {id:113,name:"ディランアーカムAM（コンバージョンなし）",joint:{wp:1},size:"L",cost:40,hp:25,tec:2,fly:1,tgh:2}
 {id:99,name:"ティルージュAM",main:{pwr:[17,19,21],shl:[250,280,320],rng:275,spd:400,itv:[700,500,500]},sub:{tec:100,pwr:[28,29,30],shl:0,rng:70,spd:85,itv:1500},tunable:{mwp:1,pwp:1},joint:{am:1},fixedParts:{am:{name:"ティルージュAM@",slot:0,joint:{wp:0}}},cost:40,hp:25,str:-1,tec:2,fly:3,tgh:1,comment:["変形省略","内蔵強化対応"]}
-
+{id:202604011,name:"アバドホルンAM（ディフレクト・バニッシャー）",type:"l",size:"L",cost:50,hp:25,str:1,wlk:1,fly:1,tgh:2,comment:["名称変更　左腕のみ装備可能","ディフレクト・バニッシャーcost+10複合","アバドホルンBD・AMJ専用コンバージョンパーツ"],fixedParts:{wp:{name:"ディフレクト・バニッシャー",main:{shl:15,rng:0,spd:10,itv:1000},tunable:{mwp:1},slot:3,comment:["一部パリィ効果"]}}}
+{id:2026040112,name:"アバドホルンAM（コンバージョン無し）",type:"l",size:"L",cost:40,hp:25,str:1,wlk:1,fly:1,tgh:2,comment:["名称変更　左腕のみ装備可能","","アバドホルンBD・AMJ専用コンバージョンパーツ"]}
 
 {id:11,name:"トイボックスAM",type:"c",cost:120,hp:25,tec:3,tgh:2,main:{pwr:12,shl:580,rng:330,spd:290,itv:540},tunable:{mwp:1},joint:{wp:0}}
 {id:12,name:"トイボックスAM2",type:"c",cost:95,hp:25,tec:2,tgh:3,main:{pwr:12,shl:560,rng:330,spd:480,itv:300},tunable:{mwp:1},comment:["爆風100％","HEAT"]}
@@ -1230,6 +1231,7 @@
 
 {id:53,name:"ティタロテスAMJ",type:"c",size:"L",cost:20,tunable:{mwp:1},slot:1,main:{pwr:17,shl:120,rng:300,spd:220,itv:600},comment:["一斉射撃時長CT","エアダッシュリストリクト効果"]}
 {id:27,name:"ティルージュAMJ",main:{pwr:6,shl:500,rng:275,spd:320,itv:340},tunable:{mwp:1},type:"a",size:"M",cost:40,slot:1,comment:["ブースト回収効果"]}
+{id:2026040113,name:"デモリッションホルンAMJ",type:"c",size:"L",cost:10,tunable:{mwp:1},slot:1,main:{str:100,pwr:49,shl:40,rng:250,spd:440,itv:1000},comment:["貫通弾","リンクショット対応　一斉射撃不可","アバドホルンBD専用コンバージョンパーツ"]}
 
 {id:20220813,name:"デンデンカムAMJ",main:{pwr:11,shl:400,rng:275,spd:320,itv:500},tunable:{mwp:1},type:"a",size:"S",cost:55,slot:1,comment:["交換NPCミナリア","ビーム爆風10：1"]}
 
