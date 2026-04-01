@@ -2,6 +2,7 @@
 {id:1,name:"メモリ･スロット",size:"M",type:"lacs",slot:3,comment:["実機との個数に差がないか確認を推奨"]}
 {id:52,name:"ネムリムバット",type:"l",size:"S",slot:3,cost:120,main:{tec:100,pwr:17,shl:400,rng:250,spd:440,itv:500},sub:{tec:100,pwr:38,shl:5,rng:77,spd:94,itv:1000},tunable:{mwp:1,pwp:1},comment:["calc上でチューンが外れる不具合対策の為部位変更（WP→HDAC）"]}
 {id:20241002,name:"ファットバット",type:"l",size:"S",slot:3,cost:90,main:{str:100,pwr:30,shl:100,rng:200,spd:440,itv:700},sub:{str:100,pwr:36,shl:0,rng:77,spd:94,itv:1000},tunable:{mwp:1,pwp:1},comment:["calc上でチューンが外れる不具合対策の為部位変更（WP→HDAC）"]}
+{id:20260401,name:"フェイタルセキュリティパッチ",size:"L",type:"lacs",slot:0,comment:["①自機への正面ダメージ10％アップ","②自機への側面ダメージ20％カット（ビーム以外）"]}
 
 
 {group:"HD",prefixID:"H",nextID:3}
