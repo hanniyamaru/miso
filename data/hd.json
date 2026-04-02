@@ -831,7 +831,8 @@
 {id:202203023,name:"S・アクティナGHD",cost:35,hp:20,str:2,wlk:2,fly:-1,tgh:2}
 
 
-{id:197,name:"V･ウンケンHD",size:"M",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
+{id:197,name:"V･ウンケンHD",size:"M",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2,comment:["変形省略"]}
+{id:202604016,name:"V･ウンケンHD2",size:"M",cost:35,hp:20,str:0,tec:1,wlk:1,fly:1,tgh:2,comment:["変形省略"]}
 
 
 
