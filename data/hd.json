@@ -148,6 +148,8 @@
 {id:202409042,name:"G・リモアHD2",type:"lacs",size:"S",cost:35,hp:20,str:-1,tec:3,wlk:1,fly:2,comment:"F・リモア"}
 
 {id:42,name:"M・アーチHD",type:"lacs",size:"S",cost:35,hp:20,tec:2,wlk:1,fly:1,tgh:1}
+{id:202604014,name:"P・リズベッドHD",cost:35,hp:20,wlk:2,fly:1,tgh:2,size:"S"}
+
 {id:20220603,name:"S・イレーヌHD",cost:40,hp:25,wlk:1,fly:3,tgh:1,size:"S"}
 
 
