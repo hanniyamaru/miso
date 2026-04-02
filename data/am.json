@@ -46,6 +46,7 @@
 {id:202207281,name:"オレガーAM2",size:"S",cost:35,hp:20,str:1,tec:1,wlk:2,fly:1,comment:"アルカンタスドロップ"}
 
 {id:69,name:"カゲタマAM",cost:35,hp:20,str:1,tec:1,wlk:2,tgh:1}
+{id:202604015,name:"ガデルAM",type:"l",size:"S",cost:35,hp:20,str:2,tec:-1,wlk:1,tgh:3}
 
 {id:5,name:"カメンティスAM",cost:35,hp:20,tec:1,wlk:2,tgh:2}
 {id:202501085,name:"カメンティスAM2",type:"l",cost:105,hp:20,str:3,tec:-1,wlk:2,fly:0,tgh:1,sub:{str:100,pwr:34,rng:84,spd:94,itv:1000},tunable:{pwp:1},joint:{wp:0},comment:["左右装備時攻撃変化","カメンティスパンチ"]}
