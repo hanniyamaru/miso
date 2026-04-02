@@ -681,7 +681,7 @@
 {id:20240111,name:"ブリッツェルト・TBHD",size:"M",cost:35,hp:20,str:2,tec:-1,fly:3,tgh:1,comment:["",""]}
 
 {id:410,name:"ブリンクHD",cost:40,hp:25,str:1,tec:3,fly:-1,tgh:2}
-
+{id:202604013,name:"ブリンクHD2",cost:40,hp:25,str:0,tec:3,wlk:1,fly:-1,tgh:2,comment:["ホーリー・ブリンク"]}
 {id:51,name:"ブレイズバロンHD",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2}
 {id:52,name:"ブレイズバロンHD2",cost:40,hp:25,str:-1,tec:3,wlk:1,tgh:2}
 {id:130,name:"ブレイズバロンHD3",cost:70,hp:25,tec:2,wlk:2,fly:-1,tgh:2,sub:{tec:100,pwr:30,rng:250,spd:320,itv:1000},type:"l",comment:["サブロック　誘導弾","変化前：実弾属性","炎上後：格闘属性（格闘スタン追加）　確率バーニング効果","MM"]}
