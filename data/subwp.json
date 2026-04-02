@@ -13,9 +13,9 @@
 {id:1,name:"シールド（cost：40）",size:"M",cost:40,comment:["シールド耐久値100","以下同系パーツ","バックラー（SS・因果コイン20個）","キャンバスシールド（エンジェルコイン20個）","コフィンシールド（α：オータムキューブ　）","セイレーンピックシールド（イベント・混沌コイン50個）","セイレーンピックシールドG（イベント・日替り店）","チョコレートシールド（イベント中域：ヴァンピレ）","プリンセスシールドR","トゥームシールド（α：オータムキューブ　）","コートシールド（スキロン初期装備）"]}
 {id:2,name:"バイパーシールド",size:"L",cost:40,comment:["シールド耐久値120","以下同系パーツ","サルコファガスシールド（NPCリエル　ステーションディスク景品　エンジェルコイン×50）","ライオットシールド（シノーリス初期装備）","07式ライオットシールド（コラボイベント）"]}
 {id:3,name:"スパイクシールド",type:"l",size:"LL",cost:90,sub:{str:100,pwr:28,rng:120,spd:400,itv:500},tunable:{pwp:1},comment:"シールド耐久値180"}
-
 {id:2108,name:"ナイトシールド",type:"l",size:"S",cost:50,main:{str:100,pwr:18,shl:200,rng:250,spd:480,itv:300},tunable:{mwp:1},comment:["シールド耐久値105","STR依存"]}
 {id:17,name:"ブリッツシールド",main:{spd:10,itv:1000,shl:50},sub:{pwr:27,rng:70,spd:85,itv:1000,str:100},type:"l",size:"S",cost:70,tunable:{mwp:1,pwp:1},comment:"B・ポーンジャーAr初期装備"}
+{id:202604015,name:"ガデルシールド",type:"l",size:"S",cost:80,main:{str:100,pwr:25,shl:500,rng:250,spd:300,itv:200},tunable:{mwp:1},comment:["反射攻撃（ビームを除く）","ガデル初期装備"]}
 {id:202604013,name:"ブリンクタワーシールド",tunable:{mwp:1,pwp:0},type:"c",size:"M",cost:80,main:{tec:100,pwr:30,shl:500,rng:350,spd:320,itv:200},comment:["反射攻撃","ホーリー・ブリンク初期装備",""]}
 
 {id:20220802,name:"ユニオンシールドBRD",main:{str:100,pwr:0,shl:50,rng:0,spd:10,itv:1000},tunable:{mwp:1,pwp:0},type:"a",size:"M",cost:35,comment:["空戦専用・ブースト回復効果","ユニオンコイン景品（80個）"]}
@@ -66,6 +66,7 @@
 {id:20230208,name:"カカオキャリバーC",type:"a",size:"M",cost:120,sub:{str:100,pwr:30,shl:100,rng:70,spd:85,itv:500},comment:["モーションはディバインブレードと同一","バレンタインオーダー報酬","W共通（イベント中域・ホワイトデーキューブ）"]}
 {id:20231221,name:"ゲーミングソード",type:"l",size:"M",cost:140,sub:{str:100,pwr:33,rng:77,spd:94,itv:1000},comment:["","NPC：ミュラ"]}
 {id:202403065,name:"サイバーセイバー",type:"l",size:"M",cost:160,sub:{str:100,pwr:34,rng:77,spd:94,itv:1000},comment:["別サブコンボ時、飛行ゲージ消失中も空中誘導可","サイバーニンJ初期装備"]}
+{id:202604015,name:"ガデルセイバー",type:"l",size:"S",cost:110,sub:{str:100,pwr:32,rng:77,spd:94,itv:1000},comment:["確率ダッシュリストリクト効果","ガデル初期装備"]}
 
 
 {group:"ナイフ系",prefixID:"KN",commonStat:{tunable:{pwp:1}},nextID:8}
