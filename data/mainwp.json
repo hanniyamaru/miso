@@ -334,6 +334,7 @@
 {id:2022113,name:"ハドロンシューター",type:"lc",size:"M",cost:160,main:{pwr:15,shl:1040,rng:180,spd:480,itv:100},comment:["ダメージ0.7倍","スキロン初期装備","※チューン・クラフト以外の射程延長効果は適用されない"]}
 {id:18,name:"スクイドルガン",main:{tec:100,pwr:6,shl:1050,rng:180,spd:480,itv:100},tunable:{mwp:1,pwp:0},type:"s",size:"M",cost:50,comment:["ディスオーダー効果　ダメージ0.7倍？","※チューン・クラフト以外の射程延長効果は適用されない","スクイドルガールα初期装備"]}
 {id:202508271,name:"デルトレインレーザー",type:"a",size:"L",cost:180,main:{tec:100,pwr:14,shl:1600,rng:225,spd:480,itv:100},comment:["ダメージ0.7倍？　チャージ　減衰率？％　全弾発射不可","※チューン・クラフト以外の射程延長効果は適用されない","イベント宙域「ディメンション・ピアサー」報酬"]}
+{id:202604013,name:"ブリンクハンマー",tunable:{mwp:1,pwp:0},type:"c",size:"M",cost:150,main:{tec:100,pwr:12,shl:800,rng:280,spd:480,itv:100},sub:{tec:100,pwr:55,shl:30,rng:150,spd:350,itv:1000},comment:["メイン：ダメージ0.7倍？　爆風属性","ホーリー・ブリンク初期装備","※チューン・クラフト以外の射程延長効果は適用されない"]}
 
 {group:"非照射",prefixID:"LS",commonStat:{tunable:{mwp:1}},nextID:1}
 
