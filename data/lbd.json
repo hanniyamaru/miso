@@ -6,7 +6,7 @@
 
 {id:202604011,name:"アバドホルンBD",joint:{hd:0,hdac:4,fcac:1},cartridge:{hpup:10,lv1:"75*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|30@20|26@20|13@30|34@15|32@50|31@40"},fixedParts:{hdac:["S1","S1","S20260401"]},type:"l",size:"L",cost:530,capa:995,hp:330,str:16,tec:4,wlk:12,fly:7,tgh:17,wbid:999,comment:["WB：リベンジソードアタック効果（自身のHP割合が低いほど、格闘攻撃の威力が上昇する）　オールガード60％　現在HP-50％　シビアリデュースリペア　WB終了時残りHP2倍","HD機能内蔵　一部コンバージョン省略","[アトラ・アバドホルン]"]}
 
-{id:202604015,name:"ガデルBD",joint:{hd:0,hdac:3,fcac:1},cartridge:{hpup:18,lv1:"85*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|15@15|12@20|21@20|13@30|32@50|31@40"},fixedParts:{hdac:["S1","S1"]},type:"l",size:"S",cost:475,capa:780,hp:250,str:16,tec:7,wlk:10,fly:7,tgh:16,wbid:6,comment:["HD内蔵",""]}
+{id:202604015,name:"ガデルBD",joint:{hd:0,bs:0,hdac:3,fcac:1},cartridge:{hpup:18,lv1:"85*6@25|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|15@15|12@20|21@20|13@30|32@50|31@40"},fixedParts:{hdac:["S1","S1"]},type:"l",size:"S",cost:475,capa:780,hp:250,str:16,tec:7,wlk:10,fly:7,tgh:16,wbid:6,comment:["HD内蔵",""]}
 
 
 
