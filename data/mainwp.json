@@ -80,7 +80,7 @@
 {id:46,name:"クロスシューター",type:"lacs",size:"S",cost:60,main:{pwr:14,shl:430,rng:250,spd:440,itv:400}}
 {id:48,name:"パワーシューター",type:"l",size:"M",cost:140,main:{pwr:36,shl:230,rng:250,spd:400,itv:760}}
 {id:49,name:"バリスタシューター",size:"M",cost:180,main:{pwr:29,shl:310,rng:250,spd:400,itv:540},type:"la",comment:"欲望コイン景品（20個）"}
-{id:153,name:"クエンチシューター",main:{pwr:17,shl:500,rng:225,spd:440,itv:340},type:"l",size:"M",cost:160,comment:["飛距離測定不能　反発効果"]}
+{id:153,name:"クエンチシューター",main:{pwr:17,shl:500,rng:225,spd:440,itv:340},type:"l",size:"M",cost:160,comment:["反発効果","飛距離修正：2026/4/3"]}
 {id:73,name:"トリプルシューター",main:{pwr:10,shl:660,rng:250,spd:320,itv:800},type:"l",size:"M",cost:150,comment:["誘導弾","ミッションコイン景品（65個）"]}
 {id:63,name:"ビームシューター",main:{pwr:26,shl:280,rng:275,spd:485,itv:600},type:"a",size:"M",cost:160}
 {id:2022209,name:"キューピッドシューター",type:"lacs",size:"M",cost:60,main:{pwr:14,shl:430,rng:250,spd:440,itv:400}}
