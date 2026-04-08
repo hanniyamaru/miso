@@ -696,7 +696,7 @@
 
 {id:188,name:"リバースサンダーAM",size:"M",cost:35,hp:20,str:2,tec:-1,wlk:3,tgh:1}
 {id:2026020431,name:"リプスAM",size:"M",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:0,tgh:3,comment:[""]}
-{id:2026020432,name:"リプスAM2",type:"c",size:"M",cost:125,hp:20,str:-1,tec:3,wlk:1,fly:0,tgh:2,sub:{tec:100,pwr:44,shl:120,rng:350,spd:350,itv:1000},tunable:{pwp:0},joint:{wp:0},comment:[""]}
+{id:2026020432,name:"リプスAM2",type:"c",size:"M",cost:125,hp:20,str:-1,tec:3,wlk:1,fly:0,tgh:2,sub:{tec:100,pwr:37,shl:120,rng:350,spd:350,itv:1000},tunable:{pwp:0},joint:{wp:0},comment:[""]}
 {id:202603043,name:"リュウセイオーAM",main:{tec:100,pwr:14,shl:640,rng:250,spd:180,itv:600},sub:{tec:100,pwr:38,shl:160,rng:250,spd:180,itv:1000},tunable:{mwp:1},type:"l",size:"M",cost:155,hp:20,str:-1,tec:3,wlk:2,tgh:1,comment:["メイン：貫通バウンド弾（ピッチャー弾？）","サブ：サブロック数：4"]}
 
 {id:113,name:"ルッカ・デーコAM",cost:40,hp:25,str:2,tec:2,wlk:1,fly:-1,tgh:1}
@@ -866,7 +866,7 @@
 {id:59,name:"シェイデンAM3",cost:40,hp:25,str:2,wlk:1,fly:1,tgh:1}
 {id:20230202,name:"シェイデン・リンAM",type:"a",size:"L",cost:105,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,main:{tec:100,pwr:15,shl:330,rng:275,spd:300,itv:600},tunable:{mwp:1},comment:["",""]}
 {id:2026020441,name:"ジェットバーンAM",type:"a",size:"L",cost:115,hp:20,str:-1,tec:3,wlk:0,fly:1,tgh:2,sub:{tec:100,pwr:32,shl:100,rng:150,spd:300,itv:500},tunable:{pwp:0},comment:["サブチューン可否不明"]}
-{id:2026020442,name:"ジェットバーンAM2",type:"a",size:"L",cost:165,hp:20,str:-1,tec:3,wlk:0,fly:2,tgh:1,sub:{tec:100,pwr:45,shl:330,rng:275,spd:350,itv:1000},tunable:{pwp:0},comment:["サブロック？"]}
+{id:2026020442,name:"ジェットバーンAM2",type:"a",size:"L",cost:165,hp:20,str:-1,tec:3,wlk:0,fly:2,tgh:1,sub:{tec:100,pwr:35,shl:330,rng:275,spd:350,itv:1000},tunable:{pwp:0},comment:["サブロック？　FLY依存サブ"]}
 {id:202305122,name:"ジェットファルコンAM",main:{tec:100,pwr:15,shl:180,rng:250,spd:260,itv:800},tunable:{mwp:1},auraStat:{main:{tec:100,pwr:9,shl:570,rng:275,spd:300,itv:340}},type:"a",size:"L",cost:65,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,joint:{wp:1},fixedParts:{wp:{name:"ジェットファルコンAM@",main:{tec:100,pwr:18,shl:280,rng:275,spd:530,itv:800},tunable:{mwp:1},auraStat:{main:{tec:100,pwr:19,shl:340,rng:275,spd:530,itv:500}},type:"a",size:"L",cost:60,comment:"-"}}}
 {id:202305123,name:"ジェットファルコンAM（コンバージョン無し）",main:{tec:100,pwr:15,shl:180,rng:250,spd:260,itv:800},tunable:{mwp:1},auraStat:{main:{tec:100,pwr:9,shl:570,rng:275,spd:300,itv:340}},type:"a",size:"L",cost:65,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,joint:{wp:1}}
 
