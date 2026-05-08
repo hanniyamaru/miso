@@ -120,7 +120,9 @@
 {id:202601071,name:"アフェクトゥス",sub:{tec:100,pwr:[24],shl:[390],rng:[250],spd:[350],itv:[1000]},cost:150,tunable:{pwp:0},comment:["サブロック数：3"]}
 {id:202601072,name:"フロルのスカート",cost:0,comment:[""]}
 
-
+{id:2026050721,name:"白虎忍軍の羽織",cost:0,comment:[""]}
+{id:2026050722,name:"キョウカBD@",cost:0,comment:[""]}
+{id:2026050723,name:"ニャン遁虎砲",main:{str:100,pwr:24,shl:180,rng:250,spd:320,itv:340},type:"l",cost:70,tunable:{mwp:1},comment:[""]}
 
 
 
