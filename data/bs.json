@@ -838,6 +838,7 @@
 
 {id:26,name:"ゼロブレイカーBS",tunable:{mwp:0,pwp:0},type:"l",cost:40,hp:25,wlk:2,fly:2,tgh:1}
 {id:11,name:"ソア・ラBS",type:"a",cost:40,hp:25,wlk:1,fly:2,tgh:2}
+{id:202605083,name:"ソウテングBS",sub:{tec:100,pwr:0,shl:60,rng:0,spd:200,itv:1240},tunable:{pwp:0},type:"a",size:"L",cost:90,hp:20,str:-1,tec:2,fly:4,comment:["飛行ゲージ回復効果　ライトプロペラント効果",""]}
 
 
 {id:74,name:"タイタンコイルBS",type:"s",cost:40,hp:25,str:-1,wlk:2,fly:3,tgh:1}
