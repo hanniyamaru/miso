@@ -499,6 +499,9 @@
 {id:175,name:"ゼロブレイカーHD",cost:40,hp:25,str:2,tec:2,wlk:2,tgh:-1}
 
 {id:103,name:"ソードウィングHD2",cost:35,hp:20,str:2,tec:-1,wlk:1,fly:2,tgh:1,comment:["ミッション周回報酬「決戦！ボルカニクス」（ソードウィングマスター 3個）ミッションコイン景品（70個）","ボルカソードウィング"]}
+
+{id:202605073,name:"ソウテングHD",cost:35,hp:20,tec:1,wlk:1,fly:2,tgh:1}
+
 {id:56,name:"ソルジェッターHD",cost:40,hp:25,str:1,tec:1,fly:2,tgh:1}
 
 
