@@ -701,6 +701,7 @@
 
 
 {id:12,name:"ソア・ラLG",cost:45,hp:30,tec:1,wlk:1,fly:1,tgh:3,joint:{bs:1},comment:["BS接続可能",""]}
+{id:202605073,name:"ソウテングLG",cost:45,hp:30,str:-1,tec:2,wlk:2,fly:2,tgh:1}
 
 {id:24,name:"ダイダリオンLG",cost:50,hp:35,str:2,tec:-1,wlk:3,fly:1,tgh:1}
 
