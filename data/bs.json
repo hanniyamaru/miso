@@ -444,6 +444,7 @@
 {id:202502055,name:"ガクゥーンBS",main:{tec:100,pwr:11,shl:480,rng:330,spd:260,itv:800},tunable:{mwp:1},type:"c",cost:115,hp:20,str:-1,tec:3,wlk:0,fly:2,tgh:1,size:"M",comment:["ハウザー系","爆風100％"]}
 
 {id:11,name:"ガシマBS",type:"c",cost:40,hp:25,str:-1,tec:1,fly:3,tgh:2}
+{id:202605074,name:"ガシマBS2",main:{pwr:11,shl:570,rng:330,spd:300,itv:1200},sub:{tec:100,pwr:30,shl:120,rng:330,spd:300,itv:1000},tunable:{mwp:1,pwp:0},type:"c",size:"M",cost:190,hp:20,str:-1,tec:3,wlk:0,fly:3,comment:["ガシマ丙式"]}
 
 {id:115,name:"ガルネリンプBS",type:"l",cost:35,hp:20,wlk:1,fly:3,tgh:1}
 {id:202507023,name:"ガレオンBS",type:"l",cost:35,hp:20,wlk:0,fly:3,tgh:2,comment:"AURA機構　※変形：陸のみ"}
