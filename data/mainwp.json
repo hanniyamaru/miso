@@ -411,6 +411,8 @@
 {id:202509112,name:"トラベルブック",type:"as",size:"S",cost:85,main:{pwr:19,shl:280,rng:275,spd:240,itv:700},comment:["ビーム属性","NPCリエル（ステーションディスク景品・エンジェルコイン×50）"]}
 {id:20250114,name:"テナキタスR",main:{tec:100,pwr:17,shl:300,rng:225,spd:440,itv:200},tunable:{mwp:1},cost:60,type:"l",size:"S",comment:["実弾属性爆風50％　自軍貫通　CT有り","NPC：フロル",""]}
 {id:202604014,name:"クラウンロッド",main:{tec:100,pwr:20,shl:420,rng:300,spd:290,itv:600},sub:{tec:100,pwr:35,shl:0,rng:70,spd:85,itv:1000},tunable:{mwp:1,pwp:1},type:"s",size:"S",cost:180,comment:["メイン：確率ダッシュリストリクト効果","リズベッド初期装備"]}
+{id:202605071,name:"カッカラロッド",main:{tec:100,pwr:13,shl:240,rng:275,spd:320,itv:800},tunable:{mwp:1},cost:50,type:"a",size:"L",comment:["ショック効果（確率）","ソウテング初期装備"]}
+{id:202605072,name:"ホウラガン",main:{tec:100,pwr:22,shl:240,rng:275,spd:280,itv:800},sub:{tec:100,pwr:20,shl:60,rng:275,spd:130,itv:1000},tunable:{mwp:1},cost:130,type:"a",size:"L",comment:["","ソウテング初期装備"]}
 
 
 {group:"mainコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
