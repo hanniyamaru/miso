@@ -111,6 +111,7 @@
 {id:300,name:"ビームエッジアクス",sub:{tec:100,pwr:34,tec:100,rng:100,spd:180,itv:1000},tunable:{pwp:1},type:"a",size:"L",cost:100}
 
 {id:202308243,name:"トルネードアクス",sub:{str:100,pwr:34,rng:56,spd:68,itv:1000},tunable:{pwp:1},type:"l",size:"S",cost:160,comment:"パーツクリエイト"}
+{id:202605076,name:"コスモアクス",sub:{str:100,pwr:32,rng:80,spd:80,itv:1000},tunable:{pwp:1},type:"l",size:"L",cost:140,comment:"[コスモカイザーTA初期装備]"}
 
 
 {group:"メイス系",prefixID:"MC",commonStat:{tunable:{pwp:1}},nextID:7}
