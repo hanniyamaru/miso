@@ -492,6 +492,7 @@
 
 {id:202208071,name:"サイバーニンBS",type:"l",cost:35,hp:20,str:2,tec:1,wlk:-1,fly:2,tgh:1}
 {id:202209094,name:"ジェッツBS",main:{tec:100,pwr:14,shl:480,rng:275,spd:360,itv:400},sub:{tec:100,pwr:8,shl:260,rng:275,spd:360,itv:1000},tunable:{mwp:1,pwp:0},type:"a",size:"M",cost:215,hp:20,str:-1,tec:2,fly:4,comment:["メイン：ビーム爆風70％","FLY依存サブ"]}
+{id:202605074,name:"ジェッツBS2",main:{tec:100,pwr:16,shl:300,rng:275,spd:320,itv:800},sub:{tec:100,pwr:17,shl:120,rng:275,spd:360,itv:1000},tunable:{mwp:1,pwp:0},type:"a",size:"M",cost:145,hp:20,str:0,tec:1,fly:3,tgh:1,comment:["","FLY依存サブ","SKY"]}
 
 
 {id:201,name:"ジェネシオンBS",type:"a",size:"M",cost:60,hp:20,wlk:-1,fly:4,tgh:2,sub:{pwr:0,shl:20,rng:0,spd:200,itv:1000}}
