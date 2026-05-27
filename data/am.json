@@ -750,7 +750,7 @@
 {id:2026040111,name:"アバドホルンAM（デモリッションスパイカー）",type:"l",size:"L",cost:260,hp:25,str:1,wlk:1,fly:1,tgh:2,comment:["名称変更　右腕のみ装備可能　部位破壊不能","デモリッションスパイカーcost+220複合","アバドホルンBD・AMJ専用コンバージョンパーツ"],fixedParts:{wp:{name:"デモリッションスパイカー",sub:{str:100,pwr:45,shl:0,rng:120,spd:320,itv:3000},tunable:{pwp:1},slot:3,comment:[""]}}}
 {id:2026040112,name:"アバドホルンAM（ディフレクト・バニッシャー）",type:"l",size:"L",cost:50,hp:25,str:1,wlk:1,fly:1,tgh:2,comment:["名称変更　左腕のみ装備可能　部位破壊不能","ディフレクト・バニッシャーcost+10複合","アバドホルンBD・AMJ専用コンバージョンパーツ"],fixedParts:{wp:{name:"ディフレクト・バニッシャー",main:{shl:15,rng:0,spd:10,itv:1000},tunable:{mwp:1},slot:3,comment:["一部パリィ効果"]}}}
 {id:2026040113,name:"アバドホルンAM（コンバージョン無し）",type:"l",size:"L",cost:40,hp:25,str:1,wlk:1,fly:1,tgh:2,comment:["名称変更　左腕のみ装備可能　部位破壊不能","","アバドホルンBD・AMJ専用コンバージョンパーツ"]}
-{id:202605271,name:"アバドホルンAM0",size:"L",cost:40,hp:25,str:1,wlk:1,fly:1,tgh:2,comment:["①混沌戦「急襲迎撃プロトコル」期間限定ランダム報酬","②オーダー報酬","③混沌コイン景品(未定) "]}
+{id:202605271,name:"アバドホルンAM0",size:"L",cost:40,hp:25,str:1,wlk:1,fly:1,tgh:2,comment:["①混沌戦「急襲迎撃プロトコル」期間限定ランダム報酬",""]}
 
   
 {id:202412041,name:"アマノタツAM（L）",main:{tec:100,pwr:21,shl:280,rng:275,spd:320,itv:700},tunable:{pwp:1},auraStat:{main:{pwr:32,rng:290,spd:350,itv:900}},type:"a",size:"L",cost:135,hp:20,str:-1,tec:3,fly:2,tgh:1,comment:["誘導弾+飛行ゲージ回復効果","変形中は手持ち武器使用不可","専用AURA機構"]}
@@ -983,7 +983,7 @@
 {id:202403064,name:"トランソニックAM3",main:{tec:100,pwr:14,shl:270,rng:275,spd:300,itv:620},tunable:{mwp:1},type:"a",size:"L",cost:85,hp:20,str:-1,tec:3,fly:1,tgh:2,comment:"AM3@省略"}
 {id:202604012,name:"トランペッターAM（トランペッターカノン）",main:{tec:100,pwr:14,shl:440,rng:275,spd:350,itv:300},type:"a",size:"L",cost:170,hp:25,str:0,tec:1,wlk:1,fly:1,tgh:2,comment:["リンクショット対応　飛行ゲージ回復効果？　武器チューン不可　部位破壊不能","名称変更　AM@cost+60、トランペッターカノンcost+70複合","トランペッターBD・AMJ専用コンバージョンパーツ"],fixedParts:{wp:{name:"トランペッターカノン",main:{tec:100,pwr:60,shl:40,rng:275,spd:520,itv:1000},sub:{tec:100,pwr:22,shl:300,rng:275,spd:280,itv:1000},tunable:{mwp:1},slot:3,comment:["メイン：リンクショット対応","サブ：サブロック数：3"]}}}
 {id:2026040121,name:"トランペッターAM（コンバージョン無し）",main:{tec:100,pwr:14,shl:440,rng:275,spd:350,itv:300},type:"a",size:"L",cost:100,hp:25,str:0,tec:1,wlk:1,fly:1,tgh:2,comment:["リンクショット対応　飛行ゲージ回復効果？　武器チューン不可　部位破壊不能","名称変更　AM@cost+60複合","トランペッターBD・AMJ専用コンバージョンパーツ"]}
-{id:202605272,name:"トランペッターAM0",size:"L",cost:40,hp:25,str:0,tec:1,wlk:1,fly:1,tgh:2,comment:["①混沌戦「急襲迎撃プロトコル」期間限定ランダム報酬","②オーダー報酬","③混沌コイン景品(未定) "]}
+{id:202605272,name:"トランペッターAM0",size:"L",cost:40,hp:25,str:0,tec:1,wlk:1,fly:1,tgh:2,comment:["①混沌戦「急襲迎撃プロトコル」期間限定ランダム報酬",""]}
 
 {id:202501082,name:"トリンティアAM",sub:{str:100,pwr:30,shl:0,rng:77,spd:94,itv:1000},cost:155,hp:20,str:3,tec:-1,wlk:1,fly:1,tgh:1,comment:["トリンティアスピアcost+120複合","検索用に武器の数値を仮入力",""],fixedParts:{wp:{name:"トリンティアスピア",sub:{str:100,pwr:30,shl:0,rng:77,spd:94,itv:1000},tunable:{pwp:1},slot:3,comment:["ビーム属性?","浄化の水バフ適用時性能上昇"]}},type:"s",size:"L"}
 {id:2025010821,name:"トリンティアAM（コンバージョン無し）",cost:35,hp:20,str:3,tec:-1,wlk:1,fly:1,tgh:1,size:"L"}
