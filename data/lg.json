@@ -306,6 +306,7 @@
 {id:202605074,name:"ガシマLG2",sub:{tec:100,pwr:40,shl:0,rng:0,spd:100,itv:1000},type:"c",size:"M",cost:75,hp:25,str:0,tec:2,wlk:3,fly:0,tgh:1,comment:["自身に20ダメージ？","ガシマ丙式"]}
 
 {id:37,name:"ガンアームズLG",cost:45,hp:25,str:2,wlk:3,tgh:1}
+{id:202606035,name:"ガンアームズLG2",sub:{tec:100,pwr:18,shl:100,rng:330,spd:280,itv:1000},tunable:{pwp:0},type:"c",size:"M",cost:75,hp:25,str:1,tec:1,wlk:3,tgh:1,comment:["黄色スタン？　ロック数：2","BT"]}
 
 {id:397,name:"ガンドリルLG",sub:{str:100,pwr:35,shl:0,rng:100,spd:150,itv:2000},tunable:{pwp:1},type:"l",size:"M",cost:175,hp:25,str:2,tec:-1,wlk:3,tgh:2,comment:["スタン無効無視"]}
 {id:202302022,name:"ガンドレッドLG",type:"l",size:"M",cost:65,hp:25,tec:1,wlk:4,fly:-1,tgh:2,sub:{str:100,pwr:0,shl:30,rng:0,spd:200,itv:1000},tunable:{pwp:0},comment:["2026/01/21調整",""]}
