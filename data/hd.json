@@ -934,6 +934,7 @@
   
 {group:"ＬＬサイズ",prefixID:"LL",commonStat:{size:"LL"},nextID:6}
 {id:202503053,name:"ジョストガンダーHD2",cost:35,hp:20,str:1,tec:0,wlk:1,tgh:3,comment:["ボイル"]}
+{id:202606033,name:"ジョストガンダーHD3",main:{str:100,pwr:37,shl:50,rng:250,spd:270,itv:1000},cost:65,hp:20,str:1,tec:-1,wlk:2,fly:1,tgh:2,type:"l",size:"LL",tunable:{mwp:1},comment:["全弾発射不可","ボルト"]}
 
 
 {group:"ジョイント",prefixID:"J",commonStat:{jointPart:1},nextID:4}
