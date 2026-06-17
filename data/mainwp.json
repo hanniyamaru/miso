@@ -437,6 +437,9 @@
 
 {id:138,name:"機巧刀･迦具土",main:{tec:100,pwr:11,shl:750,rng:350,spd:280,itv:1000},tunable:{mwp:1},type:"c",size:"M",cost:130,comment:"ホムラ・イサミネ専用コンバージョン"}
 
+{id:202606171,name:"ジェットファルコンAM@",main:{tec:100,pwr:18,shl:280,rng:275,spd:530,itv:800},tunable:{mwp:1},auraStat:{main:{tec:100,pwr:19,shl:340,rng:275,spd:530,itv:500}},type:"a",size:"L",cost:60,comment:"-"}
+{id:202606172,name:"ジェットファルコンAM2@",main:{tec:100,pwr:8,shl:600,rng:275,spd:80,itv:360},tunable:{mwp:1},auraStat:{main:{tec:100,pwr:13,shl:400,rng:275,spd:210,itv:400}},type:"a",size:"L",cost:50,comment:"-"}
+
 {id:202308091,name:"シャークラッズLG@",main:{tec:100,pwr:14,shl:280,rng:300,spd:320,itv:700},tunable:{mwp:1},size:"L",type:"c",cost:50,comment:["ブースタートラブル効果","夏祭りイベントオーダー景品"]}
 {id:202204173,name:"スタンホーミングビーム",main:{str:100,pwr:5,shl:100,rng:275,spd:320,itv:500},type:"a",size:"S",cost:35,comment:"クレアモルテBD専用コンバージョンパーツ",tunable:{mwp:1}}
 
