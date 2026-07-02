@@ -245,7 +245,7 @@
 
 {id:202203021,name:"ピエッタBS",tunable:{mwp:0,pwp:0},type:"a",size:"S",cost:95,hp:20,str:-1,tec:2,fly:3,tgh:1,main:{tec:100,pwr:5,shl:1120,rng:275,spd:280,itv:1300},comment:["BS@省略","武器チューン不可"]}
 {id:28,name:"ビックガジェットBS2",type:"s",cost:75,hp:20,str:-1,tec:2,fly:3,tgh:1,main:{pwr:4,shl:1160,rng:275,spd:280,itv:300},tunable:{mwp:1}}
-{id:202307061,name:"ビックガジェットLCBS",main:{tec:100,pwr:13,shl:340,rng:300,spd:220,itv:1000},sub:{tec:100,pwr:38,shl:40,rng:77,spd:94,itv:1000},tunable:{mwp:1,pwp:1},size:"S",type:"cs",cost:145,hp:20,str:-1,tec:2,fly:2,tgh:2,comment:["メイン：爆風属性100％+ブースタートラブル効果3秒？（砲：確率〃）","サブ：爆風属性100％+近接20％？（要検証）"]}
+{id:202307061,name:"ビックガジェットLCBS",main:{tec:100,pwr:13,shl:340,rng:300,spd:220,itv:1000},sub:{tec:100,pwr:38,shl:40,rng:77,spd:94,itv:1000},tunable:{mwp:1,pwp:1},size:"S",type:"cs",cost:145,hp:20,str:-1,tec:2,fly:2,tgh:2,comment:["メイン：爆風属性100％+ブースタートラブル効果3秒？（砲：確率〃）","サブ：爆風属性100％+近接20％？ 一部アーマー無効効果（要検証）"]}
 {id:148,name:"ピナ・ルベリーBS",type:"l",size:"S",cost:35,hp:20,str:1,fly:2,tgh:2}
 {id:203,name:"ヒルティBS",type:"s",size:"SS",cost:35,hp:20,tec:1,wlk:-1,fly:3,tgh:2}
 
@@ -872,7 +872,7 @@
 {id:25,name:"ドミクラウンBS",type:"l",cost:35,hp:20,str:2,tec:-1,fly:3,tgh:1}
 {id:73,name:"ドラゴネイルBS",type:"l",cost:40,hp:25,str:2,tec:1,wlk:1,fly:2,tgh:-1}
 {id:290,name:"ドラッケンBS",type:"l",cost:40,hp:25,str:1,tec:-1,fly:3,tgh:2}
-{id:202604012,name:"トランペッターBS",sub:{tec:100,pwr:0,shl:30,rng:150,spd:320,itv:200},tunable:{pwp:0},cost:105,hp:20,str:0,tec:0,wlk:1,fly:3,tgh:1,type:"a",size:"L"}
+{id:202604012,name:"トランペッターBS",sub:{tec:100,pwr:0,shl:30,rng:150,spd:240,itv:200},tunable:{pwp:0},cost:105,hp:20,str:0,tec:0,wlk:1,fly:3,tgh:1,type:"a",size:"L"}
 {id:202501082,name:"トリンティアBS",type:"s",cost:35,hp:20,tec:1,wlk:-1,fly:4,tgh:1}
 {id:1201,name:"トルク・マイティバインBS",type:"l",cost:40,hp:25,str:1,fly:2,tgh:2}
 
@@ -1006,7 +1006,7 @@
 
 {group:"コンバージョンパーツ",nextID:0}
 {id:20230116,name:"アナBS",main:{pwr:13,shl:560,rng:300,spd:400,itv:300},tunable:{mwp:1,pwp:0},fixedParts:{wp:[{name:"リペアアナウンス",sub:{shl:[12],rng:100,spd:150,itv:100},type:"s",size:"S",comment:["内蔵強化2：回復量98（5人まで）"],slot:0},{name:"サポートアナウンス",sub:{shl:[12],rng:100,spd:150,itv:100},slot:0,type:"s",size:"S",comment:["ハイパーショット、グラディエーター、スピードアップ効果（効果時間10秒・5人まで）"]}]},type:"s",size:"S",comment:["アナ・コメット専用コンバーション"],cost:215,hp:20,wlk:1,fly:3,tgh:1,joint:{wp:2}}
-{id:20260401,name:"アバドホルンBS",sub:{tec:100,pwr:0,shl:30,rng:150,spd:320,itv:200},type:"l",size:"L",cost:75,hp:20,str:0,tec:0,wlk:1,fly:3,tgh:1,comment:["アバドホルンBD専用コンバージョンパーツ"]}
+{id:20260401,name:"アバドホルンBS",sub:{tec:100,pwr:0,shl:30,rng:150,spd:240,itv:200},type:"l",size:"L",cost:75,hp:20,str:0,tec:0,wlk:1,fly:3,tgh:1,comment:["アバドホルンBD専用コンバージョンパーツ"]}
 
 
 {id:116,name:"アムリムBS",joint:{wp:1},type:"a",cost:35,hp:20,str:-1,tec:3,fly:3,comment:"アムリムBD専用コンバーションパーツ",slot:0}
