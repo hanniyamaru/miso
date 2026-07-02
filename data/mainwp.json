@@ -660,10 +660,10 @@
 {id:17911,name:"シヴァリーガードⅡ",sub:{pwr:0,rng:10,itv:500},type:"c",size:"S",cost:50,slot:0,comment:["ライトロングレンジ効果　シールド耐久値：HP250・HIT回数85","※1度の攻撃で受けるバリアへの最大与ダメージ：不明","ナターシャAM2専用コンバージョンパーツ"],joint:{wp:1},fixedParts:{wp:{name:"シヴァリーガードⅡ＠",sub:{pwr:30,shl:0,rng:10,spd:170,itv:1000},type:"c",size:"S",slot:0,cost:20}}}
 
 {group:"ネーベルコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
-{id:20222022,name:"ドンナーマスケット",type:"a",size:"S",cost:30,main:{tec:100,pwr:25,shl:50,rng:275,spd:400,itv:1000},tunable:{mwp:0},comment:["本体省略","武器チューン不可"]}
-{id:20222023,name:"ブリッツBマシンガン",main:{tec:100,pwr:14,shl:720,rng:275,spd:440,itv:240},joint:{wp:1},fixedParts:{wp:{name:"コネクトブラスト",main:{pwr:20,shl:430,rng:350,spd:400,itv:500},slot:0}},type:"a",size:"S",cost:120,comment:"-"}
+{id:20222022,name:"ドンナーマスケット",type:"a",size:"S",cost:30,main:{tec:100,pwr:30,shl:50,rng:275,spd:400,itv:1000},tunable:{mwp:0},comment:["本体省略","武器チューン不可"]}
+{id:20222023,name:"ブリッツBマシンガン",main:{tec:100,pwr:21,shl:720,rng:275,spd:480,itv:240},joint:{wp:1},fixedParts:{wp:{name:"コネクトブラスト",main:{pwr:25,shl:430,rng:350,spd:400,itv:500},slot:0}},type:"a",size:"S",cost:120,comment:"-"}
 {id:2026060321,name:"ブリッツェンマスケット",type:"a",size:"S",cost:30,main:{tec:100,pwr:36,shl:50,rng:275,spd:350,itv:1000},tunable:{mwp:0},comment:["本体省略","オートチャージ　誘導弾","武器チューン不可","[ネーベルLaunen]"]}
-{id:2026060322,name:"ゲヴィッターガトリング",main:{tec:100,pwr:8,shl:1920,rng:275,spd:520,itv:240},joint:{wp:1},fixedParts:{wp:{name:"コネクトブラストⅡ",main:{pwr:35,shl:330,rng:350,spd:400,itv:500},slot:0}},type:"a",size:"S",cost:120,comment:"[ネーベルLaunen]"}
+{id:2026060322,name:"ゲヴィッターガトリング",main:{tec:100,pwr:16,shl:1920,rng:275,spd:520,itv:240},joint:{wp:1},fixedParts:{wp:{name:"コネクトブラストⅡ",main:{pwr:35,shl:330,rng:350,spd:400,itv:500},slot:0}},type:"a",size:"S",cost:120,comment:"[ネーベルLaunen]"}
 
 {group:"ノーラ・シュナイトコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:1117,name:"シュテーレン・ゲヴェーア",main:{tec:100,pwr:17,shl:540,rng:250,spd:400,itv:340},type:"l",size:"S",cost:70,comment:["飛距離1.5倍？","反発効果"]}
@@ -766,9 +766,9 @@
 {id:202206022,name:"デンデンカムPro",main:{pwr:11,shl:620,rng:275,spd:350,itv:300},tunable:{mwp:1},type:"a",size:"S",cost:90,comment:"ミナリアBD専用コンバージョンパーツ"}
 
 {group:"ミルルコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
-{id:202306081,name:"ラビリンアクス",main:{pwr:18,shl:720,rng:350,spd:330,itv:340,tec:100},sub:{tec:100,pwr:34,shl:120,rng:350,spd:320,itv:1000},type:"c",size:"S",cost:225,tunable:{pwp:0,mwp:1},comment:["メイン：爆風70％？","サブ：爆風属性100％","ミルル・ミゥ専用コンバージョンパーツ"]}
-{id:202606031,name:"ラビリンハンマー",main:{pwr:23,shl:26,rng:350,spd:280,itv:1200,tec:100},sub:{tec:100,pwr:40,shl:100,rng:350,spd:320,itv:1000},type:"c",size:"S",cost:100,tunable:{pwp:0,mwp:1},comment:["","ミルル・ミゥ専用コンバージョンパーツ"]}
-{id:202606032,name:"ラビリンハンマー@",main:{pwr:20,shl:720,rng:350,spd:400,itv:340,tec:100},sub:{tec:100,pwr:34,shl:60,rng:350,spd:320,itv:1000},type:"c",size:"S",cost:125,tunable:{pwp:0,mwp:1},slot:0,comment:["ミルル・ミゥ専用コンバージョンパーツ"]}
+{id:202306081,name:"ラビリンアクス",main:{pwr:22,shl:720,rng:350,spd:330,itv:340,tec:100},sub:{tec:100,pwr:34,shl:120,rng:350,spd:320,itv:1000},type:"c",size:"S",cost:225,tunable:{pwp:0,mwp:1},comment:["メイン：爆風70％？","サブ：爆風属性100％","ミルル・ミゥ専用コンバージョンパーツ"]}
+{id:202606031,name:"ラビリンハンマー",main:{pwr:23,shl:52,rng:350,spd:280,itv:1200,tec:100},sub:{tec:100,pwr:40,shl:100,rng:350,spd:320,itv:1000},type:"c",size:"S",cost:100,tunable:{pwp:0,mwp:1},comment:["","ミルル・ミゥ専用コンバージョンパーツ"]}
+{id:202606032,name:"ラビリンハンマー@",main:{pwr:28,shl:720,rng:350,spd:400,itv:340,tec:100},sub:{tec:100,pwr:34,shl:60,rng:350,spd:320,itv:1000},type:"c",size:"S",cost:125,tunable:{pwp:0,mwp:1},slot:0,comment:["ミルル・ミゥ専用コンバージョンパーツ"]}
 
 {group:"メルクーリオコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:175,name:"ニードルスター",main:{pwr:20,shl:50,rng:200,spd:500,itv:500,str:100},sub:{pwr:32,rng:56,spd:68,itv:1500,str:100},cost:130,comment:"メルクーリオAM2専用コンバージョン",type:"l",size:"S",tunable:{mwp:1,pwp:1}}
