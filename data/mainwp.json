@@ -237,7 +237,7 @@
 {id:25,name:"2ウェイミサイル",type:"c",size:"LL",cost:180,main:{pwr:24,shl:220,rng:330,spd:290,itv:1100}}
 {id:22,name:"V-2ウェイミサイル",type:"c",size:"L",cost:160,main:{pwr:17,shl:330,rng:330,spd:440,itv:1000},comment:["飛距離は射程まで","エンジェルコイン景品（75個）"]}
 
-{id:202405091,name:"スマートミサイル",main:{tec:100,pwr:15,shl:310,rng:330,spd:330,itv:600},tunable:{mwp:1},type:"cs",size:"S",cost:65,comment:["爆風属性100％　接触判定：有り","ANTIAIR MISSILE","ガンアームズ初期装備"]}
+{id:202405091,name:"スマートミサイル",main:{tec:100,pwr:20,shl:310,rng:330,spd:330,itv:600},tunable:{mwp:1},type:"cs",size:"S",cost:65,comment:["爆風属性100％　接触判定：有り","ANTIAIR MISSILE","ガンアームズ初期装備"]}
 {id:49,name:"スクラムランチャー",main:{pwr:28,shl:270,rng:330,spd:290,itv:800},type:"c",size:"L",cost:140,comment:["爆風属性100％　接触判定：有り","ANTIAIR MISSILE"]}
 {id:585,name:"ブラストミサイルガン",main:{pwr:20,shl:280,rng:330,spd:290,itv:800},type:"c",size:"M",cost:160}
 
@@ -412,8 +412,8 @@
 {id:202509112,name:"トラベルブック",type:"as",size:"S",cost:85,main:{pwr:19,shl:280,rng:275,spd:240,itv:700},comment:["ビーム属性","NPCリエル（ステーションディスク景品・エンジェルコイン×50）"]}
 {id:20250114,name:"テナキタスR",main:{tec:100,pwr:17,shl:300,rng:225,spd:440,itv:200},tunable:{mwp:1},cost:60,type:"l",size:"S",comment:["実弾属性爆風50％　自軍貫通　CT有り","NPC：フロル",""]}
 {id:202604014,name:"クラウンロッド",main:{tec:100,pwr:20,shl:420,rng:300,spd:290,itv:600},sub:{tec:100,pwr:35,shl:0,rng:70,spd:85,itv:1000},tunable:{mwp:1,pwp:1},type:"s",size:"S",cost:180,comment:["メイン：確率ダッシュリストリクト効果","リズベッド初期装備"]}
-{id:202605071,name:"カッカラロッド",main:{tec:100,pwr:13,shl:240,rng:275,spd:320,itv:800},tunable:{mwp:1},cost:50,type:"a",size:"L",comment:["ショック効果（確率）","ソウテング初期装備"]}
-{id:202605072,name:"ホウラガン",main:{tec:100,pwr:22,shl:240,rng:275,spd:280,itv:800},sub:{tec:100,pwr:20,shl:60,rng:275,spd:130,itv:1000},tunable:{mwp:1},cost:130,type:"a",size:"L",comment:["","ソウテング初期装備"]}
+{id:202605071,name:"カッカラロッド",main:{tec:100,pwr:15,shl:240,rng:275,spd:320,itv:600},tunable:{mwp:1},cost:50,type:"a",size:"L",comment:["ショック効果（確率）","ソウテング初期装備"]}
+{id:202605072,name:"ホウラガン",main:{tec:100,pwr:24,shl:240,rng:275,spd:280,itv:800},sub:{tec:100,pwr:24,shl:60,rng:275,spd:130,itv:1000},tunable:{mwp:1},cost:130,type:"a",size:"L",comment:["","ソウテング初期装備"]}
 {id:202605272,name:"トランペッターカノンR",main:{tec:100,pwr:45,shl:40,rng:275,spd:480,itv:1000},tunable:{mwp:1},cost:70,type:"a",size:"L",comment:["①混沌戦「急襲迎撃プロトコル」期間限定ランダム報酬","②期間限定オーダー報酬","③混沌コイン景品(未定) "]}
 {id:202401112,name:"エネルギービームガン",main:{tec:100,pwr:27,shl:330,rng:275,spd:350,itv:560},type:"a",size:"S",cost:150,comment:["","R・デューク初期装備"]}
 {id:202607015,name:"エネルギービームライフル",main:{tec:100,pwr:19,shl:405,rng:275,spd:530,itv:200},type:"a",size:"S",cost:100,comment:["全弾発射不可","R・デュークM初期装備"]}
