@@ -273,7 +273,7 @@
 
 {id:24,name:"トニトルスBD",comment:"変形はAURAで対応",main:{pwr:[5,6,7],shl:[600],rng:275,spd:350,itv:220},auraStat:{main:{itv:500}},builtin:{bs:1},joint:{bs:0},cartridge:{hpup:14,lv1:"4*5@20|61*2@30|7@30|9@15|8@20|19@15|23@25|22@30|30@20|21@20|26@20|13@30|32@50|31@40"},cost:535,capa:870,hp:275,str:4,tec:14,wlk:6,fly:19,tgh:10,wbid:1,auraSystem:1,joint:{hdac:1},fixedParts:{hdac:["S1"]}}
 {id:521020,name:"ナイトギアRF BD",sub:{str:100,pwr:0,shl:40,rng:0,spd:220,itv:1000},cartridge:{hpup:10,lv1:"75*6@20|7@30|9@15|8@20|52@20|19@15|23@25|22@30|21@20|30@20|26@20|25@25|13@30|32@50|31@40"},type:"a",size:"M",builtin:{bs:1},wbid:1,cost:510,capa:945,hp:270,str:4,tec:13,wlk:6,fly:18,tgh:10,comment:["①無印（SHOP：30Rt）　②Gld（Season19バトルパス）"]}
-{id:521021,name:"ナイトギアPF BD",sub:{str:100,pwr:0,shl:30,rng:60,spd:150,itv:500},cartridge:{hpup:10,lv1:"75*6@20|7@30|9@15|8@20|52@20|19@15|23@25|22@30|21@20|30@20|26@20|15@20|13@30|32@50|31@40"},type:"a",size:"M",builtin:{bs:1},wbid:1,cost:520,capa:945,hp:270,str:4,tec:14,wlk:6,fly:16,tgh:11,comment:"SHOP：30Rt"}
+{id:521021,name:"ナイトギアPF BD",sub:{str:100,pwr:0,shl:30,rng:60,spd:150,itv:500},cartridge:{hpup:10,lv1:"75*6@20|7@30|9@15|8@20|52@20|19@15|23@25|22@30|21@20|30@20|26@20|15@20|13@30|32@50|31@40"},type:"a",size:"M",builtin:{bs:1},wbid:1,cost:520,capa:945,hp:270,str:4,tec:14,wlk:6,fly:16,tgh:11,comment:["SHOP：30Rt","◆CT7秒 ◆ブースト回復：100％","◆離陸：斜め+入力方向 ◆飛行：入力方向"]}
 
 
 {id:9,name:"パシファールBD",cost:445,capa:870,hp:255,str:5,tec:12,wlk:4,fly:15,tgh:12,wbid:1,cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|19@15|21@20|23@25|22@30|52@20|30@20|14@20|26@20|13@30|32@50|31@40"},comment:["①無印 ②BR","①②結晶コイン景品（①40個・②60個）"]}
@@ -296,7 +296,7 @@
 {id:2,name:"マッハナイトBD2",cost:580,capa:800,hp:270,str:4,tec:14,wlk:6,fly:16,tgh:10,main:{tec:100,pwr:[9,10,12],shl:[720],rng:[275,285,300],spd:[350,375,400],itv:600},sub:{tec:100,pwr:[0],shl:[50],rng:0,spd:200,itv:1000},wbid:1,cartridge:{hpup:18,lv1:"85*5@20|61*2@30|7@30|9@15|8@20|19@15|23@25|22@30|52@20|21@20|25@25|26@20|13@30|32@50|31@40"},fixedParts:{hdac:["S1"]},joint:{hdac:1,bs:0},builtin:{bs:1},comment:["メイン：飛行ゲージ回復効果　ビーム爆風70％","マッハナイト・ゼロ"]}
 {id:202308031,name:"マッハナイトBD3",cost:515,capa:800,hp:270,str:4,tec:15,wlk:5,fly:20,tgh:6,sub:{tec:100,pwr:[10,13,17],shl:[320],rng:[275,285,300],spd:[280,300,320],itv:1000},wbid:1,cartridge:{hpup:18,lv1:"85*5@20|61*2@30|7@30|9@15|8@20|19@15|23@25|22@30|52@20|21@20|14@20|26@20|13@30|32@50|31@40"},fixedParts:{hdac:["S1"]},joint:{hdac:1,bs:0},builtin:{bs:1},comment:["FLY依存サブ","マッハナイト・ワン"]}
 
-{id:22,name:"マッハナイト・エースBD",sub:{tec:100,pwr:[0],shl:[50],rng:[0],spd:[200],itv:1000},cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|18@30|19@15|23@25|22@30|52@20|25@25|21@20|26@20|13@30|32@50|31@40"},fixedParts:{hdac:["S1"]},builtin:{bs:1},joint:{hdac:1,bs:0},cost:510,capa:870,hp:280,str:4,tec:14,wlk:6,fly:21,tgh:8,wbid:1,comment:["サブ：ブースト回復",""]}
+{id:22,name:"マッハナイト・エースBD",sub:{tec:100,pwr:[0],shl:[50],rng:[0],spd:[200],itv:1000},cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|18@30|19@15|23@25|22@30|52@20|25@25|21@20|26@20|13@30|32@50|31@40"},fixedParts:{hdac:["S1"]},builtin:{bs:1},joint:{hdac:1,bs:0},cost:510,capa:870,hp:280,str:4,tec:14,wlk:6,fly:21,tgh:8,wbid:1,comment:["◆CT6秒 ◆ブースト回復：50％","◆離陸：斜め+入力方向※ ◆飛行：入力方向※1","※1　ブーストゲージ消失中は消失直前の進行方向を受け継ぎ、ゲージ消失中は移動キー入力を受け付けない"]}
 
 {id:50,name:"ミラージュレイドBD",cartridge:{hpup:14,lv1:"4*6@20|7@30|9@15|8@20|18@30|19@15|23@25|52@20|28@30|15@20|21@20|22@30|13@30|32@50|31@40"},wbid:17,type:"a",size:"M",cost:445,capa:870,hp:255,str:13,tec:5,wlk:8,fly:12,tgh:10,auraSystem:1,comment:"AURA機構"}
 
