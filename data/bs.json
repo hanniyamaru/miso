@@ -2,6 +2,7 @@
 {id:1,name:"BSスロット",slot:3,joint:{hdac:0,fcac:0,hd:0},comment:"ゲーム内機体参照の上、任意の個数増設してください"}
 
 
+
 {group:"特殊・汎用・交換系BS",prefixID:"EXT",commonStat:{size:"M"},nextID:1}
 {id:139,name:"アクアジェットBS",sub:{shl:0,rng:150,spd:350,itv:1000},cost:60,hp:25,str:1,wlk:2,fly:2,comment:"CT4秒"}
 {id:93,name:"ジェットアクセルBS",sub:{pwr:0,shl:0,rng:100,spd:200,itv:1000},tunable:{pwp:0,mwp:0},cost:60,hp:25,wlk:1,fly:3,tgh:1,comment:"-"}
