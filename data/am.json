@@ -27,6 +27,8 @@
 {id:20230512,name:"イルミスAM2（コンバージョン無し）",cost:40,hp:25,tec:3,wlk:1,fly:1,comment:"イルミス専用コンバージョンパーツ"}
 
 {id:2,name:"ウィンベルαAM",type:"s",cost:75,hp:20,tec:2,tgh:3,main:{pwr:7,shl:280,rng:250,spd:480,itv:500},tunable:{mwp:1}}
+{id:202608053,name:"ウラミAM",type:"l",cost:85,hp:25,str:3,tec:0,wlk:1,fly:0,tgh:1,main:{pwr:30,shl:240,rng:240,spd:400,itv:800},tunable:{mwp:1},comment:["バーニング効果　一斉射撃不可　依存値不明"]}
+
 {id:109,name:"ウルメリーAM",cost:35,hp:20,str:1,tec:2,tgh:2,tunable:{mwp:1}}
 
 
@@ -34,7 +36,6 @@
 {id:202304064,name:"エースブレイバーAM2",type:"l",size:"S",cost:105,hp:20,str:2,wlk:2,fly:1,sub:{str:100,pwr:28,shl:0,rng:120,spd:200,itv:1000},tunable:{pwp:1},comment:["WLK依存サブ","Ⅱ"]}
 
 {id:129,name:"エアリーデAM",cost:35,hp:20,tec:2,fly:2,tgh:1}
-
 {id:202306142,name:"エルコットAM",main:{str:100,pwr:20,shl:460,rng:225,spd:440,itv:400},size:"S",cost:105,hp:20,str:2,wlk:2,tgh:1,comment:["ELCガンcost+70複合","検索用に武器の数値を仮入力","エルコットBD専用コンバージョンパーツ"],fixedParts:{wp:{name:"ELCガン",main:{str:100,pwr:20,shl:460,rng:225,spd:440,itv:400},tunable:{mwp:1},slot:3}},type:"l"}
 {id:2023061421,name:"エルコットAM（コンバージョン無し）",size:"S",type:"l",cost:35,hp:20,str:2,wlk:2,tgh:1,comment:["エルコットBD専用コンバージョンパーツ"]}
 {id:87,name:"エルメ・サリーAM",type:"s",size:"S",cost:105,hp:20,str:2,tec:-1,wlk:2,fly:1,tgh:1,sub:{str:100,pwr:32,rng:70,spd:85,itv:1000},tunable:{pwp:1},joint:{wp:0}}
