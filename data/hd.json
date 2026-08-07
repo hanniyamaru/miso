@@ -9,6 +9,8 @@
 
 {id:303,name:"アレスターHD",type:"lacs",size:"S",cost:40,hp:25,str:-1,tec:2,wlk:2,fly:1,tgh:1}
 {id:33,name:"アレスターHD2",type:"lacs",size:"S",cost:40,hp:25,str:1,tec:3,wlk:-1,tgh:2}
+{id:202608053,name:"ウラミHD",type:"lacs",size:"S",cost:35,hp:25,str:2,tec:0,wlk:1,tgh:2}
+
 {id:19,name:"エースブレイバーHD",cost:40,hp:25,str:1,tec:1,wlk:1,tgh:2}
 {id:202304064,name:"エースブレイバーHD2",size:"S",cost:35,hp:20,str:2,tec:1,wlk:2,fly:-1,tgh:1,comment:"Ⅱ"}
 
