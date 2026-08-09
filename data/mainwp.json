@@ -417,6 +417,7 @@
 {id:202605272,name:"トランペッターカノンR",main:{tec:100,pwr:45,shl:40,rng:275,spd:480,itv:1000},tunable:{mwp:1},cost:70,type:"a",size:"L",comment:["①混沌戦「急襲迎撃プロトコル」期間限定ランダム報酬","②期間限定オーダー報酬","③混沌コイン景品(未定) "]}
 {id:202401112,name:"エネルギービームガン",main:{tec:100,pwr:27,shl:330,rng:275,spd:350,itv:560},type:"a",size:"S",cost:150,comment:["","R・デューク初期装備"]}
 {id:202607015,name:"エネルギービームライフル",main:{tec:100,pwr:19,shl:405,rng:275,spd:530,itv:200},type:"a",size:"S",cost:100,comment:["全弾発射不可","R・デュークM初期装備"]}
+{id:20260722,name:"ペティナイフR",main:{tec:100,pwr:11,shl:480,rng:250,spd:440,itv:1000},type:"l",size:"M",cost:80,comment:["","サロンキューブ景品"]}
 
 
 {group:"mainコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
