@@ -431,7 +431,7 @@
 {id:202501083,name:"ウルフェンBS",type:"l",size:"M",cost:40,hp:25,str:1,wlk:2,fly:2}
 {id:70,name:"ウルフガイBS",tunable:{pwp:1},sub:{str:100,pwr:28,rng:100,spd:80,itv:1000},type:"l",cost:40,hp:25,str:1,tec:-1,wlk:2,fly:3,comment:["変形省略","アリーナコイン景品"]}
 
-{id:202608056,name:"エアレイダーBS",main:{tec:100,pwr:16,shl:500,rng:275,spd:350,itv:800},sub:{tec:100,pwr:15,shl:140,rng:275,spd:350,itv:1000},tunable:{mwp:1,pwp:0},type:"a",size:"M",cost:165,hp:20,str:0,tec:2,fly:3,tgh:0,comment:["メイン：飛行ゲージ回収効果？","サブ：確率ショック効果","エアレイダーWP"]}
+{id:202608056,name:"エアレイダーBS",main:{tec:100,pwr:16,shl:500,rng:275,spd:350,itv:800},sub:{tec:100,pwr:15,shl:140,rng:275,spd:350,itv:1000},tunable:{mwp:1,pwp:0},type:"a",size:"M",cost:165,hp:20,str:0,tec:2,fly:3,tgh:0,comment:["メイン：飛行ゲージ回復効果","サブ：確率ショック効果　サブロック数：2","エアレイダーWP"]}
 {id:71,name:"エアロライダーBS",cost:35,hp:20,str:1,wlk:1,fly:2,tgh:1,type:"l",size:"M",comment:["Season7アリーナコイン景品"]}
 {id:202603045,name:"エアロライダーBS2",cost:35,hp:20,tec:1,wlk:2,fly:1,tgh:1,type:"l",size:"M",comment:["COP"]}
 
