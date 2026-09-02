@@ -17,6 +17,7 @@
 {id:17,name:"ブリッツシールド",main:{spd:10,itv:1000,shl:50},sub:{pwr:27,rng:70,spd:85,itv:1000,str:100},type:"l",size:"S",cost:70,tunable:{mwp:1,pwp:1},comment:"B・ポーンジャーAr初期装備"}
 {id:202604015,name:"ガデルシールド",type:"l",size:"S",cost:80,main:{str:100,pwr:25,shl:500,rng:250,spd:300,itv:200},tunable:{mwp:1},comment:["反射攻撃（ビームを除く）","ガデル初期装備"]}
 {id:202604013,name:"ブリンクタワーシールド",tunable:{mwp:1,pwp:0},type:"c",size:"M",cost:80,main:{tec:100,pwr:30,shl:500,rng:350,spd:320,itv:200},comment:["反射攻撃","ホーリー・ブリンク初期装備",""]}
+{id:2026090251,name:"ジルドガード",main:{shl:50,spd:10,itv:1000},sub:{tec:100,pwr:39,rng:50,spd:10,itv:1000},type:"c",size:"L",cost:50,tunable:{mwp:1,pwp:1},comment:["サブチューン可否不明","ジルドアーマー初期装備"]}
 
 {id:20220802,name:"ユニオンシールドBRD",main:{str:100,pwr:0,shl:50,rng:0,spd:10,itv:1000},tunable:{mwp:1,pwp:0},type:"a",size:"M",cost:35,comment:["空戦専用・ブースト回復効果","ユニオンコイン景品（80個）"]}
 {id:202206030,name:"ユニオンシールドDOS",main:{str:100,pwr:0,shl:50,rng:0,spd:10,itv:1000},tunable:{mwp:1,pwp:0},type:"l",size:"M",cost:30,comment:["陸戦専用・クリムゾンベール効果","ユニオンコイン景品（80個）"]}
@@ -230,6 +231,7 @@
 {id:20251224,name:"ハマヤロッド",size:"S",cost:70,sub:{tec:100,pwr:14,shl:220,rng:250,spd:320,itv:1000},tunable:{pwp:0},comment:["サブロック数：3","","NYキューブ2026"]}
 {id:202605271,name:"デモリッションスパイカーR",sub:{str:100,pwr:38,shl:0,rng:100,spd:240,itv:3000},tunable:{pwp:1},type:"l",size:"L",cost:220,comment:["①混沌戦「急襲迎撃プロトコル」期間限定ランダム報酬","②オーダー報酬","③混沌コイン景品(未定) "]}
 {id:202608053,name:"崇羅",sub:{str:100,pwr:31,shl:0,rng:70,spd:85,itv:1000},tunable:{pwp:1},type:"l",size:"S",cost:100,comment:["バーニング状態の敵にダメージアップ","温羅魅初期装備"]}
+{id:202609025,name:"ボトルランチャー",sub:{tec:100,pwr:30,shl:120,rng:350,spd:350,itv:1000},tunable:{pwp:0},type:"c",size:"LL",cost:80,comment:["サブロック数：4","ジルドアーマー初期装備"]}
 
 
 {group:"subコンバージョン（順不同）",prefixID:"MOx",nextID:17}
