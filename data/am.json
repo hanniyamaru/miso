@@ -360,6 +360,10 @@
 
 
 {id:20220414,name:"アルヴィーテAM",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1,comment:["Season6アリーナコイン景品"]}
+{id:2026090231,name:"アルフガイズAM",cost:35,hp:25,str:1,tec:1,wlk:2,tgh:1}
+{id:2026090232,name:"アルフガイズAM2",main:{tec:100,pwr:22,shl:320,rng:300,spd:400,itv:800},sub:{tec:100,pwr:36,shl:100,rng:225,spd:400,itv:600},type:"l",size:"M",cost:145,hp:25,str:0,tec:2,wlk:2,fly:0,tgh:1,tunable:{mwp:1,pwp:0},joint:{wp:0},comment:["メイン：弾消し","サブ：サブロック式"]}
+
+
 {id:166,name:"アントリオンAM4",size:"M",type:"lc",cost:35,hp:20,str:1,tec:1,wlk:1,tgh:2,comment:"アントリオンMoray"}
 
 
