@@ -1036,6 +1036,7 @@
 {id:20250131,name:"ティタニア デルタBS（ギリーマント）",main:{tec:100,pwr:0,shl:30,rng:0,spd:10,itv:1000},tunable:{mwp:1},type:"l",size:"S",cost:20,comment:["カモフラージュ：5秒？　WB発動時：10？秒","シェルサプライ不可","名称変更","ティタニア デルタ専用コンバージョンパーツ"]}
 {id:202511121,name:"ミーアBS",type:"a",size:"S",cost:40,hp:25,str:1,tec:-1,wlk:2,fly:1,tgh:2,comment:["ミーアBD専用コンバージョンパーツ"]}
 {id:2025111212,name:"ミーアBS2",type:"a",size:"S",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:2,tgh:2,comment:["ミーアBD専用コンバージョンパーツ"]}
+{id:202609021,name:"レティ・グランギオBS",sub:{tec:100,pwr:15,shl:240,rng:350,spd:280,itv:1000},cost:95,hp:20,str:0,tec:0,wlk:1,fly:2,tgh:2,type:"c",size:"L",comment:["サブロック式　飛行ゲージ回復効果？","レティ・グランギオ専用コンバージョンパーツ"]}
 
 
 {id:197,name:"フェルメBS",sub:{tec:100,pwr:22,shl:150,rng:250,spd:250,itv:1000},type:"l",size:"S",cost:55,hp:20,str:-1,tec:2,wlk:1,fly:3,comment:["フェルメBD専用コンバージョンパーツ"]}
