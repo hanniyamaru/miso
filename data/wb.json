@@ -44,7 +44,7 @@
 {id:202510163,name:"オートガンビット",type:"lacs",comment:["STR1/TEC1or2：威力15","STR1/TEC40：威力12","STR40/TEC40：威力20"]}
 {id:7,name:"オートガンビットD",type:"lcs",comment:["STR1/TEC1or2：威力15","STR1/TEC40：威力12","STR40/TEC40：威力20"]}
 {id:202510164,name:"ライフルビット",type:"lcs",comment:["STR1/TEC1or2：威力21以上（暫定）","STR1/TEC40：威力18 爆風3（暫定）","STR40/TEC40：威力28以上（暫定）"]}
-{id:8,name:"ライフルビットD",type:"lcs",comment:["STR1/TEC1or2：威力？","STR1/TEC40：威力？","STR40/TEC40：威力32以上？　爆風6"]}
+{id:8,name:"ライフルビットD",type:"cs",comment:["STR1/TEC1or2：威力？","STR1/TEC40：威力？","STR40/TEC40：威力32以上？　爆風6"]}
 {id:202510165,name:"マシンガンビット",type:"lacs",comment:["STR1/TEC1or2：威力4","STR1/TEC40：威力3","STR40/TEC40：威力6",""]}
 {id:9,name:"マシンガンビットD",type:"lcs",comment:["STR1/TEC1or2：威力4（暫定）","STR1/TEC40：威力3（暫定）","STR40/TEC40：威力6","混沌コイン景品（ｺｲﾝ4個→WB25個）"]}
 {id:25,name:"ピアースガンビット",type:"lcs",comment:["STR1/TEC1or2：威力14 ","STR1/TEC40：威力11","STR40/TEC40：威力19","ミッションコイン景品（ｺｲﾝ5個→WB50個）"]}
