@@ -170,6 +170,7 @@
 {id:390,name:"Sレールガン",main:{pwr:42,shl:90,rng:250,spd:520,itv:500},type:"ls",size:"M",cost:110,comment:["実弾属性爆風"]}
 {id:44,name:"アクアパラソル",main:{pwr:28,shl:210,rng:250,spd:360,itv:560},type:"lac",size:"M",cost:110,comment:["実弾属性爆風30％？","イオンαの給水効果で判定増加","エンジェルコイン景品（75個）"]}
 {id:20211020,name:"マニューバーライフル",type:"a",size:"M",cost:60,main:{pwr:28,shl:180,rng:275,spd:480,itv:660},comment:["チャージ　ビーム爆風100％　"]}
+{id:20260916,name:"カルキノスメガキャノンR",main:{tec:100,pwr:28,shl:450,rng:330,spd:480,itv:500},type:"c",size:"LL",cost:150,comment:["貫通弾　爆風属性（爆風無し）　一斉射撃不可"]}
 
 
 {group:"バズーカ系",prefixID:"BZ",commonStat:{tunable:{mwp:1}},nextID:32}
