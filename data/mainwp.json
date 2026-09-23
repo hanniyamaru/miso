@@ -644,7 +644,7 @@
 
   
 {group:"ティタニア デルタコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
-{id:202501171,name:"コンバットナイフ Type.Δ",size:"S",cost:70,sub:{tec:100,pwr:34,shl:10,rng:105,spd:128,itv:1000},type:"l",tunable:{mwp:0,pwp:1},comment:["パリィ","専用WB発動時：威力1.1倍","期間限定イベント報酬（ティタニアキューブ）","ティタニア デルタ専用コンバージョンパーツ"]}
+{id:202501171,name:"コンバットナイフ Type.Δ",size:"S",cost:70,sub:{tec:100,pwr:34,shl:10,rng:105,spd:128,itv:1000},type:"l",tunable:{mwp:0,pwp:1},comment:["受け流し","専用WB発動時：威力1.1倍","期間限定イベント報酬（ティタニアキューブ）","ティタニア デルタ専用コンバージョンパーツ"]}
 {id:202501291,name:"ショットガン Type.Δ",size:"S",cost:130,main:{tec:100,pwr:21,shl:1170,rng:160,spd:480,itv:900},type:"l",tunable:{mwp:1,pwp:0},comment:["発射数：9　連射数：5　減衰率：？　自軍貫通","専用WB発動時：集弾性向上","期間限定イベント報酬「決戦！黄燐龍」（ティタニアキューブⅡ）","ティタニア デルタ専用コンバージョンパーツ"]}
 {id:20250204,name:"ハンドガン Type.Δ",size:"S",cost:20,sub:{tec:100,pwr:15,shl:100,rng:250,spd:480,itv:1000},type:"l",tunable:{mwp:0,pwp:0},comment:["反発効果","専用WB発動時：？","期間限定イベント報酬「決戦！黄燐龍」（ティタニアキューブⅡ）","ティタニア デルタ専用コンバージョンパーツ"]}
 
