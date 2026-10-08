@@ -3,7 +3,7 @@
 
 {group:"陸　近日更新",prefixID:"LS",commonStat:{size:"S",type:"l"},nextID:35}
 
-{id:202610072,name:"ギガンベルグBD2",main:{tec:100,pwr:6,shl:100,rng:200,spd:300,itv:500},sub:{tec:100,pwr:0,shl:0,rng:200,spd:150,itv:1000},joint:{wp:1},cartridge:{hpup:10,lv1:"75*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|16@20|28@30|25@25|13@30|32@50|31@40"},fixedParts:{hd:{joint:{hd:1,hdac:0,fcac:0},name:"ギガンベルグHDJ",slot:1},wp:{name:"ギガンベルグBD2@",sub:{spd:150,itv:1000},slot:0}},cost:580,capa:945,hp:305,str:16,tec:3,wlk:9,fly:6,tgh:15,comment:["WB：グラディエーター+ソードアタック"]}
+{id:202610072,name:"ギガンベルグBD2",main:{tec:100,pwr:6,shl:100,rng:200,spd:300,itv:500},sub:{tec:100,pwr:0,shl:0,rng:200,spd:150,itv:1000},joint:{wp:1},cartridge:{hpup:10,lv1:"75*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|16@20|28@30|25@25|13@30|32@50|31@40"},fixedParts:{hd:{joint:{hd:1,hdac:0,fcac:0},name:"ギガンベルグHDJ",slot:1},wp:{name:"ギガンベルグBD2@",sub:{spd:150,itv:1000},slot:0}},cost:580,capa:945,hp:305,str:16,tec:3,wlk:9,fly:6,tgh:15,comment:["WB：グラディエーター+ソードアタック","変形省略"]}
 
 
 {id:202609026,name:"サイバーニンBD2",cost:405,capa:800,hp:245,str:12,tec:6,wlk:12,fly:7,tgh:8,cartridge:{hpup:18,lv1:"85*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|15@15|21@20|12@20|13@30|32@50|31@40"},comment:"サイバーニンS"}
