@@ -268,7 +268,7 @@
 
 {group:"ギガンベルグコンバージョン",prefixID:"MOx",commonStat:{tunable:{pwp:1}},nextID:17}
 {id:2026100721,name:"ベルグガントレット",main:{tec:100,shl:50,spd:10,itv:1000},tunable:{mwp:1,pwp:0},type:"l",size:"L",cost:20,comment:["ギガンベルグAM専用コンバージョンパーツ"]}
-{id:2026100722,name:"ベルグチェーンソー",sub:{str:100,pwr:35,rng:77,spd:150,itv:1000},tunable:{mwp:0,pwp:1},auraStat:{sub:{pwr:40,shl:3}},type:"l",size:"L",cost:150,comment:["TGH減衰無視","ギガンベルグAM専用コンバージョンパーツ"]}
+{id:2026100722,name:"ベルグチェーンソー",sub:{str:100,pwr:35,rng:77,spd:150,itv:1000},tunable:{mwp:0,pwp:1},auraStat:{sub:{pwr:40,shl:3}},type:"l",size:"L",cost:160,comment:["TGH減衰無視","ギガンベルグAM専用コンバージョンパーツ"]}
 
 {group:"キリカコンバージョン",prefixID:"MOx",commonStat:{tunable:{pwp:1}},nextID:17}
 {id:112,name:"チェーンブレード",main:{tec:100,shl:50,spd:10,itv:1000},sub:{str:100,pwr:32,rng:77,spd:102,itv:500},tunable:{mwp:1,pwp:1},cost:130,comment:"キリカ専用コンバージョンパーツ"}
