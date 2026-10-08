@@ -1261,6 +1261,8 @@
 
 {id:1,name:"ウィングプラスAMJ",size:"S",cost:20,wlk:-1,fly:2,builtin:{bs:1},slot:1,comment:["BS機能"]}
 {id:24,name:"ギガンベルグAMJ",main:{pwr:8,shl:400,rng:250,spd:320,itv:1200},tunable:{mwp:1},cost:40,slot:1,size:"M",type:"lc"}
+{id:202610072,name:"ギガンベルグAMJ2",slot:1,size:"M",cost:15,comment:["シールド耐久値不明"]}
+
 {id:13,name:"ギミックランチャーAMJ",main:{pwr:7,shl:280,rng:330,spd:290,itv:600},type:"c",size:"M",cost:60,tec:1,wlk:-1,tgh:1,slot:1,tunable:{mwp:1},comment:["","SHOP：15Rt"]}
 {id:2025040241,name:"グランダグドライバーAMJ",main:{tec:100,pwr:20,shl:240,rng:350,spd:570,itv:800},tunable:{mwp:1},type:"c",size:"M",cost:40,slot:1,comment:["リコチェット系？"]}
 
