@@ -339,7 +339,7 @@
 
 {id:20231115,name:"レイBS",type:"l",size:"S",cost:35,hp:20,str:2,fly:3}
 {id:145,name:"レイミナスBS",main:{pwr:13,shl:540,rng:350,spd:480,itv:700},type:"c",cost:165,hp:20,str:-1,tec:2,fly:3,tgh:1,comment:["BS@省略・武器チューン不可"]}
-{id:202610073,name:"レイミナスBS2",main:{tec:100,pwr:8,shl:800,rng:280,spd:480,itv:100},type:"c",cost:115,hp:20,str:-1,tec:3,fly:3,tgh:0,comment:["確率ウェイトブースター効果","Wav"]}
+{id:202610073,name:"レイミナスBS3",main:{tec:100,pwr:8,shl:800,rng:280,spd:480,itv:100},type:"c",cost:115,hp:20,str:-1,tec:3,fly:3,tgh:0,comment:["確率ウェイトブースター効果","Wav"]}
 {id:202311012,name:"レヴェールBS",size:"S",type:"c",cost:35,hp:20,tec:1,wlk:1,fly:3,comment:[""]}
 
 {id:20240703,name:"レジナ・ウィンベルBS",type:"s",cost:35,hp:20,wlk:1,fly:2,tgh:2}
