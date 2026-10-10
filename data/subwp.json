@@ -259,8 +259,6 @@
 
 {id:202411065,name:"ブルメキアスBD@",sub:{str:100,pwr:34,rng:0,spd:180,itv:1000},tunable:{pwp:0},slot:0,cost:50,type:"l",size:"L",comment:"ブルメキアス専用コンバージョンパーツ"}
 
-{id:47,name:"ブレイブソード",sub:{str:100,pwr:32,rng:70,spd:85,itv:500},tunable:{pwp:1},cost:100,type:"l",size:"M",comment:"ソルブレンサーAMにのみ装着可能"}
-{id:28,name:"ブレイブランス",sub:{str:100,pwr:28,rng:120,spd:250,itv:500},type:"l",size:"M",cost:50,slot:0,comment:"ソルブレンサーAMにのみ装着可能"}
 
 {id:44,name:"ライザーブレス",size:"M",type:"l",cost:210,comment:["交換NPC「レオン」","アストライザー専用コンバージョンパーツ"],sub:{itv:500},slot:0}
 {id:93,name:"霊葬双櫂",sub:{pwr:32,rng:77,spd:94,itv:500,str:100},tunable:{pwp:1},cost:100,size:"S",type:"l",comment:"カエデAM専用コンバージョンパーツ"}
@@ -311,6 +309,15 @@
 {id:202404253,name:"ヤグルシ",main:{str:100,shl:15,rng:0,spd:10,itv:1000},sub:{str:100,pwr:34,rng:77,spd:94,itv:1000},tunable:{mwp:1,pwp:1},type:"l",size:"S",cost:70,comment:["アイムールの対","シルフィーⅡAM専用コンバージョンパーツ"]}
 {id:202404254,name:"ロリカ",type:"l",size:"S",cost:0,slot:0,comment:["BDステップ変更→ブレイブドライブBS系の突進（無敵時間有り）","シルフィーⅡBD専用コンバージョンパーツ"]}
 
+{group:"ソルブレンサーコンバージョン",prefixID:"MOx",commonStat:{tunable:{pwp:1}},nextID:17}
+
+{id:2021070751,name:"ブレイブアクス",main:{str:100,pwr:20,shl:50,rng:200,spd:570,itv:500},tunable:{mwp:1,pwp:0},type:"l",size:"M",cost:30,comment:"ソルブレンサーAM（ブレイブアーツ）にのみ装着可能",slot:0}
+{id:2021070752,name:"ブレイブソード",sub:{str:100,pwr:32,rng:70,spd:85,itv:500},tunable:{pwp:1},cost:100,type:"l",size:"M",comment:"ソルブレンサーAM（ブレイブアーツ）にのみ装着可能"}
+{id:2021070753,name:"ブレイブランス",sub:{str:100,pwr:28,rng:120,spd:250,itv:500},type:"l",size:"M",cost:50,slot:0,comment:"ソルブレンサーAM（ブレイブアーツ）にのみ装着可能"}
+
+{id:20261007431,name:"ロイヤルバルディッシュ",main:{str:100,pwr:20,shl:50,rng:200,spd:570,itv:500},tunable:{mwp:1,pwp:0},type:"l",size:"M",cost:30,comment:"ソルブレンサーAM2（ロイヤルアーツ）にのみ装着可能",slot:0}
+{id:20261007432,name:"ロイヤルブレイド",sub:{str:100,pwr:32,rng:70,spd:70,itv:500},tunable:{pwp:1},cost:100,type:"l",size:"M",comment:["ソルブレンサー系BD装着時ロイヤルブレイドを4回命中させた場合ライトグラディエーター効果を得る。効果時間中さらに4回命中させるとソードアタック効果を得る。","ソルブレンサーAM2（ロイヤルアーツ）にのみ装着可能"]}
+{id:2026100743,name:"ロイヤルパルチザン",sub:{str:100,pwr:20,shl:20,rng:110,spd:128,itv:1000},type:"l",size:"M",cost:120,slot:0,comment:["WLK依存サブ","ソルブレンサーAM2（ロイヤルアーツ）にのみ装着可能"]}
 
 {group:"ナイトフィアーコンバージョン",prefixID:"MOx",commonStat:{tunable:{pwp:1}},nextID:17}
 {id:20220604,name:"フォビアンソード",sub:{str:100,pwr:32,rng:100,spd:150,itv:2000},tunable:{pwp:1},cost:100,type:"l",size:"M",comment:"ナイトフィアーAMにのみ装着可能"}
