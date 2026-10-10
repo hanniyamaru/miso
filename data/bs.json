@@ -565,6 +565,8 @@
 {id:28,name:"ソルジェッターBS",type:"a",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:3}
 
 {id:180,name:"ソルブレンサーBS",type:"l",size:"M",cost:40,hp:25,str:1,tec:1,wlk:1,fly:2}
+{id:20261074,name:"ソルブレンサーBS2",type:"l",size:"M",cost:40,hp:25,str:1,tec:0,wlk:1,fly:2,tgh:1}
+
 {id:136,name:"ソルフロストBS",size:"M",type:"a",cost:35,hp:20,str:-1,wlk:2,fly:3,tgh:1}
 {id:82,name:"ソルボルカノウィングBS",sub:{str:100,pwr:20,shl:0,rng:100,spd:120,itv:1000},cost:60,hp:25,wlk:1,fly:3,tgh:1,comment:["無敵時間無し　アーマー有り　","①ミッション周回報酬「決戦！ボルカニクス」（ソードウィングマスター 15個）ミッションコイン景品（150個）","②sea（夏休みキューブ）"]}
 {id:20220316,name:"ダークレヴナントBS",type:"l",cost:40,hp:25,str:2,tec:-1,fly:3,tgh:1}
