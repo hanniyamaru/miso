@@ -534,7 +534,8 @@
 {id:1203,name:"ゼファーAM",type:"a",size:"M",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1}
 {id:40,name:"ソルジェッターAM",cost:35,hp:20,str:2,fly:2,tgh:1}
 
-{id:177,name:"ソルブレンサーAM",type:"lacs",size:"M",cost:40,hp:25,str:2,tec:-1,wlk:2,tgh:2,joint:{wp:3},comment:"ブレイブアーツ省略"}
+{id:177,name:"ソルブレンサーAM",type:"lacs",size:"M",cost:40,hp:25,str:2,tec:-1,wlk:2,tgh:2,joint:{wp:3},comment:["ブレイブアーツ省略","※コンバージョンを使わない場合、手持ち枠は一箇所のみ使用可能"]}
+{id:202610074,name:"ソルブレンサーAM2",type:"lacs",size:"M",cost:40,hp:25,str:3,tec:-1,wlk:2,fly:-1,tgh:2,joint:{wp:3},comment:["ロイヤルアーツ省略","※コンバージョンを使わない場合、手持ち枠は一箇所のみ使用可能"]}
 {id:147,name:"ソルフロストAM",main:{tec:100,pwr:5,shl:420,rng:275,spd:350,itv:700},tunable:{mwp:1},joint:{am:1},fixedParts:{am:{name:"ソルフロストAM@",size:"M",type:"a",slot:0,joint:{wp:0}}},type:"a",size:"M",cost:75,hp:20,str:-1,tec:3,fly:1,tgh:2,comment:"AM@破損未検証"}
 
 {id:20220316,name:"ダークレヴナントAM",cost:45,hp:20,str:2,tec:-1,wlk:2,tgh:2,slot:0,joint:{wp:3},comment:"部位破壊不能",type:"l"}
