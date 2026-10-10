@@ -461,7 +461,6 @@
 {id:2022041813,name:"フラッシュボマーAM@2",main:{tec:100,pwr:13,shl:390,rng:350,spd:290,itv:440},tunable:{mwp:0},type:"c",size:"L",cost:60,comment:"フラッシュボマーAM専用コンバージョンパーツ",tunable:{mwp:0},slot:0}
 
 
-{id:500,name:"ブレイブアクス",main:{str:100,pwr:20,shl:50,rng:200,spd:570,itv:500},type:"l",size:"M",cost:30,comment:"ソルブレンサーAMにのみ装着可能",slot:0}
 
 
 
