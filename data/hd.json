@@ -478,6 +478,7 @@
 
 {id:262,name:"スカラベスHD",sub:{str:100,pwr:20,shl:0,itv:1000},type:"c",size:"M",cost:60,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2}
 {id:326,name:"スカラベスHD2",size:"M",cost:35,hp:20,str:-1,tec:1,wlk:1,fly:2,tgh:2}
+{id:202610075,name:"スカラベスHD3",main:{tec:100,pwr:11,shl:800,rng:280,spd:480,itv:1000},tunable:{mwp:1},type:"c",size:"M",cost:135,hp:20,str:0,tec:1,wlk:0,fly:3,tgh:1,comment:["確率ブースタートラブル効果","スカラベス・ラー"]}
 
 
 {id:2022113,name:"スキロンHD",cost:35,hp:20,str:1,wlk:1,fly:1,tgh:2}
