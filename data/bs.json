@@ -315,6 +315,8 @@
 
 {id:189,name:"メトラBS2",sub:{pwr:9,shl:180,rng:250,spd:320,itv:1000},cost:65,hp:20,str:-1,tec:2,fly:3,tgh:1,type:"a",size:"S"}
 
+{id:202610076,name:"メトラBS3",main:{tec:100,pwr:14,shl:400,rng:275,spd:520,itv:800},sub:{tec:100,pwr:0,shl:30,rng:100,spd:200,itv:1000},type:"a",size:"S",cost:145,hp:20,str:-1,tec:2,wlk:1,fly:3,tgh:0,comment:["カスタムリンクショット対応","メトラ・フォール"]}
+
 {id:78,name:"メルフィBS",cost:40,hp:25,str:1,tec:2,wlk:-1,fly:3,type:"s"}
 {id:20230406,name:"メルフィBS2",cost:40,hp:25,str:1,tec:1,fly:3,type:"s"}
 
