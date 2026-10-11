@@ -782,6 +782,8 @@
 {id:152,name:"メディージャーHD",cost:35,hp:20,str:2,tec:2,wlk:-1,fly:1,tgh:1}
 {id:205,name:"メトラHD",cost:35,hp:20,tec:2,wlk:2,fly:-1,tgh:2}
 {id:320,name:"メトラHD2",cost:35,hp:20,str:1,tec:1,fly:1,tgh:2,size:"M"}
+{id:202610076,name:"メトラHD3",main:{pwr:7,shl:1100,rng:225,spd:480,itv:100,tec:100},type:"a",tunable:{mwp:1},cost:115,hp:20,str:0,tec:3,wlk:1,fly:-1,tgh:2,comment:["カスタムリンクショット対応　ビームガードダウン効果（低確率）","メトラ・フォール"]}
+
 {id:95,name:"モールニードスHD",cost:40,hp:25,wlk:2,fly:2,tgh:1}
 
 {id:20250827,name:"ユニクルHD",type:"lacs",size:"M",cost:35,hp:20,str:-1,tec:3,wlk:2,tgh:1,comment:["イベント宙域「ディメンション・ピアサー」（星灯キューブ）報酬"]}
