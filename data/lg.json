@@ -174,8 +174,9 @@
 
 {id:78,name:"メトラLG",sub:{pwr:7,shl:600,rng:275,spd:350,itv:1000},tunable:{pwp:0},type:"a",cost:145,hp:25,str:-1,tec:3,wlk:2,fly:2}
 {id:93,name:"メトラLG2",sub:{pwr:12,shl:270,rng:275,spd:350,itv:1000},type:"a",cost:120,hp:25,str:-1,tec:2,wlk:1,fly:2,tgh:2}
-{id:41,name:"モールニードスLG",cost:45,hp:25,str:1,tec:1,wlk:3,fly:-1,tgh:1}
+{id:202610076,name:"メトラLG3",cost:45,hp:25,tec:0,wlk:2,fly:3,tgh:1,comment:["メトラ・フォール"]}
 
+{id:41,name:"モールニードスLG",cost:45,hp:25,str:1,tec:1,wlk:3,fly:-1,tgh:1}
 {id:11,name:"モグニードLG",cost:40,hp:20,tec:1,wlk:3,tgh:1}
 
 {id:82,name:"ヤクシャLG",cost:45,hp:25,tec:2,wlk:2,fly:3,tgh:-1}
