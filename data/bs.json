@@ -502,7 +502,7 @@
 {id:202412046,name:"サイドロンBS2",type:"l",cost:35,hp:20,str:-1,wlk:3,fly:3,comment:["ブレイズ"]}
 
 {id:202208071,name:"サイバーニンBS",type:"l",cost:35,hp:20,str:2,tec:1,wlk:-1,fly:2,tgh:1}
-{id:202609026,name:"サイバーニンBS2",main:{tec:100,pwr:15,shl:320,rng:250,spd:320,itv:700},tunable:{mwp:1},type:"l",size:"M",cost:155,hp:20,str:2,tec:1,wlk:1,tgh:1,comment:["威力はSTRTECの高い方に依存","[サイバーニンS]"]}
+{id:202609026,name:"サイバーニンBS2",main:{tec:100,pwr:15,shl:320,rng:250,spd:320,itv:700},tunable:{mwp:1},type:"l",size:"M",cost:155,hp:20,str:1,tec:1,wlk:1,fly:2,tgh:0,comment:["威力はSTRTECの高い方に依存","[サイバーニンS]"]}
 
 {id:202209094,name:"ジェッツBS",main:{tec:100,pwr:14,shl:480,rng:275,spd:360,itv:400},sub:{tec:100,pwr:8,shl:260,rng:275,spd:360,itv:1000},tunable:{mwp:1,pwp:0},type:"a",size:"M",cost:215,hp:20,str:-1,tec:2,fly:4,comment:["メイン：ビーム爆風70％","FLY依存サブ"]}
 {id:202605075,name:"ジェッツBS2",main:{tec:100,pwr:16,shl:300,rng:275,spd:320,itv:800},sub:{tec:100,pwr:17,shl:120,rng:275,spd:360,itv:1000},tunable:{mwp:1,pwp:0},type:"a",size:"M",cost:145,hp:20,str:0,tec:1,fly:3,tgh:1,comment:["","FLY依存サブ","SKY"]}
@@ -510,7 +510,7 @@
 
 {id:201,name:"ジェネシオンBS",type:"a",size:"M",cost:60,hp:20,wlk:-1,fly:4,tgh:2,sub:{pwr:0,shl:20,rng:0,spd:200,itv:1000}}
 {id:202207072,name:"ジェネシオンBS2",sub:{pwr:1,shl:35,rng:150,spd:120,itv:1000},type:"a",size:"M",cost:65,hp:20,wlk:1,fly:4,comment:["◆1段目：CT6秒 ◆2段目：CT12秒 ◆ブースト回復：40％","◆離陸：斜め ◆飛行：直進+入力方向","ジェネシオンSB"]}
-{id:202609024,name:"ジェネシオンBS3",sub:{tec:100,pwr:24,shl:100,rng:250,spd:500,itv:1000},type:"a",size:"M",cost:135,hp:20,tec:2,fly:3,comment:["","ジェネシオンHB"]}
+{id:202609024,name:"ジェネシオンBS3",sub:{tec:100,pwr:34,shl:100,rng:250,spd:500,itv:1000},type:"a",size:"M",cost:135,hp:20,tec:2,fly:3,comment:["","ジェネシオンHB"]}
 
 
 
