@@ -271,7 +271,7 @@
 {id:2026100722,name:"ベルグチェーンソー",sub:{str:100,pwr:35,rng:77,spd:150,itv:1000},tunable:{mwp:0,pwp:1},auraStat:{sub:{pwr:40,shl:3}},type:"l",size:"L",cost:160,comment:["TGH減衰無視","ギガンベルグAM専用コンバージョンパーツ"]}
 
 {group:"キリカコンバージョン",prefixID:"MOx",commonStat:{tunable:{pwp:1}},nextID:17}
-{id:112,name:"チェーンブレード",main:{tec:100,shl:50,spd:10,itv:1000},sub:{str:100,pwr:32,rng:77,spd:102,itv:500},tunable:{mwp:1,pwp:1},cost:130,comment:"キリカ専用コンバージョンパーツ"}
+{id:112,name:"チェーンブレード",main:{tec:100,shl:50,spd:10,itv:1000},sub:{str:100,pwr:33,rng:77,spd:102,itv:500},tunable:{mwp:1,pwp:1},cost:130,comment:"キリカ専用コンバージョンパーツ"}
 {id:113,name:"チェーンブレードの鞘",main:{tec:100,shl:-1,spd:150,itv:1000},sub:{str:100,pwr:32,shl:0,rng:120,spd:250,itv:1000},tunable:{pwp:0,mwp:0},cost:60,slot:0,comment:"キリカ専用コンバージョンパーツ"}
 
 {group:"クルール・グラッドコンバージョン",prefixID:"MOx",commonStat:{tunable:{pwp:1}},nextID:17}
@@ -297,8 +297,8 @@
 {id:82,name:"鏑の弓",main:{str:100,pwr:10,shl:120,rng:200,spd:570,itv:400},sub:{str:100,pwr:24,rng:150,spd:85,itv:2000},cost:70,type:"l",size:"S",comment:["エンジェルコイン景品（15個）","獄卒の勾玉専用コンバージョンパーツ"]}
 
 {group:"サニーコンバージョン",prefixID:"MOx",commonStat:{tunable:{pwp:1}},nextID:17}
-{id:116,name:"キャプテンアンカー",main:{str:100,pwr:20,shl:50,rng:200,spd:400,itv:500},sub:{str:100,pwr:28,rng:0,spd:0,itv:1000},joint:{wp:1},type:"l",size:"S",comment:"キャプテンサニー専用コンバージョンパーツ",slot:0,cost:110}
-{id:117,name:"キャプテンアンカー@",main:{tec:100,shl:50,spd:10,itv:1000},sub:{str:100,pwr:30,rng:70,spd:85,itv:500},tunable:{mwp:1,pwp:1},cost:120,type:"l",size:"S",comment:"キャプテンアンカーにのみ接続可能"}
+{id:116,name:"キャプテンアンカー",main:{str:100,pwr:20,shl:50,rng:200,spd:400,itv:500},sub:{str:100,pwr:34,rng:0,spd:0,itv:1000},joint:{wp:1},type:"l",size:"S",comment:"キャプテンサニー専用コンバージョンパーツ",slot:0,cost:110}
+{id:117,name:"キャプテンアンカー@",main:{tec:100,shl:50,spd:10,itv:1000},sub:{str:100,pwr:32,rng:70,spd:85,itv:500},tunable:{mwp:1,pwp:1},cost:120,type:"l",size:"S",comment:"キャプテンアンカーにのみ接続可能"}
 
 {group:"シルフィーⅡコンバージョン",prefixID:"MOx",commonStat:{tunable:{mwp:1}},nextID:17}
 {id:20240425,name:"アイムール",main:{str:100,shl:50,rng:200,spd:570,itv:500},sub:{str:100,pwr:34,rng:77,spd:94,itv:1000},tunable:{mwp:1,pwp:1},type:"l",size:"S",cost:80,comment:["ヤグルシの対","シルフィーⅡAM2専用コンバージョンパーツ"]}
