@@ -959,7 +959,7 @@
 {group:"ＬＬサイズ",prefixID:"LL",commonStat:{size:"LL"},nextID:6}
 {id:202303092,name:"ジョストガンダーHD",type:"l",size:"LL",cost:85,hp:20,str:2,tec:-1,wlk:2,fly:1,tgh:1,sub:{str:100,pwr:25,shl:30,rng:150,spd:350,itv:1000},tunable:{pwp:0},comment:["サブロック",""]}
 {id:202503053,name:"ジョストガンダーHD2",cost:35,hp:20,str:1,tec:0,wlk:1,tgh:3,comment:["ボイル"]}
-{id:202606033,name:"ジョストガンダーHD3",main:{str:100,pwr:37,shl:50,rng:250,spd:270,itv:1000},cost:65,hp:20,str:1,tec:-1,wlk:2,fly:1,tgh:2,type:"l",size:"LL",tunable:{mwp:1},comment:["全弾発射不可","ボルト"]}
+{id:202606033,name:"ジョストガンダーHD3",main:{str:100,pwr:40,shl:50,rng:250,spd:270,itv:1000},cost:65,hp:20,str:1,tec:-1,wlk:2,fly:1,tgh:2,type:"l",size:"LL",tunable:{mwp:1},comment:["全弾発射不可","ボルト"]}
 
 
 {group:"ジョイント",prefixID:"J",commonStat:{jointPart:1},nextID:4}
