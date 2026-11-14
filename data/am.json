@@ -223,6 +223,7 @@
 {id:202606036,name:"ペレーナAM2",type:"s",size:"S",cost:105,hp:20,str:0,tec:1,wlk:1,fly:1,tgh:2,main:{tec:100,pwr:14,shl:240,rng:300,spd:400,itv:400},sub:{tec:100,pwr:0,shl:80,rng:300,spd:300,itv:500},tunable:{mwp:1},comment:["メイン：確率チャージディレイ効果","サブ：回復量60？","[ペレーナ可憐]"]}
 
 {id:33,name:"ポーンジャーAM",cost:35,hp:20,str:1,tec:1,wlk:1,tgh:2}
+{id:20211117,name:"ポーンジャーAM2",type:"lacs",size:"S",cost:35,hp:20,str:-1,tec:2,wlk:2,fly:0,tgh:2,comment:"ブリッツポーンジャー"}
 {id:178,name:"ポーンジャーAM3",type:"lacs",size:"S",cost:35,hp:20,str:1,tec:-1,wlk:1,fly:2,tgh:2,comment:"B・ポーンジャーAr"}
 {id:202211034,name:"ポォウルAM",size:"S",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1}
 
