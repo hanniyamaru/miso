@@ -753,6 +753,8 @@
 {id:1,name:"アクイーアAM",cost:35,hp:20,str:2,tec:1,fly:1,tgh:1}
 {id:66,name:"アクイーア・エアーズAM",cost:35,hp:20,tec:2,wlk:-1,fly:2,tgh:2,size:"L",comment:["ロボガラポン"]}
 {id:202409041,name:"アグニザインAM",main:{tec:100,pwr:30,shl:260,rng:330,spd:440,itv:700},tunable:{mwp:1},cost:105,hp:20,str:-1,tec:3,wlk:2,fly:1,size:"L",type:"c",comment:["AM@省略","強化Lv2以上：+1.1倍ダメージ"]}
+{id:202611182,name:"アグニザインAM2",main:{tec:100,pwr:8,shl:1200,rng:330,spd:400,itv:200},tunable:{mwp:1},cost:115,hp:20,str:0,tec:3,wlk:0,fly:1,tgh:1,size:"L",type:"c",comment:["AM2@省略","強化Lv2以上：+1.1倍ダメージ","BURN"]}
+
 
 {id:202301122,name:"アストロトルーパーAM",size:"L",cost:65,hp:20,str:1,tec:1,wlk:2,tgh:1,comment:"シールド耐久値80"}
 {id:2023011221,name:"アストロトルーパーAM2",type:"l",size:"L",cost:155,hp:20,str:-1,tec:3,wlk:2,tgh:1,main:{tec:100,pwr:20,shl:480,rng:250,spd:300,itv:400},joint:{wp:0},tunable:{mwp:1},comment:["シールド耐久値80","※一斉射撃不可"]}
