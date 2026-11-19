@@ -3,13 +3,12 @@
 
 {group:"陸　近日更新",prefixID:"LS",commonStat:{size:"S",type:"l"},nextID:35}
 
+{id:202611181,name:"シヴァトリスBD2",main:{tec:100,pwr:0,shl:15,spd:10,rng:10,itv:200},builtin:{lg:1,bs:1},joint:{wp:2},cartridge:{hpup:14,lv1:"4*5@20|61*2@30|7@20|9@20|10@15|17@15|18@15|20@15|23@25|27@10|13@30|21@20|34@15|31@40|32@50"},fixedParts:{hd:{name:"シヴァトリスHD",type:"lc",size:"M",cost:40,hp:25,tec:2,wlk:1,tgh:2},lg:{joint:{lg:1},fixedParts:{lg:{name:"シヴァトリスLG@",type:"lc",size:"M"}},name:"シヴァトリスLG",type:"lc",size:"M",cost:45,hp:25,tec:1,wlk:3,fly:1,tgh:1},am:[{name:"シヴァトリスAM",type:"lc",size:"M",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1},{name:"ギガンブレイカーⅡ",sub:{tec:100,pwr:28,shl:0,rng:77,spd:85,itv:1000},tunable:{pwp:1},type:"l",size:"M",cost:220,hp:25,str:-1,tec:5,wlk:-1,fly:-1,tgh:3,slot:0,joint:{wp:0},comment:[""]}],wp:[{name:"ギガンインベーダーⅡ",main:{tec:100,pwr:18,shl:240,rng:250,spd:300,itv:200},tunable:{mwp:1},type:"l",size:"M",cost:40,comment:["確率シェルガードダウン効果"]},{name:"ギガンステークⅡ",sub:{tec:100,pwr:32,shl:20,rng:150,spd:350,itv:500},tunable:{pwp:0,mwp:0},type:"l",size:"M",cost:50,comment:"バインド効果"}]},type:"l",size:"M",cost:465,capa:920,hp:255,str:4,tec:15,wlk:11,fly:9,tgh:9,comment:["","内蔵強化値不明","[シヴァトリスIF]"],wbid:999}
 {id:202610072,name:"ギガンベルグBD2",main:{str:100,pwr:7,shl:100,rng:200,spd:300,itv:500},sub:{tec:100,pwr:0,shl:0,rng:200,spd:150,itv:1000},joint:{wp:1},cartridge:{hpup:10,lv1:"75*6@20|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|16@20|29@15|15@15|13@30|32@50|31@40"},fixedParts:{hd:{joint:{hd:1,hdac:0,fcac:0},name:"ギガンベルグHDJ",slot:1},wp:{name:"ギガンベルグBD2@",sub:{spd:150,itv:1000},slot:0}},type:"l",size:"L",cost:580,capa:945,hp:305,str:16,tec:3,wlk:9,fly:6,tgh:15,wbid:999,auraSystem:1,comment:["WB：グラディエーター+ソードアタック",""]}
 {id:202610074,name:"ソルブレンサーBD2",main:{tec:100,pwr:[0],shl:48,rng:0,spd:10,itv:1000},cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|29@15|21@20|16@20|13@30|32@50|31@40"},cost:465,capa:870,hp:255,str:13,tec:6,wlk:14,fly:6,tgh:9,comment:["[ロイヤルソルブレンサー]"]}
 
 
-{id:202609026,name:"サイバーニンBD2",cost:405,capa:800,hp:245,str:12,tec:6,wlk:12,fly:7,tgh:8,cartridge:{hpup:18,lv1:"85*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|15@15|21@20|12@20|13@30|32@50|31@40"},comment:"サイバーニンS"}
 
-{id:202609023,name:"アルフガイズBD",main:{tec:100,pwr:[11,13,16],shl:[960,1080,1200],rng:225,spd:480,itv:180},type:"l",size:"M",cost:525,capa:870,hp:255,str:6,tec:10,wlk:14,fly:9,tgh:9,cartridge:{hpup:10,lv1:"75*5@20|60*2@30|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|25@25|26@20|13@30|32@50|31@40"},comment:["","反発効果"]}
 
 
 
@@ -324,6 +323,7 @@
 
 {id:54,name:"アクシオンBD",cost:520,capa:945,hp:270,str:7,tec:12,wlk:13,fly:10,tgh:9,sub:{shl:[60],rng:[100],spd:[150],itv:500},wbid:0,cartridge:{hpup:10,lv1:"75*6@20|7@20|9@20|10@15|17@15|18@15|20@15||23@25|22@30|21@20",lv6:"26@20|13@30",lv9:"50@30|32@50|31@40"},comment:"①SHOP：40Rt"}
 {id:21,name:"アサルトオックスM2BD",joint:{hd:0,hdac:2,fcac:1},cartridge:{hpup:14,lv1:"4*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|16@20|26@20|12@20|13@30|32@50|31@40"},fixedParts:{hdac:["S1"]},type:"l",size:"M",cost:480,capa:870,hp:275,str:9,tec:9,wlk:15,fly:7,tgh:13,comment:["HD内蔵",""]}
+{id:202609023,name:"アルフガイズBD",main:{tec:100,pwr:[11,13,16],shl:[960,1080,1200],rng:225,spd:480,itv:180},type:"l",size:"M",cost:525,capa:870,hp:255,str:6,tec:10,wlk:14,fly:9,tgh:9,cartridge:{hpup:10,lv1:"75*5@20|60*2@30|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|25@25|26@20|13@30|32@50|31@40"},comment:["","反発効果"]}
 
 {id:20240208,name:"イクスクレアBD",sub:{shl:60,rng:150,spd:200,itv:1000},cartridge:{hpup:10,lv1:"75*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|15@15|21@20|27@10|13@30|32@50|31@40"},type:"l",size:"M",wbid:999,cost:520,capa:945,hp:270,str:14,tec:5,wlk:16,fly:8,tgh:8,comment:["専用WB：「Exceed-Mode」対応武器装備時のみ強化効果（左右それぞれ1つまで）","メイン系：スピードアップ+シェルアタック","サブ系：グラディエーター（ブレードはライト）+ソードアタック","イクスクレアガラポン"]}
 {id:202408221,name:"イクスクレアBD3",main:{shl:50,rng:0,spd:10,itv:1000},cartridge:{hpup:10,lv1:"75*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|15@15|13@30|86@15|72@30|34@15|32@50|31@40"},type:"l",size:"M",wbid:999,cost:510,capa:945,hp:270,str:16,tec:5,wlk:13,fly:7,tgh:10,comment:["専用WB：Exceed-Mode　対応武器装備時のみ強化バフ","","エリクスソード・ブレード：タフネスブレイカー+ソードアタック","イクスクレアガラポンⅡ"]}
@@ -359,6 +359,7 @@
 {id:17,name:"サイドロンBD",main:{tec:100,pwr:[7,8,10],shl:[1800],rng:[120,140,160],spd:[440,480,520],itv:140},cartridge:{hpup:18,lv1:"85*5@20|61*2@30|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|30@20|71@30|13@30|32@50|31@40"},cost:455,capa:800,hp:245,str:6,tec:12,wlk:12,fly:7,tgh:8,comment:["減衰率：60％　カスタムリンクショット対応","①ロボキューブ　②ブレイズ（ガラポン）"]}
 {id:45,name:"サイドロンBD2",main:{tec:100,pwr:[12,13,15],shl:[780],rng:[225,250,275],spd:[440,480,520],itv:[480]},cartridge:{hpup:18,lv1:"85*5@20|61*2@30|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|25@25|71@30|13@30|32@50|31@40"},cost:505,capa:800,hp:245,str:6,tec:14,wlk:10,fly:6,tgh:9,comment:["自軍貫通　格闘減衰無し　カスタムリンクショット対応","サキュラ"]}
 {id:202208071,name:"サイバーニンBD",cost:405,capa:800,hp:245,str:11,tec:5,wlk:13,fly:7,tgh:9,cartridge:{hpup:18,lv1:"85*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|15@15|21@20|12@20|13@30|32@50|31@40"},comment:""}
+{id:202609026,name:"サイバーニンBD2",cost:405,capa:800,hp:245,str:12,tec:6,wlk:12,fly:7,tgh:8,cartridge:{hpup:18,lv1:"85*6@20|7@20|9@20|10@15|17@15|18@15||20@15|23@25|22@30|15@15|21@20|12@20|13@30|32@50|31@40"},comment:"サイバーニンS"}
 
 {id:20,name:"シノーリスBD",main:{pwr:[14],shl:[580],rng:225,spd:440,itv:600},type:"l",size:"M",cost:590,capa:980,hp:270,str:5,tec:11,wlk:14,fly:6,tgh:7,cartridge:{hpup:10,lv1:"75*5@20|60*2@30|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|25@25|26@20|13@30|32@50|31@40"},comment:["BD@省略cost+100複合","SHOP：40Rt","内蔵強化値不明"]}
 {id:43,name:"シノーリスBD2",main:{pwr:[9,10,11],shl:[480],rng:[250,275,300],spd:320,itv:300},type:"l",size:"M",cost:590,capa:980,hp:270,str:5,tec:10,wlk:16,fly:6,tgh:6,cartridge:{hpup:10,lv1:"75*5@20|60*2@30|7@20|9@20|10@15|17@15|18@15|20@15|23@25|22@30|25@25|26@20|13@30|32@50|31@40"},comment:["BD@省略cost+100複合"]}
