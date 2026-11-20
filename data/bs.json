@@ -893,7 +893,9 @@
 {id:202609022,name:"ディガイアスBS",type:"l",size:"L",cost:35,hp:20,str:2,tec:-1,wlk:1,fly:2,tgh:1}
 
 
-{id:1204,name:"ティタロテスBS",type:"c",cost:70,hp:15,str:-1,tec:2,fly:2,tgh:1,tunable:{mwp:1},main:{pwr:14,shl:260,rng:330,spd:240,itv:1400},tunable:{mwp:1},comment:["爆風90％？","速度減チューン（低）：曲がる高度が下がる（正面に撃ち出す）","速度減チューン（高）：曲がらなくなる","速度増チューン：曲がらなくなる"]}
+{id:1204,name:"ティタロテスBS",type:"c",cost:70,hp:15,str:-1,tec:2,fly:2,tgh:1,tunable:{mwp:1},main:{tec:100,pwr:14,shl:260,rng:330,spd:240,itv:1400},tunable:{mwp:1},comment:["爆風90％？","速度減チューン（低）：曲がる高度が下がる（正面に撃ち出す）","速度減チューン（高）：曲がらなくなる","速度増チューン：曲がらなくなる"]}
+{id:202611184,name:"ティタロテスBS2",type:"c",cost:80,hp:15,str:-1,tec:2,wlk:1,fly:2,tgh:0,tunable:{mwp:1},main:{tec:100,pwr:10,shl:420,rng:330,spd:280,itv:600},tunable:{mwp:1},comment:["バリカダ"]}
+
 {id:72,name:"ディランアーカムBS",type:"a",cost:40,hp:25,tec:1,wlk:-1,fly:3,tgh:2}
 
 {id:15,name:"デストラクトBS",type:"c",cost:40,hp:25,tec:1,wlk:1,fly:2,tgh:1}
