@@ -887,8 +887,8 @@
 {id:5,name:"シノ･イクスロードLG3",type:"l",cost:225,hp:55,str:2,tec:-1,wlk:3,tgh:2,sub:{str:100,pwr:32,rng:77,spd:94,itv:1000},tunable:{pwp:1},joint:{bs:1},comment:["ヒットストップ無し","スタン無効無視","BS接続可能"]}
 {id:20231212,name:"スライプロスLG",sub:{str:100,pwr:30,shl:0,rng:90,spd:120,itv:1000},tunable:{pwp:1},size:"LL",type:"l",cost:185,hp:45,str:2,tec:-1,wlk:4,fly:2,tgh:-1,comment:["WLK依存サブ","雪まつりオーダー景品"]}
 {id:83,name:"タイタンコイルLG",cost:50,hp:60,tec:2,wlk:3,fly:2,tgh:-1}
-{id:1204,name:"ティタロテスLG",type:"c",cost:105,hp:70,str:-1,tec:2,wlk:2,tgh:3,sub:{pwr:8,shl:400,rng:350,spd:350,itv:1000}}
-
+{id:1204,name:"ティタロテスLG",type:"c",cost:105,hp:70,str:-1,tec:2,wlk:2,tgh:3,sub:{tec:100,pwr:8,shl:400,rng:350,spd:350,itv:1000}}
+{id:202611184,name:"ティタロテスLG2",type:"c",cost:75,hp:70,str:-1,tec:2,wlk:1,fly:1,tgh:3,sub:{tec:100,pwr:26,shl:110,rng:350,spd:520,itv:1000},comment:["バリカダ"]}
 
 {id:202407035,name:"ビッグマンテスTriLG",sub:{pwr:0,shl:150,rng:0,spd:100,itv:1000},type:"a",size:"LL",cost:80,hp:70,str:-1,tec:1,wlk:2,fly:2,tgh:2,comment:[""]}
 {id:202508065,name:"ビッグマンテスLG3",sub:{pwr:0,shl:20,rng:0,spd:100,itv:1000},type:"a",size:"LL",cost:100,hp:70,str:-1,tec:1,wlk:1,fly:2,tgh:3,comment:["飛行ゲージ全回復（弾数消費時）　短時間バリア（弾数0でも発動）","フォートレス装着時バリア性能アップ","※CT中はプロテクション効果を受けない","ULT"]}
