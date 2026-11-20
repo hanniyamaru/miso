@@ -159,7 +159,7 @@
 
 {id:9,name:"シャドウハンターBS",type:"l",size:"S",cost:115,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,sub:{tec:100,pwr:26,shl:180,rng:250,spd:320,itv:1000},comment:["貫通弾","サブロック系パーツのみコンボ可能"]}
 {id:202311015,name:"シャドウハンターBS3",main:{tec:100,pwr:13,shl:450,rng:250,spd:320,itv:240},tunable:{mwp:1},size:"S",type:"l",cost:135,hp:20,str:-1,tec:3,wlk:1,fly:2,comment:["誘導・地這い・自軍貫通","扇"]}
-{id:202405081,name:"シャドウハンターBS4",sub:{str:100,pwr:30,shl:0,rng:10,spd:120,itv:1000},tunable:{pwp:1},size:"S",type:"l",cost:85,hp:20,str:2,tec:-1,wlk:1,fly:3,comment:["WLK依存サブ　使用中レーダーに非表示","","無"]}
+{id:202405081,name:"シャドウハンターBS4",sub:{str:100,pwr:30,shl:0,rng:10,spd:120,itv:1000},tunable:{pwp:1},size:"S",type:"l",cost:85,hp:20,str:2,tec:-1,wlk:1,fly:3,comment:["WLK依存サブ","","無"]}
 
 {id:2022203,name:"シャドウフロウBS",type:"l",size:"S",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1}
 {id:70,name:"シャドウマスターBS",type:"l",cost:35,hp:20,str:1,tec:-1,wlk:1,fly:3,tgh:1}
@@ -208,6 +208,7 @@
 
 {id:24,name:"ディカロスBS",type:"a",cost:40,hp:25,tec:1,fly:4}
 {id:202603046,name:"ディカロスBS2",sub:{tec:100,pwr:10,shl:320,rng:275,spd:360,itv:1000},cost:95,hp:25,str:0,tec:1,fly:3,tgh:1,type:"a",size:"S",comment:["命中時飛行ゲージ回復","ケリノ"]}
+{id:202611183,name:"テオドラBS",sub:{str:100,pwr:28,shl:50,rng:100,spd:240,itv:1000},tunable:{pwp:0},size:"S",type:"a",cost:80,hp:25,str:1,tec:0,wlk:0,fly:3,tgh:1,comment:["ディライブ有り","",""]}
 
 {id:40,name:"テントリオンBS",size:"S",cost:35,hp:20,tec:1,wlk:-1,fly:3,tgh:2}
 {id:202406063,name:"テントリオンBS2",sub:{tec:100,pwr:0,shl:50,rng:0,spd:200,itv:1000},cost:55,hp:20,str:-1,fly:4,tgh:2,type:"a",size:"S",comment:["飛行ゲージ回復　サブによる移動無し","テントリオン・バグ"]}
