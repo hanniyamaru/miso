@@ -110,7 +110,7 @@
 {id:89,name:"シャドウマスターAM",cost:35,hp:20,tec:1,wlk:3,tgh:1}
 
 {id:148,name:"スイフトAM",type:"lacs",size:"S",cost:35,hp:20,tec:2,wlk:-1,fly:2,tgh:2}
-{id:202611185,name:"スイフトAM2",main:{tec:100,pwr:6,shl:440,rng:275,spd:350,itv:740},type:"a",size:"S",cost:75,hp:20,str:0,tec:3,wlk:-1,fly:2,tgh:1,tunable:{mwp:1},comment:["HIT時、付近の敵へ伝播？"]}
+{id:202611185,name:"スイフトAM2",main:{tec:100,pwr:6,shl:440,rng:275,spd:350,itv:740},type:"a",size:"S",cost:75,hp:20,str:0,tec:3,wlk:-1,fly:2,tgh:1,tunable:{mwp:1},comment:["HIT時、付近の敵へ伝播？","SW"]}
 
 {id:22306151,name:"スタッギートAM",type:"lacs",size:"S",cost:35,hp:20,tec:2,fly:2,tgh:1}
 {id:20230803,name:"スティルドAM",main:{tec:100,pwr:29,shl:100,rng:300,spd:300,itv:300},tunable:{mwp:1},size:"S",type:"c",cost:95,hp:20,str:-1,tec:4,tgh:2,comment:["",""]}
