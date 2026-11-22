@@ -168,6 +168,8 @@
 
 
 {id:180,name:"スイフトBS2",tunable:{mwp:0,pwp:0},type:"a",size:"S",cost:85,hp:20,str:-1,tec:3,fly:3,sub:{tec:100,pwr:22,shl:90,rng:275,spd:300,itv:1000}}
+{id:202611185,name:"スイフトBS3",main:{tec:100,pwr:4,shl:720,rng:275,spd:280,itv:400},sub:{tec:100,pwr:0,shl:30,rng:0,spd:200,itv:1000},tunable:{mwp:1,pwp:0},size:"S",type:"a",cost:95,hp:20,str:0,tec:2,fly:3,tgh:0,comment:["メイン：飛行ゲージ回復効果","サブ：飛行ゲージ回復（50％）　コンボ可能？","SW"]}
+
 {id:45,name:"スクイドルガールαBS",type:"s",cost:40,hp:25,str:2,tec:1,wlk:-1,fly:3}
 
 {id:22306151,name:"スタッギートBS",type:"a",size:"S",cost:35,hp:20,tec:1,wlk:1,fly:3}
